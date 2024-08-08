@@ -3,9 +3,38 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://ravanabackup.github.io/songrss/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCD5AVlVWt4nAikVPY5jorpg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvOUtcz7gP8f_5pb7VBHjWQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC1H_22jpB9YKzrCGdRKIHZA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCE3rz9NH0bmlKGKkVylHQKA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCC85L1ZTp5eY-bhd7QBfmgw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC0XeNwQYuuLBimgQUr24sKA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UClE-TPA5ccYSdCybdKJXa7w
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCoRF8GByEjmM_yHwUGIDGyQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCixq0A3KnHgtVJQen5-2vYA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCdYn0MxeGNvwiiYabspWumg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCAD8x8K7FPX0MSgGU0JRUuA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCjX6XaM9EEfdH2gh90QZ8pQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqow9MwWxJyKZfWbZ-JFI7Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCWvaLC8KYp0tfRPvMK5Lobg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCQnCVVUN-9ylqNYeAU7kONA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnYTfYX0N_2vNY-m3J6OOog
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbcpqs2vCCn-6J-OhhA1dnw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXQ1x1oyK0ArXXjoJYEmu4A
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCPH_NDrLe5nTnSrEtXoRHpg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC1Z1-ER2nUjr66DGTEq9oMA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC3xXyPhpXFVctN02xJTyh_g
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UChRi1dpwnsZcIo1LSwzY0Iw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCTNtRdBAiZtHP9w7JinzfUg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC9AifK4X8HU47bac_Sy5JDw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCl6e6pJXg-Ua9u3gEZqJAxg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7wr_pLs8KVXkkXWZxHLR0A
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvANYBOSmq2IasMM-djF-cQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7oE54x62E7AIO5GkdnLTSQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCPe9lMwPO86En1jDMdbZaCA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCq6f9bBWaWTHl0FhH167RgA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCFc-JC4j1T_UElhCoVbv7IQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7HxL02mm_QSBvrykXTzMew
