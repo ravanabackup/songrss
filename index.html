@@ -425,7 +425,7 @@
 
         async function fetchLastUpdatedTime() {
             try {
-                const response = await fetch('https://raw.githubusercontent.com/ravana69/songs/gh-pages/feed.atom');
+                const response = await fetch('https://rawgithubusercontent.deno.dev/ravanabackup/songrss/gh-pages/feed.atom');
                 const text = await response.text();
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(text, "text/xml");
