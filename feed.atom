@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T06:39:31.716Z</updated>
+    <updated>2024-08-09T07:23:14.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puthumazhayayi Pozhiyam | പുതുമഴയായ് പൊഴിയാം | Mudra | M G Sreekumar | Mammootty | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=9LwndKXH2i8</id>
+        <link href="https://www.youtube.com/watch?v=9LwndKXH2i8"/>
+        <updated>2024-08-09T07:11:23.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്തരോ മഹാ #devadoothansongs #mohanlalhits #malayalam #malayalamsongstatus]]></title>
+        <id>https://www.youtube.com/watch?v=OljFeDQ23zw</id>
+        <link href="https://www.youtube.com/watch?v=OljFeDQ23zw"/>
+        <updated>2024-08-09T07:00:13.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pahadi Paadu | Chakkaramuthu | Video | K J Yesudas | K S Chithra | M Jayachandran| Dileep|Lohithadas]]></title>
         <id>https://www.youtube.com/watch?v=hNkJqILnDmE</id>
