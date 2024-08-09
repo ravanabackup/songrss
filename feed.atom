@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T07:23:14.545Z</updated>
+    <updated>2024-08-09T08:33:15.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mele Va | Pandu Pandoru Rajakumari | ONV Kurup | Shyam | MG Sreekumar | G Venugopal | Preetha Kannan]]></title>
+        <id>https://www.youtube.com/watch?v=NYqhFp8b5LY</id>
+        <link href="https://www.youtube.com/watch?v=NYqhFp8b5LY"/>
+        <updated>2024-08-09T07:30:07.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദിവസവും ഉന്മേഷത്തോടെ ജീവിക്കാൻ സഹായിക്കുന്ന മലയാള സിനിമയിലെ ഉണർവേകും ഗാനങ്ങൾ | Evergreen Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=6BHnGlrqQk4</id>
+        <link href="https://www.youtube.com/watch?v=6BHnGlrqQk4"/>
+        <updated>2024-08-09T07:30:02.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kapil Kapilan's melodious vocals for #NeelaNilave #RDX #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Lt1xmgpDJV8</id>
+        <link href="https://www.youtube.com/watch?v=Lt1xmgpDJV8"/>
+        <updated>2024-08-09T07:28:27.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Puthumazhayayi Pozhiyam | പുതുമഴയായ് പൊഴിയാം | Mudra | M G Sreekumar | Mammootty | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=9LwndKXH2i8</id>
