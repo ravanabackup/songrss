@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-10T04:35:42.154Z</updated>
+    <updated>2024-08-10T05:28:27.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannanayal Radha Venam Video Song | Pattanathil Sundaran| Dileep | Navya Nair| KJ Yesudas| Rimi Tomy]]></title>
+        <id>https://www.youtube.com/watch?v=ipJbdNYjThg</id>
+        <link href="https://www.youtube.com/watch?v=ipJbdNYjThg"/>
+        <updated>2024-08-10T05:27:00.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മരിയേ അമല മനോജ്ഞെ #superhitchristiandevotionalsongmalayalam  #mothermarysong #christianalbumsong]]></title>
+        <id>https://www.youtube.com/watch?v=lBIHvZQP-8s</id>
+        <link href="https://www.youtube.com/watch?v=lBIHvZQP-8s"/>
+        <updated>2024-08-10T05:12:16.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prem Nazir Romantic Old Superhit Movie Song l Mindapennu Movie | Sheela, Sharada, Sukumari]]></title>
         <id>https://www.youtube.com/watch?v=UaIGGxNMZIY</id>
