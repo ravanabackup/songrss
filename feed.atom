@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-11T16:32:56.838Z</updated>
+    <updated>2024-08-11T17:28:18.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എന്നിലെ സർവ്വവും നിനക്കു നൽകാം, നിൻ്റെ സ്നേഹം മാത്രം മതിയെനിക്ക്]]></title>
+        <id>https://www.youtube.com/watch?v=j1PgHfcX8OU</id>
+        <link href="https://www.youtube.com/watch?v=j1PgHfcX8OU"/>
+        <updated>2024-08-11T17:13:24.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലർശരമേറ്റ മോഹമാണു ഞാൻ.... Nostalgic songs malayalam #manjuwarrier #dileep]]></title>
         <id>https://www.youtube.com/watch?v=aAgpRuHe5OY</id>
