@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T06:37:57.235Z</updated>
+    <updated>2024-08-14T07:22:22.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Koodashayay | Christian Video Song | Sebu George | Joby Kavalam | Holy Communion Song | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=6Y4_ueH2mU4</id>
+        <link href="https://www.youtube.com/watch?v=6Y4_ueH2mU4"/>
+        <updated>2024-08-14T07:14:53.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എൻജീവനെ എങ്ങാണു നീ #devadoothansongs #devadoothan #love #malayalamsongstatus]]></title>
+        <id>https://www.youtube.com/watch?v=KR3b5u148Bc</id>
+        <link href="https://www.youtube.com/watch?v=KR3b5u148Bc"/>
+        <updated>2024-08-14T07:00:18.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karakaanaa Kadalala Mele | കരകാണാക്കടലലമേലേ |  Naadodikkaattu Movie Song | Mohanlal | Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=3Nh9LfyRJIg</id>
+        <link href="https://www.youtube.com/watch?v=3Nh9LfyRJIg"/>
+        <updated>2024-08-14T06:52:34.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കുയിലേ നിൻ കുറുംകുഴലിൽ  kuyile Nin | Ambili Devi | Prithviraj | KJ Yesudas | Sujatha Mohan #love]]></title>
+        <id>https://www.youtube.com/watch?v=BK2Umdarcjc</id>
+        <link href="https://www.youtube.com/watch?v=BK2Umdarcjc"/>
+        <updated>2024-08-14T06:46:31.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=x0svRiIett8</id>
