@@ -1,5 +1,4 @@
 name: Build site on schedule or main branch update
-
 on:
   push:
     branches:
@@ -7,13 +6,10 @@ on:
   schedule:
     # Run every 30 minutes
     - cron: "*/30 * * * *"
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Debug current time
-        run: echo "Current time: $(date)"
       - uses: actions/checkout@v2
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.1.4
