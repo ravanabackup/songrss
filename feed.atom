@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T02:19:08.082Z</updated>
+    <updated>2024-08-15T02:47:49.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Patriotic Songs - Independence Day Special | Bharatha Mennal]]></title>
+        <id>https://www.youtube.com/watch?v=AzryRhhVhXo</id>
+        <link href="https://www.youtube.com/watch?v=AzryRhhVhXo"/>
+        <updated>2024-08-15T02:30:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 15 Special Christian Devotional Mother Mary songs # Assumption of Our Lady Songs]]></title>
         <id>https://www.youtube.com/watch?v=pawoKB9SMNo</id>
