@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T23:49:43.162Z</updated>
+    <updated>2024-08-15T02:19:08.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[August 15 Special Christian Devotional Mother Mary songs # Assumption of Our Lady Songs]]></title>
+        <id>https://www.youtube.com/watch?v=pawoKB9SMNo</id>
+        <link href="https://www.youtube.com/watch?v=pawoKB9SMNo"/>
+        <updated>2024-08-15T00:30:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ പ്രിയപ്പെട്ട ഗായകരുടെ ഗാനങ്ങൾ | Christian Songs | Madhu Balakrishnan | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=AhylUEEbZ58</id>
+        <link href="https://www.youtube.com/watch?v=AhylUEEbZ58"/>
+        <updated>2024-08-15T00:30:06.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu       #biblequotes #mathavu]]></title>
         <id>https://www.youtube.com/watch?v=hlZlY9cPFGc</id>
@@ -6043,15 +6061,6 @@
         <updated>2024-07-17T04:00:45.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivam Thanna Sneham Chundil Thookum Mathave | Mother Mary Song |Christian Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=LAKw_LExkU8</id>
-        <link href="https://www.youtube.com/watch?v=LAKw_LExkU8"/>
-        <updated>2024-07-16T12:15:58.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
