@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T10:36:12.950Z</updated>
+    <updated>2024-08-15T11:20:30.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കാണുന്ന കാഴ്ചയെല്ലാം | Super Hit Christian Devotional Songs | Kester Hits | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=SBVf6d_wq30</id>
+        <link href="https://www.youtube.com/watch?v=SBVf6d_wq30"/>
+        <updated>2024-08-15T10:51:47.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poove Poove Song #love #malayalamsongstatus #devadoothansongs #devadoothan]]></title>
         <id>https://www.youtube.com/watch?v=632wMcb1cGA</id>
