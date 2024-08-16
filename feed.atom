@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-16T09:38:29.956Z</updated>
+    <updated>2024-08-16T10:33:44.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ennenikken | Elizabeth Raju #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Rnf7Qq4mTAk</id>
+        <link href="https://www.youtube.com/watch?v=Rnf7Qq4mTAk"/>
+        <updated>2024-08-16T10:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paraspara...#christiandevotionalsongsmalayalam #bestmalayalamchristiandevotionalsongs #chithraun]]></title>
+        <id>https://www.youtube.com/watch?v=8lcXdGyfXrU</id>
+        <link href="https://www.youtube.com/watch?v=8lcXdGyfXrU"/>
+        <updated>2024-08-16T10:03:51.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #vnagel #worshipsongs #mariakolady #malayalamchristiancoversongs #music #song]]></title>
+        <id>https://www.youtube.com/watch?v=MWXkf8KjZv4</id>
+        <link href="https://www.youtube.com/watch?v=MWXkf8KjZv4"/>
+        <updated>2024-08-16T10:00:47.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസിനും ശരീരത്തിനും സുഖദായകമാം മലയാളസിനിമയിലെ ഇമ്പമാർന്ന ഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
         <id>https://www.youtube.com/watch?v=eEo9_ycv51I</id>
@@ -1642,6 +1669,15 @@
         <updated>2024-08-12T06:30:31.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnooyal Aadi Vaa | SECRET | Lyrical Video | Santhosh Varma | Jakes Bejoy | Haritha Balakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=GoK1ThhC1Mk</id>
+        <link href="https://www.youtube.com/watch?v=GoK1ThhC1Mk"/>
+        <updated>2024-08-12T05:34:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
