@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T07:32:30.621Z</updated>
+    <updated>2024-08-17T08:29:47.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wishing the ever-so-charming #gourigkishan a very happy birthday! #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=PHB4srddHJo</id>
+        <link href="https://www.youtube.com/watch?v=PHB4srddHJo"/>
+        <updated>2024-08-17T07:51:16.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചിങ്ങമാസം ഉത്സവമാസമാക്കി മാറ്റും മലയാളസിനിമയിലെ മലയാളത്തനിമ നിറഞ്ഞ ഗാനങ്ങൾ | MALAYALAM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=Drq_1EdABVs</id>
+        <link href="https://www.youtube.com/watch?v=Drq_1EdABVs"/>
+        <updated>2024-08-17T07:30:05.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹൃദയസ്പർശിയായ മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് മെലഡി ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=CLK4kAS0fxI</id>
