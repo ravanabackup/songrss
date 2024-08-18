@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T12:55:24.377Z</updated>
+    <updated>2024-08-18T13:25:30.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyam Parayum|Mazha|Samyuktha Varma|Biju Menon| #mazha #samyukthavarma]]></title>
+        <id>https://www.youtube.com/watch?v=aqQQuTOKj3k</id>
+        <link href="https://www.youtube.com/watch?v=aqQQuTOKj3k"/>
+        <updated>2024-08-18T13:09:49.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #worshipsongs #music #song]]></title>
+        <id>https://www.youtube.com/watch?v=zU2TPHpffwI</id>
+        <link href="https://www.youtube.com/watch?v=zU2TPHpffwI"/>
+        <updated>2024-08-18T13:04:54.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varoo Varoo - Audio Song | Pookkaalam | Zeba Tommy | Sachin Warrier | Vinayak Sasikumar | Ganesh Raj]]></title>
         <id>https://www.youtube.com/watch?v=X08AtGacsZo</id>
