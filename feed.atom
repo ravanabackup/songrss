@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T10:31:12.687Z</updated>
+    <updated>2024-08-18T11:17:28.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13,6 +13,15 @@
         <updated>2024-08-18T10:30:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithra Nal Rakshaka Yeshuve | Sujatha #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=5XemyC5CpTU</id>
+        <link href="https://www.youtube.com/watch?v=5XemyC5CpTU"/>
+        <updated>2024-08-18T10:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
