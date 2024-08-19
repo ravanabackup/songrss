@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T05:38:46.318Z</updated>
+    <updated>2024-08-19T06:39:36.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അങ്കനമാര്‍ മൗലി മണിതിങ്കളാസ്സ്യേ ചാരുശീലേനാഗവല്ലി മനോന്മണി | Manichithrathazhu | Shobana #love]]></title>
+        <id>https://www.youtube.com/watch?v=wZ4u_wcLNhQ</id>
+        <link href="https://www.youtube.com/watch?v=wZ4u_wcLNhQ"/>
+        <updated>2024-08-19T06:00:32.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാറ്റില്‍ ചാഞ്ചാടും ദീപത്തിന്‍ നാളം | Vanampadi Padum Polen Ullam | #christiandevotinalsong]]></title>
+        <id>https://www.youtube.com/watch?v=KOJqkJE15Pw</id>
+        <link href="https://www.youtube.com/watch?v=KOJqkJE15Pw"/>
+        <updated>2024-08-19T05:48:21.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Naadhan Eesho | Malayalam Christian Songs | Non Stop Worship Songs | Old Convention Songs]]></title>
+        <id>https://www.youtube.com/watch?v=4HeLiWLzAJ4</id>
+        <link href="https://www.youtube.com/watch?v=4HeLiWLzAJ4"/>
+        <updated>2024-08-19T05:36:32.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over The Ocean | Video Song | Kolaambi | Mary Ann Alexander | Ramesh Narayanan | Nithya Menon]]></title>
+        <id>https://www.youtube.com/watch?v=oMslJIeb8tE</id>
+        <link href="https://www.youtube.com/watch?v=oMslJIeb8tE"/>
+        <updated>2024-08-19T05:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരുമുറൈ വന്തു പാര്‍ത്തായാ | Manichithrathazhu | Shobana | KS Chithra #love]]></title>
+        <id>https://www.youtube.com/watch?v=1fuL5iOlvRc</id>
+        <link href="https://www.youtube.com/watch?v=1fuL5iOlvRc"/>
+        <updated>2024-08-19T05:30:00.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പഴംതമിഴ് പാട്ടിഴയും ശ്രുതിയില്‍ Pazham Thamizh Pattizhayum| Manichitrathazhu | Mohanlal | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=nFY0f4icoMo</id>
