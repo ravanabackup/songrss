@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-20T02:27:18.545Z</updated>
+    <updated>2024-08-20T02:54:11.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാണിക്യ കല്ലിൽ മൂക്കുത്തി ചാർത്തും.💃🕺 Manikya Kallin | Pokkiri Raja | Prithviraj | Swetha Menon]]></title>
+        <id>https://www.youtube.com/watch?v=kyIjVq80gQA</id>
+        <link href="https://www.youtube.com/watch?v=kyIjVq80gQA"/>
+        <updated>2024-08-20T02:30:24.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pullankuzhalin Nadhampole | Christian Melody Song | Alvina Mary | Holy Communion Song | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=vjUMJ9y27xU</id>
