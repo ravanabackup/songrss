@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T23:38:16.961Z</updated>
+    <updated>2024-08-20T02:27:18.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pullankuzhalin Nadhampole | Christian Melody Song | Alvina Mary | Holy Communion Song | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=vjUMJ9y27xU</id>
+        <link href="https://www.youtube.com/watch?v=vjUMJ9y27xU"/>
+        <updated>2024-08-20T00:30:26.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 20th of August 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 20th of August 2024]]></title>
+        <id>https://www.youtube.com/watch?v=zNc7cECEvqE</id>
+        <link href="https://www.youtube.com/watch?v=zNc7cECEvqE"/>
+        <updated>2024-08-20T00:30:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu  #biblequotes #shorts]]></title>
         <id>https://www.youtube.com/watch?v=vWF7LA7kjEE</id>
@@ -7600,24 +7618,6 @@
         <updated>2024-07-22T06:36:22.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒന്നാം കുന്നിൽ ഓടിയെത്തി ഒരായിരം വലം വെക്കാം 💃 | Onnamkunnil odiyethi | Rasikan | Dileep | Samvrutha]]></title>
-        <id>https://www.youtube.com/watch?v=HZovmFOZR0M</id>
-        <link href="https://www.youtube.com/watch?v=HZovmFOZR0M"/>
-        <updated>2024-07-21T13:30:08.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayannar Kannan|Kaikudanna Nilavu|Jayaram|Shalini|Dileep|]]></title>
-        <id>https://www.youtube.com/watch?v=b29ZEHzmcEE</id>
-        <link href="https://www.youtube.com/watch?v=b29ZEHzmcEE"/>
-        <updated>2024-07-21T12:11:55.000Z</updated>
-        <author>
-            <name>Raaga music</name>
         </author>
     </entry>
 </feed>
