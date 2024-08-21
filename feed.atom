@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T17:35:21.894Z</updated>
+    <updated>2024-08-21T18:36:36.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -8167,33 +8167,6 @@
         <updated>2024-07-23T12:30:26.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kochukatha Aarum Parayatha Katha (1984) | Full Audio Songs Jukebox | AT Ummer | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=eklXaYKxQz0</id>
-        <link href="https://www.youtube.com/watch?v=eklXaYKxQz0"/>
-        <updated>2024-07-23T06:30:15.000Z</updated>
-        <author>
-            <name>satyamjukebox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormakal Oodi Kalikkuvan | Mukundetta Sumithra Vilikkunnu Movie Song | Mohanlal |  M.G Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=O0CwG7vHrVA</id>
-        <link href="https://www.youtube.com/watch?v=O0CwG7vHrVA"/>
-        <updated>2024-07-23T06:19:31.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Savitri Romantic Old Movie Song | Chuzhi | Bahadur, Sujatha | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=qnIyfNzO4Pg</id>
-        <link href="https://www.youtube.com/watch?v=qnIyfNzO4Pg"/>
-        <updated>2024-07-23T05:53:59.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
