@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T13:31:44.139Z</updated>
+    <updated>2024-08-21T14:32:01.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["കട്ടപ്പാടത്തെ മാന്ത്രികൻ" സിനിമയിലെ ആദ്യ Lyrical Video പുറത്തിറങ്ങി  #shorts #movie #romanticmusic]]></title>
+        <id>https://www.youtube.com/watch?v=S3TSScmM42U</id>
+        <link href="https://www.youtube.com/watch?v=S3TSScmM42U"/>
+        <updated>2024-08-21T14:00:33.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chanthu Thottile | Banaras (2009) | Gireesh Puthenchery | M Jayachandran | Shreya Ghoshal | Kavya]]></title>
         <id>https://www.youtube.com/watch?v=VXG1fTzj2G8</id>
