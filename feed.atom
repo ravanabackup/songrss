@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T20:27:38.191Z</updated>
+    <updated>2024-08-22T21:27:31.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -8437,15 +8437,6 @@
         <updated>2024-07-24T11:30:06.000Z</updated>
         <author>
             <name>GOODWILL ENTERTAINMENTS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളമണ്ണിൻ മാസ്മരിക ഗന്ധമൂറും മലയാളസിനിമകളിലെ മനം കൊതിക്കും ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=QT5TEsIEesU</id>
-        <link href="https://www.youtube.com/watch?v=QT5TEsIEesU"/>
-        <updated>2024-07-24T09:02:43.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
