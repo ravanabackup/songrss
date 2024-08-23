@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T04:32:34.987Z</updated>
+    <updated>2024-08-23T05:29:45.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manorathangal on Zee5 | Mohanlal | Mammotty | Fahad Faasil]]></title>
+        <id>https://www.youtube.com/watch?v=lRYTbw_k_sI</id>
+        <link href="https://www.youtube.com/watch?v=lRYTbw_k_sI"/>
+        <updated>2024-08-23T05:29:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അയാൾ സംഗീതത്തിന്റെ രാജാവാണ് | Entharo Mahanu Bhavulu | Devadoothan | Vidyasagar | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=BAuK-F0uSo8</id>
+        <link href="https://www.youtube.com/watch?v=BAuK-F0uSo8"/>
+        <updated>2024-08-23T05:15:30.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhu Romantic Superhit Song | Mazhakkaaru |  Kanakadurga, Roja Ramani]]></title>
+        <id>https://www.youtube.com/watch?v=v1ztW_GY7zY</id>
+        <link href="https://www.youtube.com/watch?v=v1ztW_GY7zY"/>
+        <updated>2024-08-23T05:07:18.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Step into the beat, lose yourself in the groove. 🎶✨ #Nunakkuzhi #basiljoseph #graceantony #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=ppZSm_xPI3w</id>
@@ -13,6 +40,15 @@
         <updated>2024-08-23T04:30:30.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chingapulari | Onam Song| Sathkala Vijayan |Festival Song| #onam #onamspecial #onamsongs #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=d4YKnDT2UNU</id>
+        <link href="https://www.youtube.com/watch?v=d4YKnDT2UNU"/>
+        <updated>2024-08-23T04:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
