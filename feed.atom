@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T05:29:45.992Z</updated>
+    <updated>2024-08-23T06:17:15.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maaya Kondu | Chathur Mukham  | Swetha Mohan | Manju Warrier | Sunny Wayne | Jiss Toms Movies]]></title>
+        <id>https://www.youtube.com/watch?v=joikVHkuuAE</id>
+        <link href="https://www.youtube.com/watch?v=joikVHkuuAE"/>
+        <updated>2024-08-23T05:30:17.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manorathangal on Zee5 | Mohanlal | Mammotty | Fahad Faasil]]></title>
         <id>https://www.youtube.com/watch?v=lRYTbw_k_sI</id>
