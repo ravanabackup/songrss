@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T03:29:41.523Z</updated>
+    <updated>2024-08-23T04:32:34.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Step into the beat, lose yourself in the groove. 🎶✨ #Nunakkuzhi #basiljoseph #graceantony #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=ppZSm_xPI3w</id>
+        <link href="https://www.youtube.com/watch?v=ppZSm_xPI3w"/>
+        <updated>2024-08-23T04:30:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramanennum Porali |Achanoru Vazha Vechu | Campus Film Songs #shortsfeed #shorts #shortsvideo #campus]]></title>
+        <id>https://www.youtube.com/watch?v=K3x4KLFiHBk</id>
+        <link href="https://www.youtube.com/watch?v=K3x4KLFiHBk"/>
+        <updated>2024-08-23T03:30:09.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy levels: through the roof! 🚀🔥 #Nunakkuzhi #basiljoseph #graceantony #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=1lY8y6QnY5I</id>
+        <link href="https://www.youtube.com/watch?v=1lY8y6QnY5I"/>
+        <updated>2024-08-23T03:30:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Daivam | Shorts #miraculousmelodies]]></title>
         <id>https://www.youtube.com/watch?v=Utmt6CCcgEw</id>
@@ -8428,15 +8455,6 @@
         <updated>2024-07-25T01:30:07.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചെന്നായ് വരുന്നതു കാണുന്ന നേരം ഓടി പോകില്ല നല്ലിടയൻ]]></title>
-        <id>https://www.youtube.com/watch?v=iLMwtKhzuWc</id>
-        <link href="https://www.youtube.com/watch?v=iLMwtKhzuWc"/>
-        <updated>2024-07-24T15:35:49.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
