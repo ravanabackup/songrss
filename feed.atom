@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T13:28:45.437Z</updated>
+    <updated>2024-08-23T14:31:53.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaaveri Theerathe | Kaikudanna Nilavu | Dileep | Shalini | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=fQXDQj4rufw</id>
+        <link href="https://www.youtube.com/watch?v=fQXDQj4rufw"/>
+        <updated>2024-08-23T14:30:25.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omanapuzha | Chaanthupottu | Vidyasagar | Vayalar Sarathchandra Varma | #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=FZ2lLUUBUkI</id>
+        <link href="https://www.youtube.com/watch?v=FZ2lLUUBUkI"/>
+        <updated>2024-08-23T14:30:08.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | KG Markose | Kester | Christian Superhit Songs | Joji Johns | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=vrq9SOAOaqQ</id>
+        <link href="https://www.youtube.com/watch?v=vrq9SOAOaqQ"/>
+        <updated>2024-08-23T13:30:35.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23 August 2024]]></title>
+        <id>https://www.youtube.com/watch?v=e3szVliyaZY</id>
+        <link href="https://www.youtube.com/watch?v=e3szVliyaZY"/>
+        <updated>2024-08-23T13:29:59.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Irulil Oru Kaithiri Video Song | Spanish Masala | Dileep | Udit Narayan | Vidyasagar | Karthik]]></title>
         <id>https://www.youtube.com/watch?v=XQ_UZ7UGacc</id>
@@ -8671,15 +8707,6 @@
         <updated>2024-07-25T04:30:16.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathil Aro Mozhinju | Aviyal #shorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=fnJmpXpGZ3k</id>
-        <link href="https://www.youtube.com/watch?v=fnJmpXpGZ3k"/>
-        <updated>2024-07-25T01:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
