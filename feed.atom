@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-23T02:28:52.641Z</updated>
+    <updated>2024-08-23T03:29:41.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -8437,15 +8437,6 @@
         <updated>2024-07-24T15:35:49.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ushamalarikal Video Song | Ashwaradham | S Janaki | Malayalam Songs | Old Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=PH7H0lSWEp0</id>
-        <link href="https://www.youtube.com/watch?v=PH7H0lSWEp0"/>
-        <updated>2024-07-24T14:30:09.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
