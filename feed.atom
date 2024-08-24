@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-24T09:26:19.806Z</updated>
+    <updated>2024-08-24T10:30:13.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -34,6 +34,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tharavadi Atrocity - Bharathanatyam Promo Song | Shabareesh Varma | Aju Varghese | Samuel Aby | TTF]]></title>
+        <id>https://www.youtube.com/watch?v=Dw56N48gZU4</id>
+        <link href="https://www.youtube.com/watch?v=Dw56N48gZU4"/>
+        <updated>2024-08-24T07:41:29.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ഒത്തിരി നല്ല ഗാനങ്ങൾ പുറത്തിറങ്ങിയ തൊണ്ണൂറുകളിലെ ഏറ്റവും ഇഷ്ടമുള്ള ഗാനങ്ങൾ  | Evergreen Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=3V9GYSaXwz4</id>
         <link href="https://www.youtube.com/watch?v=3V9GYSaXwz4"/>
@@ -49,6 +58,15 @@
         <updated>2024-08-24T07:25:31.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharavadi Atrocity Promo | Bharathanatyam | Shabareesh Varma | Aju Varghese | Samuel Aby | TTF]]></title>
+        <id>https://www.youtube.com/watch?v=PAfeRKe-OPY</id>
+        <link href="https://www.youtube.com/watch?v=PAfeRKe-OPY"/>
+        <updated>2024-08-24T07:11:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
