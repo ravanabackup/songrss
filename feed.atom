@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-24T08:29:51.558Z</updated>
+    <updated>2024-08-24T09:26:19.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[യോർദ്ദാൻ നദിക്കരയിൽ |  ഈശോയുടെ മനോഹരഗാനങ്ങൾ | Super Hit Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=JEyFGznV5vE</id>
+        <link href="https://www.youtube.com/watch?v=JEyFGznV5vE"/>
+        <updated>2024-08-24T09:11:40.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manorathangal on Zee5 | Mohanlal | Mammotty | Fahad Faasil | Asif Ali Watch Now]]></title>
+        <id>https://www.youtube.com/watch?v=Skc6VfuZnO0</id>
+        <link href="https://www.youtube.com/watch?v=Skc6VfuZnO0"/>
+        <updated>2024-08-24T08:30:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Super Songs | Vidyasagar | Gireesh Puthanchery |  KJ Yesudas | KS Chithra | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=OGOqlpybkqc</id>
+        <link href="https://www.youtube.com/watch?v=OGOqlpybkqc"/>
+        <updated>2024-08-24T08:30:11.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒത്തിരി നല്ല ഗാനങ്ങൾ പുറത്തിറങ്ങിയ തൊണ്ണൂറുകളിലെ ഏറ്റവും ഇഷ്ടമുള്ള ഗാനങ്ങൾ  | Evergreen Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=3V9GYSaXwz4</id>
@@ -13,6 +40,15 @@
         <updated>2024-08-24T07:30:01.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangala Deepavumay Malayalam Song | Kaikudanna Nilavu Movie Song | Jayaram | Dileep | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=Q1MzVLW8VDA</id>
+        <link href="https://www.youtube.com/watch?v=Q1MzVLW8VDA"/>
+        <updated>2024-08-24T07:25:31.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
