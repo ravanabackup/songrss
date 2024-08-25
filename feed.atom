@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-25T05:31:34.516Z</updated>
+    <updated>2024-08-25T06:35:21.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bad Boyz 🔥 Teaser Out Now #shorts #dhyansrinivasan #rahman #omarlulu]]></title>
+        <id>https://www.youtube.com/watch?v=eLgTlz2V0I8</id>
+        <link href="https://www.youtube.com/watch?v=eLgTlz2V0I8"/>
+        <updated>2024-08-25T06:03:53.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kondal - Official Teaser | Antony Varghese Pepe, Raj B Shetty | Ajit Mampally | Sam CS]]></title>
         <id>https://www.youtube.com/watch?v=33VDM43XeyU</id>
@@ -670,6 +679,15 @@
         <updated>2024-08-23T06:09:19.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alivakumen -Official Video Song | Prathibha Tutorials | Sudheesh, Johny Antony,Arathy Nair | Kailas]]></title>
+        <id>https://www.youtube.com/watch?v=Dy3z1PEl66I</id>
+        <link href="https://www.youtube.com/watch?v=Dy3z1PEl66I"/>
+        <updated>2024-08-23T05:46:35.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
