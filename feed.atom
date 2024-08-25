@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-25T09:25:42.399Z</updated>
+    <updated>2024-08-25T10:31:26.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kattile Kannan | Animation Video #kattilekannan #animation #malayalamcartoon #shorts #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=tcW415kKTJc</id>
+        <link href="https://www.youtube.com/watch?v=tcW415kKTJc"/>
+        <updated>2024-08-25T10:30:29.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിങ്ങൾ ആവശ്യപ്പെട്ട ചലച്ചിത്രഗാനങ്ങൾ | Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=ypmFbs2OpBI</id>
@@ -56,6 +65,15 @@
         <id>https://www.youtube.com/watch?v=jhfVLL6bTe0</id>
         <link href="https://www.youtube.com/watch?v=jhfVLL6bTe0"/>
         <updated>2024-08-25T05:06:03.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kattappadathe Manthrikan Official Trailer | Faisal Hussain | Vinod Kovoor | Sumith | Neema | Shivaji]]></title>
+        <id>https://www.youtube.com/watch?v=WPr4fBPC29s</id>
+        <link href="https://www.youtube.com/watch?v=WPr4fBPC29s"/>
+        <updated>2024-08-25T04:35:47.000Z</updated>
         <author>
             <name>123Musix</name>
         </author>
