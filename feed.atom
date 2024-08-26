@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T02:29:51.939Z</updated>
+    <updated>2024-08-26T03:32:38.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onamaay Onamaay | Onam Songs #madhubalakrishnan #onamsong #onam #shortsfeed #shorts #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=YAFYsR-KoeA</id>
+        <link href="https://www.youtube.com/watch?v=YAFYsR-KoeA"/>
+        <updated>2024-08-26T03:30:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krishna Janmashtami Special Jukebox (Malayalam) | Sandrananda | Guruvayoorambalanadayil]]></title>
+        <id>https://www.youtube.com/watch?v=JadvZNr478Y</id>
+        <link href="https://www.youtube.com/watch?v=JadvZNr478Y"/>
+        <updated>2024-08-26T02:30:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaanthaneshu | Shorts | Anna Baby  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=aZ6g-DUZX9U</id>
@@ -8986,15 +9004,6 @@
         <updated>2024-07-28T04:00:07.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Viral Neetti | Pranayavarnangal | Vidyasagar | KJ Yesudas #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=EqX5Cyekfjg</id>
-        <link href="https://www.youtube.com/watch?v=EqX5Cyekfjg"/>
-        <updated>2024-07-27T14:30:12.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
