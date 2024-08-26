@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T06:39:35.082Z</updated>
+    <updated>2024-08-26T07:23:05.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sneha Swaroopanam Nadha Song | Priyam #kunjackoboban #love #shortsongs #priyammovie]]></title>
+        <id>https://www.youtube.com/watch?v=l_jGL0Fo6ec</id>
+        <link href="https://www.youtube.com/watch?v=l_jGL0Fo6ec"/>
+        <updated>2024-08-26T07:00:25.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunnimani Kannazhaki Song | Priyam #kunjackoboban #love #shortsongs #priyammovie]]></title>
+        <id>https://www.youtube.com/watch?v=JVqPkhr4MBs</id>
+        <link href="https://www.youtube.com/watch?v=JVqPkhr4MBs"/>
+        <updated>2024-08-26T07:00:11.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaponmane Video Song | Thalayanamanthram | Urvashi | Sreenivasan | KS Chithra | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=fuBj8-pei1A</id>
+        <link href="https://www.youtube.com/watch?v=fuBj8-pei1A"/>
+        <updated>2024-08-26T06:39:39.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരിക്കൽ നീ ചിരിച്ചാൽ | Orikkal Nee Chirichal | Appu Evergreen Malayalam Movie Song | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=qtKIqfCtiKQ</id>
