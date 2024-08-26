@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T15:27:16.537Z</updated>
+    <updated>2024-08-26T16:39:32.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -9193,24 +9193,6 @@
         <updated>2024-07-28T06:00:19.000Z</updated>
         <author>
             <name>satyamjukebox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neram Poy | Promo Song #jakesbejoy #rishikumar #shortsfeed #shorts #dancevideo #latestmalayalammovie]]></title>
-        <id>https://www.youtube.com/watch?v=Supe4w6KGWI</id>
-        <link href="https://www.youtube.com/watch?v=Supe4w6KGWI"/>
-        <updated>2024-07-28T04:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheela Romantic Old Movie Song | Thettu | Sathyan, KP Ummer | Malayalam SongSong]]></title>
-        <id>https://www.youtube.com/watch?v=D_ZudtHhKl4</id>
-        <link href="https://www.youtube.com/watch?v=D_ZudtHhKl4"/>
-        <updated>2024-07-28T04:00:07.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
