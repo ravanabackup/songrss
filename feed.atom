@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T07:23:05.690Z</updated>
+    <updated>2024-08-26T08:35:51.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇരുളിൽ ഒരു കൈത്തിരി | Spanish Masala | Dileep | Daniela Zachari| Udit Narayan | Vidyasagar | Karthik]]></title>
+        <id>https://www.youtube.com/watch?v=EE7wd4xP-q8</id>
+        <link href="https://www.youtube.com/watch?v=EE7wd4xP-q8"/>
+        <updated>2024-08-26T07:50:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിനെ ശാന്തമായി നിലനിർത്തുന്ന മലയാളസിനിമയിലെ സുന്ദരമെലഡി ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=mGBC4ME-ky8</id>
+        <link href="https://www.youtube.com/watch?v=mGBC4ME-ky8"/>
+        <updated>2024-08-26T07:38:42.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muttathe Mulle Chollu | Mayavi (2007) | Alex Paul | KJ Yesudas | Manjari | Mammootty | Gopika]]></title>
+        <id>https://www.youtube.com/watch?v=RifyxES0clo</id>
+        <link href="https://www.youtube.com/watch?v=RifyxES0clo"/>
+        <updated>2024-08-26T07:30:13.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sneha Swaroopanam Nadha Song | Priyam #kunjackoboban #love #shortsongs #priyammovie]]></title>
         <id>https://www.youtube.com/watch?v=l_jGL0Fo6ec</id>
