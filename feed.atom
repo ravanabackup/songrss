@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T20:28:07.461Z</updated>
+    <updated>2024-08-26T21:23:50.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -9166,24 +9166,6 @@
         <updated>2024-07-28T12:15:01.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuvan Shankar Raja First Malayalam Single Video song #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=P-OjIplyocc</id>
-        <link href="https://www.youtube.com/watch?v=P-OjIplyocc"/>
-        <updated>2024-07-28T09:16:06.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porattu Naadakam Official Teaser Out Now #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=9INlpc3OJ8s</id>
-        <link href="https://www.youtube.com/watch?v=9INlpc3OJ8s"/>
-        <updated>2024-07-28T09:12:08.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
