@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-26T23:25:49.591Z</updated>
+    <updated>2024-08-27T02:30:40.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fr. Joseph Puthenpurackal | Motivational Talks #frjosephputhenpurackal #shorts #puthenpurackalachan]]></title>
+        <id>https://www.youtube.com/watch?v=VmhxFKZFVxE</id>
+        <link href="https://www.youtube.com/watch?v=VmhxFKZFVxE"/>
+        <updated>2024-08-27T01:30:14.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nin Snehathanalil | Christian Devotional Songs Malayalam | Sudeep Kumar | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=KjAJpMbZz-Q</id>
+        <link href="https://www.youtube.com/watch?v=KjAJpMbZz-Q"/>
+        <updated>2024-08-27T00:30:10.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 27th of August 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 27th of August 2024]]></title>
+        <id>https://www.youtube.com/watch?v=GY3VAVw6QBw</id>
+        <link href="https://www.youtube.com/watch?v=GY3VAVw6QBw"/>
+        <updated>2024-08-27T00:30:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |   @JinoKunnumpurathu   #biblequotes #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=s1KP4ZPDpVg</id>
+        <link href="https://www.youtube.com/watch?v=s1KP4ZPDpVg"/>
+        <updated>2024-08-26T23:30:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=Qhj2wsxtJhk</id>
@@ -9139,42 +9175,6 @@
         <updated>2024-07-28T14:39:46.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Othiri Othiri Swapnangal  | Pranayavarnangal | Vidyasagar | KS Chithra #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=rOwW3PoD0WU</id>
-        <link href="https://www.youtube.com/watch?v=rOwW3PoD0WU"/>
-        <updated>2024-07-28T14:30:27.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koottil Ninnum Mettil|Thaalavattam|Karthika|Mohanlal| #thalavattam]]></title>
-        <id>https://www.youtube.com/watch?v=rEvmyz1o09g</id>
-        <link href="https://www.youtube.com/watch?v=rEvmyz1o09g"/>
-        <updated>2024-07-28T13:59:42.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിന് നിന്റെ ഇരുൾമൂടിയ അവസ്ഥയെ മാറ്റിമറിക്കുവാൻ സാധിക്കും 😇 | Rev. Aneesh P Joseph | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=IWzlfpeCAJQ</id>
-        <link href="https://www.youtube.com/watch?v=IWzlfpeCAJQ"/>
-        <updated>2024-07-28T12:30:20.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maarivillin Chirakode Video Song | Cheppu | KJ Yesudas #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=OGzGtB4xYB4</id>
-        <link href="https://www.youtube.com/watch?v=OGzGtB4xYB4"/>
-        <updated>2024-07-28T12:15:01.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
 </feed>
