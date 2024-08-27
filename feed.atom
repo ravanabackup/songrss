@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T04:36:17.771Z</updated>
+    <updated>2024-08-27T05:30:10.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -9175,15 +9175,6 @@
         <updated>2024-07-29T04:00:13.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കഴിഞ്ഞതെല്ലാം മറക്കാൻ....]]></title>
-        <id>https://www.youtube.com/watch?v=gWif7wQxfys</id>
-        <link href="https://www.youtube.com/watch?v=gWif7wQxfys"/>
-        <updated>2024-07-28T17:06:18.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
