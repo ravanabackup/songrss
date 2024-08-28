@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T18:37:09.623Z</updated>
+    <updated>2024-08-28T19:22:27.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 29th August 2024]]></title>
+        <id>https://www.youtube.com/watch?v=9rDqlLzhcPc</id>
+        <link href="https://www.youtube.com/watch?v=9rDqlLzhcPc"/>
+        <updated>2024-08-28T19:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JERSON ANTONY HITS - VOL .1 CHRISTIAN DEVOTIONAL SONGS OWN MEDIA MUSIC COLLECTION]]></title>
         <id>https://www.youtube.com/watch?v=QWVSpPO5_gA</id>
@@ -9598,15 +9607,6 @@
         <updated>2024-07-30T07:32:19.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Poove Palapoove Song #devadoothansongs  #mohanlalhits #malayalam #malayalamsongstatus]]></title>
-        <id>https://www.youtube.com/watch?v=JNISX04Z92k</id>
-        <link href="https://www.youtube.com/watch?v=JNISX04Z92k"/>
-        <updated>2024-07-30T06:53:30.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
