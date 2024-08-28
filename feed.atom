@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-28T22:30:22.636Z</updated>
+    <updated>2024-08-28T23:26:08.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=mfJ-hFeIfPU</id>
+        <link href="https://www.youtube.com/watch?v=mfJ-hFeIfPU"/>
+        <updated>2024-08-28T23:00:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 29 # Athiravile Prarthana 29th of August 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=aTSLNwAr-4U</id>
@@ -9562,24 +9571,6 @@
         <updated>2024-07-30T12:15:07.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരളേ നിൻ കൈ പിടിച്ചാൽ #devadoothan #vidyasagar #ytshortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=dA0-Xk_r9JU</id>
-        <link href="https://www.youtube.com/watch?v=dA0-Xk_r9JU"/>
-        <updated>2024-07-30T11:10:29.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മയ്യഴിപ്പുഴയൊഴുകീ തൃക്കാൽചിലമ്പു കിലുങ്ങീ #mammootty #shorts #trending]]></title>
-        <id>https://www.youtube.com/watch?v=0luIL0LurOw</id>
-        <link href="https://www.youtube.com/watch?v=0luIL0LurOw"/>
-        <updated>2024-07-30T10:52:52.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
