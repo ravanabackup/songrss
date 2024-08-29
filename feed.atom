@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T13:31:39.059Z</updated>
+    <updated>2024-08-29T14:32:50.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Murai Vanthu Paarthaaya - Manichithrathaazhu | M G Radhakrishnan, Chithra, Yesudas #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=RvOG2inkDto</id>
+        <link href="https://www.youtube.com/watch?v=RvOG2inkDto"/>
+        <updated>2024-08-29T14:30:09.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Melody Songs | Kester | Wilson Piravom | Christain Devotional Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=GHxa6jZ41vE</id>
@@ -2155,6 +2164,15 @@
         <updated>2024-08-23T05:15:30.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ | Christian Song | Pr. P. P. Mathew | Ancil K. Jacob | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=An4-qlr9-Fc</id>
+        <link href="https://www.youtube.com/watch?v=An4-qlr9-Fc"/>
+        <updated>2024-08-23T05:12:20.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
