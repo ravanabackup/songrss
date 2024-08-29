@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T19:20:44.924Z</updated>
+    <updated>2024-08-29T20:27:30.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 30 # Athiravile Prarthana 30th of August 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yeyP3xGv3DI</id>
+        <link href="https://www.youtube.com/watch?v=yeyP3xGv3DI"/>
+        <updated>2024-08-29T20:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 30th August 2024]]></title>
         <id>https://www.youtube.com/watch?v=QxnTIyAPMWs</id>
@@ -3091,6 +3100,15 @@
         <updated>2024-08-20T12:30:43.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vennilave Lyrical + Karaoke | Sagar Alias Jacky | Riya Joy | Mohanlal | Shreya Ghoshal | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jDoUfUfx-3I</id>
+        <link href="https://www.youtube.com/watch?v=jDoUfUfx-3I"/>
+        <updated>2024-08-20T12:30:26.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -9697,51 +9715,6 @@
         <updated>2024-07-31T08:51:44.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു കുഞ്ഞുപൂവിന്റെ ഇതളില്‍ | Oru Kunju Poovinte | Kavya Madhavan| Biju Menon| KJ Yesudas| Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=ZnPpDNQZaT8</id>
-        <link href="https://www.youtube.com/watch?v=ZnPpDNQZaT8"/>
-        <updated>2024-07-31T08:15:14.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kunju Poovinte Video Song | Chandranudikkunna Dikkil | Kavya |Biju Menon| KJ Yesudas| Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=PLRRYRPaVv8</id>
-        <link href="https://www.youtube.com/watch?v=PLRRYRPaVv8"/>
-        <updated>2024-07-31T07:58:46.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadhanariyathe | Super Hit Christian Devotional Songs | Album Songs of Jesus | Audio Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5qYs8iMcxEY</id>
-        <link href="https://www.youtube.com/watch?v=5qYs8iMcxEY"/>
-        <updated>2024-07-31T07:48:28.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manichettan Superhit Romantic Song | മണിച്ചേട്ടന്റെ കിടിലൻ പ്രണയഗാനങ്ങൾ #kalabhavanmani]]></title>
-        <id>https://www.youtube.com/watch?v=ug-Sfv7y0uo</id>
-        <link href="https://www.youtube.com/watch?v=ug-Sfv7y0uo"/>
-        <updated>2024-07-31T07:31:17.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നും എപ്പോഴും മലയാളികൾ കേൾക്കാൻ കൊതിക്കുന്ന നിത്യഹരിത ഗാനങ്ങൾ  | EVERGREEN MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=OPVSELRZDTA</id>
-        <link href="https://www.youtube.com/watch?v=OPVSELRZDTA"/>
-        <updated>2024-07-31T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
