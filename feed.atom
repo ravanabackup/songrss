@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T10:35:25.986Z</updated>
+    <updated>2024-08-29T11:22:00.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പൂവേ പൂവേ പാലപ്പൂവേ🕺💃😍 Poove Poove | Devadoothan | Mohanlal | KS Chithra| P Jayachandran| Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=C0QS5TPzsl4</id>
+        <link href="https://www.youtube.com/watch?v=C0QS5TPzsl4"/>
+        <updated>2024-08-29T10:38:54.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pookkuda | Shorts #onam #onamcelebration]]></title>
         <id>https://www.youtube.com/watch?v=oebfNXR6Kxw</id>
@@ -76,6 +85,15 @@
         <updated>2024-08-29T06:44:13.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannuneer Mari Vedhanakal | Judith Ann | KN Mathew Peressery | Malayalam Christian Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=bvP95LufLuY</id>
+        <link href="https://www.youtube.com/watch?v=bvP95LufLuY"/>
+        <updated>2024-08-29T06:29:41.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
