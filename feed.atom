@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T04:33:53.149Z</updated>
+    <updated>2024-08-29T05:31:13.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannum Kannum | Camel Safari | Video Song | Anjali Jeyaram | Kaithapram |  Deepankuran | Jayaraj]]></title>
+        <id>https://www.youtube.com/watch?v=ETKTgaZgEuI</id>
+        <link href="https://www.youtube.com/watch?v=ETKTgaZgEuI"/>
+        <updated>2024-08-29T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Devotional Superhit Song | Sree Guruvayoorappan | Prem Nawas, Ambika]]></title>
+        <id>https://www.youtube.com/watch?v=igwdHEBljgc</id>
+        <link href="https://www.youtube.com/watch?v=igwdHEBljgc"/>
+        <updated>2024-08-29T05:15:18.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മണിമുകിലേ.... കാർമുകിലെ .... "🪕🎺🎸 Video song out now #shorts #songs #movie]]></title>
+        <id>https://www.youtube.com/watch?v=dTA2jyJ2iXw</id>
+        <link href="https://www.youtube.com/watch?v=dTA2jyJ2iXw"/>
+        <updated>2024-08-29T04:45:22.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swarnappattin  | To Noora With Love  #shortsfeed #shortsvideo #reels #manoramamusic #shorts]]></title>
         <id>https://www.youtube.com/watch?v=yOnlVeS-MZM</id>
@@ -700,12 +727,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Padayilla Lyrical Song | Pulli Tamil Movie | Jiju Asokan | Dev Mohan | Meenakshi Dinesh]]></title>
+        <id>https://www.youtube.com/watch?v=JS9bP21y6M0</id>
+        <link href="https://www.youtube.com/watch?v=JS9bP21y6M0"/>
+        <updated>2024-08-27T04:20:37.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kamala Romantic Superhit Song | Sree Guruvayoorappan | Prem Nawas, Thikkurissy]]></title>
         <id>https://www.youtube.com/watch?v=W5h2ERYllDE</id>
         <link href="https://www.youtube.com/watch?v=W5h2ERYllDE"/>
         <updated>2024-08-27T04:00:20.000Z</updated>
         <author>
             <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poovaaname Karaoke + Lyrics | Unplugged Film Songs | Thalsamayam Oru Penkutty | Movie Song Lyrics]]></title>
+        <id>https://www.youtube.com/watch?v=RJAlxGysclA</id>
+        <link href="https://www.youtube.com/watch?v=RJAlxGysclA"/>
+        <updated>2024-08-27T03:56:32.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
