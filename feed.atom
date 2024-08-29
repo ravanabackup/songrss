@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T17:28:15.441Z</updated>
+    <updated>2024-08-29T18:38:13.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -9740,24 +9740,6 @@
         <id>https://www.youtube.com/watch?v=jDoUfUfx-3I</id>
         <link href="https://www.youtube.com/watch?v=jDoUfUfx-3I"/>
         <updated>2024-07-31T06:41:48.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karunachoriyunna Mathavinum Yeshudevanum Samarppikkunna Kanneerkanangal | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=mfc5ogmWxaw</id>
-        <link href="https://www.youtube.com/watch?v=mfc5ogmWxaw"/>
-        <updated>2024-07-31T06:07:12.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manju Mazha | Song+Karaoke | Karaoke Video | Aagathan | Dileep | Kaithapram | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=oVhapqelCVA</id>
-        <link href="https://www.youtube.com/watch?v=oVhapqelCVA"/>
-        <updated>2024-07-31T05:42:39.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
