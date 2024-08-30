@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T13:31:27.794Z</updated>
+    <updated>2024-08-30T14:31:35.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poru Nee Vaarilam | Kaashmeeram | M G Radhakrishnan | Gireesh Puthenchery #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=V6EDShu1QkA</id>
+        <link href="https://www.youtube.com/watch?v=V6EDShu1QkA"/>
+        <updated>2024-08-30T14:30:12.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellithira Movie Jukebox | Prithviraj | Navya Nair | Malayalam Songs | Sujatha Mohan |P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=Glm_qLO4uKY</id>
+        <link href="https://www.youtube.com/watch?v=Glm_qLO4uKY"/>
+        <updated>2024-08-30T14:30:06.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nerinazhaku | Mammootty | Lal | P Jayachandran | Kaithapram | Alex Paul]]></title>
+        <id>https://www.youtube.com/watch?v=0qw84QTe67E</id>
+        <link href="https://www.youtube.com/watch?v=0qw84QTe67E"/>
+        <updated>2024-08-30T14:30:00.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #lokenjanen #malayalamchristiancovers #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=JmFNXDPWltQ</id>
+        <link href="https://www.youtube.com/watch?v=JmFNXDPWltQ"/>
+        <updated>2024-08-30T14:21:43.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dive Into The Complexities Of  Relationships With 𝐊𝐚𝐝𝐚𝐥𝐤𝐤𝐚𝐚𝐭𝐭𝐮 in #Manorathangal👩🏻‍❤️‍💋‍👨🏻🎬]]></title>
+        <id>https://www.youtube.com/watch?v=TZ0O4afSMTU</id>
+        <link href="https://www.youtube.com/watch?v=TZ0O4afSMTU"/>
+        <updated>2024-08-30T13:32:38.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanmaniye Video Song Out Now !! #shorts #romanticmusic #kapilkapilan]]></title>
         <id>https://www.youtube.com/watch?v=Y20WKL_vtp4</id>
