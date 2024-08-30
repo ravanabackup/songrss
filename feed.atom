@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T17:29:14.885Z</updated>
+    <updated>2024-08-30T18:38:34.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -4639,6 +4639,15 @@
         <updated>2024-08-17T03:30:24.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vannallo Ponnonam | Lyrical+Karaoke | Lyrical Video | M G Sreekumar | Chittoor Gopi | Onam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Ls36KK_bfPs</id>
+        <link href="https://www.youtube.com/watch?v=Ls36KK_bfPs"/>
+        <updated>2024-08-17T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -9859,51 +9868,6 @@
         <updated>2024-08-01T06:45:51.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nettiyil Poovulla | Manovathoorile Aayiram Shivaraathrikal Movie Song | Mammotty | Suhasini]]></title>
-        <id>https://www.youtube.com/watch?v=x7oXkZfhioQ</id>
-        <link href="https://www.youtube.com/watch?v=x7oXkZfhioQ"/>
-        <updated>2024-08-01T06:24:07.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #shunoyolent  #mothermary #mothermarysongs #stmary #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=V43yiZk9SA4</id>
-        <link href="https://www.youtube.com/watch?v=V43yiZk9SA4"/>
-        <updated>2024-08-01T05:55:20.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂമാനമേ - Mammootty Hit song | K G Markose Version #shorts #song #malayalammusic]]></title>
-        <id>https://www.youtube.com/watch?v=5pabTl7DycQ</id>
-        <link href="https://www.youtube.com/watch?v=5pabTl7DycQ"/>
-        <updated>2024-08-01T05:47:37.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തൊട്ടാവാടി ചെണ്ടല്ല #devadoothansongs  #mohanlalhits #malayalam #malayalamsongstatus]]></title>
-        <id>https://www.youtube.com/watch?v=6aFGwqnTgBo</id>
-        <link href="https://www.youtube.com/watch?v=6aFGwqnTgBo"/>
-        <updated>2024-08-01T05:34:53.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devadoothan | Malayalam Film | Audio Jukebox | Mohanlal | Vidyasagar | Kaithapram | Jayapradha]]></title>
-        <id>https://www.youtube.com/watch?v=7GYGuqy-uHo</id>
-        <link href="https://www.youtube.com/watch?v=7GYGuqy-uHo"/>
-        <updated>2024-08-01T05:30:04.000Z</updated>
-        <author>
-            <name>satyamjukebox</name>
         </author>
     </entry>
 </feed>
