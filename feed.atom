@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T21:26:45.763Z</updated>
+    <updated>2024-08-30T22:31:43.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -9850,24 +9850,6 @@
         <updated>2024-08-01T10:54:08.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhoomiyile Swarggam | Super Hit Christian Devotional Song | Christian Album Song | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=Z6i-_nXnzfE</id>
-        <link href="https://www.youtube.com/watch?v=Z6i-_nXnzfE"/>
-        <updated>2024-08-01T10:30:30.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tholaivil Tamil Video Song | Pulli | Jiju Asokan | Dev Mohan | Meenakshi Dinesh]]></title>
-        <id>https://www.youtube.com/watch?v=3v7gy1ugssU</id>
-        <link href="https://www.youtube.com/watch?v=3v7gy1ugssU"/>
-        <updated>2024-08-01T09:48:45.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
