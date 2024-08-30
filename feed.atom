@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T22:31:43.915Z</updated>
+    <updated>2024-08-30T23:26:47.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=cYBgDNnu5vE</id>
+        <link href="https://www.youtube.com/watch?v=cYBgDNnu5vE"/>
+        <updated>2024-08-30T23:02:39.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 31 # Athiravile Prarthana 31st of August 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=2Z-WT3En288</id>
@@ -9841,15 +9850,6 @@
         <updated>2024-08-01T11:30:09.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുന്നിമണി കണ്ണഴകി പനിനീർ പാടം Kunnimani | Priyam | Kunchacko Boban | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=gU7iwXAyxIg</id>
-        <link href="https://www.youtube.com/watch?v=gU7iwXAyxIg"/>
-        <updated>2024-08-01T10:54:08.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
