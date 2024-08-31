@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T12:56:41.527Z</updated>
+    <updated>2024-08-31T13:27:15.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chingapulari | Onam Song| Sathkala Vijayan |Festival Song| #onam #onamspecial #onamsongs #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=bJ5Lg7q9N8w</id>
+        <link href="https://www.youtube.com/watch?v=bJ5Lg7q9N8w"/>
+        <updated>2024-08-31T13:00:44.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rosa Poove | മാതാവിന്റെ അതിമനോഹരമായ ഒരു ഗാനം രണ്ടു വ്യത്യസ്ത ഭാഷകളിൽ❤️ @DevotionalSongTamil#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iEr3NOb_6Bk</id>
+        <link href="https://www.youtube.com/watch?v=iEr3NOb_6Bk"/>
+        <updated>2024-08-31T13:00:43.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാറ്റിൻ മൊഴി | Katrin Mozhi Song | Mozhi Movie Song | Vidyasagar | Prithviraj | Jyothika]]></title>
+        <id>https://www.youtube.com/watch?v=bY4_ZhJZF8w</id>
+        <link href="https://www.youtube.com/watch?v=bY4_ZhJZF8w"/>
+        <updated>2024-08-31T13:00:41.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #mothermary #ettunombu #mothermarysongs #mothermaryprayer #stmary]]></title>
         <id>https://www.youtube.com/watch?v=GwKb69Z44LY</id>
@@ -9931,15 +9958,6 @@
         <updated>2024-08-02T01:30:07.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattinkarayorathe | Lyrical + Karaoke | Rasathanthram | Mohanlal | Sathyan Anthikad | Ilaiyaraaja]]></title>
-        <id>https://www.youtube.com/watch?v=0mYQrBgkGy8</id>
-        <link href="https://www.youtube.com/watch?v=0mYQrBgkGy8"/>
-        <updated>2024-08-02T01:00:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
