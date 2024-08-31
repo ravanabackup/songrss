@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T22:31:36.588Z</updated>
+    <updated>2024-08-31T23:24:07.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=NXYM1fvQMOo</id>
+        <link href="https://www.youtube.com/watch?v=NXYM1fvQMOo"/>
+        <updated>2024-08-31T23:00:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ സ്വരമൊന്നു കേൾക്കുമോ ഈ രൂപമൊന്നു കാണുമോ Ft. Vijay Yesudas, Fr Vineeth Ajimon Joseph, Jacob Koratty]]></title>
         <id>https://www.youtube.com/watch?v=3CUgX8AR42w</id>
