@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T02:57:35.525Z</updated>
+    <updated>2024-09-01T03:38:13.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aalila Kanna Ninte Video Song | Kalabhavan Mani | KJ Yesudas | Mohan Sithara | Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=VoNo6J-VwWI</id>
+        <link href="https://www.youtube.com/watch?v=VoNo6J-VwWI"/>
+        <updated>2024-09-01T03:30:21.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madhuratharam Thiruvedham | Shorts   #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=Fwxsg38pHXQ</id>
