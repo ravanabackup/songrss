@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T21:23:05.531Z</updated>
+    <updated>2024-09-01T22:32:04.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -9947,24 +9947,6 @@
         <id>https://www.youtube.com/watch?v=cPBWtoWcsTs</id>
         <link href="https://www.youtube.com/watch?v=cPBWtoWcsTs"/>
         <updated>2024-08-03T11:30:07.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthathisayame #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=4R7v_TOQOJU</id>
-        <link href="https://www.youtube.com/watch?v=4R7v_TOQOJU"/>
-        <updated>2024-08-03T10:30:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunjumanassin Nombarangal | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=PoARPu3xzyg</id>
-        <link href="https://www.youtube.com/watch?v=PoARPu3xzyg"/>
-        <updated>2024-08-03T10:30:07.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
         </author>
