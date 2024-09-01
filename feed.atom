@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T15:27:03.361Z</updated>
+    <updated>2024-09-01T16:38:19.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiancoversongs #christiansongs #royputhur #malayalamworshipsong]]></title>
+        <id>https://www.youtube.com/watch?v=7K4Jppxp6UM</id>
+        <link href="https://www.youtube.com/watch?v=7K4Jppxp6UM"/>
+        <updated>2024-09-01T15:54:48.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aarambham Thulumbum Video Song | Bad Boyz | Omar Lulu | Vineeth Sreenivasan | Rahman | Bibin George]]></title>
         <id>https://www.youtube.com/watch?v=xqq9_Il3WZc</id>
@@ -9965,24 +9974,6 @@
         <id>https://www.youtube.com/watch?v=ItWt8niyu6c</id>
         <link href="https://www.youtube.com/watch?v=ItWt8niyu6c"/>
         <updated>2024-08-03T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadan Pattinte Madiseela | Babumon | Prem Nazeer | Sreevidya | K J Yesudas | Hariharan]]></title>
-        <id>https://www.youtube.com/watch?v=th24HCj4Al4</id>
-        <link href="https://www.youtube.com/watch?v=th24HCj4Al4"/>
-        <updated>2024-08-03T04:30:02.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yami Yami  | Kanipayyur Kaikottikali Sangham #thiruvathira #thiruvathirakali #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=d1j8Zbk2i2M</id>
-        <link href="https://www.youtube.com/watch?v=d1j8Zbk2i2M"/>
-        <updated>2024-08-03T03:30:27.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
