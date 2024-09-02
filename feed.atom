@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T17:27:14.368Z</updated>
+    <updated>2024-09-02T18:37:42.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10136,24 +10136,6 @@
         <id>https://www.youtube.com/watch?v=rnafAtK2wPk</id>
         <link href="https://www.youtube.com/watch?v=rnafAtK2wPk"/>
         <updated>2024-08-04T08:30:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളത്തിൻ്റെ സ്വന്തം വിദ്യാസാഗർ | Vidyasagar | Superhit Malayalam Film Songs | Satyam Audios]]></title>
-        <id>https://www.youtube.com/watch?v=_nDOQvRIi80</id>
-        <link href="https://www.youtube.com/watch?v=_nDOQvRIi80"/>
-        <updated>2024-08-04T06:00:26.000Z</updated>
-        <author>
-            <name>satyamjukebox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Vazhiyai | Ee Adutha Kaalath | Video | Vijay Yesudas | Rafeeq Ahamed | Gopi Sundar | Indrajith]]></title>
-        <id>https://www.youtube.com/watch?v=rdmRzI1StNU</id>
-        <link href="https://www.youtube.com/watch?v=rdmRzI1StNU"/>
-        <updated>2024-08-04T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
