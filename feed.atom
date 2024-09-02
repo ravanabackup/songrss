@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T03:31:44.700Z</updated>
+    <updated>2024-09-02T04:35:29.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gopuramedayil | Janam | Murali | Geetha | K S Chithra | S P Vennkitesh | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=Fb_DV9v8X7E</id>
+        <link href="https://www.youtube.com/watch?v=Fb_DV9v8X7E"/>
+        <updated>2024-09-02T04:30:05.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunjumanassin Nombarangal | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=edo2uWtOIPU</id>
@@ -103,6 +112,15 @@
         <updated>2024-09-01T15:22:51.000Z</updated>
         <author>
             <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Therirangum Mukile | Dileep | Navya Nair | P Jayachandran | Suresh Peters |S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=C0HEoFoSSlU</id>
+        <link href="https://www.youtube.com/watch?v=C0HEoFoSSlU"/>
+        <updated>2024-09-01T14:30:04.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
