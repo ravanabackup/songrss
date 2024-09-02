@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-02T09:30:54.638Z</updated>
+    <updated>2024-09-02T10:37:25.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chettachans Lullaby Video Song | Mridul Suresh | Dana Razik | Ken Sanal]]></title>
+        <id>https://www.youtube.com/watch?v=WR4kC0FL5Tg</id>
+        <link href="https://www.youtube.com/watch?v=WR4kC0FL5Tg"/>
+        <updated>2024-09-02T10:30:08.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Favourite Movie Songs | Celebrity Playlist | Deepak Dev | Super Hit Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=7jY864iL17w</id>
+        <link href="https://www.youtube.com/watch?v=7jY864iL17w"/>
+        <updated>2024-09-02T10:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മുത്തങ്ങയിൽ മത്ത് പിടിച്ചവർ | Kalabhavan Mani Hit Song |  #kalabhavanmani #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=faZJz7LH5Lk</id>
+        <link href="https://www.youtube.com/watch?v=faZJz7LH5Lk"/>
+        <updated>2024-09-02T10:15:03.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalabhavan Mani Hit Song | മുത്തങ്ങയിൽ മത്ത് പിടിച്ചവർ | Minnaminungu #kalabhavanmani]]></title>
         <id>https://www.youtube.com/watch?v=Cp-K6_-oT5g</id>
