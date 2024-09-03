@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-03T17:29:50.380Z</updated>
+    <updated>2024-09-03T18:38:30.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10336,33 +10336,6 @@
         <updated>2024-08-05T06:49:01.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israyelin Nadhanayi #superhitchristiandevotionalsongmalayalam #christiandevotionalalbumsong]]></title>
-        <id>https://www.youtube.com/watch?v=BKOfHCE_uOA</id>
-        <link href="https://www.youtube.com/watch?v=BKOfHCE_uOA"/>
-        <updated>2024-08-05T06:25:13.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാട്ടിലെ മൈനയെ പാട്ടു പഠിപ്പിച്ചതാരോ Kattile Mainaye Pattu  | Akashadoothu | Madhavi | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=U7OoOLp06Bk</id>
-        <link href="https://www.youtube.com/watch?v=U7OoOLp06Bk"/>
-        <updated>2024-08-05T05:32:54.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanakkannil | Lyrical + Karaoke Video | Police | Prithviraj | V K Prakash | Ousepachan | Balu]]></title>
-        <id>https://www.youtube.com/watch?v=PPVIfBte-5g</id>
-        <link href="https://www.youtube.com/watch?v=PPVIfBte-5g"/>
-        <updated>2024-08-05T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
