@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-03T22:32:39.566Z</updated>
+    <updated>2024-09-03T23:26:37.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=4-V7lS664oE</id>
+        <link href="https://www.youtube.com/watch?v=4-V7lS664oE"/>
+        <updated>2024-09-03T23:00:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 4 # Athiravile Prarthana 4th of September 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=SzQ9-T6MBEg</id>
@@ -10291,24 +10300,6 @@
         <updated>2024-08-05T11:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthusa Kodiye | Super Zindagi | Dhyan Sreenivasan | Anthony Daasan | Sooraj S Kurup | Vintesh]]></title>
-        <id>https://www.youtube.com/watch?v=3c1Q9e9x_kM</id>
-        <link href="https://www.youtube.com/watch?v=3c1Q9e9x_kM"/>
-        <updated>2024-08-05T11:25:23.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil Umma Vechu Padam Video Song | Alice In Wonderland | Sujatha Mohan | Vidhu Prathap| Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=KcCoNwvDrAM</id>
-        <link href="https://www.youtube.com/watch?v=KcCoNwvDrAM"/>
-        <updated>2024-08-05T10:52:57.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
