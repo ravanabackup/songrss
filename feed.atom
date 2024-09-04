@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T16:39:08.408Z</updated>
+    <updated>2024-09-04T17:34:06.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10534,33 +10534,6 @@
         <updated>2024-08-06T07:31:59.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adipoli Bhootham | Ee Pattanathil Bhootham |Video Song| Mammootty |Gireesh Puthenchery| Shaan Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=UqZiGHm4EgU</id>
-        <link href="https://www.youtube.com/watch?v=UqZiGHm4EgU"/>
-        <updated>2024-08-06T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prem Nazir Romantic Old Superhit Song l Nizhalattam Movie | Prem Nazri, Sheela]]></title>
-        <id>https://www.youtube.com/watch?v=XviIE0pYc5A</id>
-        <link href="https://www.youtube.com/watch?v=XviIE0pYc5A"/>
-        <updated>2024-08-06T05:20:42.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarunna Thiramalakalkappuram....#christiandevotionalsongsmalayalam #kesterhits #jojijohns]]></title>
-        <id>https://www.youtube.com/watch?v=-yz4gWY2t04</id>
-        <link href="https://www.youtube.com/watch?v=-yz4gWY2t04"/>
-        <updated>2024-08-06T05:10:36.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
