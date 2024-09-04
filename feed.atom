@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T04:33:42.473Z</updated>
+    <updated>2024-09-04T05:32:44.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Krooshin Bharam | Christian Video Song | Kester | Christian Melody Song | Joji Johns | Renchu Alex]]></title>
+        <id>https://www.youtube.com/watch?v=YdNkpK1MBkE</id>
+        <link href="https://www.youtube.com/watch?v=YdNkpK1MBkE"/>
+        <updated>2024-09-04T04:35:35.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aniyamboo Muttath | Darling Darling (2000) | S Ramesan Nair | Ouseppachan | MG Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=WJjLEs6rYbA</id>
