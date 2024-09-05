@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T21:25:28.315Z</updated>
+    <updated>2024-09-05T22:31:26.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10471,42 +10471,6 @@
         <updated>2024-08-07T11:25:00.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നും പ്രിയപ്പെട്ട ഗാനങ്ങൾ | Selected Malayalam Film Songs | Satyam Audios]]></title>
-        <id>https://www.youtube.com/watch?v=o-E3QH4o2xk</id>
-        <link href="https://www.youtube.com/watch?v=o-E3QH4o2xk"/>
-        <updated>2024-08-07T10:30:21.000Z</updated>
-        <author>
-            <name>satyamjukebox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthathisayame #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=fqVGWAk5tHw</id>
-        <link href="https://www.youtube.com/watch?v=fqVGWAk5tHw"/>
-        <updated>2024-08-07T10:30:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam Christian Devotional Songs | ക്രിസ്തീയ ഗാനങ്ങൾ | Pooja Prem | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=wQ8--Q9ZmLs</id>
-        <link href="https://www.youtube.com/watch?v=wQ8--Q9ZmLs"/>
-        <updated>2024-08-07T09:57:33.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pande Pande | ONCE UPON A TIME IN KOCHI Movie Audio Song | Nadirsha | Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=g3AYHyBRTjw</id>
-        <link href="https://www.youtube.com/watch?v=g3AYHyBRTjw"/>
-        <updated>2024-08-07T09:51:36.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
