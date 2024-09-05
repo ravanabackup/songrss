@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T17:28:48.005Z</updated>
+    <updated>2024-09-05T18:37:34.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10525,24 +10525,6 @@
         <updated>2024-08-07T07:04:31.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ororo Raavilum | Pattam Movie | Anju Joseph | Rejeesh V Raja | Prasanth Mohan M P | Juhi Rustagi]]></title>
-        <id>https://www.youtube.com/watch?v=j2lWQCY1koU</id>
-        <link href="https://www.youtube.com/watch?v=j2lWQCY1koU"/>
-        <updated>2024-08-07T06:02:02.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Hridaya Mounam | Flash | Video | Mohanlal | Rafeeq Ahamed | Gopi Sundar | Vineeth Sreenivasan]]></title>
-        <id>https://www.youtube.com/watch?v=J7SSZ-2Aoe8</id>
-        <link href="https://www.youtube.com/watch?v=J7SSZ-2Aoe8"/>
-        <updated>2024-08-07T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
