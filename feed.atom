@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T10:36:24.275Z</updated>
+    <updated>2024-09-05T11:22:28.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mahabali - The Return of the King #georgepeter #cjkuttappan #onam #festival #folk #shortsfeed #reels]]></title>
+        <id>https://www.youtube.com/watch?v=ARiB0m0uCjo</id>
+        <link href="https://www.youtube.com/watch?v=ARiB0m0uCjo"/>
+        <updated>2024-09-05T11:00:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ore Mukham Kanan Video Song | Prithviraj | Gayathri Raghuram | Sujatha Mohan | Vidhu Prathap]]></title>
         <id>https://www.youtube.com/watch?v=LcirDe1q9vs</id>
@@ -13,6 +22,15 @@
         <updated>2024-09-05T10:11:43.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaalkkanezhuthiya Malayalam Video Song | Paithrukam Movie Song | K J Yesudas | Jayaram | Suresh Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=1WYJVYL7qlk</id>
+        <link href="https://www.youtube.com/watch?v=1WYJVYL7qlk"/>
+        <updated>2024-09-05T10:03:37.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
@@ -10453,24 +10471,6 @@
         <updated>2024-08-07T00:15:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=ZToXLgGq4nc</id>
-        <link href="https://www.youtube.com/watch?v=ZToXLgGq4nc"/>
-        <updated>2024-08-06T23:00:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eesho Enne Sparshichu Vol-5 | Malayalam Christian Songs | Non Stop Worship Songs | Convention Songs]]></title>
-        <id>https://www.youtube.com/watch?v=EF6FVrqCns4</id>
-        <link href="https://www.youtube.com/watch?v=EF6FVrqCns4"/>
-        <updated>2024-08-06T23:00:07.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
