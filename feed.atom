@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T19:19:31.040Z</updated>
+    <updated>2024-09-05T20:28:44.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 6 # Athiravile Prarthana 6th of September 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kOCYj6urVsw</id>
+        <link href="https://www.youtube.com/watch?v=kOCYj6urVsw"/>
+        <updated>2024-09-05T20:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th SEP 2024]]></title>
         <id>https://www.youtube.com/watch?v=hm0-vu3oCvE</id>
@@ -10498,42 +10507,6 @@
         <updated>2024-08-07T09:51:36.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നുള്ളിലേതോ 😍😍😍😍 Ennulliletho Minnunna Swapnam  #love #romantic]]></title>
-        <id>https://www.youtube.com/watch?v=g1qqJ0WOKCE</id>
-        <link href="https://www.youtube.com/watch?v=g1qqJ0WOKCE"/>
-        <updated>2024-08-07T07:44:49.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#kadaramkondan #chiyaanvikram #ghibran #shrutihaasan #shabir #songoftheday #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=v6MEhu-e9IE</id>
-        <link href="https://www.youtube.com/watch?v=v6MEhu-e9IE"/>
-        <updated>2024-08-07T07:38:26.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആടിപ്പാടാൻ മനസ്സ് കൊതിക്കുന്ന മലയാളസിനിമയിലെ മികച്ച ഗാനങ്ങൾ  | EVERLASTING SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=P2fGzUq15p0</id>
-        <link href="https://www.youtube.com/watch?v=P2fGzUq15p0"/>
-        <updated>2024-08-07T07:30:13.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennulliletho Minnunna Swapnam Video Song | Ambili Devi | Prithviraj | MG Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=i-6SE4Iojqg</id>
-        <link href="https://www.youtube.com/watch?v=i-6SE4Iojqg"/>
-        <updated>2024-08-07T07:28:30.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
