@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T16:39:41.921Z</updated>
+    <updated>2024-09-05T17:28:48.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10543,15 +10543,6 @@
         <updated>2024-08-07T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Enne Kaividathe | സാധു എന്നെ കൈവിടാതെ | Charles John | Sreya Anna Joseph | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=VJXyxaUrW1E</id>
-        <link href="https://www.youtube.com/watch?v=VJXyxaUrW1E"/>
-        <updated>2024-08-07T05:27:13.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
