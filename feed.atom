@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T05:33:50.273Z</updated>
+    <updated>2024-09-06T06:40:02.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcoming Atham with hope, joy, and the first bloom of the Onam season! 🌼🌿 #AthamCelebrations #Onam]]></title>
+        <id>https://www.youtube.com/watch?v=DAkZ4OJeHf4</id>
+        <link href="https://www.youtube.com/watch?v=DAkZ4OJeHf4"/>
+        <updated>2024-09-06T06:22:20.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delve Into The Struggle Between Rustic Roots & Modernity in 𝐒𝐡𝐢𝐥𝐚𝐥𝐢𝐤𝐡𝐢𝐭𝐚𝐦 From #Manorathangal 🎬]]></title>
+        <id>https://www.youtube.com/watch?v=ifLviq8t7mI</id>
+        <link href="https://www.youtube.com/watch?v=ifLviq8t7mI"/>
+        <updated>2024-09-06T05:55:25.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uthrada Pooviliyil | Lyrical+Karaoke Video | K J Yesudas | Kaithapram | Sunny Stephen | Onam Song]]></title>
         <id>https://www.youtube.com/watch?v=6oMekV9_9uc</id>
