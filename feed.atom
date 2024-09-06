@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T21:27:49.361Z</updated>
+    <updated>2024-09-06T22:32:31.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10705,42 +10705,6 @@
         <updated>2024-08-08T10:58:34.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennenikken | Elizabeth Raju #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=M8Tv5Vlypzo</id>
-        <link href="https://www.youtube.com/watch?v=M8Tv5Vlypzo"/>
-        <updated>2024-08-08T10:30:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഞ്ഞ ക്കണിക്കൊന്ന കൊമ്പിലെ Manja Kanikonna Kombile  KS Chithra #kschithrabestmalayalamsongs]]></title>
-        <id>https://www.youtube.com/watch?v=-JKE9k4UvTI</id>
-        <link href="https://www.youtube.com/watch?v=-JKE9k4UvTI"/>
-        <updated>2024-08-08T09:41:02.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Puthu Niram]]></title>
-        <id>https://www.youtube.com/watch?v=J65bQwL0GMw</id>
-        <link href="https://www.youtube.com/watch?v=J65bQwL0GMw"/>
-        <updated>2024-08-08T09:38:49.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manja Kanikonna Kombile Video Song | Ishtamanu Nooruvattam | Reshmi| KS Chithra |Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=b-eMQnqWxQI</id>
-        <link href="https://www.youtube.com/watch?v=b-eMQnqWxQI"/>
-        <updated>2024-08-08T09:28:53.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
