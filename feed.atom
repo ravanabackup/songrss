@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T03:31:43.363Z</updated>
+    <updated>2024-09-06T04:33:24.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanneerppuzhayude | Bharya | Jagadhish | Urvashi | KS Chithra | Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=VUxGO5FA-tA</id>
+        <link href="https://www.youtube.com/watch?v=VUxGO5FA-tA"/>
+        <updated>2024-09-06T04:30:12.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #stmary #malayalamworshipsong]]></title>
+        <id>https://www.youtube.com/watch?v=Rh9-lFITgMQ</id>
+        <link href="https://www.youtube.com/watch?v=Rh9-lFITgMQ"/>
+        <updated>2024-09-06T03:43:33.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരേ മുഖം കാണാൻ Ore Mukham Kanan | Prithviraj | Gayathri Raghuram | Sujatha Mohan | Vidhu Prathap]]></title>
         <id>https://www.youtube.com/watch?v=_CEX8g0q1g8</id>
