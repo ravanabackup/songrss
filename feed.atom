@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T15:05:26.945Z</updated>
+    <updated>2024-09-07T16:07:43.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10741,24 +10741,6 @@
         <updated>2024-08-09T04:30:22.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheela Old Superhit Movie Song l Mindapennu  Movie | Prem Nazir, Sharada]]></title>
-        <id>https://www.youtube.com/watch?v=sda1efIlL5A</id>
-        <link href="https://www.youtube.com/watch?v=sda1efIlL5A"/>
-        <updated>2024-08-09T04:00:41.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthe Ninne | Amrutham #jayaram #mjayachandran #shortsfeed #shortsvideo #reels #malayalamfilmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=uvoSSNk91Yg</id>
-        <link href="https://www.youtube.com/watch?v=uvoSSNk91Yg"/>
-        <updated>2024-08-09T03:30:25.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
