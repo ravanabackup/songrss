@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T03:30:31.790Z</updated>
+    <updated>2024-09-07T04:33:01.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mahabali - The Return of the King #georgepeter #cjkuttappan #onam #festival #folk #shortsfeed #reels]]></title>
+        <id>https://www.youtube.com/watch?v=AJfYSX3s5G8</id>
+        <link href="https://www.youtube.com/watch?v=AJfYSX3s5G8"/>
+        <updated>2024-09-07T04:00:05.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാമിന്റെ നുണക്കുഴി ❤️ #Nunakkuzhi #basiljoseph #graceantony #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=c0QLtO8zJ0I</id>
+        <link href="https://www.youtube.com/watch?v=c0QLtO8zJ0I"/>
+        <updated>2024-09-07T03:30:26.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnanam Kunninmel  Onam Songs #mgsreekumar #sujatha #onam #shortsfeed #shorts #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=fdb1TQ5-KKI</id>
+        <link href="https://www.youtube.com/watch?v=fdb1TQ5-KKI"/>
+        <updated>2024-09-07T03:30:26.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh Mama Mama Animation Lyrical Video | Film Song Animation | Rock N Roll]]></title>
         <id>https://www.youtube.com/watch?v=tFM0WCoLA_M</id>
