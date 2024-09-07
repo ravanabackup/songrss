@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T10:07:04.932Z</updated>
+    <updated>2024-09-07T11:05:26.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10667,24 +10667,6 @@
         <id>https://www.youtube.com/watch?v=bqdZDxLXkL0</id>
         <link href="https://www.youtube.com/watch?v=bqdZDxLXkL0"/>
         <updated>2024-08-08T23:30:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eesho Enne Sparshichu Vol-6 | Malayalam Christian Songs | Non Stop Worship Songs | Convention Songs]]></title>
-        <id>https://www.youtube.com/watch?v=XqT-JfElGQg</id>
-        <link href="https://www.youtube.com/watch?v=XqT-JfElGQg"/>
-        <updated>2024-08-08T23:00:19.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=TmXoQ9s9jYI</id>
-        <link href="https://www.youtube.com/watch?v=TmXoQ9s9jYI"/>
-        <updated>2024-08-08T23:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
