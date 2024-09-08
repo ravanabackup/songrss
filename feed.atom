@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T00:39:43.776Z</updated>
+    <updated>2024-09-08T02:09:56.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dinam Dinam Dinam Nee Vazhthuka | Christian Devotional | Shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=dpCLBuwzYAU</id>
+        <link href="https://www.youtube.com/watch?v=dpCLBuwzYAU"/>
+        <updated>2024-09-08T01:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Nombu Ganangal # 8 Nombu Songs Mother Mary Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=K2733L6ygT8</id>
@@ -13,6 +22,15 @@
         <updated>2024-09-08T00:30:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Superhit Songs | Wilson Piravom | Holy Mass Songs | Gagul Joseph | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=3mHeu-FcJb8</id>
+        <link href="https://www.youtube.com/watch?v=3mHeu-FcJb8"/>
+        <updated>2024-09-08T00:30:01.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -10588,42 +10606,6 @@
         <updated>2024-08-09T14:30:04.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiansongs #worshipsongs #sadhuenne #coversong]]></title>
-        <id>https://www.youtube.com/watch?v=E8YIuphqxf4</id>
-        <link href="https://www.youtube.com/watch?v=E8YIuphqxf4"/>
-        <updated>2024-08-09T13:57:59.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs Of The Week  | Kester | Christian Superhit Songs Malayalam | Joji Johns | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=Pi2nn8N2G_w</id>
-        <link href="https://www.youtube.com/watch?v=Pi2nn8N2G_w"/>
-        <updated>2024-08-09T13:30:22.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അലകളിൽ ഒളിവിതറി | Enjoy the Hits of Jino Kunnumpurath | M.G.Sreekumar |   @JinoKunnumpurathu #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=QW62IGCTFnA</id>
-        <link href="https://www.youtube.com/watch?v=QW62IGCTFnA"/>
-        <updated>2024-08-09T13:30:14.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premamadhu Thedum Song | Snehithan Song | Kunchacko Boban | Preetha Vijayakumar | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=S-q8mKE3s2M</id>
-        <link href="https://www.youtube.com/watch?v=S-q8mKE3s2M"/>
-        <updated>2024-08-09T13:00:28.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
