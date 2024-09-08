@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T12:11:54.644Z</updated>
+    <updated>2024-09-08T13:10:43.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIN DIVYA NAMAM |  BEAUTIFUL NEW CHRISTIAN SONG | ANOOJ BABU | PRAVEEN M KUMAR | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ABslhu6PTEU</id>
+        <link href="https://www.youtube.com/watch?v=ABslhu6PTEU"/>
+        <updated>2024-09-08T13:00:18.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kondal - Official Trailer | Antony Varghese Pepe, Raj B Shetty | Ajit Mampally | Sam CS]]></title>
+        <id>https://www.youtube.com/watch?v=0Ez64qO624M</id>
+        <link href="https://www.youtube.com/watch?v=0Ez64qO624M"/>
+        <updated>2024-09-08T12:58:43.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സാരമില്ലായെന്ന് പറയുവാൻ ഒരാൾ  |  😇 | Rev. Aneesh P Joseph |#shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=yCoN5BZxgdA</id>
+        <link href="https://www.youtube.com/watch?v=yCoN5BZxgdA"/>
+        <updated>2024-09-08T12:30:48.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 8th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=1GfbBLHAHDQ</id>
+        <link href="https://www.youtube.com/watch?v=1GfbBLHAHDQ"/>
+        <updated>2024-09-08T12:30:01.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onam is a reminder to cherish the simple joys in life. Let’s make it a memorable one! 🌼💫 #Onam2024]]></title>
         <id>https://www.youtube.com/watch?v=KHKqHrPMdGE</id>
@@ -10624,24 +10660,6 @@
         <updated>2024-08-10T01:30:07.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Video Songs Malayalam | KG Markose | Madhu Balakrishnan | Christian Songs | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=qMHgR7_9VZA</id>
-        <link href="https://www.youtube.com/watch?v=qMHgR7_9VZA"/>
-        <updated>2024-08-10T00:30:25.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 10th of August 2024 # Mathavinte Japamala # Santhoshathinte Rahasyangal 10th of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=IAf78uWl4Vs</id>
-        <link href="https://www.youtube.com/watch?v=IAf78uWl4Vs"/>
-        <updated>2024-08-10T00:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
