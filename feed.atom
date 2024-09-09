@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T16:08:35.614Z</updated>
+    <updated>2024-09-09T17:06:30.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ottanokkile Pattunoolinaal #love #kalabhavanmani #trending #malayalamsongs #nadanpattu]]></title>
+        <id>https://www.youtube.com/watch?v=FxX-M1R7WbE</id>
+        <link href="https://www.youtube.com/watch?v=FxX-M1R7WbE"/>
+        <updated>2024-09-09T16:26:25.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #mariakolady #worshipsongs]]></title>
+        <id>https://www.youtube.com/watch?v=a3wa2LxerjQ</id>
+        <link href="https://www.youtube.com/watch?v=a3wa2LxerjQ"/>
+        <updated>2024-09-09T16:15:00.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #malayalamchristiancoversongs #sadhukochukunjuupadeshi #immanuelhenry]]></title>
         <id>https://www.youtube.com/watch?v=OBMvxF3-Xes</id>
@@ -10624,24 +10642,6 @@
         <updated>2024-08-11T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavizhamalli Poovurangi  | Vazhiyorakkazhchakal | Mohanlal | Chithra | S P Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=tDchx33uNcE</id>
-        <link href="https://www.youtube.com/watch?v=tDchx33uNcE"/>
-        <updated>2024-08-11T04:30:19.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthusa Kodiye Video Song| Super Zindagi| Dhyan Sreenivasan| Anthony Daasan| Sooraj S Kurup| Vintesh]]></title>
-        <id>https://www.youtube.com/watch?v=KNnpzHQoc8o</id>
-        <link href="https://www.youtube.com/watch?v=KNnpzHQoc8o"/>
-        <updated>2024-08-11T04:21:20.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
