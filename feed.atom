@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T12:14:38.624Z</updated>
+    <updated>2024-09-09T13:15:54.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He Anganamaare Aadi Vaa Video Song | Mr Marumakan | Dileep | Sanusha | Suresh Peters]]></title>
+        <id>https://www.youtube.com/watch?v=cq6ePj1o1jg</id>
+        <link href="https://www.youtube.com/watch?v=cq6ePj1o1jg"/>
+        <updated>2024-09-09T13:00:43.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YESHU DI DEEWANGI🤍🥰 A Beautiful  Punjabi Song is Streaming Now Lets Enjoy it..@HindiChristianson100]]></title>
+        <id>https://www.youtube.com/watch?v=ToULvg7u-O4</id>
+        <link href="https://www.youtube.com/watch?v=ToULvg7u-O4"/>
+        <updated>2024-09-09T13:00:35.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിലാശ്രയിച്ച് ക്ഷമയോടെ കാത്തിരിക്കാം    | 😇 | Rev. Aneesh P Joseph |#shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=sVOSbrB1atg</id>
+        <link href="https://www.youtube.com/watch?v=sVOSbrB1atg"/>
+        <updated>2024-09-09T12:30:46.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lahari Video Song | Vani Jairam |  Koodu Thedunna Parava | Old Malayalam Songs #evergreensongs]]></title>
+        <id>https://www.youtube.com/watch?v=X7yVy4ikaWU</id>
+        <link href="https://www.youtube.com/watch?v=X7yVy4ikaWU"/>
+        <updated>2024-09-09T12:30:24.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 9th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=9TqLIFhGKAg</id>
+        <link href="https://www.youtube.com/watch?v=9TqLIFhGKAg"/>
+        <updated>2024-09-09T12:30:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ghora Ghora Rajadhi Raja Lyric Song | Bad Boyz | Omar Lulu | Vineeth Sreenivasan | Rahman]]></title>
         <id>https://www.youtube.com/watch?v=MNxISsHiDyk</id>
@@ -10579,24 +10624,6 @@
         <updated>2024-08-11T01:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 11th of August 2024 # Mathavinte Japamala # Mahimayude Rahasyangal 11th of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=e6_J5m1UkC0</id>
-        <link href="https://www.youtube.com/watch?v=e6_J5m1UkC0"/>
-        <updated>2024-08-11T00:30:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സകല ഐശ്യര്യങ്ങളും നൽകുന്ന പ്രാർത്ഥന ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=Xdn0KvWpgEY</id>
-        <link href="https://www.youtube.com/watch?v=Xdn0KvWpgEY"/>
-        <updated>2024-08-11T00:30:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
