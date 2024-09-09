@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T18:09:56.902Z</updated>
+    <updated>2024-09-09T19:04:37.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th SEP 2024]]></title>
+        <id>https://www.youtube.com/watch?v=YxuNuHoFCiY</id>
+        <link href="https://www.youtube.com/watch?v=YxuNuHoFCiY"/>
+        <updated>2024-09-09T19:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ottanokkile Pattunoolinaal #love #kalabhavanmani #trending #malayalamsongs #nadanpattu]]></title>
         <id>https://www.youtube.com/watch?v=FxX-M1R7WbE</id>
@@ -10613,24 +10622,6 @@
         <id>https://www.youtube.com/watch?v=sKPcG26B64s</id>
         <link href="https://www.youtube.com/watch?v=sKPcG26B64s"/>
         <updated>2024-08-11T07:15:02.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂവേ പൂവേ പാലപ്പൂവേ #mohanlalhits #devadoothansongs #devadoothan ##devadoothanstatus]]></title>
-        <id>https://www.youtube.com/watch?v=PS3U7WE2_jU</id>
-        <link href="https://www.youtube.com/watch?v=PS3U7WE2_jU"/>
-        <updated>2024-08-11T07:00:16.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamworshipsong #worshipsongs #malayalamchristiancovers]]></title>
-        <id>https://www.youtube.com/watch?v=-9-mHEXtQA4</id>
-        <link href="https://www.youtube.com/watch?v=-9-mHEXtQA4"/>
-        <updated>2024-08-11T06:34:40.000Z</updated>
         <author>
             <name>Match Point Faith</name>
         </author>
