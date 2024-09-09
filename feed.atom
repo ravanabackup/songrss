@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T10:08:47.267Z</updated>
+    <updated>2024-09-09T11:06:47.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onam Wishes | Sangeetha Sreekanth #unpluggedsongs #malayalamcover #onam #onamwishes #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=Nete7bFqmVc</id>
+        <link href="https://www.youtube.com/watch?v=Nete7bFqmVc"/>
+        <updated>2024-09-09T10:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ottanokkile Pattunoolinaal|Chacko Randaman|Kalabhavan Mani|Jyothirmayi| #kalabhavanmani]]></title>
         <id>https://www.youtube.com/watch?v=oBWmQz-PusY</id>
@@ -10561,15 +10570,6 @@
         <updated>2024-08-10T23:30:09.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=6KhGv0fwGps</id>
-        <link href="https://www.youtube.com/watch?v=6KhGv0fwGps"/>
-        <updated>2024-08-10T23:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
