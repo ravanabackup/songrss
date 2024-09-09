@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T22:06:56.345Z</updated>
+    <updated>2024-09-09T23:08:50.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=YickW9gy2a0</id>
+        <link href="https://www.youtube.com/watch?v=YickW9gy2a0"/>
+        <updated>2024-09-09T23:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 10 # Athiravile Prarthana 10th of September 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Wy9gRWrJQyU</id>
@@ -10588,33 +10597,6 @@
         <updated>2024-08-11T12:15:01.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamworshipsong #malayalamchristiancovers #malayalamchristiansongs #music]]></title>
-        <id>https://www.youtube.com/watch?v=El-SuRACMtQ</id>
-        <link href="https://www.youtube.com/watch?v=El-SuRACMtQ"/>
-        <updated>2024-08-11T10:43:26.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podimeesha Mulakkanakalam #animation #animationvideo #kidscartoon #malayalamcartoon #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=UVWgiR8ZYGw</id>
-        <link href="https://www.youtube.com/watch?v=UVWgiR8ZYGw"/>
-        <updated>2024-08-11T10:30:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamworshipsong #worshipsongs #malayalamchristiancovers]]></title>
-        <id>https://www.youtube.com/watch?v=95dsDLYhHq0</id>
-        <link href="https://www.youtube.com/watch?v=95dsDLYhHq0"/>
-        <updated>2024-08-11T10:30:03.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
