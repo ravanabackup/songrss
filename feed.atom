@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T11:06:47.554Z</updated>
+    <updated>2024-09-09T12:14:38.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ghora Ghora Rajadhi Raja Lyric Song | Bad Boyz | Omar Lulu | Vineeth Sreenivasan | Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=MNxISsHiDyk</id>
+        <link href="https://www.youtube.com/watch?v=MNxISsHiDyk"/>
+        <updated>2024-09-09T11:30:12.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pirakilaro - Ambient Lofi | Pavi Caretaker | Midhun Mukundan | Kapil Kapilan | Joyal MJ]]></title>
+        <id>https://www.youtube.com/watch?v=ayh6RXjJR44</id>
+        <link href="https://www.youtube.com/watch?v=ayh6RXjJR44"/>
+        <updated>2024-09-09T11:30:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepame Koorirul Neekki Malayalam Video Song |  Unaroo Movie Song | Mohanlal | S Janaki | Ilayaraja]]></title>
+        <id>https://www.youtube.com/watch?v=iYUyXuCB15M</id>
+        <link href="https://www.youtube.com/watch?v=iYUyXuCB15M"/>
+        <updated>2024-09-09T11:23:20.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore The Inevitability Of Death in 𝐒𝐰𝐚𝐫𝐠𝐚𝐦 𝐓𝐡𝐮𝐫𝐚𝐤𝐤𝐮𝐧𝐧𝐚 𝐒𝐚𝐦𝐚𝐲𝐚𝐦 From #Manorathangal ❤‍🩹🎬]]></title>
+        <id>https://www.youtube.com/watch?v=Wxg0CakJLWE</id>
+        <link href="https://www.youtube.com/watch?v=Wxg0CakJLWE"/>
+        <updated>2024-09-09T10:58:12.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onam Wishes | Sangeetha Sreekanth #unpluggedsongs #malayalamcover #onam #onamwishes #shortsfeed]]></title>
         <id>https://www.youtube.com/watch?v=Nete7bFqmVc</id>
@@ -10561,15 +10597,6 @@
         <updated>2024-08-11T00:30:17.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu   #biblequotes #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=lpPHeOhcw4o</id>
-        <link href="https://www.youtube.com/watch?v=lpPHeOhcw4o"/>
-        <updated>2024-08-10T23:30:09.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
