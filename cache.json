@@ -2232,16 +2232,6 @@
           "wordCount": null,
           "title": "Pazham Thamizhppaattizhayum | Manichithrathaazhu | M G Radhakrishnan | K J Yesudas #SongOfTheDay",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eS7TIDwNytY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eS7TIDwNytY",
-          "publishedOn": "2024-08-12T10:30:07.000Z",
-          "wordCount": null,
-          "title": "Maayunnuvo Video Song | Idangal | Febin Thomas | Amal Mohan | Kiran KS",
-          "imageUrl": null
         }
       ]
     },
@@ -3014,6 +3004,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA",
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IklHmjHL4JA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IklHmjHL4JA",
+          "publishedOn": "2024-09-10T23:00:06.000Z",
+          "wordCount": null,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=G1RX7-QKxVw",
           "author": null,
@@ -9729,26 +9729,6 @@
           "publishedOn": "2024-08-13T08:52:14.000Z",
           "wordCount": null,
           "title": "Malakhamarude Rani | Anna Baby | Rev. Dr. Vincent Variath | Marian Songs 2024 | Latest Marian Songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AU1KnMWy1GE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AU1KnMWy1GE",
-          "publishedOn": "2024-08-12T10:30:06.000Z",
-          "wordCount": null,
-          "title": "Prarthanakkutharam #manoramachristiandevotionalsongs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FXjajzNCKMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FXjajzNCKMw",
-          "publishedOn": "2024-08-12T10:30:06.000Z",
-          "wordCount": null,
-          "title": "Ennenikken | Elizabeth Raju #manoramachristiandevotionalsongs",
           "imageUrl": null
         }
       ]
