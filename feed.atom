@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T16:08:34.536Z</updated>
+    <updated>2024-09-10T17:06:35.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10802,15 +10802,6 @@
         <id>https://www.youtube.com/watch?v=V87Bp4yKyfg</id>
         <link href="https://www.youtube.com/watch?v=V87Bp4yKyfg"/>
         <updated>2024-08-12T05:11:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vambanmarayi Lyric Video | Bharathanatyam | Saiju Kurup | Samuel Aby | Vaikom Vijayalakshmi | TTF]]></title>
-        <id>https://www.youtube.com/watch?v=h5BmLLAxqt0</id>
-        <link href="https://www.youtube.com/watch?v=h5BmLLAxqt0"/>
-        <updated>2024-08-12T04:45:24.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
