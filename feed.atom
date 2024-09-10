@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T17:06:35.698Z</updated>
+    <updated>2024-09-10T18:09:53.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10777,33 +10777,6 @@
         <updated>2024-08-12T06:30:31.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnooyal Aadi Vaa | SECRET | Lyrical Video | Santhosh Varma | Jakes Bejoy | Haritha Balakrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=GoK1ThhC1Mk</id>
-        <link href="https://www.youtube.com/watch?v=GoK1ThhC1Mk"/>
-        <updated>2024-08-12T05:34:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Goodbye | Youth Festival | Video | Alex | Ranjini Jose | M.Jayachandran | Jose Thomas]]></title>
-        <id>https://www.youtube.com/watch?v=Ei7xfvtnAfE</id>
-        <link href="https://www.youtube.com/watch?v=Ei7xfvtnAfE"/>
-        <updated>2024-08-12T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Professor Mathews Theme | SECRET | Lyrical Video | Jyothish T Kassi  | Jakes Bejoy | S N Swamy]]></title>
-        <id>https://www.youtube.com/watch?v=V87Bp4yKyfg</id>
-        <link href="https://www.youtube.com/watch?v=V87Bp4yKyfg"/>
-        <updated>2024-08-12T05:11:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
