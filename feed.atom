@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T02:05:54.892Z</updated>
+    <updated>2024-09-10T03:09:36.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10588,24 +10588,6 @@
         <updated>2024-08-11T15:30:01.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darling Darling - Darling Darling | Ouseppachan | Hariharan | S Ramesan Nair #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=sIq_kHCIdHE</id>
-        <link href="https://www.youtube.com/watch?v=sIq_kHCIdHE"/>
-        <updated>2024-08-11T14:30:18.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjakiliyude Moolipattunde  | Mohanlal | Gireesh Puthenchery | Raveendran | KJ Yesudas |]]></title>
-        <id>https://www.youtube.com/watch?v=Usrwga8hBI0</id>
-        <link href="https://www.youtube.com/watch?v=Usrwga8hBI0"/>
-        <updated>2024-08-11T14:30:10.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
