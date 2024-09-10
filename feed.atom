@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T20:08:43.208Z</updated>
+    <updated>2024-09-10T21:06:59.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10732,15 +10732,6 @@
         <updated>2024-08-12T09:26:21.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[താഴ്‌വാരം മണ്‍പൂവേ | Thaazhvaaram Manpoove Hit Song | Jackpot Movie  | K. J. Yesudas | K.S.Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=-LxtBLCFROU</id>
-        <link href="https://www.youtube.com/watch?v=-LxtBLCFROU"/>
-        <updated>2024-08-12T08:26:58.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
