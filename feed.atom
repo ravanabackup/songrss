@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T17:06:20.349Z</updated>
+    <updated>2024-09-11T18:10:12.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10795,24 +10795,6 @@
         <updated>2024-08-13T07:00:05.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അമ്മേ അമ്മേ നിർമല ഹൃദയമേ എന്ന് അമ്മേ | Christian Devotional Song #christiandevotinalsong #marymother]]></title>
-        <id>https://www.youtube.com/watch?v=kV62Saxnq6Q</id>
-        <link href="https://www.youtube.com/watch?v=kV62Saxnq6Q"/>
-        <updated>2024-08-13T06:08:58.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suryan Neeyaanda | Kochi Rajavu | K J Yesudas | Manjari | Gireesh Puthencherry | Vidyasagar | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=rXyUKfE44Ng</id>
-        <link href="https://www.youtube.com/watch?v=rXyUKfE44Ng"/>
-        <updated>2024-08-13T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
