@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T14:07:01.122Z</updated>
+    <updated>2024-09-11T15:07:51.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kasthoori ente kasthoori | Vishnulokam  |Kaithapram| MG Sreekumar | Raveendran #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=mrRUnh2di84</id>
+        <link href="https://www.youtube.com/watch?v=mrRUnh2di84"/>
+        <updated>2024-09-11T14:30:29.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavil Kodiyil  | Jayaram | KS Chithra | Biju Narayanan | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=XedaK5MH4w8</id>
+        <link href="https://www.youtube.com/watch?v=XedaK5MH4w8"/>
+        <updated>2024-09-11T14:30:23.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swayamvaramaayi... Malayalam Video Song | Paithrukam Movie Song | KS Chithra | Minmini]]></title>
+        <id>https://www.youtube.com/watch?v=b4KqGJp4_1s</id>
+        <link href="https://www.youtube.com/watch?v=b4KqGJp4_1s"/>
+        <updated>2024-09-11T14:15:06.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naazhiyoorippaalu Kondu Video Song | Raarichan Enna Pouran | Gayathri Sreekrishnan | Santha P Nair]]></title>
+        <id>https://www.youtube.com/watch?v=IUgF3RGHUNk</id>
+        <link href="https://www.youtube.com/watch?v=IUgF3RGHUNk"/>
+        <updated>2024-09-11T14:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swayamvaramaayi... Malayalam Video Song | Paithrukam Movie Song | KS Chithra | Minmini]]></title>
         <id>https://www.youtube.com/watch?v=7geXNgqM6L0</id>
