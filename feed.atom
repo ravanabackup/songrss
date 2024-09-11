@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T09:07:54.190Z</updated>
+    <updated>2024-09-11T10:07:57.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lost in the beat, found in the groove ⚡😎🎶 #Choolamadikkada #Shorts #YTShorts #SaregamaMalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=1SH4xhyEtBU</id>
+        <link href="https://www.youtube.com/watch?v=1SH4xhyEtBU"/>
+        <updated>2024-09-11T09:34:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കോസലേന്ദ്ര മാമവാമിത | Kosalendra mamavamitha | Swathithirunal | Evergreen Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=jRUprLYXXvA</id>
@@ -76,6 +85,15 @@
         <updated>2024-09-11T04:30:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuttikalam Thotte | Kuttante Shinigami | Jaffer Idukki | Rasheed Parakkal | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=i5HMnX5-Pak</id>
+        <link href="https://www.youtube.com/watch?v=i5HMnX5-Pak"/>
+        <updated>2024-09-11T04:14:54.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
