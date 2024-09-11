@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T11:08:13.712Z</updated>
+    <updated>2024-09-11T12:13:35.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവ മാതാവേ #Yeshuvinamme  #bestmalayalamchristiandevotionalsongs #christiandevotinalsong]]></title>
+        <id>https://www.youtube.com/watch?v=Mjd4GGm3xdQ</id>
+        <link href="https://www.youtube.com/watch?v=Mjd4GGm3xdQ"/>
+        <updated>2024-09-11T11:37:58.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mandarappoove - Mellofi | Kumari | Jakes Bejoy | Aavani Malhar | Heart Killer Beats]]></title>
+        <id>https://www.youtube.com/watch?v=zW0YzWUlzOM</id>
+        <link href="https://www.youtube.com/watch?v=zW0YzWUlzOM"/>
+        <updated>2024-09-11T11:30:29.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gangs of Sukumarakurup - Trailer | Rushin Shaji Kailas | Shebi Chowghat | Prajeevam Movies]]></title>
+        <id>https://www.youtube.com/watch?v=gdzOJsffYMA</id>
+        <link href="https://www.youtube.com/watch?v=gdzOJsffYMA"/>
+        <updated>2024-09-11T11:22:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നീലവാന ചോലയിൽ | Neelavana Cholayil | Evergreen Malayalam Song | Premabhishekam Movie | Kamal Haasan]]></title>
         <id>https://www.youtube.com/watch?v=1kmDM5QqDN0</id>
@@ -10696,15 +10723,6 @@
         <updated>2024-08-13T00:30:26.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu  #biblequotes #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=PUOiX0xE9VU</id>
-        <link href="https://www.youtube.com/watch?v=PUOiX0xE9VU"/>
-        <updated>2024-08-12T23:30:04.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
