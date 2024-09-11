@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T02:05:07.746Z</updated>
+    <updated>2024-09-11T03:08:14.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നെറ്റിയിൽ പൂവുള്ള സ്വർണ്ണ ചിറകുള്ള പക്ഷി Nettiyil Poovulla | Mammootty | KJ Yesudas | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=GcMM9ntS-ow</id>
+        <link href="https://www.youtube.com/watch?v=GcMM9ntS-ow"/>
+        <updated>2024-09-11T02:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K.G .MARKOSE HITS - VOL .2 /.     OWN MEDIA MUSIC COLLECTION]]></title>
+        <id>https://www.youtube.com/watch?v=ph__9KYXv1c</id>
+        <link href="https://www.youtube.com/watch?v=ph__9KYXv1c"/>
+        <updated>2024-09-11T02:14:18.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #malayalamchristiancoversongs #malayalamchristiandevotionalsongs #worshipsongs]]></title>
         <id>https://www.youtube.com/watch?v=d94Px03rnkE</id>
@@ -10597,33 +10615,6 @@
         <updated>2024-08-12T16:12:56.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathe Vellitheril|Manathe Vellitheru|Shobhana|Vineeth|]]></title>
-        <id>https://www.youtube.com/watch?v=qYUFFgywWWc</id>
-        <link href="https://www.youtube.com/watch?v=qYUFFgywWWc"/>
-        <updated>2024-08-12T14:30:25.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbi Penne | Jayaram | KJ Yesudas | Sujatha Mohan | SP Venkitesh | Shibu Chakravarthy]]></title>
-        <id>https://www.youtube.com/watch?v=wiIBcdCzzvc</id>
-        <link href="https://www.youtube.com/watch?v=wiIBcdCzzvc"/>
-        <updated>2024-08-12T14:30:24.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pazham Thamizhppaattizhayum | Manichithrathaazhu | M G Radhakrishnan | K J Yesudas #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=UVy2TJgS9TY</id>
-        <link href="https://www.youtube.com/watch?v=UVy2TJgS9TY"/>
-        <updated>2024-08-12T14:30:20.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
