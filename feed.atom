@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T06:11:20.740Z</updated>
+    <updated>2024-09-11T07:07:33.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayajalakkara | Karthika R Kumar #onamfestivel #onamsongs #onam #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=7rx38SM0zFo</id>
+        <link href="https://www.youtube.com/watch?v=7rx38SM0zFo"/>
+        <updated>2024-09-11T07:00:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maamarangale | Ee Pattanathil Bhootham | Video | Mammootty | Shaan Rahman | Gireesh Puthencherry]]></title>
         <id>https://www.youtube.com/watch?v=20Xw8tzRTlw</id>
@@ -10640,15 +10649,6 @@
         <id>https://www.youtube.com/watch?v=bUk5lQrqrdM</id>
         <link href="https://www.youtube.com/watch?v=bUk5lQrqrdM"/>
         <updated>2024-08-12T20:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=OzINM_oiHNA</id>
-        <link href="https://www.youtube.com/watch?v=OzINM_oiHNA"/>
-        <updated>2024-08-12T19:00:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
