@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T00:36:16.689Z</updated>
+    <updated>2024-09-12T02:05:08.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dinam Dinam Dinam Nee Vazhthuka | Christian Devotional | Shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=MeBFSZs1Ev0</id>
+        <link href="https://www.youtube.com/watch?v=MeBFSZs1Ev0"/>
+        <updated>2024-09-12T01:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജീവന്റെ അർഥം എന്തെന്ന് നിങ്ങൾ ചിന്തിക്കും ഈ ഗാനങ്ങൾ കേട്ടാൽ | Christian Devotional Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=_zdPiPUTYf8</id>
@@ -10579,69 +10588,6 @@
         <updated>2024-08-13T14:30:00.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #weddingsongs #malayalamworshipsong #worshipsongs #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=oUXEqR8l9Is</id>
-        <link href="https://www.youtube.com/watch?v=oUXEqR8l9Is"/>
-        <updated>2024-08-13T13:30:22.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singer Of The Week | Alenia | Christian Devotional Songs | Joji Johns | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=XcBaz5K348k</id>
-        <link href="https://www.youtube.com/watch?v=XcBaz5K348k"/>
-        <updated>2024-08-13T13:30:18.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orukodi Janmami |  Enjoy the Hits of Jino Kunnumpurath✨| Kester |  @JinoKunnumpurathu   #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=91AREJ9wJcU</id>
-        <link href="https://www.youtube.com/watch?v=91AREJ9wJcU"/>
-        <updated>2024-08-13T13:30:04.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezhazhakumay Poovanikalil Song | Kakkakum Poochakum Kalyanam Song | K J Yesudas | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=hclA5779vBk</id>
-        <link href="https://www.youtube.com/watch?v=hclA5779vBk"/>
-        <updated>2024-08-13T13:00:49.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleash your inner dancer with #Nunakkuzhi #basiljoseph #graceantony #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=TrkVsH2PHXo</id>
-        <link href="https://www.youtube.com/watch?v=TrkVsH2PHXo"/>
-        <updated>2024-08-13T12:58:13.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പവിഴമല്ലിപ്പൂവുറങ്ങീ പകലു പോകയായ് Pavizhamalli Poovurangi | KS Chithra | Ambika | Ratheesh| Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=-6eo9p6u1fI</id>
-        <link href="https://www.youtube.com/watch?v=-6eo9p6u1fI"/>
-        <updated>2024-08-13T12:48:43.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹനാഥ | Super Hit Malayalam Christian Devotional Song | Mother Mary Song | Songs of Divine Mother]]></title>
-        <id>https://www.youtube.com/watch?v=jOKy5-iMnUU</id>
-        <link href="https://www.youtube.com/watch?v=jOKy5-iMnUU"/>
-        <updated>2024-08-13T12:45:33.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
