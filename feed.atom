@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T21:06:51.030Z</updated>
+    <updated>2024-09-12T22:08:00.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10714,33 +10714,6 @@
         <updated>2024-08-14T10:08:09.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുഷ്പമംഗലയാം ഭൂമിക്ക്  | Pushpamangalayam | Nakhangal | Malayalam Movie Song | Madhu | Jayabharathi]]></title>
-        <id>https://www.youtube.com/watch?v=ErSk9u0qr9c</id>
-        <link href="https://www.youtube.com/watch?v=ErSk9u0qr9c"/>
-        <updated>2024-08-14T10:01:16.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presenting the Motion Poster of Kadha Innuvare starring #BijuMenon & #AnuMohan]]></title>
-        <id>https://www.youtube.com/watch?v=EgvH7OtFNhg</id>
-        <link href="https://www.youtube.com/watch?v=EgvH7OtFNhg"/>
-        <updated>2024-08-14T09:51:51.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിശ്വം കാക്കുന്ന നാഥാ  | Christian Devotional Song #christiandevotinalsong #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=3sMa2VyOldw</id>
-        <link href="https://www.youtube.com/watch?v=3sMa2VyOldw"/>
-        <updated>2024-08-14T09:30:01.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
