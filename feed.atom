@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T14:08:09.677Z</updated>
+    <updated>2024-09-12T15:07:23.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pichakappoomkavukal | No.20 Madras Mail | Ousepachan |MG Sreekumar | Shibu Chakravarthy#SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=r0CwJRIgs-c</id>
+        <link href="https://www.youtube.com/watch?v=r0CwJRIgs-c"/>
+        <updated>2024-09-12T14:30:32.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pooranamathu Video Song | Raarichan Enna Pauran | K Raghavan #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=nkBhwdbPyhg</id>
+        <link href="https://www.youtube.com/watch?v=nkBhwdbPyhg"/>
+        <updated>2024-09-12T14:30:30.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Othiri Othiri Swapnangal | Divya Unni | KS Chithra | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=XR45BMfTX5w</id>
+        <link href="https://www.youtube.com/watch?v=XR45BMfTX5w"/>
+        <updated>2024-09-12T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Devotional Songs Malayalam | Manoj Christy | Joji Johns | Wilson Piravom | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=1qmlFF54u88</id>
