@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T19:04:40.971Z</updated>
+    <updated>2024-09-12T20:08:31.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 13 # Athiravile Prarthana 13th of September 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=g1xDbhcZweE</id>
+        <link href="https://www.youtube.com/watch?v=g1xDbhcZweE"/>
+        <updated>2024-09-12T20:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th SEP 2024]]></title>
         <id>https://www.youtube.com/watch?v=JNGeKqrGlZw</id>
@@ -10732,33 +10741,6 @@
         <updated>2024-08-14T09:30:01.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MrAndMrsBachelor teaser OUT NOW! #indrajithsukumaran #anaswararajan #trending #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=TJ8k_wk9jsA</id>
-        <link href="https://www.youtube.com/watch?v=TJ8k_wk9jsA"/>
-        <updated>2024-08-14T08:05:49.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയിക്കാൻ കൊതിക്കുന്നവർക്കും പ്രണയിക്കുന്നവർക്കും ഒരുപാട് ഇഷ്ടമുള്ള പ്രണയഗാനങ്ങൾ | LOVE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=6iRJGI7vJVI</id>
-        <link href="https://www.youtube.com/watch?v=6iRJGI7vJVI"/>
-        <updated>2024-08-14T07:30:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koodashayay | Christian Video Song | Sebu George | Joby Kavalam | Holy Communion Song | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=6Y4_ueH2mU4</id>
-        <link href="https://www.youtube.com/watch?v=6Y4_ueH2mU4"/>
-        <updated>2024-08-14T07:14:53.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
