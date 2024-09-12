@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T17:07:13.127Z</updated>
+    <updated>2024-09-12T18:10:52.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10795,33 +10795,6 @@
         <updated>2024-08-14T06:30:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheela Old Malayalam Movie Songs | Ashwamedham Remastered Malayalam Songs | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=s5T0j_PFvDw</id>
-        <link href="https://www.youtube.com/watch?v=s5T0j_PFvDw"/>
-        <updated>2024-08-14T05:48:41.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premikkumbol | Cover Film Song Video | Anjali Surendran | Rafeeq Ahmed | Bijibal | Salt N' Pepper]]></title>
-        <id>https://www.youtube.com/watch?v=JXQ3m3Pfz_A</id>
-        <link href="https://www.youtube.com/watch?v=JXQ3m3Pfz_A"/>
-        <updated>2024-08-14T05:30:26.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മോഹത്തിന്റെ തേരിലേറി പോകരുതേ | Christian Devotional Song #christiandevotinalsong #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=raiHq6sit0g</id>
-        <link href="https://www.youtube.com/watch?v=raiHq6sit0g"/>
-        <updated>2024-08-14T05:29:04.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
