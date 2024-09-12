@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T10:08:36.258Z</updated>
+    <updated>2024-09-12T11:06:27.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onam Wishes | Sony Mohan Onam Wishes | #unpluggedsongs #malayalamcover #onam #onamwishes #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=gbmdTPFCPQY</id>
+        <link href="https://www.youtube.com/watch?v=gbmdTPFCPQY"/>
+        <updated>2024-09-12T10:30:27.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഓണപ്പാട്ടുകൾ | Kalabhavan Mani Onam Adipoli Songs | Onam Malayalam Songs | Kalabhavan Mani]]></title>
         <id>https://www.youtube.com/watch?v=hYkMvjo2MC8</id>
@@ -10705,15 +10714,6 @@
         <updated>2024-08-13T23:30:06.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=aclBA2cXWmA</id>
-        <link href="https://www.youtube.com/watch?v=aclBA2cXWmA"/>
-        <updated>2024-08-13T23:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
