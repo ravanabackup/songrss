@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T11:07:06.796Z</updated>
+    <updated>2024-09-13T12:13:19.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thottunkarakkaari Pennungakkithara VideoSong |Savithriyude Aranjanam |Kalabhavan Mani|M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=myZp70EEa3s</id>
+        <link href="https://www.youtube.com/watch?v=myZp70EEa3s"/>
+        <updated>2024-09-13T12:11:42.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pranasakhi - Audio Song | Pareeksha | M.S. Baburaj | K.J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=WI9rnBfxWe4</id>
+        <link href="https://www.youtube.com/watch?v=WI9rnBfxWe4"/>
+        <updated>2024-09-13T11:30:27.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kattile Kannan | Animation Video #kattilekannan #animation #malayalamcartoon #shorts #shortsfeed]]></title>
         <id>https://www.youtube.com/watch?v=riAmgck7rYw</id>
@@ -13,6 +31,15 @@
         <updated>2024-09-13T10:30:22.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onam Kunjonam | Sunilkumar | Miah Mahek | Prathyaskumar | Sudhi | Onam Song 2024]]></title>
+        <id>https://www.youtube.com/watch?v=gsTOxGgvsys</id>
+        <link href="https://www.youtube.com/watch?v=gsTOxGgvsys"/>
+        <updated>2024-09-13T10:20:41.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +67,15 @@
         <updated>2024-09-13T09:46:33.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hridhaya Poothalam | Sumesh Ayiroor | Thruvizha Venu | K. S. Premshaj | Onam Song]]></title>
+        <id>https://www.youtube.com/watch?v=a7-2hYn3w_s</id>
+        <link href="https://www.youtube.com/watch?v=a7-2hYn3w_s"/>
+        <updated>2024-09-13T08:48:56.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -10588,24 +10624,6 @@
         <updated>2024-08-15T00:30:06.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu       #biblequotes #mathavu]]></title>
-        <id>https://www.youtube.com/watch?v=hlZlY9cPFGc</id>
-        <link href="https://www.youtube.com/watch?v=hlZlY9cPFGc"/>
-        <updated>2024-08-14T23:30:10.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 15th of August 2024 # Mathavinte Japamala # Prakashathinte Rahasyangal 15th of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=6kD_EF_ufgM</id>
-        <link href="https://www.youtube.com/watch?v=6kD_EF_ufgM"/>
-        <updated>2024-08-14T23:30:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
