@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T22:07:06.097Z</updated>
+    <updated>2024-09-13T23:07:42.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=PBc8TwCkMOA</id>
+        <link href="https://www.youtube.com/watch?v=PBc8TwCkMOA"/>
+        <updated>2024-09-13T23:01:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  September 14 Athiravile Prarthana 14th of September 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=u2UKu1PmRHg</id>
@@ -10669,15 +10678,6 @@
         <updated>2024-08-15T11:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാണുന്ന കാഴ്ചയെല്ലാം | Super Hit Christian Devotional Songs | Kester Hits | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=SBVf6d_wq30</id>
-        <link href="https://www.youtube.com/watch?v=SBVf6d_wq30"/>
-        <updated>2024-08-15T10:51:47.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
