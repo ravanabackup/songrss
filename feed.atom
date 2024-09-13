@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T18:10:08.225Z</updated>
+    <updated>2024-09-13T19:04:17.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th SEP 2024]]></title>
+        <id>https://www.youtube.com/watch?v=u65cqqBnT7E</id>
+        <link href="https://www.youtube.com/watch?v=u65cqqBnT7E"/>
+        <updated>2024-09-13T19:00:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bad Boyz Success Teaser | Omar Lulu | Rahman | Dhyan Sreenivasan]]></title>
         <id>https://www.youtube.com/watch?v=mecPoCrNUmw</id>
@@ -10651,33 +10660,6 @@
         <updated>2024-08-15T10:51:47.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Poove Song #love #malayalamsongstatus #devadoothansongs #devadoothan]]></title>
-        <id>https://www.youtube.com/watch?v=632wMcb1cGA</id>
-        <link href="https://www.youtube.com/watch?v=632wMcb1cGA"/>
-        <updated>2024-08-15T07:00:04.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൃഷ്ണപക്ഷക്കിളി ചിലച്ചു | Krishna Pacha Kili Chilachu | Nakhangal Movie Song | Madhu | Jayabharathi]]></title>
-        <id>https://www.youtube.com/watch?v=inGx29v3KTs</id>
-        <link href="https://www.youtube.com/watch?v=inGx29v3KTs"/>
-        <updated>2024-08-15T06:48:44.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അന്ത നാളിൽ അന്തി നേരം 😍😍| Pattam Pole | Dulquer Salman| Malavika | Madhu Balakrishnan | Harini #love]]></title>
-        <id>https://www.youtube.com/watch?v=R9Z89jGLnC0</id>
-        <link href="https://www.youtube.com/watch?v=R9Z89jGLnC0"/>
-        <updated>2024-08-15T06:24:50.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
