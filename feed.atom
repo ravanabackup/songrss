@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T02:06:10.940Z</updated>
+    <updated>2024-09-13T03:09:19.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10507,24 +10507,6 @@
         <updated>2024-08-14T16:55:14.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varuvaanillaaruminnorunalum | Manichithrathaazhu | K S Chithra | M G Radhakrishnan #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=tj4T_yFulLU</id>
-        <link href="https://www.youtube.com/watch?v=tj4T_yFulLU"/>
-        <updated>2024-08-14T14:30:31.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #marthomaweddingsongs #marthomasyrianchurch #worshipsongs #song]]></title>
-        <id>https://www.youtube.com/watch?v=kyXzn4CnlnA</id>
-        <link href="https://www.youtube.com/watch?v=kyXzn4CnlnA"/>
-        <updated>2024-08-14T14:30:17.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
