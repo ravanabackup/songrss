@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-13T14:07:10.228Z</updated>
+    <updated>2024-09-13T15:07:05.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഗീതദുനികു തക ധിം | Geethaduniku thaka Dheem | Classic Hit Song | Swathithirunal | Malayalam Movie]]></title>
+        <id>https://www.youtube.com/watch?v=2p5cFtN0Sik</id>
+        <link href="https://www.youtube.com/watch?v=2p5cFtN0Sik"/>
+        <updated>2024-09-13T14:56:36.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etho Nidrathan | Mohanlal | Nandhini | KJ Yesudas | Raveendran | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=Nvs4lE9mhus</id>
+        <link href="https://www.youtube.com/watch?v=Nvs4lE9mhus"/>
+        <updated>2024-09-13T14:30:22.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moovanthi Thazhvarayil | Raveendran | Gireesh Puthenchery l KJ Yesudas #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=fIa6WzyMj70</id>
+        <link href="https://www.youtube.com/watch?v=fIa6WzyMj70"/>
+        <updated>2024-09-13T14:30:16.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകമെങ്ങുമുള്ള സംഗീതാസ്വാദകർ ആവശ്യപ്പെട്ട തെരഞ്ഞെടുത്ത ഗാനങ്ങൾ | Songs Of The Week | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=wUEEvfwJrUo</id>
@@ -10678,24 +10705,6 @@
         <updated>2024-08-15T03:30:34.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manorathangal | Grand Launch Event Live | A ZEE5 Original | Mohanlal, Mammootty, Fahadh | Watch Now]]></title>
-        <id>https://www.youtube.com/watch?v=UTQk10koOvc</id>
-        <link href="https://www.youtube.com/watch?v=UTQk10koOvc"/>
-        <updated>2024-08-15T03:05:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam Patriotic Songs - Independence Day Special | Bharatha Mennal]]></title>
-        <id>https://www.youtube.com/watch?v=AzryRhhVhXo</id>
-        <link href="https://www.youtube.com/watch?v=AzryRhhVhXo"/>
-        <updated>2024-08-15T02:30:10.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
