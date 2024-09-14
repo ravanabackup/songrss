@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T17:07:13.218Z</updated>
+    <updated>2024-09-14T18:09:03.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10624,51 +10624,6 @@
         <updated>2024-08-16T06:23:17.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Kanmaniye| Music Video| Dhayanesh Kumar R | Sam Vishal | Padmaja Sreeenivasan| Vijay Kamalakannan]]></title>
-        <id>https://www.youtube.com/watch?v=1WQO2VrCBag</id>
-        <link href="https://www.youtube.com/watch?v=1WQO2VrCBag"/>
-        <updated>2024-08-16T06:08:54.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam Romantic Old Superhit Song l Ashwamedham Movie | Sheela, Sathyan]]></title>
-        <id>https://www.youtube.com/watch?v=de4y2tI9fgU</id>
-        <link href="https://www.youtube.com/watch?v=de4y2tI9fgU"/>
-        <updated>2024-08-16T05:33:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhoorathu Dhoorathu Video Song | Panchayathu Jetty | Marimayam Team #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=eCV2fO86PoY</id>
-        <link href="https://www.youtube.com/watch?v=eCV2fO86PoY"/>
-        <updated>2024-08-16T05:30:17.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Favourite Movie Songs | Celebrity Playlist | Sathyan Anthikkad | Super Hit Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ovcH0-GXmO8</id>
-        <link href="https://www.youtube.com/watch?v=ovcH0-GXmO8"/>
-        <updated>2024-08-16T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guruvayoorambala Nadayil - Video Jukebox | Prithviraj | Basil Joseph | Ankit Menon | Vipin Das]]></title>
-        <id>https://www.youtube.com/watch?v=Df4z_fjy5Hg</id>
-        <link href="https://www.youtube.com/watch?v=Df4z_fjy5Hg"/>
-        <updated>2024-08-16T05:30:06.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
