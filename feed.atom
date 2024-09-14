@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T10:07:16.917Z</updated>
+    <updated>2024-09-14T11:03:30.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓണപ്പൂക്കൾ ചൂടിനിൽക്കും | Ambarappoo | Irupatham Noottandu | Mohanlal | Urvashi | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=um7aHJEpsew</id>
+        <link href="https://www.youtube.com/watch?v=um7aHJEpsew"/>
+        <updated>2024-09-14T10:59:42.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onam Wishes | Vishnu Krishnan #unpluggedsongs #malayalamcover #onam #onamwishes #shortsfeed #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=bo4thldewWM</id>
+        <link href="https://www.youtube.com/watch?v=bo4thldewWM"/>
+        <updated>2024-09-14T10:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parannu Parannu|Parannu Parannu Parannu Chellan|Video|Vidyadharan Master|LPR Varma|Vayalar RamaVarma]]></title>
+        <id>https://www.youtube.com/watch?v=g2p5ALm_Qyg</id>
+        <link href="https://www.youtube.com/watch?v=g2p5ALm_Qyg"/>
+        <updated>2024-09-14T10:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾ തിരുവോണത്തെ വരവേൽക്കാനുള്ള തിരക്കിനിടയിലും  കേൾക്കാൻ വിട്ടുപോകാത്ത സിനിമാഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=TmhWtIJqa_Q</id>
@@ -13,6 +40,15 @@
         <updated>2024-09-14T07:30:12.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njanum Neeyum Lyric Video | Chithini | East Coast Vijayan |Amith, Vinay Forrt, Mokksha | Ranjin Raj]]></title>
+        <id>https://www.youtube.com/watch?v=RWmWgmJ0qA0</id>
+        <link href="https://www.youtube.com/watch?v=RWmWgmJ0qA0"/>
+        <updated>2024-09-14T06:43:17.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
@@ -10561,15 +10597,6 @@
         <updated>2024-08-15T23:30:08.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=PPXnXLDUo_w</id>
-        <link href="https://www.youtube.com/watch?v=PPXnXLDUo_w"/>
-        <updated>2024-08-15T23:00:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
