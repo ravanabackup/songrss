@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T21:05:45.398Z</updated>
+    <updated>2024-09-14T22:06:42.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10588,33 +10588,6 @@
         <updated>2024-08-16T10:30:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paraspara...#christiandevotionalsongsmalayalam #bestmalayalamchristiandevotionalsongs #chithraun]]></title>
-        <id>https://www.youtube.com/watch?v=8lcXdGyfXrU</id>
-        <link href="https://www.youtube.com/watch?v=8lcXdGyfXrU"/>
-        <updated>2024-08-16T10:03:51.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #vnagel #worshipsongs #mariakolady #malayalamchristiancoversongs #music #song]]></title>
-        <id>https://www.youtube.com/watch?v=MWXkf8KjZv4</id>
-        <link href="https://www.youtube.com/watch?v=MWXkf8KjZv4"/>
-        <updated>2024-08-16T10:00:47.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയത്തോട് ചേർന്ന പാട്ടുകൾ | Malayalam Favourites | KS Chithra | K J Yesudas | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=A6d9UFsDrPY</id>
-        <link href="https://www.youtube.com/watch?v=A6d9UFsDrPY"/>
-        <updated>2024-08-16T09:31:25.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
