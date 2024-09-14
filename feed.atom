@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T11:03:30.659Z</updated>
+    <updated>2024-09-14T12:12:15.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pularkale Poovilikettu - Video Lyrical | Pavi Caretaker | Dilieep | Midhun Mukundan | Vijay Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=XQzIb1w3JIU</id>
+        <link href="https://www.youtube.com/watch?v=XQzIb1w3JIU"/>
+        <updated>2024-09-14T11:30:18.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarari Rariro Animation Video | Lyrical Video | Animation Video Film Song | K J Yesudas | Kangaroo]]></title>
+        <id>https://www.youtube.com/watch?v=T3Tzjz08ZYA</id>
+        <link href="https://www.youtube.com/watch?v=T3Tzjz08ZYA"/>
+        <updated>2024-09-14T11:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഓണപ്പൂക്കൾ ചൂടിനിൽക്കും | Ambarappoo | Irupatham Noottandu | Mohanlal | Urvashi | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=um7aHJEpsew</id>
@@ -10588,15 +10606,6 @@
         <updated>2024-08-16T00:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu     #biblequotes #mathavu]]></title>
-        <id>https://www.youtube.com/watch?v=qp9bwS6EloA</id>
-        <link href="https://www.youtube.com/watch?v=qp9bwS6EloA"/>
-        <updated>2024-08-15T23:30:08.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
