@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T11:06:45.719Z</updated>
+    <updated>2024-09-17T12:13:44.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ponnurukum - Audio Song | Koodevide | Johnson | S. Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=SvpRr88BNcs</id>
+        <link href="https://www.youtube.com/watch?v=SvpRr88BNcs"/>
+        <updated>2024-09-17T11:30:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pon Vanile | Pathimoonnam Rathri | Video Song | Haricharan | Raju George | Maneesh Babu | D2K Films]]></title>
+        <id>https://www.youtube.com/watch?v=NNJeWhgUabI</id>
+        <link href="https://www.youtube.com/watch?v=NNJeWhgUabI"/>
+        <updated>2024-09-17T11:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramonnatha Sutha | Wilson Piravom | Chavara Kuriakose Elias | M.K.Arjunan Master]]></title>
+        <id>https://www.youtube.com/watch?v=LrZ2Zpv-9dE</id>
+        <link href="https://www.youtube.com/watch?v=LrZ2Zpv-9dE"/>
+        <updated>2024-09-17T11:30:07.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#orunokkil #madhuramanoharamoham #heshamabdulwahab #songoftheday #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=mtZujeMvOJY</id>
+        <link href="https://www.youtube.com/watch?v=mtZujeMvOJY"/>
+        <updated>2024-09-17T11:23:39.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junile Nilamazhayil |  Nammal Thammil #kjyesudas #sujatha #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=ZBPhPp_lRVA</id>
@@ -10399,15 +10435,6 @@
         <updated>2024-08-19T00:30:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu     #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=fXnN6Wj3JNc</id>
-        <link href="https://www.youtube.com/watch?v=fXnN6Wj3JNc"/>
-        <updated>2024-08-18T23:30:09.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
