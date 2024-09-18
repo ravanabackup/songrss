@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T20:08:20.298Z</updated>
+    <updated>2024-09-18T21:07:14.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10354,15 +10354,6 @@
         <updated>2024-08-20T10:01:57.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആട്ടുതൊട്ടിൽ കെട്ടുകയാണാലിൻ കൊമ്പിൽആലോലം വീശും തെന്നൽ | Padmapriya | Rakhi R Nath | Shyam Dharman]]></title>
-        <id>https://www.youtube.com/watch?v=FbJ0JzAH1PI</id>
-        <link href="https://www.youtube.com/watch?v=FbJ0JzAH1PI"/>
-        <updated>2024-08-20T08:30:06.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
