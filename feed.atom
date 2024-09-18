@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T14:07:50.789Z</updated>
+    <updated>2024-09-18T15:07:56.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another melodious masterpiece after #Jeevana! #Paathirayil is out now! #heshamabdulwahab #swathymanu]]></title>
+        <id>https://www.youtube.com/watch?v=BjAKUYBFXCM</id>
+        <link href="https://www.youtube.com/watch?v=BjAKUYBFXCM"/>
+        <updated>2024-09-18T14:36:49.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naazhiyoorippaalu Kondu Video Song | Raarichan Enna Pouran | Gayathri Sreekrishnan #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=_pIaGmuJZZY</id>
+        <link href="https://www.youtube.com/watch?v=_pIaGmuJZZY"/>
+        <updated>2024-09-18T14:30:22.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katturumbinu Kalyanam | Priyam |  Berny Ignatius | S Ramesan Nair | Kunchacko Boban | #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=hFT_-Ls_KTs</id>
+        <link href="https://www.youtube.com/watch?v=hFT_-Ls_KTs"/>
+        <updated>2024-09-18T14:30:19.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaalkkanezhuthiya | Paithrukam Movie Song | K J Yesudas | Jayaram | Suresh Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=-gzAJ6cZmyY</id>
+        <link href="https://www.youtube.com/watch?v=-gzAJ6cZmyY"/>
+        <updated>2024-09-18T14:30:00.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #song #musicsong #malayalamworshipsong #malayalamchristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=xXbQr3OnOS4</id>
+        <link href="https://www.youtube.com/watch?v=xXbQr3OnOS4"/>
+        <updated>2024-09-18T14:24:10.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #baptismsongs #mamodeesa #orthodoxliturgy  #malayalamworshipsong]]></title>
         <id>https://www.youtube.com/watch?v=akmBw9HUS80</id>
@@ -10363,15 +10408,6 @@
         <updated>2024-08-20T03:30:32.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാണിക്യ കല്ലിൽ മൂക്കുത്തി ചാർത്തും.💃🕺 Manikya Kallin | Pokkiri Raja | Prithviraj | Swetha Menon]]></title>
-        <id>https://www.youtube.com/watch?v=kyIjVq80gQA</id>
-        <link href="https://www.youtube.com/watch?v=kyIjVq80gQA"/>
-        <updated>2024-08-20T02:30:24.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
