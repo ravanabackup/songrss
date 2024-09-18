@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T12:13:49.354Z</updated>
+    <updated>2024-09-18T13:15:37.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NIN DIVYA NAMAM |  BEAUTIFUL NEW CHRISTIAN SONG | ANOOJ BABU | PRAVEEN M KUMAR | #shorts #reel 3]]></title>
+        <id>https://www.youtube.com/watch?v=ljf1JzDuOqE</id>
+        <link href="https://www.youtube.com/watch?v=ljf1JzDuOqE"/>
+        <updated>2024-09-18T13:00:53.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 18th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=y0lzdNYqt_4</id>
+        <link href="https://www.youtube.com/watch?v=y0lzdNYqt_4"/>
+        <updated>2024-09-18T12:30:54.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രാർത്ഥിക്കുന്നവനൊരുനാളും പരാജയപ്പെടുകയില്ല. | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Jht0MqN40aM</id>
+        <link href="https://www.youtube.com/watch?v=Jht0MqN40aM"/>
+        <updated>2024-09-18T12:30:26.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paathirayil| Nellimalayum Kadannu Madhura Vare| Hesham Abdul Wahab,Shwetha Somasundaran| Swathy Manu]]></title>
+        <id>https://www.youtube.com/watch?v=1I_iEN98Kio</id>
+        <link href="https://www.youtube.com/watch?v=1I_iEN98Kio"/>
+        <updated>2024-09-18T12:30:18.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mizhiyil Mizhiyil Video Song | Mayabazar | Mammootty | Sheela Kaur | Sujatha Mohan | Sreenivas]]></title>
         <id>https://www.youtube.com/watch?v=DzpxheVXUfY</id>
@@ -10300,24 +10336,6 @@
         <updated>2024-08-20T02:30:24.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pullankuzhalin Nadhampole | Christian Melody Song | Alvina Mary | Holy Communion Song | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=vjUMJ9y27xU</id>
-        <link href="https://www.youtube.com/watch?v=vjUMJ9y27xU"/>
-        <updated>2024-08-20T00:30:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 20th of August 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 20th of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=zNc7cECEvqE</id>
-        <link href="https://www.youtube.com/watch?v=zNc7cECEvqE"/>
-        <updated>2024-08-20T00:30:26.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
