@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T17:07:02.535Z</updated>
+    <updated>2024-09-19T18:10:06.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10363,24 +10363,6 @@
         <updated>2024-08-21T07:00:30.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadiyum Paranjum | പതിനെട്ടാമത്തെവയസ്സിൽ ആകാശവാണിയിലെ ആദ്യഗാനം| പാടിയും പറഞ്ഞും| Sreekumaran Thampi]]></title>
-        <id>https://www.youtube.com/watch?v=-kp6Vx5IU_8</id>
-        <link href="https://www.youtube.com/watch?v=-kp6Vx5IU_8"/>
-        <updated>2024-08-21T05:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thakilu Kottana | Pattam Movie | Vidhu Prathap | Rejeesh V Raja | Prasanth Mohan M P |Bineesh Bastin]]></title>
-        <id>https://www.youtube.com/watch?v=Fcj9rgP3evA</id>
-        <link href="https://www.youtube.com/watch?v=Fcj9rgP3evA"/>
-        <updated>2024-08-21T05:19:30.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
 </feed>
