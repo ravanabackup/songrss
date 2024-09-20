@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T23:07:55.350Z</updated>
+    <updated>2024-09-20T00:36:51.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 20th of September 2024 # Mathavinte Japamala #dhukhathinterahasyangal 20th of September 24]]></title>
+        <id>https://www.youtube.com/watch?v=PB0k5WSOVe0</id>
+        <link href="https://www.youtube.com/watch?v=PB0k5WSOVe0"/>
+        <updated>2024-09-20T00:30:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu  #shorts #shortvideo]]></title>
+        <id>https://www.youtube.com/watch?v=PBNJttO8A14</id>
+        <link href="https://www.youtube.com/watch?v=PBNJttO8A14"/>
+        <updated>2024-09-19T23:30:08.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=joor7LN4Hss</id>
@@ -10228,51 +10246,6 @@
         <updated>2024-08-21T13:00:31.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യാത്ര തുടരാം ജീവജല നദിയിലേക്ക്  | 😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=mOqM7Eub46s</id>
-        <link href="https://www.youtube.com/watch?v=mOqM7Eub46s"/>
-        <updated>2024-08-21T12:30:36.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 21st of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=iVZmCOYWSKo</id>
-        <link href="https://www.youtube.com/watch?v=iVZmCOYWSKo"/>
-        <updated>2024-08-21T12:30:35.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranayame - Audio Song | Pappa | Naresh Iyer | Jayesh Stephen | Vinosh Kumar | Shibu Andrews]]></title>
-        <id>https://www.youtube.com/watch?v=Ot7jVTOVtus</id>
-        <link href="https://www.youtube.com/watch?v=Ot7jVTOVtus"/>
-        <updated>2024-08-21T12:30:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallan Video song | Thaanara | Haridas |Vishnu Unnikrishnan | Raffi| Shine Tom Chacko |One Day Films]]></title>
-        <id>https://www.youtube.com/watch?v=0dkzW_iYr-o</id>
-        <link href="https://www.youtube.com/watch?v=0dkzW_iYr-o"/>
-        <updated>2024-08-21T12:30:00.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urangaathentunni Video Song | Unniyarcha | S Janaki #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=xGH2boi5_4s</id>
-        <link href="https://www.youtube.com/watch?v=xGH2boi5_4s"/>
-        <updated>2024-08-21T12:15:09.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
 </feed>
