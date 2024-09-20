@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T05:07:43.749Z</updated>
+    <updated>2024-09-20T06:11:16.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parayuvaan Ariyathe - Video Song | Koon | Ajith Mathew | Yazin Nizar | Gowry Lekshmi]]></title>
+        <id>https://www.youtube.com/watch?v=mluwrTkGqtw</id>
+        <link href="https://www.youtube.com/watch?v=mluwrTkGqtw"/>
+        <updated>2024-09-20T05:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vadakkan Kathrika | Video | Naadanpattu | Folk Song | Preetha | Sundardas | മനോഹരമായ നാടൻപാട്ട്]]></title>
+        <id>https://www.youtube.com/watch?v=1pGoBU6pc7s</id>
+        <link href="https://www.youtube.com/watch?v=1pGoBU6pc7s"/>
+        <updated>2024-09-20T05:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തിയേറ്റർ പൂരപ്പറമ്പാക്കിയ പാട്ട് #badboyz #shorts #rahman #omarlulu]]></title>
+        <id>https://www.youtube.com/watch?v=HUPFbYJ2WBM</id>
+        <link href="https://www.youtube.com/watch?v=HUPFbYJ2WBM"/>
+        <updated>2024-09-20T05:20:51.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From 0 to 100 real quick with these beats! 🔥🎶🥵 #Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
         <id>https://www.youtube.com/watch?v=okbA8CfUiVA</id>
@@ -904,6 +931,15 @@
         <updated>2024-09-17T07:46:43.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M. G. Soman Romantic Old Superhit Song | Kaathirunna Nimisham |  Vidhubala, Jayabharathi, Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=BWeMwnkYxwc</id>
+        <link href="https://www.youtube.com/watch?v=BWeMwnkYxwc"/>
+        <updated>2024-09-17T06:02:52.000Z</updated>
+        <author>
+            <name>Airene Records</name>
         </author>
     </entry>
     <entry>
