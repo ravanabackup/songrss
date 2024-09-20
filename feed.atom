@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T07:08:06.872Z</updated>
+    <updated>2024-09-20T08:11:00.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പുത്തൂരം വീട്ടിലെ..തച്ചോളി പാട്ടിലെ.. | Puthooram Veettile | Kalbhavan Mani | Prithviraj Sukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=JfY9S98IB0g</id>
+        <link href="https://www.youtube.com/watch?v=JfY9S98IB0g"/>
+        <updated>2024-09-20T07:57:19.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ മലയാളികളുടെയും ഇഷ്ടഗായിക ചിത്രചേച്ചി ആലപിച്ച എന്നും കേൾക്കാറുള്ള  സിനിമ ഗാനങ്ങൾ | Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=m19_Cc3nlOU</id>
+        <link href="https://www.youtube.com/watch?v=m19_Cc3nlOU"/>
+        <updated>2024-09-20T07:30:13.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പൂവിനെ കണ്ടു ഞാൻ | Poovine kandu njaan | Evergreen Malayalam Song | Mukunthetta Sumitra Vilikkunnu]]></title>
         <id>https://www.youtube.com/watch?v=O-6oq9GJsOk</id>
@@ -13,6 +31,15 @@
         <updated>2024-09-20T06:36:22.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NJAN KANDEEUM EN RAKSHAKANE | HUMBLE MANU | TONY THOMAS | PAVITHRAN AMACHAL | @JinoKunnumpurathu]]></title>
+        <id>https://www.youtube.com/watch?v=4t34FfXV1wc</id>
+        <link href="https://www.youtube.com/watch?v=4t34FfXV1wc"/>
+        <updated>2024-09-20T05:51:18.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -10226,15 +10253,6 @@
         <id>https://www.youtube.com/watch?v=RT2V_1DKtJ4</id>
         <link href="https://www.youtube.com/watch?v=RT2V_1DKtJ4"/>
         <updated>2024-08-21T23:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 22 # Athiravile Prarthana 22nd of August 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dhurKL3XBlo</id>
-        <link href="https://www.youtube.com/watch?v=dhurKL3XBlo"/>
-        <updated>2024-08-21T20:00:29.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
