@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T12:14:00.901Z</updated>
+    <updated>2024-09-20T13:15:23.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kattile Maninte Video Song | Kalabhavan Mani | Mohan Sithara | Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=1pDS4-WD8Iw</id>
+        <link href="https://www.youtube.com/watch?v=1pDS4-WD8Iw"/>
+        <updated>2024-09-20T12:37:55.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARADHANAKETTOM  YOGYANAYAVANE | UNPLUGGED | @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=dhgwL6LgpXU</id>
+        <link href="https://www.youtube.com/watch?v=dhgwL6LgpXU"/>
+        <updated>2024-09-20T12:30:29.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 20th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=bTDcdcSh6CI</id>
+        <link href="https://www.youtube.com/watch?v=bTDcdcSh6CI"/>
+        <updated>2024-09-20T12:30:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ നിമിഷത്തിൽ ജീവിക്കാൻ കഴിയണം | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Onw08GQYARg</id>
+        <link href="https://www.youtube.com/watch?v=Onw08GQYARg"/>
+        <updated>2024-09-20T12:30:24.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pon Vaanile | Pathimoonnam Rathri #vishnuunnikrishnan #shortsfeed #shorts #shortsvideo  #haricharan]]></title>
         <id>https://www.youtube.com/watch?v=Dc22hSq7yqQ</id>
@@ -10264,33 +10300,6 @@
         <updated>2024-08-22T03:30:10.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Popular Malayalam Christian Songs | Non Stop Evergreen Christian Songs | Christian Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iYEtU-4RKPE</id>
-        <link href="https://www.youtube.com/watch?v=iYEtU-4RKPE"/>
-        <updated>2024-08-22T01:13:47.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 22nd of August 2024 # Mathavinte Japamala # Prakashathinte Rahasyangal 22nd of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=loYgSuyZz5g</id>
-        <link href="https://www.youtube.com/watch?v=loYgSuyZz5g"/>
-        <updated>2024-08-22T00:30:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനശ്വര പ്രഭാത പ്രാർത്ഥന ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Morning Prayer Songs]]></title>
-        <id>https://www.youtube.com/watch?v=l2J8xEwJZsY</id>
-        <link href="https://www.youtube.com/watch?v=l2J8xEwJZsY"/>
-        <updated>2024-08-22T00:30:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
