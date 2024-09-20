@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T19:05:20.295Z</updated>
+    <updated>2024-09-20T20:08:19.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 21 # Athiravile Prarthana 21st of September 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=u2rZKUL4zUE</id>
+        <link href="https://www.youtube.com/watch?v=u2rZKUL4zUE"/>
+        <updated>2024-09-20T20:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 21st SEP 2024]]></title>
         <id>https://www.youtube.com/watch?v=-W8WwLDNSlo</id>
@@ -10273,42 +10282,6 @@
         <updated>2024-08-22T08:48:43.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kattoram Oru Chattal Mazhapoo | Vellathooval | Gireesh Puthenchery |Johnson | Manjari | Nithya Menon]]></title>
-        <id>https://www.youtube.com/watch?v=DsueMx3YvhQ</id>
-        <link href="https://www.youtube.com/watch?v=DsueMx3YvhQ"/>
-        <updated>2024-08-22T07:41:23.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നേശു നാഥൻ | യേശുനാഥന്റെ ശക്തിപകരുന്ന ദിവ്യഗാനങ്ങൾ | Super Hit Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jRoArtacSyE</id>
-        <link href="https://www.youtube.com/watch?v=jRoArtacSyE"/>
-        <updated>2024-08-22T07:37:08.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രേക്ഷകരെ ഒന്നടങ്കം ആസ്വദിപ്പിച്ച മലയാളസിനിമയിലെ അതിമനോഹര ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=m-aNe-B5JaI</id>
-        <link href="https://www.youtube.com/watch?v=m-aNe-B5JaI"/>
-        <updated>2024-08-22T07:30:12.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nammude Naadinu Mochanam | Elaarum Chollanu Evergreen Malayalam Movie Song | Jagathy | Mukesh]]></title>
-        <id>https://www.youtube.com/watch?v=nZ9z7OoR53k</id>
-        <link href="https://www.youtube.com/watch?v=nZ9z7OoR53k"/>
-        <updated>2024-08-22T07:11:56.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
