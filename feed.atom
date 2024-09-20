@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T20:08:19.855Z</updated>
+    <updated>2024-09-20T21:07:18.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10273,15 +10273,6 @@
         <updated>2024-08-22T10:27:41.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേട്ട് ഉറങ്ങാം നല്ല പാട്ടുകൾ | Feel Good Malayalam Songs | Video Jukebox | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=vfPeVFTl6og</id>
-        <link href="https://www.youtube.com/watch?v=vfPeVFTl6og"/>
-        <updated>2024-08-22T08:48:43.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
