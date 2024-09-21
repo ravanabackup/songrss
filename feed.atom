@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T21:05:58.166Z</updated>
+    <updated>2024-09-21T22:06:52.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10192,33 +10192,6 @@
         <updated>2024-08-23T10:42:27.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunjadin Geethangal | Hits of John Britto Augustin]]></title>
-        <id>https://www.youtube.com/watch?v=ZPVUREck-4Y</id>
-        <link href="https://www.youtube.com/watch?v=ZPVUREck-4Y"/>
-        <updated>2024-08-23T09:28:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മുത്താരം മുത്തുണ്ടേ | Muthaaram Muthunde | Evergreen Malayalam Song | Mister Butler | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=qfCeud2W9gk</id>
-        <link href="https://www.youtube.com/watch?v=qfCeud2W9gk"/>
-        <updated>2024-08-23T09:21:37.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാരവേണു ഗോപബാല | Raaravenu gopabala | Evergreen Malayalam Song | Mister Butler | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=_GXoMXqqEso</id>
-        <link href="https://www.youtube.com/watch?v=_GXoMXqqEso"/>
-        <updated>2024-08-23T09:16:30.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
