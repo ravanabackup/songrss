@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T18:08:35.128Z</updated>
+    <updated>2024-09-21T19:03:38.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd SEP 2024]]></title>
+        <id>https://www.youtube.com/watch?v=stP8V5xw_h8</id>
+        <link href="https://www.youtube.com/watch?v=stP8V5xw_h8"/>
+        <updated>2024-09-21T19:00:34.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21 September 2024]]></title>
         <id>https://www.youtube.com/watch?v=CW62CVLnXfo</id>
@@ -9475,6 +9484,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alivakumen -Official Video Song | Prathibha Tutorials | Sudheesh, Johny Antony,Arathy Nair | Kailas]]></title>
+        <id>https://www.youtube.com/watch?v=Dy3z1PEl66I</id>
+        <link href="https://www.youtube.com/watch?v=Dy3z1PEl66I"/>
+        <updated>2024-08-25T13:30:06.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | Jeesy Raju | Christian Devotional Songs Malayalam | Kester]]></title>
         <id>https://www.youtube.com/watch?v=-Aqzq0GbkLg</id>
         <link href="https://www.youtube.com/watch?v=-Aqzq0GbkLg"/>
@@ -10219,24 +10237,6 @@
         <updated>2024-08-23T07:30:17.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kunnimani kannazhaki Song | Priyam  #kunjackoboban #love #shortsongs #priyammovie]]></title>
-        <id>https://www.youtube.com/watch?v=dVRUifsr6mg</id>
-        <link href="https://www.youtube.com/watch?v=dVRUifsr6mg"/>
-        <updated>2024-08-23T07:00:20.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARUNATHAN VATHIL | IRENE THERESE AGI | ANUPA AGI | SIJI M GEORGE | @JinoKunnumpurathu]]></title>
-        <id>https://www.youtube.com/watch?v=D3Vl6-QixZc</id>
-        <link href="https://www.youtube.com/watch?v=D3Vl6-QixZc"/>
-        <updated>2024-08-23T06:09:19.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
