@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T00:36:12.423Z</updated>
+    <updated>2024-09-21T02:05:20.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10192,33 +10192,6 @@
         <updated>2024-08-22T14:30:01.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാപവഴിയിൽ നിന്ന് പിന്തിരിയാൻ നമ്മെ വിളിക്കുന്ന യേശുവിൻ  ഗീതങ്ങൾ | Songs Of forgiveness]]></title>
-        <id>https://www.youtube.com/watch?v=6gc-Nw2SRDc</id>
-        <link href="https://www.youtube.com/watch?v=6gc-Nw2SRDc"/>
-        <updated>2024-08-22T13:35:28.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omana Malare Video Song | Kunjikoonan | Navya Nair | Dileep | Manya | Radhika Thilak | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=-fFBIW6bV4k</id>
-        <link href="https://www.youtube.com/watch?v=-fFBIW6bV4k"/>
-        <updated>2024-08-22T13:03:36.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niramaanam Poothapol Song | Jassi Gift Hits | Kaithapram | December | Shamna Kasim Item Dance]]></title>
-        <id>https://www.youtube.com/watch?v=KSlzKr3MntQ</id>
-        <link href="https://www.youtube.com/watch?v=KSlzKr3MntQ"/>
-        <updated>2024-08-22T13:00:31.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
