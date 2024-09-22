@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T12:12:33.972Z</updated>
+    <updated>2024-09-22T13:12:12.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അവൻ ഒരിക്കലും നമ്മെ അനാഥരായി വിടുകയില്ല | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=z9s5EE5mNco</id>
+        <link href="https://www.youtube.com/watch?v=z9s5EE5mNco"/>
+        <updated>2024-09-22T12:30:44.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 22nd of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=N9nAxTDUKL4</id>
+        <link href="https://www.youtube.com/watch?v=N9nAxTDUKL4"/>
+        <updated>2024-09-22T12:30:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chellakuruvikku - Audio Song | Antony | Joshiy | Jakes Bejoy | Kapil Kapilan]]></title>
         <id>https://www.youtube.com/watch?v=GQgFcYouLHo</id>
@@ -10120,24 +10138,6 @@
         <updated>2024-08-24T02:00:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Video Songs Malayalam | Manoj Christy | Sreya Jayadeep | Christian Melody Songs|Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=cNzdb4VR-0s</id>
-        <link href="https://www.youtube.com/watch?v=cNzdb4VR-0s"/>
-        <updated>2024-08-24T00:30:32.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 24th of August 2024 # Mathavinte Japamala # Santhoshathinte Rahasyangal 24th of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=S2pvjA4wFeo</id>
-        <link href="https://www.youtube.com/watch?v=S2pvjA4wFeo"/>
-        <updated>2024-08-24T00:30:22.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
