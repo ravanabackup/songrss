@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-22T11:05:05.497Z</updated>
+    <updated>2024-09-22T12:12:33.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chellakuruvikku - Audio Song | Antony | Joshiy | Jakes Bejoy | Kapil Kapilan]]></title>
+        <id>https://www.youtube.com/watch?v=GQgFcYouLHo</id>
+        <link href="https://www.youtube.com/watch?v=GQgFcYouLHo"/>
+        <updated>2024-09-22T11:30:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sadhu KochuKunju Upadeshi Songs Mashup -2 #matchpointfaith #malayalamchristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=GGVYRjlk6G8</id>
@@ -10129,15 +10138,6 @@
         <updated>2024-08-24T00:30:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu   #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qElM2EO5Tfs</id>
-        <link href="https://www.youtube.com/watch?v=qElM2EO5Tfs"/>
-        <updated>2024-08-23T23:30:13.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
