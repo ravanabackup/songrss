@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T08:11:39.778Z</updated>
+    <updated>2024-09-23T09:09:23.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#ramanteedanthottam #maavilakudil #kunchackoboban #anusithara #bijibal #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=AQmaoK98XTU</id>
+        <link href="https://www.youtube.com/watch?v=AQmaoK98XTU"/>
+        <updated>2024-09-23T08:57:16.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pranaya Sougandhikangal Video Song | Darling Darling | Kavya Madhavan | Vineeth | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=bDJazT7Somw</id>
+        <link href="https://www.youtube.com/watch?v=bDJazT7Somw"/>
+        <updated>2024-09-23T08:24:19.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസിന്റെ കോണിൽ മങ്ങാതെ നിലനിൽക്കുന്ന പ്രിയതരമാം സിനിമാഗാനങ്ങൾ | EVERGREEN HITS]]></title>
         <id>https://www.youtube.com/watch?v=Nuosscwdl_E</id>
@@ -130,6 +148,15 @@
         <updated>2024-09-23T04:30:18.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellam Anyamaay | K J Yesudas | Christian Shorts #miraculousmelodies]]></title>
+        <id>https://www.youtube.com/watch?v=f8cHn351pqI</id>
+        <link href="https://www.youtube.com/watch?v=f8cHn351pqI"/>
+        <updated>2024-09-23T04:10:38.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
