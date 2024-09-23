@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T11:06:32.571Z</updated>
+    <updated>2024-09-23T12:14:31.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunukungi Puzhayum|Pookalam Varavayi|Shamili|Jayaram|]]></title>
+        <id>https://www.youtube.com/watch?v=-nybNHwVZ04</id>
+        <link href="https://www.youtube.com/watch?v=-nybNHwVZ04"/>
+        <updated>2024-09-23T12:00:20.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikaara Naukayumayi Video Song | Amaram | Mammootty | KJ Yesudas | Raveendran | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=pUXp3rGz4YU</id>
+        <link href="https://www.youtube.com/watch?v=pUXp3rGz4YU"/>
+        <updated>2024-09-23T11:35:44.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaradi Nee - Video Song | Kondal | Antony Varghese Pepe, Raj B Shetty | Sam CS | Ajit Mampally]]></title>
+        <id>https://www.youtube.com/watch?v=z1iQg6aLtLY</id>
+        <link href="https://www.youtube.com/watch?v=z1iQg6aLtLY"/>
+        <updated>2024-09-23T11:34:03.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തോട്ടുങ്കരക്കാരി പെണ്ണുങ്ങക്കിത്ര  Thottunkarakkaari Pennungakkithara | Kalabhavan Mani]]></title>
+        <id>https://www.youtube.com/watch?v=G42sRb6I-2g</id>
+        <link href="https://www.youtube.com/watch?v=G42sRb6I-2g"/>
+        <updated>2024-09-23T11:27:14.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neelukkuttiyum Koottukaarum  #animation #animationvideo #kidscartoon #malayalamcartoon #shortsfeed]]></title>
         <id>https://www.youtube.com/watch?v=cE0iG3oLwA0</id>
@@ -10732,15 +10768,6 @@
         <updated>2024-08-25T00:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu   #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=hXyUT_1ZExU</id>
-        <link href="https://www.youtube.com/watch?v=hXyUT_1ZExU"/>
-        <updated>2024-08-24T23:30:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
