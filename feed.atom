@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T11:06:37.678Z</updated>
+    <updated>2024-09-24T12:14:36.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maniya (Malayalam) - Video | ARM | Tovino Thomas | Jithin Laal | Dhibu Ninan Thomas | Magic Frames]]></title>
+        <id>https://www.youtube.com/watch?v=FVyocIPxjDY</id>
+        <link href="https://www.youtube.com/watch?v=FVyocIPxjDY"/>
+        <updated>2024-09-24T11:30:29.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velmuruka Haro Hara Animation | Lyrical Video | Velmuruka Haro Hara | Animation Video Songs]]></title>
+        <id>https://www.youtube.com/watch?v=wlAVqb0oKsA</id>
+        <link href="https://www.youtube.com/watch?v=wlAVqb0oKsA"/>
+        <updated>2024-09-24T11:30:26.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaattarin Magane (Tamil) | ARM | Tovino Thomas | Jithin Laal | Dhibu Ninan Thomas | Magic Frames]]></title>
+        <id>https://www.youtube.com/watch?v=0rr-2aGS7Vw</id>
+        <link href="https://www.youtube.com/watch?v=0rr-2aGS7Vw"/>
+        <updated>2024-09-24T11:30:23.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaarchichhu (Telugu )| ARM | TovinoThomas | JithinLaal | Dhibu NinanThomas | Mythri Movie Makers]]></title>
+        <id>https://www.youtube.com/watch?v=5Gx23L-LvoA</id>
+        <link href="https://www.youtube.com/watch?v=5Gx23L-LvoA"/>
+        <updated>2024-09-24T11:30:18.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathhiya Hididha Katthi (Kannada) |ARM |Tovino Thomas|Jithin Laal| Dhibu Ninan Thomas |Hombale Films]]></title>
+        <id>https://www.youtube.com/watch?v=a_OobVT9LVA</id>
+        <link href="https://www.youtube.com/watch?v=a_OobVT9LVA"/>
+        <updated>2024-09-24T11:30:11.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jangal Ka Beta (Hindi) - Video | ARM | Tovino Thomas | Jithin Laal | Dhibu Ninan Thomas |A A Films]]></title>
+        <id>https://www.youtube.com/watch?v=oZRKCKb0f-c</id>
+        <link href="https://www.youtube.com/watch?v=oZRKCKb0f-c"/>
+        <updated>2024-09-24T11:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikya Veena - Lofi Sleep | Kaattu Pookkal | G Devarajan | K.J. Yesudas | Chris Wayne]]></title>
+        <id>https://www.youtube.com/watch?v=-ycrB4zLIoM</id>
+        <link href="https://www.youtube.com/watch?v=-ycrB4zLIoM"/>
+        <updated>2024-09-24T11:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുടുംബസദസ്സുകളുടെ പ്രിയങ്കരനായ നടൻ ജയറാം അഭിനയിച്ച സൂപ്പർഹിറ്റ് ചിത്രങ്ങളിലെ ഗാനങ്ങൾ | JAYARAM HITS]]></title>
         <id>https://www.youtube.com/watch?v=oB6Md9fP_hQ</id>
@@ -10903,15 +10966,6 @@
         <updated>2024-08-26T00:30:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu  #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Ev9yQlvs5pA</id>
-        <link href="https://www.youtube.com/watch?v=Ev9yQlvs5pA"/>
-        <updated>2024-08-25T23:30:03.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
