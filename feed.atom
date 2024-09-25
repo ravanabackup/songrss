@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T07:08:40.812Z</updated>
+    <updated>2024-09-25T08:11:19.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാലേയം മാറോടലിഞ്ഞും | Maaleyam Maarodalinjum | Thacholi Varghese Chekavar | Movie song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=XiE1ulToC6c</id>
+        <link href="https://www.youtube.com/watch?v=XiE1ulToC6c"/>
+        <updated>2024-09-25T07:48:36.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സന്ധ്യയുടെ യാമങ്ങളിൽ കേൾക്കാൻ മനസ് തുടിക്കുന്ന ഭാവാർദ്ര ഗാനങ്ങൾ | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Q37Q4sPU-hk</id>
+        <link href="https://www.youtube.com/watch?v=Q37Q4sPU-hk"/>
+        <updated>2024-09-25T07:30:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തനിച്ചിരിക്കുമ്പം തങ്കക്കിനാവിന്റെ Thanichirikkumbol | Kalabhavan Mani | KJ Yesudas | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=YP8YmhERUQk</id>
@@ -11126,15 +11144,6 @@
         <id>https://www.youtube.com/watch?v=Qhj2wsxtJhk</id>
         <link href="https://www.youtube.com/watch?v=Qhj2wsxtJhk"/>
         <updated>2024-08-26T23:00:26.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 27 # Athiravile Prarthana 27th of August 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=JBPX095lBOA</id>
-        <link href="https://www.youtube.com/watch?v=JBPX095lBOA"/>
-        <updated>2024-08-26T20:00:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
