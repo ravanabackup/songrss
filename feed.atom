@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T18:10:31.883Z</updated>
+    <updated>2024-09-25T20:08:37.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 26 Athiravile Prarthana 26th of September 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=EdSm9eeP3Ic</id>
+        <link href="https://www.youtube.com/watch?v=EdSm9eeP3Ic"/>
+        <updated>2024-09-25T20:00:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th SEP 2024]]></title>
+        <id>https://www.youtube.com/watch?v=RK9WdOtx6GQ</id>
+        <link href="https://www.youtube.com/watch?v=RK9WdOtx6GQ"/>
+        <updated>2024-09-25T19:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഫുൾ സോങ് കേൾക്കാൻ മുകളിൽ ഉള്ള ലിങ്ക് സന്ദർശിക്കൂ... #mohanlal #appu #mgsreekumarsongs]]></title>
         <id>https://www.youtube.com/watch?v=mwsevhMsBXo</id>
@@ -11209,51 +11227,6 @@
         <updated>2024-08-27T08:49:50.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളിമനസുകളുടെ കരളലിയിക്കുന്ന സൂപ്പർഹിറ്റ് ചിത്രഗാനങ്ങൾ | SAD SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=9ov6-M3R1xk</id>
-        <link href="https://www.youtube.com/watch?v=9ov6-M3R1xk"/>
-        <updated>2024-08-27T07:56:07.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallanum Bhagavathiyum | Amazon Prime | East Coast Vijayan | Vishnu Unnikrishnan | Mokksha]]></title>
-        <id>https://www.youtube.com/watch?v=1QNDYNJ6Os0</id>
-        <link href="https://www.youtube.com/watch?v=1QNDYNJ6Os0"/>
-        <updated>2024-08-27T07:49:18.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തുമ്പപ്പൂ ചോറു വേണം | Tumbappoochooru Venam |Malayalam Film Song | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=C5OodUgrCCE</id>
-        <link href="https://www.youtube.com/watch?v=C5OodUgrCCE"/>
-        <updated>2024-08-27T07:05:34.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണിൽ കാമന്റെ | Kannil Kaamante | Poomadathe Pennu | Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=mMs0bMJd8HA</id>
-        <link href="https://www.youtube.com/watch?v=mMs0bMJd8HA"/>
-        <updated>2024-08-27T06:59:55.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മുത്താരം മുത്തുണ്ടേ | Muthaaram Muthunde | Evergreen Malayalam Song | Mister Butler | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=RZhkmuYoFw4</id>
-        <link href="https://www.youtube.com/watch?v=RZhkmuYoFw4"/>
-        <updated>2024-08-27T06:34:31.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
