@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T00:38:32.376Z</updated>
+    <updated>2024-09-25T02:12:07.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10939,33 +10939,6 @@
         <updated>2024-08-26T14:30:03.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നസ്രത്തിലെ നന്ദാവനം | Shinu k Aroh | Nasrthile Nandhavanam | #christiandevotionalsong | #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=OFwrNv2V7co</id>
-        <link href="https://www.youtube.com/watch?v=OFwrNv2V7co"/>
-        <updated>2024-08-26T13:49:43.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Chithra Arun | Kester | KG Markose | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=nR8W7Vj6yaQ</id>
-        <link href="https://www.youtube.com/watch?v=nR8W7Vj6yaQ"/>
-        <updated>2024-08-26T13:30:30.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karmukil Varnante Chundil Video Song | Nandanam | K S Chithra | Prithviraj Sukumaran | Navya Nair]]></title>
-        <id>https://www.youtube.com/watch?v=SMIcC-V9ayY</id>
-        <link href="https://www.youtube.com/watch?v=SMIcC-V9ayY"/>
-        <updated>2024-08-26T13:00:35.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
