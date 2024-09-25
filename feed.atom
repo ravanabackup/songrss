@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T10:09:13.949Z</updated>
+    <updated>2024-09-25T11:07:17.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Favourite Movie Songs | Celebrity Playlist | Shaan Rahman | Super Hit Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=IYmgTdJmiXM</id>
+        <link href="https://www.youtube.com/watch?v=IYmgTdJmiXM"/>
+        <updated>2024-09-25T10:30:27.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaarane - Video Song  | Nanban Oruvan Vantha Piragu |Venkat Prabhu |Ananth | Aishwarya | A H Kaashif]]></title>
+        <id>https://www.youtube.com/watch?v=1xjTG_RGJQ8</id>
+        <link href="https://www.youtube.com/watch?v=1xjTG_RGJQ8"/>
+        <updated>2024-09-25T10:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priyathama.. Malayalam Video Song | Vajram Movie Song |  Sujatha Mohan |  Afsal]]></title>
+        <id>https://www.youtube.com/watch?v=oJ-oP9agMY8</id>
+        <link href="https://www.youtube.com/watch?v=oJ-oP9agMY8"/>
+        <updated>2024-09-25T09:23:19.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mohikkum Neermizhiyode Video Song | Maanthrikam | Mohanlal | KJ Yesudas | KS Chithra | SP Venkitesh]]></title>
         <id>https://www.youtube.com/watch?v=DZ7NQRt8v0k</id>
@@ -11155,15 +11182,6 @@
         <updated>2024-08-26T23:30:10.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=Qhj2wsxtJhk</id>
-        <link href="https://www.youtube.com/watch?v=Qhj2wsxtJhk"/>
-        <updated>2024-08-26T23:00:26.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
