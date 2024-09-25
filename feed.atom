@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T03:15:55.071Z</updated>
+    <updated>2024-09-25T04:10:40.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kayalinarike | Annayum Rasoolum #shortsfeed #shortsvideo #reels #manoramamusic #shorts #fahadhfaasil]]></title>
+        <id>https://www.youtube.com/watch?v=CXW1xN88hMw</id>
+        <link href="https://www.youtube.com/watch?v=CXW1xN88hMw"/>
+        <updated>2024-09-25T03:30:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iniyumoru Kanan | Rithuraj | Christian Video Song | Kusumam Joseph | Joji Johns | Christian Song]]></title>
         <id>https://www.youtube.com/watch?v=pwEwu2v4fMY</id>
