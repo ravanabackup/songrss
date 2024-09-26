@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T12:14:39.601Z</updated>
+    <updated>2024-09-26T13:17:20.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinakkamaano Ennodinakkamano Video Song | Ananthabhadram Movie Song | Prithviraj | Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=jeRbQSrotsc</id>
+        <link href="https://www.youtube.com/watch?v=jeRbQSrotsc"/>
+        <updated>2024-09-26T13:16:25.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altharayorungi | അൾത്താരയൊരുങ്ങി | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ | @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=olBmNWnlZFI</id>
+        <link href="https://www.youtube.com/watch?v=olBmNWnlZFI"/>
+        <updated>2024-09-26T13:00:54.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മുത്തും പവിഴവും Muthum Pavizhavum | Darling Darling | Kavya Madhavan | Vineeth | Sujatha | Hariharan]]></title>
+        <id>https://www.youtube.com/watch?v=roskWviCT8E</id>
+        <link href="https://www.youtube.com/watch?v=roskWviCT8E"/>
+        <updated>2024-09-26T12:52:41.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=eBpZUcQ0GL4</id>
+        <link href="https://www.youtube.com/watch?v=eBpZUcQ0GL4"/>
+        <updated>2024-09-26T12:30:27.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്‌നേഹം ദീർഘമായി ക്ഷമിക്കുന്നു  | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=VnOtLnKP1GE</id>
+        <link href="https://www.youtube.com/watch?v=VnOtLnKP1GE"/>
+        <updated>2024-09-26T12:30:24.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engo Chumannu | Prathyasha Geethangal | Aji Puthoor | Praise and Worship Songs | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=HSCZOxLWBEs</id>
+        <link href="https://www.youtube.com/watch?v=HSCZOxLWBEs"/>
+        <updated>2024-09-26T12:30:13.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LAST WORLD WAR (Hindi) - Teaser|Hiphop Tamizha Adhi |Natty Nataraj|Nassar|Anagha| Oct 4th In Cinemas]]></title>
         <id>https://www.youtube.com/watch?v=xVdwkQB9xMY</id>
@@ -796,6 +850,15 @@
         <updated>2024-09-24T12:18:58.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Christian Songs Mashup | ക്രിസ്തീയ ഗാനങ്ങൾ | Roy Puthur & Aji Susan | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=JHx9ifg8Lps</id>
+        <link href="https://www.youtube.com/watch?v=JHx9ifg8Lps"/>
+        <updated>2024-09-24T12:06:27.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -11254,15 +11317,6 @@
         <updated>2024-08-28T01:30:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njanennil Kanunnennum | Kester | Chittor Gopi | Chiristian Video Song | Joji Johns | Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=a-NjpWnoTwE</id>
-        <link href="https://www.youtube.com/watch?v=a-NjpWnoTwE"/>
-        <updated>2024-08-28T00:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
