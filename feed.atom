@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T22:07:16.798Z</updated>
+    <updated>2024-09-27T23:07:23.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=asNOcJUPEho</id>
+        <link href="https://www.youtube.com/watch?v=asNOcJUPEho"/>
+        <updated>2024-09-27T23:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ശനിയാഴ്ച്ച, ഇപ്പോൾ നീ പ്രയാസപ്പെടുന്ന ഒരു വിഷയം പറഞ്ഞു നീ ഇത് തുറക്കു, അത്ഭുതം ഉറപ്പാണ്!!]]></title>
+        <id>https://www.youtube.com/watch?v=cOfBC2PMUYE</id>
+        <link href="https://www.youtube.com/watch?v=cOfBC2PMUYE"/>
+        <updated>2024-09-27T22:30:09.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  September 28 Athiravile Prarthana 28th of September 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=_Ia4iQS5DxQ</id>
@@ -11344,33 +11362,6 @@
         <updated>2024-08-29T12:04:33.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂവേ പൂവേ പാലപ്പൂവേ🕺💃😍 Poove Poove | Devadoothan | Mohanlal | KS Chithra| P Jayachandran| Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=C0QS5TPzsl4</id>
-        <link href="https://www.youtube.com/watch?v=C0QS5TPzsl4"/>
-        <updated>2024-08-29T10:38:54.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkuda | Shorts #onam #onamcelebration]]></title>
-        <id>https://www.youtube.com/watch?v=oebfNXR6Kxw</id>
-        <link href="https://www.youtube.com/watch?v=oebfNXR6Kxw"/>
-        <updated>2024-08-29T10:22:43.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAHABALI  - The Return of the King | Festival Folk Song Video | George Peter | C J Kuttappan]]></title>
-        <id>https://www.youtube.com/watch?v=4MMB0TH8zTk</id>
-        <link href="https://www.youtube.com/watch?v=4MMB0TH8zTk"/>
-        <updated>2024-08-29T10:16:24.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
