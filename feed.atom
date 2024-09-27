@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T17:06:43.872Z</updated>
+    <updated>2024-09-27T18:10:22.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11452,24 +11452,6 @@
         <updated>2024-08-29T06:12:58.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannum Kannum | Camel Safari | Video Song | Anjali Jeyaram | Kaithapram |  Deepankuran | Jayaraj]]></title>
-        <id>https://www.youtube.com/watch?v=ETKTgaZgEuI</id>
-        <link href="https://www.youtube.com/watch?v=ETKTgaZgEuI"/>
-        <updated>2024-08-29T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamala Devotional Superhit Song | Sree Guruvayoorappan | Prem Nawas, Ambika]]></title>
-        <id>https://www.youtube.com/watch?v=igwdHEBljgc</id>
-        <link href="https://www.youtube.com/watch?v=igwdHEBljgc"/>
-        <updated>2024-08-29T05:15:18.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
