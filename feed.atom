@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T20:08:28.321Z</updated>
+    <updated>2024-09-27T21:06:39.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11380,15 +11380,6 @@
         <updated>2024-08-29T10:01:56.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun]]></title>
-        <id>https://www.youtube.com/watch?v=t4b_2-Av3QI</id>
-        <link href="https://www.youtube.com/watch?v=t4b_2-Av3QI"/>
-        <updated>2024-08-29T08:30:52.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
