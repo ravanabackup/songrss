@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T05:07:59.297Z</updated>
+    <updated>2024-09-27T06:12:26.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Roja Roja | Youth Festival | G Venugopal | Shibu Chakravarthy | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=yjhP8U6r41U</id>
+        <link href="https://www.youtube.com/watch?v=yjhP8U6r41U"/>
+        <updated>2024-09-27T05:30:27.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cup - Jukebox | Mathew Thomas | Basil Joseph | Shaan Rahman | Alphonse Puthren | Sanju V Samuel]]></title>
+        <id>https://www.youtube.com/watch?v=WKa9GyQBfOg</id>
+        <link href="https://www.youtube.com/watch?v=WKa9GyQBfOg"/>
+        <updated>2024-09-27T05:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheela Romantic old Superhit Song | Agniputhri movie | Prem Nazir, T. R. Omana]]></title>
+        <id>https://www.youtube.com/watch?v=gkINfwejTcQ</id>
+        <link href="https://www.youtube.com/watch?v=gkINfwejTcQ"/>
+        <updated>2024-09-27T05:29:16.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambarappoo Veethiyil Video Song | Irupatham Noottandu | Mohanlal | Urvashi | K. Madhu | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=sVM9Nm6hOJo</id>
+        <link href="https://www.youtube.com/watch?v=sVM9Nm6hOJo"/>
+        <updated>2024-09-27T05:17:35.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premikkumbol #coversong #malayalamcoversong #love #shortsfeed #shortsvideo #shorts #reels #bijibal]]></title>
         <id>https://www.youtube.com/watch?v=h6-j9Z8prGE</id>
