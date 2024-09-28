@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T19:03:26.331Z</updated>
+    <updated>2024-09-28T20:08:27.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 29 Athiravile Prarthana 29th of September 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=rXOBwpleuqs</id>
+        <link href="https://www.youtube.com/watch?v=rXOBwpleuqs"/>
+        <updated>2024-09-28T20:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 29th SEP 2024]]></title>
         <id>https://www.youtube.com/watch?v=oi8jlZPdW04</id>
@@ -11567,33 +11576,6 @@
         <id>https://www.youtube.com/watch?v=UF_ZhvHBktw</id>
         <link href="https://www.youtube.com/watch?v=UF_ZhvHBktw"/>
         <updated>2024-08-30T09:18:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koovaram Kili Paithale | Banaras | Shweta Mohan | Vijay Yesudas | Navya Nair | Vineeth]]></title>
-        <id>https://www.youtube.com/watch?v=8GOlx9QgO3w</id>
-        <link href="https://www.youtube.com/watch?v=8GOlx9QgO3w"/>
-        <updated>2024-08-30T07:39:17.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ മനസിലെന്നും വർണ്ണപൂക്കാലമൊരുക്കും വസന്തത്തിൻ  വിസ്‌മയമുണർത്തും സിനിമാഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=aBelWvemdNY</id>
-        <link href="https://www.youtube.com/watch?v=aBelWvemdNY"/>
-        <updated>2024-08-30T07:33:22.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തുമ്പപ്പൂ ചോറു വേണം | Tumbappoochooru Venam | Poomadhathe Pennu Malayalam Film Song | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=ZHrQ6H2gTuU</id>
-        <link href="https://www.youtube.com/watch?v=ZHrQ6H2gTuU"/>
-        <updated>2024-08-30T07:04:08.000Z</updated>
         <author>
             <name>Millennium Musics</name>
         </author>
