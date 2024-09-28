@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T21:06:34.901Z</updated>
+    <updated>2024-09-28T22:06:42.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11551,33 +11551,6 @@
         <updated>2024-08-30T10:10:01.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാത്രി മാഞ്ഞുപോയി | Aa raathri maanju poyi | Evergreen Malayalam Song | Panchaagni | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=cX8LixrW0PA</id>
-        <link href="https://www.youtube.com/watch?v=cX8LixrW0PA"/>
-        <updated>2024-08-30T09:23:54.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മണിച്ചേട്ടന്റെ അടിപൊളി ഗാനം | Muthumaniye | Manichettante Kettal Mathivaratha Paattukal]]></title>
-        <id>https://www.youtube.com/watch?v=T0SGN9iEVJg</id>
-        <link href="https://www.youtube.com/watch?v=T0SGN9iEVJg"/>
-        <updated>2024-08-30T09:22:22.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണീർപ്പൂവിന്റെ | KANNEER POOVINTE | Evergreen Malayalam Song | Kireedam | Mohanlal | Thilakan]]></title>
-        <id>https://www.youtube.com/watch?v=UF_ZhvHBktw</id>
-        <link href="https://www.youtube.com/watch?v=UF_ZhvHBktw"/>
-        <updated>2024-08-30T09:18:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
