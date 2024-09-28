@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T12:12:24.397Z</updated>
+    <updated>2024-09-28T13:12:59.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പള്ളിത്തേരുണ്ടോ ചതുരംഗ കളമുണ്ടോ Pallitherundo | Jayaram | Sithara | G Venugopal | Sujatha |Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=Nx3ITkWIbhI</id>
+        <link href="https://www.youtube.com/watch?v=Nx3ITkWIbhI"/>
+        <updated>2024-09-28T13:04:42.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mele Manathe Eeshoye | മേലേ മാനത്തെ | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ  @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kMWEkeS2xSM</id>
+        <link href="https://www.youtube.com/watch?v=kMWEkeS2xSM"/>
+        <updated>2024-09-28T13:00:55.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mizhiyil Mizhiyil Maan Mizhiyil Song | Maayabazar Song | Mammootty | Sheela Koul | 4K Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=LkOSMiL23LM</id>
+        <link href="https://www.youtube.com/watch?v=LkOSMiL23LM"/>
+        <updated>2024-09-28T13:00:20.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhalerm Jeevitha | Prathyasha Geethangal | Alex Mathew | Prayer and Worship Songs | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=wdlJhTJokxs</id>
+        <link href="https://www.youtube.com/watch?v=wdlJhTJokxs"/>
+        <updated>2024-09-28T12:30:55.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ ഓരോ തുള്ളി കണ്ണുനീരിനും ദൈവത്തിനുമുന്നിൽ വിലയുണ്ട്  | 😇  | Rev. Aneesh P Joseph | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kpkyKjkfDTM</id>
+        <link href="https://www.youtube.com/watch?v=kpkyKjkfDTM"/>
+        <updated>2024-09-28T12:30:40.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 28th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=KE3eHczrp2g</id>
+        <link href="https://www.youtube.com/watch?v=KE3eHczrp2g"/>
+        <updated>2024-09-28T12:30:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ambadi Payyukal Meyum l Chandranudikkunnadhikkil l HD | Vidyasagar | K J Yesudas | Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=DsVvJ-j8PrM</id>
@@ -11470,15 +11524,6 @@
         <updated>2024-08-30T01:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 30th of August 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 30th of August 2024]]></title>
-        <id>https://www.youtube.com/watch?v=UTv5FMtIRck</id>
-        <link href="https://www.youtube.com/watch?v=UTv5FMtIRck"/>
-        <updated>2024-08-30T00:30:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
