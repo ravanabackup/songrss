@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T02:16:36.676Z</updated>
+    <updated>2024-09-29T03:18:11.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parisudhan | Rev. Bhakthavalsalan | Shorts #shortsvideo #ytshorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=qtw09s8FZCY</id>
+        <link href="https://www.youtube.com/watch?v=qtw09s8FZCY"/>
+        <updated>2024-09-29T03:00:22.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 29th of September 2024 Mathavinte Japamala # Mahimayude Rahasyangal 29th of September 24]]></title>
         <id>https://www.youtube.com/watch?v=nPvbW-tLAvo</id>
@@ -11389,51 +11398,6 @@
         <updated>2024-08-30T15:21:22.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you checked out the music video #Alwar sun g by #SitharaKrishnakumar yet? #MeenakshiAnoop]]></title>
-        <id>https://www.youtube.com/watch?v=gXrCAoPZUOg</id>
-        <link href="https://www.youtube.com/watch?v=gXrCAoPZUOg"/>
-        <updated>2024-08-30T14:40:31.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poru Nee Vaarilam | Kaashmeeram | M G Radhakrishnan | Gireesh Puthenchery #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=V6EDShu1QkA</id>
-        <link href="https://www.youtube.com/watch?v=V6EDShu1QkA"/>
-        <updated>2024-08-30T14:30:12.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellithira Movie Jukebox | Prithviraj | Navya Nair | Malayalam Songs | Sujatha Mohan |P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=Glm_qLO4uKY</id>
-        <link href="https://www.youtube.com/watch?v=Glm_qLO4uKY"/>
-        <updated>2024-08-30T14:30:06.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nerinazhaku | Mammootty | Lal | P Jayachandran | Kaithapram | Alex Paul]]></title>
-        <id>https://www.youtube.com/watch?v=0qw84QTe67E</id>
-        <link href="https://www.youtube.com/watch?v=0qw84QTe67E"/>
-        <updated>2024-08-30T14:30:00.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #lokenjanen #malayalamchristiancovers #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=JmFNXDPWltQ</id>
-        <link href="https://www.youtube.com/watch?v=JmFNXDPWltQ"/>
-        <updated>2024-08-30T14:21:43.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
