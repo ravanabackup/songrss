@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T21:06:24.765Z</updated>
+    <updated>2024-09-29T22:06:38.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11524,24 +11524,6 @@
         <updated>2024-08-31T10:30:09.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കളഭം ചാര്‍ത്തും | Kalabham Charthum | Evergreen Malayalam Song | Thalavattam | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=tQqpf2gDQG8</id>
-        <link href="https://www.youtube.com/watch?v=tQqpf2gDQG8"/>
-        <updated>2024-08-31T10:00:49.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സാഗരങ്ങളേ പാടിപ്പാടി | Sagarangale padi | Evergreen Malayalam Song | Panchaagni | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=PeFXlJ6x1fM</id>
-        <link href="https://www.youtube.com/watch?v=PeFXlJ6x1fM"/>
-        <updated>2024-08-31T09:58:46.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
