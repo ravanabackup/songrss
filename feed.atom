@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T14:06:42.509Z</updated>
+    <updated>2024-09-29T15:07:46.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #malayalamworshipsong #malayalamchristiancovers]]></title>
+        <id>https://www.youtube.com/watch?v=s5T6LpzN2VE</id>
+        <link href="https://www.youtube.com/watch?v=s5T6LpzN2VE"/>
+        <updated>2024-09-29T14:49:00.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muttathethum Thennale | Mohanlal | Meena | Gireesh Puthenchery | Vidyasagar | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=p6H9mmBjCfM</id>
+        <link href="https://www.youtube.com/watch?v=p6H9mmBjCfM"/>
+        <updated>2024-09-29T14:30:30.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poove Oru Mazha Mutham | Kaiyethum Doorath | Ouseppachan |Sujatha Mohan|S Ramesan Nair #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=Qmuk5aoNd8s</id>
+        <link href="https://www.youtube.com/watch?v=Qmuk5aoNd8s"/>
+        <updated>2024-09-29T14:30:22.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Wise Monkeys | Kishkindha Kaandam | Asif Ali | Dinjith Ayyathan | Mujeeb Majeed]]></title>
+        <id>https://www.youtube.com/watch?v=2In4QELT0NE</id>
+        <link href="https://www.youtube.com/watch?v=2In4QELT0NE"/>
+        <updated>2024-09-29T14:20:24.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#chithirathira #charlie #dulquersalmaan #gopisundar #vijayyesudas #songoftheday #shorts]]></title>
         <id>https://www.youtube.com/watch?v=qF64teiYNOw</id>
