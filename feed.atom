@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T15:07:46.525Z</updated>
+    <updated>2024-09-29T16:08:02.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=Yn6Jjddigj4</id>
+        <link href="https://www.youtube.com/watch?v=Yn6Jjddigj4"/>
+        <updated>2024-09-29T16:00:35.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=9P181jkEL5Q</id>
+        <link href="https://www.youtube.com/watch?v=9P181jkEL5Q"/>
+        <updated>2024-09-29T15:30:04.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #malayalamworshipsong #malayalamchristiancovers]]></title>
         <id>https://www.youtube.com/watch?v=s5T6LpzN2VE</id>
