@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T09:09:23.594Z</updated>
+    <updated>2024-09-30T10:09:43.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thekku Vadakku - Trailer |Suraj Venjaramoodu| Vinayakan|Prem Sankar|Sam CS |S.Hareesh |Anjana Philip]]></title>
+        <id>https://www.youtube.com/watch?v=LJmvoJJUl08</id>
+        <link href="https://www.youtube.com/watch?v=LJmvoJJUl08"/>
+        <updated>2024-09-30T09:30:12.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Kunjupoovinte | Chandranudikkunna Dikkil | Dileep | Kavya | Vidyasagar - HD Video Song]]></title>
         <id>https://www.youtube.com/watch?v=gSjXL1xD-A0</id>
@@ -11468,15 +11477,6 @@
         <id>https://www.youtube.com/watch?v=NXYM1fvQMOo</id>
         <link href="https://www.youtube.com/watch?v=NXYM1fvQMOo"/>
         <updated>2024-08-31T23:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ സ്വരമൊന്നു കേൾക്കുമോ ഈ രൂപമൊന്നു കാണുമോ Ft. Vijay Yesudas, Fr Vineeth Ajimon Joseph, Jacob Koratty]]></title>
-        <id>https://www.youtube.com/watch?v=3CUgX8AR42w</id>
-        <link href="https://www.youtube.com/watch?v=3CUgX8AR42w"/>
-        <updated>2024-08-31T21:33:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
