@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T11:06:50.966Z</updated>
+    <updated>2024-09-30T12:15:21.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muthe Muthe | Kana Kanmani | Sujatha Mohan | Shyam Dharman | Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=B2Kn_lCVhes</id>
+        <link href="https://www.youtube.com/watch?v=B2Kn_lCVhes"/>
+        <updated>2024-09-30T12:08:25.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnykutty - Audio Song | Antony | Jakes Bejoy | Madhu Balakrishnan, Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=yWQvaLvw6jU</id>
+        <link href="https://www.youtube.com/watch?v=yWQvaLvw6jU"/>
+        <updated>2024-09-30T11:30:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Life [English] | THANUPP |Lyrical Video| Janaki Eswar |Soorya Nanna|Bibin Ashok|Ragesh Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=VoHPV8so4q0</id>
+        <link href="https://www.youtube.com/watch?v=VoHPV8so4q0"/>
+        <updated>2024-09-30T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaala Varuthu - Video Song | Nandhan |Sasikumar |Sruthi Periyasamy |Ghibran Vaibodha | Era Saravanan]]></title>
+        <id>https://www.youtube.com/watch?v=NM_-gWmay3Q</id>
+        <link href="https://www.youtube.com/watch?v=NM_-gWmay3Q"/>
+        <updated>2024-09-30T11:30:04.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umbaayi Kuchaandu |  ഉമ്പായി കുച്ചാണ്ട് | Kalabhavan Mani Hit Naadanpattu | Kalabhavan Mani]]></title>
+        <id>https://www.youtube.com/watch?v=sp4wyOhaVy0</id>
+        <link href="https://www.youtube.com/watch?v=sp4wyOhaVy0"/>
+        <updated>2024-09-30T11:20:59.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pattum Chutti | Rajadhi Raja  #shortsfeed #shortsvideo #reels #manoramamusic #shorts #mammootty]]></title>
         <id>https://www.youtube.com/watch?v=aCOZaRQVjdg</id>
@@ -11488,24 +11533,6 @@
         <updated>2024-09-01T01:45:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 1st of September 2024 Mathavinte Japamala # Mahimayude Rahasyangal 1st of September 2024]]></title>
-        <id>https://www.youtube.com/watch?v=eteMVrL0OyA</id>
-        <link href="https://www.youtube.com/watch?v=eteMVrL0OyA"/>
-        <updated>2024-08-31T23:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |   @JinoKunnumpurathu  #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=B-PvYxCXFzY</id>
-        <link href="https://www.youtube.com/watch?v=B-PvYxCXFzY"/>
-        <updated>2024-08-31T23:30:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
