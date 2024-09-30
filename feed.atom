@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T02:15:35.464Z</updated>
+    <updated>2024-09-30T03:19:21.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11371,33 +11371,6 @@
         <updated>2024-08-31T15:49:00.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #mothermary #ettunombu #mothermarysongs #mothermaryprayer #stmary #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=V7Xugd7NO0w</id>
-        <link href="https://www.youtube.com/watch?v=V7Xugd7NO0w"/>
-        <updated>2024-08-31T15:15:02.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaarmukam Maaril Chartthi | Kunukkkitta Kozhi | Sidhique l KS Chithra | G Venugopal #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=XiH5pPyEU4I</id>
-        <link href="https://www.youtube.com/watch?v=XiH5pPyEU4I"/>
-        <updated>2024-08-31T14:30:19.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pallitherundo | Jayaram | Sithara | G Venugopal | Sujatha Mohan |  Johnson | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=gb_LArIOfXo</id>
-        <link href="https://www.youtube.com/watch?v=gb_LArIOfXo"/>
-        <updated>2024-08-31T14:30:18.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
