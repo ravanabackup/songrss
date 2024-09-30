@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T14:08:03.173Z</updated>
+    <updated>2024-09-30T15:08:27.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mohanlal Hits| ലാലേട്ടന്റെ ഇഷ്ടഗാനങ്ങൾ !| Hits of Mohanlal | Malayalam Movie Songs |Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=X82dfH8hgdw</id>
+        <link href="https://www.youtube.com/watch?v=X82dfH8hgdw"/>
+        <updated>2024-09-30T14:57:58.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konchi Konchi | Vismayathumbathu | Ouseppachan | K J Yesudas | Kaithapram #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=hkst1IBB9rY</id>
+        <link href="https://www.youtube.com/watch?v=hkst1IBB9rY"/>
+        <updated>2024-09-30T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midukki Midukki Video Song | Unniyarcha | Mehboob #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VR8zOQ8zWv0</id>
+        <link href="https://www.youtube.com/watch?v=VR8zOQ8zWv0"/>
+        <updated>2024-09-30T14:30:15.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavillin Kottarathil | Vidyasagar | Kaithapram | Sujatha Mohan | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=ClfAfUagXxw</id>
+        <link href="https://www.youtube.com/watch?v=ClfAfUagXxw"/>
+        <updated>2024-09-30T14:30:08.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസ ദിനങ്ങളിൽ പരിശുദ്ധ അമ്മയോട് എന്തുകാര്യവും പ്രാർത്ഥിച്ചാൽ അമ്മ സാധിച്ചുതരും ഈ ഗാനങ്ങളിലൂടെ!!]]></title>
+        <id>https://www.youtube.com/watch?v=1e04umencMk</id>
+        <link href="https://www.youtube.com/watch?v=1e04umencMk"/>
+        <updated>2024-09-30T14:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcoming Vaisagh To Think Music Family ❤️ | Kudumbasthan]]></title>
         <id>https://www.youtube.com/watch?v=_DFCidFx5WE</id>
