@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T10:09:43.896Z</updated>
+    <updated>2024-09-30T11:06:50.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pattum Chutti | Rajadhi Raja  #shortsfeed #shortsvideo #reels #manoramamusic #shorts #mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=aCOZaRQVjdg</id>
+        <link href="https://www.youtube.com/watch?v=aCOZaRQVjdg"/>
+        <updated>2024-09-30T11:00:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചിത്തിനിയെ സ്വീകരിച്ച് മലയാളീ പ്രേക്ഷകർ | Chithini | Theatre Response | East Coast Vijayan | Mokksha]]></title>
+        <id>https://www.youtube.com/watch?v=0xFNz7h8uMg</id>
+        <link href="https://www.youtube.com/watch?v=0xFNz7h8uMg"/>
+        <updated>2024-09-30T10:50:02.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ബുൾ ബുൾ മൈനേ | Bulbul Bulbul Maine | Sandhyakku Virinja Poovu Evergreen Hit Song |  K. J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=ag_d2FZN3uA</id>
+        <link href="https://www.youtube.com/watch?v=ag_d2FZN3uA"/>
+        <updated>2024-09-30T10:36:23.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thekku Vadakku - Trailer |Suraj Venjaramoodu| Vinayakan|Prem Sankar|Sam CS |S.Hareesh |Anjana Philip]]></title>
         <id>https://www.youtube.com/watch?v=LJmvoJJUl08</id>
@@ -40,6 +67,15 @@
         <updated>2024-09-30T07:30:02.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le Le Le  Video Song | Chithini | East Coast Vijayan | Amith Chakalakkal, Mokksha | Ranjin Raj]]></title>
+        <id>https://www.youtube.com/watch?v=yAG-ljuEhvM</id>
+        <link href="https://www.youtube.com/watch?v=yAG-ljuEhvM"/>
+        <updated>2024-09-30T07:02:31.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
@@ -11470,15 +11506,6 @@
         <updated>2024-08-31T23:30:02.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=NXYM1fvQMOo</id>
-        <link href="https://www.youtube.com/watch?v=NXYM1fvQMOo"/>
-        <updated>2024-08-31T23:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
