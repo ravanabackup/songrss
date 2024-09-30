@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T22:07:40.376Z</updated>
+    <updated>2024-09-30T23:07:45.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=gFkiSn1Fx2Q</id>
+        <link href="https://www.youtube.com/watch?v=gFkiSn1Fx2Q"/>
+        <updated>2024-09-30T23:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ചൊവ്വാഴ്ച്ച, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്!!]]></title>
+        <id>https://www.youtube.com/watch?v=oqlcOeE5LA8</id>
+        <link href="https://www.youtube.com/watch?v=oqlcOeE5LA8"/>
+        <updated>2024-09-30T22:30:09.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITHA NINTE AMMA DAY 1]]></title>
         <id>https://www.youtube.com/watch?v=ryepLtJ_DvA</id>
@@ -11630,24 +11648,6 @@
         <id>https://www.youtube.com/watch?v=0TxC7pW-mFg</id>
         <link href="https://www.youtube.com/watch?v=0TxC7pW-mFg"/>
         <updated>2024-09-01T12:30:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanka Kutta | Kochi Rajavu  #shortsfeed #shortsvideo #reels #vidyasagar #shorts #dileep]]></title>
-        <id>https://www.youtube.com/watch?v=2yhCFA_nRXw</id>
-        <link href="https://www.youtube.com/watch?v=2yhCFA_nRXw"/>
-        <updated>2024-09-01T11:00:05.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amma Porul Day 1]]></title>
-        <id>https://www.youtube.com/watch?v=F1_nTuKfZds</id>
-        <link href="https://www.youtube.com/watch?v=F1_nTuKfZds"/>
-        <updated>2024-09-01T10:57:58.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
