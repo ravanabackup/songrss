@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T08:12:40.264Z</updated>
+    <updated>2024-09-30T09:09:23.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Kunjupoovinte | Chandranudikkunna Dikkil | Dileep | Kavya | Vidyasagar - HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=gSjXL1xD-A0</id>
+        <link href="https://www.youtube.com/watch?v=gSjXL1xD-A0"/>
+        <updated>2024-09-30T08:22:11.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Thanana #jallianwalabagh #manikandanayyappa #vinayaksasikumar #anthonydaasan #songoftheday #shorts]]></title>
         <id>https://www.youtube.com/watch?v=nukRQXDm4WE</id>
@@ -787,6 +796,15 @@
         <updated>2024-09-28T10:05:59.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kattil Oru Muri Official Trailer | Shanavas K Bavakutty | Hakeem Shah | Poornima indhrajith]]></title>
+        <id>https://www.youtube.com/watch?v=zMolsHPfiXw</id>
+        <link href="https://www.youtube.com/watch?v=zMolsHPfiXw"/>
+        <updated>2024-09-28T08:37:47.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
