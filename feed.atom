@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T12:15:21.955Z</updated>
+    <updated>2024-09-30T13:18:11.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chakkarakkili Video Song | Vellinakshatram Movie Song | M Jayachandran | Sujatha Mohan | Prithviraj]]></title>
+        <id>https://www.youtube.com/watch?v=K48xIZFFLh8</id>
+        <link href="https://www.youtube.com/watch?v=K48xIZFFLh8"/>
+        <updated>2024-09-30T13:14:45.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyarinjo Neela Kuzhali Video Song| Sadanandante Samayam| Dileep | Kavya |KJ Yesudas |Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=HZFVU_eMSvc</id>
+        <link href="https://www.youtube.com/watch?v=HZFVU_eMSvc"/>
+        <updated>2024-09-30T13:09:05.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ORUKODI JANMAMEE | ഒരു കോടി ജന്മമീ | നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ |]]></title>
+        <id>https://www.youtube.com/watch?v=xpRrOyaWZyo</id>
+        <link href="https://www.youtube.com/watch?v=xpRrOyaWZyo"/>
+        <updated>2024-09-30T13:01:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിങ്കലേക്കു നയിക്കുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | Kester | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ibEYseEBLY4</id>
+        <link href="https://www.youtube.com/watch?v=ibEYseEBLY4"/>
+        <updated>2024-09-30T12:30:39.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mukkutti Chanthaniyunne | Chattambinaad |Alex Paul | Vayalar Sarath | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=gM2wh3gk8tY</id>
+        <link href="https://www.youtube.com/watch?v=gM2wh3gk8tY"/>
+        <updated>2024-09-30T12:30:36.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു ദുഃഖത്തിനപ്പുറം സന്തോഷം വരുക തന്നെ ചെയ്യും | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=6x6WzMhYTxA</id>
+        <link href="https://www.youtube.com/watch?v=6x6WzMhYTxA"/>
+        <updated>2024-09-30T12:30:05.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 30th of September 2024]]></title>
+        <id>https://www.youtube.com/watch?v=-3Z3sMVF6ws</id>
+        <link href="https://www.youtube.com/watch?v=-3Z3sMVF6ws"/>
+        <updated>2024-09-30T12:30:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Muthe Muthe | Kana Kanmani | Sujatha Mohan | Shyam Dharman | Vayalar Sarathchandra Varma]]></title>
         <id>https://www.youtube.com/watch?v=B2Kn_lCVhes</id>
