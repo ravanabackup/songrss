@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T13:18:11.434Z</updated>
+    <updated>2024-09-30T14:08:03.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcoming Vaisagh To Think Music Family ❤️ | Kudumbasthan]]></title>
+        <id>https://www.youtube.com/watch?v=_DFCidFx5WE</id>
+        <link href="https://www.youtube.com/watch?v=_DFCidFx5WE"/>
+        <updated>2024-09-30T13:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Wilson Piravom | Midhila Micahel | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=0q5lb0f6_oE</id>
+        <link href="https://www.youtube.com/watch?v=0q5lb0f6_oE"/>
+        <updated>2024-09-30T13:30:00.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chakkarakkili Video Song | Vellinakshatram Movie Song | M Jayachandran | Sujatha Mohan | Prithviraj]]></title>
         <id>https://www.youtube.com/watch?v=K48xIZFFLh8</id>
@@ -11587,15 +11605,6 @@
         <updated>2024-09-01T03:30:21.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhuratharam Thiruvedham | Shorts   #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=Fwxsg38pHXQ</id>
-        <link href="https://www.youtube.com/watch?v=Fwxsg38pHXQ"/>
-        <updated>2024-09-01T01:45:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
