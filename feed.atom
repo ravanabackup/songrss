@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T23:07:45.759Z</updated>
+    <updated>2024-10-01T00:42:28.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 1st of October 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 1st of October 24]]></title>
+        <id>https://www.youtube.com/watch?v=57174vNcedQ</id>
+        <link href="https://www.youtube.com/watch?v=57174vNcedQ"/>
+        <updated>2024-10-01T00:30:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aradhikkunnen Njangal | Christian Traditional Songs | Binoy Chacko | Praise And Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=769gZPxunqU</id>
+        <link href="https://www.youtube.com/watch?v=769gZPxunqU"/>
+        <updated>2024-10-01T00:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu #biblequotes #shorts #biblequotes]]></title>
+        <id>https://www.youtube.com/watch?v=fOnVwUTrdug</id>
+        <link href="https://www.youtube.com/watch?v=fOnVwUTrdug"/>
+        <updated>2024-09-30T23:30:07.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=gFkiSn1Fx2Q</id>
@@ -11614,42 +11641,6 @@
         <updated>2024-09-01T13:30:07.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aararo Aariraro - Audio Song | Aradhana | K.J.Joy | S. Janaki, K.J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=vILumnbFWYw</id>
-        <link href="https://www.youtube.com/watch?v=vILumnbFWYw"/>
-        <updated>2024-09-01T12:30:43.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീ തനിച്ചല്ല നിന്നെ താങ്ങി നിർത്തുന്ന കർത്താവ് നിന്റെ കൂടെയുണ്ട്  😇| Rev. Aneesh P Joseph |#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lKMnePrJqTE</id>
-        <link href="https://www.youtube.com/watch?v=lKMnePrJqTE"/>
-        <updated>2024-09-01T12:30:37.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Hridaya Mounam Song + Karaoke | Flash | Mohanlal | Rafeeque Ahammed | Gopi Sundar | Gayathri]]></title>
-        <id>https://www.youtube.com/watch?v=v5L6dD-5ka8</id>
-        <link href="https://www.youtube.com/watch?v=v5L6dD-5ka8"/>
-        <updated>2024-09-01T12:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 1st of September 2024]]></title>
-        <id>https://www.youtube.com/watch?v=0TxC7pW-mFg</id>
-        <link href="https://www.youtube.com/watch?v=0TxC7pW-mFg"/>
-        <updated>2024-09-01T12:30:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
