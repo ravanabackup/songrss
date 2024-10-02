@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T14:07:28.748Z</updated>
+    <updated>2024-10-02T15:08:16.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Olachangaali.. | Kinnarippuzhayoram | KS Chithra | M G Sreekumar | Sreenivasan #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=oggsc61XvS4</id>
+        <link href="https://www.youtube.com/watch?v=oggsc61XvS4"/>
+        <updated>2024-10-02T14:30:24.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhu Kadalodivanna Video Song | Unniyarcha | P Leela #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=QEY2XPgf0Kc</id>
+        <link href="https://www.youtube.com/watch?v=QEY2XPgf0Kc"/>
+        <updated>2024-10-02T14:30:11.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennamme Onnu Kaanan  | KJ Yesudas | Jishnu | Siddharth | Suhasini | Renuka | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=IA780jTceqg</id>
+        <link href="https://www.youtube.com/watch?v=IA780jTceqg"/>
+        <updated>2024-10-02T14:30:08.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Superhit Songs | Wilson Piravom | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=zGSKma_tFIk</id>
+        <link href="https://www.youtube.com/watch?v=zGSKma_tFIk"/>
+        <updated>2024-10-02T14:22:32.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madhumasam Viriyanu|Meghasandesham|Suresh Gopi| Rajasree|]]></title>
         <id>https://www.youtube.com/watch?v=HQt0BG0XAS0</id>
