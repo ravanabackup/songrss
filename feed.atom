@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T10:08:33.797Z</updated>
+    <updated>2024-10-02T11:06:57.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forever Favourites | Artist Introduction #unplugged #coversong #malayalamcover #shortsfeed #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=dnykARCjalY</id>
+        <link href="https://www.youtube.com/watch?v=dnykARCjalY"/>
+        <updated>2024-10-02T11:00:44.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurathipattu | Folk Song | Sathkala Vijayan #naadanpaattu #malayalamfolksong #shortsfeed #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=hTwnstmcJ8Y</id>
+        <link href="https://www.youtube.com/watch?v=hTwnstmcJ8Y"/>
+        <updated>2024-10-02T10:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #malayalamworshipsong #malayalamchristiancovers]]></title>
         <id>https://www.youtube.com/watch?v=dMwtmUq4BY0</id>
@@ -11713,15 +11731,6 @@
         <updated>2024-09-02T23:30:06.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=aRwyekrGoRc</id>
-        <link href="https://www.youtube.com/watch?v=aRwyekrGoRc"/>
-        <updated>2024-09-02T23:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
