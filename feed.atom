@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T21:08:24.073Z</updated>
+    <updated>2024-10-02T22:08:39.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11767,15 +11767,6 @@
         <updated>2024-09-03T10:13:42.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maximum Mass (Malayalam) - Lyrical | Max | Kichcha Sudeep | B Ajaneesh Loknath | Vijay Kartikeyaa]]></title>
-        <id>https://www.youtube.com/watch?v=P-rVf5MurEk</id>
-        <link href="https://www.youtube.com/watch?v=P-rVf5MurEk"/>
-        <updated>2024-09-03T10:05:55.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
