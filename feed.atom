@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T12:14:28.885Z</updated>
+    <updated>2024-10-02T13:16:41.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paattonnu Paadan Video Song | Kilukkam Kilukilukkam | Kavya Madhavan | Kunchacko Boban | Jayasurya]]></title>
+        <id>https://www.youtube.com/watch?v=SIptTHwh8MA</id>
+        <link href="https://www.youtube.com/watch?v=SIptTHwh8MA"/>
+        <updated>2024-10-02T13:02:46.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kshamicheeduvan | ക്ഷമിച്ചീടുവാൻ | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ | @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=-50Nn5-DA-M</id>
+        <link href="https://www.youtube.com/watch?v=-50Nn5-DA-M"/>
+        <updated>2024-10-02T13:00:00.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 2nd of October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=rY5vkz4QTHw</id>
+        <link href="https://www.youtube.com/watch?v=rY5vkz4QTHw"/>
+        <updated>2024-10-02T12:30:51.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമിത പ്രതീക്ഷകളാണ് പല ദുഃഖങ്ങൾക്കും കാരണം | 😇 | Rev. Aneesh P Joseph | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kmYLIkUfrnE</id>
+        <link href="https://www.youtube.com/watch?v=kmYLIkUfrnE"/>
+        <updated>2024-10-02T12:30:41.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാരണവന്മാർ നമ്മുക്കായി തന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | Old Is Gold | Kester]]></title>
+        <id>https://www.youtube.com/watch?v=23R56x1YoxI</id>
+        <link href="https://www.youtube.com/watch?v=23R56x1YoxI"/>
+        <updated>2024-10-02T12:30:02.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayaponmane Video Song | Thalayanamanthram | Urvashi | Sreenivasan | KS Chithra | Johnson]]></title>
         <id>https://www.youtube.com/watch?v=Z4Xf2ZKPudk</id>
@@ -11713,33 +11758,6 @@
         <updated>2024-09-03T01:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amma Porul Day 3]]></title>
-        <id>https://www.youtube.com/watch?v=gWkMfVCbcvs</id>
-        <link href="https://www.youtube.com/watch?v=gWkMfVCbcvs"/>
-        <updated>2024-09-03T00:30:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lokam Muzhuvan | Kester | Joji Johns | Joby Kavalam | Christian Melody Songs | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pcpjzn04cmc</id>
-        <link href="https://www.youtube.com/watch?v=pcpjzn04cmc"/>
-        <updated>2024-09-03T00:30:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Nombu Ganangal # 8 Nombu Songs Mother Mary Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=95IxdlGFZUE</id>
-        <link href="https://www.youtube.com/watch?v=95IxdlGFZUE"/>
-        <updated>2024-09-03T00:30:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
