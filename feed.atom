@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-03T17:07:00.038Z</updated>
+    <updated>2024-10-03T18:10:33.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11866,42 +11866,6 @@
         <updated>2024-09-04T06:30:05.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennil Niranjozhukum.... #christiandevotionalsongsmalayalam #kesterchristiandevotionalsongsmalayalam]]></title>
-        <id>https://www.youtube.com/watch?v=e2bCj6o8WsY</id>
-        <link href="https://www.youtube.com/watch?v=e2bCj6o8WsY"/>
-        <updated>2024-09-04T05:59:49.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanditha Bose Romantic Superhit Song | Poonthenaruvi |  Prem Nazir, Jayabharathi]]></title>
-        <id>https://www.youtube.com/watch?v=orZXcQjXFIA</id>
-        <link href="https://www.youtube.com/watch?v=orZXcQjXFIA"/>
-        <updated>2024-09-04T05:36:36.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #mothermary #ettunombu #mothermarysongs #mothermaryprayer #stmary]]></title>
-        <id>https://www.youtube.com/watch?v=z84qb2I5swE</id>
-        <link href="https://www.youtube.com/watch?v=z84qb2I5swE"/>
-        <updated>2024-09-04T05:33:30.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyane | Nammal Thammil | Video Song | Prithviraj | Sujatha | Gireesh Puthencherry | M.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=NTH3OVpu3nY</id>
-        <link href="https://www.youtube.com/watch?v=NTH3OVpu3nY"/>
-        <updated>2024-09-04T05:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
