@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-03T10:08:09.171Z</updated>
+    <updated>2024-10-03T11:06:36.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തെക്കേപുറത്ത് | Thekkeppurath | MinnaminunguAlbum Song |  Kalabhavan Mani Hit Naadanpattu]]></title>
+        <id>https://www.youtube.com/watch?v=syNhaAo476c</id>
+        <link href="https://www.youtube.com/watch?v=syNhaAo476c"/>
+        <updated>2024-10-03T10:56:27.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mamboo Manamithaa | THANUPP #kapilkapilan #shortsfeed #shorts #reels #malayalamfilmsongs#shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=rQCt8t85pU8</id>
+        <link href="https://www.youtube.com/watch?v=rQCt8t85pU8"/>
+        <updated>2024-10-03T10:30:31.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eathetho Mounangal |Cup |Basil Joseph |Mathew Thomas |Shaan Rahman |Alphonse Puthren |Sanju V Samuel]]></title>
+        <id>https://www.youtube.com/watch?v=J55zcWRYk60</id>
+        <link href="https://www.youtube.com/watch?v=J55zcWRYk60"/>
+        <updated>2024-10-03T10:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chaithra Nilavinte|Oral Mathram|Mammotty|Sudheesh|]]></title>
         <id>https://www.youtube.com/watch?v=VZNOnqCtSSM</id>
@@ -11722,15 +11749,6 @@
         <updated>2024-09-03T23:30:02.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=4-V7lS664oE</id>
-        <link href="https://www.youtube.com/watch?v=4-V7lS664oE"/>
-        <updated>2024-09-03T23:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
