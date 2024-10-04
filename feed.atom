@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T10:08:13.067Z</updated>
+    <updated>2024-10-04T11:06:40.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uyirai - Video| Minmini |Halitha Shameem |Khatija Rahman |Esther Anil| Praveen Kishore|Gaurav Kaalai]]></title>
+        <id>https://www.youtube.com/watch?v=umzpvOBlUMM</id>
+        <link href="https://www.youtube.com/watch?v=umzpvOBlUMM"/>
+        <updated>2024-10-04T10:30:10.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ  ഏതൊരു ആഘോഷത്തിനും അകമ്പടിയായെത്തുന്ന മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=ylpbJe9BrWU</id>
@@ -11675,15 +11684,6 @@
         <id>https://www.youtube.com/watch?v=GCGHVat071k</id>
         <link href="https://www.youtube.com/watch?v=GCGHVat071k"/>
         <updated>2024-09-04T23:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=vYgfsBL7ZWo</id>
-        <link href="https://www.youtube.com/watch?v=vYgfsBL7ZWo"/>
-        <updated>2024-09-04T23:00:29.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
