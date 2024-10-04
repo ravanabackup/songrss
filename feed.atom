@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T20:09:06.393Z</updated>
+    <updated>2024-10-04T21:07:17.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11866,33 +11866,6 @@
         <updated>2024-09-05T10:03:37.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മമ്മൂക്കയുടെ  നൊസ്റ്റാൾജിക് ഗാനങ്ങൾ | Malayalam Songs | KJ Yesudas | M. G. Sreekumar | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=juF83Bv1sd0</id>
-        <link href="https://www.youtube.com/watch?v=juF83Bv1sd0"/>
-        <updated>2024-09-05T08:48:53.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #teachersday #malayalamchristiancoversongs #malayalamworshipsong #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=TKxsPCKs890</id>
-        <link href="https://www.youtube.com/watch?v=TKxsPCKs890"/>
-        <updated>2024-09-05T08:19:28.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#uyire #minnalmurali #shaanrahman #manumanjith #narayanigopan #mithunjayaraj #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=5mRnGTRKsno</id>
-        <link href="https://www.youtube.com/watch?v=5mRnGTRKsno"/>
-        <updated>2024-09-05T08:15:10.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
