@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T07:07:49.323Z</updated>
+    <updated>2024-10-04T08:11:01.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ  ഏതൊരു ആഘോഷത്തിനും അകമ്പടിയായെത്തുന്ന മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=ylpbJe9BrWU</id>
+        <link href="https://www.youtube.com/watch?v=ylpbJe9BrWU"/>
+        <updated>2024-10-04T07:40:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നീയെന്‍ കിനാവോ  | Neeyen Kinavo | Hello My Dear Wrong Number Malayalam Film Song | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=MCWEeNJSjhs</id>
@@ -11666,15 +11675,6 @@
         <id>https://www.youtube.com/watch?v=vYgfsBL7ZWo</id>
         <link href="https://www.youtube.com/watch?v=vYgfsBL7ZWo"/>
         <updated>2024-09-04T23:00:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 5 # Athiravile Prarthana 5th of September 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=YiaoWIlcIE8</id>
-        <link href="https://www.youtube.com/watch?v=YiaoWIlcIE8"/>
-        <updated>2024-09-04T20:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
