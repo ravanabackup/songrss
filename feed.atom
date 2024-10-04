@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T13:16:38.860Z</updated>
+    <updated>2024-10-04T14:07:57.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poothalam | Kalikkalam | Kaithapram | Johnson | KS Chithra | Shobhana | Mammootty | Evergreen Hits]]></title>
+        <id>https://www.youtube.com/watch?v=i52pIc16o0E</id>
+        <link href="https://www.youtube.com/watch?v=i52pIc16o0E"/>
+        <updated>2024-10-04T13:30:33.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Kester | Christian Devotional Songs Malayalam | Joji Johns | P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=PFIHdBwWeZY</id>
+        <link href="https://www.youtube.com/watch?v=PFIHdBwWeZY"/>
+        <updated>2024-10-04T13:30:13.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karu Kare Karuthoru Pennanu|Balettan|Mohanlal Song| #mohanlal #lalettan]]></title>
+        <id>https://www.youtube.com/watch?v=KVn7Lg7mwrY</id>
+        <link href="https://www.youtube.com/watch?v=KVn7Lg7mwrY"/>
+        <updated>2024-10-04T13:22:16.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #mecheriansongsmashup #malyalamworshipsong at]]></title>
         <id>https://www.youtube.com/watch?v=IE4KnYryjCE</id>
@@ -11785,24 +11812,6 @@
         <updated>2024-09-05T03:30:02.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chingapulari | Onam Song| Sathkala Vijayan |Festival Song| #onam #onamspecial #onamsongs #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=EFeA_MVIoCY</id>
-        <link href="https://www.youtube.com/watch?v=EFeA_MVIoCY"/>
-        <updated>2024-09-05T01:30:10.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dinam Dinam Dinam Nee Vazhthuka | Christian Devotional | Shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=8uu96FD9zK0</id>
-        <link href="https://www.youtube.com/watch?v=8uu96FD9zK0"/>
-        <updated>2024-09-05T01:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
