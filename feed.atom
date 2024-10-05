@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T16:08:05.035Z</updated>
+    <updated>2024-10-05T17:06:59.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11992,33 +11992,6 @@
         <updated>2024-09-06T05:08:38.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneerppuzhayude | Bharya | Jagadhish | Urvashi | KS Chithra | Shibu Chakravarthy]]></title>
-        <id>https://www.youtube.com/watch?v=VUxGO5FA-tA</id>
-        <link href="https://www.youtube.com/watch?v=VUxGO5FA-tA"/>
-        <updated>2024-09-06T04:30:12.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam| Onam Songs #mgsreekumar #onamsong #onam #shortsfeed #shorts #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/watch?v=AXZp34iflv4</id>
-        <link href="https://www.youtube.com/watch?v=AXZp34iflv4"/>
-        <updated>2024-09-06T04:30:03.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme Music | URUMI |4K Video| Deepak Dev | Prithiviraj |Vidya Balan| Prabhudeva|Tabu|Santhosh Sivan]]></title>
-        <id>https://www.youtube.com/watch?v=J9v8XMLKyZ8</id>
-        <link href="https://www.youtube.com/watch?v=J9v8XMLKyZ8"/>
-        <updated>2024-09-06T04:25:14.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
