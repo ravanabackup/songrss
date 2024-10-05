@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T17:06:59.662Z</updated>
+    <updated>2024-10-05T18:09:00.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=-ndKsvH7up0</id>
+        <link href="https://www.youtube.com/watch?v=-ndKsvH7up0"/>
+        <updated>2024-10-05T18:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=abI-fR9-MZY</id>
@@ -11956,42 +11965,6 @@
         <updated>2024-09-06T06:22:20.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delve Into The Struggle Between Rustic Roots & Modernity in 𝐒𝐡𝐢𝐥𝐚𝐥𝐢𝐤𝐡𝐢𝐭𝐚𝐦 From #Manorathangal 🎬]]></title>
-        <id>https://www.youtube.com/watch?v=ifLviq8t7mI</id>
-        <link href="https://www.youtube.com/watch?v=ifLviq8t7mI"/>
-        <updated>2024-09-06T05:55:25.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthrada Pooviliyil | Lyrical+Karaoke Video | K J Yesudas | Kaithapram | Sunny Stephen | Onam Song]]></title>
-        <id>https://www.youtube.com/watch?v=6oMekV9_9uc</id>
-        <link href="https://www.youtube.com/watch?v=6oMekV9_9uc"/>
-        <updated>2024-09-06T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #ettunombu #stmary #mothermary]]></title>
-        <id>https://www.youtube.com/watch?v=CZz9JR_6G24</id>
-        <link href="https://www.youtube.com/watch?v=CZz9JR_6G24"/>
-        <updated>2024-09-06T05:09:00.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayabharathi, Prem Nazir Romantic Superhit Song | Kanalkattakal | Vincent, K. P. Ummer]]></title>
-        <id>https://www.youtube.com/watch?v=0qif-gwA3xM</id>
-        <link href="https://www.youtube.com/watch?v=0qif-gwA3xM"/>
-        <updated>2024-09-06T05:08:38.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
