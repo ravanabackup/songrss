@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T14:06:18.992Z</updated>
+    <updated>2024-10-06T15:07:44.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മുഴവൻ കാണാൻ മുകളിൽ കാണുന്ന ലിങ്ക് സന്ദർശിക്കൂ #dileep #malayalamsongs #malayalamwhatsappstatus]]></title>
+        <id>https://www.youtube.com/watch?v=VSAd24vIyqA</id>
+        <link href="https://www.youtube.com/watch?v=VSAd24vIyqA"/>
+        <updated>2024-10-06T14:34:08.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mizhikalkkinnenthu Velicham - Vismayathumbathu | Ouseppachan | Vijay Yesudas | Sujatha #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=gNhGava2H2E</id>
+        <link href="https://www.youtube.com/watch?v=gNhGava2H2E"/>
+        <updated>2024-10-06T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prathikaara Durge Video Song | Unniyarcha | K Raghavan #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=t-rHIqyaWs4</id>
+        <link href="https://www.youtube.com/watch?v=t-rHIqyaWs4"/>
+        <updated>2024-10-06T14:30:19.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vennilaavo Chandanamo | Pingaami | Mohanlal | Kaithapram | Johnson | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=J_nls14oI3c</id>
+        <link href="https://www.youtube.com/watch?v=J_nls14oI3c"/>
+        <updated>2024-10-06T14:30:07.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്നും സന്ധ്യാപ്രാർത്ഥനയിൽ പാടുന്ന മരിയൻ ഗീതങ്ങൾ | Sujatha | Mariyan Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=8Nf8VmxLeKs</id>
@@ -11686,33 +11722,6 @@
         <updated>2024-09-07T03:30:26.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Mama Mama Animation Lyrical Video | Film Song Animation | Rock N Roll]]></title>
-        <id>https://www.youtube.com/watch?v=tFM0WCoLA_M</id>
-        <link href="https://www.youtube.com/watch?v=tFM0WCoLA_M"/>
-        <updated>2024-09-07T02:45:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kattarinu Thorathoru | Loudspeaker | Video Song | Mammootty | Jayaraj | Anil Panachooran | Bijibal]]></title>
-        <id>https://www.youtube.com/watch?v=zqEQTZoEsK8</id>
-        <link href="https://www.youtube.com/watch?v=zqEQTZoEsK8"/>
-        <updated>2024-09-07T02:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amma Porul Day 7]]></title>
-        <id>https://www.youtube.com/watch?v=dwfU7ADGK_c</id>
-        <link href="https://www.youtube.com/watch?v=dwfU7ADGK_c"/>
-        <updated>2024-09-07T02:17:43.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
