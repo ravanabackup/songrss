@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-06T19:04:16.155Z</updated>
+    <updated>2024-10-06T20:07:55.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11722,15 +11722,6 @@
         <updated>2024-09-07T08:57:14.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രവീന്ദ്രൻ മാഷിന്റെ എക്കാലത്തെയും സൂപ്പർഹിറ്റ് ഓണപ്പാട്ടുകൾ | ONAPATTUKAL | RAVEENDRAN MASTER]]></title>
-        <id>https://www.youtube.com/watch?v=GlVIUhnJJD0</id>
-        <link href="https://www.youtube.com/watch?v=GlVIUhnJJD0"/>
-        <updated>2024-09-07T07:45:33.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
