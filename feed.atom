@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T03:16:51.367Z</updated>
+    <updated>2024-10-07T04:10:31.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jayabharathi Romantic Old Superhit Movie Song | Chandrabimbam | Prathap Pothen, Sathaar, M. G. Soman]]></title>
+        <id>https://www.youtube.com/watch?v=yfKYq6g2N2U</id>
+        <link href="https://www.youtube.com/watch?v=yfKYq6g2N2U"/>
+        <updated>2024-10-07T04:00:48.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaanana Kuyile | Forever Favourites #rahullexman #sonymohan #malayalamcover #unplugged #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=N_4Zb_R59jI</id>
+        <link href="https://www.youtube.com/watch?v=N_4Zb_R59jI"/>
+        <updated>2024-10-07T03:30:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambayerusalem Karaoke | Mahakavi KV Simon | Malayalam Christian Karaoke | Christian Minus Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=KVGD384bl3Y</id>
+        <link href="https://www.youtube.com/watch?v=KVGD384bl3Y"/>
+        <updated>2024-10-07T00:56:46.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Morning Prayer Songs | KG Markose | Prabhatha Geethangal | Christian Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=gjxhBJf61-U</id>
