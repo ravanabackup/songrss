@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T08:10:43.625Z</updated>
+    <updated>2024-10-07T09:09:26.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulariyiloru Poonthennal | Runway | KS Chithra | Suresh Peters | Gireesh Puthenchery |Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=J6UtI4GwmoM</id>
+        <link href="https://www.youtube.com/watch?v=J6UtI4GwmoM"/>
+        <updated>2024-10-07T08:28:32.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രഘുവംശപതേ | Raghuvamsapathe | Bharatham Movie | Evergreen Hit Song | K J Tesudas | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=eSI0DSKftkI</id>
@@ -22,6 +31,15 @@
         <updated>2024-10-07T07:30:11.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gumasthan | Making Video|  Amal K Joby | Bibin George | Dileesh Pothan | Jaise Jose |Binoy S Prasad]]></title>
+        <id>https://www.youtube.com/watch?v=16RuQLpDTFo</id>
+        <link href="https://www.youtube.com/watch?v=16RuQLpDTFo"/>
+        <updated>2024-10-07T06:46:21.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
     <entry>
