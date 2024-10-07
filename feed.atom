@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T10:08:54.777Z</updated>
+    <updated>2024-10-07T11:08:05.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kinavinte Minarathil | Adaminte Makan #hariharan #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=u4NXJkKNc6k</id>
+        <link href="https://www.youtube.com/watch?v=u4NXJkKNc6k"/>
+        <updated>2024-10-07T10:30:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaanana Kuyile | Forever Favourites #rahullexman #sonymohan #malayalamcover #unplugged #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=lTokbtCJqYE</id>
+        <link href="https://www.youtube.com/watch?v=lTokbtCJqYE"/>
+        <updated>2024-10-07T10:30:22.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൊന്നും പൂവും വാരി ചൂടാം Ponnum Poovum Song | Ishtamanu Nooruvattam | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=mdsnBl6kT2Y</id>
+        <link href="https://www.youtube.com/watch?v=mdsnBl6kT2Y"/>
+        <updated>2024-10-07T10:14:02.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meiyazhagan - Sneak Peek #2 | Karthi | Arvind Swami | Govind Vasantha | C.Premkumar |Suriya |Jyotika]]></title>
         <id>https://www.youtube.com/watch?v=zP_79UTtDWQ</id>
@@ -11713,15 +11740,6 @@
         <updated>2024-09-07T23:30:00.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=lLq7uc86z28</id>
-        <link href="https://www.youtube.com/watch?v=lLq7uc86z28"/>
-        <updated>2024-09-07T23:00:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
