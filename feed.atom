@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T15:08:24.626Z</updated>
+    <updated>2024-10-07T16:09:25.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=h4NXalCt-LE</id>
+        <link href="https://www.youtube.com/watch?v=h4NXalCt-LE"/>
+        <updated>2024-10-07T16:00:42.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=StCZcJQHC88</id>
+        <link href="https://www.youtube.com/watch?v=StCZcJQHC88"/>
+        <updated>2024-10-07T15:45:04.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ |  Nanni Nanni | Pr. Charles Jacob |  Roji Ponnachan | Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=AN4y-9VIA8g</id>
+        <link href="https://www.youtube.com/watch?v=AN4y-9VIA8g"/>
+        <updated>2024-10-07T15:30:03.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7 October 2024]]></title>
         <id>https://www.youtube.com/watch?v=loSfa4Akb9s</id>
@@ -11866,42 +11893,6 @@
         <updated>2024-09-08T04:13:36.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam | Latest Onam Video | St.Teresa's CGHSS,EKM #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=AQLE0Fxx2FU</id>
-        <link href="https://www.youtube.com/watch?v=AQLE0Fxx2FU"/>
-        <updated>2024-09-08T04:00:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Nunakkuzhi A family entertainer film 📽️ #basiljoseph #graceantony #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=7Mjc--9PCuU</id>
-        <link href="https://www.youtube.com/watch?v=7Mjc--9PCuU"/>
-        <updated>2024-09-08T03:30:04.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambarappoo Veedhiyilu | Video Song | Irupatham Noottandu | Mohanlal | Urvashi | KJ Yesudas | Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=AnioF4wUuAo</id>
-        <link href="https://www.youtube.com/watch?v=AnioF4wUuAo"/>
-        <updated>2024-09-08T03:30:03.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onanilavilu  Onam Songs #madhubalakrishnan #onamsong #onam #shortsfeed #shorts #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/watch?v=3sjEOjAQqMY</id>
-        <link href="https://www.youtube.com/watch?v=3sjEOjAQqMY"/>
-        <updated>2024-09-08T03:30:02.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
