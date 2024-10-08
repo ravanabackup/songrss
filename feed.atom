@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T15:08:05.569Z</updated>
+    <updated>2024-10-08T16:09:43.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=foiXETEOZSQ</id>
+        <link href="https://www.youtube.com/watch?v=foiXETEOZSQ"/>
+        <updated>2024-10-08T16:00:43.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread | Malayalam Christian Song |]]></title>
+        <id>https://www.youtube.com/watch?v=Eml_TP-zA5E</id>
+        <link href="https://www.youtube.com/watch?v=Eml_TP-zA5E"/>
+        <updated>2024-10-08T15:45:00.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎼V. Nagel Songs Mashup… #matchpointfaith #malayalamchristiandevotionals #immanuelhenry #mariakolady]]></title>
         <id>https://www.youtube.com/watch?v=Qn2eQY8RTSw</id>
@@ -12136,24 +12154,6 @@
         <updated>2024-09-09T04:30:00.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vincent Romantic Superhit Song | Kanalkattakal | Prem Nazir, Jayabharathi]]></title>
-        <id>https://www.youtube.com/watch?v=KLivBNeCjCw</id>
-        <link href="https://www.youtube.com/watch?v=KLivBNeCjCw"/>
-        <updated>2024-09-09T04:00:11.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onam Vannonam Vanne  Onam Songs #kjyesudas #onamsong #onam #shortsfeed #shorts #pjayachandran#reels]]></title>
-        <id>https://www.youtube.com/watch?v=ty7ypG1wgIg</id>
-        <link href="https://www.youtube.com/watch?v=ty7ypG1wgIg"/>
-        <updated>2024-09-09T03:30:33.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
