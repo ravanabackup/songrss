@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T13:16:20.979Z</updated>
+    <updated>2024-10-08T14:08:12.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മേഘ്നക്കുട്ടി തകർത്തു പാടിയ വമ്പൻ ഹിറ്റ് ക്രിസ്തീയ ഗാനം!! | ഉണർവ്വിൻ വരം| #meghnasumesh|Ram Surendar]]></title>
+        <id>https://www.youtube.com/watch?v=SA6qbyRj3EY</id>
+        <link href="https://www.youtube.com/watch?v=SA6qbyRj3EY"/>
+        <updated>2024-10-08T13:30:18.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tham Thaka Thakida | Kshanakathu | Kaithapram | Sharreth | KJ Yesudas | Evergreen hit songs]]></title>
+        <id>https://www.youtube.com/watch?v=QRr-3LeQW8M</id>
+        <link href="https://www.youtube.com/watch?v=QRr-3LeQW8M"/>
+        <updated>2024-10-08T13:30:12.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Shibu Antony | Joji Johns |Christian Superhit Songs | Christian Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=74W8X8FUSfQ</id>
+        <link href="https://www.youtube.com/watch?v=74W8X8FUSfQ"/>
+        <updated>2024-10-08T13:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chandana Mukile Video Song | Vellinakshathram Movie Song | Prithviraj | KS Chithra | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=b3yMwF-OkRI</id>
@@ -12064,15 +12091,6 @@
         <updated>2024-09-09T03:30:33.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Ange Mahathwathinay | Christian Devotional | Shorts  #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=2ZYwlMUY59s</id>
-        <link href="https://www.youtube.com/watch?v=2ZYwlMUY59s"/>
-        <updated>2024-09-09T01:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
