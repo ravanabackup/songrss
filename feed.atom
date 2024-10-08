@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T00:37:54.962Z</updated>
+    <updated>2024-10-08T02:13:01.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11839,42 +11839,6 @@
         <updated>2024-09-08T14:30:04.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Midhila Michael | Joji Johns | Rithuraj | Christian Superhit Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bFiPYJqv-UU</id>
-        <link href="https://www.youtube.com/watch?v=bFiPYJqv-UU"/>
-        <updated>2024-09-08T13:30:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarnamukile Swarnamukile|Ithu Njangalude Kadha|Shanthi Krishna|Sreenath|]]></title>
-        <id>https://www.youtube.com/watch?v=ZBXF_ztkLiU</id>
-        <link href="https://www.youtube.com/watch?v=ZBXF_ztkLiU"/>
-        <updated>2024-09-08T13:29:16.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIN DIVYA NAMAM |  BEAUTIFUL NEW CHRISTIAN SONG | ANOOJ BABU | PRAVEEN M KUMAR | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ABslhu6PTEU</id>
-        <link href="https://www.youtube.com/watch?v=ABslhu6PTEU"/>
-        <updated>2024-09-08T13:00:18.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kondal - Official Trailer | Antony Varghese Pepe, Raj B Shetty | Ajit Mampally | Sam CS]]></title>
-        <id>https://www.youtube.com/watch?v=0Ez64qO624M</id>
-        <link href="https://www.youtube.com/watch?v=0Ez64qO624M"/>
-        <updated>2024-09-08T12:58:43.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
