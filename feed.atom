@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T04:10:16.506Z</updated>
+    <updated>2024-10-08T05:08:12.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sree Vinayakam | ശ്രീ വിനായകം | Bharatham Movie | Evergreen Hit Song | K J Tesudas | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=w5Jdp0QTuR4</id>
+        <link href="https://www.youtube.com/watch?v=w5Jdp0QTuR4"/>
+        <updated>2024-10-08T04:43:48.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beats that gets on our feet 🔥😎💃#Nunakkuzhi #basiljoseph #graceantony #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=DdeLxByjDGM</id>
+        <link href="https://www.youtube.com/watch?v=DdeLxByjDGM"/>
+        <updated>2024-10-08T04:30:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jimbilappa Jimbile |Tribal Song| Anjana Teacher #shortsfeed #shortsvideo #shorts #reels #tribalsong]]></title>
         <id>https://www.youtube.com/watch?v=dRFiHkVlDf8</id>
@@ -355,6 +373,15 @@
         <updated>2024-10-07T10:30:22.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irulaattiyoreemalamettil | Dhayabharathi | Lyrical Video | Hariharan | Kailash | K G Vijayakumar]]></title>
+        <id>https://www.youtube.com/watch?v=sOE9YHsldDQ</id>
+        <link href="https://www.youtube.com/watch?v=sOE9YHsldDQ"/>
+        <updated>2024-10-07T10:14:39.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -11821,15 +11848,6 @@
         <updated>2024-09-08T19:00:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaanara lokam | Kishkindha Kaandam  | Lyrical Song | Asif Ali | Aparna Balamurali]]></title>
-        <id>https://www.youtube.com/watch?v=kIuh14TNzw8</id>
-        <link href="https://www.youtube.com/watch?v=kIuh14TNzw8"/>
-        <updated>2024-09-08T16:46:50.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
 </feed>
