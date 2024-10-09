@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T14:07:35.804Z</updated>
+    <updated>2024-10-09T15:06:59.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kana Koottin Kannadi|Meenathil Thalikettu|Dileep|Yadhu Krishnan|]]></title>
+        <id>https://www.youtube.com/watch?v=VufzFLzxY4c</id>
+        <link href="https://www.youtube.com/watch?v=VufzFLzxY4c"/>
+        <updated>2024-10-09T14:52:20.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Ponnathira music video sung by #ksharisankar and #ishanimanoj releasing on Friday 5 pm! Stay tuned🎶]]></title>
+        <id>https://www.youtube.com/watch?v=zSOpgfyVtO8</id>
+        <link href="https://www.youtube.com/watch?v=zSOpgfyVtO8"/>
+        <updated>2024-10-09T14:33:42.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandanamani | MG Sreekumar | Mohanlal | Gireesh Puthenchery | MG Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=cjx1F_18ei4</id>
+        <link href="https://www.youtube.com/watch?v=cjx1F_18ei4"/>
+        <updated>2024-10-09T14:30:17.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sukhamaanee Nilaavu |  Nammal (2002) |Mohan Sithara| Jyotsna |Vidhu Prathap #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=1_pJQCIzxho</id>
+        <link href="https://www.youtube.com/watch?v=1_pJQCIzxho"/>
+        <updated>2024-10-09T14:30:01.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melleyen Kannile Video Song | Kusruthi Kuruppu | Jayaram | Meena | KJ Yesudas | KS Chithra | Johnson]]></title>
         <id>https://www.youtube.com/watch?v=yIvZYStMJqc</id>
@@ -12199,15 +12235,6 @@
         <updated>2024-09-10T03:51:24.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam | Dance Video #reelsvideo  #onam]]></title>
-        <id>https://www.youtube.com/watch?v=rUBb4MO5ZNk</id>
-        <link href="https://www.youtube.com/watch?v=rUBb4MO5ZNk"/>
-        <updated>2024-09-10T03:00:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
