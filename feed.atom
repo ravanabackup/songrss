@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T05:09:08.675Z</updated>
+    <updated>2024-10-09T06:11:56.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum | കവിതയെക്കുറിച്ചുള്ള കാഴ്ചപ്പാട് മാറിയപ്പോൾ  | പാടിയും പറഞ്ഞും |  K Jayakumar]]></title>
+        <id>https://www.youtube.com/watch?v=fgFC9PdKsoE</id>
+        <link href="https://www.youtube.com/watch?v=fgFC9PdKsoE"/>
+        <updated>2024-10-09T05:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prathap Pothen Romantic Old Superhit Movie Song | Chandrabimbam | Jayabharathi, Sathaar, M. G. Soman]]></title>
         <id>https://www.youtube.com/watch?v=hmSOx0evlQs</id>
