@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T17:07:18.712Z</updated>
+    <updated>2024-10-09T18:10:26.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th October 24]]></title>
+        <id>https://www.youtube.com/watch?v=0iV-4ENmLuA</id>
+        <link href="https://www.youtube.com/watch?v=0iV-4ENmLuA"/>
+        <updated>2024-10-09T18:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മുഴുവൻ കാണാൻ മുകളിൽ കാണുന്ന ലിങ്ക് സന്ദർശിക്കൂ]]></title>
         <id>https://www.youtube.com/watch?v=S6B-mpg717o</id>
@@ -12226,24 +12235,6 @@
         <updated>2024-09-10T06:30:12.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chingapulari | Onam Song| Sathkala Vijayan |Festival Song| #onam #onamspecial #onamsongs #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=Q7-Wzwn3T4o</id>
-        <link href="https://www.youtube.com/watch?v=Q7-Wzwn3T4o"/>
-        <updated>2024-09-10T05:45:02.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundarano Sooriyano | Video Song | M Jayachandran | Sujatha | Rajeev Alunkal | Kanaka Simhasanam]]></title>
-        <id>https://www.youtube.com/watch?v=oUbqUK4sH-8</id>
-        <link href="https://www.youtube.com/watch?v=oUbqUK4sH-8"/>
-        <updated>2024-09-10T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
