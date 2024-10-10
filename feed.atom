@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T15:08:11.301Z</updated>
+    <updated>2024-10-10T16:08:58.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth S | Sibin Chowalloor |  Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=GzCP9rqfHjE</id>
+        <link href="https://www.youtube.com/watch?v=GzCP9rqfHjE"/>
+        <updated>2024-10-10T16:00:27.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kujjattin Thiru]]></title>
+        <id>https://www.youtube.com/watch?v=O2oEJ1gg4IQ</id>
+        <link href="https://www.youtube.com/watch?v=O2oEJ1gg4IQ"/>
+        <updated>2024-10-10T15:30:07.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhthunnu Njan | വാഴ്ത്തുന്നു ഞാൻ | Sam Padinjarekara | Elizabeth |Christian Song|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=cet2J6TfpP0</id>
+        <link href="https://www.youtube.com/watch?v=cet2J6TfpP0"/>
+        <updated>2024-10-10T15:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kukku Kukku Kuyile | Kaithapram | Mohan Sithara | KS Chithra | Divya Unni | Mukesh]]></title>
         <id>https://www.youtube.com/watch?v=xrN5Y-RVuYE</id>
@@ -12280,33 +12307,6 @@
         <updated>2024-09-11T04:14:54.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayabharathi, Prem Nazir Romantic Superhit Song | Kanalkattakal | Vincent, K. P. Ummer]]></title>
-        <id>https://www.youtube.com/watch?v=LCrVsjAPlDI</id>
-        <link href="https://www.youtube.com/watch?v=LCrVsjAPlDI"/>
-        <updated>2024-09-11T04:00:20.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payippattattile | Onam Songs #mgsreekumar #onamsong #onam #shortsfeed #shorts #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/watch?v=VVn5okmAJw4</id>
-        <link href="https://www.youtube.com/watch?v=VVn5okmAJw4"/>
-        <updated>2024-09-11T03:30:14.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു പക്കാ Romantic feel തന്ന Song #shorts #love #romanticsong]]></title>
-        <id>https://www.youtube.com/watch?v=JusAYPAYVrs</id>
-        <link href="https://www.youtube.com/watch?v=JusAYPAYVrs"/>
-        <updated>2024-09-11T03:30:08.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
