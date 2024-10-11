@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T22:07:26.046Z</updated>
+    <updated>2024-10-11T23:07:20.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 12, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=DBNxFkz8KY4</id>
+        <link href="https://www.youtube.com/watch?v=DBNxFkz8KY4"/>
+        <updated>2024-10-11T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=XJVx5ZwYCpo</id>
@@ -12415,15 +12424,6 @@
         <updated>2024-09-12T11:09:12.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onam Wishes | Sony Mohan Onam Wishes | #unpluggedsongs #malayalamcover #onam #onamwishes #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=gbmdTPFCPQY</id>
-        <link href="https://www.youtube.com/watch?v=gbmdTPFCPQY"/>
-        <updated>2024-09-12T10:30:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
