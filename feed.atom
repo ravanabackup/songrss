@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T14:07:21.869Z</updated>
+    <updated>2024-10-11T15:07:47.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kudamulla Kammalaninju |  Ee Parakkumthalika |Ouseppachan|KJ Yesudas  #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=wyCDv_gF0Wo</id>
+        <link href="https://www.youtube.com/watch?v=wyCDv_gF0Wo"/>
+        <updated>2024-10-11T14:30:33.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uruvalam Varum Video Song | Vietnam Colony | MG Sreekumar | Minmini | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=YW4LDuXSwHI</id>
+        <link href="https://www.youtube.com/watch?v=YW4LDuXSwHI"/>
+        <updated>2024-10-11T14:30:14.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poonkatte Poyi Chollamo | Shibu Chakravarthy | Raghu Kumar | KS Chithra | Unni Menon]]></title>
+        <id>https://www.youtube.com/watch?v=JFGE4X_Lr94</id>
+        <link href="https://www.youtube.com/watch?v=JFGE4X_Lr94"/>
+        <updated>2024-10-11T14:30:08.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matham Pularumbam Video Song|Sundarakilladi|Nedumudi Venu|]]></title>
+        <id>https://www.youtube.com/watch?v=Oj3lqGAcjtk</id>
+        <link href="https://www.youtube.com/watch?v=Oj3lqGAcjtk"/>
+        <updated>2024-10-11T14:23:00.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അടുത്ത ഹിറ്റ് ഇറങ്ങി Pani Neerin Manam | Jameelante Poovankozhi  #shorts #song #malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=_Xd8N3SiFEw</id>
