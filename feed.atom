@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T10:08:13.531Z</updated>
+    <updated>2024-10-11T11:06:30.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Katru Veliyidai | Thanmathra  #shortsfeed #shortsvideo #reels #mohanlal  #shorts #mohansithara]]></title>
+        <id>https://www.youtube.com/watch?v=0fT6dlb0Xas</id>
+        <link href="https://www.youtube.com/watch?v=0fT6dlb0Xas"/>
+        <updated>2024-10-11T10:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konjum Kuyile Azhakanjum Mayile Video Song | Cheppadividya Movie Song | M G Sreekumar | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=86XzvIa_ZYQ</id>
+        <link href="https://www.youtube.com/watch?v=86XzvIa_ZYQ"/>
+        <updated>2024-10-11T09:58:58.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evergreen Hits |80s-90s Malayalam Evergreen Movie Songs | KJ Yesudas | KS Chithra | Malayalam Hits]]></title>
         <id>https://www.youtube.com/watch?v=YwKJCjSUYVI</id>
@@ -12208,15 +12226,6 @@
         <updated>2024-09-11T23:30:15.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=zZhYgyjYAgU</id>
-        <link href="https://www.youtube.com/watch?v=zZhYgyjYAgU"/>
-        <updated>2024-09-11T23:00:38.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
