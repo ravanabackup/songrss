@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T06:11:54.953Z</updated>
+    <updated>2024-10-11T07:08:41.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഷാരോണിൽ വിരിയും Saronil Viriyum  | Koodikazhcha | KS Chithra | MG Sreekumar | SP Venkitesh]]></title>
+        <id>https://www.youtube.com/watch?v=WoQRUyAqvCk</id>
+        <link href="https://www.youtube.com/watch?v=WoQRUyAqvCk"/>
+        <updated>2024-10-11T07:06:49.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Kannada) - Ullaasam Video - Nani, Priyanka | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=tvT60zCGgLc</id>
+        <link href="https://www.youtube.com/watch?v=tvT60zCGgLc"/>
+        <updated>2024-10-11T07:00:39.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Kannada) - Garam Garam Video - Nani, Priyanka | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=WCWONfgdaZ0</id>
+        <link href="https://www.youtube.com/watch?v=WCWONfgdaZ0"/>
+        <updated>2024-10-11T07:00:30.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Kannada) - Laali Jo Laali Video - Nani, Priyanka | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=b9Yf97ugjeE</id>
+        <link href="https://www.youtube.com/watch?v=b9Yf97ugjeE"/>
+        <updated>2024-10-11T07:00:30.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Kannada) - Hombelaku Video | Nani, Priyanka | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=JfANS_VzoL0</id>
+        <link href="https://www.youtube.com/watch?v=JfANS_VzoL0"/>
+        <updated>2024-10-11T07:00:18.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #vazhthunnunjan #song #coversong #elizabethsmathew#malayalamchristiancovers]]></title>
         <id>https://www.youtube.com/watch?v=jlPuho8Uk8Q</id>
@@ -12145,15 +12190,6 @@
         <updated>2024-09-11T19:13:49.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 12th SEP 2024]]></title>
-        <id>https://www.youtube.com/watch?v=dKMR1skpg3c</id>
-        <link href="https://www.youtube.com/watch?v=dKMR1skpg3c"/>
-        <updated>2024-09-11T19:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
