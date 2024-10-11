@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T21:10:28.594Z</updated>
+    <updated>2024-10-11T22:07:26.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=XJVx5ZwYCpo</id>
+        <link href="https://www.youtube.com/watch?v=XJVx5ZwYCpo"/>
+        <updated>2024-10-11T22:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന October 12 # Athiravile Prarthana 12th October 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=wtigEka3GLY</id>
@@ -12415,42 +12424,6 @@
         <updated>2024-09-12T10:30:27.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓണപ്പാട്ടുകൾ | Kalabhavan Mani Onam Adipoli Songs | Onam Malayalam Songs | Kalabhavan Mani]]></title>
-        <id>https://www.youtube.com/watch?v=hYkMvjo2MC8</id>
-        <link href="https://www.youtube.com/watch?v=hYkMvjo2MC8"/>
-        <updated>2024-09-12T09:24:14.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തരളിത രാവിൽ | Tharalitha Ravil | Soorya Manasam | Evergreen Film Song | Mammootty | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=m2hjCUwRGcc</id>
-        <link href="https://www.youtube.com/watch?v=m2hjCUwRGcc"/>
-        <updated>2024-09-12T09:21:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈറൻ മേഘമേ Eeran Meghame | Nasrani | Vimala Raman | Manjari | Bijibal | Anil Panachooran #music]]></title>
-        <id>https://www.youtube.com/watch?v=dJqy9Ol8oR4</id>
-        <link href="https://www.youtube.com/watch?v=dJqy9Ol8oR4"/>
-        <updated>2024-09-12T09:18:04.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്യാമ മേഘമേ നീ | Shyaamameghame Nee | Adhipan | Malayalam Movie Song | Mohanlal | Parvathy]]></title>
-        <id>https://www.youtube.com/watch?v=F2snnu74r8M</id>
-        <link href="https://www.youtube.com/watch?v=F2snnu74r8M"/>
-        <updated>2024-09-12T09:15:00.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>

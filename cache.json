@@ -3085,6 +3085,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XJVx5ZwYCpo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XJVx5ZwYCpo",
+          "publishedOn": "2024-10-11T22:00:23.000Z",
+          "wordCount": null,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wtigEka3GLY",
           "author": null,
           "description": "",
@@ -6681,16 +6691,6 @@
           "wordCount": null,
           "title": "Amme Amme Video Song | War and Love | Dileep | KJ Yesudas | Mohan Sithara | Yusufali Kecheri",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dJqy9Ol8oR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dJqy9Ol8oR4",
-          "publishedOn": "2024-09-12T09:18:04.000Z",
-          "wordCount": null,
-          "title": "ഈറൻ മേഘമേ Eeran Meghame | Nasrani | Vimala Raman | Manjari | Bijibal | Anil Panachooran #music",
-          "imageUrl": null
         }
       ]
     },
@@ -7217,26 +7217,6 @@
           "publishedOn": "2024-09-12T11:09:12.000Z",
           "wordCount": null,
           "title": "മോക്ഷമു ഗലദാ | Mokshamu Galada | Classic Hit Song | Swathithirunal | Malayalam Movie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m2hjCUwRGcc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m2hjCUwRGcc",
-          "publishedOn": "2024-09-12T09:21:39.000Z",
-          "wordCount": null,
-          "title": "തരളിത രാവിൽ | Tharalitha Ravil | Soorya Manasam | Evergreen Film Song | Mammootty | KJ Yesudas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F2snnu74r8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F2snnu74r8M",
-          "publishedOn": "2024-09-12T09:15:00.000Z",
-          "wordCount": null,
-          "title": "ശ്യാമ മേഘമേ നീ | Shyaamameghame Nee | Adhipan | Malayalam Movie Song | Mohanlal | Parvathy",
           "imageUrl": null
         }
       ]
@@ -9880,16 +9860,6 @@
           "publishedOn": "2024-09-18T12:05:15.000Z",
           "wordCount": null,
           "title": "പ്രണയിനി എൻ ഹൃദയ നൊമ്പരം | Kalabhavan Mani Romantic Hit Song | Paadaan Kothicha Paattukal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hYkMvjo2MC8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hYkMvjo2MC8",
-          "publishedOn": "2024-09-12T09:24:14.000Z",
-          "wordCount": null,
-          "title": "ഓണപ്പാട്ടുകൾ | Kalabhavan Mani Onam Adipoli Songs | Onam Malayalam Songs | Kalabhavan Mani",
           "imageUrl": null
         }
       ]
