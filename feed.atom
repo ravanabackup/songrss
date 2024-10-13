@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-13T12:12:58.863Z</updated>
+    <updated>2024-10-13T13:14:06.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ORUKODI JANMAMEE | ഒരു കോടി ജന്മമീ | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ |  @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=qugk1sayiQ4</id>
+        <link href="https://www.youtube.com/watch?v=qugk1sayiQ4"/>
+        <updated>2024-10-13T13:00:56.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പരസ്പരം മനസ്സിലാക്കുക എന്നത് സ്നേഹത്തേക്കാൾ വലുതാണ് |😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=PkAXAreYmZE</id>
+        <link href="https://www.youtube.com/watch?v=PkAXAreYmZE"/>
+        <updated>2024-10-13T12:30:29.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസുഖമേകുന്ന പ്രത്യാശ ഗീതങ്ങൾ | Prathyasha Geethangal | Christian Melody Songs | Old Is Gold]]></title>
+        <id>https://www.youtube.com/watch?v=OL6YZPFZLo4</id>
+        <link href="https://www.youtube.com/watch?v=OL6YZPFZLo4"/>
+        <updated>2024-10-13T12:30:28.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vasumathee Rithumathee Video Song | Gandharvakshethram | KJ Yesudas | G Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=D8aM8ytLQ2A</id>
+        <link href="https://www.youtube.com/watch?v=D8aM8ytLQ2A"/>
+        <updated>2024-10-13T12:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 13th of October 2024]]></title>
         <id>https://www.youtube.com/watch?v=ecO_LYGKCnQ</id>
@@ -12334,15 +12370,6 @@
         <updated>2024-09-14T01:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Video Songs Malayalam | KG Markose | Wilson Piravom | Rithuraj | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6VrJ2D-eLsA</id>
-        <link href="https://www.youtube.com/watch?v=6VrJ2D-eLsA"/>
-        <updated>2024-09-14T00:30:09.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
