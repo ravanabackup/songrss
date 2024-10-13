@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-13T10:07:23.185Z</updated>
+    <updated>2024-10-13T11:04:38.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -877,6 +877,15 @@
         <updated>2024-10-11T05:16:03.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porattu Naadakam Official Trailer | Noushad Saffron | Saiju Kurup | Rahul Raj | Dharmajan Bolgatty]]></title>
+        <id>https://www.youtube.com/watch?v=U0PPCdQCQVU</id>
+        <link href="https://www.youtube.com/watch?v=U0PPCdQCQVU"/>
+        <updated>2024-10-11T05:03:17.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -12325,24 +12334,6 @@
         <updated>2024-09-13T23:30:09.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=PBc8TwCkMOA</id>
-        <link href="https://www.youtube.com/watch?v=PBc8TwCkMOA"/>
-        <updated>2024-09-13T23:01:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് ശനിയാഴ്ച്ച, ഇപ്പോൾ നീ പ്രയാസപ്പെടുന്ന ഒരു വിഷയം പറഞ്ഞു നീ ഇത് തുറക്കു, അത്ഭുതം ഉറപ്പാണ്!!]]></title>
-        <id>https://www.youtube.com/watch?v=t3xwk4_V4ak</id>
-        <link href="https://www.youtube.com/watch?v=t3xwk4_V4ak"/>
-        <updated>2024-09-13T22:30:18.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
