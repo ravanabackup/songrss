@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T11:07:43.994Z</updated>
+    <updated>2024-10-14T12:14:58.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deenanukamba | Thilothama | Video Song | Merine Gregory | Jayageetha | Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=qf9N67tBvP0</id>
+        <link href="https://www.youtube.com/watch?v=qf9N67tBvP0"/>
+        <updated>2024-10-14T12:07:40.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalabhavan Mani Hit Romantic Song | Malayali Penninde | മലയാളി പെണ്ണിന്റെ]]></title>
+        <id>https://www.youtube.com/watch?v=20kmMPpzdoE</id>
+        <link href="https://www.youtube.com/watch?v=20kmMPpzdoE"/>
+        <updated>2024-10-14T11:32:24.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K For Kabaradakkam South Indian Hip Hop | Guruvayoorambala Nadayil | Ankit Menon | Jeruson]]></title>
+        <id>https://www.youtube.com/watch?v=yGfdzYV6F6I</id>
+        <link href="https://www.youtube.com/watch?v=yGfdzYV6F6I"/>
+        <updated>2024-10-14T11:30:37.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pani Neerin Manam | Jameelante Poovankozhi | Lyrical Video | Shaajahan | Daana Razik | Tony Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=o8gYPdwc-nQ</id>
+        <link href="https://www.youtube.com/watch?v=o8gYPdwc-nQ"/>
+        <updated>2024-10-14T11:30:34.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 14th of October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=il7PvPCV1vE</id>
+        <link href="https://www.youtube.com/watch?v=il7PvPCV1vE"/>
+        <updated>2024-10-14T11:30:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്കേറെ ഇഷ്ടമുള്ള ഗായകർ ആലപിച്ച മികച്ച ജനകീയ ഗാനങ്ങൾ  | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=AX4ZuE7wuGk</id>
+        <link href="https://www.youtube.com/watch?v=AX4ZuE7wuGk"/>
+        <updated>2024-10-14T11:30:11.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nayakan Prithvi | Malayalam Movie | Official Trailer | Prasad Edward | V B Mathew]]></title>
+        <id>https://www.youtube.com/watch?v=G4qmOpdhcz8</id>
+        <link href="https://www.youtube.com/watch?v=G4qmOpdhcz8"/>
+        <updated>2024-10-14T11:30:08.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharaku Tharaku | Folk Fusion Video | George Peter | C J Kuttappan | Decoding The Tribal Math]]></title>
+        <id>https://www.youtube.com/watch?v=_L-HSqPBJsI</id>
+        <link href="https://www.youtube.com/watch?v=_L-HSqPBJsI"/>
+        <updated>2024-10-14T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onaveyil Olangalil | Song + Karaoke | Bombay March 12 | MG Sreekumar | Rafeeque Ahammed | Mammootty]]></title>
         <id>https://www.youtube.com/watch?v=J_Y6EOfRV5g</id>
@@ -12334,15 +12406,6 @@
         <updated>2024-09-15T00:30:08.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu          #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=StQVn8N5r3M</id>
-        <link href="https://www.youtube.com/watch?v=StQVn8N5r3M"/>
-        <updated>2024-09-14T23:30:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
