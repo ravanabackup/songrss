@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T16:09:14.903Z</updated>
+    <updated>2024-10-14T17:07:16.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12433,24 +12433,6 @@
         <updated>2024-09-15T06:23:25.000Z</updated>
         <author>
             <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling the vibe, living the rhythm 🎶 #Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=cABxpVepZV0</id>
-        <link href="https://www.youtube.com/watch?v=cABxpVepZV0"/>
-        <updated>2024-09-15T04:30:27.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aathire Yadhu Radhike | Naranath Thamburan | Jayaram | Nandhini | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=5m8NhIDioCA</id>
-        <link href="https://www.youtube.com/watch?v=5m8NhIDioCA"/>
-        <updated>2024-09-15T04:30:02.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
