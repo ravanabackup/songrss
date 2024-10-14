@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T10:09:14.750Z</updated>
+    <updated>2024-10-14T11:07:43.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onaveyil Olangalil | Song + Karaoke | Bombay March 12 | MG Sreekumar | Rafeeque Ahammed | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=J_Y6EOfRV5g</id>
+        <link href="https://www.youtube.com/watch?v=J_Y6EOfRV5g"/>
+        <updated>2024-10-14T10:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saamaja sanchaarini |സാമജസഞ്ചാരിണി | Parinayam Movie Song | Mohini | K J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=mytJYeSxWRY</id>
@@ -76,6 +85,15 @@
         <updated>2024-10-14T04:00:37.000Z</updated>
         <author>
             <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anand Sreebala - Teaser|Arjun Ashokan|Saiju Kurup|Aparna Das|Vishnu Vinay|Abhilash Pillai|Ranjin Raj]]></title>
+        <id>https://www.youtube.com/watch?v=xFBnm-HjpkE</id>
+        <link href="https://www.youtube.com/watch?v=xFBnm-HjpkE"/>
+        <updated>2024-10-14T03:08:49.000Z</updated>
+        <author>
+            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
@@ -1183,6 +1201,15 @@
         <updated>2024-10-11T04:38:53.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anpodu Kanmani Official Teaser | Liju Thomaz | Arjun Ashokan | Anagha Narayanan | Johny Antony]]></title>
+        <id>https://www.youtube.com/watch?v=2A3A9qufbY8</id>
+        <link href="https://www.youtube.com/watch?v=2A3A9qufbY8"/>
+        <updated>2024-10-11T04:27:27.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -12316,24 +12343,6 @@
         <updated>2024-09-14T23:30:11.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=C2ZLZdoXCZM</id>
-        <link href="https://www.youtube.com/watch?v=C2ZLZdoXCZM"/>
-        <updated>2024-09-14T23:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് ഞായറാഴ്ച്ച, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്!!]]></title>
-        <id>https://www.youtube.com/watch?v=aKtvvkNq7xE</id>
-        <link href="https://www.youtube.com/watch?v=aKtvvkNq7xE"/>
-        <updated>2024-09-14T22:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
