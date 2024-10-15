@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T19:07:50.383Z</updated>
+    <updated>2024-10-15T20:08:51.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12676,24 +12676,6 @@
         <updated>2024-09-16T08:24:07.000Z</updated>
         <author>
             <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളനാടിന്റെ പൈതൃകം കാത്തുസൂക്ഷിച്ച മലയാളസിനിമയിലെ അമൂല്യഗാനങ്ങൾ | MALAYALAM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=mnYe1XNjRAA</id>
-        <link href="https://www.youtube.com/watch?v=mnYe1XNjRAA"/>
-        <updated>2024-09-16T07:30:26.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmaniye Punnyam Nee | Annan Thambi | Vineeth Sreenivasan | Rahul Raj | Sarath Vayalar | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=bI144OaJkb0</id>
-        <link href="https://www.youtube.com/watch?v=bI144OaJkb0"/>
-        <updated>2024-09-16T07:30:20.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
