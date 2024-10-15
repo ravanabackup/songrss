@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T02:12:17.438Z</updated>
+    <updated>2024-10-15T03:15:32.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12415,24 +12415,6 @@
         <updated>2024-09-15T16:47:32.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennum Ninne Poojikkam | Kunchacko Boban | Shalini |KJ Yesudas |Sujatha Mohan |Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=ihMafcP87TE</id>
-        <link href="https://www.youtube.com/watch?v=ihMafcP87TE"/>
-        <updated>2024-09-15T14:30:21.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalabham Tharaam | Vadakkumnathan | Raveendran | Gireesh Puthenchery | K S Chithra  #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=qwVi8N6htp8</id>
-        <link href="https://www.youtube.com/watch?v=qwVi8N6htp8"/>
-        <updated>2024-09-15T14:30:20.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
