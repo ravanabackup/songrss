@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T04:10:22.422Z</updated>
+    <updated>2024-10-15T05:08:59.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aarari Rariraro | Animation Videos | Shorts #malayalammoviesongs]]></title>
+        <id>https://www.youtube.com/watch?v=Is7AfKduTB4</id>
+        <link href="https://www.youtube.com/watch?v=Is7AfKduTB4"/>
+        <updated>2024-10-15T05:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let the rhythm take control! 🎵#NadannaSambavam #BijuMenon #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=zNgWciGjGhk</id>
+        <link href="https://www.youtube.com/watch?v=zNgWciGjGhk"/>
+        <updated>2024-10-15T04:30:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharaku Tharaku | Folk Fusion Video | George Peter | C J Kuttappan #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=k6jjJ8crzKw</id>
+        <link href="https://www.youtube.com/watch?v=k6jjJ8crzKw"/>
+        <updated>2024-10-15T04:30:19.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ushakala Tharakame | Marian Songs | Elizabeth Raju | Rev.Dr. Vincent Variath  #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=ZqTDPgDdGqc</id>
@@ -12424,15 +12451,6 @@
         <updated>2024-09-15T19:00:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non Stop Onam Songs | Super Hit Onam Songs Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=wZ6DqBxmGRU</id>
-        <link href="https://www.youtube.com/watch?v=wZ6DqBxmGRU"/>
-        <updated>2024-09-15T16:47:32.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
