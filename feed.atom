@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T23:07:26.776Z</updated>
+    <updated>2024-10-15T00:38:43.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gallilyayayile | Christian Melody Songs | Afsal | Joji Johns | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=XPDRAaddSkI</id>
+        <link href="https://www.youtube.com/watch?v=XPDRAaddSkI"/>
+        <updated>2024-10-15T00:30:19.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu #biblequotes #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=vjJilW4xj_E</id>
+        <link href="https://www.youtube.com/watch?v=vjJilW4xj_E"/>
+        <updated>2024-10-14T23:30:14.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 15th of October 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 15th of October 24]]></title>
+        <id>https://www.youtube.com/watch?v=bJ4XKTk7q2g</id>
+        <link href="https://www.youtube.com/watch?v=bJ4XKTk7q2g"/>
+        <updated>2024-10-14T23:30:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ 15, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്]]></title>
         <id>https://www.youtube.com/watch?v=FfUMPrSQqVM</id>
@@ -12415,42 +12442,6 @@
         <updated>2024-09-15T13:30:34.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശത്രുനിര നിഷ്പ്രഭമാകും ഈ ഗാനങ്ങൾ കേട്ടാൽ | Kester | Prathyasha Geethangal | Binoy Chacko]]></title>
-        <id>https://www.youtube.com/watch?v=ZT0MDBWm4e8</id>
-        <link href="https://www.youtube.com/watch?v=ZT0MDBWm4e8"/>
-        <updated>2024-09-15T12:30:32.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th of September 2024]]></title>
-        <id>https://www.youtube.com/watch?v=KNlyb70ZVSo</id>
-        <link href="https://www.youtube.com/watch?v=KNlyb70ZVSo"/>
-        <updated>2024-09-15T12:30:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മറ്റൊരാളുടെ നൊമ്പരത്തിൽ കൂടെ നിൽക്കാം നമുക്ക്  | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=AOoTm7ck59w</id>
-        <link href="https://www.youtube.com/watch?v=AOoTm7ck59w"/>
-        <updated>2024-09-15T12:30:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandu Pandu Pandu Ninne Video Song | Raarichan Enna Pauran | Mehboob | K Raghavan]]></title>
-        <id>https://www.youtube.com/watch?v=XAQ4bllP6b8</id>
-        <link href="https://www.youtube.com/watch?v=XAQ4bllP6b8"/>
-        <updated>2024-09-15T12:15:02.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
 </feed>
