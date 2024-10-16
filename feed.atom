@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T02:12:55.776Z</updated>
+    <updated>2024-10-16T03:16:56.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minnadi Minnadi | Animation Film Songs | KS Chithra #malayalammoviesongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=nXJTpwBAwNs</id>
+        <link href="https://www.youtube.com/watch?v=nXJTpwBAwNs"/>
+        <updated>2024-10-16T03:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurbbanayay Koodaashayaay  |  Lyrical Video | Kester | Joji Johns | Holy Communion songs | Christian]]></title>
         <id>https://www.youtube.com/watch?v=SPLLtLYCUdw</id>
@@ -12568,33 +12577,6 @@
         <updated>2024-09-16T15:42:06.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vilakku Vaikkum | Megham | Ouseppachan | M. G. Sreekumar #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=vey3-gX7h0A</id>
-        <link href="https://www.youtube.com/watch?v=vey3-gX7h0A"/>
-        <updated>2024-09-16T14:30:21.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choottuveeshi paathiraavil Video Song | Raarichan Enna Pauran | P Leela #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=3xxaTHEGzaI</id>
-        <link href="https://www.youtube.com/watch?v=3xxaTHEGzaI"/>
-        <updated>2024-09-16T14:30:02.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Viral Neetti | Gireesh Puthenchery | Vidyasagar KJ Yesudas |Manju Warrier]]></title>
-        <id>https://www.youtube.com/watch?v=3VVZ3t9Qx0E</id>
-        <link href="https://www.youtube.com/watch?v=3VVZ3t9Qx0E"/>
-        <updated>2024-09-16T14:30:02.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
