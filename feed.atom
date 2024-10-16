@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T22:07:33.744Z</updated>
+    <updated>2024-10-16T23:07:58.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ 17, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്]]></title>
+        <id>https://www.youtube.com/watch?v=VHm6vgi4kKQ</id>
+        <link href="https://www.youtube.com/watch?v=VHm6vgi4kKQ"/>
+        <updated>2024-10-16T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=NOspSrP4KcA</id>
@@ -12703,33 +12712,6 @@
         <updated>2024-09-17T11:23:39.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junile Nilamazhayil |  Nammal Thammil #kjyesudas #sujatha #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=ZBPhPp_lRVA</id>
-        <link href="https://www.youtube.com/watch?v=ZBPhPp_lRVA"/>
-        <updated>2024-09-17T11:00:36.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ബസോ മോരെ | Bas More Nainan | Evergreen Hit Song | Malayalam Movie | Theertham | Nedumudi venu]]></title>
-        <id>https://www.youtube.com/watch?v=kClvpJ_r01E</id>
-        <link href="https://www.youtube.com/watch?v=kClvpJ_r01E"/>
-        <updated>2024-09-17T10:46:10.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chadthi Jawaani | Prathibha Tutorials | Sudheesh, Johny Antony,Arathy Nair | Raamnath | Riya Mishra]]></title>
-        <id>https://www.youtube.com/watch?v=hG8MvrwpjQ0</id>
-        <link href="https://www.youtube.com/watch?v=hG8MvrwpjQ0"/>
-        <updated>2024-09-17T10:30:07.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
