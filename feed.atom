@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T11:07:25.271Z</updated>
+    <updated>2024-10-17T12:14:38.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revolver Rita - Title Teaser | Keerthy Suresh |Passion Studios |The Route | JK.Chandru | Sean Roldan]]></title>
+        <id>https://www.youtube.com/watch?v=bWC8MNrIn8c</id>
+        <link href="https://www.youtube.com/watch?v=bWC8MNrIn8c"/>
+        <updated>2024-10-17T12:00:06.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അപ്പോൾ എങ്ങനാ എല്ലാവരും ready അല്ലേ? __123musix #shorts #shorts #music]]></title>
+        <id>https://www.youtube.com/watch?v=z0THv_Trdao</id>
+        <link href="https://www.youtube.com/watch?v=z0THv_Trdao"/>
+        <updated>2024-10-17T11:30:38.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അത്തിന്തോം തെയ്യാരോ | Athinthom Theyyaro Thaka | Kalabhavan Mani Hit Folk Song #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=xRj3plKn1_o</id>
+        <link href="https://www.youtube.com/watch?v=xRj3plKn1_o"/>
+        <updated>2024-10-17T11:30:36.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 17th of October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=kNq4WdGm0CA</id>
+        <link href="https://www.youtube.com/watch?v=kNq4WdGm0CA"/>
+        <updated>2024-10-17T11:30:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ottamuri Vakkumayi - Lofi | Romancham | Sushin Shyam | Pradeep Kumar | Pheno]]></title>
+        <id>https://www.youtube.com/watch?v=oai-3uS2Vfs</id>
+        <link href="https://www.youtube.com/watch?v=oai-3uS2Vfs"/>
+        <updated>2024-10-17T11:30:29.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#PaiyaDei music video releasing today at 7 PM on @asalkolaar416 🔥🎶]]></title>
         <id>https://www.youtube.com/watch?v=AF_CtMim-q8</id>
@@ -166,6 +211,15 @@
         <updated>2024-10-17T05:59:23.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thrayam - Official Trailer | Dhyan S, Sunny W | Sanjith Chandrasenan | Arun Muraleedharan]]></title>
+        <id>https://www.youtube.com/watch?v=Za8bzajGeVQ</id>
+        <link href="https://www.youtube.com/watch?v=Za8bzajGeVQ"/>
+        <updated>2024-10-17T05:30:42.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12766,15 +12820,6 @@
         <updated>2024-09-18T00:30:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu  #shorts #shortvideo]]></title>
-        <id>https://www.youtube.com/watch?v=bqTd4H1UF98</id>
-        <link href="https://www.youtube.com/watch?v=bqTd4H1UF98"/>
-        <updated>2024-09-17T23:30:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
