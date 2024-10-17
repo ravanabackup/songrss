@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T22:07:46.924Z</updated>
+    <updated>2024-10-17T23:08:41.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 18, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=68alyeQ1HQw</id>
+        <link href="https://www.youtube.com/watch?v=68alyeQ1HQw"/>
+        <updated>2024-10-17T22:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=LLXBgtjDWHY</id>
@@ -12838,24 +12847,6 @@
         <updated>2024-09-18T11:30:21.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seethakalyana Vaibhogame Malayalam Video Song | Paithrukam Movie Song | KS Chithra | Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=MWVVbnHqFMg</id>
-        <link href="https://www.youtube.com/watch?v=MWVVbnHqFMg"/>
-        <updated>2024-09-18T10:51:42.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നനഞ്ഞ നേരിയ പട്ടുറുമാല്‍ | Nananja Neriya Patturumaal | Ente Mohangal Poovaninju | Yesudas, S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=iuZZ9bNlUKA</id>
-        <link href="https://www.youtube.com/watch?v=iuZZ9bNlUKA"/>
-        <updated>2024-09-18T10:30:40.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
