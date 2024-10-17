@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T15:07:01.334Z</updated>
+    <updated>2024-10-17T16:09:45.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=UUOGv6kykoA</id>
+        <link href="https://www.youtube.com/watch?v=UUOGv6kykoA"/>
+        <updated>2024-10-17T15:30:16.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എത്ര കേട്ടാലും മതിവരാത്ത കാതിനിമ്പമാർന്ന സിനിമാഗാനങ്ങൾ | EVERGREEN MELODY SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=dyKsrJ3rPFk</id>
@@ -12919,24 +12928,6 @@
         <updated>2024-09-18T04:30:00.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pon Vaanile | Pathimoonnam Rathri #vishnuunnikrishnan #shortsfeed #shorts #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/watch?v=82zLE6Ae4JM</id>
-        <link href="https://www.youtube.com/watch?v=82zLE6Ae4JM"/>
-        <updated>2024-09-18T04:00:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathodum Thingalkalam | Kuttante Shinigami | Abhijith Kollam | Rasheed Parakkal | Latest Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=Ls2GUj7CzMw</id>
-        <link href="https://www.youtube.com/watch?v=Ls2GUj7CzMw"/>
-        <updated>2024-09-18T03:54:50.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
