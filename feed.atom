@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T08:11:37.770Z</updated>
+    <updated>2024-10-17T09:08:51.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആരിലും നൊമ്പരമുണർത്തുന്ന സിനിമാഗാനങ്ങൾ | EVERGREEN SAD SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=fKolMMZgM7c</id>
+        <link href="https://www.youtube.com/watch?v=fKolMMZgM7c"/>
+        <updated>2024-10-17T08:54:36.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തിരുബലി | Maninaadam Muzhangi #christiansong   #bestmalayalamchristiandevotionalsong #jesussong]]></title>
+        <id>https://www.youtube.com/watch?v=ZEPbrUjfoeY</id>
+        <link href="https://www.youtube.com/watch?v=ZEPbrUjfoeY"/>
+        <updated>2024-10-17T08:37:35.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meharuba Meharuba Video Song | Perumazhakkalam| Dileep | Meera Jasmine| Jyotsna Radhakrishnan| Afsal]]></title>
         <id>https://www.youtube.com/watch?v=DoMtM1oV6AU</id>
