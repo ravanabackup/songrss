@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T19:06:37.269Z</updated>
+    <updated>2024-10-17T20:08:59.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12856,33 +12856,6 @@
         <updated>2024-09-18T08:40:49.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macha Nee Super | Kondal | Zia Ul Haq | Antony Varghese Pepe | Riyas Pattambi, Sibu Sukumaran]]></title>
-        <id>https://www.youtube.com/watch?v=M3UMzWtSzn8</id>
-        <link href="https://www.youtube.com/watch?v=M3UMzWtSzn8"/>
-        <updated>2024-09-18T07:50:39.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏത് ആഘോഷങ്ങൾ വന്നാലും പോയാലും മനസിൽ തങ്ങി നിൽക്കും ചലച്ചിത്രഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=fR-e9ppywfU</id>
-        <link href="https://www.youtube.com/watch?v=fR-e9ppywfU"/>
-        <updated>2024-09-18T07:39:34.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാരുണ്യമൂർത്തി | Karunyamoorthy #superhitchristiandevotionalsongmalayalammalayalam #christiansong]]></title>
-        <id>https://www.youtube.com/watch?v=pvjyDUo-7R4</id>
-        <link href="https://www.youtube.com/watch?v=pvjyDUo-7R4"/>
-        <updated>2024-09-18T07:36:15.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
