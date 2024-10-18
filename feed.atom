@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T07:08:16.729Z</updated>
+    <updated>2024-10-18T08:11:00.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒഴിവുകാല യാത്രാവേളകൾ ആനന്ദകരമാക്കുന്ന ഉല്ലാസഭരിതമാം സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=sYCnBQJuYNQ</id>
+        <link href="https://www.youtube.com/watch?v=sYCnBQJuYNQ"/>
+        <updated>2024-10-18T07:30:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മുറ്റത്തെ മുല്ലേ ചൊല്ല് | Muttathe mulle chollu | Mayavi | Malayalam  Song | Mammootty | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=J2Px-yHbljQ</id>
+        <link href="https://www.youtube.com/watch?v=J2Px-yHbljQ"/>
+        <updated>2024-10-18T07:21:30.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏതോ നിദ്രതൻ | Etho Nidrathan | Ayal Kadha Ezhuthukayanu Film Song | K.J. Yesudas| Mohan Lal| Nandini]]></title>
+        <id>https://www.youtube.com/watch?v=sh-_XVjW_jA</id>
+        <link href="https://www.youtube.com/watch?v=sh-_XVjW_jA"/>
+        <updated>2024-10-18T07:15:47.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മയ്യഴിപ്പുഴയൊഴുകീ | Mayazhipuzhayozhuki | Udyanapalakan Movie Song | Mammootty | K J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=6E4pu0GotFg</id>
@@ -12730,15 +12757,6 @@
         <updated>2024-09-18T22:30:05.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  September 19 Athiravile Prarthana 19th of September 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=m7MnjrXCAY0</id>
-        <link href="https://www.youtube.com/watch?v=m7MnjrXCAY0"/>
-        <updated>2024-09-18T20:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
