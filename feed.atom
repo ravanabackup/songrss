@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T02:11:40.662Z</updated>
+    <updated>2024-10-18T03:16:22.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oh Mama Mama | Shorts #malayalammoviesongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=a4MlKAJnqYc</id>
+        <link href="https://www.youtube.com/watch?v=a4MlKAJnqYc"/>
+        <updated>2024-10-18T03:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellam Anyamaay | K J Yesudas | Christian Shorts #miraculousmelodies]]></title>
+        <id>https://www.youtube.com/watch?v=XTpM3SWBqkY</id>
+        <link href="https://www.youtube.com/watch?v=XTpM3SWBqkY"/>
+        <updated>2024-10-18T03:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kripayin Uravam | Prayer and Worship Songs | Binoy Chacko | Christian Melody Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=j1NhlYJCMQg</id>
@@ -12685,60 +12703,6 @@
         <updated>2024-09-18T15:30:17.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another melodious masterpiece after #Jeevana! #Paathirayil is out now! #heshamabdulwahab #swathymanu]]></title>
-        <id>https://www.youtube.com/watch?v=BjAKUYBFXCM</id>
-        <link href="https://www.youtube.com/watch?v=BjAKUYBFXCM"/>
-        <updated>2024-09-18T14:36:49.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vattayila Panthalittu Video Song | KS Chithra | P Jayachandran | Johnson | Kaithapram | Soundarya]]></title>
-        <id>https://www.youtube.com/watch?v=zoc01duPno4</id>
-        <link href="https://www.youtube.com/watch?v=zoc01duPno4"/>
-        <updated>2024-09-18T14:34:37.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naazhiyoorippaalu Kondu Video Song | Raarichan Enna Pouran | Gayathri Sreekrishnan #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=_pIaGmuJZZY</id>
-        <link href="https://www.youtube.com/watch?v=_pIaGmuJZZY"/>
-        <updated>2024-09-18T14:30:22.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katturumbinu Kalyanam | Priyam |  Berny Ignatius | S Ramesan Nair | Kunchacko Boban | #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=hFT_-Ls_KTs</id>
-        <link href="https://www.youtube.com/watch?v=hFT_-Ls_KTs"/>
-        <updated>2024-09-18T14:30:19.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaalkkanezhuthiya | Paithrukam Movie Song | K J Yesudas | Jayaram | Suresh Gopi]]></title>
-        <id>https://www.youtube.com/watch?v=-gzAJ6cZmyY</id>
-        <link href="https://www.youtube.com/watch?v=-gzAJ6cZmyY"/>
-        <updated>2024-09-18T14:30:00.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #song #musicsong #malayalamworshipsong #malayalamchristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=xXbQr3OnOS4</id>
-        <link href="https://www.youtube.com/watch?v=xXbQr3OnOS4"/>
-        <updated>2024-09-18T14:24:10.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
