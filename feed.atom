@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T04:10:50.161Z</updated>
+    <updated>2024-10-18T05:08:32.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turn it up, feel the vibes! 🎧#NadannaSambavam #BijuMenon #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=TyM_Zv5TxAE</id>
+        <link href="https://www.youtube.com/watch?v=TyM_Zv5TxAE"/>
+        <updated>2024-10-18T04:30:22.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delta Kalyanam -  Video Song | Meiyazhagan | Karthi, Arvind Swami | Govind Vasantha | C.Premkumar]]></title>
+        <id>https://www.youtube.com/watch?v=245ts17OH4g</id>
+        <link href="https://www.youtube.com/watch?v=245ts17OH4g"/>
+        <updated>2024-10-18T04:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the sun rises and #Pularikalo plays, every moment feels like magic. ☀️💖 #SongOfTheDay 🎵]]></title>
+        <id>https://www.youtube.com/watch?v=Rrt-uHRQ3P8</id>
+        <link href="https://www.youtube.com/watch?v=Rrt-uHRQ3P8"/>
+        <updated>2024-10-18T04:09:07.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh Mama Mama | Shorts #malayalammoviesongs #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=a4MlKAJnqYc</id>
@@ -121,6 +148,15 @@
         <updated>2024-10-17T14:30:17.000Z</updated>
         <author>
             <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maanathe Hoori Pole Video Song |  Ee Naadu Movie Song | Mammootty | Unni Menon]]></title>
+        <id>https://www.youtube.com/watch?v=qNaVKkrMBjc</id>
+        <link href="https://www.youtube.com/watch?v=qNaVKkrMBjc"/>
+        <updated>2024-10-17T14:30:06.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
