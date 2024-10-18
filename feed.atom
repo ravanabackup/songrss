@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T10:09:49.455Z</updated>
+    <updated>2024-10-18T11:07:00.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaanana Kuyile | Forever Favourites #rahullexman #sonymohan #malayalamcover #unplugged #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=xFh9-dBVpWY</id>
+        <link href="https://www.youtube.com/watch?v=xFh9-dBVpWY"/>
+        <updated>2024-10-18T10:30:27.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Varan Kalamay | Teenu Treasa | Mohan Kanjiramannil | Benjamin Mathew| Malayalam Christian Song]]></title>
+        <id>https://www.youtube.com/watch?v=JB0r8mf09Io</id>
+        <link href="https://www.youtube.com/watch?v=JB0r8mf09Io"/>
+        <updated>2024-10-18T10:07:39.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മരിയെ അമലമനോജ്ഞേ | #Mothermarysongs #malayalamchristiandevotionalsongs #Christiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=PLRgYB2HA44</id>
@@ -859,6 +877,15 @@
         <updated>2024-10-16T11:55:34.000Z</updated>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Flute Music | Instrumental Worship Songs  | Flute Cover | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=wm0vPInLkWU</id>
+        <link href="https://www.youtube.com/watch?v=wm0vPInLkWU"/>
+        <updated>2024-10-16T11:52:23.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -12766,24 +12793,6 @@
         <updated>2024-09-18T23:30:08.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=sP9-Wi5_3uQ</id>
-        <link href="https://www.youtube.com/watch?v=sP9-Wi5_3uQ"/>
-        <updated>2024-09-18T23:00:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് വ്യാഴായ്ച്ച, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്!!]]></title>
-        <id>https://www.youtube.com/watch?v=qyOdRerPgmo</id>
-        <link href="https://www.youtube.com/watch?v=qyOdRerPgmo"/>
-        <updated>2024-09-18T22:30:05.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
