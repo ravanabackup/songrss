@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T21:07:24.763Z</updated>
+    <updated>2024-10-19T22:07:56.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=INP2WAPlUZg</id>
+        <link href="https://www.youtube.com/watch?v=INP2WAPlUZg"/>
+        <updated>2024-10-19T22:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 20 # Athiravile Prarthana 20th October 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=M92M_pU2ZVU</id>
@@ -12757,42 +12766,6 @@
         <updated>2024-09-20T10:36:33.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉണർവോടെ തുടങ്ങാം  രാവിലെകളിൽ | Old Malayalam Hits | M. G. Sreekumar | K. J. Yesudas | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=cGZ4ALbXxNI</id>
-        <link href="https://www.youtube.com/watch?v=cGZ4ALbXxNI"/>
-        <updated>2024-09-20T09:52:02.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു മധുരക്കിനാവിൻ | Oru Madhurakinavin | Evergreen Film Song | Kanamarayathu | Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=HSiaNho7DIs</id>
-        <link href="https://www.youtube.com/watch?v=HSiaNho7DIs"/>
-        <updated>2024-09-20T09:40:45.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[താമരക്കിളി പാടുന്നു  | Thamarakkili Paadunnu | Evergreen Romantic  Song | Moonnam Pakkam | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=cjT2bvyCS6g</id>
-        <link href="https://www.youtube.com/watch?v=cjT2bvyCS6g"/>
-        <updated>2024-09-20T09:31:43.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂവിനെ കണ്ടു ഞാൻ | Poovine kandu njaan | Evergreen Malayalam Song | Mukunthetta Sumitra Vilikkunnu]]></title>
-        <id>https://www.youtube.com/watch?v=rMXOxoq30hc</id>
-        <link href="https://www.youtube.com/watch?v=rMXOxoq30hc"/>
-        <updated>2024-09-20T09:25:35.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>

@@ -2462,16 +2462,6 @@
           "wordCount": null,
           "title": "Oru chik chik chik chirakil | Niram  | Vidyasagar, K J Yesudas | Shabnam #SongOfTheDay",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cGZ4ALbXxNI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cGZ4ALbXxNI",
-          "publishedOn": "2024-09-20T09:52:02.000Z",
-          "wordCount": null,
-          "title": "ഉണർവോടെ തുടങ്ങാം  രാവിലെകളിൽ | Old Malayalam Hits | M. G. Sreekumar | K. J. Yesudas | Vidyasagar",
-          "imageUrl": null
         }
       ]
     },
@@ -3204,6 +3194,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA",
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=INP2WAPlUZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=INP2WAPlUZg",
+          "publishedOn": "2024-10-19T22:00:11.000Z",
+          "wordCount": null,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=M92M_pU2ZVU",
           "author": null,
@@ -7347,36 +7347,6 @@
           "publishedOn": "2024-09-23T06:18:25.000Z",
           "wordCount": null,
           "title": "Ormakal Odi | ഓർമ്മകൾ ഓടി | Evergreen Malayalam Song |  Mukunthetta sumitra vilikkunnu | Mohanlal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HSiaNho7DIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HSiaNho7DIs",
-          "publishedOn": "2024-09-20T09:40:45.000Z",
-          "wordCount": null,
-          "title": "ഒരു മധുരക്കിനാവിൻ | Oru Madhurakinavin | Evergreen Film Song | Kanamarayathu | Malayalam Film Song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cjT2bvyCS6g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cjT2bvyCS6g",
-          "publishedOn": "2024-09-20T09:31:43.000Z",
-          "wordCount": null,
-          "title": "താമരക്കിളി പാടുന്നു  | Thamarakkili Paadunnu | Evergreen Romantic  Song | Moonnam Pakkam | Chithra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rMXOxoq30hc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rMXOxoq30hc",
-          "publishedOn": "2024-09-20T09:25:35.000Z",
-          "wordCount": null,
-          "title": "പൂവിനെ കണ്ടു ഞാൻ | Poovine kandu njaan | Evergreen Malayalam Song | Mukunthetta Sumitra Vilikkunnu",
           "imageUrl": null
         }
       ]
