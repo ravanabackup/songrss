@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T14:06:24.468Z</updated>
+    <updated>2024-10-19T15:06:46.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏറെ ജനകീയമായിക്കൊണ്ടിരിക്കുന്ന സൂപ്പർഹിറ്റ് ക്രിസ്തീയ ഗാനങ്ങൾ |Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=x8m7yQ_D7G4</id>
+        <link href="https://www.youtube.com/watch?v=x8m7yQ_D7G4"/>
+        <updated>2024-10-19T15:05:29.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Viral Neetti | Pranayavarnangal | Vidyasagar | KJ Yesudas #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=YKoBIkgk_pU</id>
+        <link href="https://www.youtube.com/watch?v=YKoBIkgk_pU"/>
+        <updated>2024-10-19T14:30:21.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangala Deepam Thiri Theliyum Video Song | Shipaayi Lahala | KJ Yesudas | KS Chithra |Vani Viswanath]]></title>
+        <id>https://www.youtube.com/watch?v=DteFfV640sI</id>
+        <link href="https://www.youtube.com/watch?v=DteFfV640sI"/>
+        <updated>2024-10-19T14:30:06.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paikurumbiye Meykkum  | Dileep | Meera Jasmine  | Vidyasagar | Sujatha Mohan |]]></title>
+        <id>https://www.youtube.com/watch?v=BzE1uWapDuk</id>
+        <link href="https://www.youtube.com/watch?v=BzE1uWapDuk"/>
+        <updated>2024-10-19T14:30:05.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yadukula Gopike Video Song | Vazhiyorakkazhchakal | Mohanlal | Jayarekha | KS Chithra | Unni Menon]]></title>
         <id>https://www.youtube.com/watch?v=RzggKGGRHjE</id>
@@ -12838,15 +12874,6 @@
         <updated>2024-09-20T03:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ushakala Tharakame | Marian Songs | Elizabeth Raju | Rev.Dr. Vincent Variath  #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=dXz4KQ8xzmI</id>
-        <link href="https://www.youtube.com/watch?v=dXz4KQ8xzmI"/>
-        <updated>2024-09-20T03:00:31.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
