@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T12:13:21.660Z</updated>
+    <updated>2024-10-19T13:13:32.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETHRA VALARNNALUM | VIJAY YESUDAS | @JinoKunnumpurathu   | KAZHCHA | ZION CLASSICS | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i0yeFdH4j44</id>
+        <link href="https://www.youtube.com/watch?v=i0yeFdH4j44"/>
+        <updated>2024-10-19T13:00:53.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SundariOnnu Parayu Pranasakhi Songs | Lion Movie Song | Udit Narayan | Dileep | Kavya Mdhavan]]></title>
+        <id>https://www.youtube.com/watch?v=WCjBK50wriA</id>
+        <link href="https://www.youtube.com/watch?v=WCjBK50wriA"/>
+        <updated>2024-10-19T13:00:09.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആകുലതയുടെ ആഴങ്ങളിലെ ആശ്വാസ തീരം | 😇   | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Fgh07kGLBd0</id>
+        <link href="https://www.youtube.com/watch?v=Fgh07kGLBd0"/>
+        <updated>2024-10-19T12:30:11.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vadakkudikkiloru | Anpodu Kanmani #vineethsreenivasan #sitharakrishnakumar #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8l7uk0befAs</id>
+        <link href="https://www.youtube.com/watch?v=8l7uk0befAs"/>
+        <updated>2024-10-19T12:30:06.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nellimalayum Kadannu Madhura Vare | Malayalam Short Film Original Soundtracks | Swathy Manu]]></title>
+        <id>https://www.youtube.com/watch?v=UW4_7P2iTYk</id>
+        <link href="https://www.youtube.com/watch?v=UW4_7P2iTYk"/>
+        <updated>2024-10-19T12:25:00.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1⃣0⃣0⃣ million views and still thuggin' in style! 🎉🔥 #ManavaalanThug #dabzee #tovinothomas]]></title>
         <id>https://www.youtube.com/watch?v=wCJsFCxs-zM</id>
@@ -12802,15 +12847,6 @@
         <updated>2024-09-20T01:30:30.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 20th of September 2024 # Mathavinte Japamala #dhukhathinterahasyangal 20th of September 24]]></title>
-        <id>https://www.youtube.com/watch?v=PB0k5WSOVe0</id>
-        <link href="https://www.youtube.com/watch?v=PB0k5WSOVe0"/>
-        <updated>2024-09-20T00:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
