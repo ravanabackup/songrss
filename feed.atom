@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T03:13:26.165Z</updated>
+    <updated>2024-10-19T04:09:47.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marannuvo Poomakale |  Chakkaramuthu #kjyesudas #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=8c-UX8UnDeg</id>
+        <link href="https://www.youtube.com/watch?v=8c-UX8UnDeg"/>
+        <updated>2024-10-19T03:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christain Video Songs Malayalam | Madhu Balakrishnan | Wilson Piravom | Joji Johns | Christain Songs]]></title>
         <id>https://www.youtube.com/watch?v=KEgtiMMFX60</id>
@@ -94,6 +103,15 @@
         <updated>2024-10-18T16:57:53.000Z</updated>
         <author>
             <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasmine Song (Malayalam) - Video | Martin | Dhruva Sarja, Vaibhavi S | AP Arjun | Mani Sharma]]></title>
+        <id>https://www.youtube.com/watch?v=aiczRyBt4Pg</id>
+        <link href="https://www.youtube.com/watch?v=aiczRyBt4Pg"/>
+        <updated>2024-10-18T16:50:56.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12658,33 +12676,6 @@
         <updated>2024-09-19T16:27:02.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth S | Sibin Chowalloor |  Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=HL40wb4f0e4</id>
-        <link href="https://www.youtube.com/watch?v=HL40wb4f0e4"/>
-        <updated>2024-09-19T16:00:24.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunju Upadeshi Songs Vol. 3 | Malayalam Christian Devotional Songs | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=vJVJWM8wOeo</id>
-        <link href="https://www.youtube.com/watch?v=vJVJWM8wOeo"/>
-        <updated>2024-09-19T15:30:07.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=a0s7LRVa3gY</id>
-        <link href="https://www.youtube.com/watch?v=a0s7LRVa3gY"/>
-        <updated>2024-09-19T15:30:00.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
