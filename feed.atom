@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T15:06:46.072Z</updated>
+    <updated>2024-10-19T16:08:08.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12865,15 +12865,6 @@
         <updated>2024-09-20T04:30:20.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kollathoru  | Kanipayyur Kaikottikali Sangham #thiruvathira #thiruvathirakali #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=8OQC4Hx24uI</id>
-        <link href="https://www.youtube.com/watch?v=8OQC4Hx24uI"/>
-        <updated>2024-09-20T03:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
