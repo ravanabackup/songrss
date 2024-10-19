@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T22:07:56.066Z</updated>
+    <updated>2024-10-19T23:07:21.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 20, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=pGHuxPC0ndw</id>
+        <link href="https://www.youtube.com/watch?v=pGHuxPC0ndw"/>
+        <updated>2024-10-19T22:30:08.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=INP2WAPlUZg</id>
@@ -12755,15 +12764,6 @@
         <id>https://www.youtube.com/watch?v=hB_xkZ5y7SA</id>
         <link href="https://www.youtube.com/watch?v=hB_xkZ5y7SA"/>
         <updated>2024-09-20T11:30:20.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MorattuSchool 🔥🎶 #MaduraiSouljour #ThinkIndie]]></title>
-        <id>https://www.youtube.com/watch?v=SEAWKiC-yQY</id>
-        <link href="https://www.youtube.com/watch?v=SEAWKiC-yQY"/>
-        <updated>2024-09-20T10:36:33.000Z</updated>
         <author>
             <name>Think Music India</name>
         </author>
