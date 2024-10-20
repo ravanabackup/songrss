@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T00:42:25.395Z</updated>
+    <updated>2024-10-20T02:18:02.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nonstop Popular Malayalam Film Songs | Aagathan | ABCD | Amrutham | Malayalam Movie songs]]></title>
+        <id>https://www.youtube.com/watch?v=zzI86G3SuqA</id>
+        <link href="https://www.youtube.com/watch?v=zzI86G3SuqA"/>
+        <updated>2024-10-20T01:00:40.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ മനസപുത്രൻ കെസ്റ്റർ ആലപിച്ച ഏവർക്കും ഇഷ്ടമുള്ള ക്രിസ്തീയ ഗാനങ്ങൾ  | Christian Devotionals]]></title>
         <id>https://www.youtube.com/watch?v=b2QCsLposRA</id>
@@ -12685,51 +12694,6 @@
         <updated>2024-09-20T14:30:05.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പണ്ടുകാലം മുതലേ കൂടുതൽ പേര് കേൾക്കുന്ന പുരാതന ക്രിസ്തീയ ഗാനങ്ങൾ | Old Is Gold |Traditional Christian]]></title>
-        <id>https://www.youtube.com/watch?v=LRZ9H4zYLkU</id>
-        <link href="https://www.youtube.com/watch?v=LRZ9H4zYLkU"/>
-        <updated>2024-09-20T13:30:24.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Periya Thevare | Thaanthonni (2010) |  Thej Mervin | Gireesh Puthenchery | Prithviraj Songs]]></title>
-        <id>https://www.youtube.com/watch?v=YNaEzrvt_W8</id>
-        <link href="https://www.youtube.com/watch?v=YNaEzrvt_W8"/>
-        <updated>2024-09-20T13:30:23.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaala Varuthu - Lyric Video | Nandhan |Sasikumar |Sruthi Periyasamy |Ghibran Vaibodha |Era Saravanan]]></title>
-        <id>https://www.youtube.com/watch?v=5Yg-ywxevmc</id>
-        <link href="https://www.youtube.com/watch?v=5Yg-ywxevmc"/>
-        <updated>2024-09-20T13:30:07.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paalazhi Theeram Video Song | Uthaman | Jayaram | Kaviyoor Ponnamma | KJ Yesudas | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=R_EuEmhjH0Q</id>
-        <link href="https://www.youtube.com/watch?v=R_EuEmhjH0Q"/>
-        <updated>2024-09-20T13:27:55.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanni Kavadi Poonirangal Video Song | Nanma Niranjavan Sreenivasan | G Venugopal | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=EY6gJAf9e3Y</id>
-        <link href="https://www.youtube.com/watch?v=EY6gJAf9e3Y"/>
-        <updated>2024-09-20T13:03:08.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
