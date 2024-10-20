@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T12:14:10.158Z</updated>
+    <updated>2024-10-20T13:14:02.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ROSA POOVE |90's കളുടെ ഹൃദയം കീഴടക്കിയ മനോഹര ഗാനം | SUJATHA |  MARIYAM | @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=BlmMNPL03ks</id>
+        <link href="https://www.youtube.com/watch?v=BlmMNPL03ks"/>
+        <updated>2024-10-20T13:00:13.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Dil Deewana Video Song | Twenty Twenty | Nayanthara | Gireesh Puthenchery | Suresh Peters]]></title>
+        <id>https://www.youtube.com/watch?v=zJ5dH_tpXeA</id>
+        <link href="https://www.youtube.com/watch?v=zJ5dH_tpXeA"/>
+        <updated>2024-10-20T12:30:49.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചില മനുഷ്യർ പുറംചട്ട നോക്കി വിലയിരുത്തും | 😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=h95_bQ9iVmQ</id>
+        <link href="https://www.youtube.com/watch?v=h95_bQ9iVmQ"/>
+        <updated>2024-10-20T12:30:39.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thuyilunarthu Paattu Lyrical Video | Porattu Naadakam | Noushad Saffron | Saiju Kurup | Rahul Raj]]></title>
         <id>https://www.youtube.com/watch?v=3WQdkGmQqZA</id>
@@ -12685,15 +12712,6 @@
         <updated>2024-09-21T03:30:26.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മണിനാദമുയരുമ്പോൾ മനസ്സിൽ മുഴങ്ങുന്ന മനോഹര ഗാനങ്ങൾ | Christian Video Songs | Holy Mass Songs]]></title>
-        <id>https://www.youtube.com/watch?v=rjDWQzZjSRY</id>
-        <link href="https://www.youtube.com/watch?v=rjDWQzZjSRY"/>
-        <updated>2024-09-21T00:30:34.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
