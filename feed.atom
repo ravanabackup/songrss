@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T10:08:37.226Z</updated>
+    <updated>2024-10-20T11:06:48.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bad Boyz Love Theme Video Song | Omar Lulu | William Francis | B.K.Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=dkePXjd4YQs</id>
+        <link href="https://www.youtube.com/watch?v=dkePXjd4YQs"/>
+        <updated>2024-10-20T10:30:30.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yaara Andha Paiyan 🤔 #PaiyaDei #AsalKolaar #ThinkIndie #BibianDariusNishanth #Kishor]]></title>
         <id>https://www.youtube.com/watch?v=XUxhZv2x_cY</id>
@@ -12658,33 +12667,6 @@
         <updated>2024-09-20T23:30:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=i1nMwkHvJUU</id>
-        <link href="https://www.youtube.com/watch?v=i1nMwkHvJUU"/>
-        <updated>2024-09-20T23:01:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീ സ്നേഹം മാത്രം പങ്കുവച്ചു || Ft. Fr Vineeth Ajimon Joseph, Kester, Jacob Koratty || Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=8nW8TmXkDEM</id>
-        <link href="https://www.youtube.com/watch?v=8nW8TmXkDEM"/>
-        <updated>2024-09-20T22:41:27.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് ശനിയാഴ്ച്ച, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്!!]]></title>
-        <id>https://www.youtube.com/watch?v=2XEwCmEcwyU</id>
-        <link href="https://www.youtube.com/watch?v=2XEwCmEcwyU"/>
-        <updated>2024-09-20T22:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
