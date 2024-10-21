@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T07:09:10.724Z</updated>
+    <updated>2024-10-21T08:11:58.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ മലയാളികളും അവരുടെ ഹൃദയത്തോട് ചേർത്ത മലയാള സിനിമ ഗാനങ്ങൾ | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=blulnTJ4qUc</id>
+        <link href="https://www.youtube.com/watch?v=blulnTJ4qUc"/>
+        <updated>2024-10-21T07:30:28.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rakkadal Kadanjedutha Video Song | Dileep-Navya | Sujatha Mohan-Fahad | Berny Ignatius | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=hMfbnVTmSJE</id>
@@ -12548,15 +12557,6 @@
         <id>https://www.youtube.com/watch?v=JUpl28fisAo</id>
         <link href="https://www.youtube.com/watch?v=JUpl28fisAo"/>
         <updated>2024-09-21T23:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 22 # Athiravile Prarthana 22nd of September 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=L5gNEB6DrFw</id>
-        <link href="https://www.youtube.com/watch?v=L5gNEB6DrFw"/>
-        <updated>2024-09-21T20:00:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
