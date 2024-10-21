@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T03:18:32.401Z</updated>
+    <updated>2024-10-21T04:10:38.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12496,24 +12496,6 @@
         <updated>2024-09-21T16:58:18.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninnoden daivame njan cheratte | Malayalam Christian Devotional song | Mercy Shaju]]></title>
-        <id>https://www.youtube.com/watch?v=rHV28CkLUJc</id>
-        <link href="https://www.youtube.com/watch?v=rHV28CkLUJc"/>
-        <updated>2024-09-21T16:00:54.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innayolam Enne Nadathi | ഇന്നയോളം എന്നെ | Malayalam Christian devotional song | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=_tfaztU6HT0</id>
-        <link href="https://www.youtube.com/watch?v=_tfaztU6HT0"/>
-        <updated>2024-09-21T15:30:11.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
