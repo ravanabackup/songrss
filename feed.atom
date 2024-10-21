@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T16:09:42.039Z</updated>
+    <updated>2024-10-21T17:07:29.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21 October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=lqYD28scD8E</id>
+        <link href="https://www.youtube.com/watch?v=lqYD28scD8E"/>
+        <updated>2024-10-21T16:37:44.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=xKtK-7VwH4M</id>
@@ -12694,33 +12703,6 @@
         <updated>2024-09-22T05:30:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manavaatti Penninte Video Song  | HD | Summer in Bethlehem Movie Song | REMASTERED |]]></title>
-        <id>https://www.youtube.com/watch?v=XHBoFQ4wngQ</id>
-        <link href="https://www.youtube.com/watch?v=XHBoFQ4wngQ"/>
-        <updated>2024-09-22T05:00:18.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേ.. കാത്തുക്കുട്ടി തകർത്തു പാടിയ സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം 😍 ഇഷ്ടമായാൽ ഷെയർ ചെയ്യണേ 😍]]></title>
-        <id>https://www.youtube.com/watch?v=bNopNw6hIa0</id>
-        <link href="https://www.youtube.com/watch?v=bNopNw6hIa0"/>
-        <updated>2024-09-22T04:30:23.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full-on masti mode activated 🎇🕺🥵 #Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=FKSH_r0ud-A</id>
-        <link href="https://www.youtube.com/watch?v=FKSH_r0ud-A"/>
-        <updated>2024-09-22T04:30:08.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
