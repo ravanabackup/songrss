@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T16:09:43.316Z</updated>
+    <updated>2024-10-22T17:07:04.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12883,42 +12883,6 @@
         <updated>2024-09-23T05:15:27.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayajaya Shinigami | Jassie Gift | Arjun V Akshaya | Rasheed Parakkal | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=eAq50Inpl78</id>
-        <link href="https://www.youtube.com/watch?v=eAq50Inpl78"/>
-        <updated>2024-09-23T04:56:47.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding a little Mollywood swag to the beat 🎥🔥 #Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=gGem7QB17yY</id>
-        <link href="https://www.youtube.com/watch?v=gGem7QB17yY"/>
-        <updated>2024-09-23T04:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Anyamaay | K J Yesudas | Christian Shorts #miraculousmelodies]]></title>
-        <id>https://www.youtube.com/watch?v=HviPoE7jSN8</id>
-        <link href="https://www.youtube.com/watch?v=HviPoE7jSN8"/>
-        <updated>2024-09-23T04:10:45.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Anyamaay | K J Yesudas | Christian Shorts #miraculousmelodies]]></title>
-        <id>https://www.youtube.com/watch?v=f8cHn351pqI</id>
-        <link href="https://www.youtube.com/watch?v=f8cHn351pqI"/>
-        <updated>2024-09-23T04:10:38.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
