@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T10:08:44.302Z</updated>
+    <updated>2024-10-22T11:07:06.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vennilave | Reprise | Rhitwik S Chand | Anila Rajeev #coversong #malayalamcover #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=Sng5WLhoI4k</id>
+        <link href="https://www.youtube.com/watch?v=Sng5WLhoI4k"/>
+        <updated>2024-10-22T10:30:18.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചുള്ളി ചെറിയ പെണ്ണേ  | Chulli Cheriya Penne | Kalabhavan Mani Hit Naadanpattu]]></title>
+        <id>https://www.youtube.com/watch?v=xdAImozjIPk</id>
+        <link href="https://www.youtube.com/watch?v=xdAImozjIPk"/>
+        <updated>2024-10-22T10:23:54.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Kannada) - Sa Ri Ma Pa Video | Nani | Priyanka Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=22gmTFxauh4</id>
+        <link href="https://www.youtube.com/watch?v=22gmTFxauh4"/>
+        <updated>2024-10-22T10:15:22.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Tamil) - Sa Ri Ma Pa Video | Nani | Priyanka Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=h5lvCtecs14</id>
+        <link href="https://www.youtube.com/watch?v=h5lvCtecs14"/>
+        <updated>2024-10-22T10:11:31.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഗോപികാവസന്തം | Gopika Vasantham | His Highness Abdullah | Malayalam Superhit Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=FkMPVR_g3IQ</id>
+        <link href="https://www.youtube.com/watch?v=FkMPVR_g3IQ"/>
+        <updated>2024-10-22T10:10:30.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surya's Saturday (Malayalam) - Sa Ri Ma Pa Video | Nani | Priyanka Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=9sPnNqe6mLg</id>
+        <link href="https://www.youtube.com/watch?v=9sPnNqe6mLg"/>
+        <updated>2024-10-22T10:09:11.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kukku Kukku Kuruvali Video Song | Kalabhavan Mani | Geethu Mohandas | Chinmayi | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=C5zz35aPZw0</id>
@@ -12739,15 +12793,6 @@
         <updated>2024-09-22T23:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=BoKEPVplkyc</id>
-        <link href="https://www.youtube.com/watch?v=BoKEPVplkyc"/>
-        <updated>2024-09-22T23:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
