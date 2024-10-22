@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T15:08:16.608Z</updated>
+    <updated>2024-10-22T16:09:43.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arumayulleshuve | അരുമയുള്ളേശുവേ | Maria Kolady | Sadhu Kochukunju Upadeshi | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=MsUVyx309hw</id>
+        <link href="https://www.youtube.com/watch?v=MsUVyx309hw"/>
+        <updated>2024-10-22T15:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parumala Thirumeni Songs | പരുമല തിരുമേനി | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=5OS0KGbXLSo</id>
+        <link href="https://www.youtube.com/watch?v=5OS0KGbXLSo"/>
+        <updated>2024-10-22T15:30:04.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#malayalamworshipsong #matchpointfaith #christianmusic #mariakolady]]></title>
         <id>https://www.youtube.com/watch?v=-zdTBE-OzzU</id>
@@ -12901,24 +12919,6 @@
         <updated>2024-09-23T04:10:38.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu  Romantic Old Superhit Song | Panimudakku  | P.R. Varalakshmi, Mohan Sharma, Prema, Sankaradi]]></title>
-        <id>https://www.youtube.com/watch?v=xgp7ITz0QFU</id>
-        <link href="https://www.youtube.com/watch?v=xgp7ITz0QFU"/>
-        <updated>2024-09-23T04:00:47.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathimoonnam Rathri | Official Teaser|Maneesh Babu| Shine Tom Chacko | Vishnu Unnikrishnan|D2K Films]]></title>
-        <id>https://www.youtube.com/watch?v=XQGq-sOOjCg</id>
-        <link href="https://www.youtube.com/watch?v=XQGq-sOOjCg"/>
-        <updated>2024-09-23T03:44:40.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
