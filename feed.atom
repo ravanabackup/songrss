@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T17:07:04.151Z</updated>
+    <updated>2024-10-22T18:10:34.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd October 24]]></title>
+        <id>https://www.youtube.com/watch?v=_MQZdSPjIJA</id>
+        <link href="https://www.youtube.com/watch?v=_MQZdSPjIJA"/>
+        <updated>2024-10-22T18:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthigeethangal | Non Stop Christian Worship Songs | Malayalam Christian Songs | Evergreen Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kThYOCdiRgY</id>
+        <link href="https://www.youtube.com/watch?v=kThYOCdiRgY"/>
+        <updated>2024-10-22T17:06:34.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arumayulleshuve | അരുമയുള്ളേശുവേ | Maria Kolady | Sadhu Kochukunju Upadeshi | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=MsUVyx309hw</id>
@@ -6286,6 +6304,15 @@
         <updated>2024-10-08T04:30:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellam Anyamaay | K J Yesudas | Christian Shorts #miraculousmelodies]]></title>
+        <id>https://www.youtube.com/watch?v=HviPoE7jSN8</id>
+        <link href="https://www.youtube.com/watch?v=HviPoE7jSN8"/>
+        <updated>2024-10-08T04:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12838,51 +12865,6 @@
         <updated>2024-09-23T06:18:25.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponmaniye Tamil Video Song | Premasoothram | Gopi Sundar | Jiju Asokan | Balu Varghese | Lijo Mol]]></title>
-        <id>https://www.youtube.com/watch?v=2HEiMVKPv40</id>
-        <link href="https://www.youtube.com/watch?v=2HEiMVKPv40"/>
-        <updated>2024-09-23T06:00:31.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹിക്കുന്ന ദൈവം | #malayalamchristiandevotionalsongs #jesusmalayalamsongs #christianalbumsongs]]></title>
-        <id>https://www.youtube.com/watch?v=nWKWWLAZHJs</id>
-        <link href="https://www.youtube.com/watch?v=nWKWWLAZHJs"/>
-        <updated>2024-09-23T05:57:45.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meiyazhagan - Trailer | Karthi | Arvind Swami | Govind Vasantha | C.Premkumar | Suriya | Jyotika]]></title>
-        <id>https://www.youtube.com/watch?v=Ahp840_aCoI</id>
-        <link href="https://www.youtube.com/watch?v=Ahp840_aCoI"/>
-        <updated>2024-09-23T05:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evergreen Malayalam Evergreen Hits |കേൾക്കാൻ കൊതിക്കുന്ന പ്രണയഗാനങ്ങൾ|K S Chithra|Evergreen Melodies]]></title>
-        <id>https://www.youtube.com/watch?v=szItIvbVkXg</id>
-        <link href="https://www.youtube.com/watch?v=szItIvbVkXg"/>
-        <updated>2024-09-23T05:20:08.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral Thottu Vilichenkil | Kochi Rajavu  | Sujatha | Gireesh Puthencherry | Vidyasagar | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=ww6FxA1slds</id>
-        <link href="https://www.youtube.com/watch?v=ww6FxA1slds"/>
-        <updated>2024-09-23T05:15:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
