@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T11:07:06.798Z</updated>
+    <updated>2024-10-22T12:14:54.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aare Vittathamma Video Song | Porattu Naadakam | Noushad Saffron | Saiju Kurup | Rahul Raj |Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=puCORP6O_fk</id>
+        <link href="https://www.youtube.com/watch?v=puCORP6O_fk"/>
+        <updated>2024-10-22T12:01:10.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashta Ayyappa Avatharam ft Vidyasagar - Promo | Coming Soon]]></title>
+        <id>https://www.youtube.com/watch?v=NhEEXGRVLvA</id>
+        <link href="https://www.youtube.com/watch?v=NhEEXGRVLvA"/>
+        <updated>2024-10-22T11:59:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 22nd of October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=L3cpIwqPnmI</id>
+        <link href="https://www.youtube.com/watch?v=L3cpIwqPnmI"/>
+        <updated>2024-10-22T11:30:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oor Manney - Video Song | Meiyazhagan | Karthi | Arvind Swami | Govind Vasantha| C.Premkumar]]></title>
+        <id>https://www.youtube.com/watch?v=_hg1Gc8hLRM</id>
+        <link href="https://www.youtube.com/watch?v=_hg1Gc8hLRM"/>
+        <updated>2024-10-22T11:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vennilave | Reprise | Rhitwik S Chand | Anila Rajeev #coversong #malayalamcover #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=Sng5WLhoI4k</id>
@@ -526,6 +562,15 @@
         <updated>2024-10-21T07:05:40.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pallotty 90s Kids - Official Trailer | Arjun Ashokan, Balu Varghese | Jithin Raj |Sajid Yahiya | LJP]]></title>
+        <id>https://www.youtube.com/watch?v=JBA1qcKzZOs</id>
+        <link href="https://www.youtube.com/watch?v=JBA1qcKzZOs"/>
+        <updated>2024-10-21T06:45:49.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12775,24 +12820,6 @@
         <updated>2024-09-23T00:30:34.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu    #shorts #biblequotes]]></title>
-        <id>https://www.youtube.com/watch?v=zZ_fAxvSCYA</id>
-        <link href="https://www.youtube.com/watch?v=zZ_fAxvSCYA"/>
-        <updated>2024-09-22T23:30:18.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അതിരാവിലെ ഈ ഗാനങ്ങൾ കേട്ടാൽ നിങ്ങളുടെ ജീവതത്തിൽ വലിയ അത്ഭുതങ്ങൾ സംഭവിക്കും തീർച്ച! | Morninig Prayer]]></title>
-        <id>https://www.youtube.com/watch?v=7ucrnxKftpk</id>
-        <link href="https://www.youtube.com/watch?v=7ucrnxKftpk"/>
-        <updated>2024-09-22T23:30:01.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
