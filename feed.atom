@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-22T05:08:22.234Z</updated>
+    <updated>2024-10-22T06:11:37.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഥമരാവിന്‍ | PRADHAMARAVIN | Malayalam Song | Changatham Malayalam Movie | Madhavi | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=whQXGtqLNfs</id>
+        <link href="https://www.youtube.com/watch?v=whQXGtqLNfs"/>
+        <updated>2024-10-22T06:00:23.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മാനം ചെമ്മാനം | Ammanam Chemmanam  | Mayaponman Malayalam Movie Song | Dileep | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=XPZSqJ3EB7Q</id>
+        <link href="https://www.youtube.com/watch?v=XPZSqJ3EB7Q"/>
+        <updated>2024-10-22T05:53:21.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porattu Naadakam Teaser 03 | Noushad Saffron | Saiju Kurup | Rahul Raj]]></title>
+        <id>https://www.youtube.com/watch?v=U_wXImU_RX8</id>
+        <link href="https://www.youtube.com/watch?v=U_wXImU_RX8"/>
+        <updated>2024-10-22T05:45:09.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വെള്ളിനിലാ തുള്ളികളോ | Vellinila Thullikalo | Varnapakittu | Malayalam Movie Song | Mohanlal | Meena]]></title>
+        <id>https://www.youtube.com/watch?v=VNLVr9sRLC0</id>
+        <link href="https://www.youtube.com/watch?v=VNLVr9sRLC0"/>
+        <updated>2024-10-22T05:40:14.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannoram  |Lyrical+Karaoke Video| Rathinirvedam | Shreya Ghoshal | Murugan Kattakkada|M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=VgZJcjL5L3o</id>
+        <link href="https://www.youtube.com/watch?v=VgZJcjL5L3o"/>
+        <updated>2024-10-22T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prem Nazir, Sheela Romantic Superhit Song | Kallichellamma Movie | Madhu]]></title>
         <id>https://www.youtube.com/watch?v=WYQmCqPMR9U</id>
@@ -22,6 +67,15 @@
         <updated>2024-10-22T04:30:00.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anayatha Deepamay | Sr. Rincy Alphonse | Fr. Saji Arackal | Marian Songs | Christian Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=cxPCh5MCYCA</id>
+        <link href="https://www.youtube.com/watch?v=cxPCh5MCYCA"/>
+        <updated>2024-10-22T04:24:50.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
