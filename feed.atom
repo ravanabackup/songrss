@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T10:08:35.820Z</updated>
+    <updated>2024-10-23T11:07:08.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manikkuyile Video Song| Valkannadi | Kalabhavan Mani | Geethu Mohandas | KJ Yesudas | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=VNqGLIlfcHI</id>
+        <link href="https://www.youtube.com/watch?v=VNqGLIlfcHI"/>
+        <updated>2024-10-23T10:59:10.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sooryan Neeyanda |  Kochirajavu  #shortsfeed #shortsvideo #reels #vidyasagar #shorts #dileep]]></title>
+        <id>https://www.youtube.com/watch?v=gcRkDFp-hJo</id>
+        <link href="https://www.youtube.com/watch?v=gcRkDFp-hJo"/>
+        <updated>2024-10-23T10:30:27.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gora Habba Video Song Out Now | Porattu Naadakam #rahulraj #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=WhBtuP3isD4</id>
+        <link href="https://www.youtube.com/watch?v=WhBtuP3isD4"/>
+        <updated>2024-10-23T10:30:20.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airana Dhurmadha-Video Song | Chithini | East Coast Vijayan |Amith Chakalakal | Mokksha | Ranjin Raj]]></title>
+        <id>https://www.youtube.com/watch?v=HhSvZ3w1uWA</id>
+        <link href="https://www.youtube.com/watch?v=HhSvZ3w1uWA"/>
+        <updated>2024-10-23T10:14:36.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വാഴ്ത്തിടുന്നു ഞാൻ | പാപം മാറ്റുവാൻ #bestmalayalamchristiandevotionalsongs #jesusdevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=PaYjmSGI2PA</id>
@@ -472,6 +508,15 @@
         <updated>2024-10-22T08:49:56.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Neeye Video Song | Kummatikali | Madhav Suresh | Rex Vijayan | Neha Nair | R K Vincent Selva]]></title>
+        <id>https://www.youtube.com/watch?v=b3ZtrVH260Y</id>
+        <link href="https://www.youtube.com/watch?v=b3ZtrVH260Y"/>
+        <updated>2024-10-22T08:43:16.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -12676,15 +12721,6 @@
         <updated>2024-09-23T23:30:10.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=GSFswZaDFaQ</id>
-        <link href="https://www.youtube.com/watch?v=GSFswZaDFaQ"/>
-        <updated>2024-09-23T23:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
