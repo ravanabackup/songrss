@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T11:07:08.065Z</updated>
+    <updated>2024-10-23T12:14:41.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onnaam Thumbi Video Song | Makan Ente Makan | Malayalam Songs | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=r2zpOmURrUQ</id>
+        <link href="https://www.youtube.com/watch?v=r2zpOmURrUQ"/>
+        <updated>2024-10-23T11:30:29.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K For Krishna - Lofi | Guruvayoorambala Nadayil | Ankit Menon | Aju Varghese | The Independeners]]></title>
+        <id>https://www.youtube.com/watch?v=N0l6xoM5E7M</id>
+        <link href="https://www.youtube.com/watch?v=N0l6xoM5E7M"/>
+        <updated>2024-10-23T11:30:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyam Thanalinu | Forever Favourites | Unplugged Cover | Prasobh Ramachandran | Sadhika K R]]></title>
+        <id>https://www.youtube.com/watch?v=VDbbk4czWn4</id>
+        <link href="https://www.youtube.com/watch?v=VDbbk4czWn4"/>
+        <updated>2024-10-23T11:30:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 23rd of October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=4fRATk29x0g</id>
+        <link href="https://www.youtube.com/watch?v=4fRATk29x0g"/>
+        <updated>2024-10-23T11:30:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medhakuthu Kaalu Rendum | Brother |Jayam Ravi,Priyanka Mohan |Harris Jayaraj |Rajesh.M |Screen Scene]]></title>
+        <id>https://www.youtube.com/watch?v=wd7M3D2S9V0</id>
+        <link href="https://www.youtube.com/watch?v=wd7M3D2S9V0"/>
+        <updated>2024-10-23T11:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manikkuyile Video Song| Valkannadi | Kalabhavan Mani | Geethu Mohandas | KJ Yesudas | Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=VNqGLIlfcHI</id>
@@ -12703,24 +12748,6 @@
         <updated>2024-09-24T00:30:02.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandi Nandi En Daivame | Aleena Mary Shibu | Charles Jacob | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CFEZec0Z2po</id>
-        <link href="https://www.youtube.com/watch?v=CFEZec0Z2po"/>
-        <updated>2024-09-24T00:00:27.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @JinoKunnumpurathu #shorts   #biblequotes]]></title>
-        <id>https://www.youtube.com/watch?v=bfYqDtjQkFI</id>
-        <link href="https://www.youtube.com/watch?v=bfYqDtjQkFI"/>
-        <updated>2024-09-23T23:30:10.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
