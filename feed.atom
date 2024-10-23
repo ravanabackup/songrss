@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T00:38:17.157Z</updated>
+    <updated>2024-10-23T02:10:41.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12640,60 +12640,6 @@
         <updated>2024-09-23T14:14:46.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thazhvaram Manpoove Video Song | Jackpot | Mammootty | Aishwarya| KJ Yesudas| KS Chithra | Ilayaraja]]></title>
-        <id>https://www.youtube.com/watch?v=5Gq4cDPDdT4</id>
-        <link href="https://www.youtube.com/watch?v=5Gq4cDPDdT4"/>
-        <updated>2024-09-23T13:43:39.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaradhanayennum Eeshok | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ| @JinoKunnumpurathu  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=F5kILfumt4M</id>
-        <link href="https://www.youtube.com/watch?v=F5kILfumt4M"/>
-        <updated>2024-09-23T13:30:09.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkunnitha Mulla Malayalam Video Song | Vajram Movie Song | Mammootty |  P Jayachandran |]]></title>
-        <id>https://www.youtube.com/watch?v=ObcETh1wgCo</id>
-        <link href="https://www.youtube.com/watch?v=ObcETh1wgCo"/>
-        <updated>2024-09-23T13:30:07.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വല്ലാർപാടത്തമ്മയുടെ തിരുനാൾ ഗാനങ്ങൾ 2024 | Feast Day Special Songs | #vallarpadam | #mothermary]]></title>
-        <id>https://www.youtube.com/watch?v=0hIsyl9JI3Q</id>
-        <link href="https://www.youtube.com/watch?v=0hIsyl9JI3Q"/>
-        <updated>2024-09-23T13:30:02.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shivamalli Kavil Koovalam Poothu Song | Ananthabhadram | 4K Remastered | Prithviraj | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=sbtDSwkaq0A</id>
-        <link href="https://www.youtube.com/watch?v=sbtDSwkaq0A"/>
-        <updated>2024-09-23T13:01:04.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NJAN KANDEEDUM EN RAKSHAKANE | HUMBLE MANU | TONY THOMAS | PAVITHRAN AMACHAL | @JinoKunnumpurathu]]></title>
-        <id>https://www.youtube.com/watch?v=SW48PzCwzWc</id>
-        <link href="https://www.youtube.com/watch?v=SW48PzCwzWc"/>
-        <updated>2024-09-23T13:00:35.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
