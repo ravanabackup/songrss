@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T04:10:21.493Z</updated>
+    <updated>2024-10-23T05:09:07.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaaleduthal Angakali | Meesha Madhavan | Dileep | Kavya Madhavan | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=Ads_Mc9dT7o</id>
+        <link href="https://www.youtube.com/watch?v=Ads_Mc9dT7o"/>
+        <updated>2024-10-23T05:04:55.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the pookalam to the enchanting vows🌸✨#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=2Mcu94MQE6M</id>
+        <link href="https://www.youtube.com/watch?v=2Mcu94MQE6M"/>
+        <updated>2024-10-23T04:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thelivaanam | Manorajyam #vineethsreenivasan #shortsfeed #shortsvideo #shorts #reels #lovesong]]></title>
         <id>https://www.youtube.com/watch?v=ffpJ7Lc0Ag8</id>
@@ -12586,15 +12604,6 @@
         <updated>2024-09-23T18:30:34.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harris Jayaraj's signature whistle interlude 😚🎼🔁 #AmudhaAmudha #JayamRavi #PriyankaMohan #Rajesh]]></title>
-        <id>https://www.youtube.com/watch?v=JhUGapCA9GA</id>
-        <link href="https://www.youtube.com/watch?v=JhUGapCA9GA"/>
-        <updated>2024-09-23T16:22:21.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
