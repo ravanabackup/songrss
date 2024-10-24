@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T09:08:39.753Z</updated>
+    <updated>2024-10-24T10:08:37.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Jaathi Pillerishtta | Porupaattu | പോരുപാട്ട് | Video Song | Prasanth Eezhavan]]></title>
+        <id>https://www.youtube.com/watch?v=-t5aT0tg3_E</id>
+        <link href="https://www.youtube.com/watch?v=-t5aT0tg3_E"/>
+        <updated>2024-10-24T09:56:19.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മുത്തുമണിയെ | Muthumaniye | Manichettante Kettal Mathivaratha Paattukal]]></title>
+        <id>https://www.youtube.com/watch?v=vgTuJRhjHlQ</id>
+        <link href="https://www.youtube.com/watch?v=vgTuJRhjHlQ"/>
+        <updated>2024-10-24T09:47:26.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാരിൻ രക്ഷകൻ | #bestmalayalamchristiandevotionalsongs #christianmusic #jesussongs #spiritualsong]]></title>
+        <id>https://www.youtube.com/watch?v=5mW8vFBjY64</id>
+        <link href="https://www.youtube.com/watch?v=5mW8vFBjY64"/>
+        <updated>2024-10-24T09:17:10.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്നും നിന്നെ പൂജിക്കാം | Ennum ninne poojikkam | Aniyathipraavu | Movie Song | Kunchacko Boban]]></title>
         <id>https://www.youtube.com/watch?v=5hz5uR2oeVc</id>
@@ -40,6 +67,15 @@
         <updated>2024-10-24T08:44:51.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uyirinnuyiram | Dhayabharathi | Video Song | Hariharan | Kailash | K G Vijayakumar | B Vijayakumar]]></title>
+        <id>https://www.youtube.com/watch?v=lDLRq2oPgdE</id>
+        <link href="https://www.youtube.com/watch?v=lDLRq2oPgdE"/>
+        <updated>2024-10-24T08:35:15.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
