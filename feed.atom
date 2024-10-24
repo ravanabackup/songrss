@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T03:14:27.465Z</updated>
+    <updated>2024-10-24T04:10:39.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daivam Thanna Sneham | Christian Shorts #miraculousmelodies]]></title>
+        <id>https://www.youtube.com/watch?v=dYf22r4p2Nw</id>
+        <link href="https://www.youtube.com/watch?v=dYf22r4p2Nw"/>
+        <updated>2024-10-24T03:45:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalamozhikalaaya | Pranayam #mohanlal #sharreth #mjayachandran #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=GjYXonLMzSA</id>
+        <link href="https://www.youtube.com/watch?v=GjYXonLMzSA"/>
+        <updated>2024-10-24T03:30:09.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh Mama Mama | Shorts #malayalammoviesongs #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=vyem9bVE4TM</id>
@@ -12586,33 +12604,6 @@
         <updated>2024-09-24T18:30:47.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devesha Yeshupara | ദേവേശാ യേശുപരാ | Malayalam Christian Song | Mercy Shaju | Music Spread |]]></title>
-        <id>https://www.youtube.com/watch?v=j2wnIKBX9Hw</id>
-        <link href="https://www.youtube.com/watch?v=j2wnIKBX9Hw"/>
-        <updated>2024-09-24T16:00:44.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ |  Nanni Nanni | Pr. Charles Jacob |  Roji Ponnachan | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=OeVw8zXBFgY</id>
-        <link href="https://www.youtube.com/watch?v=OeVw8zXBFgY"/>
-        <updated>2024-09-24T15:30:14.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരാലും അസാധ്യം | Aaralum Asadhyam  | Music Spread | Malayalam Christian song |]]></title>
-        <id>https://www.youtube.com/watch?v=s2i4nKjPJgY</id>
-        <link href="https://www.youtube.com/watch?v=s2i4nKjPJgY"/>
-        <updated>2024-09-24T15:30:06.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
