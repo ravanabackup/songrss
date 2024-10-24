@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T16:09:42.907Z</updated>
+    <updated>2024-10-24T17:06:59.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പോരുപാട്ട് | Porupaattu | Oru Jaathi Pillerishtta | Video Song | Prasanth Eezhavan]]></title>
+        <id>https://www.youtube.com/watch?v=IKKm53hso-Y</id>
+        <link href="https://www.youtube.com/watch?v=IKKm53hso-Y"/>
+        <updated>2024-10-24T16:30:04.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #mariakolady #sadhukochukunjuupadeshi]]></title>
+        <id>https://www.youtube.com/watch?v=ApkcsdrOQvM</id>
+        <link href="https://www.youtube.com/watch?v=ApkcsdrOQvM"/>
+        <updated>2024-10-24T16:13:32.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
         <id>https://www.youtube.com/watch?v=jMa41xvMxMI</id>
@@ -12910,33 +12928,6 @@
         <updated>2024-09-25T05:11:59.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#AnguVaanKonilu 🎶❤️ #ARM #TovinoThomas #DhibuNinanThomas #VaikomVijayalakshmi #PunyaPradeep]]></title>
-        <id>https://www.youtube.com/watch?v=aS2zpyiEaJU</id>
-        <link href="https://www.youtube.com/watch?v=aS2zpyiEaJU"/>
-        <updated>2024-09-25T04:48:40.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneer Thennale | Saaphalyam | Sureshgopi | Praveena | K J Yesudas | MG Radhakrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=endllO5w4Fs</id>
-        <link href="https://www.youtube.com/watch?v=endllO5w4Fs"/>
-        <updated>2024-09-25T04:30:27.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the beat hits, there is no sitting still 🥁💃🕺#Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=KNCHXksErg8</id>
-        <link href="https://www.youtube.com/watch?v=KNCHXksErg8"/>
-        <updated>2024-09-25T04:30:09.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
