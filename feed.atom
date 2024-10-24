@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T14:08:12.400Z</updated>
+    <updated>2024-10-24T15:08:08.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parumala Thirumeni Songs | പരുമല തിരുമേനി | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=SxrDl0lGmQE</id>
+        <link href="https://www.youtube.com/watch?v=SxrDl0lGmQE"/>
+        <updated>2024-10-24T15:00:27.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaishaka Sandye Video Song | Bad Boyz | Omar Lulu | Bibin George | Najim Arshad | #coversong]]></title>
+        <id>https://www.youtube.com/watch?v=mDbY74g8iHE</id>
+        <link href="https://www.youtube.com/watch?v=mDbY74g8iHE"/>
+        <updated>2024-10-24T14:46:43.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omanapuzha | Chaanthupottu | Vidyasagar | Vayalar Sarathchandra Varma | #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=q-uOiqZ8OXo</id>
+        <link href="https://www.youtube.com/watch?v=q-uOiqZ8OXo"/>
+        <updated>2024-10-24T14:30:21.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paathiraavaayi Neram Video Song | Vietnam Colony | Minmini | Bichu Thirumala #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=g-MA1wO7ick</id>
+        <link href="https://www.youtube.com/watch?v=g-MA1wO7ick"/>
+        <updated>2024-10-24T14:30:15.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs… #matchpointfaith #malayalamchristiandevotionals]]></title>
+        <id>https://www.youtube.com/watch?v=iGAVBDcc-uM</id>
+        <link href="https://www.youtube.com/watch?v=iGAVBDcc-uM"/>
+        <updated>2024-10-24T14:08:42.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Pattin Kattil Video Song | Mammootty, Anjala Zaveri | Gireesh Puthenchery | Vidyasagar | Dubai]]></title>
+        <id>https://www.youtube.com/watch?v=MMahQtzaie8</id>
+        <link href="https://www.youtube.com/watch?v=MMahQtzaie8"/>
+        <updated>2024-10-24T14:08:34.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaishaka Sandye Video Song | Bad Boyz | Omar Lulu | Bibin George | Najim Arshad]]></title>
         <id>https://www.youtube.com/watch?v=f41vJt1S48E</id>
