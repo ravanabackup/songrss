@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T10:08:37.365Z</updated>
+    <updated>2024-10-24T11:07:02.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എന്നും നിന്നെ പൂജിക്കാം | Ennum ninne poojikkam | Aniyathipraavu | Movie Song | Kunchacko Boban]]></title>
+        <id>https://www.youtube.com/watch?v=lK4VMKGZ3Go</id>
+        <link href="https://www.youtube.com/watch?v=lK4VMKGZ3Go"/>
+        <updated>2024-10-24T10:34:51.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keerthana - Music Video | Kadaisi Ulaga Por | Hiphop Tamizha | Anagha | HHT Entertainment]]></title>
+        <id>https://www.youtube.com/watch?v=GE8hoyJHEXY</id>
+        <link href="https://www.youtube.com/watch?v=GE8hoyJHEXY"/>
+        <updated>2024-10-24T10:30:04.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paalapoove Songo | Njan Gandharvan #shorts #kschithra #johnson #kaithapram #malayalammoviesongs]]></title>
+        <id>https://www.youtube.com/watch?v=5lSmpaqn--A</id>
+        <link href="https://www.youtube.com/watch?v=5lSmpaqn--A"/>
+        <updated>2024-10-24T10:30:03.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Jaathi Pillerishtta | Porupaattu | പോരുപാട്ട് | Video Song | Prasanth Eezhavan]]></title>
         <id>https://www.youtube.com/watch?v=-t5aT0tg3_E</id>
@@ -22,6 +49,15 @@
         <updated>2024-10-24T09:47:26.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friendship Anthem - Video Song | Pallotty 90's Kids | LJP | Manikandan Ayyappa]]></title>
+        <id>https://www.youtube.com/watch?v=rnQ4jaqmQXY</id>
+        <link href="https://www.youtube.com/watch?v=rnQ4jaqmQXY"/>
+        <updated>2024-10-24T09:23:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -1030,6 +1066,15 @@
         <updated>2024-10-22T06:16:41.000Z</updated>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vadakku Dikkiloru Video Song | Anpodu Kanmani | Liju Thomaz | Vineeth Sreenivasan | Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=IMosWlJDjQc</id>
+        <link href="https://www.youtube.com/watch?v=IMosWlJDjQc"/>
+        <updated>2024-10-22T06:05:08.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -12685,15 +12730,6 @@
         <updated>2024-09-24T23:30:05.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=8ZY1FOB9dSs</id>
-        <link href="https://www.youtube.com/watch?v=8ZY1FOB9dSs"/>
-        <updated>2024-09-24T23:00:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
