@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T08:11:15.193Z</updated>
+    <updated>2024-10-24T09:08:39.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എന്നും നിന്നെ പൂജിക്കാം | Ennum ninne poojikkam | Aniyathipraavu | Movie Song | Kunchacko Boban]]></title>
+        <id>https://www.youtube.com/watch?v=5hz5uR2oeVc</id>
+        <link href="https://www.youtube.com/watch?v=5hz5uR2oeVc"/>
+        <updated>2024-10-24T08:59:27.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു വെണ്‍‌പിറാവു | Oru Venpiravu | Newspaper Boy Movie Song | Gireesh Puthenchery| KJYesudas |Mukesh]]></title>
+        <id>https://www.youtube.com/watch?v=nSZZ8hpdt7w</id>
+        <link href="https://www.youtube.com/watch?v=nSZZ8hpdt7w"/>
+        <updated>2024-10-24T08:57:01.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാവേരീ പാടാമിനി | Kaaveri Padamini | Raajashilpi | Malayalam Film Song | Mohanlal  K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=q8kCeSWDpCw</id>
+        <link href="https://www.youtube.com/watch?v=q8kCeSWDpCw"/>
+        <updated>2024-10-24T08:53:36.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chingamasam Video Song | Dileep | Vidyasagar | Gireesh Puthenchery | Rimi Tomy | Shankar Mahadevan]]></title>
+        <id>https://www.youtube.com/watch?v=9YdKgnOmhwA</id>
+        <link href="https://www.youtube.com/watch?v=9YdKgnOmhwA"/>
+        <updated>2024-10-24T08:44:51.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജീവിതത്തിലെ സന്തോഷവും സങ്കടങ്ങളും ചാലിച്ചെഴുതിയ മലയാളസിനിമയിലെ മറക്കാനാവാത്ത ഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=fGTzdnxkdKE</id>
