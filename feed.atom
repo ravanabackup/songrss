@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T02:10:40.400Z</updated>
+    <updated>2024-10-24T03:14:27.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oh Mama Mama | Shorts #malayalammoviesongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=vyem9bVE4TM</id>
+        <link href="https://www.youtube.com/watch?v=vyem9bVE4TM"/>
+        <updated>2024-10-24T03:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | Sujatha | Joji Johns | Christian Melody Songs Malayalam | Biju Narayanan]]></title>
         <id>https://www.youtube.com/watch?v=Hsm41Yw5IBI</id>
@@ -12604,51 +12613,6 @@
         <updated>2024-09-24T15:30:06.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokuthire Padakkuthire Video Song | Unniyarcha | P Susheela #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=czCEZyFQPYU</id>
-        <link href="https://www.youtube.com/watch?v=czCEZyFQPYU"/>
-        <updated>2024-09-24T14:30:16.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panchamiraavalle | Mohan Sithara | K. J. Yesudas | Shibu Chakravarthy | Jagadish]]></title>
-        <id>https://www.youtube.com/watch?v=9_SGXOUEvbE</id>
-        <link href="https://www.youtube.com/watch?v=9_SGXOUEvbE"/>
-        <updated>2024-09-24T14:30:07.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maane Malaramban | Ayal Kadha Ezhuthukayanu | KJ Yesudas #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=5i3QzNaYUYs</id>
-        <link href="https://www.youtube.com/watch?v=5i3QzNaYUYs"/>
-        <updated>2024-09-24T14:30:04.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#rasathi #aravindanteathidhikal #shaanrahman #vineethsreenivasan #nikhilavimal #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=spaYCmYLaws</id>
-        <link href="https://www.youtube.com/watch?v=spaYCmYLaws"/>
-        <updated>2024-09-24T14:27:06.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jangaa Jagaa Naari | Jameelante Poovankozhi |Video Song | Shaajahan | Anthony Daasan | Aloshya Peter]]></title>
-        <id>https://www.youtube.com/watch?v=rCJRUybujGY</id>
-        <link href="https://www.youtube.com/watch?v=rCJRUybujGY"/>
-        <updated>2024-09-24T14:22:11.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
         </author>
     </entry>
 </feed>
