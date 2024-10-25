@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T20:09:02.450Z</updated>
+    <updated>2024-10-25T21:07:13.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12937,15 +12937,6 @@
         <updated>2024-09-26T09:20:57.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathimoonnam Rathri |Official Trailer|Maneesh Babu| Shine Tom Chacko | Vishnu Unnikrishnan|D2K Films]]></title>
-        <id>https://www.youtube.com/watch?v=kWo7r4lRjsg</id>
-        <link href="https://www.youtube.com/watch?v=kWo7r4lRjsg"/>
-        <updated>2024-09-26T08:45:26.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
