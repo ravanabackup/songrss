@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T02:12:28.229Z</updated>
+    <updated>2024-10-25T03:16:36.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aarari Rariraro | Animation Videos | Shorts #malayalammoviesongs]]></title>
+        <id>https://www.youtube.com/watch?v=t9xSJasqeGU</id>
+        <link href="https://www.youtube.com/watch?v=t9xSJasqeGU"/>
+        <updated>2024-10-25T03:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azhakkadalolam | Christian Video Song | Cyriac Adityapuram  |Joji Johns |Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=Hc-8tgKPgoM</id>
@@ -12748,33 +12757,6 @@
         <updated>2024-09-25T15:30:02.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkunnitha Mulla | Vajram Movie Song | Mammootty |  P Jayachandran |]]></title>
-        <id>https://www.youtube.com/watch?v=dcfiR6ilwSQ</id>
-        <link href="https://www.youtube.com/watch?v=dcfiR6ilwSQ"/>
-        <updated>2024-09-25T14:30:30.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram kannumaay Video Song | Nokkethaadoorathu Kannumnattu | KJ Yesudas | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=BOh8R3mldmo</id>
-        <link href="https://www.youtube.com/watch?v=BOh8R3mldmo"/>
-        <updated>2024-09-25T14:30:10.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelanjanappoovin..| Paithrukam | Kaithapram l KS Chithra | Suresh Gopi | Geetha  #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=N-gjzETeEV8</id>
-        <link href="https://www.youtube.com/watch?v=N-gjzETeEV8"/>
-        <updated>2024-09-25T14:30:08.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
