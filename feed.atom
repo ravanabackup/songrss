@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T05:09:37.396Z</updated>
+    <updated>2024-10-25T06:11:47.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mohanlal Romantic Superhit Song | Ninnishtam Ennishtam Movie | Priya]]></title>
+        <id>https://www.youtube.com/watch?v=qB6t6-AMJ4M</id>
+        <link href="https://www.youtube.com/watch?v=qB6t6-AMJ4M"/>
+        <updated>2024-10-25T05:56:41.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mele Vinnin Muttatharo Video Song | KS Chithra | Vidyasagar| Gireesh Puthenchery |Ezhupunna Tharakan]]></title>
+        <id>https://www.youtube.com/watch?v=plYIrhyxK_U</id>
+        <link href="https://www.youtube.com/watch?v=plYIrhyxK_U"/>
+        <updated>2024-10-25T05:50:05.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aayiram Kaadham | Malarvaadi Arts Club | Video | Vineeth Sreenivasan | Shaan Rahman | Nivin Pauly]]></title>
+        <id>https://www.youtube.com/watch?v=NLQAEaHE6Kc</id>
+        <link href="https://www.youtube.com/watch?v=NLQAEaHE6Kc"/>
+        <updated>2024-10-25T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worship Songs | Non Stop Malayalam Christian Songs | Evergreen Devotional Songs | Sthuthigeethangal]]></title>
         <id>https://www.youtube.com/watch?v=oW6PkO_5POc</id>
@@ -922,6 +949,15 @@
         <updated>2024-10-23T10:14:36.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചന്ദ്രനുദിക്കുന്നദിക്കിലെ Vidyasagar മാജിക് | Chandranudikkunna Dikkil | S Ramesan Nair | Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=NQjh4FfAUGE</id>
+        <link href="https://www.youtube.com/watch?v=NQjh4FfAUGE"/>
+        <updated>2024-10-23T09:40:13.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
