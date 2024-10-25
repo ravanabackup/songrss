@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T16:09:39.228Z</updated>
+    <updated>2024-10-25T17:07:12.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12973,42 +12973,6 @@
         <updated>2024-09-26T05:30:22.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേ.. പിന്നെയും, അപ്പനും അമ്മയും മക്കളും തകർത്തു 😍 "നാവിൽ എന്നീശോതൻ" ഇഷ്ടമായാൽ ഷെയർ ചെയ്യണേ!!|#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Y1hssuvwQcU</id>
-        <link href="https://www.youtube.com/watch?v=Y1hssuvwQcU"/>
-        <updated>2024-09-26T04:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthum Pavizhavum Video Song | Darling Darling | Kavya Madhavan | Vineeth | Sujatha Mohan| Hariharan]]></title>
-        <id>https://www.youtube.com/watch?v=7KJvnb33eCI</id>
-        <link href="https://www.youtube.com/watch?v=7KJvnb33eCI"/>
-        <updated>2024-09-26T04:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing the energy with every beat 🔥💃#Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=9ptqQJlUP2M</id>
-        <link href="https://www.youtube.com/watch?v=9ptqQJlUP2M"/>
-        <updated>2024-09-26T04:30:02.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#OorManney 🎶 #Meiyazhagan #Karthi #ArvindSwami #GovindVasantha #VijayPrakash]]></title>
-        <id>https://www.youtube.com/watch?v=x7hJeIApyMw</id>
-        <link href="https://www.youtube.com/watch?v=x7hJeIApyMw"/>
-        <updated>2024-09-26T04:27:05.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
