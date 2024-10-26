@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-26T22:07:00.704Z</updated>
+    <updated>2024-10-26T23:07:36.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ 27, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്]]></title>
+        <id>https://www.youtube.com/watch?v=NVrm0h5c7d0</id>
+        <link href="https://www.youtube.com/watch?v=NVrm0h5c7d0"/>
+        <updated>2024-10-26T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=Casr6AbV6_w</id>
@@ -12892,24 +12901,6 @@
         <updated>2024-09-27T11:15:37.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indraneela Manjulavarnan #animation #animationvideo #kidscartoon #malayalamcartoon #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=CcH91OMq69E</id>
-        <link href="https://www.youtube.com/watch?v=CcH91OMq69E"/>
-        <updated>2024-09-27T10:30:05.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#paathirayil #thoomanjileChenthamare #swathymanu #heshamabdulwahab #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Ccoxda7yVXc</id>
-        <link href="https://www.youtube.com/watch?v=Ccoxda7yVXc"/>
-        <updated>2024-09-27T10:22:25.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
