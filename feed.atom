@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-25T23:08:46.490Z</updated>
+    <updated>2024-10-26T00:37:35.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs | Kester | Wilson Piravom | Manoj Christy |Christian Melody Songs | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=s7zCKMiqR3s</id>
+        <link href="https://www.youtube.com/watch?v=s7zCKMiqR3s"/>
+        <updated>2024-10-26T00:30:28.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 26th of October 24 # Mathavinte Japamala Santhoshathinte Rahasyangal 26th of October 24]]></title>
+        <id>https://www.youtube.com/watch?v=KJVSnsz_gg8</id>
+        <link href="https://www.youtube.com/watch?v=KJVSnsz_gg8"/>
+        <updated>2024-10-25T23:30:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 26, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=cmcL_eoh7Zc</id>
@@ -12874,60 +12892,6 @@
         <updated>2024-09-26T12:52:41.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26th of September 2024]]></title>
-        <id>https://www.youtube.com/watch?v=eBpZUcQ0GL4</id>
-        <link href="https://www.youtube.com/watch?v=eBpZUcQ0GL4"/>
-        <updated>2024-09-26T12:30:27.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്‌നേഹം ദീർഘമായി ക്ഷമിക്കുന്നു  | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=VnOtLnKP1GE</id>
-        <link href="https://www.youtube.com/watch?v=VnOtLnKP1GE"/>
-        <updated>2024-09-26T12:30:24.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engo Chumannu | Prathyasha Geethangal | Aji Puthoor | Praise and Worship Songs | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=HSCZOxLWBEs</id>
-        <link href="https://www.youtube.com/watch?v=HSCZOxLWBEs"/>
-        <updated>2024-09-26T12:30:13.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAST WORLD WAR (Hindi) - Teaser|Hiphop Tamizha Adhi |Natty Nataraj|Nassar|Anagha| Oct 4th In Cinemas]]></title>
-        <id>https://www.youtube.com/watch?v=xVdwkQB9xMY</id>
-        <link href="https://www.youtube.com/watch?v=xVdwkQB9xMY"/>
-        <updated>2024-09-26T11:36:33.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premikkumbol (Reprise) | Cover Video | Salt & Pepper | Rhithwik S Chand | Anila Rajeev | Bijibal]]></title>
-        <id>https://www.youtube.com/watch?v=ILBok6K4hws</id>
-        <link href="https://www.youtube.com/watch?v=ILBok6K4hws"/>
-        <updated>2024-09-26T11:30:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sooryanalam Ponvilakkayi | സൂര്യനാളം പൊൻവിളക്കായ് | Thacholi Varghese Chekavar | Movie song]]></title>
-        <id>https://www.youtube.com/watch?v=yOdBvrMuucg</id>
-        <link href="https://www.youtube.com/watch?v=yOdBvrMuucg"/>
-        <updated>2024-09-26T11:16:17.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
