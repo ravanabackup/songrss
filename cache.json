@@ -3105,6 +3105,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KbwoUTf4E7Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KbwoUTf4E7Y",
+          "publishedOn": "2024-10-26T20:03:27.000Z",
+          "wordCount": null,
+          "title": "ITHA NINTE AMMA DAY 27",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L4KR7Dq69Lk",
           "author": null,
           "description": "",
@@ -8412,16 +8422,6 @@
           "wordCount": null,
           "title": "മലയാളി പ്രേക്ഷകർക്ക് ഒഴിച്ചുകൂടാനാവാത്ത മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN MALAYALAM FILM SONGS",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h9qkxad8krk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h9qkxad8krk",
-          "publishedOn": "2024-09-27T07:48:40.000Z",
-          "wordCount": null,
-          "title": "നിരവധി ഗാനങ്ങൾ മലയാളികൾക്ക് സമ്മാനിച്ച പ്രിയഗായകൻ എം ജി ശ്രീകുമാറിന്റെ തെരഞ്ഞെടുത്ത ഗാനങ്ങൾ !",
-          "imageUrl": null
         }
       ]
     },
@@ -11355,16 +11355,6 @@
           "publishedOn": "2024-09-27T13:55:32.000Z",
           "wordCount": null,
           "title": "പ്രേക്ഷകരെ ഞെട്ടിച്ച്  ചിത്തിനി | Chithini | Theatre Response | East Coast Vijayan |Amith | Mokksha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A3tYg5U9iVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A3tYg5U9iVw",
-          "publishedOn": "2024-09-27T08:00:29.000Z",
-          "wordCount": null,
-          "title": "Mokksha Dance Performance | Shyla Nandini | Chithini | East Coast Vijayan | Ranjin Raj",
           "imageUrl": null
         }
       ]
