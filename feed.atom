@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-27T16:08:25.004Z</updated>
+    <updated>2024-10-27T17:06:29.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12793,33 +12793,6 @@
         <updated>2024-09-28T05:09:40.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Priye Priye(Title Song) | Aniyathipravu | Kunchacko Boban | Shalini | Fazil | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=xbLYCYp6-nY</id>
-        <link href="https://www.youtube.com/watch?v=xbLYCYp6-nY"/>
-        <updated>2024-09-28T04:30:33.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹോ, ഒരു രക്ഷയുമില്ല!! ലോകമേമ്പാടും ഏറ്റുപാടിയ സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം 😍 ഇഷ്ടമായാൽ ഷെയർ ചെയ്യണേ 😍]]></title>
-        <id>https://www.youtube.com/watch?v=SvHrmiY2XDw</id>
-        <link href="https://www.youtube.com/watch?v=SvHrmiY2XDw"/>
-        <updated>2024-09-28T04:30:10.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling the Mollywood magic in every beat 🥁🔥💃 #Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=Nuy3bitcu3Y</id>
-        <link href="https://www.youtube.com/watch?v=Nuy3bitcu3Y"/>
-        <updated>2024-09-28T04:30:08.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
