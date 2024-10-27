@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-27T20:08:42.132Z</updated>
+    <updated>2024-10-27T21:06:42.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ITHA NINTE AMMA DAY 28]]></title>
+        <id>https://www.youtube.com/watch?v=cmTYg4KG1Kc</id>
+        <link href="https://www.youtube.com/watch?v=cmTYg4KG1Kc"/>
+        <updated>2024-10-27T20:24:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന   October 28 # Athiravile Prarthana 28th of October 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=B55sDcxp8-4</id>
@@ -12712,24 +12721,6 @@
         <updated>2024-09-28T10:05:59.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kattil Oru Muri Official Trailer | Shanavas K Bavakutty | Hakeem Shah | Poornima indhrajith]]></title>
-        <id>https://www.youtube.com/watch?v=zMolsHPfiXw</id>
-        <link href="https://www.youtube.com/watch?v=zMolsHPfiXw"/>
-        <updated>2024-09-28T08:37:47.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akame Thaniye Video Song From Bad Boyz Coming Soon #staytuned #shorts #omarlulu #rahman]]></title>
-        <id>https://www.youtube.com/watch?v=-TJvPPz_v7s</id>
-        <link href="https://www.youtube.com/watch?v=-TJvPPz_v7s"/>
-        <updated>2024-09-28T08:30:43.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
