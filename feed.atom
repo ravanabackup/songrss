@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T05:09:27.637Z</updated>
+    <updated>2024-10-28T06:12:44.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arul Mei - Video Song | Meiyazhagan | Karthi | Arvind Swami | Govind Vasantha| C.Premkumar]]></title>
+        <id>https://www.youtube.com/watch?v=GZquuidm3ZE</id>
+        <link href="https://www.youtube.com/watch?v=GZquuidm3ZE"/>
+        <updated>2024-10-28T05:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mohanlal Romantic Superhit Song | Ulsavapittennu Movie | Priya]]></title>
+        <id>https://www.youtube.com/watch?v=PspWuBCmdDw</id>
+        <link href="https://www.youtube.com/watch?v=PspWuBCmdDw"/>
+        <updated>2024-10-28T05:23:39.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confusion Theerkkaname Video Song | Jayaram | Vidyasagar | Gireesh Puthenchery | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=Z1WjwHNzOlE</id>
+        <link href="https://www.youtube.com/watch?v=Z1WjwHNzOlE"/>
+        <updated>2024-10-28T05:18:29.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kerala beats and wedding dreams!🌟🎶#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=fvL851V3aN0</id>
