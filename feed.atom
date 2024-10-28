@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T11:07:43.428Z</updated>
+    <updated>2024-10-28T12:15:22.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാം ഇന്ദ്രജാലം | Ellam Indrajalam | Karma | Malayalam Movie Song| Suresh gopi | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=DHzVp21ifB0</id>
+        <link href="https://www.youtube.com/watch?v=DHzVp21ifB0"/>
+        <updated>2024-10-28T12:00:15.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 28th of October 2024]]></title>
+        <id>https://www.youtube.com/watch?v=fVaVj63At9M</id>
+        <link href="https://www.youtube.com/watch?v=fVaVj63At9M"/>
+        <updated>2024-10-28T11:30:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japasooryagaayathri Video Song | Devayaanam Movie | Sukesh Roy | Kailash | Malavika Menon]]></title>
+        <id>https://www.youtube.com/watch?v=kHxSE-fzpns</id>
+        <link href="https://www.youtube.com/watch?v=kHxSE-fzpns"/>
+        <updated>2024-10-28T11:30:25.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groovin’ to the beat and livin’ for the vibe! Join me!💖#PachaParishkari #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=jGAuCBEKQsM</id>
+        <link href="https://www.youtube.com/watch?v=jGAuCBEKQsM"/>
+        <updated>2024-10-28T11:30:24.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karukaruthe Manam | Folk Song Video | Sathkala Vijayan | പ്രകൃതിയുടെ മനോഹാരിത  നാടൻപാട്ടിലൂടെ]]></title>
+        <id>https://www.youtube.com/watch?v=gJnnBv3Xck8</id>
+        <link href="https://www.youtube.com/watch?v=gJnnBv3Xck8"/>
+        <updated>2024-10-28T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vagaviriyum Ravilenthe | 7th Midnight Movie Romantic Song  | Hanan Shaah |  | Jyothish Kassi]]></title>
         <id>https://www.youtube.com/watch?v=-H-8n_S2QxE</id>
@@ -2398,6 +2443,15 @@
         <updated>2024-10-22T17:06:34.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennum Ishtapedunna Chalachithraganangal | Nostalgic Malayalam Film Songs | Nonstop Movie  Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Sxyl68ZA1OU</id>
+        <link href="https://www.youtube.com/watch?v=Sxyl68ZA1OU"/>
+        <updated>2024-10-22T16:23:00.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -12595,15 +12649,6 @@
         <updated>2024-09-29T00:30:28.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu  #biblequotes #shorts #biblequotes]]></title>
-        <id>https://www.youtube.com/watch?v=w0JWqQcwWM4</id>
-        <link href="https://www.youtube.com/watch?v=w0JWqQcwWM4"/>
-        <updated>2024-09-28T23:30:15.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
