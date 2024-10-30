@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T21:07:20.558Z</updated>
+    <updated>2024-10-30T22:07:32.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=G-KhkWWTmVU</id>
+        <link href="https://www.youtube.com/watch?v=G-KhkWWTmVU"/>
+        <updated>2024-10-30T22:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 31 # Athiravile Prarthana 31st October 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=DdrpZuHlY3w</id>
@@ -12809,42 +12818,6 @@
         <id>https://www.youtube.com/watch?v=ifyUl9i-hao</id>
         <link href="https://www.youtube.com/watch?v=ifyUl9i-hao"/>
         <updated>2024-10-01T10:31:51.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wishing the multi-talented #MadonnaSebastian a very happy birthday.]]></title>
-        <id>https://www.youtube.com/watch?v=9DMgfxTbPjo</id>
-        <link href="https://www.youtube.com/watch?v=9DMgfxTbPjo"/>
-        <updated>2024-10-01T09:53:16.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വരമാകും ദൈവപുത്രൻ | Super Hit Malayalam Christian Devotional Songs | Christian Album Songs]]></title>
-        <id>https://www.youtube.com/watch?v=EmvFaXt5wL8</id>
-        <link href="https://www.youtube.com/watch?v=EmvFaXt5wL8"/>
-        <updated>2024-10-01T09:30:59.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanyasuthan | Malayalam Christian Songs | Nonstop Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lAsefb0r5Jc</id>
-        <link href="https://www.youtube.com/watch?v=lAsefb0r5Jc"/>
-        <updated>2024-10-01T09:25:37.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karunya Poomazha | Malayalam Christian Songs | Nonstop Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CEGuB_PK5Mg</id>
-        <link href="https://www.youtube.com/watch?v=CEGuB_PK5Mg"/>
-        <updated>2024-10-01T09:24:43.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
         </author>
