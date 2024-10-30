@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T16:09:56.344Z</updated>
+    <updated>2024-10-30T17:07:16.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12874,33 +12874,6 @@
         <updated>2024-10-01T05:25:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Life song sung by Janaki Eswar from the movie THANUPP #shortsvideo #shortsfeed #reels]]></title>
-        <id>https://www.youtube.com/watch?v=LNbdebY59NI</id>
-        <link href="https://www.youtube.com/watch?v=LNbdebY59NI"/>
-        <updated>2024-10-01T05:00:25.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൊന്തമാസ ദിനങ്ങളിൽ പരിശുദ്ധ അമ്മയോട് എന്തുകാര്യവും പ്രാർത്ഥിച്ചാൽ അമ്മ സാധിച്ചുതരും ഈ ഗാനത്തിലൂടെ...]]></title>
-        <id>https://www.youtube.com/watch?v=gcmDwd52lBI</id>
-        <link href="https://www.youtube.com/watch?v=gcmDwd52lBI"/>
-        <updated>2024-10-01T04:30:17.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It all happens when mollywood meets the dance floor💃🕺 #Choolamadikkada #AntonyPepe #Shorts #YTShorts]]></title>
-        <id>https://www.youtube.com/watch?v=KuX_CJr4sb0</id>
-        <link href="https://www.youtube.com/watch?v=KuX_CJr4sb0"/>
-        <updated>2024-10-01T04:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
