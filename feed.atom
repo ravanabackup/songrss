@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T10:09:29.228Z</updated>
+    <updated>2024-10-30T11:07:02.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vettaiyan The Hunter (Kannada) - Manasilaayo Video | Rajinikanth | Anirudh]]></title>
+        <id>https://www.youtube.com/watch?v=wuggOS_6kng</id>
+        <link href="https://www.youtube.com/watch?v=wuggOS_6kng"/>
+        <updated>2024-10-30T10:30:31.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Nilaavayi | Ee Pattanathil Bhootham#mammootty #shaanrahman #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=12GcRA1ZHTo</id>
+        <link href="https://www.youtube.com/watch?v=12GcRA1ZHTo"/>
+        <updated>2024-10-30T10:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#BeerSong ✨🎶 #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
         <id>https://www.youtube.com/watch?v=Xca5gxtTb0M</id>
@@ -40,6 +58,15 @@
         <updated>2024-10-30T06:27:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalame Video Song | Harilal | Murali Menon | Sudeep Kumar | Prasanth Unni]]></title>
+        <id>https://www.youtube.com/watch?v=Q_xIdc2zKgA</id>
+        <link href="https://www.youtube.com/watch?v=Q_xIdc2zKgA"/>
+        <updated>2024-10-30T05:47:39.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -12658,24 +12685,6 @@
         <updated>2024-09-30T23:30:07.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=gFkiSn1Fx2Q</id>
-        <link href="https://www.youtube.com/watch?v=gFkiSn1Fx2Q"/>
-        <updated>2024-09-30T23:00:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് ചൊവ്വാഴ്ച്ച, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്!!]]></title>
-        <id>https://www.youtube.com/watch?v=oqlcOeE5LA8</id>
-        <link href="https://www.youtube.com/watch?v=oqlcOeE5LA8"/>
-        <updated>2024-09-30T22:30:09.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
