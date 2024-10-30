@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T22:07:32.792Z</updated>
+    <updated>2024-10-30T23:07:40.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ 31, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്]]></title>
+        <id>https://www.youtube.com/watch?v=n31hgGnyVI0</id>
+        <link href="https://www.youtube.com/watch?v=n31hgGnyVI0"/>
+        <updated>2024-10-30T22:30:07.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=G-KhkWWTmVU</id>
@@ -7180,6 +7189,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Karunya Poomazha | Malayalam Christian Songs | Non Stop Worship Songs | Old Convention Songs]]></title>
+        <id>https://www.youtube.com/watch?v=CEGuB_PK5Mg</id>
+        <link href="https://www.youtube.com/watch?v=CEGuB_PK5Mg"/>
+        <updated>2024-10-13T23:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 14, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=sl34Aiosiyk</id>
         <link href="https://www.youtube.com/watch?v=sl34Aiosiyk"/>
@@ -12793,33 +12811,6 @@
         <updated>2024-10-01T11:12:35.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pushpaka Vimanam - Official Trailer | Siju Wilson, Balu Varghese | Ullas Krishna | Rahul Raj]]></title>
-        <id>https://www.youtube.com/watch?v=0P0feimfUkY</id>
-        <link href="https://www.youtube.com/watch?v=0P0feimfUkY"/>
-        <updated>2024-10-01T11:05:41.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premikkumbol #coversong #malayalamcoversong #love #shortsfeed #shortsvideo #shorts #reels #bijibal]]></title>
-        <id>https://www.youtube.com/watch?v=OUlPjfB_VfI</id>
-        <link href="https://www.youtube.com/watch?v=OUlPjfB_VfI"/>
-        <updated>2024-10-01T11:00:25.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ushakala Tharakame Karaoke | Karaoke + Lyrics Video | Rev. Dr. Vincent Variath | Marian Song Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=ifyUl9i-hao</id>
-        <link href="https://www.youtube.com/watch?v=ifyUl9i-hao"/>
-        <updated>2024-10-01T10:31:51.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
