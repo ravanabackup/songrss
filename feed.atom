@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T00:39:45.438Z</updated>
+    <updated>2024-10-30T02:12:06.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinneyum Pinneyum | Sruthy Benny | Shorts #miraculousmelodies]]></title>
+        <id>https://www.youtube.com/watch?v=0_Hz2PK5_eY</id>
+        <link href="https://www.youtube.com/watch?v=0_Hz2PK5_eY"/>
+        <updated>2024-10-30T02:00:07.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mariyan Video Songs | Kester | Chithra Arun |Joji Johns |Christian Melody Songs | Mariyan Geethangal]]></title>
         <id>https://www.youtube.com/watch?v=Qo21SKGzqOA</id>
@@ -12640,51 +12649,6 @@
         <updated>2024-09-30T14:30:02.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcoming Vaisagh To Think Music Family ❤️ | Kudumbasthan]]></title>
-        <id>https://www.youtube.com/watch?v=_DFCidFx5WE</id>
-        <link href="https://www.youtube.com/watch?v=_DFCidFx5WE"/>
-        <updated>2024-09-30T13:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Wilson Piravom | Midhila Micahel | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=0q5lb0f6_oE</id>
-        <link href="https://www.youtube.com/watch?v=0q5lb0f6_oE"/>
-        <updated>2024-09-30T13:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkarakkili Video Song | Vellinakshatram Movie Song | M Jayachandran | Sujatha Mohan | Prithviraj]]></title>
-        <id>https://www.youtube.com/watch?v=K48xIZFFLh8</id>
-        <link href="https://www.youtube.com/watch?v=K48xIZFFLh8"/>
-        <updated>2024-09-30T13:14:45.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyarinjo Neela Kuzhali Video Song| Sadanandante Samayam| Dileep | Kavya |KJ Yesudas |Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=HZFVU_eMSvc</id>
-        <link href="https://www.youtube.com/watch?v=HZFVU_eMSvc"/>
-        <updated>2024-09-30T13:09:05.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ORUKODI JANMAMEE | ഒരു കോടി ജന്മമീ | നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ |]]></title>
-        <id>https://www.youtube.com/watch?v=xpRrOyaWZyo</id>
-        <link href="https://www.youtube.com/watch?v=xpRrOyaWZyo"/>
-        <updated>2024-09-30T13:01:10.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
