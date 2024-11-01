@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T05:08:54.596Z</updated>
+    <updated>2024-11-01T06:12:19.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oduvilee Sandhyayum Video Song | Kadha | Prithviraj | Kavya Madhavan | KS Chithra | G Venugopal]]></title>
+        <id>https://www.youtube.com/watch?v=XK8kWIi89hQ</id>
+        <link href="https://www.youtube.com/watch?v=XK8kWIi89hQ"/>
+        <updated>2024-11-01T05:45:56.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premikkumbol  | Salt N' Pepper | Rafeeq Ahamed | Bijibal | Ashiq Abu | P Jayachandran | Neha Nair]]></title>
+        <id>https://www.youtube.com/watch?v=5qtyTJqo1TQ</id>
+        <link href="https://www.youtube.com/watch?v=5qtyTJqo1TQ"/>
+        <updated>2024-11-01T05:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amma Paattu - Video Song | Pallotty 90's Kids |  LJP | Manikandan Ayyappa | Veetraag]]></title>
+        <id>https://www.youtube.com/watch?v=RsJaQXf2ROg</id>
+        <link href="https://www.youtube.com/watch?v=RsJaQXf2ROg"/>
+        <updated>2024-11-01T05:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every beat feels like a new promise!💞🥁#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=xuyzv5uOYio</id>
+        <link href="https://www.youtube.com/watch?v=xuyzv5uOYio"/>
+        <updated>2024-11-01T04:30:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#BeerSong is a vibe 🕺🎶 #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
         <id>https://www.youtube.com/watch?v=jS_hB7Ifx-U</id>
