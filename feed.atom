@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-01T04:10:29.609Z</updated>
+    <updated>2024-11-01T05:08:54.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#BeerSong is a vibe 🕺🎶 #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
+        <id>https://www.youtube.com/watch?v=jS_hB7Ifx-U</id>
+        <link href="https://www.youtube.com/watch?v=jS_hB7Ifx-U"/>
+        <updated>2024-11-01T04:06:26.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ulsavapittennu Malayalam Movie Song | Priya, Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=sAPxNOQ5934</id>
@@ -12658,15 +12667,6 @@
         <updated>2024-10-02T19:00:35.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മുഴുവൻ കാണാൻ മുകളിൽ കാണുന്ന ലിങ്ക് സന്ദർശിക്കൂ #dileep #romanticwhatsappstatus]]></title>
-        <id>https://www.youtube.com/watch?v=5YaActqjmsU</id>
-        <link href="https://www.youtube.com/watch?v=5YaActqjmsU"/>
-        <updated>2024-10-02T16:14:56.000Z</updated>
-        <author>
-            <name>Raaga music</name>
         </author>
     </entry>
 </feed>
