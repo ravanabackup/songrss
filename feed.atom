@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T07:07:05.734Z</updated>
+    <updated>2024-11-02T08:10:29.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജനമനസുകൾ കീഴടക്കിയ മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | POPULAR SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=89v6YSWNNW0</id>
+        <link href="https://www.youtube.com/watch?v=89v6YSWNNW0"/>
+        <updated>2024-11-02T07:41:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thennalaadum Poomarathin | തെന്നലാടും പൂമരത്തിൻ  | Kandu Kandarinju Malayalam Movie Song | Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=SpsqaWPcccc</id>
+        <link href="https://www.youtube.com/watch?v=SpsqaWPcccc"/>
+        <updated>2024-11-02T07:12:34.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Osama | Sagar Alias Jacky Reloaded | Video Song | Mohanlal | Suchitra | Santhosh Varma | Gopi Sundar]]></title>
         <id>https://www.youtube.com/watch?v=Fxta-PKb7jg</id>
@@ -12593,15 +12611,6 @@
         <id>https://www.youtube.com/watch?v=9OaeGjpqQzc</id>
         <link href="https://www.youtube.com/watch?v=9OaeGjpqQzc"/>
         <updated>2024-10-03T23:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന October 4 # Athiravile Prarthana 4th October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=KxTzgTnAQ1k</id>
-        <link href="https://www.youtube.com/watch?v=KxTzgTnAQ1k"/>
-        <updated>2024-10-03T20:00:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
