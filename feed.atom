@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T18:09:05.660Z</updated>
+    <updated>2024-11-02T19:06:12.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന November 3 # Athiravile Prarthana 3rd November 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jd7vUF9wnH0</id>
+        <link href="https://www.youtube.com/watch?v=jd7vUF9wnH0"/>
+        <updated>2024-11-02T19:00:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 3rd November 24]]></title>
         <id>https://www.youtube.com/watch?v=WtIspKotDRU</id>
@@ -12694,42 +12703,6 @@
         <updated>2024-10-04T07:40:01.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീയെന്‍ കിനാവോ  | Neeyen Kinavo | Hello My Dear Wrong Number Malayalam Film Song | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=MCWEeNJSjhs</id>
-        <link href="https://www.youtube.com/watch?v=MCWEeNJSjhs"/>
-        <updated>2024-10-04T06:47:51.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adhirgiradha - Video Song | Kadaisi Ulaga Por | Hiphop Tamizha | Anagha | HHT Entertainment]]></title>
-        <id>https://www.youtube.com/watch?v=22XMz2jLwuE</id>
-        <link href="https://www.youtube.com/watch?v=22XMz2jLwuE"/>
-        <updated>2024-10-04T06:30:06.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil - Video Song | Kadha Innuvare | Ashwin Aryan | Vidhyadharan Master | Ajeesh Dasan]]></title>
-        <id>https://www.youtube.com/watch?v=8_4CYM_e9LE</id>
-        <link href="https://www.youtube.com/watch?v=8_4CYM_e9LE"/>
-        <updated>2024-10-04T06:29:31.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീയറിഞ്ഞോ നീലക്കുഴലി | Neeyarinjo Neela Kuzhali | Dileep | Kavya | KJ Yesudas | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=sWZlQH4naG8</id>
-        <link href="https://www.youtube.com/watch?v=sWZlQH4naG8"/>
-        <updated>2024-10-04T06:11:14.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
