@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T19:06:12.225Z</updated>
+    <updated>2024-11-02T20:08:58.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12694,15 +12694,6 @@
         <updated>2024-10-04T10:30:10.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ  ഏതൊരു ആഘോഷത്തിനും അകമ്പടിയായെത്തുന്ന മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=ylpbJe9BrWU</id>
-        <link href="https://www.youtube.com/watch?v=ylpbJe9BrWU"/>
-        <updated>2024-10-04T07:40:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
