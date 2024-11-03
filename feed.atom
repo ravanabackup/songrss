@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T14:07:40.349Z</updated>
+    <updated>2024-11-03T15:07:11.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread | Malayalam Christian Song |]]></title>
+        <id>https://www.youtube.com/watch?v=HIQoQ-xDTYk</id>
+        <link href="https://www.youtube.com/watch?v=HIQoQ-xDTYk"/>
+        <updated>2024-11-03T15:00:16.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellottu Valayittu Video Song | Othenante Makan | P Susheela #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=rxPoq5awpo8</id>
+        <link href="https://www.youtube.com/watch?v=rxPoq5awpo8"/>
+        <updated>2024-11-03T14:30:30.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikyakkallaal | Varnapakittu | Vidyasagar, M G Sreekumar, Swarnalatha #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=gv5W8NdaJP4</id>
+        <link href="https://www.youtube.com/watch?v=gv5W8NdaJP4"/>
+        <updated>2024-11-03T14:30:20.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maane Malaramban  | Ayal Kadha Ezhthukayanu | Raveendran | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=FYfn_yvUvH8</id>
+        <link href="https://www.youtube.com/watch?v=FYfn_yvUvH8"/>
+        <updated>2024-11-03T14:30:05.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തകർച്ചയിൽ നിന്ന് കൈയ്യ് പിടിച്ചുയർത്തുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Narayanan Krishna | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=WuJ7rzj8Igc</id>
@@ -12496,33 +12532,6 @@
         <updated>2024-10-05T04:30:32.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandhi Yeshuve | Pranapriya Pranapriya | Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=wk-HkCZIqw4</id>
-        <link href="https://www.youtube.com/watch?v=wk-HkCZIqw4"/>
-        <updated>2024-10-05T03:00:22.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthe Innum Vaneela|Gramophone|Murali|Vidyasagar Hits| #gramaphone #dileep #murali #vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=ZNPjPvEc__I</id>
-        <link href="https://www.youtube.com/watch?v=ZNPjPvEc__I"/>
-        <updated>2024-10-05T02:39:00.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malyalamworshipsong #malayalamchristiancovers #immanuelhenry]]></title>
-        <id>https://www.youtube.com/watch?v=zOSL54rrZCQ</id>
-        <link href="https://www.youtube.com/watch?v=zOSL54rrZCQ"/>
-        <updated>2024-10-05T02:10:41.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
