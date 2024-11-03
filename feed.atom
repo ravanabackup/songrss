@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T03:19:05.712Z</updated>
+    <updated>2024-11-03T04:10:08.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#BeerSong ✨ #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
+        <id>https://www.youtube.com/watch?v=2RnWEFX6_kg</id>
+        <link href="https://www.youtube.com/watch?v=2RnWEFX6_kg"/>
+        <updated>2024-11-03T03:40:09.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daiva Sneham | Christian Shorts #miraculousmelodies]]></title>
         <id>https://www.youtube.com/watch?v=0zPQC2mKdUo</id>
@@ -12449,51 +12458,6 @@
         <id>https://www.youtube.com/watch?v=p6YyK_q6J_M</id>
         <link href="https://www.youtube.com/watch?v=p6YyK_q6J_M"/>
         <updated>2024-10-04T16:11:51.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
-        <id>https://www.youtube.com/watch?v=88LqCaDFXVU</id>
-        <link href="https://www.youtube.com/watch?v=88LqCaDFXVU"/>
-        <updated>2024-10-04T16:00:16.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മുഴുവൻ കാണാൻ മുകളിൽ കാണുന്ന ലിങ്ക് സന്ദർശിക്കൂ  #sureshgopi #mgsreekumarsongs #sureshgopilatest]]></title>
-        <id>https://www.youtube.com/watch?v=CACxLgpnb2c</id>
-        <link href="https://www.youtube.com/watch?v=CACxLgpnb2c"/>
-        <updated>2024-10-04T15:55:55.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎼Malayalam Christian Songs Mashup #matchpointfaith #christiansongsmashup #christianmedley]]></title>
-        <id>https://www.youtube.com/watch?v=n9__oXMNQX0</id>
-        <link href="https://www.youtube.com/watch?v=n9__oXMNQX0"/>
-        <updated>2024-10-04T15:45:45.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=AY83sTDW2ns</id>
-        <link href="https://www.youtube.com/watch?v=AY83sTDW2ns"/>
-        <updated>2024-10-04T15:30:04.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎼Christian Songs Mashup… #matchpointfaith #christiansongsmashup #royputhur]]></title>
-        <id>https://www.youtube.com/watch?v=88I0cSsHe-w</id>
-        <link href="https://www.youtube.com/watch?v=88I0cSsHe-w"/>
-        <updated>2024-10-04T15:24:25.000Z</updated>
         <author>
             <name>Match Point Faith</name>
         </author>
