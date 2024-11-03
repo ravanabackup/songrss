@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T00:42:22.874Z</updated>
+    <updated>2024-11-03T02:16:29.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവകൃപ പകർന്നു തരുന്ന ഭക്തിനിർഭരമായ ഗാനങ്ങൾ | Kester | Manoj Christy | Kg Markose | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=m4AfgKIXdNE</id>
+        <link href="https://www.youtube.com/watch?v=m4AfgKIXdNE"/>
+        <updated>2024-11-03T00:30:33.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 3rd of November 2024 Mathavinte Japamala # Mahimayude Rahasyangal 3rd of November 24]]></title>
         <id>https://www.youtube.com/watch?v=FVx_i4vFo94</id>
@@ -12514,78 +12523,6 @@
         <updated>2024-10-04T14:30:02.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badass Bitch | Pushpaka Vimanam | Rahul Raj | Basil Joseph | Siju Wilson | Balu | Ullas Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=Doal2-5CFbI</id>
-        <link href="https://www.youtube.com/watch?v=Doal2-5CFbI"/>
-        <updated>2024-10-04T14:00:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poothalam | Kalikkalam | Kaithapram | Johnson | KS Chithra | Shobhana | Mammootty | Evergreen Hits]]></title>
-        <id>https://www.youtube.com/watch?v=i52pIc16o0E</id>
-        <link href="https://www.youtube.com/watch?v=i52pIc16o0E"/>
-        <updated>2024-10-04T13:30:33.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Kester | Christian Devotional Songs Malayalam | Joji Johns | P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=PFIHdBwWeZY</id>
-        <link href="https://www.youtube.com/watch?v=PFIHdBwWeZY"/>
-        <updated>2024-10-04T13:30:13.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karu Kare Karuthoru Pennanu|Balettan|Mohanlal Song| #mohanlal #lalettan]]></title>
-        <id>https://www.youtube.com/watch?v=KVn7Lg7mwrY</id>
-        <link href="https://www.youtube.com/watch?v=KVn7Lg7mwrY"/>
-        <updated>2024-10-04T13:22:16.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #mecheriansongsmashup #malyalamworshipsong at]]></title>
-        <id>https://www.youtube.com/watch?v=IE4KnYryjCE</id>
-        <link href="https://www.youtube.com/watch?v=IE4KnYryjCE"/>
-        <updated>2024-10-04T13:03:29.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chithira Panthalittu Video Song | Darling Darling | Dileep | Kavya Madhavan | KJ Yesudas| KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=SlLnAqMxux0</id>
-        <link href="https://www.youtube.com/watch?v=SlLnAqMxux0"/>
-        <updated>2024-10-04T13:02:38.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaarmazhaville | Mizhi Randilum Movie Song | Kavya Madhavan | Indrajith | Sukumari | KS Chithra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=AzuwRF8e58Q</id>
-        <link href="https://www.youtube.com/watch?v=AzuwRF8e58Q"/>
-        <updated>2024-10-04T13:00:38.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneharppanam | സ്നേഹാർപ്പണം | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ | @JinoKunnumpurathu #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=BPFZREx6gfs</id>
-        <link href="https://www.youtube.com/watch?v=BPFZREx6gfs"/>
-        <updated>2024-10-04T13:00:15.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
