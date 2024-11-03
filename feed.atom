@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T17:06:26.813Z</updated>
+    <updated>2024-11-03T18:10:33.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 4th November 24]]></title>
+        <id>https://www.youtube.com/watch?v=q6A-UM1oLAQ</id>
+        <link href="https://www.youtube.com/watch?v=q6A-UM1oLAQ"/>
+        <updated>2024-11-03T18:00:28.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#BeerSong ❤️🎶 #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
         <id>https://www.youtube.com/watch?v=Sz81BdN7mPA</id>
@@ -12523,33 +12532,6 @@
         <updated>2024-10-05T07:21:08.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthem Of Martin (Malayalam) | Dhruva Sarja, Vaibhavi S | AP Arjun | Mani Sharma | Prudhvi Chandra]]></title>
-        <id>https://www.youtube.com/watch?v=Np4Pw2JP-Ls</id>
-        <link href="https://www.youtube.com/watch?v=Np4Pw2JP-Ls"/>
-        <updated>2024-10-05T05:52:25.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mammootty, Parvathy Romantic Superhit Song | Oru naalu naalayi Video Song | Carnivel]]></title>
-        <id>https://www.youtube.com/watch?v=Qh5cnmaCvTI</id>
-        <link href="https://www.youtube.com/watch?v=Qh5cnmaCvTI"/>
-        <updated>2024-10-05T05:43:59.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangalam Koodan | Animation Version Video | സൂപ്പർ ഹിറ്റ് സിനിമ ഗാനം അനിമേഷൻ രൂപത്തിൽ]]></title>
-        <id>https://www.youtube.com/watch?v=jwedg_7vyX0</id>
-        <link href="https://www.youtube.com/watch?v=jwedg_7vyX0"/>
-        <updated>2024-10-05T05:30:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
