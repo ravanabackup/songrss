@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T12:15:22.671Z</updated>
+    <updated>2024-11-04T13:18:09.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ekantha Chandrike Song | M G Sreekumar | In Harihar Nagar Movie Song | M G Sreekumr | Unni Menon]]></title>
+        <id>https://www.youtube.com/watch?v=NbndyWbZlrw</id>
+        <link href="https://www.youtube.com/watch?v=NbndyWbZlrw"/>
+        <updated>2024-11-04T13:09:33.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandittum | മനസ്സ് വിങ്ങുന്ന ഗാനം     |    @JinoKunnumpurathu     #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=0AsMrp-MxRY</id>
+        <link href="https://www.youtube.com/watch?v=0AsMrp-MxRY"/>
+        <updated>2024-11-04T13:00:01.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raajayogam Swanthamay... Video Song | The Car Movie Song | S.Ramesan Nair | Jayaram | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=9Kwkc3m0DZg</id>
+        <link href="https://www.youtube.com/watch?v=9Kwkc3m0DZg"/>
+        <updated>2024-11-04T12:48:37.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം വെളിച്ചമാണ് |  😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=TGCNg4f1wt4</id>
+        <link href="https://www.youtube.com/watch?v=TGCNg4f1wt4"/>
+        <updated>2024-11-04T12:30:30.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൈയ്‌പിനെ മധുരമാക്കും ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | KG Markose | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=IVYdM8wAL4c</id>
+        <link href="https://www.youtube.com/watch?v=IVYdM8wAL4c"/>
+        <updated>2024-11-04T12:30:12.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅Enthathishayame | എന്തതിശയമേ ദൈവത്തിന്‍ | Match Point Faith|##MalayalamChristianDevotionalSongs]]></title>
+        <id>https://www.youtube.com/watch?v=4b1BBcUQXyk</id>
+        <link href="https://www.youtube.com/watch?v=4b1BBcUQXyk"/>
+        <updated>2024-11-04T12:25:01.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chandrakantham Kondu Nalukettu Video Song | Padheyam | Mammootty | Chippy | KJ Yesudas | Bombay Ravi]]></title>
         <id>https://www.youtube.com/watch?v=nQhIamulsus</id>
@@ -12388,15 +12442,6 @@
         <updated>2024-10-06T01:27:52.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനേകം പേർക്ക് അത്ഭുതം നേടിക്കൊടുത്ത ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | KG Markose]]></title>
-        <id>https://www.youtube.com/watch?v=qSxVMH8xodA</id>
-        <link href="https://www.youtube.com/watch?v=qSxVMH8xodA"/>
-        <updated>2024-10-06T00:30:28.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
