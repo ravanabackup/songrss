@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T04:10:26.138Z</updated>
+    <updated>2024-11-04T05:09:23.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tharakangale Mizhi | Tharakangal Sakshi | Jinto John | Darsana | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=2bo0B8eOmg4</id>
+        <link href="https://www.youtube.com/watch?v=2bo0B8eOmg4"/>
+        <updated>2024-11-04T05:00:02.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traditional tunes, modern love stories!💖🎶#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iMz4BpY0qWQ</id>
+        <link href="https://www.youtube.com/watch?v=iMz4BpY0qWQ"/>
+        <updated>2024-11-04T04:30:25.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aale Paatha | Oru Anweshanathinte Thudakkam #DiyaSana #VaniViswanath #MJayachandran #dance #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=yLEPEwnduLY</id>
+        <link href="https://www.youtube.com/watch?v=yLEPEwnduLY"/>
+        <updated>2024-11-04T04:30:24.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ithratholam Yahova | Kedarnath | D. Ajithkumar #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=8CxEO-lA-gU</id>
