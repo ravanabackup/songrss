@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T22:07:35.497Z</updated>
+    <updated>2024-11-05T23:07:41.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 06, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
+        <id>https://www.youtube.com/watch?v=wcyNjkk8HSQ</id>
+        <link href="https://www.youtube.com/watch?v=wcyNjkk8HSQ"/>
+        <updated>2024-11-05T22:30:16.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=PNzGsK_IQT4</id>
@@ -12487,42 +12496,6 @@
         <updated>2024-10-07T11:30:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinavinte Minarathil | Adaminte Makan #hariharan #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=u4NXJkKNc6k</id>
-        <link href="https://www.youtube.com/watch?v=u4NXJkKNc6k"/>
-        <updated>2024-10-07T10:30:22.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaanana Kuyile | Forever Favourites #rahullexman #sonymohan #malayalamcover #unplugged #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=lTokbtCJqYE</id>
-        <link href="https://www.youtube.com/watch?v=lTokbtCJqYE"/>
-        <updated>2024-10-07T10:30:22.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irulaattiyoreemalamettil | Dhayabharathi | Lyrical Video | Hariharan | Kailash | K G Vijayakumar]]></title>
-        <id>https://www.youtube.com/watch?v=sOE9YHsldDQ</id>
-        <link href="https://www.youtube.com/watch?v=sOE9YHsldDQ"/>
-        <updated>2024-10-07T10:14:39.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൊന്നും പൂവും വാരി ചൂടാം Ponnum Poovum Song | Ishtamanu Nooruvattam | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=mdsnBl6kT2Y</id>
-        <link href="https://www.youtube.com/watch?v=mdsnBl6kT2Y"/>
-        <updated>2024-10-07T10:14:02.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
