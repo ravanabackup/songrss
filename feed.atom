@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T23:07:59.116Z</updated>
+    <updated>2024-11-05T00:38:05.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nin Snehathanalil |Sudeep Kumar |Joji Johns | Holy Communion Song | Chrisian Song |Joseph Muttuchira]]></title>
+        <id>https://www.youtube.com/watch?v=YglJKfXk0ec</id>
+        <link href="https://www.youtube.com/watch?v=YglJKfXk0ec"/>
+        <updated>2024-11-05T00:30:17.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 5th of November 2024 # Mathavinte Japamala # Dhukhathinte Rahasyangal 5th of November 24]]></title>
+        <id>https://www.youtube.com/watch?v=nsUniCDO9Ik</id>
+        <link href="https://www.youtube.com/watch?v=nsUniCDO9Ik"/>
+        <updated>2024-11-04T23:30:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നവംബർ: 05, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
         <id>https://www.youtube.com/watch?v=BMXx9VOfSH4</id>
@@ -12442,60 +12460,6 @@
         <updated>2024-10-06T13:00:13.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njanum Neeyum Video Song | Chithini | East Coast Vijayan | Ranjin Raj | Vinay Forrt,Arathy Nair | 4K]]></title>
-        <id>https://www.youtube.com/watch?v=ERz2v-jyWZ0</id>
-        <link href="https://www.youtube.com/watch?v=ERz2v-jyWZ0"/>
-        <updated>2024-10-06T12:30:28.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സാരമില്ല എന്നുപറയുവാൻ ആരും കാണില്ല | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=2FynZmhktAQ</id>
-        <link href="https://www.youtube.com/watch?v=2FynZmhktAQ"/>
-        <updated>2024-10-06T12:30:03.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിലെ വിഷമങ്ങൾ നീക്കും ഈ ഗാനങ്ങൾ | Kester | Prathyasha Geethangal | Old Is Gold | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=-9lKPuRgIg0</id>
-        <link href="https://www.youtube.com/watch?v=-9lKPuRgIg0"/>
-        <updated>2024-10-06T12:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 6th of October 2024]]></title>
-        <id>https://www.youtube.com/watch?v=nJHPO3-3e-4</id>
-        <link href="https://www.youtube.com/watch?v=nJHPO3-3e-4"/>
-        <updated>2024-10-06T11:30:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nenjile Video Song | Oru Kattil Oru Muri | Raghunath Paleri | Ankit Menon | 123Musix]]></title>
-        <id>https://www.youtube.com/watch?v=eTT2qYWOVfQ</id>
-        <link href="https://www.youtube.com/watch?v=eTT2qYWOVfQ"/>
-        <updated>2024-10-06T11:30:21.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alliyambal - Audio Song | Rosi | Job | K.J. Yesudas | P. Bhaskaran]]></title>
-        <id>https://www.youtube.com/watch?v=ZVcfvJQPeP4</id>
-        <link href="https://www.youtube.com/watch?v=ZVcfvJQPeP4"/>
-        <updated>2024-10-06T11:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
