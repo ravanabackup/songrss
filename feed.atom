@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T11:07:01.859Z</updated>
+    <updated>2024-11-05T12:14:48.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuyil Paattil Oonjal Video Song | Aparichithan | Sujatha Mohan | Gireesh Puthenchery | Suresh Peters]]></title>
+        <id>https://www.youtube.com/watch?v=ZcME0oFGiKM</id>
+        <link href="https://www.youtube.com/watch?v=ZcME0oFGiKM"/>
+        <updated>2024-11-05T12:03:32.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഗോതമ്പുമണിയിൽ തെളിയും നിൻരൂപം | #malayalamchristiandevotionalsongs #christianalbumsongs #jesussongs]]></title>
+        <id>https://www.youtube.com/watch?v=mW1WT_A_kcM</id>
+        <link href="https://www.youtube.com/watch?v=mW1WT_A_kcM"/>
+        <updated>2024-11-05T11:46:34.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jameelante Poovan kozhi | Official Trailer | Shaajahan | Mithun Nalini | Sooraj Pops |Bindu Panicker]]></title>
+        <id>https://www.youtube.com/watch?v=02EXJvELuNQ</id>
+        <link href="https://www.youtube.com/watch?v=02EXJvELuNQ"/>
+        <updated>2024-11-05T11:42:00.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Swapnathin - Audio Song | Achani | G. Devarajan | K. J. Yesudas | P. Bhaskaran]]></title>
+        <id>https://www.youtube.com/watch?v=ZPWIj1P4edM</id>
+        <link href="https://www.youtube.com/watch?v=ZPWIj1P4edM"/>
+        <updated>2024-11-05T11:30:21.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 5th of November 2024]]></title>
+        <id>https://www.youtube.com/watch?v=04xLOhOFlYQ</id>
+        <link href="https://www.youtube.com/watch?v=04xLOhOFlYQ"/>
+        <updated>2024-11-05T11:30:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Khalbiloru | One Way Ticket  #shortsfeed #shortsvideo #reels #manoramamusic #prithvirajsukumaran]]></title>
         <id>https://www.youtube.com/watch?v=sOpvYQ5MnPU</id>
@@ -121,6 +166,15 @@
         <updated>2024-11-05T04:30:05.000Z</updated>
         <author>
             <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandhaname Yeshu Rakshakanen | Jijo Mathew | P. P Mathew | Old Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=JzlQxlBVLu8</id>
+        <link href="https://www.youtube.com/watch?v=JzlQxlBVLu8"/>
+        <updated>2024-11-05T03:43:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12442,24 +12496,6 @@
         <updated>2024-10-07T00:30:23.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 7th of October 24 # Mathavinte Japamala Santhoshathinte Rahasyangal 7th of October 24]]></title>
-        <id>https://www.youtube.com/watch?v=nNVowZhmffo</id>
-        <link href="https://www.youtube.com/watch?v=nNVowZhmffo"/>
-        <updated>2024-10-06T23:30:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS | @JinoKunnumpurathu   #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=QQk-UKk-YuM</id>
-        <link href="https://www.youtube.com/watch?v=QQk-UKk-YuM"/>
-        <updated>2024-10-06T23:30:04.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
