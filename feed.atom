@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T04:10:18.541Z</updated>
+    <updated>2024-11-05T05:08:15.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Peru Vilikkayaano Video Song | Varnakkaazhchakal | K J Yesudas | K S Chitra | Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GA0O9pWyWXM</id>
+        <link href="https://www.youtube.com/watch?v=GA0O9pWyWXM"/>
+        <updated>2024-11-05T04:30:12.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhythms of love, echoing forever!🎶❤️#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Eri2ScW_rvo</id>
+        <link href="https://www.youtube.com/watch?v=Eri2ScW_rvo"/>
+        <updated>2024-11-05T04:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunrise Ride | Meiyazhagan | Karthi, Arvind Swami | Govind Vasantha | C.Premkumar]]></title>
+        <id>https://www.youtube.com/watch?v=uhMrO96KyKw</id>
+        <link href="https://www.youtube.com/watch?v=uhMrO96KyKw"/>
+        <updated>2024-11-05T04:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yeshu Varan Kalamay | Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=E7iYvqc09SY</id>
