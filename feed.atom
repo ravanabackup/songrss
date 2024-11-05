@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T17:07:38.087Z</updated>
+    <updated>2024-11-05T18:10:41.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th November 24]]></title>
+        <id>https://www.youtube.com/watch?v=PQUdU_jECH0</id>
+        <link href="https://www.youtube.com/watch?v=PQUdU_jECH0"/>
+        <updated>2024-11-05T18:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
         <id>https://www.youtube.com/watch?v=-ugwaWPWaPY</id>
@@ -12550,33 +12559,6 @@
         <updated>2024-10-07T06:30:02.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാർമുകിലെ വാനിൽ നീ | Vaarmukile Vanil Nee | Malayalam Film Song | MAZHA | K. S. Chitra]]></title>
-        <id>https://www.youtube.com/watch?v=2X9FuB3xbeo</id>
-        <link href="https://www.youtube.com/watch?v=2X9FuB3xbeo"/>
-        <updated>2024-10-07T05:58:51.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂങ്കനവിൻ നാണയങ്ങൾ | Poonkanavin Nanayangal | Churam Malayalam Film Song | K S Chithra | Divya Unni]]></title>
-        <id>https://www.youtube.com/watch?v=JfB2wVxvn1E</id>
-        <link href="https://www.youtube.com/watch?v=JfB2wVxvn1E"/>
-        <updated>2024-10-07T05:52:36.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakka Malayile |  Video Song | Mallu Singh | M.Jayachandran | Kunchako Boban | Unni Mukundan| Vysakh]]></title>
-        <id>https://www.youtube.com/watch?v=pf0aHbTGBxA</id>
-        <link href="https://www.youtube.com/watch?v=pf0aHbTGBxA"/>
-        <updated>2024-10-07T05:30:22.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
