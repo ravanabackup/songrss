@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T19:05:55.037Z</updated>
+    <updated>2024-11-06T20:09:06.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12388,15 +12388,6 @@
         <updated>2024-10-08T08:30:12.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എപ്പോൾ കേട്ടാലും വാത്സല്യം തുളുമ്പുന്ന പ്രിയപ്പെട്ട  അമ്മമാർ പാടിയ  മികച്ച ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=iD5xbjFLchk</id>
-        <link href="https://www.youtube.com/watch?v=iD5xbjFLchk"/>
-        <updated>2024-10-08T07:32:44.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
