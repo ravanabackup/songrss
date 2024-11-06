@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T00:37:47.219Z</updated>
+    <updated>2024-11-06T02:08:07.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12352,42 +12352,6 @@
         <updated>2024-10-07T14:15:06.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paathiraavaayi Neram Video Song | Vietnam Colony | Minmini | Bichu Thirumala | S Balakrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=owgXDNoCoh0</id>
-        <link href="https://www.youtube.com/watch?v=owgXDNoCoh0"/>
-        <updated>2024-10-07T14:00:59.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sallapam Kavithayayi | Kshanakathu | Kaithapram | Sharreth | KJ Yesudas | Evergreen Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=GNikZ6rk97E</id>
-        <link href="https://www.youtube.com/watch?v=GNikZ6rk97E"/>
-        <updated>2024-10-07T13:55:52.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeshoye Ninne Enikkenthorishttam | ഈശോയെ | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ | @JinoKunnumpurathu]]></title>
-        <id>https://www.youtube.com/watch?v=ZHx1Zfvz1NM</id>
-        <link href="https://www.youtube.com/watch?v=ZHx1Zfvz1NM"/>
-        <updated>2024-10-07T13:00:39.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaru Paranju Video Song | Pulival Kalyanam Movie Song | Berny Ignatius | Shafi | Jayasurya]]></title>
-        <id>https://www.youtube.com/watch?v=xKzRuuq8w2A</id>
-        <link href="https://www.youtube.com/watch?v=xKzRuuq8w2A"/>
-        <updated>2024-10-07T13:00:10.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
