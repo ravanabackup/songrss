@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T12:14:41.684Z</updated>
+    <updated>2024-11-06T13:16:18.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Angakale Video Song | Sathyam Sivam Sundaram | Kunchacko Boban | Shankar Mahadevan | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=avKHaQW2Zhc</id>
+        <link href="https://www.youtube.com/watch?v=avKHaQW2Zhc"/>
+        <updated>2024-11-06T13:13:40.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#entejanalarikil #sususudhivathmeekam #pjayachandran #bijibal #jayasurya #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=mcGREo5Jw14</id>
+        <link href="https://www.youtube.com/watch?v=mcGREo5Jw14"/>
+        <updated>2024-11-06T13:04:06.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mulmudi njaan കണ്ണ് നിറയ്ക്കും ഈ ഗാനം  |     @JinoKunnumpurathu       #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=pW2SPBlPTuk</id>
+        <link href="https://www.youtube.com/watch?v=pW2SPBlPTuk"/>
+        <updated>2024-11-06T13:01:08.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnayam Minnum Katte Video Song | Ananthabhadram | Kavya Madhavan | Prithviraj | Manoj K Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=5sxrYzN-rxU</id>
+        <link href="https://www.youtube.com/watch?v=5sxrYzN-rxU"/>
+        <updated>2024-11-06T13:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalinnagadhamaam Video Song | Sukrutham | Mammootty | Shanthi Krishna | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=MS0eUeyWOQA</id>
+        <link href="https://www.youtube.com/watch?v=MS0eUeyWOQA"/>
+        <updated>2024-11-06T12:44:34.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിന്നെ കരുതുന്ന ദൈവം കൂടെയുണ്ട് | Prathyasha Geethangal | Kester | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=sVKIl-Ti03g</id>
+        <link href="https://www.youtube.com/watch?v=sVKIl-Ti03g"/>
+        <updated>2024-11-06T12:30:57.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അന്യരുടെ രഹസ്യവുമായി വരുന്നവരെ സൂക്ഷിക്കുക  |  😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=pHa8ES-eBpw</id>
+        <link href="https://www.youtube.com/watch?v=pHa8ES-eBpw"/>
+        <updated>2024-11-06T12:30:51.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മരിയ കോലടിയും പ്രിൻസ് പരത്തിനാൽ CMI അച്ചനും കൂനമ്മാവ് ദേവാലയത്തിൽ പാടിയ ഒരു വി. കുർബാനപ്രവേശനഗാനം]]></title>
+        <id>https://www.youtube.com/watch?v=7MftOXx4V8Y</id>
+        <link href="https://www.youtube.com/watch?v=7MftOXx4V8Y"/>
+        <updated>2024-11-06T12:30:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaalam Thelinju | Oru Anweshanathinte Thudakkam |Video|Prabha Varma| M Jayachandran | Kapil Kapilan]]></title>
+        <id>https://www.youtube.com/watch?v=F0TUl65J-SQ</id>
+        <link href="https://www.youtube.com/watch?v=F0TUl65J-SQ"/>
+        <updated>2024-11-06T12:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ലോകയാത്രയിൽ | Super Hit Malayalam Christian Devotional Songs | Spiritual Songs | Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=o3t4ujEJTJ8</id>
@@ -13,6 +94,15 @@
         <updated>2024-11-06T12:05:06.000Z</updated>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaramya Sreerangame Video Song | Ee Thanalil Ithiri Neram Movie Song | Mammootty |Shobhana |S Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=I8FsJ2J_Ua8</id>
+        <link href="https://www.youtube.com/watch?v=I8FsJ2J_Ua8"/>
+        <updated>2024-11-06T10:46:57.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
@@ -12343,15 +12433,6 @@
         <updated>2024-10-08T03:15:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parama Pithavin Sthuthipadam | Prayer and Worship Songs | Binoy Chacko | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=apHmuOQNYuE</id>
-        <link href="https://www.youtube.com/watch?v=apHmuOQNYuE"/>
-        <updated>2024-10-08T00:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
