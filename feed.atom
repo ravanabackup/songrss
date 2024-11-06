@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T21:07:25.241Z</updated>
+    <updated>2024-11-06T22:07:38.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=gBSwqTDZaak</id>
+        <link href="https://www.youtube.com/watch?v=gBSwqTDZaak"/>
+        <updated>2024-11-06T22:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മരിയ കോലടിയും പ്രിൻസ്  അച്ചനും കൂനമ്മാവ് ദേവാലയത്തിൽ പാടിയ ഒരു വി. കുർബാനപ്രവേശനഗാനം]]></title>
+        <id>https://www.youtube.com/watch?v=3RE_uaEKzas</id>
+        <link href="https://www.youtube.com/watch?v=3RE_uaEKzas"/>
+        <updated>2024-11-06T21:46:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 7 # Athiravile Prarthana 7th of November 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Aqf_o4Xwcco</id>
@@ -12361,15 +12379,6 @@
         <updated>2024-10-08T10:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#OnceMore meets #UllamKetkume 🤍 #harrisjayaraj #arjundas #aditishankar #vigneshsrikanth]]></title>
-        <id>https://www.youtube.com/watch?v=Zn5jqvq9R2I</id>
-        <link href="https://www.youtube.com/watch?v=Zn5jqvq9R2I"/>
-        <updated>2024-10-08T09:35:20.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
