@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T15:08:04.212Z</updated>
+    <updated>2024-11-06T16:09:56.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=yurfVpol_yY</id>
+        <link href="https://www.youtube.com/watch?v=yurfVpol_yY"/>
+        <updated>2024-11-06T16:01:01.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ |  Nanni Nanni | Pr. Charles Jacob |  Roji Ponnachan | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=5t8NAfMhYXI</id>
+        <link href="https://www.youtube.com/watch?v=5t8NAfMhYXI"/>
+        <updated>2024-11-06T15:30:01.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innayolam Enne Nadathi | ഇന്നയോളം എന്നെ | Malayalam Christian devotional song | Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=ODpH16IGGk4</id>
@@ -12478,33 +12496,6 @@
         <updated>2024-10-08T04:30:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Anyamaay | K J Yesudas | Christian Shorts #miraculousmelodies]]></title>
-        <id>https://www.youtube.com/watch?v=HviPoE7jSN8</id>
-        <link href="https://www.youtube.com/watch?v=HviPoE7jSN8"/>
-        <updated>2024-10-08T04:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimbilappa Jimbile |Tribal Song| Anjana Teacher #shortsfeed #shortsvideo #shorts #reels #tribalsong]]></title>
-        <id>https://www.youtube.com/watch?v=dRFiHkVlDf8</id>
-        <link href="https://www.youtube.com/watch?v=dRFiHkVlDf8"/>
-        <updated>2024-10-08T03:30:30.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramaraja | Mithila Michael #shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=6wAkmqNXo08</id>
-        <link href="https://www.youtube.com/watch?v=6wAkmqNXo08"/>
-        <updated>2024-10-08T03:15:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
