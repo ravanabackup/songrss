@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T11:06:51.445Z</updated>
+    <updated>2024-11-07T12:14:15.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 7th of November 2024]]></title>
+        <id>https://www.youtube.com/watch?v=8TdFOTOFkHE</id>
+        <link href="https://www.youtube.com/watch?v=8TdFOTOFkHE"/>
+        <updated>2024-11-07T11:30:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Kaliyile | Two Men Army | Anvar Sadath | Antony Paul | Ajay Joseph | Nissar | Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=WAtY3wLSx4M</id>
+        <link href="https://www.youtube.com/watch?v=WAtY3wLSx4M"/>
+        <updated>2024-11-07T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaazhai's Surprise - Video| Vaazhai |Kalaiyarasan,Dhivya Duraisamy|Santhosh Narayanan |Mari Selvaraj]]></title>
+        <id>https://www.youtube.com/watch?v=alEAdcmjtwI</id>
+        <link href="https://www.youtube.com/watch?v=alEAdcmjtwI"/>
+        <updated>2024-11-07T11:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അലൈപായുതേ കണ്ണാ | Alaipayuthe Kanna | Munnilonnu | Super Hit Movie Song | K  S  Chitra]]></title>
         <id>https://www.youtube.com/watch?v=ITEeOl4juok</id>
@@ -12289,24 +12316,6 @@
         <updated>2024-10-09T00:30:40.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 9th of October 24 # Mathavinte Japamala Mahimayude Rahasyangal 9th of October 24]]></title>
-        <id>https://www.youtube.com/watch?v=InrnPLbKUng</id>
-        <link href="https://www.youtube.com/watch?v=InrnPLbKUng"/>
-        <updated>2024-10-08T23:30:06.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നത്തെ തിരുവചനം ✨✝️❤️ | ZIONCLASSICS |  @ZionClassics     #biblequotes #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=1jSO0OTTAWw</id>
-        <link href="https://www.youtube.com/watch?v=1jSO0OTTAWw"/>
-        <updated>2024-10-08T23:30:00.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
