@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T06:11:30.073Z</updated>
+    <updated>2024-11-07T07:07:41.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melleyen Kannile Video Song | Kusruthi Kuruppu | Jayaram | Meena | KJ Yesudas | KS Chithra | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=37ch_xhd3xk</id>
+        <link href="https://www.youtube.com/watch?v=37ch_xhd3xk"/>
+        <updated>2024-11-07T06:54:08.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ലോക  യാത്രയിൽ | #bestmalayalamchristiandevotionalsongs #christianalbumsongs #jesussongs]]></title>
         <id>https://www.youtube.com/watch?v=4eysYcddhoI</id>
@@ -12242,15 +12251,6 @@
         <id>https://www.youtube.com/watch?v=-mVHGU1V7cs</id>
         <link href="https://www.youtube.com/watch?v=-mVHGU1V7cs"/>
         <updated>2024-10-08T22:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 9 # Athiravile Prarthana 9th of October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_yEAdGrYYV4</id>
-        <link href="https://www.youtube.com/watch?v=_yEAdGrYYV4"/>
-        <updated>2024-10-08T19:00:31.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
