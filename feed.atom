@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-07T21:07:07.485Z</updated>
+    <updated>2024-11-07T22:07:28.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=nkrdsUnyQdo</id>
+        <link href="https://www.youtube.com/watch?v=nkrdsUnyQdo"/>
+        <updated>2024-11-07T22:00:27.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 8 # Athiravile Prarthana 8th of November 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=K6m7jO8G5rI</id>
@@ -12325,24 +12334,6 @@
         <updated>2024-10-09T10:09:07.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തരിവള കയ്യാലെന്നെ വിളിച്ചതെന്തിന് നീ ജമീല..!! Tharivala Kayyal Enne | Dileep | Kavya Madhavan]]></title>
-        <id>https://www.youtube.com/watch?v=wzM-minEe8s</id>
-        <link href="https://www.youtube.com/watch?v=wzM-minEe8s"/>
-        <updated>2024-10-09T10:01:12.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#iniyumkaananvaram #adiosamigo #asifali #jakesbejoy #vinayaksasikumar #najimarshad #anagha #trending]]></title>
-        <id>https://www.youtube.com/watch?v=1740K1h9G_E</id>
-        <link href="https://www.youtube.com/watch?v=1740K1h9G_E"/>
-        <updated>2024-10-09T09:50:46.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
