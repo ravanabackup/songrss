@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T16:09:28.901Z</updated>
+    <updated>2024-11-08T17:06:38.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#BeerSong 🎶❤️ #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
+        <id>https://www.youtube.com/watch?v=NZGWodnfRs4</id>
+        <link href="https://www.youtube.com/watch?v=NZGWodnfRs4"/>
+        <updated>2024-11-08T16:31:32.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Makkasai Video Song | Vettam | MG Sreekumar | Nadirsha | Berny Ignatius]]></title>
         <id>https://www.youtube.com/watch?v=Xdj-jD_zH2E</id>
