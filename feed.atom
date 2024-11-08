@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T07:07:43.665Z</updated>
+    <updated>2024-11-08T08:10:51.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വീട്ടിലുള്ള എല്ലാവര്ക്കും ഒരുപോലെ ഇഷ്‌ടമുള്ള  ജനപ്രിയ ഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=BLMjqp2hymI</id>
+        <link href="https://www.youtube.com/watch?v=BLMjqp2hymI"/>
+        <updated>2024-11-08T08:02:26.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മിന്നാമിന്നി ഇത്തിരിപ്പോന്നിൻ | Minnaminni Song | Priyam]]></title>
+        <id>https://www.youtube.com/watch?v=R4-kaCeYrhI</id>
+        <link href="https://www.youtube.com/watch?v=R4-kaCeYrhI"/>
+        <updated>2024-11-08T07:15:01.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മുത്തും മുടിപ്പൊന്നും | Muthum Mudi Ponnum | Prema Geethangal Movie Song | K J Yesudas | Vanijayaram]]></title>
         <id>https://www.youtube.com/watch?v=tN5WR0jyrUQ</id>
@@ -12143,15 +12161,6 @@
         <id>https://www.youtube.com/watch?v=eT4xF4apCj4</id>
         <link href="https://www.youtube.com/watch?v=eT4xF4apCj4"/>
         <updated>2024-10-09T22:00:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITHA NINTE AMMA DAY 10]]></title>
-        <id>https://www.youtube.com/watch?v=TkHc5JwIxzM</id>
-        <link href="https://www.youtube.com/watch?v=TkHc5JwIxzM"/>
-        <updated>2024-10-09T19:43:18.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
