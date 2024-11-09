@@ -6191,16 +6191,6 @@
           "wordCount": null,
           "title": "Thumbi Penne Vava Video Song | Dhruvam | Jayaram | Mammootty | Gouthami| Rudra |KJ Yesudas | Sujatha",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WoQRUyAqvCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WoQRUyAqvCk",
-          "publishedOn": "2024-10-11T07:06:49.000Z",
-          "wordCount": null,
-          "title": "ഷാരോണിൽ വിരിയും Saronil Viriyum  | Koodikazhcha | KS Chithra | MG Sreekumar | SP Venkitesh",
-          "imageUrl": null
         }
       ]
     },
@@ -7761,16 +7751,6 @@
           "publishedOn": "2024-10-12T07:30:19.000Z",
           "wordCount": null,
           "title": "ഹൃദയം കവരും മെലഡി ഗാനങ്ങളുമായി മലയാളികളുടെ മനസിൽ കുടിയേറിയ ജോൺസൺ മാഷിന്റെ സൂപ്പർഹിറ്റ്  ഗാനങ്ങൾ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qlKnrtyApLw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qlKnrtyApLw",
-          "publishedOn": "2024-10-11T08:01:52.000Z",
-          "wordCount": null,
-          "title": "ആദ്യം കേട്ടനാൾ തൊട്ട് മനസിൽ സ്ഥാനം പിടിച്ച മലയാളസിനിമാഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM",
           "imageUrl": null
         }
       ]
@@ -10713,7 +10693,18 @@
       "title": "GOODWILL ENTERTAINMENTS",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq6f9bBWaWTHl0FhH167RgA",
       "siteUrl": "https://www.youtube.com/channel/UCq6f9bBWaWTHl0FhH167RgA",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=v8MNgoYHWWk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v8MNgoYHWWk",
+          "publishedOn": "2024-10-13T13:30:07.000Z",
+          "wordCount": null,
+          "title": "Prathibha Tutorials Malayalam Full Movie | Sudheesh | Johny Antony | Abhilash Raghavan |Althaf Salim",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "satyamjukebox",
