@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T20:07:48.055Z</updated>
+    <updated>2024-11-09T21:05:58.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12010,15 +12010,6 @@
         <updated>2024-10-11T09:46:07.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🕺 Feel the rush, lose yourself! 🔥#NadannaSambavam #BijuMenon #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=M5VG_6gvvxs</id>
-        <link href="https://www.youtube.com/watch?v=M5VG_6gvvxs"/>
-        <updated>2024-10-11T08:39:19.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
