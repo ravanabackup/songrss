@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T14:07:18.099Z</updated>
+    <updated>2024-11-09T15:08:01.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9 November 2024]]></title>
+        <id>https://www.youtube.com/watch?v=IZagIPpL8dw</id>
+        <link href="https://www.youtube.com/watch?v=IZagIPpL8dw"/>
+        <updated>2024-11-09T14:37:18.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithratholam Yahova Sahayichu ഇത്രത്തോളം യഹോവ | D. Ajithkumar | Sreya Anna Joseph #matchpointfaith]]></title>
+        <id>https://www.youtube.com/watch?v=036CY2Pn87E</id>
+        <link href="https://www.youtube.com/watch?v=036CY2Pn87E"/>
+        <updated>2024-11-09T14:31:30.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paathiraavaayi Neram | Vietnam Colony | S Balakrishnan | Minmini | Bichu Thirumala #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=ylqgHcg2acs</id>
+        <link href="https://www.youtube.com/watch?v=ylqgHcg2acs"/>
+        <updated>2024-11-09T14:30:23.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjakiliyude Moolipattunde  | Mohanlal | Gireesh Puthenchery | Raveendran | KJ Yesudas |]]></title>
+        <id>https://www.youtube.com/watch?v=UrSMm2NoUI8</id>
+        <link href="https://www.youtube.com/watch?v=UrSMm2NoUI8"/>
+        <updated>2024-11-09T14:30:12.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thekkunnu Nammaloru Video Song | Raarichan Enna Pauran | Gayathri Sreekrishnan #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=67i-yjH5Ld4</id>
+        <link href="https://www.youtube.com/watch?v=67i-yjH5Ld4"/>
+        <updated>2024-11-09T14:30:03.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shyamambaram Neele|Atham Movie Song|Mammootty|Sharanya|Srinivasan|]]></title>
+        <id>https://www.youtube.com/watch?v=4tToBOJN-LU</id>
+        <link href="https://www.youtube.com/watch?v=4tToBOJN-LU"/>
+        <updated>2024-11-09T14:21:48.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | Kester | KG Markose | Christian Devotional Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=wFGNdFX2wa0</id>
@@ -12172,15 +12226,6 @@
         <updated>2024-10-11T03:30:14.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parisudhan Mahonnatha Devan | Rev. Bhakthavalsalan | Shorts #shortsvideo #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=qACOJs10JGI</id>
-        <link href="https://www.youtube.com/watch?v=qACOJs10JGI"/>
-        <updated>2024-10-11T03:00:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
