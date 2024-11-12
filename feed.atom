@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T14:07:54.231Z</updated>
+    <updated>2024-11-12T15:08:25.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Christian devotional song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=YWPXhnbU44g</id>
+        <link href="https://www.youtube.com/watch?v=YWPXhnbU44g"/>
+        <updated>2024-11-12T15:00:41.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anirudh Ravichander, Ravi G - Jang Chhede (From "Vettaiyan The Hunter (Hindi)")]]></title>
+        <id>https://www.youtube.com/watch?v=Aq72_jXvsrE</id>
+        <link href="https://www.youtube.com/watch?v=Aq72_jXvsrE"/>
+        <updated>2024-11-12T14:45:47.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #sadhukochukunjupadeshi #mariakolady]]></title>
+        <id>https://www.youtube.com/watch?v=sIpHW83Jp2c</id>
+        <link href="https://www.youtube.com/watch?v=sIpHW83Jp2c"/>
+        <updated>2024-11-12T14:44:17.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mindathathenthe Kili Penne| Vishnulokam  |Kaithapram| MG Sreekumar | Raveendran #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=kieZfPPYdvc</id>
+        <link href="https://www.youtube.com/watch?v=kieZfPPYdvc"/>
+        <updated>2024-11-12T14:30:30.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhathullikal Video Song | Vettom | MG Sreekumar | Berny Ignatius | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=lZ7UpPpR7xU</id>
+        <link href="https://www.youtube.com/watch?v=lZ7UpPpR7xU"/>
+        <updated>2024-11-12T14:30:30.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katturumbinu Kalyanam | KJ Yesudas | KS Chithra | Berny Ignatius| Priyam #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7NaVIPGubHw</id>
+        <link href="https://www.youtube.com/watch?v=7NaVIPGubHw"/>
+        <updated>2024-11-12T14:30:05.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruthu Ruthu Aayiye Video Song | Sarkar Dada | Jayaram | MG Sreekumar | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=ynTt3JrYrwo</id>
@@ -12010,15 +12064,6 @@
         <updated>2024-10-14T03:08:49.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandhi Yeshuve Christian Devotional Lyrical Reel 02]]></title>
-        <id>https://www.youtube.com/watch?v=NkySEFRQVTU</id>
-        <link href="https://www.youtube.com/watch?v=NkySEFRQVTU"/>
-        <updated>2024-10-14T03:00:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
