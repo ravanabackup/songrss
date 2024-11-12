@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T06:11:46.974Z</updated>
+    <updated>2024-11-12T07:07:54.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വെണ്ണിലാവ് പോലും | Aaro Viral Meetti Shorts #AaroViralMeetti #pranayavarnangal]]></title>
+        <id>https://www.youtube.com/watch?v=-04d9CZbSqA</id>
+        <link href="https://www.youtube.com/watch?v=-04d9CZbSqA"/>
+        <updated>2024-11-12T07:00:00.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തുടർക്കിനാക്കളിൽ | Thudarkinakkalil | gandhi nagar 2nd street | Movie song | Mohanlal | K J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=HF-4_9RQRHc</id>
@@ -11864,15 +11873,6 @@
         <id>https://www.youtube.com/watch?v=bUa5BPoSoR0</id>
         <link href="https://www.youtube.com/watch?v=bUa5BPoSoR0"/>
         <updated>2024-10-13T19:21:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥനOctober 14 # Athiravile Prarthana 14th October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=i44zaNgPSP0</id>
-        <link href="https://www.youtube.com/watch?v=i44zaNgPSP0"/>
-        <updated>2024-10-13T19:00:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
