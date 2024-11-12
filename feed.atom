@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-12T09:08:19.831Z</updated>
+    <updated>2024-11-12T10:08:32.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Jeevante Nadhan | Super Hit Malayalam Christian Devotional Songs | Jesus Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=P3-USocG7lo</id>
+        <link href="https://www.youtube.com/watch?v=P3-USocG7lo"/>
+        <updated>2024-11-12T09:42:42.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എവർഗ്രീൻ ഗാനങ്ങൾ |Malayalam Evergreen film Songs | Hits of KJ Yesudas| Malayalam Hits| Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=X1GxLki241Q</id>
@@ -11911,15 +11920,6 @@
         <updated>2024-10-13T22:30:10.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=KIWfIBbFhEQ</id>
-        <link href="https://www.youtube.com/watch?v=KIWfIBbFhEQ"/>
-        <updated>2024-10-13T22:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
