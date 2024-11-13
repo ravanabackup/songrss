@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T13:16:18.430Z</updated>
+    <updated>2024-11-13T14:07:51.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melleyen Kannile Kunju Kannadiyil Video Song | Kusruthi Kuruppu | Jayaram | K J Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=cHZacALpkRo</id>
+        <link href="https://www.youtube.com/watch?v=cHZacALpkRo"/>
+        <updated>2024-11-13T14:00:41.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthedi Enthedi Panam Kiliye | Gireesh Puthenchery | Mohanlal | Sneha | KS Chithra | Sudeep Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=fiuW2C4fmIs</id>
+        <link href="https://www.youtube.com/watch?v=fiuW2C4fmIs"/>
+        <updated>2024-11-13T13:44:16.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാരിലെങ്ങും ശാന്തി വിതക്കും സ്വർഗ്ഗീയ സുന്ദര ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Carol Songs 2024]]></title>
+        <id>https://www.youtube.com/watch?v=WqNW4fSYOGM</id>
+        <link href="https://www.youtube.com/watch?v=WqNW4fSYOGM"/>
+        <updated>2024-11-13T13:30:21.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎼Nalla Porattam Poradi.. #matchpointfaith #poojaprem #MalayalamChristianDevotionalSongs]]></title>
         <id>https://www.youtube.com/watch?v=_XPMQpC8hx0</id>
