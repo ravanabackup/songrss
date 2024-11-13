@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T04:10:09.330Z</updated>
+    <updated>2024-11-13T05:08:34.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ചിങ്കാരക്കിന്നാരം | Chinkarakinnaram | Minnaram | Malayalam Movie Hit Song | Mohanlal | Shobhana]]></title>
+        <id>https://www.youtube.com/watch?v=k2UDJcBfUEg</id>
+        <link href="https://www.youtube.com/watch?v=k2UDJcBfUEg"/>
+        <updated>2024-11-13T05:02:11.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn up the fun, let’s groove!🎶💥#ReadyaMaaran #Dabzee #HelloMummy #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=zeCaI9QnUu0</id>
+        <link href="https://www.youtube.com/watch?v=zeCaI9QnUu0"/>
+        <updated>2024-11-13T04:30:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pullikuyile Kallikuyile | Tharakangale Sakshi | K S Chithra | Jinto John | Darshana]]></title>
+        <id>https://www.youtube.com/watch?v=DKtS_0bRVuI</id>
+        <link href="https://www.youtube.com/watch?v=DKtS_0bRVuI"/>
+        <updated>2024-11-13T04:30:05.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhthi Sthuthikkumennum Njan | Anna Baby | Shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=daJRzwbvKnU</id>
@@ -3611,6 +3638,15 @@
         <id>https://www.youtube.com/watch?v=k-OfaxYRFpY</id>
         <link href="https://www.youtube.com/watch?v=k-OfaxYRFpY"/>
         <updated>2024-11-03T14:55:46.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jukebox | EnnumKelkkunna Chalachithraganangal | Malayalam Film Songs | Nonstop Malayalam Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=M78HLh7BTBE</id>
+        <link href="https://www.youtube.com/watch?v=M78HLh7BTBE"/>
+        <updated>2024-11-03T14:45:52.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
