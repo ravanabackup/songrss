@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T08:11:10.233Z</updated>
+    <updated>2024-11-13T09:08:19.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[K For Krishna - Video Lyrical | Guruvayoorambala Nadayil | Prithviraj | Basil |Anaswara |Ankit Menon]]></title>
+        <id>https://www.youtube.com/watch?v=gAwRLX1oNRM</id>
+        <link href="https://www.youtube.com/watch?v=gAwRLX1oNRM"/>
+        <updated>2024-11-13T08:30:29.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lal Salaam (Telugu) - Ae Bulley Video | Rajinikanth | AR Rahman | Vishnu Vishal]]></title>
+        <id>https://www.youtube.com/watch?v=fawRe1vGj4E</id>
+        <link href="https://www.youtube.com/watch?v=fawRe1vGj4E"/>
+        <updated>2024-11-13T08:00:35.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lal Salaam (Telugu) - Jalali Video | Rajinikanth | AR Rahman | Vishnu Vishal]]></title>
+        <id>https://www.youtube.com/watch?v=WL9QJo650Sc</id>
+        <link href="https://www.youtube.com/watch?v=WL9QJo650Sc"/>
+        <updated>2024-11-13T08:00:22.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manatharilennum | Kaliyil Alpam Karyam | Raveendran | KJ Yesudas | Mohanlal hits]]></title>
         <id>https://www.youtube.com/watch?v=PVPBTjoFQ7s</id>
