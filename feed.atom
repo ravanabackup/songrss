@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T06:11:49.932Z</updated>
+    <updated>2024-11-14T07:08:32.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinne Ennodonnum Video Song | Shikkar | Mohanlal | Sneha | Gireesh Puthenchery | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=qNjtok_Adhk</id>
+        <link href="https://www.youtube.com/watch?v=qNjtok_Adhk"/>
+        <updated>2024-11-14T07:07:12.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏതോ മിഴി നീരിൽ | Aaro Viral Meetti Shorts #AaroViralMeetti #pranayavarnangal]]></title>
+        <id>https://www.youtube.com/watch?v=js3F0WS-El0</id>
+        <link href="https://www.youtube.com/watch?v=js3F0WS-El0"/>
+        <updated>2024-11-14T07:00:23.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൊന്‍ വീണേ എന്നുള്ളിന്‍ | Pon Veene Ennullil | Thalavattam | Malayalam Movie Hit Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=D6qYk2-NSmQ</id>
+        <link href="https://www.youtube.com/watch?v=D6qYk2-NSmQ"/>
+        <updated>2024-11-14T06:46:26.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thamburatti  | Kanipayyur Kaikottikali Sangham #thiruvathira #thiruvathirakali #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=xWMsHhZYOyk</id>
@@ -11945,15 +11972,6 @@
         <id>https://www.youtube.com/watch?v=kKj46x2v9NM</id>
         <link href="https://www.youtube.com/watch?v=kKj46x2v9NM"/>
         <updated>2024-10-15T22:00:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 16 # Athiravile Prarthana 16th October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=EC-6AQhu0K4</id>
-        <link href="https://www.youtube.com/watch?v=EC-6AQhu0K4"/>
-        <updated>2024-10-15T19:00:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
