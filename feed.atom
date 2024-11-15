@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-15T14:08:22.109Z</updated>
+    <updated>2024-11-15T15:08:13.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=CJNgp2THKgc</id>
+        <link href="https://www.youtube.com/watch?v=CJNgp2THKgc"/>
+        <updated>2024-11-15T15:00:13.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadhalivaazha Kayyilirunnu🎶 | Umma | MS Baburaj #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=gjQkiJrPR00</id>
+        <link href="https://www.youtube.com/watch?v=gjQkiJrPR00"/>
+        <updated>2024-11-15T14:45:07.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalli Poonkuyile | Thenmavin Kombath  | Berny Ignatius | Gireesh Puthenchery #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=EtODxOBd0MA</id>
+        <link href="https://www.youtube.com/watch?v=EtODxOBd0MA"/>
+        <updated>2024-11-15T14:30:12.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pallitherundo | Jayaram | Sithara | G Venugopal | Sujatha Mohan |  Johnson | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=QdEyff5LZYE</id>
+        <link href="https://www.youtube.com/watch?v=QdEyff5LZYE"/>
+        <updated>2024-11-15T14:30:11.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuvalayappoo | DineshPoochakkad | ShajiKanhangad | HarisTaliparamb | KavyaRiju | Ramanum kadeejayum]]></title>
+        <id>https://www.youtube.com/watch?v=_6CYoWcOQbc</id>
+        <link href="https://www.youtube.com/watch?v=_6CYoWcOQbc"/>
+        <updated>2024-11-15T14:30:06.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thumbi Penne Vaa Vaa | Evergreen Malayalam Movie Song | Dhruvam | Mammootty | Jayaram | Rudra]]></title>
         <id>https://www.youtube.com/watch?v=FjWG9t2e_Nk</id>
@@ -12181,15 +12226,6 @@
         <updated>2024-10-17T03:30:26.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parisudhan | Rev. Bhakthavalsalan | Shorts #shortsvideo #ytshorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=JueDEUFwKFA</id>
-        <link href="https://www.youtube.com/watch?v=JueDEUFwKFA"/>
-        <updated>2024-10-17T03:00:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
