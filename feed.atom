@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T14:06:39.731Z</updated>
+    <updated>2024-11-17T15:07:01.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=gDEHv6haAJg</id>
+        <link href="https://www.youtube.com/watch?v=gDEHv6haAJg"/>
+        <updated>2024-11-17T15:00:46.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravu Pathi Poyi | Cheppadividya Movie Song | KJ Yesudas | Sujatha Mohan | Sudheesh]]></title>
+        <id>https://www.youtube.com/watch?v=iimq2LTHj94</id>
+        <link href="https://www.youtube.com/watch?v=iimq2LTHj94"/>
+        <updated>2024-11-17T14:30:30.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadaleevanangalkkarikilallo Video Song | Othenante Makan | P Susheela #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=I29ZINCwYHo</id>
+        <link href="https://www.youtube.com/watch?v=I29ZINCwYHo"/>
+        <updated>2024-11-17T14:30:11.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalabham Tharaam | Vadakkumnathan | Raveendran | Gireesh Puthenchery | K S Chithra  #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=5tqVpHHD_Ds</id>
+        <link href="https://www.youtube.com/watch?v=5tqVpHHD_Ds"/>
+        <updated>2024-11-17T14:30:01.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Mummyfied | Hello Mummy | Adhri Joe | Aswin Ram | Sharaf U Dheen, Aishwarya Lekshmi]]></title>
+        <id>https://www.youtube.com/watch?v=gpRiLbKVrbg</id>
+        <link href="https://www.youtube.com/watch?v=gpRiLbKVrbg"/>
+        <updated>2024-11-17T14:15:43.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കരോൾ മത്സരങ്ങൾക്ക് സമ്മാനം നേടിത്തരുന്ന ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Carol Songs | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=rbcfbSWlCuo</id>
