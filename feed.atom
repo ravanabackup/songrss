@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T00:43:37.780Z</updated>
+    <updated>2024-11-17T02:20:31.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12082,60 +12082,6 @@
         <updated>2024-10-18T14:30:08.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangalangalarulum | Kshanakathu | Kaithapram | Sharreth | KS Chithra | Evergreen Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=mJZTF1Hpfm8</id>
-        <link href="https://www.youtube.com/watch?v=mJZTF1Hpfm8"/>
-        <updated>2024-10-18T13:30:29.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | MG Sreekumar | Joji Johns | Christian Melody Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=moI0qam-r4c</id>
-        <link href="https://www.youtube.com/watch?v=moI0qam-r4c"/>
-        <updated>2024-10-18T13:30:28.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankith Gupta - Artist Reveal | Think Indie]]></title>
-        <id>https://www.youtube.com/watch?v=DOVuU9RdDAw</id>
-        <link href="https://www.youtube.com/watch?v=DOVuU9RdDAw"/>
-        <updated>2024-10-18T13:30:05.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhavillin Kottarathil Video Song | Indraprastham | Simran | Akshay Anand | Vidyasagar | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=KVKG0ueYSpI</id>
-        <link href="https://www.youtube.com/watch?v=KVKG0ueYSpI"/>
-        <updated>2024-10-18T13:19:00.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaradhanayennum Eeshok | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ |  @JinoKunnumpurathu   #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=clDNSW8sP0Y</id>
-        <link href="https://www.youtube.com/watch?v=clDNSW8sP0Y"/>
-        <updated>2024-10-18T13:00:50.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyarinjo Neelakkuzhali Video Song | Sadanandante Samayam | K J Yesudas | Dilleep | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=90_YwBTK_qU</id>
-        <link href="https://www.youtube.com/watch?v=90_YwBTK_qU"/>
-        <updated>2024-10-18T13:00:15.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
