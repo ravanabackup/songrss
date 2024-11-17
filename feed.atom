@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T02:20:31.128Z</updated>
+    <updated>2024-11-17T03:24:19.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -724,6 +724,15 @@
         <updated>2024-11-15T12:30:09.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Kandatha Sare – Bhoomiyil Video Song | Indrajith Sukumaran| Varun G Panicker | Manu Ramesan]]></title>
+        <id>https://www.youtube.com/watch?v=7p3_CZMm78o</id>
+        <link href="https://www.youtube.com/watch?v=7p3_CZMm78o"/>
+        <updated>2024-11-15T12:17:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -12037,51 +12046,6 @@
         <updated>2024-10-18T16:50:56.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonilamazha Video Song|Manathe Kottaram|Suresh Gopi|Khushbu|]]></title>
-        <id>https://www.youtube.com/watch?v=rv66j1xxuCo</id>
-        <link href="https://www.youtube.com/watch?v=rv66j1xxuCo"/>
-        <updated>2024-10-18T15:03:54.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎼Eesho Nee Vannalumen #matchpointfaith]]></title>
-        <id>https://www.youtube.com/watch?v=WVSZ1rfKYHQ</id>
-        <link href="https://www.youtube.com/watch?v=WVSZ1rfKYHQ"/>
-        <updated>2024-10-18T14:50:19.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kunjupoovinte- Chandranudikkunna Dikkil | Vidyasagar | K J Yesudas | S Ramesan Nair#songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=tAOuJMMFbGg</id>
-        <link href="https://www.youtube.com/watch?v=tAOuJMMFbGg"/>
-        <updated>2024-10-18T14:30:32.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paalnilaavinum  | Kaboolivala l SP Venkitesh | Innocent | Jagathy Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=w5HBcC5Kb4Q</id>
-        <link href="https://www.youtube.com/watch?v=w5HBcC5Kb4Q"/>
-        <updated>2024-10-18T14:30:26.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഊരുവലം വരും🎧❤️ | Vietnam Colony | MG Sreekumar #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=HmsHhdoP3b0</id>
-        <link href="https://www.youtube.com/watch?v=HmsHhdoP3b0"/>
-        <updated>2024-10-18T14:30:08.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
 </feed>
