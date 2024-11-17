@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T19:03:41.818Z</updated>
+    <updated>2024-11-17T20:08:18.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12082,24 +12082,6 @@
         <updated>2024-10-19T10:30:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒത്തിരി നല്ല ഗാനങ്ങൾ പിറന്ന  തൊണ്ണൂറുകളിലെ സുന്ദര ഗാനങ്ങൾ  | Evergreen Malayalam Film  Songs]]></title>
-        <id>https://www.youtube.com/watch?v=RW8kI1NcG-A</id>
-        <link href="https://www.youtube.com/watch?v=RW8kI1NcG-A"/>
-        <updated>2024-10-19T07:33:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏതൊരു മലയാളിക്കും അത്രമേൽ പ്രിയപ്പെട്ട സിനിമാഗാനങ്ങൾ  | EVERGREEN SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=LbVLxGUhgRQ</id>
-        <link href="https://www.youtube.com/watch?v=LbVLxGUhgRQ"/>
-        <updated>2024-10-19T07:30:09.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
