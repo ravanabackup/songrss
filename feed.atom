@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-18T07:09:12.187Z</updated>
+    <updated>2024-11-18T08:12:37.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virupaksha (Tamil) - Sollamale Sollamale Video | Sai Dharam Tej, Samyuktha | Ajaneesh]]></title>
+        <id>https://www.youtube.com/watch?v=Z04KGHxEWMI</id>
+        <link href="https://www.youtube.com/watch?v=Z04KGHxEWMI"/>
+        <updated>2024-11-18T08:00:33.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virupaksha (Malayalam) - Neelambale Neelambale Video | Sai Dharam Tej, Samyuktha | Ajaneesh]]></title>
+        <id>https://www.youtube.com/watch?v=cU_ETswQLhQ</id>
+        <link href="https://www.youtube.com/watch?v=cU_ETswQLhQ"/>
+        <updated>2024-11-18T08:00:25.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്ര കേട്ടാലും മടുപ്പു തോന്നാത്ത അത്രമേൽ പ്രിയമുള്ള മലയാളസിനിമാഗാനങ്ങൾ  | EVERGREEN HITS]]></title>
+        <id>https://www.youtube.com/watch?v=J4hyO7SbZNI</id>
+        <link href="https://www.youtube.com/watch?v=J4hyO7SbZNI"/>
+        <updated>2024-11-18T07:30:05.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maarivillin | Video Song | Prethangalude Koottam | Robin Palluruthy | Sabu Kalabhavan | Mini Sabu]]></title>
         <id>https://www.youtube.com/watch?v=tEJ-YU_eybY</id>
