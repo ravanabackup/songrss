@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-19T17:07:32.380Z</updated>
+    <updated>2024-11-19T18:11:19.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 20th November 24]]></title>
+        <id>https://www.youtube.com/watch?v=iWCNoQmf8Po</id>
+        <link href="https://www.youtube.com/watch?v=iWCNoQmf8Po"/>
+        <updated>2024-11-19T18:00:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19 November 2024]]></title>
         <id>https://www.youtube.com/watch?v=M9Egcs3s0Rw</id>
@@ -12307,78 +12316,6 @@
         <updated>2024-10-21T06:16:26.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രീരാഗമോ തേടുന്നു നീ | Sreeraagamo Thedunnu | Pavithram | Mohanlal | Shobana | Sreevidhya]]></title>
-        <id>https://www.youtube.com/watch?v=dopyzmsRaKo</id>
-        <link href="https://www.youtube.com/watch?v=dopyzmsRaKo"/>
-        <updated>2024-10-21T06:00:15.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepam Mani Deepam | ദീപം മണിദീപം | Avidathepole Ivideyum | Malayalam Film Song | Shobana, Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=IWp8TCp8hd8</id>
-        <link href="https://www.youtube.com/watch?v=IWp8TCp8hd8"/>
-        <updated>2024-10-21T05:53:42.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pazham tamil paattizhayum | പഴന്തമിഴ് പാട്ടിഴയും | Manichitrathazhu | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=oGvYNIVPFrY</id>
-        <link href="https://www.youtube.com/watch?v=oGvYNIVPFrY"/>
-        <updated>2024-10-21T05:46:41.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tying the knot with a side of Onam sadhya😋🌿#KForKalyanam #GuruvayoorambalaNadayil  #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=SfaJjhEXIFc</id>
-        <link href="https://www.youtube.com/watch?v=SfaJjhEXIFc"/>
-        <updated>2024-10-21T05:44:46.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaathil Charanayi | Laptop | Video | Suresh Gopi | Sreevalsan J Menon | Rafeeq  Ahammed | Padmapriya]]></title>
-        <id>https://www.youtube.com/watch?v=LoiwTGI9t9I</id>
-        <link href="https://www.youtube.com/watch?v=LoiwTGI9t9I"/>
-        <updated>2024-10-21T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Mizhiyil Video Song | Oshana  | N. V Manoj | K.S Harishankar | Balaji Jayarajan | Varsha]]></title>
-        <id>https://www.youtube.com/watch?v=5rGkSUS3Tw0</id>
-        <link href="https://www.youtube.com/watch?v=5rGkSUS3Tw0"/>
-        <updated>2024-10-21T05:30:06.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prem Nazir, Sheela Romantic Superhit Song | Kallichellamma Movie | Madhu]]></title>
-        <id>https://www.youtube.com/watch?v=_5--l87NJaE</id>
-        <link href="https://www.youtube.com/watch?v=_5--l87NJaE"/>
-        <updated>2024-10-21T05:28:47.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saravedi by #AsalKolaar 🔥🎶 #PaiyaDei #ThinkIndie]]></title>
-        <id>https://www.youtube.com/watch?v=jCD7QFpT6tw</id>
-        <link href="https://www.youtube.com/watch?v=jCD7QFpT6tw"/>
-        <updated>2024-10-21T05:15:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
