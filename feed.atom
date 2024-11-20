@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T04:10:34.711Z</updated>
+    <updated>2024-11-20T05:08:42.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Feel the funky rhythm, embrace the rap!🎧🎤#PachaParishkari #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=HZNwKueI6uY</id>
+        <link href="https://www.youtube.com/watch?v=HZNwKueI6uY"/>
+        <updated>2024-11-20T04:30:14.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദേ.. കാത്തുക്കുട്ടിയും കേദാർക്കുട്ടനും സ്‌കൂൾ വാർഷികം ഉദ്ഘാടന പരിപാടിയിൽ ലൈവ് ആയി തകർത്തു പാടിയപ്പോൾ]]></title>
+        <id>https://www.youtube.com/watch?v=Ci8xNeSfQD0</id>
+        <link href="https://www.youtube.com/watch?v=Ci8xNeSfQD0"/>
+        <updated>2024-11-20T04:30:04.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennullame Sthuthikka | Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=8GjTKxoRt84</id>
@@ -12082,15 +12100,6 @@
         <updated>2024-10-21T18:00:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 October 2024]]></title>
-        <id>https://www.youtube.com/watch?v=lqYD28scD8E</id>
-        <link href="https://www.youtube.com/watch?v=lqYD28scD8E"/>
-        <updated>2024-10-21T16:37:44.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
