@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T06:12:22.280Z</updated>
+    <updated>2024-11-20T07:08:36.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sonare Sonare Video Song | Punjabi House | Dileep | MG Sreekumar | Suresh Peters | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=b6FUaBcMV4M</id>
+        <link href="https://www.youtube.com/watch?v=b6FUaBcMV4M"/>
+        <updated>2024-11-20T07:07:31.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൂവിൻ ഈ പുല്ലാം കുഴലിൻ  | Varamanjaladiya Shorts #ytshortsvideo #varamanjaladiya]]></title>
+        <id>https://www.youtube.com/watch?v=tP5aifTsldk</id>
+        <link href="https://www.youtube.com/watch?v=tP5aifTsldk"/>
+        <updated>2024-11-20T07:00:35.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇടയപാലകൻ | Idaya Palakan | #bestmalayalamchristiandevotionalsongs #christianmusics #jesussongs]]></title>
         <id>https://www.youtube.com/watch?v=hBQV1XkEsv4</id>
@@ -12143,15 +12161,6 @@
         <id>https://www.youtube.com/watch?v=r5Il-_k1rK0</id>
         <link href="https://www.youtube.com/watch?v=r5Il-_k1rK0"/>
         <updated>2024-10-21T22:00:41.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 22 # Athiravile Prarthana 22nd October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=WuQWwF6t9Z0</id>
-        <link href="https://www.youtube.com/watch?v=WuQWwF6t9Z0"/>
-        <updated>2024-10-21T19:00:18.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
