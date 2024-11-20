@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-20T03:20:45.375Z</updated>
+    <updated>2024-11-20T04:10:34.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ennullame Sthuthikka | Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=8GjTKxoRt84</id>
+        <link href="https://www.youtube.com/watch?v=8GjTKxoRt84"/>
+        <updated>2024-11-20T04:00:05.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manju Pozhiyum Thazhvarayil | Christmas Song | Madhu Balakrishnan | Joji Johns | Rajesh Athikayam]]></title>
         <id>https://www.youtube.com/watch?v=3Izc2n6BHUo</id>
@@ -12082,33 +12091,6 @@
         <updated>2024-10-21T16:37:44.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=xKtK-7VwH4M</id>
-        <link href="https://www.youtube.com/watch?v=xKtK-7VwH4M"/>
-        <updated>2024-10-21T16:01:02.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=8u8PQcnSPz8</id>
-        <link href="https://www.youtube.com/watch?v=8u8PQcnSPz8"/>
-        <updated>2024-10-21T15:45:00.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=s4HMOQAJvg8</id>
-        <link href="https://www.youtube.com/watch?v=s4HMOQAJvg8"/>
-        <updated>2024-10-21T15:30:23.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
