@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T22:07:40.501Z</updated>
+    <updated>2024-11-21T23:08:25.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 22, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
+        <id>https://www.youtube.com/watch?v=XxyJtCqYJBc</id>
+        <link href="https://www.youtube.com/watch?v=XxyJtCqYJBc"/>
+        <updated>2024-11-21T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=Pvp0Cgjh9sY</id>
@@ -12217,42 +12226,6 @@
         <updated>2024-10-23T11:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikkuyile Video Song| Valkannadi | Kalabhavan Mani | Geethu Mohandas | KJ Yesudas | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=VNqGLIlfcHI</id>
-        <link href="https://www.youtube.com/watch?v=VNqGLIlfcHI"/>
-        <updated>2024-10-23T10:59:10.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sooryan Neeyanda |  Kochirajavu  #shortsfeed #shortsvideo #reels #vidyasagar #shorts #dileep]]></title>
-        <id>https://www.youtube.com/watch?v=gcRkDFp-hJo</id>
-        <link href="https://www.youtube.com/watch?v=gcRkDFp-hJo"/>
-        <updated>2024-10-23T10:30:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gora Habba Video Song Out Now | Porattu Naadakam #rahulraj #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=WhBtuP3isD4</id>
-        <link href="https://www.youtube.com/watch?v=WhBtuP3isD4"/>
-        <updated>2024-10-23T10:30:20.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airana Dhurmadha-Video Song | Chithini | East Coast Vijayan |Amith Chakalakal | Mokksha | Ranjin Raj]]></title>
-        <id>https://www.youtube.com/watch?v=HhSvZ3w1uWA</id>
-        <link href="https://www.youtube.com/watch?v=HhSvZ3w1uWA"/>
-        <updated>2024-10-23T10:14:36.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
