@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T21:07:51.443Z</updated>
+    <updated>2024-11-21T22:07:40.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=Pvp0Cgjh9sY</id>
+        <link href="https://www.youtube.com/watch?v=Pvp0Cgjh9sY"/>
+        <updated>2024-11-21T22:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 22 # Athiravile Prarthana 22nd of November 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=urm3LNyck7w</id>
@@ -12244,24 +12253,6 @@
         <updated>2024-10-23T10:14:36.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചന്ദ്രനുദിക്കുന്നദിക്കിലെ Vidyasagar മാജിക് | Chandranudikkunna Dikkil | S Ramesan Nair | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=NQjh4FfAUGE</id>
-        <link href="https://www.youtube.com/watch?v=NQjh4FfAUGE"/>
-        <updated>2024-10-23T09:40:13.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാഴ്ത്തിടുന്നു ഞാൻ | പാപം മാറ്റുവാൻ #bestmalayalamchristiandevotionalsongs #jesusdevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=PaYjmSGI2PA</id>
-        <link href="https://www.youtube.com/watch?v=PaYjmSGI2PA"/>
-        <updated>2024-10-23T09:14:40.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
