@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T06:12:08.686Z</updated>
+    <updated>2024-11-21T07:08:31.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devadidevasuthan | Libin Scaria | Elizabeth S. Mathew | George Peter  #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=PLdiBv_EW7I</id>
+        <link href="https://www.youtube.com/watch?v=PLdiBv_EW7I"/>
+        <updated>2024-11-21T06:30:16.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaru Vangum | Vijay Yesudas | Madhusree Narayanan | Changampuzha Krishna Pillai]]></title>
         <id>https://www.youtube.com/watch?v=nustz-CmHdM</id>
@@ -49,6 +58,15 @@
         <updated>2024-11-21T04:30:03.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Kandatha Sare – Othungi Nikkada Lyrical | Indrajith Sukumaran| Varun G Panicker | Manu Ramesan]]></title>
+        <id>https://www.youtube.com/watch?v=3GdXx6Wknm0</id>
+        <link href="https://www.youtube.com/watch?v=3GdXx6Wknm0"/>
+        <updated>2024-11-21T04:01:32.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -12152,15 +12170,6 @@
         <id>https://www.youtube.com/watch?v=Id1FURC5-3U</id>
         <link href="https://www.youtube.com/watch?v=Id1FURC5-3U"/>
         <updated>2024-10-22T22:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 23 # Athiravile Prarthana 23rd of October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=h8KqJNQHx8M</id>
-        <link href="https://www.youtube.com/watch?v=h8KqJNQHx8M"/>
-        <updated>2024-10-22T19:00:31.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
