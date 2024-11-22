@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T22:08:25.632Z</updated>
+    <updated>2024-11-22T23:07:52.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 23, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
+        <id>https://www.youtube.com/watch?v=mgEAXcLb9vY</id>
+        <link href="https://www.youtube.com/watch?v=mgEAXcLb9vY"/>
+        <updated>2024-11-22T22:30:09.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=-Uop-EFHos4</id>
@@ -12154,42 +12163,6 @@
         <updated>2024-10-24T11:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
-        <id>https://www.youtube.com/watch?v=QTrru2efL7w</id>
-        <link href="https://www.youtube.com/watch?v=QTrru2efL7w"/>
-        <updated>2024-10-24T11:00:02.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നും നിന്നെ പൂജിക്കാം | Ennum ninne poojikkam | Aniyathipraavu | Movie Song | Kunchacko Boban]]></title>
-        <id>https://www.youtube.com/watch?v=lK4VMKGZ3Go</id>
-        <link href="https://www.youtube.com/watch?v=lK4VMKGZ3Go"/>
-        <updated>2024-10-24T10:34:51.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keerthana - Music Video | Kadaisi Ulaga Por | Hiphop Tamizha | Anagha | HHT Entertainment]]></title>
-        <id>https://www.youtube.com/watch?v=GE8hoyJHEXY</id>
-        <link href="https://www.youtube.com/watch?v=GE8hoyJHEXY"/>
-        <updated>2024-10-24T10:30:04.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paalapoove Songo | Njan Gandharvan #shorts #kschithra #johnson #kaithapram #malayalammoviesongs]]></title>
-        <id>https://www.youtube.com/watch?v=5lSmpaqn--A</id>
-        <link href="https://www.youtube.com/watch?v=5lSmpaqn--A"/>
-        <updated>2024-10-24T10:30:03.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
