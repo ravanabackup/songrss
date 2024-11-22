@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T19:06:24.668Z</updated>
+    <updated>2024-11-22T20:09:16.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12262,15 +12262,6 @@
         <updated>2024-10-24T08:35:15.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജീവിതത്തിലെ സന്തോഷവും സങ്കടങ്ങളും ചാലിച്ചെഴുതിയ മലയാളസിനിമയിലെ മറക്കാനാവാത്ത ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=fGTzdnxkdKE</id>
-        <link href="https://www.youtube.com/watch?v=fGTzdnxkdKE"/>
-        <updated>2024-10-24T07:49:24.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
