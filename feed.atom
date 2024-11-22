@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T06:12:13.041Z</updated>
+    <updated>2024-11-22T07:08:35.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണാടി കൂടും കൂട്ടി | Varamanjaladiya Shorts #ytshortsvideo #varamanjaladiya]]></title>
+        <id>https://www.youtube.com/watch?v=tH3RRldJtcY</id>
+        <link href="https://www.youtube.com/watch?v=tH3RRldJtcY"/>
+        <updated>2024-11-22T07:00:27.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhuram Jeevamrutha Bindu Video Song | Chenkol | Mohanlal | KJ Yesudas | Johnson | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=FxM_2O7ENek</id>
+        <link href="https://www.youtube.com/watch?v=FxM_2O7ENek"/>
+        <updated>2024-11-22T06:45:06.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turkish Tharkkam - Jukebox | Lukman Avaran | Sunny Wayne | Amina Nijam | Ifthi | Nawaz Sulaiman]]></title>
+        <id>https://www.youtube.com/watch?v=BFPVUcJ-KVA</id>
+        <link href="https://www.youtube.com/watch?v=BFPVUcJ-KVA"/>
+        <updated>2024-11-22T06:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulare Poonkodiyil Video Song | Amaram | Mammootty | KJ Yesudas | Lathika | Raveendran | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=TauYI3V1Bd8</id>
@@ -12026,15 +12053,6 @@
         <id>https://www.youtube.com/watch?v=0f722rxSOtI</id>
         <link href="https://www.youtube.com/watch?v=0f722rxSOtI"/>
         <updated>2024-10-23T19:25:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 24 # Athiravile Prarthana 24th October 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=-Nvpwe26DsU</id>
-        <link href="https://www.youtube.com/watch?v=-Nvpwe26DsU"/>
-        <updated>2024-10-23T19:00:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
