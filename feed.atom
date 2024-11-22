@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T15:08:11.349Z</updated>
+    <updated>2024-11-22T16:10:46.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth | Malayalam Christian Devotional Song|Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=wPy6dD0lN0w</id>
+        <link href="https://www.youtube.com/watch?v=wPy6dD0lN0w"/>
+        <updated>2024-11-22T16:00:53.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎥BTS of upcoming xmas projects Sreya Anna Joseph #matchpointfaith  #bts #christmassongs]]></title>
+        <id>https://www.youtube.com/watch?v=HHNOizba7OU</id>
+        <link href="https://www.youtube.com/watch?v=HHNOizba7OU"/>
+        <updated>2024-11-22T15:57:00.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devesha Yeshupara | ദേവേശാ യേശുപരാ | Malayalam Christian Song | Mercy Shaju | Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=6i6pzb1SZp0</id>
+        <link href="https://www.youtube.com/watch?v=6i6pzb1SZp0"/>
+        <updated>2024-11-22T15:30:02.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
         <id>https://www.youtube.com/watch?v=ILY8D1s0x_c</id>
@@ -12262,24 +12289,6 @@
         <updated>2024-10-24T04:30:11.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivam Thanna Sneham | Christian Shorts #miraculousmelodies]]></title>
-        <id>https://www.youtube.com/watch?v=dYf22r4p2Nw</id>
-        <link href="https://www.youtube.com/watch?v=dYf22r4p2Nw"/>
-        <updated>2024-10-24T03:45:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalamozhikalaaya | Pranayam #mohanlal #sharreth #mjayachandran #shortsfeed #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/watch?v=GjYXonLMzSA</id>
-        <link href="https://www.youtube.com/watch?v=GjYXonLMzSA"/>
-        <updated>2024-10-24T03:30:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
