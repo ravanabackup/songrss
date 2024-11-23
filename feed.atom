@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T21:07:34.899Z</updated>
+    <updated>2024-11-23T22:07:03.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=dEkKcAOumcA</id>
+        <link href="https://www.youtube.com/watch?v=dEkKcAOumcA"/>
+        <updated>2024-11-23T22:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന November 24 # Athiravile Prarthana 24th November 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=jmoaQnOC0hE</id>
@@ -12109,51 +12118,6 @@
         <updated>2024-10-25T10:30:32.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നേരമില്ല | Neramilla-Lyrical Video | Nayakan Pridhvi |Satheesh Ram | BT AnilKumar | Prasad Edward]]></title>
-        <id>https://www.youtube.com/watch?v=hF6uoU1Mwg0</id>
-        <link href="https://www.youtube.com/watch?v=hF6uoU1Mwg0"/>
-        <updated>2024-10-25T10:00:00.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നേരമില്ല | Neramilla-Lyrical Video | Nayakan Pridhvi |Satheesh Ram | BT AnilKumar | Prasad Edward]]></title>
-        <id>https://www.youtube.com/watch?v=NvedKX71VRs</id>
-        <link href="https://www.youtube.com/watch?v=NvedKX71VRs"/>
-        <updated>2024-10-25T09:54:52.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaalamayanju Gaanam | താളമയഞ്ഞൂ ഗാനമപൂർണ്ണം | Pavithram | Movie song | Mohanlal | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=CnaM_hT-yfk</id>
-        <link href="https://www.youtube.com/watch?v=CnaM_hT-yfk"/>
-        <updated>2024-10-25T09:27:40.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഞാനൊരു മലയാളി | Njanoru Malayali | Oru Madapravinte Kadha | Yusufali Kechery | G.Devarajan | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=SQMme3BS2jw</id>
-        <link href="https://www.youtube.com/watch?v=SQMme3BS2jw"/>
-        <updated>2024-10-25T09:23:08.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാൻതേൻ മിഴികളിൽ | Maanthen Mizhikalil | Aambal Poovu Malayalam Movie Song | Usha Ravi | Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=-90azeNZ2lc</id>
-        <link href="https://www.youtube.com/watch?v=-90azeNZ2lc"/>
-        <updated>2024-10-25T09:17:24.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
