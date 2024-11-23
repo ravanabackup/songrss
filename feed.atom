@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T15:06:48.135Z</updated>
+    <updated>2024-11-23T16:09:24.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12190,15 +12190,6 @@
         <updated>2024-10-25T04:30:03.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swapnam Oru Chakku  #animation #animationvideo #kidscartoon #malayalamcartoon #shortsfeed #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=SSV3JSvAyEo</id>
-        <link href="https://www.youtube.com/watch?v=SSV3JSvAyEo"/>
-        <updated>2024-10-25T03:30:14.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
