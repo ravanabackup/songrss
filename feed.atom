@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T18:09:30.111Z</updated>
+    <updated>2024-11-24T19:04:27.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11938,51 +11938,6 @@
         <updated>2024-10-26T07:30:24.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Othiri Othiri Swapnangal Video Song| Pranayavarnangal| Vidyasagar | KS Chithra | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=2acNYRwqiio</id>
-        <link href="https://www.youtube.com/watch?v=2acNYRwqiio"/>
-        <updated>2024-10-26T06:58:00.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swandham Nizhalumaai Video Song |  Ayalathe Adheham Movie Song| Jayaram | K.J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=TBRJXUPsfSY</id>
-        <link href="https://www.youtube.com/watch?v=TBRJXUPsfSY"/>
-        <updated>2024-10-26T06:46:02.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Thirumeni Songs | പരുമല തിരുമേനി | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=4_s5-14IzkU</id>
-        <link href="https://www.youtube.com/watch?v=4_s5-14IzkU"/>
-        <updated>2024-10-26T06:44:18.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Thirumeni Songs | പരുമല തിരുമേനി | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=rSyrmQrjP8w</id>
-        <link href="https://www.youtube.com/watch?v=rSyrmQrjP8w"/>
-        <updated>2024-10-26T06:43:19.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അഴകേറും കാതൽപൂവേ #oshana #love #malayalam #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=WuqDe2jNSgQ</id>
-        <link href="https://www.youtube.com/watch?v=WuqDe2jNSgQ"/>
-        <updated>2024-10-26T06:30:09.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
