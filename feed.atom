@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T16:08:28.812Z</updated>
+    <updated>2024-11-24T17:06:28.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11992,33 +11992,6 @@
         <updated>2024-10-26T05:13:03.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am Kathalan - Trailer |Naslen |Girish AD|Dileesh Pothan|Sree Gokulam Movies|Dr.Pauls Entertainment]]></title>
-        <id>https://www.youtube.com/watch?v=wg_d34GNd4s</id>
-        <link href="https://www.youtube.com/watch?v=wg_d34GNd4s"/>
-        <updated>2024-10-26T04:37:51.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohanlal Romantic Superhit Song | Ninnishtam Ennishtam Movie | Priya]]></title>
-        <id>https://www.youtube.com/watch?v=x0LUShHEfbk</id>
-        <link href="https://www.youtube.com/watch?v=x0LUShHEfbk"/>
-        <updated>2024-10-26T04:30:39.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every song tells our beautiful story!🎵💕#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=xf5adtmFrPI</id>
-        <link href="https://www.youtube.com/watch?v=xf5adtmFrPI"/>
-        <updated>2024-10-26T04:30:33.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
