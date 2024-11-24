@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T04:11:07.959Z</updated>
+    <updated>2024-11-24T05:07:55.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuttanadan Kaayalile Video Song |1080 HD | Kazhcha Movie Song | Kalabhavan Mani | Madhu Balakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=F-efneooT9U</id>
+        <link href="https://www.youtube.com/watch?v=F-efneooT9U"/>
+        <updated>2024-11-24T05:00:11.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get ready to vibe to the beats of this Malayalam rap!🔥🎤#PachaParishkari #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=QXM5Ak59yQk</id>
+        <link href="https://www.youtube.com/watch?v=QXM5Ak59yQk"/>
+        <updated>2024-11-24T04:30:12.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karukapul mettile Video Song|Snehapoorvam Anna|Vaibhavi Merchant|Kuku Surendran| #mgsreekumar]]></title>
         <id>https://www.youtube.com/watch?v=pZGCraG-D4c</id>
