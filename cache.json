@@ -2605,6 +2605,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gOu52IBR4Dc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gOu52IBR4Dc",
+          "publishedOn": "2024-11-24T22:00:19.000Z",
+          "wordCount": null,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=baJ753jZR8g",
           "author": null,
           "description": "",
@@ -7866,16 +7876,6 @@
           "wordCount": null,
           "title": "കരുതുന്ന നാഥാ | Karunamaya | #hearttouchingnonstopmalayalamchristiandevotionalsongs #christianmusic",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oruSgEKZbjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oruSgEKZbjc",
-          "publishedOn": "2024-10-26T09:18:03.000Z",
-          "wordCount": null,
-          "title": "ദൈവ പ്രകാശം | Aadiyil Vachanamundayirunnu #malayalamchristiandevotionalsong #christianspiritualsong",
-          "imageUrl": null
         }
       ]
     },
@@ -9100,16 +9100,6 @@
           "publishedOn": "2024-10-27T12:30:27.000Z",
           "wordCount": null,
           "title": "Kalabhavan Mani Hit Naadanpattu #kalabhavanmani #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9kDOi0rghFM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9kDOi0rghFM",
-          "publishedOn": "2024-10-26T09:18:26.000Z",
-          "wordCount": null,
-          "title": "കോരമാമി കുഴലൂതണ് | Kalabhavan Mani Hit Naadanpattu #kalabhavanmani",
           "imageUrl": null
         }
       ]
@@ -13498,16 +13488,6 @@
           "description": "",
           "link": "https://www.youtube.com/watch?v=0J6RoiQeyio",
           "publishedOn": "2024-10-28T15:00:02.000Z",
-          "wordCount": null,
-          "title": "പരിശുദ്ധ പരുമല തിരുമേനിയോടുള്ള മധ്യസ്ഥ പ്രാർത്ഥന | Intercessory Prayer  to Parumala Thirumeni 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5wNEwC-nQDE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5wNEwC-nQDE",
-          "publishedOn": "2024-10-26T09:10:42.000Z",
           "wordCount": null,
           "title": "പരിശുദ്ധ പരുമല തിരുമേനിയോടുള്ള മധ്യസ്ഥ പ്രാർത്ഥന | Intercessory Prayer  to Parumala Thirumeni 2024",
           "imageUrl": null
