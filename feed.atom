@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T15:08:58.343Z</updated>
+    <updated>2024-11-25T16:10:11.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaalikal Meyum Pulthozhuthil #christiandevotionalsongsmalayalam #bestmalayalamchristiandevotional]]></title>
+        <id>https://www.youtube.com/watch?v=RhsqZ54IEZI</id>
+        <link href="https://www.youtube.com/watch?v=RhsqZ54IEZI"/>
+        <updated>2024-11-25T16:00:31.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ |  Nanni Nanni | Pr. Charles Jacob |  Roji Ponnachan | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=1m3e-25Wh7I</id>
+        <link href="https://www.youtube.com/watch?v=1m3e-25Wh7I"/>
+        <updated>2024-11-25T15:30:00.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread |Malayalam Christian Song | Maramon  song]]></title>
         <id>https://www.youtube.com/watch?v=oiVnlpiKX2k</id>
@@ -12073,24 +12091,6 @@
         <updated>2024-10-27T04:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohanlal Romantic Superhit Song | Ulsavapittennu Movie | Parvathy]]></title>
-        <id>https://www.youtube.com/watch?v=oOb7tZ6Pj2c</id>
-        <link href="https://www.youtube.com/watch?v=oOb7tZ6Pj2c"/>
-        <updated>2024-10-27T04:00:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassilayiram | Bhaskar The Rascal #mammootty #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=yTNkD6Z8guk</id>
-        <link href="https://www.youtube.com/watch?v=yTNkD6Z8guk"/>
-        <updated>2024-10-27T03:30:34.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
