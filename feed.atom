@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T08:12:40.164Z</updated>
+    <updated>2024-11-25T09:09:48.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -22,6 +22,15 @@
         <updated>2024-11-25T07:45:21.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയിനിയെ ഓർത്തിരിക്കാം | Malayalam Romantic Evergreens | KJ Yesudas | KS Chithra | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=sayrlY_-tLo</id>
+        <link href="https://www.youtube.com/watch?v=sayrlY_-tLo"/>
+        <updated>2024-11-25T07:28:49.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
