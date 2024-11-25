@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T10:09:53.449Z</updated>
+    <updated>2024-11-25T11:07:21.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11911,15 +11911,6 @@
         <updated>2024-10-26T23:30:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ 27, ഒരു ആവശ്യം പറഞ്ഞു നീ ഇത് തുറക്കു, നീ ചോദിക്കുന്നത് അമ്മ സാധിച്ചു തരും ഉറപ്പ്]]></title>
-        <id>https://www.youtube.com/watch?v=NVrm0h5c7d0</id>
-        <link href="https://www.youtube.com/watch?v=NVrm0h5c7d0"/>
-        <updated>2024-10-26T22:30:03.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
