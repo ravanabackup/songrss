@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T18:11:52.425Z</updated>
+    <updated>2024-11-26T19:06:34.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന November 27 # Athiravile Prarthana 27th November 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yzfmgWGJLIQ</id>
+        <link href="https://www.youtube.com/watch?v=yzfmgWGJLIQ"/>
+        <updated>2024-11-26T19:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th November 24]]></title>
         <id>https://www.youtube.com/watch?v=XU0QymS7AhA</id>
@@ -12289,15 +12298,6 @@
         <updated>2024-10-28T07:06:38.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marivillin Gopurangal | Vidyasagar| Gireesh Putancherry | Suresh Gopi,|Jayaram | Summer In Bethlehem]]></title>
-        <id>https://www.youtube.com/watch?v=Fp-dlR1PMUY</id>
-        <link href="https://www.youtube.com/watch?v=Fp-dlR1PMUY"/>
-        <updated>2024-10-28T06:31:10.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
