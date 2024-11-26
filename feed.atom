@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T03:23:07.880Z</updated>
+    <updated>2024-11-26T04:10:42.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Varan Kalamay Karaoke | Malayalam Christian Karaoke | Worship Songs Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=pgJqjLy01O0</id>
+        <link href="https://www.youtube.com/watch?v=pgJqjLy01O0"/>
+        <updated>2024-11-26T04:00:45.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehapoorvam Gowri Savithri Musical Album | Sony Sai | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=y3UwQIWJvgM</id>
+        <link href="https://www.youtube.com/watch?v=y3UwQIWJvgM"/>
+        <updated>2024-11-26T04:00:35.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoomanju | Aparna Rajeev | Baby John Kalayanthani | Rajeev ONV #christmascarol #newcarol #carol]]></title>
         <id>https://www.youtube.com/watch?v=tPvqaEOR8mo</id>
@@ -1624,6 +1642,15 @@
         <updated>2024-11-22T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthikalinmel Vasikkunnavane Karaoke | Malayalam Christian Karaoke | Worship Songs Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=eomjQlwItHw</id>
+        <link href="https://www.youtube.com/watch?v=eomjQlwItHw"/>
+        <updated>2024-11-22T05:02:20.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11983,24 +12010,6 @@
         <updated>2024-10-27T18:00:35.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27 October 2024]]></title>
-        <id>https://www.youtube.com/watch?v=HLAJ_2uTvs4</id>
-        <link href="https://www.youtube.com/watch?v=HLAJ_2uTvs4"/>
-        <updated>2024-10-27T15:45:25.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Pally Perunnal Padhayathra Songs 2024 | Parumala Thirumeni Songs | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=L8BSUS52_fE</id>
-        <link href="https://www.youtube.com/watch?v=L8BSUS52_fE"/>
-        <updated>2024-10-27T15:30:07.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
