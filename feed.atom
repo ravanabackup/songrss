@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T13:19:50.447Z</updated>
+    <updated>2024-11-28T14:08:08.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas Carol Songa Malayalam | Joji Johns | Christian Melody Songs | Sudeesh]]></title>
+        <id>https://www.youtube.com/watch?v=UTaBy-SabSg</id>
+        <link href="https://www.youtube.com/watch?v=UTaBy-SabSg"/>
+        <updated>2024-11-28T13:30:15.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pathira Palkadavil Video Song | Chenkol | Mohnalal | Surabhi Javery Vyas| KJ Yesudas| Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=BIz2yKKSEfQ</id>
@@ -12181,15 +12190,6 @@
         <updated>2024-10-30T03:30:17.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinneyum Pinneyum | Sruthy Benny | Shorts #miraculousmelodies]]></title>
-        <id>https://www.youtube.com/watch?v=0_Hz2PK5_eY</id>
-        <link href="https://www.youtube.com/watch?v=0_Hz2PK5_eY"/>
-        <updated>2024-10-30T02:00:07.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
