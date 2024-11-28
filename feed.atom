@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T15:08:35.802Z</updated>
+    <updated>2024-11-28T16:09:52.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Evg. J. V. Peter Songs Mashup #matchpointfaith #christiansongsmashup #malayalamchristiandevotionals]]></title>
+        <id>https://www.youtube.com/watch?v=6pHY7AaSSEg</id>
+        <link href="https://www.youtube.com/watch?v=6pHY7AaSSEg"/>
+        <updated>2024-11-28T15:24:47.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്രകേട്ടിട്ടും മതിവരാത്ത സൂപ്പർഹിറ്റ് കരോൾ ഗാനങ്ങൾ | Christmas Hits 2024 | Carol Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=e14hWwmXJVA</id>
+        <link href="https://www.youtube.com/watch?v=e14hWwmXJVA"/>
+        <updated>2024-11-28T15:15:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[va va thamarapenne | Kalabhavan Mani | Nandhini | Mohan Sithara | Yusufali Kecheri]]></title>
         <id>https://www.youtube.com/watch?v=USUWKfVQySs</id>
@@ -12208,33 +12226,6 @@
         <updated>2024-10-30T04:30:31.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#PaiyaDei 🔥 #AsalKolaar #ThinkIndie #AdakssUdakss]]></title>
-        <id>https://www.youtube.com/watch?v=WdxRgEwVnas</id>
-        <link href="https://www.youtube.com/watch?v=WdxRgEwVnas"/>
-        <updated>2024-10-30T03:47:33.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu Varan Kalamay | Teenu Treasa | Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=tIMvYfP_0cM</id>
-        <link href="https://www.youtube.com/watch?v=tIMvYfP_0cM"/>
-        <updated>2024-10-30T03:30:33.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargaswara Lokamo |  Kolambi #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=NTXRJBFagHA</id>
-        <link href="https://www.youtube.com/watch?v=NTXRJBFagHA"/>
-        <updated>2024-10-30T03:30:17.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
