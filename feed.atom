@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-30T13:15:15.430Z</updated>
+    <updated>2024-11-30T14:06:47.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thathanam Daivam#christiandevotionalsongsmalayalam #drmeenafrancis #suryanarayanan #devotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=XmaPWpWmau0</id>
+        <link href="https://www.youtube.com/watch?v=XmaPWpWmau0"/>
+        <updated>2024-11-30T14:00:35.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kovilakam Njan Kandu ...#christiandevotionalsongsmalayalam #suryanarayanan #jojijohns]]></title>
+        <id>https://www.youtube.com/watch?v=uxINZlvHvH8</id>
+        <link href="https://www.youtube.com/watch?v=uxINZlvHvH8"/>
+        <updated>2024-11-30T13:45:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallayi Kadavathu Song | Perumazhakkalam Movie Song | Dileep | Meera Jasmine | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=mGb3LXQ0S0g</id>
+        <link href="https://www.youtube.com/watch?v=mGb3LXQ0S0g"/>
+        <updated>2024-11-30T13:30:27.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മറ്റെല്ലാം നീക്കിവെച്ച് പാട്ടിൽ മുഴുകി പോകുന്ന അത്രമേൽ വശീകരിക്കും സിനിമാഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=xmWdMb5uQCc</id>
+        <link href="https://www.youtube.com/watch?v=xmWdMb5uQCc"/>
+        <updated>2024-11-30T13:30:26.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 നോമ്പ് ഗീതങ്ങൾ 2024 | December Special Hits | Christmas Songs Malayalam | #evergreen | #christmas]]></title>
+        <id>https://www.youtube.com/watch?v=LYA4Gj84WWw</id>
+        <link href="https://www.youtube.com/watch?v=LYA4Gj84WWw"/>
+        <updated>2024-11-30T13:30:18.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kovilakam Njan Kandu | Suryanarayanan | Christian Video Song | Dr.Meena Francis | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=FkZsGU2xJEs</id>
+        <link href="https://www.youtube.com/watch?v=FkZsGU2xJEs"/>
+        <updated>2024-11-30T13:30:08.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎼Bethlehemil Pulkodiyil #matchpointfaith #christmassongs #ChristmasRelease #christmascarols]]></title>
+        <id>https://www.youtube.com/watch?v=5A85PUmGe1I</id>
+        <link href="https://www.youtube.com/watch?v=5A85PUmGe1I"/>
+        <updated>2024-11-30T13:28:23.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aakasha deepam | ക്രിസ്മസ് കരോൾ ഗാനം |  @JinoKunnumpurathu             #shorts  #christmas]]></title>
         <id>https://www.youtube.com/watch?v=z6tM-iUPpp8</id>
@@ -12037,24 +12100,6 @@
         <updated>2024-11-01T03:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 November 2024]]></title>
-        <id>https://www.youtube.com/watch?v=ahHwHf88dXw</id>
-        <link href="https://www.youtube.com/watch?v=ahHwHf88dXw"/>
-        <updated>2024-11-01T02:05:50.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#parumalathirumeni #matchpointfaith #ParumalaPalli #parumalapalliperunnal2024]]></title>
-        <id>https://www.youtube.com/watch?v=vlb9JENUkj8</id>
-        <link href="https://www.youtube.com/watch?v=vlb9JENUkj8"/>
-        <updated>2024-11-01T01:30:32.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
