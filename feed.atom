@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T21:06:51.828Z</updated>
+    <updated>2024-12-01T22:07:14.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=tVLOAIh0b_U</id>
+        <link href="https://www.youtube.com/watch?v=tVLOAIh0b_U"/>
+        <updated>2024-12-01T22:00:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 2 # Athiravile Prarthana 2nd December 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=BMnP1JQylAQ</id>
@@ -12019,15 +12028,6 @@
         <updated>2024-11-02T10:48:11.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BeerSong is a vibe 🎶❤️ #Diesel #HarishKalyan #DhibuNinanThomas]]></title>
-        <id>https://www.youtube.com/watch?v=QsIS-ZHejhQ</id>
-        <link href="https://www.youtube.com/watch?v=QsIS-ZHejhQ"/>
-        <updated>2024-11-02T09:50:59.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
