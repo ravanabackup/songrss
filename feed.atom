@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T11:06:16.857Z</updated>
+    <updated>2024-12-01T12:14:13.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kallyanaprayathil 4K Video Song | Bada Dosth | Suresh Gopi | Meghna Naidu | Chithra Iyer | Vayalar]]></title>
+        <id>https://www.youtube.com/watch?v=YVrkyssqwT0</id>
+        <link href="https://www.youtube.com/watch?v=YVrkyssqwT0"/>
+        <updated>2024-12-01T11:30:17.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanyasini Nin - Audio Song | Rajahamsam | G. Devarajan | K.J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=F2_po_3NYWw</id>
+        <link href="https://www.youtube.com/watch?v=F2_po_3NYWw"/>
+        <updated>2024-12-01T11:30:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnum Tharangal | Gibu George | Kottayam Jerusalem Mar Thoma Church Choir | Christmas Carol 2024]]></title>
+        <id>https://www.youtube.com/watch?v=duVgKnn8cn0</id>
+        <link href="https://www.youtube.com/watch?v=duVgKnn8cn0"/>
+        <updated>2024-12-01T11:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 1st of December 2024]]></title>
+        <id>https://www.youtube.com/watch?v=BNfMqbpOsKQ</id>
+        <link href="https://www.youtube.com/watch?v=BNfMqbpOsKQ"/>
+        <updated>2024-12-01T11:30:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravoram Video Song | Oshana | N. V Manoj | Mejo Joseph | Mejjo Josseph]]></title>
+        <id>https://www.youtube.com/watch?v=8EeNn-dNZ3U</id>
+        <link href="https://www.youtube.com/watch?v=8EeNn-dNZ3U"/>
+        <updated>2024-12-01T11:30:04.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ammoommakkili Vayaadi Video Song | Pooja Batra | Gireesh Puthenchery | KS Chithra | Berny Ignatius]]></title>
         <id>https://www.youtube.com/watch?v=n-fK-34MR_E</id>
@@ -11947,24 +11992,6 @@
         <updated>2024-11-02T00:30:07.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വർഗ്ഗമെന്ന വീട്ടിലെൻ്റെ | സകല മരിച്ചവരുടെയും ഓർമ്മത്തിരുനാൾ ഗാനം Ft. Kester, Fr Vineeth, Fr Phinil]]></title>
-        <id>https://www.youtube.com/watch?v=B5U3vr0pNlU</id>
-        <link href="https://www.youtube.com/watch?v=B5U3vr0pNlU"/>
-        <updated>2024-11-02T00:04:54.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 2nd of November 24 # Mathavinte Japamala Santhoshathinte Rahasyangal 2nd of November 24]]></title>
-        <id>https://www.youtube.com/watch?v=iojLbgInvxI</id>
-        <link href="https://www.youtube.com/watch?v=iojLbgInvxI"/>
-        <updated>2024-11-01T23:30:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
