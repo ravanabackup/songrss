@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T06:11:17.388Z</updated>
+    <updated>2024-12-01T07:08:03.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arul Mei ❤️✨ #Meiyazhagan #Karthi #ArvindSwami #GovindVasantha #PremKumar]]></title>
+        <id>https://www.youtube.com/watch?v=A0S79otiYSQ</id>
+        <link href="https://www.youtube.com/watch?v=A0S79otiYSQ"/>
+        <updated>2024-12-01T06:37:47.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionals #medley #mashup #christianmashup #christianmedley]]></title>
         <id>https://www.youtube.com/watch?v=OItICpCLpAk</id>
@@ -11963,15 +11972,6 @@
         <id>https://www.youtube.com/watch?v=rZWaS-wLQqs</id>
         <link href="https://www.youtube.com/watch?v=rZWaS-wLQqs"/>
         <updated>2024-11-01T22:00:37.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 2 # Athiravile Prarthana 2nd of November 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=epahBdcQ6Uo</id>
-        <link href="https://www.youtube.com/watch?v=epahBdcQ6Uo"/>
-        <updated>2024-11-01T19:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
