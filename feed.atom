@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T16:10:25.420Z</updated>
+    <updated>2024-12-02T17:07:32.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12082,24 +12082,6 @@
         <updated>2024-11-03T05:30:25.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മന്തൻ മയമ്മദിനന്തം | Akkuvinte Padachon #shots #malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=vIcUybSHNRk</id>
-        <link href="https://www.youtube.com/watch?v=vIcUybSHNRk"/>
-        <updated>2024-11-03T04:30:32.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under the stars, love sings loud!🌌🎵#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mQBE7gbVuQM</id>
-        <link href="https://www.youtube.com/watch?v=mQBE7gbVuQM"/>
-        <updated>2024-11-03T04:30:19.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
