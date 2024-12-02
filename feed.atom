@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T06:13:15.788Z</updated>
+    <updated>2024-12-02T07:09:28.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Viswam kaakkunna naadhaa | വിശ്വം കാക്കുന്ന നാഥാ | Veendum Chila Veettukaryangal | Malayalam Song]]></title>
+        <id>https://www.youtube.com/watch?v=uFOcagZ0Jc4</id>
+        <link href="https://www.youtube.com/watch?v=uFOcagZ0Jc4"/>
+        <updated>2024-12-02T06:58:08.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaishaka Sandhye | വൈശാഖസന്ധ്യേ | Nadodikkattu | Malayalam Movie Song | Mohanlal | Shobana | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=dWiL9zka6no</id>
+        <link href="https://www.youtube.com/watch?v=dWiL9zka6no"/>
+        <updated>2024-12-02T06:57:10.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaishaka Sandhye | വൈശാഖസന്ധ്യേ | Nadodikkattu | Malayalam Movie Song | Mohanlal | Shobana | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=cT7RCdl33r8</id>
+        <link href="https://www.youtube.com/watch?v=cT7RCdl33r8"/>
+        <updated>2024-12-02T06:54:46.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karukaruthe Manam  | Folk Song #naadanpaattu #folk #shortsfeed #shorts #reels #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=eiXIXK-aJ8A</id>
@@ -11882,15 +11909,6 @@
         <id>https://www.youtube.com/watch?v=FwmHMrWz268</id>
         <link href="https://www.youtube.com/watch?v=FwmHMrWz268"/>
         <updated>2024-11-02T22:00:16.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന November 3 # Athiravile Prarthana 3rd November 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jd7vUF9wnH0</id>
-        <link href="https://www.youtube.com/watch?v=jd7vUF9wnH0"/>
-        <updated>2024-11-02T19:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
