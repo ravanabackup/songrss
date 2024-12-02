@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T07:09:28.005Z</updated>
+    <updated>2024-12-02T08:12:47.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആലിലത്താലിയുമായ്‌ വരു നീ | Lyrical Video Song | Mizhirandilum | Indrajith | Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=WXHmEktwSFc</id>
+        <link href="https://www.youtube.com/watch?v=WXHmEktwSFc"/>
+        <updated>2024-12-02T07:30:20.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ മനസിലെ സ്ഥിര താമസക്കാരായ  അപൂർവ സുന്ദര ഗാനങ്ങൾ | Evergreen Malayalam Film  Songs]]></title>
+        <id>https://www.youtube.com/watch?v=vGVgbYUPP7I</id>
+        <link href="https://www.youtube.com/watch?v=vGVgbYUPP7I"/>
+        <updated>2024-12-02T07:30:18.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viswam kaakkunna naadhaa | വിശ്വം കാക്കുന്ന നാഥാ | Veendum Chila Veettukaryangal | Malayalam Song]]></title>
         <id>https://www.youtube.com/watch?v=uFOcagZ0Jc4</id>
