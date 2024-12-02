@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T11:07:35.494Z</updated>
+    <updated>2024-12-02T12:16:40.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daivathin Sneham Karaoke | Malayalam Christian Karaoke | Worship Songs Karaoke | Minus Track]]></title>
+        <id>https://www.youtube.com/watch?v=Ftzcc4sPLjo</id>
+        <link href="https://www.youtube.com/watch?v=Ftzcc4sPLjo"/>
+        <updated>2024-12-02T12:00:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viswam kaakkunna naadhaa | വിശ്വം കാക്കുന്ന നാഥാ | Veendum Chila Veettukaryangal | Malayalam Song]]></title>
+        <id>https://www.youtube.com/watch?v=UkFPgd4qQxs</id>
+        <link href="https://www.youtube.com/watch?v=UkFPgd4qQxs"/>
+        <updated>2024-12-02T11:45:01.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnam Vattam Kandappol Video Song | Gireesh Puthenchery | Berny Ignatius | KS Chithra | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=fGBofRT2pqc</id>
+        <link href="https://www.youtube.com/watch?v=fGBofRT2pqc"/>
+        <updated>2024-12-02T11:30:26.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omal Kanmani (Reprise) | Cover Video | Naran | Rhithwik S Chand | Anila Rajeev | Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=wqDPKSSu4Ks</id>
+        <link href="https://www.youtube.com/watch?v=wqDPKSSu4Ks"/>
+        <updated>2024-12-02T11:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalinakkare - Audio Song | Chemmeen | Salil Chowdhury | K.J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=7ZiHvxS2z_0</id>
+        <link href="https://www.youtube.com/watch?v=7ZiHvxS2z_0"/>
+        <updated>2024-12-02T11:30:04.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 2nd of December 2024]]></title>
+        <id>https://www.youtube.com/watch?v=4qgFW92pY7s</id>
+        <link href="https://www.youtube.com/watch?v=4qgFW92pY7s"/>
+        <updated>2024-12-02T11:30:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദിവ്യമാം വിവാഹമന്ത്രഘോഷം #christiandevotionalsongsmalayalam  #christianmusics #christianalbumsongs]]></title>
         <id>https://www.youtube.com/watch?v=nz_92-zF6js</id>
@@ -940,6 +994,15 @@
         <updated>2024-11-29T15:56:59.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadha Paranjurangiya  | Biju Menon | Samyuktha Varma | KJ Yesudas | Vidyasagar| Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=jqKVhG2y30M</id>
+        <link href="https://www.youtube.com/watch?v=jqKVhG2y30M"/>
+        <updated>2024-11-29T14:30:23.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
@@ -11956,15 +12019,6 @@
         <updated>2024-11-03T00:30:33.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 3rd of November 2024 Mathavinte Japamala # Mahimayude Rahasyangal 3rd of November 24]]></title>
-        <id>https://www.youtube.com/watch?v=FVx_i4vFo94</id>
-        <link href="https://www.youtube.com/watch?v=FVx_i4vFo94"/>
-        <updated>2024-11-02T23:30:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
