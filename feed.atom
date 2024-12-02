@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T04:11:12.901Z</updated>
+    <updated>2024-12-02T05:09:33.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karukaruthe Manam  | Folk Song #naadanpaattu #folk #shortsfeed #shorts #reels #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=eiXIXK-aJ8A</id>
+        <link href="https://www.youtube.com/watch?v=eiXIXK-aJ8A"/>
+        <updated>2024-12-02T04:30:15.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadamizhiyithalal | Ee Manohara Theeram | Jayan | Seema | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=JwTDWHfma5A</id>
+        <link href="https://www.youtube.com/watch?v=JwTDWHfma5A"/>
+        <updated>2024-12-02T04:30:12.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't stop the beat, can't stop the groove!💃🕺#ReadyaMaaran #Dabzee #HelloMummy #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=5WLkSzLmxbI</id>
+        <link href="https://www.youtube.com/watch?v=5WLkSzLmxbI"/>
+        <updated>2024-12-02T04:30:04.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoomanju | Aparna Rajeev | Baby John Kalayanthani | Rajeev ONV #christmascarol #newcarol #carol]]></title>
         <id>https://www.youtube.com/watch?v=o2KD7iHco78</id>
