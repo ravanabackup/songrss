@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T08:12:47.054Z</updated>
+    <updated>2024-12-02T09:10:06.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jangaa Jagaa Naari | Jameelante Poovankozhi |Video Song | Shaajahan | Anthony Daasan | Aloshya Peter]]></title>
+        <id>https://www.youtube.com/watch?v=NW5UwZHgW-w</id>
+        <link href="https://www.youtube.com/watch?v=NW5UwZHgW-w"/>
+        <updated>2024-12-02T09:05:03.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഗാഗുൽത്താമലയിൽ  #christiandevotionalsongs #christianalbum #christianmusics #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=0dyvKA1HXSE</id>
+        <link href="https://www.youtube.com/watch?v=0dyvKA1HXSE"/>
+        <updated>2024-12-02T08:52:47.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആലിലത്താലിയുമായ്‌ വരു നീ | Lyrical Video Song | Mizhirandilum | Indrajith | Kavya Madhavan]]></title>
         <id>https://www.youtube.com/watch?v=WXHmEktwSFc</id>
