@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T12:16:40.240Z</updated>
+    <updated>2024-12-02T13:20:31.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjin raathryil  | അതിമനോഹരമായ ക്രിസ്മസ് ഗാനം |  @JinoKunnumpurathu #shorts #christmas]]></title>
+        <id>https://www.youtube.com/watch?v=nHjZnDavYXc</id>
+        <link href="https://www.youtube.com/watch?v=nHjZnDavYXc"/>
+        <updated>2024-12-02T13:00:56.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തകർന്ന ജീവിതങ്ങൾക്ക് പ്രത്യാശ നൽകുന്ന  ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=xB2TtyrjlGE</id>
+        <link href="https://www.youtube.com/watch?v=xB2TtyrjlGE"/>
+        <updated>2024-12-02T12:30:51.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രാർത്ഥിക്കുന്നവനിൽ ദൈവം പ്രവർത്തിക്കുന്നു |😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=huZ6jL1nMg4</id>
+        <link href="https://www.youtube.com/watch?v=huZ6jL1nMg4"/>
+        <updated>2024-12-02T12:30:40.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jangaa Jagaa Naari | Jameelante Poovankozhi |Video Song | Shaajahan | Anthony Daasan | Aloshya Peter]]></title>
+        <id>https://www.youtube.com/watch?v=Szb-jER5d68</id>
+        <link href="https://www.youtube.com/watch?v=Szb-jER5d68"/>
+        <updated>2024-12-02T12:30:32.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karayano Mizhineeril Video Song | Malayalam Songs | Ilayaraja | KJ Yesudas | Aa Raathri | Old Songs]]></title>
+        <id>https://www.youtube.com/watch?v=9dDpsBsbhuU</id>
+        <link href="https://www.youtube.com/watch?v=9dDpsBsbhuU"/>
+        <updated>2024-12-02T12:30:07.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etho Kaikal Maaykkunnu Video Song |  Rajavazhcha Movie Song |P. Jayachandran | Sai Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=LqUzaYpMn7M</id>
+        <link href="https://www.youtube.com/watch?v=LqUzaYpMn7M"/>
+        <updated>2024-12-02T12:17:12.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHILLING WITH ZIONIMAS | EPISODE 08 | CHRISTMAS SPECIAL PROGRAME | @JinoKunnumpurathu | #christmas]]></title>
+        <id>https://www.youtube.com/watch?v=4AXFOxL5E1w</id>
+        <link href="https://www.youtube.com/watch?v=4AXFOxL5E1w"/>
+        <updated>2024-12-02T12:14:34.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daivathin Sneham Karaoke | Malayalam Christian Karaoke | Worship Songs Karaoke | Minus Track]]></title>
         <id>https://www.youtube.com/watch?v=Ftzcc4sPLjo</id>
@@ -12010,15 +12073,6 @@
         <updated>2024-11-03T02:00:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവകൃപ പകർന്നു തരുന്ന ഭക്തിനിർഭരമായ ഗാനങ്ങൾ | Kester | Manoj Christy | Kg Markose | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=m4AfgKIXdNE</id>
-        <link href="https://www.youtube.com/watch?v=m4AfgKIXdNE"/>
-        <updated>2024-11-03T00:30:33.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
