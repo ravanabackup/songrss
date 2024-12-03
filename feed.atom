@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T02:21:24.620Z</updated>
+    <updated>2024-12-03T03:29:03.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyan Yeshupara | Christian Devotional Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Mjqr6dbnpZI</id>
+        <link href="https://www.youtube.com/watch?v=Mjqr6dbnpZI"/>
+        <updated>2024-12-03T03:00:22.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 ദിവസം  ക്രിസ്തുമസ്  ഒരുക്ക പ്രാർത്ഥനയും ഗാനങ്ങളും Third Day # Christmas Prayer for December 3]]></title>
         <id>https://www.youtube.com/watch?v=ZyU6w_bwPIo</id>
@@ -11965,69 +11974,6 @@
         <updated>2024-11-03T15:30:05.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs | Non Stop Malayalam Christian Songs | Evergreen Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=qeWnyXnznKs</id>
-        <link href="https://www.youtube.com/watch?v=qeWnyXnznKs"/>
-        <updated>2024-11-03T15:27:32.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread | Malayalam Christian Song |]]></title>
-        <id>https://www.youtube.com/watch?v=HIQoQ-xDTYk</id>
-        <link href="https://www.youtube.com/watch?v=HIQoQ-xDTYk"/>
-        <updated>2024-11-03T15:00:16.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranayageethangal | Malayalam Love Songs | Nonstop Romantic Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=k-OfaxYRFpY</id>
-        <link href="https://www.youtube.com/watch?v=k-OfaxYRFpY"/>
-        <updated>2024-11-03T14:55:46.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jukebox | EnnumKelkkunna Chalachithraganangal | Malayalam Film Songs | Nonstop Malayalam Movie Songs]]></title>
-        <id>https://www.youtube.com/watch?v=M78HLh7BTBE</id>
-        <link href="https://www.youtube.com/watch?v=M78HLh7BTBE"/>
-        <updated>2024-11-03T14:45:52.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellottu Valayittu Video Song | Othenante Makan | P Susheela #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=rxPoq5awpo8</id>
-        <link href="https://www.youtube.com/watch?v=rxPoq5awpo8"/>
-        <updated>2024-11-03T14:30:30.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikyakkallaal | Varnapakittu | Vidyasagar, M G Sreekumar, Swarnalatha #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=gv5W8NdaJP4</id>
-        <link href="https://www.youtube.com/watch?v=gv5W8NdaJP4"/>
-        <updated>2024-11-03T14:30:20.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maane Malaramban  | Ayal Kadha Ezhthukayanu | Raveendran | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=FYfn_yvUvH8</id>
-        <link href="https://www.youtube.com/watch?v=FYfn_yvUvH8"/>
-        <updated>2024-11-03T14:30:05.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
