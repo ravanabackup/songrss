@@ -2162,16 +2162,6 @@
           "wordCount": null,
           "title": "Shyaamameghame Nee | Adhipan | Shyam | K S Chithra | Chunakkara Ramankutty #SongOfTheDay",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hbEaYlZUU8I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hbEaYlZUU8I",
-          "publishedOn": "2024-11-04T09:16:56.000Z",
-          "wordCount": null,
-          "title": "90 കളിലെ പ്രിയ ഗാനങ്ങൾ | 90's Favourites | M. G. Sreekumar | Vidyasagar | Gireesh Puthenchery",
-          "imageUrl": null
         }
       ]
     },
@@ -2694,6 +2684,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA",
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dOm_4DCJHr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dOm_4DCJHr4",
+          "publishedOn": "2024-12-03T22:00:22.000Z",
+          "wordCount": null,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FNVsVSqcjkI",
           "author": null,
@@ -12280,16 +12280,6 @@
           "publishedOn": "2024-11-04T14:35:37.000Z",
           "wordCount": null,
           "title": "Welcome On Board Sai Abhyankkar | Benz | Raghava Lawrence | Lokesh Kanakaraj | Bakkiyaraj Kannan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ny_myz6mGd8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ny_myz6mGd8",
-          "publishedOn": "2024-11-04T09:30:50.000Z",
-          "wordCount": null,
-          "title": "Raatharakam | Gaganachari | Anarkali Marikar,Aju Varghese,Gokul Suresh | Arun Chandu | Sankar Sharma",
           "imageUrl": null
         }
       ]
