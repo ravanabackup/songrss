@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T22:08:11.461Z</updated>
+    <updated>2024-12-04T23:08:27.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡിസംബർ: 05, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
+        <id>https://www.youtube.com/watch?v=t1c362OyjzQ</id>
+        <link href="https://www.youtube.com/watch?v=t1c362OyjzQ"/>
+        <updated>2024-12-04T22:30:13.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=RoVN-VqNfAw</id>
@@ -12298,42 +12307,6 @@
         <updated>2024-11-05T11:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Khalbiloru | One Way Ticket  #shortsfeed #shortsvideo #reels #manoramamusic #prithvirajsukumaran]]></title>
-        <id>https://www.youtube.com/watch?v=sOpvYQ5MnPU</id>
-        <link href="https://www.youtube.com/watch?v=sOpvYQ5MnPU"/>
-        <updated>2024-11-05T10:30:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kummatikali Audio Jukebox | R K Vincent Selva | Madhav Suresh | Jackson Vijayan | Yuvan Shankar]]></title>
-        <id>https://www.youtube.com/watch?v=1h2Qm-NFqiY</id>
-        <link href="https://www.youtube.com/watch?v=1h2Qm-NFqiY"/>
-        <updated>2024-11-05T10:30:00.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dosha Paattu - Video Song | Pallotty 90's Kids | LJP | Manikandan Ayyappa | Miah]]></title>
-        <id>https://www.youtube.com/watch?v=zv5ng2zcaWs</id>
-        <link href="https://www.youtube.com/watch?v=zv5ng2zcaWs"/>
-        <updated>2024-11-05T10:21:37.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melleyen Kannile Video Song | Kusruthi Kuruppu | Jayaram | Meena | KJ Yesudas | KS Chithra | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=wtSkloeSA0M</id>
-        <link href="https://www.youtube.com/watch?v=wtSkloeSA0M"/>
-        <updated>2024-11-05T10:14:03.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
