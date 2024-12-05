@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-05T03:27:52.106Z</updated>
+    <updated>2024-12-05T04:11:32.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12136,24 +12136,6 @@
         <updated>2024-11-05T18:00:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
-        <id>https://www.youtube.com/watch?v=-ugwaWPWaPY</id>
-        <link href="https://www.youtube.com/watch?v=-ugwaWPWaPY"/>
-        <updated>2024-11-05T16:00:00.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
-        <id>https://www.youtube.com/watch?v=M7jdQWs4jEI</id>
-        <link href="https://www.youtube.com/watch?v=M7jdQWs4jEI"/>
-        <updated>2024-11-05T15:30:05.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
