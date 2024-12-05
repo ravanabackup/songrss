@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-05T16:10:27.542Z</updated>
+    <updated>2024-12-05T17:07:49.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12388,15 +12388,6 @@
         <updated>2024-11-06T05:30:06.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing through life, hand in hand!🕺💖#KForKalyanam #GuruvayoorambalaNadayil #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=V8UzaP78TxY</id>
-        <link href="https://www.youtube.com/watch?v=V8UzaP78TxY"/>
-        <updated>2024-11-06T04:30:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
