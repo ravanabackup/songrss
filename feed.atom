@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-05T10:09:57.080Z</updated>
+    <updated>2024-12-05T11:07:36.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#jeevya #nerampularave #songoftheday #vineethsreenivasan #rebeccasanthosh #sreeramramachandran]]></title>
+        <id>https://www.youtube.com/watch?v=WB0L4lKL5sA</id>
+        <link href="https://www.youtube.com/watch?v=WB0L4lKL5sA"/>
+        <updated>2024-12-05T10:35:41.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punchiri thachum | Forever Favourites | Unplugged Cover #shortsfeed #shorts #reels #deepakdev]]></title>
+        <id>https://www.youtube.com/watch?v=DzXPf_phmbc</id>
+        <link href="https://www.youtube.com/watch?v=DzXPf_phmbc"/>
+        <updated>2024-12-05T10:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunjurangum Koottinullil Video Song | Ponnuchami | Suresh Gopi | Chithra | KS Chithra |Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=Pwui6ZFFLJs</id>
@@ -12181,15 +12199,6 @@
         <updated>2024-11-05T23:30:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നവംബർ: 06, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
-        <id>https://www.youtube.com/watch?v=wcyNjkk8HSQ</id>
-        <link href="https://www.youtube.com/watch?v=wcyNjkk8HSQ"/>
-        <updated>2024-11-05T22:30:16.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
