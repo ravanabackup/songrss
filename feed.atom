@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T22:08:00.983Z</updated>
+    <updated>2024-12-06T23:08:02.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡിസംബർ: 07, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
+        <id>https://www.youtube.com/watch?v=v1Y83mKKEDI</id>
+        <link href="https://www.youtube.com/watch?v=v1Y83mKKEDI"/>
+        <updated>2024-12-06T22:30:15.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=gxznkeKwV74</id>
@@ -12460,33 +12469,6 @@
         <updated>2024-11-07T11:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranayageethangal | Malayalam Love Songs | Nonstop Romantic Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=k-OfaxYRFpY</id>
-        <link href="https://www.youtube.com/watch?v=k-OfaxYRFpY"/>
-        <updated>2024-11-07T11:00:06.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അലൈപായുതേ കണ്ണാ | Alaipayuthe Kanna | Munnilonnu | Super Hit Movie Song | K  S  Chitra]]></title>
-        <id>https://www.youtube.com/watch?v=ITEeOl4juok</id>
-        <link href="https://www.youtube.com/watch?v=ITEeOl4juok"/>
-        <updated>2024-11-07T10:46:12.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേവാങ്കണങ്ങൾ കയ്യൊഴിഞ്ഞ താരകം | Devanganangal | Njan Gandharvan Movie Video Song  | K. J  Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Jo2IaZ5zKFs</id>
-        <link href="https://www.youtube.com/watch?v=Jo2IaZ5zKFs"/>
-        <updated>2024-11-07T10:19:21.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
