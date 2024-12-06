@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T04:11:13.219Z</updated>
+    <updated>2024-12-06T05:08:53.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാനവനാഥനെ വാഴ്ത്തീ | Manava Nadhane Vazhthee | തിരുപ്പിറവി ഗാനങ്ങൾ | Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=7XdHHt8_KN8</id>
+        <link href="https://www.youtube.com/watch?v=7XdHHt8_KN8"/>
+        <updated>2024-12-06T05:04:37.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groove like nobody's watching!🎧💥#ReadyaMaaran #Dabzee #HelloMummy #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=x2CPGs0rxxw</id>
+        <link href="https://www.youtube.com/watch?v=x2CPGs0rxxw"/>
+        <updated>2024-12-06T04:30:25.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udayasthamayangal | P Jayachandran | Ayyappa Devotional Song | Sabarimala | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=5Nxa96wbrt4</id>
+        <link href="https://www.youtube.com/watch?v=5Nxa96wbrt4"/>
+        <updated>2024-12-06T04:20:09.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannu Chimmum | Off Road | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=2sVkpgUCMro</id>
