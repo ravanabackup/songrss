@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T16:08:47.748Z</updated>
+    <updated>2024-12-07T17:06:47.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മുഴുവൻ കാണാൻ തഴെ കാണുന്ന ലിങ്ക് സന്ദർശിക്കൂ #jayaram #babyshamili #divyaunni]]></title>
+        <id>https://www.youtube.com/watch?v=C9VzmoFkTZc</id>
+        <link href="https://www.youtube.com/watch?v=C9VzmoFkTZc"/>
+        <updated>2024-12-07T16:41:22.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ekaanthachandrike Video Song | In Harihar Nagar | MG Sreekumar #shorts]]></title>
         <id>https://www.youtube.com/watch?v=eG3FzFVfogE</id>
@@ -12550,33 +12559,6 @@
         <updated>2024-11-08T05:30:20.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandiranano Manath | Chithrakoodam | Swarnalatha | Malyalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=TQaCf2xIy5o</id>
-        <link href="https://www.youtube.com/watch?v=TQaCf2xIy5o"/>
-        <updated>2024-11-08T04:33:18.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get on the floor🕺✨🔥#PachaParishkari #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=MpejUbUbgZY</id>
-        <link href="https://www.youtube.com/watch?v=MpejUbUbgZY"/>
-        <updated>2024-11-08T04:30:16.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേ.. ബാബുട്ടന്റെ സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം 😍 #avirbhav 😍 ഇഷ്ടമായാൽ ഷെയർ ചെയ്യണേ]]></title>
-        <id>https://www.youtube.com/watch?v=-Lq3R-5lCls</id>
-        <link href="https://www.youtube.com/watch?v=-Lq3R-5lCls"/>
-        <updated>2024-11-08T04:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
