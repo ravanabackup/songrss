@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T14:07:05.529Z</updated>
+    <updated>2024-12-07T15:07:22.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ekaanthachandrike Video Song | In Harihar Nagar | MG Sreekumar #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=eG3FzFVfogE</id>
+        <link href="https://www.youtube.com/watch?v=eG3FzFVfogE"/>
+        <updated>2024-12-07T14:30:27.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enrich your Christmas experience with one minute Christmas season thoughts by Rev Pratheesh Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=zLbnim1ejo0</id>
+        <link href="https://www.youtube.com/watch?v=zLbnim1ejo0"/>
+        <updated>2024-12-07T14:30:20.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadodi Theyyavum | Bichu Thirumala | Ouseppachan | KJ Yesudas | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=-dL1DnXijho</id>
+        <link href="https://www.youtube.com/watch?v=-dL1DnXijho"/>
+        <updated>2024-12-07T14:30:00.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rakkilithan Vazhi Marayum Song | Perumazhakkalam Movie Song | Meera Jasmine | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=MumdAC4smwk</id>
