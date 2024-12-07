@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T19:04:39.596Z</updated>
+    <updated>2024-12-07T20:08:10.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12541,33 +12541,6 @@
         <updated>2024-11-08T08:30:29.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വീട്ടിലുള്ള എല്ലാവര്ക്കും ഒരുപോലെ ഇഷ്‌ടമുള്ള  ജനപ്രിയ ഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=BLMjqp2hymI</id>
-        <link href="https://www.youtube.com/watch?v=BLMjqp2hymI"/>
-        <updated>2024-11-08T08:02:26.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[maanam mannil varnam peyyunnu Video Song | Ee Thanalil Ithiri Neram Movie Song | Rahman | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=AOaYBx6YA0Y</id>
-        <link href="https://www.youtube.com/watch?v=AOaYBx6YA0Y"/>
-        <updated>2024-11-08T07:31:35.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മിന്നാമിന്നി ഇത്തിരിപ്പോന്നിൻ | Minnaminni Song | Priyam]]></title>
-        <id>https://www.youtube.com/watch?v=R4-kaCeYrhI</id>
-        <link href="https://www.youtube.com/watch?v=R4-kaCeYrhI"/>
-        <updated>2024-11-08T07:15:01.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
