@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T09:10:14.444Z</updated>
+    <updated>2024-12-09T10:10:16.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Kunjalle | Matthu | Official Video Song | Tiny Tom | Aishika | Renjith Laal]]></title>
+        <id>https://www.youtube.com/watch?v=2XNhDMTEs8w</id>
+        <link href="https://www.youtube.com/watch?v=2XNhDMTEs8w"/>
+        <updated>2024-12-09T10:03:36.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattupadi Urakkam Njan - Audio Song | Seetha | Prem Nazir | Kushalakumari | V Dakshinamoorthy]]></title>
+        <id>https://www.youtube.com/watch?v=q0B_Bv-wHdE</id>
+        <link href="https://www.youtube.com/watch?v=q0B_Bv-wHdE"/>
+        <updated>2024-12-09T09:48:41.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടോടിത്തെയ്യവും തോറ്റവും | nadoditheyyavum thottavum | Sundarakilladi |Malayalam MovieSong | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=O0hmvT0ROyc</id>
+        <link href="https://www.youtube.com/watch?v=O0hmvT0ROyc"/>
+        <updated>2024-12-09T09:31:36.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടോടിത്തെയ്യവും തോറ്റവും | nadoditheyyavum thottavum | Sundarakilladi |Malayalam MovieSong | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=F56A5vWVumw</id>
+        <link href="https://www.youtube.com/watch?v=F56A5vWVumw"/>
+        <updated>2024-12-09T09:20:19.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടിന്റെ സൗന്ദര്യത്താൽ ജനഹൃദയങ്ങളെ കീഴടക്കിയ മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ | EVERGREEN SONGS]]></title>
         <id>https://www.youtube.com/watch?v=FnQAW56efic</id>
@@ -1300,6 +1336,15 @@
         <updated>2024-12-06T06:30:27.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doorangalil | Bharathpuzha | Narayani Gopan | P K Sunil Kumar | Manilal | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=blLp1FbKXJ4</id>
+        <link href="https://www.youtube.com/watch?v=blLp1FbKXJ4"/>
+        <updated>2024-12-06T06:19:30.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -12271,15 +12316,6 @@
         <updated>2024-11-09T22:30:05.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=lgE6SRQC5ug</id>
-        <link href="https://www.youtube.com/watch?v=lgE6SRQC5ug"/>
-        <updated>2024-11-09T22:00:20.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
