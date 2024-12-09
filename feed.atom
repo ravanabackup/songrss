@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T12:16:59.408Z</updated>
+    <updated>2024-12-09T13:21:20.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#nenjaunakaga #sindhubaadh #vijaysethupathi #yuvan #haricharan  #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=7LovYolINdw</id>
+        <link href="https://www.youtube.com/watch?v=7LovYolINdw"/>
+        <updated>2024-12-09T13:10:24.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SUJATHA MOHAN | RAJEEV ALUNKAL | SALGIN KALAPPURA | @JinoKunnumpurathu]]></title>
+        <id>https://www.youtube.com/watch?v=do31bbwunkI</id>
+        <link href="https://www.youtube.com/watch?v=do31bbwunkI"/>
+        <updated>2024-12-09T13:00:51.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നമുക്കുവേണ്ടി ജീവിച്ച ഒരാൾ  | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=tS0RWHPtjYM</id>
+        <link href="https://www.youtube.com/watch?v=tS0RWHPtjYM"/>
+        <updated>2024-12-09T12:30:47.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജീവിത ചെങ്കടൽ കടക്കാൻ സഹായിക്കും ഗാനങ്ങൾ | Prathyasha Geethangal | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=D_2ZIRDyK4E</id>
+        <link href="https://www.youtube.com/watch?v=D_2ZIRDyK4E"/>
+        <updated>2024-12-09T12:30:11.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veera Dheera Sooran - Teaser |Chiyaan Vikram|SJ Suryah |S.U.Arunkumar |G.V.Prakash Kumar |Riya Shibu]]></title>
+        <id>https://www.youtube.com/watch?v=uxVyf47UllA</id>
+        <link href="https://www.youtube.com/watch?v=uxVyf47UllA"/>
+        <updated>2024-12-09T12:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kezhaman Kannale | Abraham And Lincoln | Kalabhavan Mani | Rimi Tomy | Ouseppachan]]></title>
         <id>https://www.youtube.com/watch?v=C9cpwYfKW2I</id>
@@ -12343,15 +12388,6 @@
         <updated>2024-11-10T01:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രിസ്മസ് ഗാനങ്ങൾ 2024 | Christmas Songs Malayalam | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=6AqPoFLDf-Y</id>
-        <link href="https://www.youtube.com/watch?v=6AqPoFLDf-Y"/>
-        <updated>2024-11-10T00:30:05.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
