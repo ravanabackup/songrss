@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T06:13:08.762Z</updated>
+    <updated>2024-12-10T07:09:06.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunnirangi Poya Maram - Audio Song | Padavettu | Nivin Pauly | Liju Krishna | Govind Vasantha]]></title>
+        <id>https://www.youtube.com/watch?v=_kAPu0TWi0k</id>
+        <link href="https://www.youtube.com/watch?v=_kAPu0TWi0k"/>
+        <updated>2024-12-10T07:00:29.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udurajamukhi Video Song | Abraham & Lincoln | Manjari | Ouseppachan | Balachandran Chullikkad]]></title>
+        <id>https://www.youtube.com/watch?v=eJU6Pd1ruSQ</id>
+        <link href="https://www.youtube.com/watch?v=eJU6Pd1ruSQ"/>
+        <updated>2024-12-10T06:31:44.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Rukmini Vasanth | Ace | Vijay Sethupathi | Arumugakumar | Yogi Babu | 7Cs]]></title>
+        <id>https://www.youtube.com/watch?v=7jvGBbD1kg8</id>
+        <link href="https://www.youtube.com/watch?v=7jvGBbD1kg8"/>
+        <updated>2024-12-10T06:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൂരെ ദൂരെ സാഗരം | Doore Doore Saagaram | varavelp | Malayalam Movie Song | Mohanlal | K S Chithra]]></title>
         <id>https://www.youtube.com/watch?v=0a5ISmgmzB8</id>
@@ -12386,15 +12413,6 @@
         <id>https://www.youtube.com/watch?v=F7ZrnV78FKM</id>
         <link href="https://www.youtube.com/watch?v=F7ZrnV78FKM"/>
         <updated>2024-11-10T22:00:06.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 11 # Athiravile Prarthana 11th of November 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=QVcm0WUylnM</id>
-        <link href="https://www.youtube.com/watch?v=QVcm0WUylnM"/>
-        <updated>2024-11-10T19:00:13.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
