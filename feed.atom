@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T16:10:45.188Z</updated>
+    <updated>2024-12-11T17:07:43.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[11 December 2024]]></title>
+        <id>https://www.youtube.com/watch?v=bfj9slMbcQE</id>
+        <link href="https://www.youtube.com/watch?v=bfj9slMbcQE"/>
+        <updated>2024-12-11T16:15:23.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #christmascarolsongsmalayalam  #mariakolady]]></title>
         <id>https://www.youtube.com/watch?v=s-X0d_yCWkc</id>
@@ -9340,6 +9349,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neethiyil Sooryan | Christian Songs Malayalam | Non Stop Worship Songs | Old Convention Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-yUapZ2Qezs</id>
+        <link href="https://www.youtube.com/watch?v=-yUapZ2Qezs"/>
+        <updated>2024-11-20T00:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Japamala 20th of November 24 # Mathavinte Japamala Mahimayude Rahasyangal 20th of November 24]]></title>
         <id>https://www.youtube.com/watch?v=nODaOP6njKc</id>
         <link href="https://www.youtube.com/watch?v=nODaOP6njKc"/>
@@ -10462,6 +10480,15 @@
         <updated>2024-11-16T23:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bethlahem Rajan | Christian Songs Malayalam | Non Stop Worship Songs | Old Convention Songs]]></title>
+        <id>https://www.youtube.com/watch?v=SpV8vUFbUF4</id>
+        <link href="https://www.youtube.com/watch?v=SpV8vUFbUF4"/>
+        <updated>2024-11-16T23:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11671,6 +11698,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Idayanarike | Malayalam Christian Songs | Non Stop Worship Songs | Old Convention Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Jslh4bGTvnw</id>
+        <link href="https://www.youtube.com/watch?v=Jslh4bGTvnw"/>
+        <updated>2024-11-14T11:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kannanayal Radha Venam Video Song | Pattanathil Sundaran| Dileep | Navya Nair| KJ Yesudas| Rimi Tomy]]></title>
         <id>https://www.youtube.com/watch?v=-lTrexcJ7zo</id>
         <link href="https://www.youtube.com/watch?v=-lTrexcJ7zo"/>
@@ -12712,33 +12748,6 @@
         <updated>2024-11-12T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellavarkkum Prarthikkuvan | Rajesh Athikkayam | Joji Johns | Chithra Arun | Christian Prayer Songs]]></title>
-        <id>https://www.youtube.com/watch?v=A_4EwYLWXTE</id>
-        <link href="https://www.youtube.com/watch?v=A_4EwYLWXTE"/>
-        <updated>2024-11-12T04:33:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catch the groove, lose control!🔥🕺#ReadyaMaaran #Dabzee #HelloMummy #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=C_0agSTpBHk</id>
-        <link href="https://www.youtube.com/watch?v=C_0agSTpBHk"/>
-        <updated>2024-11-12T04:30:04.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Milk Bikis | Meiyazhagan | Karthi, Arvind Swami | Govind Vasantha | C.Premkumar]]></title>
-        <id>https://www.youtube.com/watch?v=BL5-5qiXGMU</id>
-        <link href="https://www.youtube.com/watch?v=BL5-5qiXGMU"/>
-        <updated>2024-11-12T04:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
