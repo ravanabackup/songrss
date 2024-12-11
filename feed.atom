@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T07:09:12.697Z</updated>
+    <updated>2024-12-11T08:12:13.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അയ്യപ്പ ഹരേ അയ്യപ്പ പാഹിമാം | Ayyappa Devotional Song | Jayan (Jaya Vijaya ) Sabarimala | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=SFXcBZZQOXY</id>
+        <link href="https://www.youtube.com/watch?v=SFXcBZZQOXY"/>
+        <updated>2024-12-11T07:50:32.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarakanyakamar | Santhwanam | Rekha | Nedumudi Venu | Bharathi | Suresh Gopi - KS Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=NFfDgqd-bTY</id>
+        <link href="https://www.youtube.com/watch?v=NFfDgqd-bTY"/>
+        <updated>2024-12-11T07:19:38.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keyakkathum Manathu | Folk Song | Sathkala Vijayan #naadanpaattu #nadanpattu #folksong #shortsfeed]]></title>
         <id>https://www.youtube.com/watch?v=QoK2V4KNhGk</id>
