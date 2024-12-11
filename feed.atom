@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T06:13:00.929Z</updated>
+    <updated>2024-12-11T07:09:12.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keyakkathum Manathu | Folk Song | Sathkala Vijayan #naadanpaattu #nadanpattu #folksong #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=QoK2V4KNhGk</id>
+        <link href="https://www.youtube.com/watch?v=QoK2V4KNhGk"/>
+        <updated>2024-12-11T07:00:21.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaanaville Minnalkkodiye Video Song | Vakkalathu Narayanankutty Movie Song | HD |]]></title>
+        <id>https://www.youtube.com/watch?v=FWwud7lqCqM</id>
+        <link href="https://www.youtube.com/watch?v=FWwud7lqCqM"/>
+        <updated>2024-12-11T06:30:02.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inneekkochuvarambin Video Song | Vaalsalyam | Kaithapram | SP Venkitesh | KJ Yesudas | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=-_abBwzbf2A</id>
@@ -12521,15 +12539,6 @@
         <id>https://www.youtube.com/watch?v=r2BseDs3dTU</id>
         <link href="https://www.youtube.com/watch?v=r2BseDs3dTU"/>
         <updated>2024-11-11T22:00:36.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 12 # Athiravile Prarthana 12th of November 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lOScdR9pXLE</id>
-        <link href="https://www.youtube.com/watch?v=lOScdR9pXLE"/>
-        <updated>2024-11-11T19:00:26.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
