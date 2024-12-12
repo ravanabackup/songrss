@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T11:07:33.388Z</updated>
+    <updated>2024-12-12T12:16:25.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parakramam OST | Anoop Nirichan | Dev Mohan | Sona Olickal | Arjun Ramesh]]></title>
+        <id>https://www.youtube.com/watch?v=IZWaqWaG3Ww</id>
+        <link href="https://www.youtube.com/watch?v=IZWaqWaG3Ww"/>
+        <updated>2024-12-12T12:00:31.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൊക്കരക്കൊക്കര | Kokkarakkokkara | Mailanji | Malayalam Movie Super hit Song | Janardhanan]]></title>
+        <id>https://www.youtube.com/watch?v=DveqYzX0bAs</id>
+        <link href="https://www.youtube.com/watch?v=DveqYzX0bAs"/>
+        <updated>2024-12-12T11:45:01.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 12th of December 2024]]></title>
+        <id>https://www.youtube.com/watch?v=JY5KFYUXrj4</id>
+        <link href="https://www.youtube.com/watch?v=JY5KFYUXrj4"/>
+        <updated>2024-12-12T11:30:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAGA LOKATHULLA | Video Song | Mayamma | Ramesh Kumar Koramangalam | Rajesh Vijay | Premila]]></title>
+        <id>https://www.youtube.com/watch?v=K7Wk5hl8H6I</id>
+        <link href="https://www.youtube.com/watch?v=K7Wk5hl8H6I"/>
+        <updated>2024-12-12T11:30:10.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orukalam Ee mannum Video Song |  Anagha Movie Song | Paravathy | K.J Yesudas |  Joseph Ozhukayil]]></title>
+        <id>https://www.youtube.com/watch?v=2OYX925GzTI</id>
+        <link href="https://www.youtube.com/watch?v=2OYX925GzTI"/>
+        <updated>2024-12-12T11:29:27.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NAGA LOKATHULLA | Video Song | Mayamma | Ramesh Kumar Koramangalam | Rajesh Vijay | Premila]]></title>
         <id>https://www.youtube.com/watch?v=GrWsONRcPHM</id>
@@ -12595,15 +12640,6 @@
         <updated>2024-11-13T00:30:14.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 13th of November 24 # Mathavinte Japamala Mahimayude Rahasyangal 13th of November 24]]></title>
-        <id>https://www.youtube.com/watch?v=-e08JO5afSc</id>
-        <link href="https://www.youtube.com/watch?v=-e08JO5afSc"/>
-        <updated>2024-11-12T23:30:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
