@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T21:08:07.799Z</updated>
+    <updated>2024-12-12T22:07:58.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=8ahXLA9R374</id>
+        <link href="https://www.youtube.com/watch?v=8ahXLA9R374"/>
+        <updated>2024-12-12T22:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  December 13 # Athiravile Prarthana 13th of December 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=u7P6k0LACr4</id>
@@ -12658,15 +12667,6 @@
         <updated>2024-11-13T11:30:05.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kai Kottu Penne Video Song | Karumadikuttan | Kalabhavan Mani | Nadhini | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=7UmA7Rm39tw</id>
-        <link href="https://www.youtube.com/watch?v=7UmA7Rm39tw"/>
-        <updated>2024-11-13T10:02:47.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
