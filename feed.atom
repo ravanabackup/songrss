@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T03:27:21.542Z</updated>
+    <updated>2024-12-12T04:10:54.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valittu Kannezhuthum | Kaikudunna Nilavu| Kaithapram | Dileep | Shalini | KJ Yesudas | Youtubeshorts]]></title>
+        <id>https://www.youtube.com/watch?v=7p1sFPj4Yjo</id>
+        <link href="https://www.youtube.com/watch?v=7p1sFPj4Yjo"/>
+        <updated>2024-12-12T04:00:04.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Idayan Varum | Off Road | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=scNS16lhIAg</id>
@@ -12505,24 +12514,6 @@
         <updated>2024-11-12T16:51:16.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=mXwVP8JgN8o</id>
-        <link href="https://www.youtube.com/watch?v=mXwVP8JgN8o"/>
-        <updated>2024-11-12T16:00:47.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=jB-LY07AH68</id>
-        <link href="https://www.youtube.com/watch?v=jB-LY07AH68"/>
-        <updated>2024-11-12T15:30:21.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
