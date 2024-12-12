@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T20:10:04.059Z</updated>
+    <updated>2024-12-12T21:08:07.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12667,15 +12667,6 @@
         <updated>2024-11-13T10:02:47.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K For Krishna - Video Lyrical | Guruvayoorambala Nadayil | Prithviraj | Basil |Anaswara |Ankit Menon]]></title>
-        <id>https://www.youtube.com/watch?v=gAwRLX1oNRM</id>
-        <link href="https://www.youtube.com/watch?v=gAwRLX1oNRM"/>
-        <updated>2024-11-13T08:30:29.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
