@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-14T19:04:37.683Z</updated>
+    <updated>2024-12-14T20:08:41.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12721,33 +12721,6 @@
         <updated>2024-11-15T09:00:56.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sriranga Neethulu - Govinda Hari Govinda Video | Suhas, Ruhani Sharma | Ajay Arasada]]></title>
-        <id>https://www.youtube.com/watch?v=QRLtrkR8fgc</id>
-        <link href="https://www.youtube.com/watch?v=QRLtrkR8fgc"/>
-        <updated>2024-11-15T08:00:21.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sriranga Neethulu - Oohallo Oohalla Video | Suhas, Ruhani Sharma | Ajay Arasada]]></title>
-        <id>https://www.youtube.com/watch?v=K3oOR0iWUhU</id>
-        <link href="https://www.youtube.com/watch?v=K3oOR0iWUhU"/>
-        <updated>2024-11-15T08:00:15.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എപ്പോഴും കാതിൽ മന്ത്രിക്കും അസുലഭ സുന്ദര ഗാനങ്ങൾ | MALAYALAM MOVIE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=9wys_dLH04E</id>
-        <link href="https://www.youtube.com/watch?v=9wys_dLH04E"/>
-        <updated>2024-11-15T07:37:00.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
