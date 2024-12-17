@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T13:20:34.366Z</updated>
+    <updated>2024-12-17T14:08:26.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chaithra Nilavinte Video Song | Oral Mathram | Mammootty | KJ Yesudas | Johnson | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=6tOqypuN1cQ</id>
+        <link href="https://www.youtube.com/watch?v=6tOqypuN1cQ"/>
+        <updated>2024-12-17T13:32:28.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Biju Narayanan | Christian Devotional Songs Malayalam | Christmas Songs]]></title>
+        <id>https://www.youtube.com/watch?v=K-z-sB251rM</id>
+        <link href="https://www.youtube.com/watch?v=K-z-sB251rM"/>
+        <updated>2024-12-17T13:30:19.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marante Kovilil | Laava | G Devarajan | Yusufali Kecheri | KJ Yesudas | Evergreen Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GGx9rb2Pils</id>
+        <link href="https://www.youtube.com/watch?v=GGx9rb2Pils"/>
+        <updated>2024-12-17T13:30:08.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanguva (Malayalam) - Full Album | Suriya, Disha Patani | Bobby Deol | Devi Sri Prasad | Siva]]></title>
+        <id>https://www.youtube.com/watch?v=4d874J5SacM</id>
+        <link href="https://www.youtube.com/watch?v=4d874J5SacM"/>
+        <updated>2024-12-17T13:30:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varthingal Kudamalle Song | Dreams Movie Song | Suresh Gopi | 4K Songs Malayalam | Vidyasagar Hits]]></title>
         <id>https://www.youtube.com/watch?v=1so-_gQUhf0</id>
@@ -121,6 +157,15 @@
         <updated>2024-12-17T10:14:08.000Z</updated>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Songs | Janana Perunnal Songs | ജനനപ്പെരുന്നാൾ ഗീതങ്ങൾ | Davidin Makkal | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=4Q9Tr_Oc130</id>
+        <link href="https://www.youtube.com/watch?v=4Q9Tr_Oc130"/>
+        <updated>2024-12-17T10:10:09.000Z</updated>
+        <author>
+            <name>Music Spread</name>
         </author>
     </entry>
     <entry>
