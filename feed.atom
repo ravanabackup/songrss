@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T00:40:52.302Z</updated>
+    <updated>2024-12-18T02:16:07.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minnum Minnum | Kottayam Jerusalem MarThoma Church Choir | Carol Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=HS75iK_sIzU</id>
+        <link href="https://www.youtube.com/watch?v=HS75iK_sIzU"/>
+        <updated>2024-12-18T02:00:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ക്രിസ്മസ് ദിന പാതിരാകുർബാനയിൽ ആലപിക്കുന്ന ഗാനങ്ങൾ | Christmas Songs Malayalam | Wilson Piravom]]></title>
         <id>https://www.youtube.com/watch?v=4vR_q_usIns</id>
@@ -12415,96 +12424,6 @@
         <updated>2024-11-18T14:30:06.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandana Thennalai Video Song | Sharjah to Sharjah | Jayaram | KJ Yesudas | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=nQuCZ7nuz5Q</id>
-        <link href="https://www.youtube.com/watch?v=nQuCZ7nuz5Q"/>
-        <updated>2024-11-18T14:07:24.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalichirithan Prayam | Jayaram | The Car | S.Ramesan Nair | K. J. Yesudas |  #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=wRvV4F7PwOg</id>
-        <link href="https://www.youtube.com/watch?v=wRvV4F7PwOg"/>
-        <updated>2024-11-18T14:00:57.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേ.. കാത്തുക്കുട്ടൻ തകർത്തു പാടിയ സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനങ്ങൾ!! | #super | #christian | #hits]]></title>
-        <id>https://www.youtube.com/watch?v=ZUCWk8mqDNM</id>
-        <link href="https://www.youtube.com/watch?v=ZUCWk8mqDNM"/>
-        <updated>2024-11-18T14:00:38.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disco Disco | Ee Thanalil Ithiri Neram Movie Song | Rahman | Shobhana |  KJ Yesudas |]]></title>
-        <id>https://www.youtube.com/watch?v=9jWDm5VBAbw</id>
-        <link href="https://www.youtube.com/watch?v=9jWDm5VBAbw"/>
-        <updated>2024-11-18T14:00:08.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadodi Theyyavum  | Sundarakilladi | Dileep | Ouseppachan | Shalini | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Hkp0L5zN-vM</id>
-        <link href="https://www.youtube.com/watch?v=Hkp0L5zN-vM"/>
-        <updated>2024-11-18T13:30:14.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehapoorvam Gowri Savithri Musical Album | Sony Sai | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=5iQ1Vf7-hig</id>
-        <link href="https://www.youtube.com/watch?v=5iQ1Vf7-hig"/>
-        <updated>2024-11-18T13:30:05.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏവരും ഒരേപോലെ ഇഷ്ടപെടുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Kester | Christian Superhit Songs | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=2ruDjnL4UeQ</id>
-        <link href="https://www.youtube.com/watch?v=2ruDjnL4UeQ"/>
-        <updated>2024-11-18T13:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manavatti Penninte Manasu Oru Song | Kaliyoonjal Movie Song | Baby Shalini | Dileep | Ilayaraja]]></title>
-        <id>https://www.youtube.com/watch?v=ml2YimLhR_g</id>
-        <link href="https://www.youtube.com/watch?v=ml2YimLhR_g"/>
-        <updated>2024-11-18T13:06:26.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annu Aa Bathlahem | കേൾക്കുമ്പോൾ കാതിന് കുളിർമയേകുന്ന ക്രിസ്തുമസ് ഗാനം | @JinoKunnumpurathu #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qiBW6YfIxTQ</id>
-        <link href="https://www.youtube.com/watch?v=qiBW6YfIxTQ"/>
-        <updated>2024-11-18T13:01:08.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anirudh Ravichander, Ritesh G Rao - Manduthunna (From "Vettaiyan The Hunter (Telugu)")]]></title>
-        <id>https://www.youtube.com/watch?v=r9GJ244L2kw</id>
-        <link href="https://www.youtube.com/watch?v=r9GJ244L2kw"/>
-        <updated>2024-11-18T12:50:07.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
