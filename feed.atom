@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T04:10:38.338Z</updated>
+    <updated>2024-12-19T05:08:42.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Etho Nidrathan | 1080p | Ayal Kadha Ezhthukayanu | Mohanlal | Nandini| Kaithapram | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=WNcQrh_pMZI</id>
+        <link href="https://www.youtube.com/watch?v=WNcQrh_pMZI"/>
+        <updated>2024-12-19T05:06:59.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehatharattu | Shreya Gailin | Santhosh Varma | Shorts  #christmascarolsongsmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=Tvx5ccPwSNU</id>
+        <link href="https://www.youtube.com/watch?v=Tvx5ccPwSNU"/>
+        <updated>2024-12-19T05:00:26.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karimbennu karuthi | കരിമ്പെന്നു കരുതി | Manithali | Malayalam Movie Song | Prem Nazir | Seema]]></title>
+        <id>https://www.youtube.com/watch?v=G1HafZ2ByPE</id>
+        <link href="https://www.youtube.com/watch?v=G1HafZ2ByPE"/>
+        <updated>2024-12-19T04:45:01.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katharamizhiyinakal Idayum | Official Video Song | Mayamma | Ramesh Kumar Koramangalam |Rajesh Vijay]]></title>
+        <id>https://www.youtube.com/watch?v=tCMv8qi9HKs</id>
+        <link href="https://www.youtube.com/watch?v=tCMv8qi9HKs"/>
+        <updated>2024-12-19T04:30:20.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattum punchum! 💥🎶#PachaParishkari #ThirumaLi #JayStellar #KJYesudas #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=OmlL2Dom5zA</id>
+        <link href="https://www.youtube.com/watch?v=OmlL2Dom5zA"/>
+        <updated>2024-12-19T04:30:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nithya Soubaghyame | Biju Narayanan | ArchBishop Cornelius Elanjikkal | Job&George | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=Le6Zip2Fl3Y</id>
