@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-20T06:11:43.318Z</updated>
+    <updated>2024-12-20T07:08:03.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalikal THirunadhanayi...#christiandevotionalsongsmalayalam #christmassongs #sebugeorge #jojijohns]]></title>
+        <id>https://www.youtube.com/watch?v=b-xQkPy4zt8</id>
+        <link href="https://www.youtube.com/watch?v=b-xQkPy4zt8"/>
+        <updated>2024-12-20T06:45:02.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yoodayayail...#christmassongsmalayalam #sebugrorge #jojijohns #christmassongs]]></title>
         <id>https://www.youtube.com/watch?v=7sFALKWQMfs</id>
@@ -12593,15 +12602,6 @@
         <id>https://www.youtube.com/watch?v=6btemQSlg18</id>
         <link href="https://www.youtube.com/watch?v=6btemQSlg18"/>
         <updated>2024-11-20T22:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 21 # Athiravile Prarthana 21st of November 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=nGlPv53IGGA</id>
-        <link href="https://www.youtube.com/watch?v=nGlPv53IGGA"/>
-        <updated>2024-11-20T19:00:28.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
