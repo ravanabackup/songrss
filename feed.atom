@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-20T23:07:34.541Z</updated>
+    <updated>2024-12-21T00:38:18.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas Video Songs | Santhosh Panditt | Madhu Balakrishnan | Christmas Carol Songs | Sanoop Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=jg9rEaR9KPM</id>
+        <link href="https://www.youtube.com/watch?v=jg9rEaR9KPM"/>
+        <updated>2024-12-21T00:30:31.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 21st of December 24 # Mathavinte Japamala Santhoshathinte Rahasyangal 21st of December 24]]></title>
+        <id>https://www.youtube.com/watch?v=bBlUwj7qzFI</id>
+        <link href="https://www.youtube.com/watch?v=bBlUwj7qzFI"/>
+        <updated>2024-12-20T23:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡിസംബർ: 21, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
         <id>https://www.youtube.com/watch?v=ANZVT8dGAxU</id>
@@ -12739,78 +12757,6 @@
         <updated>2024-11-21T12:48:11.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanunnu Njan Yahil | Prayer and Worship Songs | Alice Kottayam | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=VPQr17bisdw</id>
-        <link href="https://www.youtube.com/watch?v=VPQr17bisdw"/>
-        <updated>2024-11-21T12:30:32.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നല്ല വാക്കുകൾ   | 😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=3Jdk6EHTHPY</id>
-        <link href="https://www.youtube.com/watch?v=3Jdk6EHTHPY"/>
-        <updated>2024-11-21T12:30:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etho Varmukilin | ഏതോ വാർ‍മുകിലിൻ.. | Pookkaalam Varavay | Evergreen Malayalam Film Song | Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=ibGZ1Q2MDaI</id>
-        <link href="https://www.youtube.com/watch?v=ibGZ1Q2MDaI"/>
-        <updated>2024-11-21T12:22:01.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ayyappa Saranam - Audio Song | Sabarimala Sri Dharmasastha | Jaya-Vijaya | K.J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=ndvUCNVk004</id>
-        <link href="https://www.youtube.com/watch?v=ndvUCNVk004"/>
-        <updated>2024-11-21T11:30:36.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grooving with Aishwarya and Sharaf, every step is pure energy!💃🔥 #ReadyaMaaran #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=d3F7XWz0GH8</id>
-        <link href="https://www.youtube.com/watch?v=d3F7XWz0GH8"/>
-        <updated>2024-11-21T11:30:32.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 21st of November 2024]]></title>
-        <id>https://www.youtube.com/watch?v=dENzQ_D7ll8</id>
-        <link href="https://www.youtube.com/watch?v=dENzQ_D7ll8"/>
-        <updated>2024-11-21T11:30:22.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Vanam - Lyrical | Bottle Radha | Guru Somasundaram,Sanchana |Sean Roldan |Dhinakaran | Pa Ranjith]]></title>
-        <id>https://www.youtube.com/watch?v=DBk8UHlnkYc</id>
-        <link href="https://www.youtube.com/watch?v=DBk8UHlnkYc"/>
-        <updated>2024-11-21T11:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhake Nin Video Song | Amaram | Mammootty | Maathu | Ashokan | KJ Yesudas | KS Chithra | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=eNRaGAMJ5jA</id>
-        <link href="https://www.youtube.com/watch?v=eNRaGAMJ5jA"/>
-        <updated>2024-11-21T11:17:00.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
