@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T19:03:09.115Z</updated>
+    <updated>2024-12-21T20:08:06.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12856,51 +12856,6 @@
         <updated>2024-11-22T08:45:32.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pekamedalu - Varalaxmi Video | Vinoth Kishan, Anoosha Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=oH_nUiyxB88</id>
-        <link href="https://www.youtube.com/watch?v=oH_nUiyxB88"/>
-        <updated>2024-11-22T08:00:45.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pekamedalu - Sher Shiva Video | Vinoth Kishan, Anoosha Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=o24VfQlkQdM</id>
-        <link href="https://www.youtube.com/watch?v=o24VfQlkQdM"/>
-        <updated>2024-11-22T08:00:42.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pekamedalu - Boom Boom Lacchanna Video | Vinoth Kishan, Anoosha Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=9M7G_0SgGBc</id>
-        <link href="https://www.youtube.com/watch?v=9M7G_0SgGBc"/>
-        <updated>2024-11-22T08:00:11.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്തു പറഞ്ഞാലും നീ എന്റേതല്ലേ വാവേ | Enthu Paranjalum  | Achuvinte Amma Movie Song | Meera Jasmin]]></title>
-        <id>https://www.youtube.com/watch?v=yeZyfHbx1Kg</id>
-        <link href="https://www.youtube.com/watch?v=yeZyfHbx1Kg"/>
-        <updated>2024-11-22T07:45:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കാൻ കിട്ടുന്ന അവസരമൊന്നും പാഴാക്കാത്ത മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് മെലഡി ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=7gn_d8mLzPw</id>
-        <link href="https://www.youtube.com/watch?v=7gn_d8mLzPw"/>
-        <updated>2024-11-22T07:30:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
