@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T16:08:12.473Z</updated>
+    <updated>2024-12-21T17:04:43.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎄Paridam Mangala Geethiyal...  #matchpointfaith #Christmas #christmas2024 #mariakolady]]></title>
+        <id>https://www.youtube.com/watch?v=jqOwVmiXFQg</id>
+        <link href="https://www.youtube.com/watch?v=jqOwVmiXFQg"/>
+        <updated>2024-12-21T16:16:51.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Songs |ജനന പെരുന്നാൾ |യൽദോ പെരുന്നാൾ ഗീതങ്ങൾ | Janana Perunal |Yeldo perunal| Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=awKRmxQlLU0</id>
@@ -12937,33 +12946,6 @@
         <updated>2024-11-22T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthikalinmel Vasikkunnavane Karaoke | Malayalam Christian Karaoke | Worship Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=eomjQlwItHw</id>
-        <link href="https://www.youtube.com/watch?v=eomjQlwItHw"/>
-        <updated>2024-11-22T05:02:20.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹോ, തകർത്തു മോളെ!! ലോകമേമ്പാടും കയ്യടിച്ചു തകർത്തു പാടിയ സൂപ്പർഹിറ്റ് ഗാനം 😍 ഇഷ്ടമായാൽ ഷെയർ ചെയ്യണേ]]></title>
-        <id>https://www.youtube.com/watch?v=c_6N97NcAQA</id>
-        <link href="https://www.youtube.com/watch?v=c_6N97NcAQA"/>
-        <updated>2024-11-22T04:30:17.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From funky beats to fiery flows, this rap's got it all! 🔥🎶#PachaParishkari #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=GpfFp1d496c</id>
-        <link href="https://www.youtube.com/watch?v=GpfFp1d496c"/>
-        <updated>2024-11-22T04:30:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
