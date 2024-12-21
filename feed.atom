@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T05:07:32.473Z</updated>
+    <updated>2024-12-21T06:10:15.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rudhira Suryan | Theevram | Video Song |  Dulquer Salmaan | Rafeeq Ahammed | Roby Abraham]]></title>
+        <id>https://www.youtube.com/watch?v=bdiTf6eJASc</id>
+        <link href="https://www.youtube.com/watch?v=bdiTf6eJASc"/>
+        <updated>2024-12-21T05:30:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaliyoor Bhagavathikku Video Song | Dada Sahib | Mammootty | KS Chithra| MG Sreekumar|Vijay Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=-BNnvuvdm2Q</id>
+        <link href="https://www.youtube.com/watch?v=-BNnvuvdm2Q"/>
+        <updated>2024-12-21T05:13:28.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Karalinte Novarinjal | Kottaram Veetile Apputtan |Best Malayalam Song |Yesudas |Jayaram, Shruti]]></title>
+        <id>https://www.youtube.com/watch?v=QVSvuIQdCUk</id>
+        <link href="https://www.youtube.com/watch?v=QVSvuIQdCUk"/>
+        <updated>2024-12-21T05:09:51.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Po po kaalamone | പോ പോ കാളമോനേ | Enthino Pookkunna Pookkal | Malayalam Movie Song | Mammootty]]></title>
         <id>https://www.youtube.com/watch?v=UBETl1gCR14</id>
@@ -4486,6 +4513,15 @@
         <updated>2024-12-11T07:00:21.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surabhila Sundara Swapnam | Official Trailer | Paul Viji Varghese | Dayyana Hameed | Electronic Kili]]></title>
+        <id>https://www.youtube.com/watch?v=Y1yXkRf-wMY</id>
+        <link href="https://www.youtube.com/watch?v=Y1yXkRf-wMY"/>
+        <updated>2024-12-11T06:42:54.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
@@ -12676,24 +12712,6 @@
         <updated>2024-11-21T19:00:29.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd November 24]]></title>
-        <id>https://www.youtube.com/watch?v=Cjep6O_ghGc</id>
-        <link href="https://www.youtube.com/watch?v=Cjep6O_ghGc"/>
-        <updated>2024-11-21T18:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 November 2024]]></title>
-        <id>https://www.youtube.com/watch?v=tCKv5GoKK2s</id>
-        <link href="https://www.youtube.com/watch?v=tCKv5GoKK2s"/>
-        <updated>2024-11-21T17:19:24.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
