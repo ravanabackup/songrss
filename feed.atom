@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T00:42:35.864Z</updated>
+    <updated>2024-12-22T02:16:08.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bethlehem Vicharangal day 22]]></title>
+        <id>https://www.youtube.com/watch?v=KsDNuQrM9kA</id>
+        <link href="https://www.youtube.com/watch?v=KsDNuQrM9kA"/>
+        <updated>2024-12-22T01:20:39.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇപ്പോൾ എല്ലാവരും കേൾക്കുന്ന ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Songs | Joji Johns | Christmas Carol Songs]]></title>
         <id>https://www.youtube.com/watch?v=4l2dxk-TElw</id>
@@ -12685,60 +12694,6 @@
         <updated>2024-11-22T14:26:41.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hara Hara Shankara | Rasikan | Dileep | Samvrutha | Vidyasagar | Dinesh | Laljose - HD Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=wf56F_9VMc0</id>
-        <link href="https://www.youtube.com/watch?v=wf56F_9VMc0"/>
-        <updated>2024-11-22T13:30:38.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു താരാട്ടുപോലെ മനസിനെ തഴുകിയുറക്കും സൂപ്പർഹിറ്റ് ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=uCwrXboYbP4</id>
-        <link href="https://www.youtube.com/watch?v=uCwrXboYbP4"/>
-        <updated>2024-11-22T13:30:33.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vikaara Naukayumayi Video Song | Amaram | Mammootty | KJ Yesudas | Raveendran | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=tsMe1GaUMDg</id>
-        <link href="https://www.youtube.com/watch?v=tsMe1GaUMDg"/>
-        <updated>2024-11-22T13:15:55.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnivaave മനോഹരമായ ക്രിസ്മസ് ഗാനം  @JinoKunnumpurathu    #shorts  #christmas]]></title>
-        <id>https://www.youtube.com/watch?v=OWhPW4zhRc0</id>
-        <link href="https://www.youtube.com/watch?v=OWhPW4zhRc0"/>
-        <updated>2024-11-22T13:00:26.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuraga Vilochananayi Song | Archana Kavi | Vidyasagar | Shreya Ghoshal | Neelathaamara Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=KqZ6K7ItIMs</id>
-        <link href="https://www.youtube.com/watch?v=KqZ6K7ItIMs"/>
-        <updated>2024-11-22T13:00:19.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vavvalum Perakkayum | Official Teaser | NV Manoj | Raghuchandran J. Menon]]></title>
-        <id>https://www.youtube.com/watch?v=QlXf8YqMv80</id>
-        <link href="https://www.youtube.com/watch?v=QlXf8YqMv80"/>
-        <updated>2024-11-22T12:47:52.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
         </author>
     </entry>
 </feed>
