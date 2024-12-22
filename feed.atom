@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T08:09:48.126Z</updated>
+    <updated>2024-12-22T09:07:14.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Annoru Nalil Bethlahemil | Carol 2024 | Latest Christmas Songs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=rBx6vo4e9yU</id>
+        <link href="https://www.youtube.com/watch?v=rBx6vo4e9yU"/>
+        <updated>2024-12-22T09:00:50.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vasanthathin Makalallo Video Song | Vivahitha Movie | Yesudas | Vayalar | Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=Ze0WU2vxX94</id>
+        <link href="https://www.youtube.com/watch?v=Ze0WU2vxX94"/>
+        <updated>2024-12-22T08:30:13.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He Dil Deevana | Twenty 20 #nayanthara #prithvirajsukumaran  #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=rln4OiIu8ng</id>
