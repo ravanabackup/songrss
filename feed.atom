@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T21:07:06.262Z</updated>
+    <updated>2024-12-24T22:07:12.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=LnJ1KUjVMGI</id>
+        <link href="https://www.youtube.com/watch?v=LnJ1KUjVMGI"/>
+        <updated>2024-12-24T22:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 25 # Athiravile Prarthana 25th of December 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=FE5_TC25mow</id>
@@ -13009,24 +13018,6 @@
         <updated>2024-11-25T10:17:58.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#rithushalabame #10kalpanakal #sheyaghosal #mithuneshwar #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=FDgnBlkoXAY</id>
-        <link href="https://www.youtube.com/watch?v=FDgnBlkoXAY"/>
-        <updated>2024-11-25T10:01:28.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varthinkal Thellalle 4K Video Song | Dreams | Suresh Gopi | Meena | KJ Yesudas | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=wxbi2fLT-gY</id>
-        <link href="https://www.youtube.com/watch?v=wxbi2fLT-gY"/>
-        <updated>2024-11-25T09:52:57.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
