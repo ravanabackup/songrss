@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T12:14:45.508Z</updated>
+    <updated>2024-12-24T13:14:31.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjaninja | മധുരമേകുന്ന ക്രിസ്മസ് ഗാനം |   @JinoKunnumpurathu              #shorts #carol #xmas]]></title>
+        <id>https://www.youtube.com/watch?v=jCEyWGRjILE</id>
+        <link href="https://www.youtube.com/watch?v=jCEyWGRjILE"/>
+        <updated>2024-12-24T13:00:59.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karunamayane Kaval Vilakke Song | 4K | Oru Maravathoor Kanavu | Vidyasagar | KJ Yesudas | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=hRKXB07aGao</id>
+        <link href="https://www.youtube.com/watch?v=hRKXB07aGao"/>
+        <updated>2024-12-24T13:00:51.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marakudayaal Video Song | Gireesh Puthenchery | Ilayaraja | MG Sreekumar | Jayaram | Manassinakkare]]></title>
+        <id>https://www.youtube.com/watch?v=4dt1H1rZDXQ</id>
+        <link href="https://www.youtube.com/watch?v=4dt1H1rZDXQ"/>
+        <updated>2024-12-24T12:53:29.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nattumaviloru Maina | Judith Ann | Film Cover | Malayalam Movie Songs | Unplugged | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=gebIXZW1Hbc</id>
+        <link href="https://www.youtube.com/watch?v=gebIXZW1Hbc"/>
+        <updated>2024-12-24T12:30:40.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിന്റെ മനുഷ്യമുഖം |😇 | Rev. Aneesh P Joseph | #shorts #motivation #christmas]]></title>
+        <id>https://www.youtube.com/watch?v=Sl6g8FGt3Ac</id>
+        <link href="https://www.youtube.com/watch?v=Sl6g8FGt3Ac"/>
+        <updated>2024-12-24T12:30:22.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carol Songs for 24th of December 2024 Christmas Evening Songs #carolsongsmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=5aTrrt78Ubw</id>
+        <link href="https://www.youtube.com/watch?v=5aTrrt78Ubw"/>
+        <updated>2024-12-24T12:30:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachamalayil Video Song | Vivahitha |  Vayalar | G Devarajan | P Susheela |Old Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=14oAb0uJc-k</id>
+        <link href="https://www.youtube.com/watch?v=14oAb0uJc-k"/>
+        <updated>2024-12-24T12:30:01.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadhane Mamake | Prathyasha Geethangal | Kottayam Willamis | Prayer and Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=12U7XQX-NEU</id>
+        <link href="https://www.youtube.com/watch?v=12U7XQX-NEU"/>
+        <updated>2024-12-24T12:30:01.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വിണ്ണിൽ നിറയെ താരകവൃന്ദം #christiandevotionalsongs #christmasmusics #christmasshorts #christiansongs]]></title>
         <id>https://www.youtube.com/watch?v=4AmqX8kqLoE</id>
@@ -12865,15 +12937,6 @@
         <updated>2024-11-25T03:34:26.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prabhatha Geethangal | Manjeri | Christian Melody Songs |Joji Johns | Wilson Piravom | Morning Songs]]></title>
-        <id>https://www.youtube.com/watch?v=DoZvwwK81GA</id>
-        <link href="https://www.youtube.com/watch?v=DoZvwwK81GA"/>
-        <updated>2024-11-25T00:30:07.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
