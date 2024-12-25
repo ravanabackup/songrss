@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T16:08:54.623Z</updated>
+    <updated>2024-12-25T17:06:35.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12955,42 +12955,6 @@
         <updated>2024-11-26T05:07:45.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanninila Penkodiye Video Song | Oru Maravathoor Kanavu | Mammootty | Vidyasagar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=lGzRhentIyI</id>
-        <link href="https://www.youtube.com/watch?v=lGzRhentIyI"/>
-        <updated>2024-11-26T05:04:29.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pani Neerin Manam | Jameelante Poovankozhi | Lyrical Video | Shaajahan | Daana Razik | Tony Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=WRS-_QiCfbQ</id>
-        <link href="https://www.youtube.com/watch?v=WRS-_QiCfbQ"/>
-        <updated>2024-11-26T04:51:34.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelambari Nisheedhini | Innaleyude Bakki | Devan | Geetha | P Madhuri | G Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=pnhIhlAQUFc</id>
-        <link href="https://www.youtube.com/watch?v=pnhIhlAQUFc"/>
-        <updated>2024-11-26T04:30:22.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catch the rhythm, feel the fire this rap is lit!🎤🔥#PachaParishkari #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=vsWlX0S2I1g</id>
-        <link href="https://www.youtube.com/watch?v=vsWlX0S2I1g"/>
-        <updated>2024-11-26T04:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
