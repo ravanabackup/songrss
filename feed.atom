@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T10:08:16.763Z</updated>
+    <updated>2024-12-26T11:06:43.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mazhavillano | Rathinirvedam #mjayachandran #shwethamenon #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=infVzAUhM9c</id>
+        <link href="https://www.youtube.com/watch?v=infVzAUhM9c"/>
+        <updated>2024-12-26T10:30:17.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bethlehemile | Ouseppachan | Suja George | Amal Antony | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=89mXzHysC58</id>
+        <link href="https://www.youtube.com/watch?v=89mXzHysC58"/>
+        <updated>2024-12-26T10:30:04.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രക്ഷകനായ യഹോവ | #christianalbumsongs #malayalamchristiansongs #jehovah #christiansong #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=4bjg9pQnT28</id>
+        <link href="https://www.youtube.com/watch?v=4bjg9pQnT28"/>
+        <updated>2024-12-26T10:11:53.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#AasaKooda 🎶❤️ #SaiAbhyankkar #ArmaanMalik #ThinkIndie]]></title>
+        <id>https://www.youtube.com/watch?v=6DV14gZXLlI</id>
+        <link href="https://www.youtube.com/watch?v=6DV14gZXLlI"/>
+        <updated>2024-12-26T10:11:07.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhayaay Nee | Swasam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=f0uX4PWcTQg</id>
@@ -12766,15 +12802,6 @@
         <updated>2024-11-26T23:30:01.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നവംബർ: 27, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
-        <id>https://www.youtube.com/watch?v=u-y9U8bIxGg</id>
-        <link href="https://www.youtube.com/watch?v=u-y9U8bIxGg"/>
-        <updated>2024-11-26T22:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
