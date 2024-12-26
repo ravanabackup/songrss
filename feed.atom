@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T08:10:59.506Z</updated>
+    <updated>2024-12-26T09:08:19.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anupama Sneha Chaithanyame Video Song | Varnapakittu | Mohanlal | KS Chithra | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=C_CcVCt-cNM</id>
+        <link href="https://www.youtube.com/watch?v=C_CcVCt-cNM"/>
+        <updated>2024-12-26T08:35:57.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vatteppam Club Mix - Audio Song | Mandakini | Altaf Salim | Anarkali Marikar | Vinod Leela]]></title>
+        <id>https://www.youtube.com/watch?v=Wcfg-NyqPmU</id>
+        <link href="https://www.youtube.com/watch?v=Wcfg-NyqPmU"/>
+        <updated>2024-12-26T08:30:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിനോദയാത്രകളിൽ ആർത്തുല്ലസിക്കാൻ പോന്ന സൂപ്പർഹിറ്റ് മലയാളസിനിമാഗാനങ്ങൾ | HOLIDAY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=FZTeZy-KWk0</id>
+        <link href="https://www.youtube.com/watch?v=FZTeZy-KWk0"/>
+        <updated>2024-12-26T08:22:43.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M. T. Vasudevan Nair About Neelathamara Movie | Neelathamara Behind The Scenes | Lal Jose]]></title>
+        <id>https://www.youtube.com/watch?v=3boHCnTxArc</id>
+        <link href="https://www.youtube.com/watch?v=3boHCnTxArc"/>
+        <updated>2024-12-26T08:16:45.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thanichirikkumbol Thankakinavinte | Kanninum Kannaadikkum Movie Song  | Kalabhavan Mani | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=1swpKGHW-ok</id>
