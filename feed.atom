@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T17:06:41.941Z</updated>
+    <updated>2024-12-26T18:10:52.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th December 24]]></title>
+        <id>https://www.youtube.com/watch?v=eujwK4ZexS8</id>
+        <link href="https://www.youtube.com/watch?v=eujwK4ZexS8"/>
+        <updated>2024-12-26T18:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26 December 2024]]></title>
         <id>https://www.youtube.com/watch?v=A1Z9DzC7Qxg</id>
@@ -12928,24 +12937,6 @@
         <updated>2024-11-27T06:19:28.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandanacholayil | ചന്ദനച്ചോലയിൽ | Sallapam | Movie Superhit Song | Dileep | Manju warrier | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=SxoQ5QUcnAQ</id>
-        <link href="https://www.youtube.com/watch?v=SxoQ5QUcnAQ"/>
-        <updated>2024-11-27T05:50:06.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orupole Chimmum | Innanu Aa Kalyanam |Vayalar Sarathchandra Varma | Bijibal | Sudeep | Rajalakshmi]]></title>
-        <id>https://www.youtube.com/watch?v=HYP7AfAgzXM</id>
-        <link href="https://www.youtube.com/watch?v=HYP7AfAgzXM"/>
-        <updated>2024-11-27T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
