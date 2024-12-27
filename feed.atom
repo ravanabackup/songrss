@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T13:14:22.260Z</updated>
+    <updated>2024-12-27T14:07:10.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
+        <id>https://www.youtube.com/watch?v=ALEGY3qa5x0</id>
+        <link href="https://www.youtube.com/watch?v=ALEGY3qa5x0"/>
+        <updated>2024-12-27T14:00:09.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Christian devotional song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=k5DmtoYRHwo</id>
+        <link href="https://www.youtube.com/watch?v=k5DmtoYRHwo"/>
+        <updated>2024-12-27T13:30:28.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattum Padi Oru Kootin | The Speed Track | Deepak Dev | KJ Yesudas | Dileep | Dileep Hits]]></title>
+        <id>https://www.youtube.com/watch?v=4JC7f8v23nA</id>
+        <link href="https://www.youtube.com/watch?v=4JC7f8v23nA"/>
+        <updated>2024-12-27T13:30:04.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eesho Mishihaakk sthuthiyaayirikkatte | Manoj Christy | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=843u4v_Wf5Q</id>
+        <link href="https://www.youtube.com/watch?v=843u4v_Wf5Q"/>
+        <updated>2024-12-27T13:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonam Thrikkannil Song | Varnakkazhchakal | Dileep | K S Chithra | Mohan Sithara Hits]]></title>
         <id>https://www.youtube.com/watch?v=blEnwT4Q80I</id>
