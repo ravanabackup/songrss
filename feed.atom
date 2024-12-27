@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T18:10:47.996Z</updated>
+    <updated>2024-12-27T19:04:41.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 28 # Athiravile Prarthana 28th of December 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=czAW_y5g7_0</id>
+        <link href="https://www.youtube.com/watch?v=czAW_y5g7_0"/>
+        <updated>2024-12-27T19:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th December 24]]></title>
         <id>https://www.youtube.com/watch?v=K6eLCQGiEno</id>
@@ -10375,6 +10384,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maraolsavam Video Song | Malayalam Songs | Ilayaraja | P. Jayachandran | Aa Raathri]]></title>
+        <id>https://www.youtube.com/watch?v=wO14A5OEhHA</id>
+        <link href="https://www.youtube.com/watch?v=wO14A5OEhHA"/>
+        <updated>2024-12-04T12:30:07.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rifle Club - Trailer |Dileesh Pothan| Anurag Kashyap| Hanumankind |Vani Viswanath|Darshana Rajendran]]></title>
         <id>https://www.youtube.com/watch?v=_HacZSM24mA</id>
         <link href="https://www.youtube.com/watch?v=_HacZSM24mA"/>
@@ -12928,33 +12946,6 @@
         <updated>2024-11-28T07:27:05.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#iniyumkaananvaram #adiosamigo #asifali #jakesbejoy #najimarshad #vinayaksasikumar #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=kbtf9jFcIGQ</id>
-        <link href="https://www.youtube.com/watch?v=kbtf9jFcIGQ"/>
-        <updated>2024-11-28T06:55:15.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചിത്തിരത്തോണിയിൽ | Chithira thoniyil | Kaayalum Kayarum | Malayalam Movie Evergreen Hit Song]]></title>
-        <id>https://www.youtube.com/watch?v=PU62HIo6AfI</id>
-        <link href="https://www.youtube.com/watch?v=PU62HIo6AfI"/>
-        <updated>2024-11-28T06:46:46.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aniyathipraavinu | Evergreen Malayalam Hit | Aniyathipraavu | Chithra | Shalini, Kunchacko Boban]]></title>
-        <id>https://www.youtube.com/watch?v=glSjSpMCVLU</id>
-        <link href="https://www.youtube.com/watch?v=glSjSpMCVLU"/>
-        <updated>2024-11-28T06:39:01.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
