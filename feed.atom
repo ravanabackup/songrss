@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T12:14:13.392Z</updated>
+    <updated>2024-12-27T13:14:22.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moonam Thrikkannil Song | Varnakkazhchakal | Dileep | K S Chithra | Mohan Sithara Hits]]></title>
+        <id>https://www.youtube.com/watch?v=blEnwT4Q80I</id>
+        <link href="https://www.youtube.com/watch?v=blEnwT4Q80I"/>
+        <updated>2024-12-27T13:00:48.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnumillayimayil |ഹൃദയങ്ങൾ കീഴടക്കിയ ഗാനം |  @JinoKunnumpurathu    #shorts #carol #xmas]]></title>
+        <id>https://www.youtube.com/watch?v=F6gdQafiOwg</id>
+        <link href="https://www.youtube.com/watch?v=F6gdQafiOwg"/>
+        <updated>2024-12-27T13:00:16.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വേദനകൾ ഏറ്റുവാങ്ങുമ്പോഴും പുഞ്ചിരിച്ച തമ്പുരാൻ |  😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=WtfllqzqKI4</id>
+        <link href="https://www.youtube.com/watch?v=WtfllqzqKI4"/>
+        <updated>2024-12-27T12:30:33.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അന്ധകാര ശക്തികളെ ദൂരെയകറ്റുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=CMrx2NgdUqc</id>
+        <link href="https://www.youtube.com/watch?v=CMrx2NgdUqc"/>
+        <updated>2024-12-27T12:30:19.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vinnile Gandharva | HD 1080p | Rajavinte Makan | S P Venkitesh | K J Yesudas | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=84vRnGDMA0Q</id>
@@ -12847,15 +12883,6 @@
         <updated>2024-11-28T03:00:21.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 നോമ്പിന് ഒരുങ്ങേണ്ടവർ കേൾക്കേണ്ട ഗാനങ്ങൾ | Christmas Songs Malayalam | KG Markose | Carol Songs]]></title>
-        <id>https://www.youtube.com/watch?v=utnUy768jLQ</id>
-        <link href="https://www.youtube.com/watch?v=utnUy768jLQ"/>
-        <updated>2024-11-28T00:30:36.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
