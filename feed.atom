@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-28T21:06:08.534Z</updated>
+    <updated>2024-12-28T22:06:39.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=faxc4k2-un4</id>
+        <link href="https://www.youtube.com/watch?v=faxc4k2-un4"/>
+        <updated>2024-12-28T22:00:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 29 # Athiravile Prarthana 29th of December 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=rgpbTRQn7io</id>
@@ -12973,33 +12982,6 @@
         <updated>2024-11-29T11:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veeraattam | Swachandha Mruthyu | Nikhil Mohan | Madhu Balakrishnan | Shaheera Nazeer | Shan Kecheri]]></title>
-        <id>https://www.youtube.com/watch?v=JTDAr79kcsc</id>
-        <link href="https://www.youtube.com/watch?v=JTDAr79kcsc"/>
-        <updated>2024-11-29T10:05:02.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malamel Arulum Manikanda |  Lord Ayyappa Song | Jayan ( Jaya Vijaya) | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=4-xsFEnSjNE</id>
-        <link href="https://www.youtube.com/watch?v=4-xsFEnSjNE"/>
-        <updated>2024-11-29T10:05:01.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maattupetti Koyilile Video Song | Gireesh Puthenchery | M Jayachandran | Afsal | Chithra Iyer]]></title>
-        <id>https://www.youtube.com/watch?v=_-R4j1kLogc</id>
-        <link href="https://www.youtube.com/watch?v=_-R4j1kLogc"/>
-        <updated>2024-11-29T10:04:38.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
