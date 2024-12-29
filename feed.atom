@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T11:03:41.774Z</updated>
+    <updated>2024-12-29T12:12:59.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[✨Happy New Year 2025✨ #matchpointfaith #musicspread #matchpointcreations #mylord #newyear]]></title>
+        <id>https://www.youtube.com/watch?v=untP8Redq0A</id>
+        <link href="https://www.youtube.com/watch?v=untP8Redq0A"/>
+        <updated>2024-12-29T11:30:28.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സുവർണ്ണ കാലഘട്ടത്തിലെ ഗാനങ്ങൾ | Golden Hits Malayalam  | KS Chithra | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=ssu6QVzMsUw</id>
+        <link href="https://www.youtube.com/watch?v=ssu6QVzMsUw"/>
+        <updated>2024-12-29T11:30:28.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 29th of December 2024]]></title>
+        <id>https://www.youtube.com/watch?v=J9f1zDtwIdA</id>
+        <link href="https://www.youtube.com/watch?v=J9f1zDtwIdA"/>
+        <updated>2024-12-29T11:30:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨Happy New Year 2025✨ #matchpointfaith #musicspread #matchpointcreations #mylord and #newyear2025]]></title>
         <id>https://www.youtube.com/watch?v=g3mB7it8yyo</id>
