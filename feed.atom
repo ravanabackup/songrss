@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T17:04:45.245Z</updated>
+    <updated>2024-12-29T18:09:30.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 30th December 24]]></title>
+        <id>https://www.youtube.com/watch?v=jkVXeZk2RjQ</id>
+        <link href="https://www.youtube.com/watch?v=jkVXeZk2RjQ"/>
+        <updated>2024-12-29T18:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨Happy New Year 2025✨ #matchpointfaith #musicspread #matchpointcreations #mylord #newyear #2025]]></title>
         <id>https://www.youtube.com/watch?v=iPyXPJ2SMcg</id>
@@ -13018,15 +13027,6 @@
         <updated>2024-11-30T06:29:43.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kabadi Kabadi |  Nammal Thammil |  Campus Film Songs #shortsfeed #shorts #shortsvideo #campus]]></title>
-        <id>https://www.youtube.com/watch?v=SPhlWE4B3Vs</id>
-        <link href="https://www.youtube.com/watch?v=SPhlWE4B3Vs"/>
-        <updated>2024-11-30T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
