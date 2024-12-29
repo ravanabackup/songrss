@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T15:06:43.389Z</updated>
+    <updated>2024-12-29T16:07:59.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[✨Happy New Year 2025✨ #matchpointfaith #musicspread #matchpointcreations #mylord #newyear]]></title>
+        <id>https://www.youtube.com/watch?v=Lxuiz6_ynvg</id>
+        <link href="https://www.youtube.com/watch?v=Lxuiz6_ynvg"/>
+        <updated>2024-12-29T15:30:47.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=d8sGU84p2Ww</id>
+        <link href="https://www.youtube.com/watch?v=d8sGU84p2Ww"/>
+        <updated>2024-12-29T15:30:18.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thalamayanju Video Song|Pavithram|Shobhana|Mohanlal|#malayalammelodysong]]></title>
         <id>https://www.youtube.com/watch?v=XZFg1x4ofbg</id>
