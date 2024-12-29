@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T20:07:51.906Z</updated>
+    <updated>2024-12-29T21:06:36.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12991,15 +12991,6 @@
         <updated>2024-11-30T09:14:41.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharalitha Raavil Video Song | Mammootty | KJ Yesudas | MM Keeravani | Kaithapram | Soorya Manasam]]></title>
-        <id>https://www.youtube.com/watch?v=Pl4d2TV5JH4</id>
-        <link href="https://www.youtube.com/watch?v=Pl4d2TV5JH4"/>
-        <updated>2024-11-30T08:14:36.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
