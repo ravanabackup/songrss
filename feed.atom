@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T20:08:33.297Z</updated>
+    <updated>2025-01-02T21:07:12.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13522,24 +13522,6 @@
         <updated>2024-12-04T09:25:18.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thei Oru Thenavayal Video Song | MG Sreekumar | Sujatha Mohan | Vidyasagar | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=uy901chB_PQ</id>
-        <link href="https://www.youtube.com/watch?v=uy901chB_PQ"/>
-        <updated>2024-12-04T08:40:45.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Cheru Deepamay |Aelu Elza Kurian|Reuben Philip Abraham| Kottayam Jerusalem MarThoma Church Choir]]></title>
-        <id>https://www.youtube.com/watch?v=5EVmJMsICr4</id>
-        <link href="https://www.youtube.com/watch?v=5EVmJMsICr4"/>
-        <updated>2024-12-04T08:18:23.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
