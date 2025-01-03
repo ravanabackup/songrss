@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-03T10:08:28.296Z</updated>
+    <updated>2025-01-03T11:06:38.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 002 | SHALLET SARA JOSEPH | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=IqwwDJuAWkc</id>
+        <link href="https://www.youtube.com/watch?v=IqwwDJuAWkc"/>
+        <updated>2025-01-03T10:42:42.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazha Mekha Chelin | Kadha Thudarunnu #shwetamohan #ilayaraja #vijayyesudas #shortsfeed #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=8oFD-xGhPYs</id>
+        <link href="https://www.youtube.com/watch?v=8oFD-xGhPYs"/>
+        <updated>2025-01-03T10:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hits of Kaithapram and Gireesh Puthenchery | Malayalam Film Songs | K J Yesudas | M G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=GoOBFRBzhFo</id>
+        <link href="https://www.youtube.com/watch?v=GoOBFRBzhFo"/>
+        <updated>2025-01-03T09:44:04.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harimuraleeravam Video Song | Aaraam Thampuran | Mohanlal | Manju Warrier | KJ Yesudas | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=BVHoaBzQk0c</id>
@@ -13351,15 +13378,6 @@
         <updated>2024-12-04T23:30:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിസംബർ: 05, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
-        <id>https://www.youtube.com/watch?v=t1c362OyjzQ</id>
-        <link href="https://www.youtube.com/watch?v=t1c362OyjzQ"/>
-        <updated>2024-12-04T22:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
