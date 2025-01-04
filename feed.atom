@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T15:06:59.935Z</updated>
+    <updated>2025-01-04T16:08:16.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=I1BZXs_cT7I</id>
+        <link href="https://www.youtube.com/watch?v=I1BZXs_cT7I"/>
+        <updated>2025-01-04T16:00:12.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=-DSpNk9F6pI</id>
+        <link href="https://www.youtube.com/watch?v=-DSpNk9F6pI"/>
+        <updated>2025-01-04T15:30:00.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shudhathmave Vannennullil | ശുദ്ധാത്മാവേ | Christian Devotional Song Malayalam | Music Spread |]]></title>
         <id>https://www.youtube.com/watch?v=ubYW4omWipw</id>
