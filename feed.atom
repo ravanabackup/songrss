@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-04T21:06:18.043Z</updated>
+    <updated>2025-01-04T22:06:38.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=4wBLkVUOs2s</id>
+        <link href="https://www.youtube.com/watch?v=4wBLkVUOs2s"/>
+        <updated>2025-01-04T22:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 5 # Athiravile Prarthana 5th January 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=XrM1Q995X4k</id>
@@ -13585,33 +13594,6 @@
         <updated>2024-12-06T10:15:55.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aanalla Pennalla Adipoli Vesham Video Song | Njangal Santhushtaranu| Jayaram| Abhirami| MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=rnGaDyNcHDc</id>
-        <link href="https://www.youtube.com/watch?v=rnGaDyNcHDc"/>
-        <updated>2024-12-06T09:37:40.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN VARAVAYI | STHUTHI | SUJATHA MOHAN | RAJEEV ALUNKAL | SALGIN KALAPPURA]]></title>
-        <id>https://www.youtube.com/watch?v=R0EwCZAbcAk</id>
-        <link href="https://www.youtube.com/watch?v=R0EwCZAbcAk"/>
-        <updated>2024-12-06T09:18:57.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വെറുതെ ഒരു മോഹം | Veruthe Oru Moham | Yes Your Honour | Sreenivasan, Padmapriya | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=ljk10LAtVmA</id>
-        <link href="https://www.youtube.com/watch?v=ljk10LAtVmA"/>
-        <updated>2024-12-06T09:11:55.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
