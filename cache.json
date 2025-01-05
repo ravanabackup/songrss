@@ -3745,6 +3745,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CRwSv04eyaU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CRwSv04eyaU",
+          "publishedOn": "2025-01-05T11:30:11.000Z",
+          "wordCount": null,
+          "title": "ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 5th January 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GLUGwfFefqg",
           "author": null,
           "description": "",
@@ -5483,16 +5493,6 @@
           "wordCount": null,
           "title": "ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 7th of December 2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8tFm3lXJOiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8tFm3lXJOiA",
-          "publishedOn": "2024-12-06T23:30:05.000Z",
-          "wordCount": null,
-          "title": "Japamala 7th of December 24 # Mathavinte Japamala Santhoshathinte Rahasyangal 7th of December 24",
-          "imageUrl": null
         }
       ]
     },
@@ -6962,6 +6962,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAD8x8K7FPX0MSgGU0JRUuA",
       "siteUrl": "https://www.youtube.com/channel/UCAD8x8K7FPX0MSgGU0JRUuA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=aF8VQ6Lmz3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aF8VQ6Lmz3s",
+          "publishedOn": "2025-01-05T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Shokamookamaay Video Song | Thachiledathu Chundan | Mammootty | Nandini | KJ Yesudas | Raveendran",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pM_gCIcZSPI",
           "author": null,
