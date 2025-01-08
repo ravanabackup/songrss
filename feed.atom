@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T00:39:22.728Z</updated>
+    <updated>2025-01-08T02:10:11.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ekantha Yamangalil | Abhijith Kollam | Baby John Kalayanthani | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=bQIDl34LT5c</id>
+        <link href="https://www.youtube.com/watch?v=bQIDl34LT5c"/>
+        <updated>2025-01-08T02:00:16.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Athyunnathangalil Vazhunna | Christian Video Song | Biju Mookkannor | Bindhu Thomas | Christian Song]]></title>
         <id>https://www.youtube.com/watch?v=glTnZA8LTeM</id>
@@ -13405,69 +13414,6 @@
         <updated>2024-12-09T14:30:00.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Madhu Balakrishnan | Christian Devotional Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=piscfYpqOXY</id>
-        <link href="https://www.youtube.com/watch?v=piscfYpqOXY"/>
-        <updated>2024-12-09T13:30:34.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മേഘ്നക്കുട്ടി തകർത്തു പാടിയ സൂപ്പർ ക്രിസ്മസ് ഗാനം!! | ഗ്ലോറിയ ഗീതം | @MeghnaSumesh #christmas | #new]]></title>
-        <id>https://www.youtube.com/watch?v=fqpuRy1BIT0</id>
-        <link href="https://www.youtube.com/watch?v=fqpuRy1BIT0"/>
-        <updated>2024-12-09T13:30:31.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raathri Koodi | Gireesh Puthenchery | Vidyasagar | KJ Yesudas | Summer in Bethlehem]]></title>
-        <id>https://www.youtube.com/watch?v=XAW6l5rN9rs</id>
-        <link href="https://www.youtube.com/watch?v=XAW6l5rN9rs"/>
-        <updated>2024-12-09T13:30:28.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakkala Kannamma Song | Oru Yathramozhi Movie Song | Mohanlal | Ilayaraja | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=RwiyIYjyrDw</id>
-        <link href="https://www.youtube.com/watch?v=RwiyIYjyrDw"/>
-        <updated>2024-12-09T13:30:24.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Uyire Video Song | Parakramam | Dev Mohan | Sona Olickal | Anoop Nirichan | Arjun Ramesh]]></title>
-        <id>https://www.youtube.com/watch?v=Clr3OgukhPY</id>
-        <link href="https://www.youtube.com/watch?v=Clr3OgukhPY"/>
-        <updated>2024-12-09T13:30:10.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#nenjaunakaga #sindhubaadh #vijaysethupathi #yuvan #haricharan  #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=7LovYolINdw</id>
-        <link href="https://www.youtube.com/watch?v=7LovYolINdw"/>
-        <updated>2024-12-09T13:10:24.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SUJATHA MOHAN | RAJEEV ALUNKAL | SALGIN KALAPPURA | @JinoKunnumpurathu]]></title>
-        <id>https://www.youtube.com/watch?v=do31bbwunkI</id>
-        <link href="https://www.youtube.com/watch?v=do31bbwunkI"/>
-        <updated>2024-12-09T13:00:51.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
