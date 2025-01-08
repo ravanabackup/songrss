@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T08:11:03.807Z</updated>
+    <updated>2025-01-08T09:08:28.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Viral Neetti - Video Song | Gireesh Puthenchery - Vidyasagar | Manju Warrier | Pranayavarnangal]]></title>
+        <id>https://www.youtube.com/watch?v=dxCTWYTiTSQ</id>
+        <link href="https://www.youtube.com/watch?v=dxCTWYTiTSQ"/>
+        <updated>2025-01-08T08:45:36.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വീണ്ടുമൊരിക്കൽ കൂടി കേൾക്കാൻ കൊതിക്കുന്ന മലയാളസിനിമയിലെ മനോഹരമായ ഗാനങ്ങൾ ! EVERGREEN HITS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=DX8h8O4PgsU</id>
