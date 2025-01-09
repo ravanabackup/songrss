@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T18:11:18.130Z</updated>
+    <updated>2025-01-09T19:05:44.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 10 # Athiravile Prarthana 10th January 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=EjRCXjR3NGo</id>
+        <link href="https://www.youtube.com/watch?v=EjRCXjR3NGo"/>
+        <updated>2025-01-09T19:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th January 25]]></title>
         <id>https://www.youtube.com/watch?v=I0VKbuNbPl0</id>
@@ -13549,33 +13558,6 @@
         <updated>2024-12-11T07:19:38.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyakkathum Manathu | Folk Song | Sathkala Vijayan #naadanpaattu #nadanpattu #folksong #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=QoK2V4KNhGk</id>
-        <link href="https://www.youtube.com/watch?v=QoK2V4KNhGk"/>
-        <updated>2024-12-11T07:00:21.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surabhila Sundara Swapnam | Official Trailer | Paul Viji Varghese | Dayyana Hameed | Electronic Kili]]></title>
-        <id>https://www.youtube.com/watch?v=Y1yXkRf-wMY</id>
-        <link href="https://www.youtube.com/watch?v=Y1yXkRf-wMY"/>
-        <updated>2024-12-11T06:42:54.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaanaville Minnalkkodiye Video Song | Vakkalathu Narayanankutty Movie Song | HD |]]></title>
-        <id>https://www.youtube.com/watch?v=FWwud7lqCqM</id>
-        <link href="https://www.youtube.com/watch?v=FWwud7lqCqM"/>
-        <updated>2024-12-11T06:30:02.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
         </author>
     </entry>
 </feed>
