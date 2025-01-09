@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T13:16:04.103Z</updated>
+    <updated>2025-01-09T14:07:33.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Benny Pandalam | Kester | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=n_h8hllOI6I</id>
+        <link href="https://www.youtube.com/watch?v=n_h8hllOI6I"/>
+        <updated>2025-01-09T13:30:28.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ മോഹമുണർത്തിയ സൂപ്പർഹിറ്റ്  സിനിമാഗാനങ്ങൾ | EVERGREEN HIT SONGS | SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=O_sTj9cHDNU</id>
+        <link href="https://www.youtube.com/watch?v=O_sTj9cHDNU"/>
+        <updated>2025-01-09T13:30:14.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nayattu Prarthana - Lyrical | Rifle Club | Rex Vijayan | Vinayak Sasikumar | Aashiq Abu | Neha Nair]]></title>
+        <id>https://www.youtube.com/watch?v=NwlLfgxUJpA</id>
+        <link href="https://www.youtube.com/watch?v=NwlLfgxUJpA"/>
+        <updated>2025-01-09T13:29:24.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AANIPPAZHUTH | ഉരുകുന്ന  ഹൃദയങ്ങൾക്ക് ആശ്വാസമേകുന്ന ഗാനം | @JinoKunnumpurathu       #shorts]]></title>
         <id>https://www.youtube.com/watch?v=k-vAGZe1F0w</id>
