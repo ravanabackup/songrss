@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T17:07:18.875Z</updated>
+    <updated>2025-01-09T18:11:18.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th January 25]]></title>
+        <id>https://www.youtube.com/watch?v=I0VKbuNbPl0</id>
+        <link href="https://www.youtube.com/watch?v=I0VKbuNbPl0"/>
+        <updated>2025-01-09T18:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 January 2025]]></title>
+        <id>https://www.youtube.com/watch?v=d9J4zNvn_1o</id>
+        <link href="https://www.youtube.com/watch?v=d9J4zNvn_1o"/>
+        <updated>2025-01-09T17:19:25.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=PouMOLzUX8s</id>
@@ -13558,51 +13576,6 @@
         <updated>2024-12-11T06:30:02.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inneekkochuvarambin Video Song | Vaalsalyam | Kaithapram | SP Venkitesh | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=-_abBwzbf2A</id>
-        <link href="https://www.youtube.com/watch?v=-_abBwzbf2A"/>
-        <updated>2024-12-11T05:39:04.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indupushpam choodi | ഇന്ദുപുഷ്പം ചൂടി നിൽക്കും | Vaishali | Malayalam Movie | Super Hit Song]]></title>
-        <id>https://www.youtube.com/watch?v=hchfuDsp-Ag</id>
-        <link href="https://www.youtube.com/watch?v=hchfuDsp-Ag"/>
-        <updated>2024-12-11T05:37:04.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Priya | Twenty Twenty | Video | Mammootty | Mohanlal | Gireesh Puthenchery |Suresh Peters| Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=U8X1ws_rE90</id>
-        <link href="https://www.youtube.com/watch?v=U8X1ws_rE90"/>
-        <updated>2024-12-11T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manatharil ennum | മനതാരിൽ എന്നും | Kaliyil Alpam Karyam | Malayalam Movie Song | Mohanlal | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=_l-8wpDUjHA</id>
-        <link href="https://www.youtube.com/watch?v=_l-8wpDUjHA"/>
-        <updated>2024-12-11T05:19:09.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indupushpam choodi | ഇന്ദുപുഷ്പം ചൂടി നിൽക്കും | Vaishali | Malayalam Movie | Super Hit Song]]></title>
-        <id>https://www.youtube.com/watch?v=V9og_T2sQJA</id>
-        <link href="https://www.youtube.com/watch?v=V9og_T2sQJA"/>
-        <updated>2024-12-11T05:18:37.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
