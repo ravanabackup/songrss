@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T21:07:18.488Z</updated>
+    <updated>2025-01-09T22:07:25.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=X2O5K8x-aM8</id>
+        <link href="https://www.youtube.com/watch?v=X2O5K8x-aM8"/>
+        <updated>2025-01-09T22:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 10 # Athiravile Prarthana 10th January 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=EjRCXjR3NGo</id>
@@ -13522,15 +13531,6 @@
         <updated>2024-12-11T10:11:30.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Road Trip Songs - Jukebox | Athmave Poo | Mandarappoove | PakalIravukal | En Roja Neeye]]></title>
-        <id>https://www.youtube.com/watch?v=Bw1q9BPuYy0</id>
-        <link href="https://www.youtube.com/watch?v=Bw1q9BPuYy0"/>
-        <updated>2024-12-11T09:56:52.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
