@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T07:07:57.701Z</updated>
+    <updated>2025-01-10T08:11:11.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Heartfelt Condolences | P. Jayachandran | Anitha Kartha | Manorama Music]]></title>
+        <id>https://www.youtube.com/watch?v=27va1HovMsY</id>
+        <link href="https://www.youtube.com/watch?v=27va1HovMsY"/>
+        <updated>2025-01-10T08:02:54.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നമ്മിൽ നിന്നും വേർപിരിഞ്ഞ  മലയാളികളുടെ മാനസ ഗായകൻ ജയചന്ദ്രന്റെ അനശ്വര ഗാനങ്ങൾ ! P JAYACHANDRAN HITS]]></title>
+        <id>https://www.youtube.com/watch?v=uK0A4MWrTmY</id>
+        <link href="https://www.youtube.com/watch?v=uK0A4MWrTmY"/>
+        <updated>2025-01-10T07:56:38.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P Jayachandran Hits | ഭാവഗായകൻ്റെ ഇഷ്ടഗാനങ്ങൾ | Malayalam Films Songs | 90s Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Tm3wtT0j2xo</id>
+        <link href="https://www.youtube.com/watch?v=Tm3wtT0j2xo"/>
+        <updated>2025-01-10T07:33:41.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pranamam P Jayachandran #pjayachandran #shortsfeed #shorts #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=lWOs8yXBbHg</id>
+        <link href="https://www.youtube.com/watch?v=lWOs8yXBbHg"/>
+        <updated>2025-01-10T07:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee Manimukilaadakal Video Song | P Jayachandran | KS Chithra | Kaithapram #malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=gqAZ8ohbr8w</id>
