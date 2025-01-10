@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T19:05:41.280Z</updated>
+    <updated>2025-01-10T20:08:43.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13567,33 +13567,6 @@
         <updated>2024-12-12T08:31:11.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളെന്നും ഓർമയിൽ സൂക്ഷിക്കുന്ന മനസ്സിനിണങ്ങിയ മനോഹര ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=eoDRUBn-YZI</id>
-        <link href="https://www.youtube.com/watch?v=eoDRUBn-YZI"/>
-        <updated>2024-12-12T07:47:33.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating the legend, the superstar, the one and only Rajinikanth! 🎉👑 #Rajini #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lGZsdyDKG1k</id>
-        <link href="https://www.youtube.com/watch?v=lGZsdyDKG1k"/>
-        <updated>2024-12-12T07:30:30.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൊക്കരക്കൊക്കര | Kokkarakkokkara | Mailanji | Malayalam Movie Super hit Song | Janardhanan]]></title>
-        <id>https://www.youtube.com/watch?v=YG7yFP0MBc0</id>
-        <link href="https://www.youtube.com/watch?v=YG7yFP0MBc0"/>
-        <updated>2024-12-12T07:14:11.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
