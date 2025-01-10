@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T09:08:53.979Z</updated>
+    <updated>2025-01-10T10:08:48.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[P Jayachandran Songs | Christian Devotional Video Jukebox | Nonstop  Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=HZdjQ1IDJDU</id>
+        <link href="https://www.youtube.com/watch?v=HZdjQ1IDJDU"/>
+        <updated>2025-01-10T10:02:16.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karuna Cheyvaan  Video Song | Aananda Bhairavi | Arjun B Krishna | Irayimman Thampi | Classical Song]]></title>
+        <id>https://www.youtube.com/watch?v=yUxKCxit6Ng</id>
+        <link href="https://www.youtube.com/watch?v=yUxKCxit6Ng"/>
+        <updated>2025-01-10T09:37:43.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raa Shalabhangalayi Nammal Video Song | Anpodu Kanmani #shorts #malayalamsongs #romanticsong]]></title>
+        <id>https://www.youtube.com/watch?v=pS_VVwZriNg</id>
+        <link href="https://www.youtube.com/watch?v=pS_VVwZriNg"/>
+        <updated>2025-01-10T09:21:38.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P Jayachandran | Heartfelt Condolenes]]></title>
         <id>https://www.youtube.com/watch?v=OyeYTkIWyX0</id>
@@ -13450,15 +13477,6 @@
         <updated>2024-12-11T22:30:07.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=aQYJ-ln7ia4</id>
-        <link href="https://www.youtube.com/watch?v=aQYJ-ln7ia4"/>
-        <updated>2024-12-11T22:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
