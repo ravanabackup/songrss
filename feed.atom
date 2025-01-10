@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T13:15:08.096Z</updated>
+    <updated>2025-01-10T14:07:45.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ പാട്ടുകളിലൂടെ ജയേട്ടൻ ഇനി ജീവിക്കും | P. Jayachandran | 90s Malayalam Songs | Saina Music]]></title>
+        <id>https://www.youtube.com/watch?v=D2_q7EIu0Z8</id>
+        <link href="https://www.youtube.com/watch?v=D2_q7EIu0Z8"/>
+        <updated>2025-01-10T14:00:06.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthumani Thooval Tharam |  Kauravar | Mammootty | KJ Yesudas | SP Venkitesh | Kaithapram | Kauravar]]></title>
+        <id>https://www.youtube.com/watch?v=pUTnXmAjVgo</id>
+        <link href="https://www.youtube.com/watch?v=pUTnXmAjVgo"/>
+        <updated>2025-01-10T13:30:35.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പി ജയചന്ദ്രൻ ആലപിച്ച മറക്കാനാവാത്ത ക്രിസ്തീയ ഗാനങ്ങൾ | Hits Of P Jayachandran | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=aglIwLVmiyY</id>
+        <link href="https://www.youtube.com/watch?v=aglIwLVmiyY"/>
+        <updated>2025-01-10T13:30:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIN MADYIL | ഭാവ ഗായകന് ആദരാഞ്ജലികൾ 🌹@JinoKunnumpurathu #pjayachandran #shorts]]></title>
         <id>https://www.youtube.com/watch?v=YcSr19l2a8o</id>
