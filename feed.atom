@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-11T10:07:19.581Z</updated>
+    <updated>2025-01-11T11:03:45.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaarmazhaville | 1080p | Mizhi Randilum | Kavya Madhavan | Indrajith | Sukumari - KS Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=9SO8ef75UfM</id>
+        <link href="https://www.youtube.com/watch?v=9SO8ef75UfM"/>
+        <updated>2025-01-11T10:56:56.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 023 | NIVYA WILSON | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=NyQDdLWjQGI</id>
+        <link href="https://www.youtube.com/watch?v=NyQDdLWjQGI"/>
+        <updated>2025-01-11T10:33:52.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navayuga Madhuram | Album Songs | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=4yoYNURWVVU</id>
@@ -13414,15 +13432,6 @@
         <updated>2024-12-12T23:30:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിസംബർ: 13, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!! #prayer]]></title>
-        <id>https://www.youtube.com/watch?v=0qCOZ_6v3X8</id>
-        <link href="https://www.youtube.com/watch?v=0qCOZ_6v3X8"/>
-        <updated>2024-12-12T22:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
