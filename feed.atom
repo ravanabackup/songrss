@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T17:06:06.066Z</updated>
+    <updated>2025-01-12T18:09:34.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th January 25]]></title>
+        <id>https://www.youtube.com/watch?v=_oAY6HCM9ZI</id>
+        <link href="https://www.youtube.com/watch?v=_oAY6HCM9ZI"/>
+        <updated>2025-01-12T18:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മുഴുവൻ കാണാൻ മുകളിൽ കാണുന്ന ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുക #kjyesudas #mohanlal #shobhana #malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=XvRTx7vMShY</id>
@@ -13477,42 +13486,6 @@
         <updated>2024-12-14T06:12:42.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SUJATHA MOHAN | NEW CAROL SONG|@JinoKunnumpurathu #shorts #christmas]]></title>
-        <id>https://www.youtube.com/watch?v=sfQylnxn_kc</id>
-        <link href="https://www.youtube.com/watch?v=sfQylnxn_kc"/>
-        <updated>2024-12-14T05:53:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambottee chempothu | Kottaram Veetile Apputtan | Best Malayalam Song | M.G.Sreekumar | Jayaram, Mani]]></title>
-        <id>https://www.youtube.com/watch?v=XYdj7PNO1gw</id>
-        <link href="https://www.youtube.com/watch?v=XYdj7PNO1gw"/>
-        <updated>2024-12-14T05:43:25.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Video Songs Malayalam | Madhu Balakrishnan | Wilson Piravom | Christian Melody Song]]></title>
-        <id>https://www.youtube.com/watch?v=r2bRxBo3aMM</id>
-        <link href="https://www.youtube.com/watch?v=r2bRxBo3aMM"/>
-        <updated>2024-12-14T05:15:54.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponmaane | Yakshiyum Njanum | Sithara | Sajan Madhav | Vinayan | Meghna Raj]]></title>
-        <id>https://www.youtube.com/watch?v=pvAMQKMl6Jc</id>
-        <link href="https://www.youtube.com/watch?v=pvAMQKMl6Jc"/>
-        <updated>2024-12-14T05:09:38.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
