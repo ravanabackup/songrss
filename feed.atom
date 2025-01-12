@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T21:06:38.964Z</updated>
+    <updated>2025-01-12T22:06:57.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=EiPTlBuiqqQ</id>
+        <link href="https://www.youtube.com/watch?v=EiPTlBuiqqQ"/>
+        <updated>2025-01-12T22:00:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 13 # Athiravile Prarthana 13th January 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Wlz968DTtd8</id>
@@ -13414,24 +13423,6 @@
         <updated>2024-12-14T10:20:04.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory Plus | Paathi Vidarnnu | Video Song | G. VENUGOPAL | Aneesh G | Annu Antony]]></title>
-        <id>https://www.youtube.com/watch?v=237MtLqVSA4</id>
-        <link href="https://www.youtube.com/watch?v=237MtLqVSA4"/>
-        <updated>2024-12-14T09:55:15.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paaduvan Marannupoy  Video Song |  Anagha Movie Song | Paravathy | K.J Yesudas |  Joseph Ozhukayil]]></title>
-        <id>https://www.youtube.com/watch?v=i-3Sm9BomVo</id>
-        <link href="https://www.youtube.com/watch?v=i-3Sm9BomVo"/>
-        <updated>2024-12-14T09:48:04.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
