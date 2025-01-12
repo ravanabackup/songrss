@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T16:07:56.330Z</updated>
+    <updated>2025-01-12T17:06:06.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13513,24 +13513,6 @@
         <updated>2024-12-14T05:09:38.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groove mode on!💃🎵#PachaParishkari #JayStellar #GDevarajan #ThirumaLi #KJYesudas]]></title>
-        <id>https://www.youtube.com/watch?v=qFFrYOsrbdA</id>
-        <link href="https://www.youtube.com/watch?v=qFFrYOsrbdA"/>
-        <updated>2024-12-14T04:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജീവിതത്തിൻ വീഥിയിൽ ഞാൻ വീണുപോയാലും | #jesussongs | #christiansongs | #hitsong]]></title>
-        <id>https://www.youtube.com/watch?v=PO28A9YtXtA</id>
-        <link href="https://www.youtube.com/watch?v=PO28A9YtXtA"/>
-        <updated>2024-12-14T04:27:03.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
