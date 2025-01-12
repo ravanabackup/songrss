@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T00:43:26.805Z</updated>
+    <updated>2025-01-12T02:18:21.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parisudha Deva Deva | Tamil Christian | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=dnU7km6ZW4k</id>
+        <link href="https://www.youtube.com/watch?v=dnU7km6ZW4k"/>
+        <updated>2025-01-12T02:00:21.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithratholam Enne Kondu Vanneeduvan | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=UEKFvR1PLIc</id>
+        <link href="https://www.youtube.com/watch?v=UEKFvR1PLIc"/>
+        <updated>2025-01-12T02:00:17.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവം തൊട്ട അനുഗ്രഹീത ഗാനങ്ങൾ | MG Sreekumar | KG Markose | Kester | Christian Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=EmYU1OQyMyY</id>
@@ -13387,60 +13405,6 @@
         <updated>2024-12-13T14:28:07.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannanayal Radha Venam Video Song | Pattanathil Sundaran| Dileep | Navya Nair| KJ Yesudas| Rimi Tomy]]></title>
-        <id>https://www.youtube.com/watch?v=M1qilpePc7M</id>
-        <link href="https://www.youtube.com/watch?v=M1qilpePc7M"/>
-        <updated>2024-12-13T13:34:51.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chirakulla Mohangale | Laava | P Madhuri | Madhavi | G devarajan | Old Hit Songs]]></title>
-        <id>https://www.youtube.com/watch?v=qgjd8yDeBls</id>
-        <link href="https://www.youtube.com/watch?v=qgjd8yDeBls"/>
-        <updated>2024-12-13T13:30:36.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പലദിക്കിൽ നിന്ന് കേട്ട ക്രിസ്റ്മസ് ഗാനങ്ങൾ | Songs Of The Week | Surya Narayanan | Christmas Songs]]></title>
-        <id>https://www.youtube.com/watch?v=-FW06cUi8QM</id>
-        <link href="https://www.youtube.com/watch?v=-FW06cUi8QM"/>
-        <updated>2024-12-13T13:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutharam Muthunde|Mr Butler|Dileep|Vidyasagar Hit song| #dileep #vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=531Gysbk2EI</id>
-        <link href="https://www.youtube.com/watch?v=531Gysbk2EI"/>
-        <updated>2024-12-13T13:13:54.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjin raathriyil |  അതിമനോഹര ക്രിസ്മസ് ഗാനം |   @JinoKunnumpurathu         #shorts #carol #xmas]]></title>
-        <id>https://www.youtube.com/watch?v=J_eXrt0f7ys</id>
-        <link href="https://www.youtube.com/watch?v=J_eXrt0f7ys"/>
-        <updated>2024-12-13T13:00:24.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chengadali Kumbilile Song | Chattambinadu Song | Mammootty | Rimi Tomy | Raai Laxmi | Alex Paul]]></title>
-        <id>https://www.youtube.com/watch?v=D1dgXSp8P88</id>
-        <link href="https://www.youtube.com/watch?v=D1dgXSp8P88"/>
-        <updated>2024-12-13T13:00:24.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
