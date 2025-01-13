@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T07:08:57.578Z</updated>
+    <updated>2025-01-13T08:12:18.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏവരുടെയും ജീവിതത്തിലെ ഏകാന്ത നിമിഷങ്ങളിൽ കൂട്ടായി എത്തും മനോഹര ഗാനങ്ങൾ ! EVERGREEN HITS]]></title>
+        <id>https://www.youtube.com/watch?v=8jsmovCWoPI</id>
+        <link href="https://www.youtube.com/watch?v=8jsmovCWoPI"/>
+        <updated>2025-01-13T07:43:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navayuga Madhuram | Album Songs | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=lxjcvx2NdQA</id>
@@ -40,6 +49,15 @@
         <updated>2025-01-13T05:14:24.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charusheele | Parannu Parannu Parannu Chellan |Lyrical| Hariharan | Raamnaath |Din Nath Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=X45JO9D7vwg</id>
+        <link href="https://www.youtube.com/watch?v=X45JO9D7vwg"/>
+        <updated>2025-01-13T05:02:23.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
