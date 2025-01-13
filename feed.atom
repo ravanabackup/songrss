@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T03:18:34.481Z</updated>
+    <updated>2025-01-13T04:10:44.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Naadham Maninaadham | Naadody | Best Malayalam Song | M. G. Sreekumar | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=C1KljQ2gfI4</id>
+        <link href="https://www.youtube.com/watch?v=C1KljQ2gfI4"/>
+        <updated>2025-01-13T04:00:11.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalon |  Album Song Video #albumsong #malayalamalbum #shortsfeed #shorts #reels #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=-VwRIEkDKLA</id>
+        <link href="https://www.youtube.com/watch?v=-VwRIEkDKLA"/>
+        <updated>2025-01-13T03:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nandiyode Njan | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=bzp502QyCjI</id>
