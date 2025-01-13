@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T06:12:42.643Z</updated>
+    <updated>2025-01-13T07:08:57.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navayuga Madhuram | Album Songs | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=lxjcvx2NdQA</id>
+        <link href="https://www.youtube.com/watch?v=lxjcvx2NdQA"/>
+        <updated>2025-01-13T07:00:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaatrai Ketten - Video Song | Tharunam | Kishen Das, Smruthi | Darbuka Siva | Arvindh | Pugaz-Eden]]></title>
         <id>https://www.youtube.com/watch?v=ODs5DIN132M</id>
@@ -13268,15 +13277,6 @@
         <id>https://www.youtube.com/watch?v=98z89PIyYkc</id>
         <link href="https://www.youtube.com/watch?v=98z89PIyYkc"/>
         <updated>2024-12-14T22:00:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 15 # Athiravile Prarthana 15th of December 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=AtYxSIZx1BA</id>
-        <link href="https://www.youtube.com/watch?v=AtYxSIZx1BA"/>
-        <updated>2024-12-14T19:00:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
