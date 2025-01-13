@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T20:08:11.705Z</updated>
+    <updated>2025-01-13T21:07:05.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13468,15 +13468,6 @@
         <updated>2024-12-15T09:33:30.000Z</updated>
         <author>
             <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #christmas #1lakhviews #christmascarolsongsmalayalam]]></title>
-        <id>https://www.youtube.com/watch?v=-hfO3Ku4TpM</id>
-        <link href="https://www.youtube.com/watch?v=-hfO3Ku4TpM"/>
-        <updated>2024-12-15T08:25:13.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
