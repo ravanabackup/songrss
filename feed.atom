@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T02:05:14.458Z</updated>
+    <updated>2025-01-14T03:08:21.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ee lokam Muzhuvanum | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=f8niShs4Frk</id>
+        <link href="https://www.youtube.com/watch?v=f8niShs4Frk"/>
+        <updated>2025-01-14T02:30:33.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhathulli Palunkukal | Pranayam | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=-1JaJPtebrU</id>
+        <link href="https://www.youtube.com/watch?v=-1JaJPtebrU"/>
+        <updated>2025-01-14T02:30:01.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Ashrayam | Wilson Piravom | Reji Abraham]]></title>
         <id>https://www.youtube.com/watch?v=17zRb74cyeE</id>
@@ -13369,60 +13387,6 @@
         <updated>2024-12-15T16:52:15.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joy To The World Instrumental I Christmas Carol song l Christmas party music]]></title>
-        <id>https://www.youtube.com/watch?v=DvL6FMj5EY4</id>
-        <link href="https://www.youtube.com/watch?v=DvL6FMj5EY4"/>
-        <updated>2024-12-15T15:00:13.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മുഴവൻ കാണാൻ താഴെ കാണുന്ന ലിങ്കിൽ സന്ദർശിക്കൂ... #kschithra #njangandharvan #malayalamsongs]]></title>
-        <id>https://www.youtube.com/watch?v=rChgE18fne4</id>
-        <link href="https://www.youtube.com/watch?v=rChgE18fne4"/>
-        <updated>2024-12-15T14:53:27.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nettiyil Poovulla Video Song | Manivathoorile Aayiram Shivaraathrikal #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=KGIZrD3z-vY</id>
-        <link href="https://www.youtube.com/watch?v=KGIZrD3z-vY"/>
-        <updated>2024-12-15T14:30:08.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enrich your Christmas experience with one minute Christmas season thoughts by Rev Pratheesh Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=LDHuc9HU-gc</id>
-        <link href="https://www.youtube.com/watch?v=LDHuc9HU-gc"/>
-        <updated>2024-12-15T14:30:08.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramayanakatte | Mohanlal | KS Chithra | MG Sreekumar | Raveendran | Kaithapram | Abhimanyu]]></title>
-        <id>https://www.youtube.com/watch?v=1qJF0AdwwUM</id>
-        <link href="https://www.youtube.com/watch?v=1qJF0AdwwUM"/>
-        <updated>2024-12-15T14:30:02.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilippenne | Dosth | Vidyasagar | K J Yesudas | S Ramesan Nair #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=01eBZI5uYFw</id>
-        <link href="https://www.youtube.com/watch?v=01eBZI5uYFw"/>
-        <updated>2024-12-15T14:30:00.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
