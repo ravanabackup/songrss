@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T08:10:40.757Z</updated>
+    <updated>2025-01-14T09:08:33.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karale Nin Kai Pidichal Video Song| Devadoothan | Vidyasagar | KJ Yesudas| Preetha Kannan|Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=x-rshBHvuec</id>
+        <link href="https://www.youtube.com/watch?v=x-rshBHvuec"/>
+        <updated>2025-01-14T08:08:26.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾ അന്നും ഇന്നും സ്വന്തമെന്ന് കരുതിയ സൂപ്പർഹിറ്റ് സിനിമാ ഗാനങ്ങൾ | EVERGREEN FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=pHtq7PZ4Q4Q</id>
