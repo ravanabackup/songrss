@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T12:14:18.309Z</updated>
+    <updated>2025-01-14T13:13:57.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VEDHANAYAAL | മിഴികൾ നിറയുന്ന ഗാനം |  @JinoKunnumpurathu  #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=eCZqNf0nboQ</id>
+        <link href="https://www.youtube.com/watch?v=eCZqNf0nboQ"/>
+        <updated>2025-01-14T13:00:50.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നത്തേക്കാൾ മനോഹരമായിരിക്കും നാളെ നിങ്ങൾക്ക്   |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=zs_7q3xxqiE</id>
+        <link href="https://www.youtube.com/watch?v=zs_7q3xxqiE"/>
+        <updated>2025-01-14T12:30:58.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aashada Rathiyil Video Song | KJ Yesudas | KS Chithra | Shyam | Aaksharathettu | Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=YANlEJuvPJw</id>
+        <link href="https://www.youtube.com/watch?v=YANlEJuvPJw"/>
+        <updated>2025-01-14T12:30:29.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarorum Song | Am Ah Malayalam Movie | അം അഃ | Dileesh Pothan | Gopi Sundar | Zeba Tommy]]></title>
+        <id>https://www.youtube.com/watch?v=Dm3YdmJaSvw</id>
+        <link href="https://www.youtube.com/watch?v=Dm3YdmJaSvw"/>
+        <updated>2025-01-14T12:30:19.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enkilumente | Prathyasha Geethangal | Alice Kottayam | Christian WOrship Songs | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=JFDHTv3qf-s</id>
+        <link href="https://www.youtube.com/watch?v=JFDHTv3qf-s"/>
+        <updated>2025-01-14T12:30:17.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Song (Telugu) Promo | Return of The Dragon | Pradeep, Kayadu Lohar | Ashwath | Leon James |AGS]]></title>
+        <id>https://www.youtube.com/watch?v=aePEUf9lbGo</id>
+        <link href="https://www.youtube.com/watch?v=aePEUf9lbGo"/>
+        <updated>2025-01-14T12:29:30.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanmani Ponmaniye - Audio Song | Madanolsavam | S Janaki | Salil Chowdhury]]></title>
         <id>https://www.youtube.com/watch?v=7ovcZLaPjMc</id>
@@ -13504,15 +13558,6 @@
         <updated>2024-12-16T01:30:04.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Songs Malayalam | Madhu Balakrishnan | Christmas Carol Songs | Joji Johns | KG Markose]]></title>
-        <id>https://www.youtube.com/watch?v=SS3U3mUZQ9I</id>
-        <link href="https://www.youtube.com/watch?v=SS3U3mUZQ9I"/>
-        <updated>2024-12-16T00:30:14.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
