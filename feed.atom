@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T19:05:35.773Z</updated>
+    <updated>2025-01-14T20:08:36.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13594,33 +13594,6 @@
         <updated>2024-12-16T11:00:11.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണെത്താ മല മാമല ഏറി | Veendum Chila Veettukaryangal Malayalam Movie Audio Song | Johnson | Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=A5ghO0MMetE</id>
-        <link href="https://www.youtube.com/watch?v=A5ghO0MMetE"/>
-        <updated>2024-12-16T08:07:44.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Porunnen Koode | Laalsalam | Mohanlal | Urvashi | MG Sreekumar | Raveendran Master]]></title>
-        <id>https://www.youtube.com/watch?v=cDmSALz0nWc</id>
-        <link href="https://www.youtube.com/watch?v=cDmSALz0nWc"/>
-        <updated>2024-12-16T07:46:04.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിർബന്ധ ബുദ്ധിയോടെ  മലയാളികൾ കേൾക്കുന്ന മലയാള സിനിമയിലെ മനോഹര ഗാനങ്ങൾ | Evergreen Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=FAYH4l6x-Ho</id>
-        <link href="https://www.youtube.com/watch?v=FAYH4l6x-Ho"/>
-        <updated>2024-12-16T07:30:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
