@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T16:09:13.382Z</updated>
+    <updated>2025-01-14T17:06:57.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മുഴുവൻ കാണാൻ മുകളിൽ കാണുന്ന ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുക #kjyesudas #mohanlal #varavelppu #revathy]]></title>
+        <id>https://www.youtube.com/watch?v=LrBFw_GiM6I</id>
+        <link href="https://www.youtube.com/watch?v=LrBFw_GiM6I"/>
+        <updated>2025-01-14T16:45:07.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇന്നോളം എന്നെ  | Innolam Enne | Music Spread | Malayalam Christian Song | Maramon convention song]]></title>
         <id>https://www.youtube.com/watch?v=6yjqaDCYhsY</id>
@@ -13612,42 +13621,6 @@
         <updated>2024-12-16T05:15:39.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panchamudipuzha | Sundarakilladi | Best Malayalam Song | M.G.Sreekumar | Dileep, Shalini]]></title>
-        <id>https://www.youtube.com/watch?v=4BF378QtWn0</id>
-        <link href="https://www.youtube.com/watch?v=4BF378QtWn0"/>
-        <updated>2024-12-16T04:39:13.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funky vibes only! 🎸💥#PachaParishkari #JayStellar #GDevarajan #ThirumaLi #KJYesudas]]></title>
-        <id>https://www.youtube.com/watch?v=qeJolZvMqWE</id>
-        <link href="https://www.youtube.com/watch?v=qeJolZvMqWE"/>
-        <updated>2024-12-16T04:30:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundarya pooja | Changampuzha Kavitha#kavithaigal #malayalampoem #changampuzha #shortsfeed #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=c5ahB6NprSY</id>
-        <link href="https://www.youtube.com/watch?v=c5ahB6NprSY"/>
-        <updated>2024-12-16T04:30:12.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doore Doore Sagaram | Varavelppu | Mohanlal | Revathi | Johnson | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=4rF7xIUwgBI</id>
-        <link href="https://www.youtube.com/watch?v=4rF7xIUwgBI"/>
-        <updated>2024-12-16T04:30:02.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
