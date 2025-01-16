@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T19:04:38.591Z</updated>
+    <updated>2025-01-16T20:08:44.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13765,24 +13765,6 @@
         <updated>2024-12-18T08:30:09.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[லப்பர் பந்து - நீ பொட்டு வச்ச தமிழ் பாடல்வரிகள் | இளையராஜா]]></title>
-        <id>https://www.youtube.com/watch?v=MGNRXJwcL9g</id>
-        <link href="https://www.youtube.com/watch?v=MGNRXJwcL9g"/>
-        <updated>2024-12-18T08:00:17.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രേക്ഷകമനസുകളെ പുളകിതമാക്കിയ മലയാളസിനിമയിലെ അനശ്വര ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=lMQY2do7Fd4</id>
-        <link href="https://www.youtube.com/watch?v=lMQY2do7Fd4"/>
-        <updated>2024-12-18T07:30:14.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
