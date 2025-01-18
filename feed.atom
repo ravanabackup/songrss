@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T15:06:28.136Z</updated>
+    <updated>2025-01-18T16:07:48.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sodho Sodho Aalamithe |  Tribal Song #folksong #malayalamfolksong #nadanpattu #shortsfeed #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=V4zdstD9oTo</id>
+        <link href="https://www.youtube.com/watch?v=V4zdstD9oTo"/>
+        <updated>2025-01-18T15:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pallitherundo | Jayaram | Sithara | G Venugopal | Sujatha Mohan |  Johnson | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=6IdHwNPC5IQ</id>
