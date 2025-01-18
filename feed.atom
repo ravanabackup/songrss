@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-18T12:12:35.336Z</updated>
+    <updated>2025-01-18T13:10:02.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KANDITTUM KAANATHE | ഉള്ളിലെ സങ്കടങ്ങൾ മാറ്റുന്ന ഗാനം | @JinoKunnumpurathu         #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=pt7AbJI8AU8</id>
+        <link href="https://www.youtube.com/watch?v=pt7AbJI8AU8"/>
+        <updated>2025-01-18T13:01:07.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amme Amme Nenjil Theyyam Song | Valkkannadi Movie Song | Kalabhavan Mani | Madhu Balakrishnan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=HQwK7G41gT4</id>
+        <link href="https://www.youtube.com/watch?v=HQwK7G41gT4"/>
+        <updated>2025-01-18T13:00:26.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daiva Dasanam | Prathyasha Geethangal | Binoy Chacko | CHristian Melody Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=m5nX6sFUu1o</id>
+        <link href="https://www.youtube.com/watch?v=m5nX6sFUu1o"/>
+        <updated>2025-01-18T12:30:44.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൂട്ടായ്മ  |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=9a-Q34mX5BY</id>
+        <link href="https://www.youtube.com/watch?v=9a-Q34mX5BY"/>
+        <updated>2025-01-18T12:30:18.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P Jayachandran Hits | ഭാവഗായകൻ്റെ അനശ്വരഗാനങ്ങൾ | P Jayachandran Malayalam Hits | Video Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=C1iVqe9Njas</id>
+        <link href="https://www.youtube.com/watch?v=C1iVqe9Njas"/>
+        <updated>2025-01-18T12:30:08.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bottle Radha - Trailer | Guru Somasundaram,Sanchana Natarajan | Sean Roldan |Dhinakaran | Pa Ranjith]]></title>
+        <id>https://www.youtube.com/watch?v=2aP1R8Hh6uQ</id>
+        <link href="https://www.youtube.com/watch?v=2aP1R8Hh6uQ"/>
+        <updated>2025-01-18T12:29:29.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 18th January 2025]]></title>
         <id>https://www.youtube.com/watch?v=mShVlu7rmDA</id>
@@ -571,6 +625,15 @@
         <updated>2025-01-17T07:25:19.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyen Swantham | നീയെൻ സ്വന്തം | Evg. J. V. Peter | Rohan J. Mathew | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=avW6xDHyYRc</id>
+        <link href="https://www.youtube.com/watch?v=avW6xDHyYRc"/>
+        <updated>2025-01-17T06:46:21.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -13540,15 +13603,6 @@
         <updated>2024-12-20T03:00:35.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Songs Malayalam | Sujatha | Joji Johns | Madhu Balakrishnan | Carol Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=qTRVTCf2K6Q</id>
-        <link href="https://www.youtube.com/watch?v=qTRVTCf2K6Q"/>
-        <updated>2024-12-20T00:30:34.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
