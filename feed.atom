@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T20:07:35.974Z</updated>
+    <updated>2025-01-19T21:06:37.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13369,24 +13369,6 @@
         <updated>2024-12-21T10:30:26.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wishing the fabulous #AthulyaaRavi a very happy birthday! ✨️]]></title>
-        <id>https://www.youtube.com/watch?v=FXtQ0O26EEo</id>
-        <link href="https://www.youtube.com/watch?v=FXtQ0O26EEo"/>
-        <updated>2024-12-21T08:34:38.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pineapple Penne  video Songs | Vellinakshatram Malayalam Movie | Prithviraj Sukumaran | Tharuni]]></title>
-        <id>https://www.youtube.com/watch?v=YjYhjpMMYOw</id>
-        <link href="https://www.youtube.com/watch?v=YjYhjpMMYOw"/>
-        <updated>2024-12-21T08:16:36.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
