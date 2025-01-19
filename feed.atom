@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T04:09:16.651Z</updated>
+    <updated>2025-01-19T05:07:23.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rap, dance, go!🎤💃 #PachaParishkari #JayStellar #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=TT4SBDjVoKU</id>
+        <link href="https://www.youtube.com/watch?v=TT4SBDjVoKU"/>
+        <updated>2025-01-19T04:30:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Divyakarunyamaay | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=Kwvag-yoz38</id>
@@ -295,12 +304,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 062 | DRISHYA SANTHOSH | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=RnhcOkcZDBc</id>
+        <link href="https://www.youtube.com/watch?v=RnhcOkcZDBc"/>
+        <updated>2025-01-18T09:04:35.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 061 | SOUMYA THOMAS K | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=lDj8HsbVN3A</id>
+        <link href="https://www.youtube.com/watch?v=lDj8HsbVN3A"/>
+        <updated>2025-01-18T08:59:52.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amme En Amme | Ave Maria | Mother Mary song | Marian Song | Sreya Anna Joseph | Music Spread |]]></title>
         <id>https://www.youtube.com/watch?v=gCc2VetAT9A</id>
         <link href="https://www.youtube.com/watch?v=gCc2VetAT9A"/>
         <updated>2025-01-18T08:58:37.000Z</updated>
         <author>
             <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 060 | TREESA M R | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=BoTdcnJNS1I</id>
+        <link href="https://www.youtube.com/watch?v=BoTdcnJNS1I"/>
+        <updated>2025-01-18T08:57:18.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
