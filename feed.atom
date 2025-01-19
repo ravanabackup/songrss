@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T03:12:48.538Z</updated>
+    <updated>2025-01-19T04:09:16.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13315,24 +13315,6 @@
         <updated>2024-12-20T17:31:25.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #Christmas #christmas2024 #christmasmashup #christmasmedley #christiandevotionals]]></title>
-        <id>https://www.youtube.com/watch?v=gdAxcI-Y-mM</id>
-        <link href="https://www.youtube.com/watch?v=gdAxcI-Y-mM"/>
-        <updated>2024-12-20T15:47:10.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyoru Puzhayayi Video Song|Thilakkam|Dileep|Kavya Madhavan|]]></title>
-        <id>https://www.youtube.com/watch?v=RmZo9UATBbg</id>
-        <link href="https://www.youtube.com/watch?v=RmZo9UATBbg"/>
-        <updated>2024-12-20T15:31:02.000Z</updated>
-        <author>
-            <name>Raaga music</name>
         </author>
     </entry>
 </feed>
