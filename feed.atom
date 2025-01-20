@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-20T03:11:28.872Z</updated>
+    <updated>2025-01-20T04:10:14.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13126,33 +13126,6 @@
         <updated>2024-12-21T16:16:51.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Songs |ജനന പെരുന്നാൾ |യൽദോ പെരുന്നാൾ ഗീതങ്ങൾ | Janana Perunal |Yeldo perunal| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=awKRmxQlLU0</id>
-        <link href="https://www.youtube.com/watch?v=awKRmxQlLU0"/>
-        <updated>2024-12-21T16:00:02.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arima Arima ✨🎶 #Enthiran #Rajinikanth #AishwaryaRaiBachchan #ARRahman #Shankar]]></title>
-        <id>https://www.youtube.com/watch?v=Q1PwhqNxcIM</id>
-        <link href="https://www.youtube.com/watch?v=Q1PwhqNxcIM"/>
-        <updated>2024-12-21T15:58:37.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Songs |ജനന പെരുന്നാൾ |യൽദോ പെരുന്നാൾ ഗീതങ്ങൾ | Janana Perunal |Yeldo perunal| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=-yvhdPjmCFE</id>
-        <link href="https://www.youtube.com/watch?v=-yvhdPjmCFE"/>
-        <updated>2024-12-21T15:30:00.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
