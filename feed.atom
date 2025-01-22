@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T20:09:04.057Z</updated>
+    <updated>2025-01-22T21:04:45.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13468,24 +13468,6 @@
         <updated>2024-12-24T09:34:42.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope of Shambala - Audio Song | | Kalki 2898 AD | Prabhas | Shobana | Deepika | Santhosh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=FgUNjwyIwWI</id>
-        <link href="https://www.youtube.com/watch?v=FgUNjwyIwWI"/>
-        <updated>2024-12-24T08:30:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nenjudukkinte | 1080p | Karumadikkuttan | Kalabhavan Mani | Nandini | Suresh Krishna - Yesudas Hits]]></title>
-        <id>https://www.youtube.com/watch?v=bdwsHhRafuY</id>
-        <link href="https://www.youtube.com/watch?v=bdwsHhRafuY"/>
-        <updated>2024-12-24T08:19:51.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
