@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T00:38:41.328Z</updated>
+    <updated>2025-01-22T02:08:52.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Priyan Yeshuvin | Shorts #shorts #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=SeyW0C22fas</id>
+        <link href="https://www.youtube.com/watch?v=SeyW0C22fas"/>
+        <updated>2025-01-22T01:30:14.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Melody Songs | Manoj Christy | Christian Devotional Songs Malayalam | Madhu Balakrishnan]]></title>
         <id>https://www.youtube.com/watch?v=BQuSePX4o1Q</id>
@@ -13279,78 +13288,6 @@
         <updated>2024-12-23T14:30:10.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23 December 2024]]></title>
-        <id>https://www.youtube.com/watch?v=INgafg2n_KY</id>
-        <link href="https://www.youtube.com/watch?v=INgafg2n_KY"/>
-        <updated>2024-12-23T13:46:54.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Mounam Malayalam Song  |  Ente Entethumaathram  | Mohanlal | Johnson | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=qfPrRTyKwnc</id>
-        <link href="https://www.youtube.com/watch?v=qfPrRTyKwnc"/>
-        <updated>2024-12-23T13:30:35.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നല്ലതിൽ നിന്ന് തെരഞ്ഞെടുത്ത ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Carol Songs | Joji Johns | Carol Songs]]></title>
-        <id>https://www.youtube.com/watch?v=TCfptwYMfWg</id>
-        <link href="https://www.youtube.com/watch?v=TCfptwYMfWg"/>
-        <updated>2024-12-23T13:30:15.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samuel Nicholas - Aiyaiyo (Promo) | Think Indie]]></title>
-        <id>https://www.youtube.com/watch?v=-3LXWdhmrmQ</id>
-        <link href="https://www.youtube.com/watch?v=-3LXWdhmrmQ"/>
-        <updated>2024-12-23T13:28:08.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanathoru | സൂപ്പർഹിറ്റ് ക്രിസ്മസ് ഗാനം |   @JinoKunnumpurathu              #shorts #carol #xmas]]></title>
-        <id>https://www.youtube.com/watch?v=rQL3Dxl1WSE</id>
-        <link href="https://www.youtube.com/watch?v=rQL3Dxl1WSE"/>
-        <updated>2024-12-23T13:01:06.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vrindavanathile Radha | Changampuzha Kavitha #kavithaigal #malayalampoem #changampuzha #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=EhoDXKzhSMs</id>
-        <link href="https://www.youtube.com/watch?v=EhoDXKzhSMs"/>
-        <updated>2024-12-23T13:00:16.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathapoove Muthu Song | 4K Song | Balram vs Tharadas | Mammootty | Katrina Kaif | Jassie Gift]]></title>
-        <id>https://www.youtube.com/watch?v=gbvch9PI8Vg</id>
-        <link href="https://www.youtube.com/watch?v=gbvch9PI8Vg"/>
-        <updated>2024-12-23T12:59:27.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രക്ഷയിലേക്ക് നയിക്കും പ്രത്യാശ ഗീതങ്ങൾ | Prathyasha Geethangal | Christian Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=oDDWfj_ZzpE</id>
-        <link href="https://www.youtube.com/watch?v=oDDWfj_ZzpE"/>
-        <updated>2024-12-23T12:55:10.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
