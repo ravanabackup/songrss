@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-23T20:08:51.008Z</updated>
+    <updated>2025-01-23T21:06:59.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13279,24 +13279,6 @@
         <updated>2024-12-25T10:07:26.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theme Of Kalki - Audio Song | Kalki 2898 AD (Malayalam) | Prabhas | Deepika | Santhosh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=mnFmpeQ3vTY</id>
-        <link href="https://www.youtube.com/watch?v=mnFmpeQ3vTY"/>
-        <updated>2024-12-25T08:30:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഗാനഗന്ധർവന്റെ സ്വരമാധുരിയിലൂടെ.....എവർഗ്രീൻ ഗാനങ്ങൾ| Hits Of KJ Yesudas | Evergreen Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=-CipyXO-2e8</id>
-        <link href="https://www.youtube.com/watch?v=-CipyXO-2e8"/>
-        <updated>2024-12-25T08:29:46.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
