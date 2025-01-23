@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-23T03:10:02.025Z</updated>
+    <updated>2025-01-23T04:10:18.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13225,42 +13225,6 @@
         <updated>2024-12-24T16:14:27.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 December 2024]]></title>
-        <id>https://www.youtube.com/watch?v=EAvhr2F9OvA</id>
-        <link href="https://www.youtube.com/watch?v=EAvhr2F9OvA"/>
-        <updated>2024-12-24T15:56:36.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎄Merry Christmas 🎄#matchpointfaith #merrychristmas #merrychristmas2024 #MerryChristmasEveryone]]></title>
-        <id>https://www.youtube.com/watch?v=Afwb-zdLP-U</id>
-        <link href="https://www.youtube.com/watch?v=Afwb-zdLP-U"/>
-        <updated>2024-12-24T15:43:05.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സിൽ സന്തോസ്തവും സമാധാനവും പ്രധാനം ചെയ്യും ഏറ്റവും മികച്ച ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pnEpjrie4aU</id>
-        <link href="https://www.youtube.com/watch?v=pnEpjrie4aU"/>
-        <updated>2024-12-24T15:30:27.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Songs |ജനന പെരുന്നാൾ | യൽദോ പെരുന്നാൾ ഗീതങ്ങൾ |Janana Perunal |Yeldo perunal| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=PSSAWBfixYg</id>
-        <link href="https://www.youtube.com/watch?v=PSSAWBfixYg"/>
-        <updated>2024-12-24T15:30:13.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
