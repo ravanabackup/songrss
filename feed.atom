@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T19:05:33.918Z</updated>
+    <updated>2025-01-24T20:08:30.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13459,15 +13459,6 @@
         <updated>2024-12-26T08:16:45.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanichirikkumbol Thankakinavinte | Kanninum Kannaadikkum Movie Song  | Kalabhavan Mani | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=1swpKGHW-ok</id>
-        <link href="https://www.youtube.com/watch?v=1swpKGHW-ok"/>
-        <updated>2024-12-26T07:33:21.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
