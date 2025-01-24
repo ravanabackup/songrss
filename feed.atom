@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T12:14:14.167Z</updated>
+    <updated>2025-01-24T13:14:10.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NADHANEKUM DIVYAVIRUNNU | KESTER | DR. JOSE THANKACHAN | JACOB KORATTY | #christiansongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ZrSrgiZjeSc</id>
+        <link href="https://www.youtube.com/watch?v=ZrSrgiZjeSc"/>
+        <updated>2025-01-24T13:00:45.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appolum Paranjille Video Song | Kadamba | Old malayalam Songs | K Raghavan | CO Anto#malayalamsong]]></title>
+        <id>https://www.youtube.com/watch?v=rYz2v1Pr1gE</id>
+        <link href="https://www.youtube.com/watch?v=rYz2v1Pr1gE"/>
+        <updated>2025-01-24T12:30:49.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹം ചൊരിഞ്ഞ ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | James | Prayer and Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=EphOntslc8s</id>
+        <link href="https://www.youtube.com/watch?v=EphOntslc8s"/>
+        <updated>2025-01-24T12:30:13.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിന്റെ മുൻപിൽ ജയിക്കണമെങ്കിൽ  |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Ew3PmljLjAA</id>
+        <link href="https://www.youtube.com/watch?v=Ew3PmljLjAA"/>
+        <updated>2025-01-24T12:30:11.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinthamane Bhagavante | Alancheri Thamprakkal | Best Malayalam Song | M.G.Sreekumar | Nedumudi Venu]]></title>
         <id>https://www.youtube.com/watch?v=CZcB2SVrVlc</id>
@@ -13441,15 +13477,6 @@
         <updated>2024-12-26T01:49:08.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിങ്ങൾ ഇല്ലാതെ ഞങ്ങൾക്കെന്തുആഘോഷം | Christmas Songs Malayalam | KG Markose | Wilson Piravom]]></title>
-        <id>https://www.youtube.com/watch?v=nyPmLDCt2do</id>
-        <link href="https://www.youtube.com/watch?v=nyPmLDCt2do"/>
-        <updated>2024-12-26T00:30:25.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
