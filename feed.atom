@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T21:06:47.190Z</updated>
+    <updated>2025-01-24T22:07:08.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=wQvVOWsqDu8</id>
+        <link href="https://www.youtube.com/watch?v=wQvVOWsqDu8"/>
+        <updated>2025-01-24T22:00:40.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 25 # Athiravile Prarthana 25th January 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=hwyb4V2TF10</id>
@@ -13414,15 +13423,6 @@
         <updated>2024-12-26T10:11:07.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhayaay Nee | Swasam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=f0uX4PWcTQg</id>
-        <link href="https://www.youtube.com/watch?v=f0uX4PWcTQg"/>
-        <updated>2024-12-26T09:42:09.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
