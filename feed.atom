@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T02:07:29.255Z</updated>
+    <updated>2025-01-24T03:10:17.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13225,42 +13225,6 @@
         <updated>2024-12-25T18:00:29.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devadhoothar Paadi Video Song|Kathodu Kathoram|Mammootty|Saraitha|]]></title>
-        <id>https://www.youtube.com/watch?v=biSBaH_ebyc</id>
-        <link href="https://www.youtube.com/watch?v=biSBaH_ebyc"/>
-        <updated>2024-12-25T15:06:16.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25 December 2024]]></title>
-        <id>https://www.youtube.com/watch?v=54X-W8wbjcA</id>
-        <link href="https://www.youtube.com/watch?v=54X-W8wbjcA"/>
-        <updated>2024-12-25T15:02:17.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kadha paranjurangiya | Madhuranombarakattu | Vidyasagar | K. J. Yesudas |  #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=vCe1LtTxj6w</id>
-        <link href="https://www.youtube.com/watch?v=vCe1LtTxj6w"/>
-        <updated>2024-12-25T14:30:34.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olakkayyil Neeraadi | Mukesh | Vani Viswanath | KJ Yesudas, KS Chithra | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=t7lFf6nvapo</id>
-        <link href="https://www.youtube.com/watch?v=t7lFf6nvapo"/>
-        <updated>2024-12-25T14:30:23.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
