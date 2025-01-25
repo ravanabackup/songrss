@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-25T16:07:30.729Z</updated>
+    <updated>2025-01-25T17:04:56.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#republicday #republicday2025 #musicspread]]></title>
+        <id>https://www.youtube.com/watch?v=u4EVTzVEfeY</id>
+        <link href="https://www.youtube.com/watch?v=u4EVTzVEfeY"/>
+        <updated>2025-01-25T16:30:16.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#republicday #republicday2025 #musicspread]]></title>
         <id>https://www.youtube.com/watch?v=YgWKvRAF5Ag</id>
@@ -13468,24 +13477,6 @@
         <updated>2024-12-27T05:10:21.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the funky Mallu rap rhythm🔥#PachaParishkari #ThirumaLi #JayStellar #KJYesudas #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=VZeHoqfrxQQ</id>
-        <link href="https://www.youtube.com/watch?v=VZeHoqfrxQQ"/>
-        <updated>2024-12-27T04:30:22.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalirvettilayundo | Movie Name | Best Malayalam Song | Chithra, G. Venugopal | Gautami, Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=DLaJsYdfnCs</id>
-        <link href="https://www.youtube.com/watch?v=DLaJsYdfnCs"/>
-        <updated>2024-12-27T04:22:44.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
