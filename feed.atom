@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-25T02:02:18.764Z</updated>
+    <updated>2025-01-25T03:07:59.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13261,42 +13261,6 @@
         <updated>2024-12-26T15:19:23.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Mounaraminnu Video Song|Kottaram Veetile Apoottan|Jayaram|Shruthi| #jayaram #malayalamsongs]]></title>
-        <id>https://www.youtube.com/watch?v=1QACFk1-w0o</id>
-        <link href="https://www.youtube.com/watch?v=1QACFk1-w0o"/>
-        <updated>2024-12-26T14:40:11.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thudikotti Padunna | KJ Yesudas  | ONV Kurup | Mammootty | #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=X1QyUHC6q8o</id>
-        <link href="https://www.youtube.com/watch?v=X1QyUHC6q8o"/>
-        <updated>2024-12-26T14:30:13.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanksgiving Songs | സ്തോത്ര ഗാനങ്ങൾ 2024 | Malayalam Christian Devotional Songs | Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=1HEEczHnr8o</id>
-        <link href="https://www.youtube.com/watch?v=1HEEczHnr8o"/>
-        <updated>2024-12-26T14:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neerazhi Penninte | Kizhakkan Pathrose | Mammootty | Innocent | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=2_oopGkYbsc</id>
-        <link href="https://www.youtube.com/watch?v=2_oopGkYbsc"/>
-        <updated>2024-12-26T14:30:01.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
