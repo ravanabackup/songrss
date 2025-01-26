@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-26T00:39:07.145Z</updated>
+    <updated>2025-01-26T02:09:31.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devasutha | Christian Devotional Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=S0Uk-5oCB_s</id>
+        <link href="https://www.youtube.com/watch?v=S0Uk-5oCB_s"/>
+        <updated>2025-01-26T02:00:17.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JANAGANAMANA REPUBLIC DAY #musicspread]]></title>
+        <id>https://www.youtube.com/watch?v=yxflS6xLPiM</id>
+        <link href="https://www.youtube.com/watch?v=yxflS6xLPiM"/>
+        <updated>2025-01-26T01:30:41.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JANAGANAMANA REPUBLIC DAY #musicspread]]></title>
+        <id>https://www.youtube.com/watch?v=r7oEFlSqnSQ</id>
+        <link href="https://www.youtube.com/watch?v=r7oEFlSqnSQ"/>
+        <updated>2025-01-26T01:00:46.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കരഞ്ഞു തളർന്ന മിഴികൾക്ക് സ്വാന്തനമേകിയ ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=_Yp0TH4BFu4</id>
@@ -13297,60 +13324,6 @@
         <updated>2024-12-27T14:22:59.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
-        <id>https://www.youtube.com/watch?v=ALEGY3qa5x0</id>
-        <link href="https://www.youtube.com/watch?v=ALEGY3qa5x0"/>
-        <updated>2024-12-27T14:00:09.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Christian devotional song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=k5DmtoYRHwo</id>
-        <link href="https://www.youtube.com/watch?v=k5DmtoYRHwo"/>
-        <updated>2024-12-27T13:30:28.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pattum Padi Oru Kootin | The Speed Track | Deepak Dev | KJ Yesudas | Dileep | Dileep Hits]]></title>
-        <id>https://www.youtube.com/watch?v=4JC7f8v23nA</id>
-        <link href="https://www.youtube.com/watch?v=4JC7f8v23nA"/>
-        <updated>2024-12-27T13:30:04.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eesho Mishihaakk sthuthiyaayirikkatte | Manoj Christy | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=843u4v_Wf5Q</id>
-        <link href="https://www.youtube.com/watch?v=843u4v_Wf5Q"/>
-        <updated>2024-12-27T13:30:04.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonam Thrikkannil Song | Varnakkazhchakal | Dileep | K S Chithra | Mohan Sithara Hits]]></title>
-        <id>https://www.youtube.com/watch?v=blEnwT4Q80I</id>
-        <link href="https://www.youtube.com/watch?v=blEnwT4Q80I"/>
-        <updated>2024-12-27T13:00:48.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnumillayimayil |ഹൃദയങ്ങൾ കീഴടക്കിയ ഗാനം |  @JinoKunnumpurathu    #shorts #carol #xmas]]></title>
-        <id>https://www.youtube.com/watch?v=F6gdQafiOwg</id>
-        <link href="https://www.youtube.com/watch?v=F6gdQafiOwg"/>
-        <updated>2024-12-27T13:00:16.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
