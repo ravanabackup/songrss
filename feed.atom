@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T04:10:17.376Z</updated>
+    <updated>2025-01-27T05:08:30.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannum Chimmi Chimmi Video Song | Inspector Garud | Dileep | Kavya Madhavan | Vineeth Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=6hyl2y5tksQ</id>
+        <link href="https://www.youtube.com/watch?v=6hyl2y5tksQ"/>
+        <updated>2025-01-27T05:08:20.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It seems like a perfect blend of contrasts!⚡🔥 #PachaParishkari #JayStellar #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=mZd2371g2do</id>
+        <link href="https://www.youtube.com/watch?v=mZd2371g2do"/>
+        <updated>2025-01-27T04:30:28.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Ashrayam | Wilson Piravom | Reji Abraham]]></title>
         <id>https://www.youtube.com/watch?v=p8X2_PM2AKc</id>
