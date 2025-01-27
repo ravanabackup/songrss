@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T20:09:10.976Z</updated>
+    <updated>2025-01-27T21:07:22.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13288,15 +13288,6 @@
         <updated>2024-12-29T09:13:13.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choolamadikkada - Audio | Kondal | Antony Pepe, Raj B | Sam CS | Vinayak Sasikumar |Ajit Mampally]]></title>
-        <id>https://www.youtube.com/watch?v=pUblPb_IoSw</id>
-        <link href="https://www.youtube.com/watch?v=pUblPb_IoSw"/>
-        <updated>2024-12-29T08:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
