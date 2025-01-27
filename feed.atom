@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T02:08:45.076Z</updated>
+    <updated>2025-01-27T03:11:07.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13081,69 +13081,6 @@
         <updated>2024-12-28T15:30:01.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olichirunne Video Song|Janakan|Suresh Gopi|Kaveri|Priya lal|]]></title>
-        <id>https://www.youtube.com/watch?v=6OfbMMYC1xE</id>
-        <link href="https://www.youtube.com/watch?v=6OfbMMYC1xE"/>
-        <updated>2024-12-28T15:01:05.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=XX8ilG-kBsA</id>
-        <link href="https://www.youtube.com/watch?v=XX8ilG-kBsA"/>
-        <updated>2024-12-28T15:00:37.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vilakku Vekkum | Dileep | Priya Gill | Priyadarshan | Megham]]></title>
-        <id>https://www.youtube.com/watch?v=dB_4k6yWLOs</id>
-        <link href="https://www.youtube.com/watch?v=dB_4k6yWLOs"/>
-        <updated>2024-12-28T14:30:27.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkarakku Yathra | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth | Malayalam Christian Devotional Song|Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=xVdXW8N8DAM</id>
-        <link href="https://www.youtube.com/watch?v=xVdXW8N8DAM"/>
-        <updated>2024-12-28T14:30:25.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palaruvi kuliraniyum | Kaakkathollaayiram | Johnson | Kaithapram |  MG Sreekumar #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=PMjrOy_aVLI</id>
-        <link href="https://www.youtube.com/watch?v=PMjrOy_aVLI"/>
-        <updated>2024-12-28T14:30:07.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthuvarsha Samarpana Geethangal | സമർപ്പണ ഗീതങ്ങൾ | New Year Blessings 2025 | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=tTjYKenm-jM</id>
-        <link href="https://www.youtube.com/watch?v=tTjYKenm-jM"/>
-        <updated>2024-12-28T14:30:07.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chendaykkoru Kolundeda | Video Song | Film Manasinakkare | Jayaram | Innocent]]></title>
-        <id>https://www.youtube.com/watch?v=1baHdYa65DQ</id>
-        <link href="https://www.youtube.com/watch?v=1baHdYa65DQ"/>
-        <updated>2024-12-28T14:16:45.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
