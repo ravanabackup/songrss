@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T00:38:25.007Z</updated>
+    <updated>2025-01-28T02:06:33.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyan | Christian Devotional Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=v_8FYK_E684</id>
+        <link href="https://www.youtube.com/watch?v=v_8FYK_E684"/>
+        <updated>2025-01-28T02:00:41.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raareram Raaro | Swasam | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=MGTN6O6QIZM</id>
+        <link href="https://www.youtube.com/watch?v=MGTN6O6QIZM"/>
+        <updated>2025-01-28T02:00:13.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargarajyam | P Jayachandran | Christian Superhit Songs | Joji Johns | Fr.Mathew Kareethara]]></title>
         <id>https://www.youtube.com/watch?v=SiuFwAcPOek</id>
@@ -13207,42 +13225,6 @@
         <updated>2024-12-29T14:15:58.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Binoy Chacko | Christian Devotional Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=rXwEbK4Ddok</id>
-        <link href="https://www.youtube.com/watch?v=rXwEbK4Ddok"/>
-        <updated>2024-12-29T13:30:33.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സിനെ തൊട്ടുണർത്തുന്ന ആരാധനാ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | ZION CLASSICS]]></title>
-        <id>https://www.youtube.com/watch?v=Wg8EqVG3L8U</id>
-        <link href="https://www.youtube.com/watch?v=Wg8EqVG3L8U"/>
-        <updated>2024-12-29T13:30:26.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=Ss23x_Ft9kk</id>
-        <link href="https://www.youtube.com/watch?v=Ss23x_Ft9kk"/>
-        <updated>2024-12-29T13:30:17.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NINTE SHEETHALA | മനസ്സിനെ തൊട്ടുണർത്തുന്ന ഗാനം |   @JinoKunnumpurathu     #shorts #carol #xmas]]></title>
-        <id>https://www.youtube.com/watch?v=st3WoYk4SvU</id>
-        <link href="https://www.youtube.com/watch?v=st3WoYk4SvU"/>
-        <updated>2024-12-29T13:01:03.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
