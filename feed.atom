@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T08:11:17.965Z</updated>
+    <updated>2025-01-28T09:08:41.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athmave Poo X Thalatherichavar - Afro Vibe | Romancham | Sushin Shyam | Rithick J]]></title>
+        <id>https://www.youtube.com/watch?v=tJUTdZsPMRc</id>
+        <link href="https://www.youtube.com/watch?v=tJUTdZsPMRc"/>
+        <updated>2025-01-28T08:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഓർമ്മകളെ പൊന്നാക്കിമാറ്റിയ മധുരസ്മരണകളുണർത്തും നല്ല ഗാനങ്ങൾ | NOSTALGIC SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=fqyEyWL_ARo</id>
