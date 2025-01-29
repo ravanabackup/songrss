@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-29T16:10:11.602Z</updated>
+    <updated>2025-01-29T17:07:14.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13252,24 +13252,6 @@
         <updated>2024-12-31T05:10:10.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rap, funk, and Mallu style🎶🔥#PachaParishkari #ThirumaLi #JayStellar #KJYesudas #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qqthAcn-9Tk</id>
-        <link href="https://www.youtube.com/watch?v=qqthAcn-9Tk"/>
-        <updated>2024-12-31T04:30:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paalaruvikkarayil| Padmavyooham | M K Arjunan | Vincent | Malayalam Evergreen Song | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=e-GdbTUiqkI</id>
-        <link href="https://www.youtube.com/watch?v=e-GdbTUiqkI"/>
-        <updated>2024-12-31T04:30:08.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
