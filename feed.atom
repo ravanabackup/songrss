@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T12:14:44.699Z</updated>
+    <updated>2025-01-30T13:14:36.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karunardhra |  പ്രത്യാശയുടെ മനോഹര ഗാനം |   @JinoKunnumpurathu        #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=IZnheb_QOpk</id>
+        <link href="https://www.youtube.com/watch?v=IZnheb_QOpk"/>
+        <updated>2025-01-30T13:00:19.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yendhukae Nannodhilaavu | Return of The Dragon | Pradeep,Anupama | Ashwath Marimuthu |Leon James|AGS]]></title>
+        <id>https://www.youtube.com/watch?v=zExfWZ10bzY</id>
+        <link href="https://www.youtube.com/watch?v=zExfWZ10bzY"/>
+        <updated>2025-01-30T12:50:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Priyanepol | Prathyasha Geethangal | Binoy Chacko | Christian Melody Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=MeEC6De0b_E</id>
+        <link href="https://www.youtube.com/watch?v=MeEC6De0b_E"/>
+        <updated>2025-01-30T12:30:31.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arupathi Naalu Kalakal Video Song | Malayalam Evergreen Film song | Yakshaganam | L R Eswari]]></title>
+        <id>https://www.youtube.com/watch?v=RmavhZGSawM</id>
+        <link href="https://www.youtube.com/watch?v=RmavhZGSawM"/>
+        <updated>2025-01-30T12:30:24.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ നിമിഷത്തിൽ ജീവിക്കാൻ കഴിയണം    |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Dc01JZRFJsU</id>
+        <link href="https://www.youtube.com/watch?v=Dc01JZRFJsU"/>
+        <updated>2025-01-30T12:30:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathinettu Vayassil | Villain | Best Malayalam Song | Udit Narayan | Ajith, Kiran Rathod]]></title>
+        <id>https://www.youtube.com/watch?v=XkCbTaZjCqY</id>
+        <link href="https://www.youtube.com/watch?v=XkCbTaZjCqY"/>
+        <updated>2025-01-30T12:24:35.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaatru Veliyidai Kannamma 4K Video Song | Thanmathra | Mohanlal | Meera Vasudevan | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=aHa8vEDiJt0</id>
@@ -13045,24 +13099,6 @@
         <updated>2025-01-01T01:51:00.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനേകം വചനവേദികളിൽ ദൈവശക്തി വെളിപ്പെടുത്തി ആത്മാഭിഷേകം പകർന്ന ഗാനം #krupabhishekam കൃപാഭിഷേകം]]></title>
-        <id>https://www.youtube.com/watch?v=GWasGz7GM8s</id>
-        <link href="https://www.youtube.com/watch?v=GWasGz7GM8s"/>
-        <updated>2025-01-01T00:30:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amalolbhave Karunyame | Christian Video Song | Shaney Jerin | Jerin Kadampanad | Mariyan Song]]></title>
-        <id>https://www.youtube.com/watch?v=F5ITu2SCHfA</id>
-        <link href="https://www.youtube.com/watch?v=F5ITu2SCHfA"/>
-        <updated>2025-01-01T00:30:08.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
