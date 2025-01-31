@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T12:14:19.112Z</updated>
+    <updated>2025-01-31T13:14:01.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rakthakkottakkullil |  കെസ്റ്ററിന്റ അതിമനോഹര ഗാനം |   @JinoKunnumpurathu        #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8OhMgRP7OsE</id>
+        <link href="https://www.youtube.com/watch?v=8OhMgRP7OsE"/>
+        <updated>2025-01-31T13:00:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#SithiraPuthiri streaming now in all music platforms ✨🎶 #SaiAbhyankkar #ThinkIndie #ThinkMusic]]></title>
+        <id>https://www.youtube.com/watch?v=KOaHq13V1Rs</id>
+        <link href="https://www.youtube.com/watch?v=KOaHq13V1Rs"/>
+        <updated>2025-01-31T12:46:14.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന്റെ വേദന നീക്കുന്ന പ്രത്യാശ ഗീതങ്ങൾ | Prathyasha Geethangal | Old Is Gold | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=XtWdtvRDhys</id>
+        <link href="https://www.youtube.com/watch?v=XtWdtvRDhys"/>
+        <updated>2025-01-31T12:30:35.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വേദനിപ്പിച്ചവരോട്  ഹൃദയപൂർവ്വം ക്ഷമിക്കാം  |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=BzadvB-OdAU</id>
+        <link href="https://www.youtube.com/watch?v=BzadvB-OdAU"/>
+        <updated>2025-01-31T12:30:08.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaatarinu Thorathoru | Forever Favourites  #unplugged #coversong #shortsfeed #shortsvideo #reels]]></title>
         <id>https://www.youtube.com/watch?v=x7fXgRszQmc</id>
@@ -12856,15 +12892,6 @@
         <updated>2025-01-02T02:00:34.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ വർഷം ആദ്യം കേട്ട ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Melody Songs | Shine Kumar | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=acwfJHl-jlA</id>
-        <link href="https://www.youtube.com/watch?v=acwfJHl-jlA"/>
-        <updated>2025-01-02T00:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
