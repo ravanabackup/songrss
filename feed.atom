@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T11:06:36.654Z</updated>
+    <updated>2025-01-31T12:14:19.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaatarinu Thorathoru | Forever Favourites  #unplugged #coversong #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=x7fXgRszQmc</id>
+        <link href="https://www.youtube.com/watch?v=x7fXgRszQmc"/>
+        <updated>2025-01-31T12:01:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melle Melle Song+Karaoke | Sagar Alias Jacky | Punya Srinivas | Gopi Sundar | Film Song Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=cDI6k5RV_zU</id>
+        <link href="https://www.youtube.com/watch?v=cDI6k5RV_zU"/>
+        <updated>2025-01-31T12:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Himagiri Thandum - Video Song | 4 Seasons | Ameen, Rhea | Vinod Parameswaran | Raleigh Rajan]]></title>
+        <id>https://www.youtube.com/watch?v=zxwR11ID9AU</id>
+        <link href="https://www.youtube.com/watch?v=zxwR11ID9AU"/>
+        <updated>2025-01-31T11:30:41.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 31st January 2025]]></title>
+        <id>https://www.youtube.com/watch?v=Gqcvb9-G58M</id>
+        <link href="https://www.youtube.com/watch?v=Gqcvb9-G58M"/>
+        <updated>2025-01-31T11:30:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhyme king 👑, funk in my veins 🎧 #PachaParishkari #ThirumaLi #KJYesudas #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8-8RFdYS6sY</id>
+        <link href="https://www.youtube.com/watch?v=8-8RFdYS6sY"/>
+        <updated>2025-01-31T11:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirakarnna Mounam 4K Video Song | Calendar | Prithviraj Sukumaran | Navya Nair| KJ Yesudas | Cicily]]></title>
+        <id>https://www.youtube.com/watch?v=5AHB3p_nYG4</id>
+        <link href="https://www.youtube.com/watch?v=5AHB3p_nYG4"/>
+        <updated>2025-01-31T11:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhake Annoravaniyil | അഴകേ.. അന്നൊരാവണിയില്‍  |  Vazhunnor Movie Song | Suresh Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=y0A0DD1b9o8</id>
+        <link href="https://www.youtube.com/watch?v=y0A0DD1b9o8"/>
+        <updated>2025-01-31T11:21:06.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവാനുഗ്രഹം നിറഞ്ഞ ഭക്തിഗീതങ്ങൾ | സ്നേഹ ഗീതങ്ങൾ | Music Shack Christian Devotional Songs Live]]></title>
         <id>https://www.youtube.com/watch?v=eL5ybjmLRHw</id>
@@ -12802,15 +12865,6 @@
         <updated>2025-01-02T00:30:01.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 2nd of January 2025 Mathavinte Japamala # Prakashathinte Rahasyangal 2nd of January 25]]></title>
-        <id>https://www.youtube.com/watch?v=Gd52gRdWyMI</id>
-        <link href="https://www.youtube.com/watch?v=Gd52gRdWyMI"/>
-        <updated>2025-01-01T23:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
