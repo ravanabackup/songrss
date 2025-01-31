@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T10:08:20.672Z</updated>
+    <updated>2025-01-31T11:06:36.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവാനുഗ്രഹം നിറഞ്ഞ ഭക്തിഗീതങ്ങൾ | സ്നേഹ ഗീതങ്ങൾ | Music Shack Christian Devotional Songs Live]]></title>
+        <id>https://www.youtube.com/watch?v=eL5ybjmLRHw</id>
+        <link href="https://www.youtube.com/watch?v=eL5ybjmLRHw"/>
+        <updated>2025-01-31T10:41:42.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bromance Trailer Launch Live | Arjun Ashokan,Mahima,Mathew Thomas| ADJ |Govind Vasantha |Ashiq Usman]]></title>
+        <id>https://www.youtube.com/watch?v=iUExIuqD_z0</id>
+        <link href="https://www.youtube.com/watch?v=iUExIuqD_z0"/>
+        <updated>2025-01-31T10:22:55.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ponnalle Muthalle Nee | Robin Hood | Jassie Gift | M Jayachandran | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=mq8ofBYZDYs</id>
@@ -12793,15 +12811,6 @@
         <updated>2025-01-01T23:30:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജനുവരി: 02, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=MkLZG8p4LnE</id>
-        <link href="https://www.youtube.com/watch?v=MkLZG8p4LnE"/>
-        <updated>2025-01-01T22:30:02.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
