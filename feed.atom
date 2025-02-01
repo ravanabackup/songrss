@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T23:07:20.992Z</updated>
+    <updated>2025-02-01T00:41:11.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 1st of February 2025 # Mathavinte Japamala Santhoshathinte Rahasyangal 1st of February 2025]]></title>
+        <id>https://www.youtube.com/watch?v=9e3s_hePQ0k</id>
+        <link href="https://www.youtube.com/watch?v=9e3s_hePQ0k"/>
+        <updated>2025-01-31T23:30:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഫെബ്രുവരി: 01,  ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=XqU3AtZUWrw</id>
@@ -12757,87 +12766,6 @@
         <updated>2025-01-02T12:58:33.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangalappaala Poomanam Video Song | Oral Mathram | Shruthi | KS Chithra | Johnson | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=Tcfth20dikE</id>
-        <link href="https://www.youtube.com/watch?v=Tcfth20dikE"/>
-        <updated>2025-01-02T12:32:38.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhoopathimar | Prathyasha Geethangal | Alice Kottayam | Christian Worship Songs | christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xn5-vqX2ZA0</id>
-        <link href="https://www.youtube.com/watch?v=xn5-vqX2ZA0"/>
-        <updated>2025-01-02T12:30:52.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നന്മയുടെ അടയാളം  | 😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=RJsAvQpHCsk</id>
-        <link href="https://www.youtube.com/watch?v=RJsAvQpHCsk"/>
-        <updated>2025-01-02T12:30:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manorama Music Christian Devotional Songs | 2024 Recap | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=QsYNNj8yACw</id>
-        <link href="https://www.youtube.com/watch?v=QsYNNj8yACw"/>
-        <updated>2025-01-02T12:25:51.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathirakkili Varu Palkadal Kili Video Song | Kizhakkan Pathrose | KJ Yesudas | SP Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=LXRwx6vZwGA</id>
-        <link href="https://www.youtube.com/watch?v=LXRwx6vZwGA"/>
-        <updated>2025-01-02T12:02:34.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyatharametho|Video Song | Randam Mukham | Najim Arshad/ Rajesh Babu K / Mareena/Aishwarya Kalyani]]></title>
-        <id>https://www.youtube.com/watch?v=J8sf3MpKtEo</id>
-        <link href="https://www.youtube.com/watch?v=J8sf3MpKtEo"/>
-        <updated>2025-01-02T12:00:21.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 2nd January 2025]]></title>
-        <id>https://www.youtube.com/watch?v=veM03A5ypFU</id>
-        <link href="https://www.youtube.com/watch?v=veM03A5ypFU"/>
-        <updated>2025-01-02T11:30:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUDHIRAM OST Jukebox | 4 Musics | Raj B Shetty | Aparna Balamurali | Jisho Lon Antony | VS LALAN]]></title>
-        <id>https://www.youtube.com/watch?v=UrbR3Yvgnr8</id>
-        <link href="https://www.youtube.com/watch?v=UrbR3Yvgnr8"/>
-        <updated>2025-01-02T11:30:16.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njan Kandatha Sare – Othungi Nikkada Video Song|Indrajith Sukumaran| Varun G Panicker| Manu Ramesan]]></title>
-        <id>https://www.youtube.com/watch?v=sFY36JkUZ5E</id>
-        <link href="https://www.youtube.com/watch?v=sFY36JkUZ5E"/>
-        <updated>2025-01-02T11:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
