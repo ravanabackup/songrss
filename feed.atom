@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T12:12:38.200Z</updated>
+    <updated>2025-02-01T13:09:58.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninte Sheethala | സ്വാന്തനമേകുന്ന മനോഹര ഗാനം |    @JinoKunnumpurathu         #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=SKXnxq_GjS4</id>
+        <link href="https://www.youtube.com/watch?v=SKXnxq_GjS4"/>
+        <updated>2025-02-01T13:00:39.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദുഃഖിക്കുന്നവർ ഭാഗ്യവാന്മാർ  |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Q7QW_6mXJ34</id>
+        <link href="https://www.youtube.com/watch?v=Q7QW_6mXJ34"/>
+        <updated>2025-02-01T12:30:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokam Namukku Video Song | Malayalam Evergreen Film song | Yakshaganam | S Janaki #oldsong]]></title>
+        <id>https://www.youtube.com/watch?v=CJZC0KPbzA8</id>
+        <link href="https://www.youtube.com/watch?v=CJZC0KPbzA8"/>
+        <updated>2025-02-01T12:30:08.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daiva Kripayil | Prathyasha Geethangal | Christian Worship Songs | Binoy Chacko | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=9yfXsUCaO2w</id>
+        <link href="https://www.youtube.com/watch?v=9yfXsUCaO2w"/>
+        <updated>2025-02-01T12:30:07.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vinnile Thaarame |Karthik |Sadar Nedumangad |Sharick |ReshmaNandhu | Venu Sasidharan Lekha]]></title>
+        <id>https://www.youtube.com/watch?v=exTJwGMIffA</id>
+        <link href="https://www.youtube.com/watch?v=exTJwGMIffA"/>
+        <updated>2025-02-01T12:15:03.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjadimazha | Song+Karaoke | Rock n Roll | Mohanlal | Sujatha | Vidyasagar | Film Song Karaoke]]></title>
         <id>https://www.youtube.com/watch?v=-W6GufnWNSs</id>
