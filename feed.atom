@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-02T21:06:10.666Z</updated>
+    <updated>2025-02-02T22:06:42.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=-2kCvo5jy6s</id>
+        <link href="https://www.youtube.com/watch?v=-2kCvo5jy6s"/>
+        <updated>2025-02-02T22:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന February 3 # Athiravile Prarthana 3rd of February 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=_i3f_POzTD8</id>
@@ -12674,15 +12683,6 @@
         <id>https://www.youtube.com/watch?v=zf3QTdz8NQg</id>
         <link href="https://www.youtube.com/watch?v=zf3QTdz8NQg"/>
         <updated>2025-01-04T10:13:27.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catharsis | Jibin Gopal | Zeba Tommy | Soumya Ramakrishnan | Santhosh Varma #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=KK8iTszs-XI</id>
-        <link href="https://www.youtube.com/watch?v=KK8iTszs-XI"/>
-        <updated>2025-01-04T09:25:31.000Z</updated>
         <author>
             <name>Saina Music</name>
         </author>
