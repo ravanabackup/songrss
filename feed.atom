@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-02T22:06:42.416Z</updated>
+    <updated>2025-02-02T23:07:12.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 03, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=ejrcQhajtKU</id>
+        <link href="https://www.youtube.com/watch?v=ejrcQhajtKU"/>
+        <updated>2025-02-02T22:30:10.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=-2kCvo5jy6s</id>
@@ -12622,69 +12631,6 @@
         <updated>2025-01-04T11:29:43.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എവർഗ്രീൻ Malayalam Duet Hits | Malayalam Film Songs | Audio Jukebox | K J Yesudas | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=SOBJawWd8Vs</id>
-        <link href="https://www.youtube.com/watch?v=SOBJawWd8Vs"/>
-        <updated>2025-01-04T11:01:28.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 007 | DEBIN D | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=C_nhx3tAQPY</id>
-        <link href="https://www.youtube.com/watch?v=C_nhx3tAQPY"/>
-        <updated>2025-01-04T10:44:09.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 006 | NAKSHATHRA M | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=aj3aJFoBADo</id>
-        <link href="https://www.youtube.com/watch?v=aj3aJFoBADo"/>
-        <updated>2025-01-04T10:43:52.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 005 | SOUMYA M S | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=jIW4aSena9M</id>
-        <link href="https://www.youtube.com/watch?v=jIW4aSena9M"/>
-        <updated>2025-01-04T10:43:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 004 | KSHETHRA M | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=Ws-CpY8jUP8</id>
-        <link href="https://www.youtube.com/watch?v=Ws-CpY8jUP8"/>
-        <updated>2025-01-04T10:38:51.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaathil Charanayi | Laptop #sureshgopi #sreevalsanjmenon #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=FsOFtjyixdA</id>
-        <link href="https://www.youtube.com/watch?v=FsOFtjyixdA"/>
-        <updated>2025-01-04T10:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Murai Vanthu - Malayalam Lofi | Manichithrathazhu | KJ Yesudas | KS Chithra | Cover Song]]></title>
-        <id>https://www.youtube.com/watch?v=zf3QTdz8NQg</id>
-        <link href="https://www.youtube.com/watch?v=zf3QTdz8NQg"/>
-        <updated>2025-01-04T10:13:27.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
