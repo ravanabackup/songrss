@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-03T10:08:37.912Z</updated>
+    <updated>2025-02-03T11:06:43.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Njan Rajanithan Kusumam | Aattakalasam | Best Malayalam Song | S. Janaki | Silk Smitha]]></title>
+        <id>https://www.youtube.com/watch?v=P7xUFIg6hiA</id>
+        <link href="https://www.youtube.com/watch?v=P7xUFIg6hiA"/>
+        <updated>2025-02-03T10:53:59.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday #STR ✨❤️ #PaiyaDei #ThinkIndie #ThinkMusic]]></title>
+        <id>https://www.youtube.com/watch?v=BgDDdWpFHm4</id>
+        <link href="https://www.youtube.com/watch?v=BgDDdWpFHm4"/>
+        <updated>2025-02-03T10:35:58.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Vazhiyai | Ee Adutha Kaalathu #indrajithsukumaran #vijayyesudas #shortsfeed #gopisundar #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=NWIFMbH9GVM</id>
+        <link href="https://www.youtube.com/watch?v=NWIFMbH9GVM"/>
+        <updated>2025-02-03T10:30:15.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സാന്ത്വന ഗീതങ്ങൾ  | Music Shack Christian Devotional Songs Live]]></title>
+        <id>https://www.youtube.com/watch?v=CX8WZADlMTs</id>
+        <link href="https://www.youtube.com/watch?v=CX8WZADlMTs"/>
+        <updated>2025-02-03T10:28:29.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thala chaaykkaan | Bhoothakannaadi | Malayalam movie Song |Sindhu Premkumar | Mammootty, Mala, Kavya]]></title>
+        <id>https://www.youtube.com/watch?v=rT7VB70OAUY</id>
+        <link href="https://www.youtube.com/watch?v=rT7VB70OAUY"/>
+        <updated>2025-02-03T10:23:18.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇപ്പൊ ഞാൻ ചിരിച്ചില്ലെങ്കില് നമ്മള് രണ്ടാളും കരയേണ്ടി വരും നകുലേട്ടാ 😊 #shorts #sadsong #kschithra]]></title>
         <id>https://www.youtube.com/watch?v=SDNT_VihAoY</id>
@@ -12568,15 +12613,6 @@
         <updated>2025-01-04T23:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജനുവരി: 05, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=BPbdYD3AZck</id>
-        <link href="https://www.youtube.com/watch?v=BPbdYD3AZck"/>
-        <updated>2025-01-04T22:30:02.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
