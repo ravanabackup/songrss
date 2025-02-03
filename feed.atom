@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-02T23:07:12.472Z</updated>
+    <updated>2025-02-03T00:39:39.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Morning Prayer Songs | Manoj Christy | Prabhatha Geethangal | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=X5vZL-7ajFI</id>
+        <link href="https://www.youtube.com/watch?v=X5vZL-7ajFI"/>
+        <updated>2025-02-03T00:30:18.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 3rd of February 25 # Mathavinte Japamala Santhoshathinte Rahasyangal 3rd of February 25]]></title>
+        <id>https://www.youtube.com/watch?v=deO3T_l5gbQ</id>
+        <link href="https://www.youtube.com/watch?v=deO3T_l5gbQ"/>
+        <updated>2025-02-02T23:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഫെബ്രുവരി: 03, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=ejrcQhajtKU</id>
@@ -12568,69 +12586,6 @@
         <updated>2025-01-04T12:39:49.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദുഃഖിക്കുന്നവർ ഭാഗ്യവാന്മാർ  | 😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=G8IiFDA0o9g</id>
-        <link href="https://www.youtube.com/watch?v=G8IiFDA0o9g"/>
-        <updated>2025-01-04T12:30:16.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padharavindham | Prathyasha Geethangal | Willamas | Alice Kottayam | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5lYCBFK2vuQ</id>
-        <link href="https://www.youtube.com/watch?v=5lYCBFK2vuQ"/>
-        <updated>2025-01-04T12:30:06.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Am Ah Malayalam Movie | Official Teaser | അം അഃ | Dileesh Pothan | Gopi Sundar | Thomas Sebastian]]></title>
-        <id>https://www.youtube.com/watch?v=EK3NEaB1fYc</id>
-        <link href="https://www.youtube.com/watch?v=EK3NEaB1fYc"/>
-        <updated>2025-01-04T12:15:05.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനമുരുകും നേരം | Manamurukum Neram | Super Hit Christian Devotional Songs | Christian Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=TKSRXditbLM</id>
-        <link href="https://www.youtube.com/watch?v=TKSRXditbLM"/>
-        <updated>2025-01-04T11:53:47.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 4th January 2025]]></title>
-        <id>https://www.youtube.com/watch?v=LjKMW5JNFlc</id>
-        <link href="https://www.youtube.com/watch?v=LjKMW5JNFlc"/>
-        <updated>2025-01-04T11:30:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thannaram| Surabhila Sundara Swapnam | DeepakRevi| RatheeshThulaseedharan|DevPrakash| Sruthy Sivadas]]></title>
-        <id>https://www.youtube.com/watch?v=D0JFeC5iFA0</id>
-        <link href="https://www.youtube.com/watch?v=D0JFeC5iFA0"/>
-        <updated>2025-01-04T11:30:07.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enai Neengathe Nee - Video | Tharunam | Darbuka Siva | Kishen Das, Smruthi | Arvindh | Pugaz-Eden]]></title>
-        <id>https://www.youtube.com/watch?v=Ic8Qepu-ZHU</id>
-        <link href="https://www.youtube.com/watch?v=Ic8Qepu-ZHU"/>
-        <updated>2025-01-04T11:29:43.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
