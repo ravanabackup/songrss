@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-03T08:11:41.461Z</updated>
+    <updated>2025-02-03T09:09:22.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sindhoora Poomanasil | സിന്ദൂരപ്പൂ മനസ്സിൽ | Gamanam Malayalam Movie Song | K.JYesudas, K. S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=5OO9XgGrYSc</id>
+        <link href="https://www.youtube.com/watch?v=5OO9XgGrYSc"/>
+        <updated>2025-02-03T08:36:25.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amma Paattu - Audio Song | Pallotty 90's Kids |  LJP | Manikandan Ayyappa | Veetraag]]></title>
+        <id>https://www.youtube.com/watch?v=cw8jx8EYAUE</id>
+        <link href="https://www.youtube.com/watch?v=cw8jx8EYAUE"/>
+        <updated>2025-02-03T08:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest song from Karthik!]]></title>
         <id>https://www.youtube.com/watch?v=a5PTo4-7vVE</id>
@@ -22,6 +40,15 @@
         <updated>2025-02-03T07:39:19.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parannu Parannu |Parannu Parannu Parannu Chellan| Lyrical Video| M G Sreekumar| LPR Varma | Vayalar]]></title>
+        <id>https://www.youtube.com/watch?v=oAUZTUfipMo</id>
+        <link href="https://www.youtube.com/watch?v=oAUZTUfipMo"/>
+        <updated>2025-02-03T06:33:02.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -2461,6 +2488,15 @@
         <updated>2025-01-28T05:30:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Jukebox | Nonstop Nostalgic Movie Songs | Nonstop Superhit Film Songs | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-OJSVq8wGHk</id>
+        <link href="https://www.youtube.com/watch?v=-OJSVq8wGHk"/>
+        <updated>2025-01-28T05:26:20.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
