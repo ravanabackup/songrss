@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T02:07:06.635Z</updated>
+    <updated>2025-02-04T03:10:04.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12658,60 +12658,6 @@
         <updated>2025-01-05T15:30:13.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs | സാധു കൊച്ചുകുഞ്ഞ് ഉപദേശി  | Christian Devotional Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=1Zuy2AjTpgc</id>
-        <link href="https://www.youtube.com/watch?v=1Zuy2AjTpgc"/>
-        <updated>2025-01-05T15:00:03.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambari Poonkuda choodi Video Song|Pookkalam Varavayi|Sunitha|Baby Shamili|]]></title>
-        <id>https://www.youtube.com/watch?v=S4iLSjEiB6A</id>
-        <link href="https://www.youtube.com/watch?v=S4iLSjEiB6A"/>
-        <updated>2025-01-05T14:35:07.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odikkalikkumbol Video Song | Saudhamini | V Devanand | Manju Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=iR_9ja-ZU0Q</id>
-        <link href="https://www.youtube.com/watch?v=iR_9ja-ZU0Q"/>
-        <updated>2025-01-05T14:30:27.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kukku Kukku Kuyile..| Nakshathrangal Parayaathirunnathu l KS Chithra | Divya unni  #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=UyTYDmfIdKo</id>
-        <link href="https://www.youtube.com/watch?v=UyTYDmfIdKo"/>
-        <updated>2025-01-05T14:30:12.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
-        <id>https://www.youtube.com/watch?v=I_er0yGY_40</id>
-        <link href="https://www.youtube.com/watch?v=I_er0yGY_40"/>
-        <updated>2025-01-05T14:30:12.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vilichathenthinu Veendum  | Dileep | Meera Jasmine | Revathi | KJ Yesudas | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=-Qa4G2nzyyc</id>
-        <link href="https://www.youtube.com/watch?v=-Qa4G2nzyyc"/>
-        <updated>2025-01-05T14:30:00.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
