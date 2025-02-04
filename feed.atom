@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T04:09:56.710Z</updated>
+    <updated>2025-02-04T05:08:21.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rhymes so fresh, beats so🔥🎶 #KForKabaradakkam #Prithviraj #Basil #AsalKolaar #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=D8SH8PalqUc</id>
+        <link href="https://www.youtube.com/watch?v=D8SH8PalqUc"/>
+        <updated>2025-02-04T04:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poo Kumkumappoo | Rasathanthram | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=B1QyV-o_30Q</id>
+        <link href="https://www.youtube.com/watch?v=B1QyV-o_30Q"/>
+        <updated>2025-02-04T04:21:41.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parisudha Daivamathave |Falah Ali |Shibu Koorely |Br.Albin Vellappillil |Jessymol Jose | Marian Song]]></title>
+        <id>https://www.youtube.com/watch?v=YHf9ZqLRbPI</id>
+        <link href="https://www.youtube.com/watch?v=YHf9ZqLRbPI"/>
+        <updated>2025-02-04T03:36:34.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shree Yeshunathan | Christian Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=G0QP_UH7urM</id>
