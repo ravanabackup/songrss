@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T20:08:59.597Z</updated>
+    <updated>2025-02-04T21:07:18.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12802,60 +12802,6 @@
         <updated>2025-01-06T10:02:19.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Yesuve | Sijo Mathew Jacob | Sharun Varghese | Jophy Mathew | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=BEAP_YsyL80</id>
-        <link href="https://www.youtube.com/watch?v=BEAP_YsyL80"/>
-        <updated>2025-01-06T09:07:05.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കെസ്റ്ററിന്റെ എക്കാലത്തെയും 8 സൂപ്പർ ഹിറ്റ് ഗാനങ്ങൾ | Kester 8 Hits | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=DFrnaIfthOQ</id>
-        <link href="https://www.youtube.com/watch?v=DFrnaIfthOQ"/>
-        <updated>2025-01-06T08:52:04.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paathira Pullunarnnu | 1080p | Ee Puzhayum Kadannu | Dileep | Manju Warrier |Johnson - Yesudas Hits]]></title>
-        <id>https://www.youtube.com/watch?v=j9fRa-TIKkk</id>
-        <link href="https://www.youtube.com/watch?v=j9fRa-TIKkk"/>
-        <updated>2025-01-06T08:24:23.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manchadi Kadavil | Besty |Video Song| Shaanu Samad | Afsal | Ziya ul haq | Farisha | K V Abdul Nazar]]></title>
-        <id>https://www.youtube.com/watch?v=kUVrcmwhYc4</id>
-        <link href="https://www.youtube.com/watch?v=kUVrcmwhYc4"/>
-        <updated>2025-01-06T08:17:50.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മിഴിനനയും നേരം #hearttouchingmalayalamchristiandevotionalsongs #jesussongs #christiandevotionalsong]]></title>
-        <id>https://www.youtube.com/watch?v=_QdMNne1sQM</id>
-        <link href="https://www.youtube.com/watch?v=_QdMNne1sQM"/>
-        <updated>2025-01-06T08:11:44.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyan Varum Nalini Adhikamilla | Samson Kottoor | Charles John Ranni | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=TQy9wTJi8iw</id>
-        <link href="https://www.youtube.com/watch?v=TQy9wTJi8iw"/>
-        <updated>2025-01-06T08:09:11.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
