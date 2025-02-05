@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T12:14:53.453Z</updated>
+    <updated>2025-02-05T13:15:09.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ethra valrnnaalum | മനസ്സിന് ആശ്വാസമേകുന്ന ഗാനം |   @JinoKunnumpurathu              #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=sl6LvzONvrE</id>
+        <link href="https://www.youtube.com/watch?v=sl6LvzONvrE"/>
+        <updated>2025-02-05T13:01:17.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthe Kannanu Karuppuniram 4K Video Song | Photographer | Mohanlal | Neethu | KJ Yesudas | Manjari]]></title>
+        <id>https://www.youtube.com/watch?v=BYc8ES-_gu0</id>
+        <link href="https://www.youtube.com/watch?v=BYc8ES-_gu0"/>
+        <updated>2025-02-05T12:53:08.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnara Ponnale Song | Runway Movie Song | Dileep | Kavya Madhavan | Afsal | Suresh Peters]]></title>
+        <id>https://www.youtube.com/watch?v=3EE-bzDqR_Y</id>
+        <link href="https://www.youtube.com/watch?v=3EE-bzDqR_Y"/>
+        <updated>2025-02-05T12:32:29.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വേദന നീക്കും വേദാന്തഗീതങ്ങൾ | Prathyasha Geethangal | James | Christian Melody Songs | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Pf9TNFqdxvg</id>
+        <link href="https://www.youtube.com/watch?v=Pf9TNFqdxvg"/>
+        <updated>2025-02-05T12:30:22.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൂടെനിർത്തി കണ്ണുതുടക്കുന്നവരാകണം   |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=9sdVnbC8Y2Q</id>
+        <link href="https://www.youtube.com/watch?v=9sdVnbC8Y2Q"/>
+        <updated>2025-02-05T12:30:09.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarnachaamaram Veeshiyethunna | Yakshi | Old Malayalam Songs | G Devarajan | KJ Yesudas | P Leela]]></title>
+        <id>https://www.youtube.com/watch?v=9GUv5gf0jYA</id>
+        <link href="https://www.youtube.com/watch?v=9GUv5gf0jYA"/>
+        <updated>2025-02-05T12:30:09.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3BHK (Tamil) - Title Teaser | Siddharth | Sarath Kumar | Sri Ganesh | Amrit Ramnath | Arun Viswa]]></title>
+        <id>https://www.youtube.com/watch?v=YPuMhJXhxxU</id>
+        <link href="https://www.youtube.com/watch?v=YPuMhJXhxxU"/>
+        <updated>2025-02-05T12:29:09.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3BHK (Telugu) - Title Teaser | Siddharth | Sarath Kumar | Sri Ganesh | Amrit Ramnath | Arun Viswa]]></title>
+        <id>https://www.youtube.com/watch?v=iJTu6SeZjVg</id>
+        <link href="https://www.youtube.com/watch?v=iJTu6SeZjVg"/>
+        <updated>2025-02-05T12:29:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthimaanam | Vridhanmaare Sookshikkuka | Best Malayalam Song | M.G.Sreekumar, P.Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=re3zsBw-yh8</id>
@@ -12766,15 +12838,6 @@
         <updated>2025-01-07T04:00:13.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nithyapithavin Priyaputhri | K G Markose | Marian Songs | Christian Devotional Song Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=akZZPexzCv8</id>
-        <link href="https://www.youtube.com/watch?v=akZZPexzCv8"/>
-        <updated>2025-01-07T00:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
