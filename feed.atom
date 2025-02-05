@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T22:07:14.833Z</updated>
+    <updated>2025-02-05T23:07:51.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 06, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=i6M8gJapRWo</id>
+        <link href="https://www.youtube.com/watch?v=i6M8gJapRWo"/>
+        <updated>2025-02-05T22:30:10.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=DrUmYSkXggk</id>
@@ -12802,78 +12811,6 @@
         <updated>2025-01-07T11:15:56.000Z</updated>
         <author>
             <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 017 | NIVEDYA P KUMAR | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=mFaKABotfRc</id>
-        <link href="https://www.youtube.com/watch?v=mFaKABotfRc"/>
-        <updated>2025-01-07T10:57:12.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 015 | ANN MARIA ANTONY | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=JAHiezbyfsE</id>
-        <link href="https://www.youtube.com/watch?v=JAHiezbyfsE"/>
-        <updated>2025-01-07T10:56:42.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 014 | EEVA MARIYA CYBIN | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=eo4wlpAjXA0</id>
-        <link href="https://www.youtube.com/watch?v=eo4wlpAjXA0"/>
-        <updated>2025-01-07T10:56:17.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 013 | JIS MARIYA | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=Zb2RaELCwO4</id>
-        <link href="https://www.youtube.com/watch?v=Zb2RaELCwO4"/>
-        <updated>2025-01-07T10:48:41.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 012 | SHREYA SANEESH  | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=oVOBvBQiJ64</id>
-        <link href="https://www.youtube.com/watch?v=oVOBvBQiJ64"/>
-        <updated>2025-01-07T10:43:56.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 011 |ANSA SIMSON | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=gxLG3HyUHsg</id>
-        <link href="https://www.youtube.com/watch?v=gxLG3HyUHsg"/>
-        <updated>2025-01-07T10:31:32.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rab Rab Rab | Mallu Singh #shankarmahadevan #mjayachandran #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=z0zJGsgBUQc</id>
-        <link href="https://www.youtube.com/watch?v=z0zJGsgBUQc"/>
-        <updated>2025-01-07T10:30:34.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ra Chakkana Pekkaali | 1080p | Annan Thambi | Mammootty, Gopika, Rai Laxmi, Siddique, Suraj]]></title>
-        <id>https://www.youtube.com/watch?v=umiByGD7zdc</id>
-        <link href="https://www.youtube.com/watch?v=umiByGD7zdc"/>
-        <updated>2025-01-07T10:08:57.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
