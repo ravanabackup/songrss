@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T07:08:12.113Z</updated>
+    <updated>2025-02-05T08:11:00.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#bromance #bromancetrailer #mathewthomas #arjunashokan #mahimanambiar #arundjose #ashiqusman]]></title>
+        <id>https://www.youtube.com/watch?v=Vg9A6qoJGqM</id>
+        <link href="https://www.youtube.com/watch?v=Vg9A6qoJGqM"/>
+        <updated>2025-02-05T07:40:46.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനഃസാക്ഷിയുള്ള ആരുടെ മനസിലും ചിന്തകളുണർത്തും ഗാനങ്ങൾ |Ever green Malayalam Film Songs |Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=urdLohAvQoU</id>
+        <link href="https://www.youtube.com/watch?v=urdLohAvQoU"/>
+        <updated>2025-02-05T07:39:54.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്പലപ്പുഴെ ഉണ്ണിക്കണ്ണനോട്  #evergreenhits #chithrahitsongs]]></title>
+        <id>https://www.youtube.com/watch?v=hGh_BWZSkIE</id>
+        <link href="https://www.youtube.com/watch?v=hGh_BWZSkIE"/>
+        <updated>2025-02-05T07:23:38.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sandhye - Audio Song | Madanolsavam | Kamal Haasan, Zarina Wahab | Salil Chowdhury]]></title>
         <id>https://www.youtube.com/watch?v=UDJ-uqBEZyU</id>
