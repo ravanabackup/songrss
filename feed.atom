@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T00:38:35.345Z</updated>
+    <updated>2025-02-05T02:08:23.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Olanjaali Kuruvi | 1983 | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=wlq7lRywmNc</id>
+        <link href="https://www.youtube.com/watch?v=wlq7lRywmNc"/>
+        <updated>2025-02-05T02:00:39.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Yeshu | Maria Kolady | Shorts #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=VlDL5ZbL4F8</id>
+        <link href="https://www.youtube.com/watch?v=VlDL5ZbL4F8"/>
+        <updated>2025-02-05T02:00:30.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh Snehame | Christian Video Song | Shibu Antony | Holy Communion Song | Stephy John | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=wxjdJIsNLbI</id>
@@ -12685,60 +12703,6 @@
         <updated>2025-01-06T14:30:03.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkarakku Yathra | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth | Sibin | Hit Christian song I Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=5YT5NRtW-Xo</id>
-        <link href="https://www.youtube.com/watch?v=5YT5NRtW-Xo"/>
-        <updated>2025-01-06T14:00:10.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏറ്റവും കൂടുതൽ ആളുകൾ കേട്ട് ഇഷ്ടമായ സൂപ്പർഹിറ്റ് ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ZOsFBqgpnNY</id>
-        <link href="https://www.youtube.com/watch?v=ZOsFBqgpnNY"/>
-        <updated>2025-01-06T13:30:31.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellikkinnam Niranju Video Song |Arjunan Pillayum Anchu Makkalum |Baiju | Mohan Sithara | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=dKPCIaEzDdk</id>
-        <link href="https://www.youtube.com/watch?v=dKPCIaEzDdk"/>
-        <updated>2025-01-06T13:30:21.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnum Nadakkillini|Communist Pacha Adhava Appa |Zakariya|Sreehari | Govind Vasantha | Shamim Moideen]]></title>
-        <id>https://www.youtube.com/watch?v=brc31pnBTkI</id>
-        <link href="https://www.youtube.com/watch?v=brc31pnBTkI"/>
-        <updated>2025-01-06T13:29:30.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NENJINTE NOVUKAL | സങ്കടങ്ങൾ തുടച്ചുനീക്കുന്ന ഗാനം | @JinoKunnumpurathu   #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=jPdImc9YxUM</id>
-        <link href="https://www.youtube.com/watch?v=jPdImc9YxUM"/>
-        <updated>2025-01-06T13:01:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthe Muthe Kingini Muthe Song | 4K Video Song | Kana Kanmani | Jayaram | Hits of Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=Z7qXRiMLbiw</id>
-        <link href="https://www.youtube.com/watch?v=Z7qXRiMLbiw"/>
-        <updated>2025-01-06T13:00:48.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
