@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T17:07:12.297Z</updated>
+    <updated>2025-02-06T18:10:45.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th February 25]]></title>
+        <id>https://www.youtube.com/watch?v=VxkJk4fREOQ</id>
+        <link href="https://www.youtube.com/watch?v=VxkJk4fREOQ"/>
+        <updated>2025-02-06T18:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madi Raja | Daveed |Antony Varghese Pepe | Lijomol | Mo Ismail | Govind Vishnu | Justin Varghese]]></title>
         <id>https://www.youtube.com/watch?v=ufc7DGkSumA</id>
@@ -12739,33 +12748,6 @@
         <updated>2025-01-08T06:37:34.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sayippe Salam | Manglish |Video Song| Mammootty | Sadique |Santhosh Varma| Gopi Sundar | Salam Bappu]]></title>
-        <id>https://www.youtube.com/watch?v=nOxfKdEYKzc</id>
-        <link href="https://www.youtube.com/watch?v=nOxfKdEYKzc"/>
-        <updated>2025-01-08T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhairavan Pattu - Video | ARM | Tovino Thomas | Jithin Laal | Dhibu Ninan Thomas]]></title>
-        <id>https://www.youtube.com/watch?v=GqpUY9M8j4A</id>
-        <link href="https://www.youtube.com/watch?v=GqpUY9M8j4A"/>
-        <updated>2025-01-08T05:29:26.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral Thottal Viriyunna | Phantom | Malayalam Hits | Vidyasagar  |P Jayachandran| K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=0sGuDyKfxOk</id>
-        <link href="https://www.youtube.com/watch?v=0sGuDyKfxOk"/>
-        <updated>2025-01-08T05:10:46.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
