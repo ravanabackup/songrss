@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T12:15:07.703Z</updated>
+    <updated>2025-02-06T13:15:43.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nin Paithalaanu | സ്നേഹം നിറയുന്ന ഗാനം  |    @JinoKunnumpurathu                #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JkPD4T_R_7k</id>
+        <link href="https://www.youtube.com/watch?v=JkPD4T_R_7k"/>
+        <updated>2025-02-06T13:00:24.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മുന്നോട്ടുതന്നെ പോവുക |   😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=y7Qh6zZ3m9E</id>
+        <link href="https://www.youtube.com/watch?v=y7Qh6zZ3m9E"/>
+        <updated>2025-02-06T12:30:59.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prarthanakutharam | Prathysha Geethangal | Alice Kottayam | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=g2g7AVT_VB0</id>
+        <link href="https://www.youtube.com/watch?v=g2g7AVT_VB0"/>
+        <updated>2025-02-06T12:30:42.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOBOO - Music Video Teaser ft Vineeth Sreenivasan | Soorya Gaia | Dhanush Harikumar | Sandoop]]></title>
+        <id>https://www.youtube.com/watch?v=1i6f0INVpAQ</id>
+        <link href="https://www.youtube.com/watch?v=1i6f0INVpAQ"/>
+        <updated>2025-02-06T12:30:01.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashta Naagangale | Bhoothakkannadi | Best Malayalam Song |Vidyadharan Master | Sreelakshmi]]></title>
+        <id>https://www.youtube.com/watch?v=93wi1JyhWjI</id>
+        <link href="https://www.youtube.com/watch?v=93wi1JyhWjI"/>
+        <updated>2025-02-06T12:19:54.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambalamillathe Altharayil Vazhum Video Song | Padamudra | Mohanlal | KJ Yesudas | Vidyadharan Master]]></title>
+        <id>https://www.youtube.com/watch?v=KqhdcnTNKWQ</id>
+        <link href="https://www.youtube.com/watch?v=KqhdcnTNKWQ"/>
+        <updated>2025-02-06T12:16:12.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azhakezhulla Raavil | Meenu's Kitchen Title Song| Mazhavil Manorama #sitharakrishnakumar #shortsfeed]]></title>
         <id>https://www.youtube.com/watch?v=IfzSOxL0hDM</id>
@@ -12694,15 +12748,6 @@
         <updated>2025-01-08T02:00:16.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athyunnathangalil Vazhunna | Christian Video Song | Biju Mookkannor | Bindhu Thomas | Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=glTnZA8LTeM</id>
-        <link href="https://www.youtube.com/watch?v=glTnZA8LTeM"/>
-        <updated>2025-01-08T00:30:19.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
