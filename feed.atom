@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T21:07:12.388Z</updated>
+    <updated>2025-02-06T22:08:00.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=Jt28x5GOADk</id>
+        <link href="https://www.youtube.com/watch?v=Jt28x5GOADk"/>
+        <updated>2025-02-06T22:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 7th of February # Athiravile Prarthana 7th February 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Q9NqjtLDWSk</id>
@@ -12712,15 +12721,6 @@
         <updated>2025-01-08T10:30:16.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anayatha Deepamaay | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=HqUU37grUeE</id>
-        <link href="https://www.youtube.com/watch?v=HqUU37grUeE"/>
-        <updated>2025-01-08T09:10:00.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
