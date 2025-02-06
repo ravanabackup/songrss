@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T04:10:13.762Z</updated>
+    <updated>2025-02-06T05:08:34.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Funky flow 🔥🎤, vibe it out!🎶#KForKabaradakkam #Prithviraj #Basil #AsalKolaar #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=72ixn3BwTaU</id>
+        <link href="https://www.youtube.com/watch?v=72ixn3BwTaU"/>
+        <updated>2025-02-06T04:30:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhathulli Palunkukal | Pranayam | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=cuG9uc6ADKc</id>
@@ -12631,24 +12640,6 @@
         <updated>2025-01-07T17:27:25.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview | Talk Show | Rev. Dr. Mothy Varkey With Evg. J. V. Peters' Family | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=zuC4pUF9SiY</id>
-        <link href="https://www.youtube.com/watch?v=zuC4pUF9SiY"/>
-        <updated>2025-01-07T16:30:22.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beer Song ✨❤️🎶 #Diesel #HarishKalyan #DhibuNinanThomas #NabhaNatesh]]></title>
-        <id>https://www.youtube.com/watch?v=XzPnVOu91Hs</id>
-        <link href="https://www.youtube.com/watch?v=XzPnVOu91Hs"/>
-        <updated>2025-01-07T16:20:17.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
