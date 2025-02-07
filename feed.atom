@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T07:08:07.706Z</updated>
+    <updated>2025-02-07T08:11:13.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Barroz (Telugu) - Bambooziya Video | Mohanlal | Lydian Nadhaswaram]]></title>
+        <id>https://www.youtube.com/watch?v=UXE8KB8OYeE</id>
+        <link href="https://www.youtube.com/watch?v=UXE8KB8OYeE"/>
+        <updated>2025-02-07T08:00:25.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barroz (Telugu) - Isabella Video | Mohanlal | Lydian Nadhaswaram]]></title>
+        <id>https://www.youtube.com/watch?v=4A9kVp0mX14</id>
+        <link href="https://www.youtube.com/watch?v=4A9kVp0mX14"/>
+        <updated>2025-02-07T08:00:08.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barroz (Telugu) - Manase Video | Mohanlal | Lydian Nadhaswaram]]></title>
+        <id>https://www.youtube.com/watch?v=9wIcoT_cSYU</id>
+        <link href="https://www.youtube.com/watch?v=9wIcoT_cSYU"/>
+        <updated>2025-02-07T08:00:07.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakkapoo Kaithapoo | Arayannangalude Veedu | P Jayachandran Hits | Raveendran Hits | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=uql9L435Lfc</id>
+        <link href="https://www.youtube.com/watch?v=uql9L435Lfc"/>
+        <updated>2025-02-07T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളിമനസുകൾ നെഞ്ചിലേറ്റിയ സല്ലാപ ഗാനങ്ങൾ | EVERGREEN MOVIE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=19PapR0xd0k</id>
+        <link href="https://www.youtube.com/watch?v=19PapR0xd0k"/>
+        <updated>2025-02-07T07:30:00.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉള്ളിടം കള്ളിയാം പുള്ളിമാനെ | KASABA #mammootty #malayalamsuperhits]]></title>
         <id>https://www.youtube.com/watch?v=l55vMkM8dWg</id>
@@ -13,6 +58,15 @@
         <updated>2025-02-07T06:13:57.000Z</updated>
         <author>
             <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallanum Bhagavathiyum | Full Movie | East Coast Vijayan | Vishnu Unnikrishnan, Anusree, Mokksha]]></title>
+        <id>https://www.youtube.com/watch?v=eFI-o_1dnlw</id>
+        <link href="https://www.youtube.com/watch?v=eFI-o_1dnlw"/>
+        <updated>2025-02-07T05:50:41.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
