@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T09:08:24.905Z</updated>
+    <updated>2025-02-07T10:08:36.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chundathu Chethippoo | Chronic Bachelor | Best Malayalam Song | Singers | Mammootty, Rambha, Bhavana]]></title>
+        <id>https://www.youtube.com/watch?v=HcZLiOdaQ8I</id>
+        <link href="https://www.youtube.com/watch?v=HcZLiOdaQ8I"/>
+        <updated>2025-02-07T10:01:15.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മോഹത്തിന്റെ തേരിലേറി പോകരുതേ | Mohathinte Therileri Pokaruthe | Christian Songs | Evergreen Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=FAHsdnJrXwo</id>
+        <link href="https://www.youtube.com/watch?v=FAHsdnJrXwo"/>
+        <updated>2025-02-07T10:00:14.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barroz (Telugu) - Bambooziya Video | Mohanlal | Lydian Nadhaswaram]]></title>
         <id>https://www.youtube.com/watch?v=UXE8KB8OYeE</id>
@@ -12640,15 +12658,6 @@
         <updated>2025-01-08T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=FhUz8xUBmBc</id>
-        <link href="https://www.youtube.com/watch?v=FhUz8xUBmBc"/>
-        <updated>2025-01-08T22:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
