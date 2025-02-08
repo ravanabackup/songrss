@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T05:07:35.442Z</updated>
+    <updated>2025-02-08T06:10:05.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maalle Maalle - Audio Song | Pallotty 90's Kids | LJP | Arjun Ashokan, Balu | Manikandan Ayyappa]]></title>
+        <id>https://www.youtube.com/watch?v=jS6oKdvra-k</id>
+        <link href="https://www.youtube.com/watch?v=jS6oKdvra-k"/>
+        <updated>2025-02-08T05:30:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thooya - Video Song | Rajabheema | Arav, Ashima Narwal | Simon K.King | Naresh Sampath |Surabi Films]]></title>
+        <id>https://www.youtube.com/watch?v=7GQtP6lrSmo</id>
+        <link href="https://www.youtube.com/watch?v=7GQtP6lrSmo"/>
+        <updated>2025-02-08T05:29:12.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nakshatra Rajyathe Raajavo Video Song | T. P. Balagopalan M. A | K. J. Yesudas | Mohanlal | Shobhana]]></title>
+        <id>https://www.youtube.com/watch?v=o6dJbv-MTLE</id>
+        <link href="https://www.youtube.com/watch?v=o6dJbv-MTLE"/>
+        <updated>2025-02-08T05:09:33.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thirayezhuthum mannil | Meenakshi Kalyanam | Mukesh | Mohini | KJ Yesudas | Nadirsha]]></title>
         <id>https://www.youtube.com/watch?v=maSPhHpnn98</id>
@@ -12541,24 +12568,6 @@
         <updated>2025-01-09T19:00:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th January 25]]></title>
-        <id>https://www.youtube.com/watch?v=I0VKbuNbPl0</id>
-        <link href="https://www.youtube.com/watch?v=I0VKbuNbPl0"/>
-        <updated>2025-01-09T18:00:11.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 January 2025]]></title>
-        <id>https://www.youtube.com/watch?v=d9J4zNvn_1o</id>
-        <link href="https://www.youtube.com/watch?v=d9J4zNvn_1o"/>
-        <updated>2025-01-09T17:19:25.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
