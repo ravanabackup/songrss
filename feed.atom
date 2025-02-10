@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T03:13:58.776Z</updated>
+    <updated>2025-02-10T04:10:13.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Viswahridaya | Christian Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=lD_0rnk_Jx4</id>
+        <link href="https://www.youtube.com/watch?v=lD_0rnk_Jx4"/>
+        <updated>2025-02-10T03:40:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olanjaali Kuruvi | 1983 | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=7k38j3NDV6I</id>
@@ -12244,15 +12253,6 @@
         <updated>2025-01-11T18:00:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 January 2025]]></title>
-        <id>https://www.youtube.com/watch?v=wpKowdq1YEg</id>
-        <link href="https://www.youtube.com/watch?v=wpKowdq1YEg"/>
-        <updated>2025-01-11T16:03:22.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
