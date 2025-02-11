@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T04:10:12.794Z</updated>
+    <updated>2025-02-11T05:08:27.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veli Penninnu | 1080p | Mazhathullikkilukkam | Dileep | Navya Nair | Sharada | Bharathi]]></title>
+        <id>https://www.youtube.com/watch?v=TvnZ6aZRDTs</id>
+        <link href="https://www.youtube.com/watch?v=TvnZ6aZRDTs"/>
+        <updated>2025-02-11T05:04:05.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Voice✨ #InnaleMayangumbol #KJYesudas #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=fS04tikanvw</id>
+        <link href="https://www.youtube.com/watch?v=fS04tikanvw"/>
+        <updated>2025-02-11T04:30:28.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒത്തിരിപേരുടെ ജീവിതം മാറ്റിമറിച്ച അത്ഭുത ഗാനം!! | Athmave Agniyayi | #worship | #jesus | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=yp0uxOY_Kp0</id>
+        <link href="https://www.youtube.com/watch?v=yp0uxOY_Kp0"/>
+        <updated>2025-02-11T04:30:21.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ekantha Yamangalil | Abhijith Kollam | Baby John Kalayanthani | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=PJ3jDy0xdV8</id>
