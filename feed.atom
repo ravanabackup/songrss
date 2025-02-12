@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T06:12:04.943Z</updated>
+    <updated>2025-02-12T07:08:14.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൂരെ ദൂരെ സാഗരം തേടി  Varavelpu Malayalam Film Song | Mohanlal | Revathi #malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=kXC13WFV0Go</id>
+        <link href="https://www.youtube.com/watch?v=kXC13WFV0Go"/>
+        <updated>2025-02-12T06:33:53.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മധുരിക്കും, മുന്തിരിതൻ കുമ്പിളുകൾ, ചെങ്കദളി പൂങ്കുലകൾ.. #shortsongs #dulquersalmaan]]></title>
         <id>https://www.youtube.com/watch?v=lZeUwjygpnE</id>
@@ -12521,15 +12530,6 @@
         <id>https://www.youtube.com/watch?v=9o3NBrmdl7c</id>
         <link href="https://www.youtube.com/watch?v=9o3NBrmdl7c"/>
         <updated>2025-01-13T22:00:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 14 # Athiravile Prarthana 14th January 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=z5RUWU4Lky0</id>
-        <link href="https://www.youtube.com/watch?v=z5RUWU4Lky0"/>
-        <updated>2025-01-13T19:00:42.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
