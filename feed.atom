@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T12:14:59.022Z</updated>
+    <updated>2025-02-12T13:15:39.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melemaanathe | മലയാളി മനസ്സിനെ കീഴ്പ്പെടുത്തിയ ഗാനം |   @JinoKunnumpurathu    #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=PcEsHGAkU6Y</id>
+        <link href="https://www.youtube.com/watch?v=PcEsHGAkU6Y"/>
+        <updated>2025-02-12T13:00:37.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണീരിനു വിട്ടുനൽകും പ്രത്യാശ ഗീതങ്ങൾ | James | CHristian Melody Songs | Prathyasha Geethangal]]></title>
+        <id>https://www.youtube.com/watch?v=j6Hrtj4q76Q</id>
+        <link href="https://www.youtube.com/watch?v=j6Hrtj4q76Q"/>
+        <updated>2025-02-12T12:30:43.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നമ്മെ മാറോടണയ്ക്കുന്ന നിത്യ സ്നേഹം |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=KfDTJfSHIXc</id>
+        <link href="https://www.youtube.com/watch?v=KfDTJfSHIXc"/>
+        <updated>2025-02-12T12:30:16.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഭക്തർക്ക് അഭയമരുളുന്ന ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Evergreen Christian Devotional Songs | Jesus Songs]]></title>
+        <id>https://www.youtube.com/watch?v=JrQzc9ycBPc</id>
+        <link href="https://www.youtube.com/watch?v=JrQzc9ycBPc"/>
+        <updated>2025-02-12T12:19:25.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chanchala Druthapada | 1080p | Istham | Jayasudha | Nedumudi Venu | Dileep | Navya | Jyothirmayi]]></title>
         <id>https://www.youtube.com/watch?v=jWuNNIs2v9k</id>
@@ -12694,15 +12730,6 @@
         <updated>2025-01-14T02:00:00.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arppanam Nimisham | Christian Melody Songs | Wilson Piravom | Fr.Augustin Puthenpura | Fr.Paul]]></title>
-        <id>https://www.youtube.com/watch?v=nRkicjlPzB0</id>
-        <link href="https://www.youtube.com/watch?v=nRkicjlPzB0"/>
-        <updated>2025-01-14T00:30:35.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
