@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T07:08:14.313Z</updated>
+    <updated>2025-02-12T08:11:20.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enguninnu vanna | Calcutta News | Madhu Balakrishnan | Debjyothy Misra | Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=4QrE63MRvxs</id>
+        <link href="https://www.youtube.com/watch?v=4QrE63MRvxs"/>
+        <updated>2025-02-12T08:09:08.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lydian Nadhaswaram, Spoorthi Rao, Ajay Murugan - Manave (From "Barroz (Kannada)")]]></title>
+        <id>https://www.youtube.com/watch?v=Yxdop3XX7Wk</id>
+        <link href="https://www.youtube.com/watch?v=Yxdop3XX7Wk"/>
+        <updated>2025-02-12T08:00:26.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lydian Nadhaswaram, Spoorthi Rao, Amirthavarshini - Bambooziya (From "Barroz (Kannada)")]]></title>
+        <id>https://www.youtube.com/watch?v=DMOqoOUUeuE</id>
+        <link href="https://www.youtube.com/watch?v=DMOqoOUUeuE"/>
+        <updated>2025-02-12T08:00:15.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lydian Nadhaswaram, Ajay Murugan - Isabella (From "Barroz (Kannada)")]]></title>
+        <id>https://www.youtube.com/watch?v=62QXW2lFXxU</id>
+        <link href="https://www.youtube.com/watch?v=62QXW2lFXxU"/>
+        <updated>2025-02-12T08:00:05.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയം കൊണ്ടെഴുതിയ മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=sDxSmlvxn4w</id>
+        <link href="https://www.youtube.com/watch?v=sDxSmlvxn4w"/>
+        <updated>2025-02-12T07:48:31.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൂരെ ദൂരെ സാഗരം തേടി  Varavelpu Malayalam Film Song | Mohanlal | Revathi #malayalam]]></title>
         <id>https://www.youtube.com/watch?v=kXC13WFV0Go</id>
