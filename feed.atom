@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T12:15:08.029Z</updated>
+    <updated>2025-02-13T13:15:59.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yesunaadhan | മനസ്സുകളെ കീഴടക്കിയ ഗാനം |    @JinoKunnumpurathu                       #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=4CqZsLrBlZ0</id>
+        <link href="https://www.youtube.com/watch?v=4CqZsLrBlZ0"/>
+        <updated>2025-02-13T13:00:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idhayam Murali - Title Announcement | Atharvaa | Thaman S | Aakash | Preity | Kayadu | Niharika NM]]></title>
+        <id>https://www.youtube.com/watch?v=kdvlqnNqUVU</id>
+        <link href="https://www.youtube.com/watch?v=kdvlqnNqUVU"/>
+        <updated>2025-02-13T12:59:27.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്‌നേഹം ദീർഘമായി ക്ഷമിക്കുന്നു |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=Y-GdtfIY5Zs</id>
+        <link href="https://www.youtube.com/watch?v=Y-GdtfIY5Zs"/>
+        <updated>2025-02-13T12:30:29.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogiyanu Njan | Prathyasha Geethangal | Binoy Chacko | CHristian Melody Songs | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=DnyhorRbACM</id>
+        <link href="https://www.youtube.com/watch?v=DnyhorRbACM"/>
+        <updated>2025-02-13T12:30:11.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maaya Maaya - Lyric Video | Sabdham | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan]]></title>
+        <id>https://www.youtube.com/watch?v=PcdYMoDLsak</id>
+        <link href="https://www.youtube.com/watch?v=PcdYMoDLsak"/>
+        <updated>2025-02-13T12:29:09.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maaya Maaya - Lyric Video | Sabdham (Telugu) | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan]]></title>
+        <id>https://www.youtube.com/watch?v=CZdYiD8oeEw</id>
+        <link href="https://www.youtube.com/watch?v=CZdYiD8oeEw"/>
+        <updated>2025-02-13T12:28:57.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eeran Meghame Video Song | Nasrani | Vimala Raman | Manjari | Bijibal | Anil Panachooran]]></title>
         <id>https://www.youtube.com/watch?v=zNW1tlhwtuI</id>
@@ -12748,15 +12802,6 @@
         <updated>2025-01-15T02:00:04.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasrayante Naamam | Christian Video Song | Rithuraj | Rajesh Athikayam | Joji Johns | Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=tqiZ7R0IwOE</id>
-        <link href="https://www.youtube.com/watch?v=tqiZ7R0IwOE"/>
-        <updated>2025-01-15T00:30:37.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
