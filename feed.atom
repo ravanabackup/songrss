@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T22:07:20.430Z</updated>
+    <updated>2025-02-14T23:07:44.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 15, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=YEQNsWYvPEc</id>
+        <link href="https://www.youtube.com/watch?v=YEQNsWYvPEc"/>
+        <updated>2025-02-14T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=_ZE4NaAoY6c</id>
@@ -12649,60 +12658,6 @@
         <updated>2025-01-16T11:21:11.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 052 | SHANTY MOL | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=sUrMCTFtyXk</id>
-        <link href="https://www.youtube.com/watch?v=sUrMCTFtyXk"/>
-        <updated>2025-01-16T11:02:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 051 | EDWIN SETHU | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=y3XC7LiMrZc</id>
-        <link href="https://www.youtube.com/watch?v=y3XC7LiMrZc"/>
-        <updated>2025-01-16T11:02:08.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 050 | PETER JOHN | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=CpBQXcKdPgE</id>
-        <link href="https://www.youtube.com/watch?v=CpBQXcKdPgE"/>
-        <updated>2025-01-16T11:01:48.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 049 | ANEESHA ANSON | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=42_PWAv6ojo</id>
-        <link href="https://www.youtube.com/watch?v=42_PWAv6ojo"/>
-        <updated>2025-01-16T11:01:27.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAVANA SNEHITHAN | STHUTHI | SINGING CONTESTANT NO : 048 | KRIPA | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=G-QJ8EfuPV8</id>
-        <link href="https://www.youtube.com/watch?v=G-QJ8EfuPV8"/>
-        <updated>2025-01-16T11:01:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏഴു സ്വരങ്ങളും |  Ezhu Swarangalum |  Chiriyo Chiri Movie Song | Balachandra Menon, Swapna]]></title>
-        <id>https://www.youtube.com/watch?v=gHXvQAWH8WQ</id>
-        <link href="https://www.youtube.com/watch?v=gHXvQAWH8WQ"/>
-        <updated>2025-01-16T10:44:05.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
