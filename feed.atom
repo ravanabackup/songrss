@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T14:07:48.140Z</updated>
+    <updated>2025-02-14T15:08:04.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaatru | Thanmathra | Vidhu Prathap | Sheelamani | Kaithapram | Mohan Sithara | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=tNuaCNdNunQ</id>
+        <link href="https://www.youtube.com/watch?v=tNuaCNdNunQ"/>
+        <updated>2025-02-14T14:45:32.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 February 2025]]></title>
+        <id>https://www.youtube.com/watch?v=ffr2E4IJYxI</id>
+        <link href="https://www.youtube.com/watch?v=ffr2E4IJYxI"/>
+        <updated>2025-02-14T14:33:34.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sushin Shyam Hits | Aadharanjali | Thalatherichavar | Pakaliravukal | Athmave Po]]></title>
+        <id>https://www.youtube.com/watch?v=SWVvQpN702E</id>
+        <link href="https://www.youtube.com/watch?v=SWVvQpN702E"/>
+        <updated>2025-02-14T14:30:24.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orupadu Sneham | Veendumm | East Coast Vijayan | Ranjin Raj | Vijay Yesudas | Music Video | 4K]]></title>
+        <id>https://www.youtube.com/watch?v=8H-ib-hFsOE</id>
+        <link href="https://www.youtube.com/watch?v=8H-ib-hFsOE"/>
+        <updated>2025-02-14T14:21:21.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smaranakal | Bhoomiyile Manohara Swakaryam #valentinesday #romantic #love #shortsfeed #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=k8PaaObKlzw</id>
@@ -12748,15 +12784,6 @@
         <updated>2025-01-16T03:48:05.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annarakanna Vaa | Bhramaram | Lyrical Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=hPvCIpboQ90</id>
-        <link href="https://www.youtube.com/watch?v=hPvCIpboQ90"/>
-        <updated>2025-01-16T03:00:39.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
