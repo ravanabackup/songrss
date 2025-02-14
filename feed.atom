@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T13:15:50.806Z</updated>
+    <updated>2025-02-14T14:07:48.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Smaranakal | Bhoomiyile Manohara Swakaryam #valentinesday #romantic #love #shortsfeed #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=k8PaaObKlzw</id>
+        <link href="https://www.youtube.com/watch?v=k8PaaObKlzw"/>
+        <updated>2025-02-14T13:30:29.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ ആഴ്ന്നിറങ്ങിയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | ZION CLASSICS]]></title>
+        <id>https://www.youtube.com/watch?v=Qu8Wffl89_Y</id>
+        <link href="https://www.youtube.com/watch?v=Qu8Wffl89_Y"/>
+        <updated>2025-02-14T13:30:26.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayamanjin | Paappan | Joshiy | Suresh Gopi | Nyla Usha | Libin Scaria | Jakes Bejoy #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=Yb6yB3ImGow</id>
+        <link href="https://www.youtube.com/watch?v=Yb6yB3ImGow"/>
+        <updated>2025-02-14T13:30:20.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peruchollaam Kaathil Video Song | Agninakshathram | Indraja | Biju Menon | KS Chithra | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=KQZSgjAuNEU</id>
+        <link href="https://www.youtube.com/watch?v=KQZSgjAuNEU"/>
+        <updated>2025-02-14T13:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേൾക്കാൻ ഏറെ കൊതിച്ച ക്രിസ്തീയ ഗാനങ്ങൾ | Abhijith Kollam | Christian Superhit Songs | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=38G5eoahVSM</id>
+        <link href="https://www.youtube.com/watch?v=38G5eoahVSM"/>
+        <updated>2025-02-14T13:30:01.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anuthaapathin | സങ്കടങ്ങൾ മായ്ക്കുന്ന ഗാനം |   @JinoKunnumpurathu                         #shorts]]></title>
         <id>https://www.youtube.com/watch?v=DcvHAQafA38</id>
@@ -12712,24 +12757,6 @@
         <updated>2025-01-16T03:00:39.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaradhyan | Christian Devotional Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=TB8mnSP2nP4</id>
-        <link href="https://www.youtube.com/watch?v=TB8mnSP2nP4"/>
-        <updated>2025-01-16T02:00:17.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Daivam | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=JiDZSxlpJCw</id>
-        <link href="https://www.youtube.com/watch?v=JiDZSxlpJCw"/>
-        <updated>2025-01-16T02:00:13.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
