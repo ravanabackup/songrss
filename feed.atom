@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T04:10:12.867Z</updated>
+    <updated>2025-02-14T05:08:18.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sundarippoovinu Naanam | Ente Upasana | Best Malayalam Song | S. Janaki | Suhasini]]></title>
+        <id>https://www.youtube.com/watch?v=v7ZV5tgdRkk</id>
+        <link href="https://www.youtube.com/watch?v=v7ZV5tgdRkk"/>
+        <updated>2025-02-14T05:06:45.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മരിയ കോലടി പാടി തകർത്ത സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം!! | ദൈവം നമ്മോടുകൂടെ | #shorts | #mariakolady]]></title>
+        <id>https://www.youtube.com/watch?v=PkYFO6jPVws</id>
+        <link href="https://www.youtube.com/watch?v=PkYFO6jPVws"/>
+        <updated>2025-02-14T04:30:20.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just boys things😎😂 #NeelaNilave #RDX #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=WvK1fma5cLA</id>
+        <link href="https://www.youtube.com/watch?v=WvK1fma5cLA"/>
+        <updated>2025-02-14T04:30:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shwasame | Santhosham #valentinesday #romantic #love #shortsfeed #shorts  #nithyamammen #harisankar]]></title>
         <id>https://www.youtube.com/watch?v=T-FSEevZCME</id>
