@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T06:10:27.350Z</updated>
+    <updated>2025-02-16T07:07:18.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12577,15 +12577,6 @@
         <updated>2025-01-17T19:08:18.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 18 # Athiravile Prarthana 18th January 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=saQeWatEFPc</id>
-        <link href="https://www.youtube.com/watch?v=saQeWatEFPc"/>
-        <updated>2025-01-17T19:00:39.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
