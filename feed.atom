@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T13:15:37.928Z</updated>
+    <updated>2025-02-18T14:08:07.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aakasa Thundiney - Video Song | 4 Seasons | Ameen, Rhea | Vinod Parameswaran | Raleigh Rajan]]></title>
+        <id>https://www.youtube.com/watch?v=juRLY3NTSTc</id>
+        <link href="https://www.youtube.com/watch?v=juRLY3NTSTc"/>
+        <updated>2025-02-18T13:36:26.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Omal Poove | Romeo Laiju | Shine Tom Chacko, Aadhya Prasad | Azim Roshan | Rohan D M | Hrishikesh]]></title>
+        <id>https://www.youtube.com/watch?v=wLXwpA9DsLk</id>
+        <link href="https://www.youtube.com/watch?v=wLXwpA9DsLk"/>
+        <updated>2025-02-18T13:30:40.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udayagiri Kottayile | Aromalunni | Prem Nazir, Sheela | G. Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=YupT6xQcEyA</id>
+        <link href="https://www.youtube.com/watch?v=YupT6xQcEyA"/>
+        <updated>2025-02-18T13:30:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIngers Of The Week | Kuttiyachan | Christian Devotionsl Songs Malayalam | Praise and Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=emq6vc4e1VE</id>
+        <link href="https://www.youtube.com/watch?v=emq6vc4e1VE"/>
+        <updated>2025-02-18T13:30:23.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തിൽ തൊടുന്ന അനശ്വര ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | ZION CLASSICS]]></title>
+        <id>https://www.youtube.com/watch?v=GWQw8hAT6lg</id>
+        <link href="https://www.youtube.com/watch?v=GWQw8hAT6lg"/>
+        <updated>2025-02-18T13:30:09.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lock - Video Song | Painkili | Sajin Gopu | Anaswara Rajan | Sreejith Babu | Justin Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=UnABK01_JZE</id>
+        <link href="https://www.youtube.com/watch?v=UnABK01_JZE"/>
+        <updated>2025-02-18T13:28:55.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bromance - A Fun Hit | Arjun Ashokan, Mahima, Mathew Thomas | ADJ | Govind Vasantha | Ashiq Usman]]></title>
         <id>https://www.youtube.com/watch?v=5HIg_inVwug</id>
@@ -12640,24 +12694,6 @@
         <updated>2025-01-20T04:30:04.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivathin Namathil Nam | Christian Shorts  #manoramamusic #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=zk5qIGfwDfM</id>
-        <link href="https://www.youtube.com/watch?v=zk5qIGfwDfM"/>
-        <updated>2025-01-20T02:00:37.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekantha Yamangalil | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=MxL_2rJ6W4M</id>
-        <link href="https://www.youtube.com/watch?v=MxL_2rJ6W4M"/>
-        <updated>2025-01-20T02:00:23.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
