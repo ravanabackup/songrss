@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T12:14:34.955Z</updated>
+    <updated>2025-02-19T13:15:36.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mahimayil |  മഹോന്നതന്റെ മനോഹര ഗാനം |   @JinoKunnumpurathu         #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Gtlv41XAQEI</id>
+        <link href="https://www.youtube.com/watch?v=Gtlv41XAQEI"/>
+        <updated>2025-02-19T13:00:20.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീ തകർന്നെന്ന് വിചാരിക്കുന്നിടത്തുനിന്നും ദൈവം തുടങ്ങും  |  😇  | Rev. Aneesh P Joseph | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=y3gNBhl8zN0</id>
+        <link href="https://www.youtube.com/watch?v=y3gNBhl8zN0"/>
+        <updated>2025-02-19T12:31:03.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[താഴ്ചയിൽ നിന്ന് താങ്ങിയെടുക്കുന്നക്രിസ്തീയഗാനങ്ങൾ | Prathyasha Geethangal | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Oc5pzRE3Y34</id>
+        <link href="https://www.youtube.com/watch?v=Oc5pzRE3Y34"/>
+        <updated>2025-02-19T12:30:31.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sabdham - Official Trailer | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan  | 7G Siva]]></title>
+        <id>https://www.youtube.com/watch?v=Cp0d6oAT1qc</id>
+        <link href="https://www.youtube.com/watch?v=Cp0d6oAT1qc"/>
+        <updated>2025-02-19T12:29:00.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shabdham (Telugu) - Official Trailer | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan  | 7G Siva]]></title>
+        <id>https://www.youtube.com/watch?v=ht58otSIbsk</id>
+        <link href="https://www.youtube.com/watch?v=ht58otSIbsk"/>
+        <updated>2025-02-19T12:28:54.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shabda (Kannada) - Official Trailer | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan  | 7G Siva]]></title>
+        <id>https://www.youtube.com/watch?v=3arDJzOSzLQ</id>
+        <link href="https://www.youtube.com/watch?v=3arDJzOSzLQ"/>
+        <updated>2025-02-19T12:28:47.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അല്ലിയിളം പൂവോ ഇല്ലിമുളം തേനോ | Alliyilam Poovo | Mangalam Nerunnu | Nedumudi Venu | Baby Shalini]]></title>
         <id>https://www.youtube.com/watch?v=lWneugLX3KA</id>
@@ -12631,15 +12685,6 @@
         <updated>2025-01-21T02:00:03.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sukham Tharumnadha | Christian Melody Songs | P Jayachandran | Joji Johns | Chittor Gopi]]></title>
-        <id>https://www.youtube.com/watch?v=lOe6qbuW9CQ</id>
-        <link href="https://www.youtube.com/watch?v=lOe6qbuW9CQ"/>
-        <updated>2025-01-21T00:30:33.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
