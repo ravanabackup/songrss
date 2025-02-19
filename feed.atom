@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T04:10:11.050Z</updated>
+    <updated>2025-02-19T05:08:20.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannil Nilaavu | Chronic Bachelor | Romantic Malayalam Hit | K. S. Chithra, Riju George | Rambha]]></title>
+        <id>https://www.youtube.com/watch?v=5h6fJUC4aJc</id>
+        <link href="https://www.youtube.com/watch?v=5h6fJUC4aJc"/>
+        <updated>2025-02-19T04:43:26.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moves🔥 #PachaParishkari #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Ct4qkE1UeRU</id>
+        <link href="https://www.youtube.com/watch?v=Ct4qkE1UeRU"/>
+        <updated>2025-02-19T04:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APpamayi Koodashayayi | teenu Treesa | Christian Video Song | Joji Johns | Shibu Antony Mavelikkara]]></title>
         <id>https://www.youtube.com/watch?v=tuhcbjTtHGo</id>
@@ -76,6 +94,24 @@
         <updated>2025-02-18T15:48:42.000Z</updated>
         <author>
             <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Viswahridaya Spandanathin | Sony Sai | Navami Venu | Malayalam Christian Songs Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=BqzEvFHE_3E</id>
+        <link href="https://www.youtube.com/watch?v=BqzEvFHE_3E"/>
+        <updated>2025-02-18T15:45:41.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Enikkeshuvundee Maruvil | Charles John Ranni | Malayalam Christian Devotional Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=rRMUQVq-fHc</id>
+        <link href="https://www.youtube.com/watch?v=rRMUQVq-fHc"/>
+        <updated>2025-02-18T15:42:53.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
