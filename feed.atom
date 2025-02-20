@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T23:07:42.997Z</updated>
+    <updated>2025-02-20T00:39:30.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏവർക്കും ഏറ്റവും പ്രിയപ്പെട്ട ക്രിസ്‌തീയ ഗാനങ്ങൾ | Christian Superhit Songs | Sujatha | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=hM3UZ1j0zb4</id>
+        <link href="https://www.youtube.com/watch?v=hM3UZ1j0zb4"/>
+        <updated>2025-02-20T00:30:21.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 20th of February 2025 Mathavinte Japamala # Prakashathinte Rahasyangal 20th of February 25]]></title>
+        <id>https://www.youtube.com/watch?v=ED_HYkIW3P4</id>
+        <link href="https://www.youtube.com/watch?v=ED_HYkIW3P4"/>
+        <updated>2025-02-19T23:30:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഫെബ്രുവരി: 20, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=EzeQKbOSUd4</id>
@@ -12532,60 +12550,6 @@
         <updated>2025-01-21T13:01:14.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Kanner Chalukal | Alice | Praise and Worship Songs | Christian Melody Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=E4VyK3eAUBU</id>
-        <link href="https://www.youtube.com/watch?v=E4VyK3eAUBU"/>
-        <updated>2025-01-21T12:30:23.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാതയൊരുക്കുന്നവൻ  |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=UyKX0I6Bu5I</id>
-        <link href="https://www.youtube.com/watch?v=UyKX0I6Bu5I"/>
-        <updated>2025-01-21T12:30:22.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilaveyil Viralukalal Song+Karaoke | Artist |Lyrical Video | K.S.Chithra | Rafeeq Ahamed | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=XI7pwzS6ZUc</id>
-        <link href="https://www.youtube.com/watch?v=XI7pwzS6ZUc"/>
-        <updated>2025-01-21T12:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 21st January 2025]]></title>
-        <id>https://www.youtube.com/watch?v=xsjezYNc-Ck</id>
-        <link href="https://www.youtube.com/watch?v=xsjezYNc-Ck"/>
-        <updated>2025-01-21T11:30:40.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thamasamende Varuvan - Audio Song | Bhargavi Nilayam | Prem Nazir, Vijaya Nirmala | M.S. Baburaj]]></title>
-        <id>https://www.youtube.com/watch?v=R5itWI0Zb3A</id>
-        <link href="https://www.youtube.com/watch?v=R5itWI0Zb3A"/>
-        <updated>2025-01-21T11:30:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irukaikal | Offroad | Nikhilraj | Christakala | Shaji Stephan |Subhash Mohanraj |Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=s3B0n2Rccao</id>
-        <link href="https://www.youtube.com/watch?v=s3B0n2Rccao"/>
-        <updated>2025-01-21T11:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
