@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T00:39:30.935Z</updated>
+    <updated>2025-02-20T02:10:11.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Njan Padidum | Maramon Songs | Shorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Kw7HXx-VLxo</id>
+        <link href="https://www.youtube.com/watch?v=Kw7HXx-VLxo"/>
+        <updated>2025-02-20T01:45:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏവർക്കും ഏറ്റവും പ്രിയപ്പെട്ട ക്രിസ്‌തീയ ഗാനങ്ങൾ | Christian Superhit Songs | Sujatha | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=hM3UZ1j0zb4</id>
@@ -12487,69 +12496,6 @@
         <updated>2025-01-21T14:21:47.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandanappon Sandhyaa Neram  Video Song | Five Fingers | KJ Yesudas | Kunchacko Boban | Karthika]]></title>
-        <id>https://www.youtube.com/watch?v=UOhMLEDa2tQ</id>
-        <link href="https://www.youtube.com/watch?v=UOhMLEDa2tQ"/>
-        <updated>2025-01-21T13:31:46.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singer Of The Week | Midhila Michaeal | Christian Devotional Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=siXpRtpmDeM</id>
-        <link href="https://www.youtube.com/watch?v=siXpRtpmDeM"/>
-        <updated>2025-01-21T13:30:40.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വൈറൽ ക്രിസ്‌തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | ZION CLASSICS]]></title>
-        <id>https://www.youtube.com/watch?v=Yd7rtb4wT0Q</id>
-        <link href="https://www.youtube.com/watch?v=Yd7rtb4wT0Q"/>
-        <updated>2025-01-21T13:30:32.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezhunirangalulla Kuppivala | Malayalam Song  |  Radha Madhavam | Parvathi | Jayaram | KS Chithra |]]></title>
-        <id>https://www.youtube.com/watch?v=GF4ppiax_MM</id>
-        <link href="https://www.youtube.com/watch?v=GF4ppiax_MM"/>
-        <updated>2025-01-21T13:30:10.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Down Troddence - AYAKTIHIS (Trailer) | Think Originals]]></title>
-        <id>https://www.youtube.com/watch?v=JEWQ5jCuHYE</id>
-        <link href="https://www.youtube.com/watch?v=JEWQ5jCuHYE"/>
-        <updated>2025-01-21T13:29:13.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AARARUM | സ്നേഹനാഥന്റെ സ്വർഗീയ ഗാനം | @JinoKunnumpurathu            #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=w_4iJIq7m6Q</id>
-        <link href="https://www.youtube.com/watch?v=w_4iJIq7m6Q"/>
-        <updated>2025-01-21T13:01:23.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyane Urangiyille Song | 4K Video Song | Nammal Thammil Movie Song | Prithviraj | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=s6U5qopAWVE</id>
-        <link href="https://www.youtube.com/watch?v=s6U5qopAWVE"/>
-        <updated>2025-01-21T13:01:14.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
