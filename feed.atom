@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T21:07:04.002Z</updated>
+    <updated>2025-02-21T22:07:39.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=15Q5g0I8n8M</id>
+        <link href="https://www.youtube.com/watch?v=15Q5g0I8n8M"/>
+        <updated>2025-02-21T22:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 22nd of February # Athiravile Prarthana 22nd February 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=yJFEDAMn8LQ</id>
@@ -12496,15 +12505,6 @@
         <updated>2025-01-23T10:09:04.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജെറുസലേം നായകാ | Jerusalem Nayaka | ജയചന്ദ്രൻ പാടിയ മറക്കാനാകാത്ത ക്രിസ്ത്യൻ ഭക്തിഗാനം | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=Av8arhesvXQ</id>
-        <link href="https://www.youtube.com/watch?v=Av8arhesvXQ"/>
-        <updated>2025-01-23T09:39:08.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
