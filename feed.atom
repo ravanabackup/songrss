@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T02:10:33.075Z</updated>
+    <updated>2025-02-21T03:14:34.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12325,69 +12325,6 @@
         <updated>2025-01-22T15:30:04.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pazhathamizh Pattizhayum Video Song|Manichitrathazhu|Mohanlal|Shobhana|Suresh Gopi| #mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=k2gTG1x9ikI</id>
-        <link href="https://www.youtube.com/watch?v=k2gTG1x9ikI"/>
-        <updated>2025-01-22T15:00:46.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread |Malayalam Christian Song | Maramon  song]]></title>
-        <id>https://www.youtube.com/watch?v=VF1_y7xIiGw</id>
-        <link href="https://www.youtube.com/watch?v=VF1_y7xIiGw"/>
-        <updated>2025-01-22T15:00:43.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyen Kinaavo | 1080p | Hello My Dear Wrong Number | Mohanlal | Lissy]]></title>
-        <id>https://www.youtube.com/watch?v=LxXQ6B8xDI8</id>
-        <link href="https://www.youtube.com/watch?v=LxXQ6B8xDI8"/>
-        <updated>2025-01-22T14:41:03.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melleyen Kannile  | Kusruthi Kuruppu | Jayaram | Meena | KS Chithra | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=rQy1LK4LD90</id>
-        <link href="https://www.youtube.com/watch?v=rQy1LK4LD90"/>
-        <updated>2025-01-22T14:30:24.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=GJc8VakqSxc</id>
-        <link href="https://www.youtube.com/watch?v=GJc8VakqSxc"/>
-        <updated>2025-01-22T14:30:15.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam Christian Devotionals | Praise & Worship Songs | ക്രിസ്തീയ ഗാനങ്ങൾ | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=iA5jYe2uOwc</id>
-        <link href="https://www.youtube.com/watch?v=iA5jYe2uOwc"/>
-        <updated>2025-01-22T14:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalangalolam....#christiandevotionalsongsmalayalam #holycommunionsong #jojijohnschristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=B2hZ2TWW7mQ</id>
-        <link href="https://www.youtube.com/watch?v=B2hZ2TWW7mQ"/>
-        <updated>2025-01-22T14:15:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
