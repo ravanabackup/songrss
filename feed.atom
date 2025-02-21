@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T13:15:47.601Z</updated>
+    <updated>2025-02-21T14:05:20.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Kester | Christian Superhit Songs | Joji Johns | Rajkumar Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=zUJI_MbP-MI</id>
+        <link href="https://www.youtube.com/watch?v=zUJI_MbP-MI"/>
+        <updated>2025-02-21T13:30:47.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhakayi Ente Arikil | Charles G Thomas | Sreekanth Hariharan | Mridula Warrier #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=vWkxvpH3sJc</id>
+        <link href="https://www.youtube.com/watch?v=vWkxvpH3sJc"/>
+        <updated>2025-02-21T13:30:40.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thattimutti Kaithatti | Ee Lokam Ivide Kure Manushyar | Rahman | K.G.Markose l]]></title>
+        <id>https://www.youtube.com/watch?v=X787oBw4_NE</id>
+        <link href="https://www.youtube.com/watch?v=X787oBw4_NE"/>
+        <updated>2025-02-21T13:30:20.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjummel Boys (Behind The Production Design) | Chidambaram | Ajayan Chalissery | Parava Films]]></title>
+        <id>https://www.youtube.com/watch?v=SlFF9LGLpJY</id>
+        <link href="https://www.youtube.com/watch?v=SlFF9LGLpJY"/>
+        <updated>2025-02-21T13:28:44.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punnaga Kombathu |  4K | Bhakthajanangalude Shradhakku | Kavya Madhavan | Jayachandran | Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=BFRAG4EWmCs</id>
+        <link href="https://www.youtube.com/watch?v=BFRAG4EWmCs"/>
+        <updated>2025-02-21T13:27:22.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമ്മയായി അമ്മയായി  ❤️ K S Chithra Voice😍 #shorts #sadsong #kschithra]]></title>
         <id>https://www.youtube.com/watch?v=xKfb6CkqLT4</id>
@@ -12487,33 +12532,6 @@
         <updated>2025-01-23T02:11:27.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divyakarunyamaay | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=HHEDspPzNPw</id>
-        <link href="https://www.youtube.com/watch?v=HHEDspPzNPw"/>
-        <updated>2025-01-23T02:00:18.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njangal Arppikkunnu | Nonstop Malayalam Christian Songs | Non Stop Worship Songs | Convention Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Zm1KyczaQXA</id>
-        <link href="https://www.youtube.com/watch?v=Zm1KyczaQXA"/>
-        <updated>2025-01-23T01:49:36.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayirangal Veenalum | Christian Shorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=Xr3AdDbZuZc</id>
-        <link href="https://www.youtube.com/watch?v=Xr3AdDbZuZc"/>
-        <updated>2025-01-23T01:30:14.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
