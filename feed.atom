@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T14:06:54.595Z</updated>
+    <updated>2025-02-23T15:06:47.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chembarathi Kammalittu Video Song | Anil Panachooran | M Jayachandran | Shreya Ghoshal | Ravisankar]]></title>
+        <id>https://www.youtube.com/watch?v=upMH04awQ7Y</id>
+        <link href="https://www.youtube.com/watch?v=upMH04awQ7Y"/>
+        <updated>2025-02-23T14:30:31.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aswati Nakshatrame - Audio Song | Danger Biscuit | Prem Nazir, Sheela | V. Dakshinamoorthy]]></title>
+        <id>https://www.youtube.com/watch?v=JIOI3re8LT4</id>
+        <link href="https://www.youtube.com/watch?v=JIOI3re8LT4"/>
+        <updated>2025-02-23T14:30:12.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thaane Thaane | Vineeth Sreenivasan | Milan Joshi | Gopika Kukku | Anantha Krishnan #songoftheday]]></title>
         <id>https://www.youtube.com/watch?v=I8fZeqwd-eU</id>
