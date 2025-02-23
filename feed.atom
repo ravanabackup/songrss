@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T05:07:37.271Z</updated>
+    <updated>2025-02-23T06:10:31.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaarumaarum Koodeyilla - Audio Song | Djinn | Soubin Shahir, Santhy | Prashant Pillai | Sidharth]]></title>
+        <id>https://www.youtube.com/watch?v=vTGXSH_hWG4</id>
+        <link href="https://www.youtube.com/watch?v=vTGXSH_hWG4"/>
+        <updated>2025-02-23T05:30:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palapoovithalil | Thirakkatha | 4K | Prithiviraj | Rafeeque Ahammed | Sharreth | Priya Mani]]></title>
+        <id>https://www.youtube.com/watch?v=HM66ABu7RM8</id>
+        <link href="https://www.youtube.com/watch?v=HM66ABu7RM8"/>
+        <updated>2025-02-23T05:30:05.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velmuruga Haro Hara  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=9xRSAuS2C4w</id>
+        <link href="https://www.youtube.com/watch?v=9xRSAuS2C4w"/>
+        <updated>2025-02-23T05:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grandma Song - Lyric Video | Sabdham (Tamil) |  Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan]]></title>
+        <id>https://www.youtube.com/watch?v=BI7i260ZGy0</id>
+        <link href="https://www.youtube.com/watch?v=BI7i260ZGy0"/>
+        <updated>2025-02-23T05:28:46.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grandma Song - Lyric Video | Shabdham (Telugu) | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan]]></title>
+        <id>https://www.youtube.com/watch?v=iDnGD_diZVM</id>
+        <link href="https://www.youtube.com/watch?v=iDnGD_diZVM"/>
+        <updated>2025-02-23T05:28:41.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaatarinu |Forever Favourites #unplugged #malayalamcoversong #shortsfeed #shorts #shortsvideo #reels]]></title>
         <id>https://www.youtube.com/watch?v=jNE5eKLoqPs</id>
@@ -12242,15 +12287,6 @@
         <id>https://www.youtube.com/watch?v=hwyb4V2TF10</id>
         <link href="https://www.youtube.com/watch?v=hwyb4V2TF10"/>
         <updated>2025-01-24T19:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th January 25]]></title>
-        <id>https://www.youtube.com/watch?v=MYgW4I960Vw</id>
-        <link href="https://www.youtube.com/watch?v=MYgW4I960Vw"/>
-        <updated>2025-01-24T18:00:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
