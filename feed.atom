@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T08:12:11.540Z</updated>
+    <updated>2025-02-24T09:09:53.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം തന്ന വിധിയല്ലേ | Daivam Thanna | Malayalam Movie Song | Kunchacko Boban | K. J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=bE-S8hQCejM</id>
+        <link href="https://www.youtube.com/watch?v=bE-S8hQCejM"/>
+        <updated>2025-02-24T08:48:33.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthimanam Pootha Polen | Video Song | Chukkan | Suresh Gopi | Gouthami | S P Venkitesh | ONV Kurupp]]></title>
+        <id>https://www.youtube.com/watch?v=hCd7XuogZIs</id>
+        <link href="https://www.youtube.com/watch?v=hCd7XuogZIs"/>
+        <updated>2025-02-24T08:23:50.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൂട്ടുകാരുമൊത്തുള്ള നല്ല ഓർമകളേകും  മലയാള സിനിമയിലെ തെരെഞ്ഞെടുത്ത സൗഹൃദ ഗാനങ്ങൾ | Frienship Songs]]></title>
         <id>https://www.youtube.com/watch?v=2kVqyhhvli0</id>
