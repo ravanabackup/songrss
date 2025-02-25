@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T20:09:19.542Z</updated>
+    <updated>2025-02-25T21:07:42.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12343,24 +12343,6 @@
         <updated>2025-01-27T09:15:17.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayajalaka - Audio Song | Vivahitha | K.J. Yesudas | G. Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=8rprtsOGALQ</id>
-        <link href="https://www.youtube.com/watch?v=8rprtsOGALQ"/>
-        <updated>2025-01-27T08:30:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaanaville Minnalkkodiye | HD 1080p | Vakkaalathu Narayanankutti | Jayaram, Manya, Mukesh]]></title>
-        <id>https://www.youtube.com/watch?v=-AWXCw943aM</id>
-        <link href="https://www.youtube.com/watch?v=-AWXCw943aM"/>
-        <updated>2025-01-27T08:16:01.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
