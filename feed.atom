@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T15:09:07.918Z</updated>
+    <updated>2025-02-25T16:10:22.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaimavin Thanalil Song | Oru Yathramozhi | Mohanlal | KS Chithra | MG Sreekumar | Ilayaraja]]></title>
+        <id>https://www.youtube.com/watch?v=6p0hehDgAIM</id>
+        <link href="https://www.youtube.com/watch?v=6p0hehDgAIM"/>
+        <updated>2025-02-25T15:46:56.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awsum Kissa ✨ #Sweetheart #RioRaj #YuvanShankarRaja #Sandy #Angelin]]></title>
+        <id>https://www.youtube.com/watch?v=F0ae2t0QUmc</id>
+        <link href="https://www.youtube.com/watch?v=F0ae2t0QUmc"/>
+        <updated>2025-02-25T15:31:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
         <id>https://www.youtube.com/watch?v=hQ-4oEe6j1E</id>
