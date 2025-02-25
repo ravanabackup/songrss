@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T12:15:13.448Z</updated>
+    <updated>2025-02-25T13:17:02.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ammathan |  HEART MELTING SONG |   @JinoKunnumpurathu           #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=eJq4eQL9F3k</id>
+        <link href="https://www.youtube.com/watch?v=eJq4eQL9F3k"/>
+        <updated>2025-02-25T13:00:59.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viswasa Jeevitha Kadalil | Prathyasha Geethangal | Binoy Chacko | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=hQEqsxljb94</id>
+        <link href="https://www.youtube.com/watch?v=hQEqsxljb94"/>
+        <updated>2025-02-25T12:30:41.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രതീക്ഷയോടെ കാത്തിരിക്കാം   |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=FXZ5_Giya2c</id>
+        <link href="https://www.youtube.com/watch?v=FXZ5_Giya2c"/>
+        <updated>2025-02-25T12:30:23.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maan Maan Maan Nalla | മാന്‍ മാന്‍ മാന്‍ നല്ല കലമാന്‍ |  | Aavesham Malayalam Film Song | Sheela]]></title>
         <id>https://www.youtube.com/watch?v=vJ7Crdo0x3o</id>
