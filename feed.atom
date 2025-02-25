@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T13:17:02.739Z</updated>
+    <updated>2025-02-25T14:08:08.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devasandhya Gopurathil Video Song | Kalabham | Navya Nair | Ranjini Hari| Raveendran |S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=8tzpJPpd51U</id>
+        <link href="https://www.youtube.com/watch?v=8tzpJPpd51U"/>
+        <updated>2025-02-25T13:40:21.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സമാധാനവും ആശ്വാസവും നൽകുന്ന മനോഹര ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=tV_uV01HdC4</id>
+        <link href="https://www.youtube.com/watch?v=tV_uV01HdC4"/>
+        <updated>2025-02-25T13:30:40.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രാർത്ഥന കഴിഞ്ഞു ഭക്തിപൂർവ്വം പാടുന്ന ക്രിസ്തിയ ഗാനങ്ങൾ!! | #evergreen | #superhits | #hits]]></title>
+        <id>https://www.youtube.com/watch?v=x_9gK2dVNBE</id>
+        <link href="https://www.youtube.com/watch?v=x_9gK2dVNBE"/>
+        <updated>2025-02-25T13:30:39.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singers Of The Week | Biju Narayanan | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=gSJ5TrAMbBg</id>
+        <link href="https://www.youtube.com/watch?v=gSJ5TrAMbBg"/>
+        <updated>2025-02-25T13:30:36.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്നും കേൾക്കാൻ മനസ്സ് കൊതിക്കുന്ന സിനിമാഗാനങ്ങൾ | MALAYALAM EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=4JfdS8fqt08</id>
+        <link href="https://www.youtube.com/watch?v=4JfdS8fqt08"/>
+        <updated>2025-02-25T13:30:04.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ammathan |  HEART MELTING SONG |   @JinoKunnumpurathu           #shorts]]></title>
         <id>https://www.youtube.com/watch?v=eJq4eQL9F3k</id>
@@ -12307,24 +12352,6 @@
         <updated>2025-01-27T04:30:28.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Ashrayam | Wilson Piravom | Reji Abraham]]></title>
-        <id>https://www.youtube.com/watch?v=p8X2_PM2AKc</id>
-        <link href="https://www.youtube.com/watch?v=p8X2_PM2AKc"/>
-        <updated>2025-01-27T02:00:27.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Yeshu | Maria Kolady | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=sNK_Lw3HNc0</id>
-        <link href="https://www.youtube.com/watch?v=sNK_Lw3HNc0"/>
-        <updated>2025-01-27T01:30:29.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
