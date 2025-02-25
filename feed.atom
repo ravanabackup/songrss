@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T02:12:43.287Z</updated>
+    <updated>2025-02-25T03:16:32.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12154,24 +12154,6 @@
         <updated>2025-01-26T15:30:18.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yendi Vittu Pona - Promo | Dragon | Pradeep Ranganathan | STR | Ashwath Marimuthu | Leon James | AGS]]></title>
-        <id>https://www.youtube.com/watch?v=C_oZX9CR1mY</id>
-        <link href="https://www.youtube.com/watch?v=C_oZX9CR1mY"/>
-        <updated>2025-01-26T14:41:50.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnale Minnale  | Vesham | Gopika | KJ Yesudas | Kaithapram | SA Rajkumar]]></title>
-        <id>https://www.youtube.com/watch?v=JcGnt2QqVqM</id>
-        <link href="https://www.youtube.com/watch?v=JcGnt2QqVqM"/>
-        <updated>2025-01-26T14:30:09.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
