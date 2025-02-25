@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T06:11:52.568Z</updated>
+    <updated>2025-02-25T07:08:43.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varika Parisudhathmave | Elizabeth Raju | Malayalam Christian Songs | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Gh02PuG2EQs</id>
+        <link href="https://www.youtube.com/watch?v=Gh02PuG2EQs"/>
+        <updated>2025-02-25T06:41:56.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Readya Maaran X Oh Maara - Video Mashup | Bibin Ashok, Jakes Bejoy]]></title>
         <id>https://www.youtube.com/watch?v=ugLe73hxHKo</id>
@@ -12170,15 +12179,6 @@
         <id>https://www.youtube.com/watch?v=1HvhEhODcoQ</id>
         <link href="https://www.youtube.com/watch?v=1HvhEhODcoQ"/>
         <updated>2025-01-26T22:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 27 # Athiravile Prarthana 27th January 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2AmPnBLIbyk</id>
-        <link href="https://www.youtube.com/watch?v=2AmPnBLIbyk"/>
-        <updated>2025-01-26T19:00:01.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
