@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T07:08:43.799Z</updated>
+    <updated>2025-02-25T08:11:38.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjuneeril | Thirakkatha | 4K | Video Song | Prithiviraj | Ranjith | Rafeeq Ahammed | Sharreth]]></title>
+        <id>https://www.youtube.com/watch?v=ghUSdZG6pSg</id>
+        <link href="https://www.youtube.com/watch?v=ghUSdZG6pSg"/>
+        <updated>2025-02-25T07:57:16.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എപ്പോൾ കേട്ടാലും മനസ്സിൽ കുളിരുകോരിയിടുന്ന മലയാളസിനിമയിലെ ഗാനങ്ങൾ നിറഞ്ഞ സംഗീതവിരുന്ന് !]]></title>
+        <id>https://www.youtube.com/watch?v=OT0tb7GlYjw</id>
+        <link href="https://www.youtube.com/watch?v=OT0tb7GlYjw"/>
+        <updated>2025-02-25T07:40:16.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൊന്‍ വീണേ എന്നുള്ളിന്‍ മൗനം വാങ്ങൂ #evergreenclassics #mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=dBa1zx7069s</id>
+        <link href="https://www.youtube.com/watch?v=dBa1zx7069s"/>
+        <updated>2025-02-25T07:22:27.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varika Parisudhathmave | Elizabeth Raju | Malayalam Christian Songs | Christian Worship Songs]]></title>
         <id>https://www.youtube.com/watch?v=Gh02PuG2EQs</id>
