@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T22:07:53.185Z</updated>
+    <updated>2025-02-25T23:07:49.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 26, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=lxE8kftZFDA</id>
+        <link href="https://www.youtube.com/watch?v=lxE8kftZFDA"/>
+        <updated>2025-02-25T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=fxr_IO1R4Fw</id>
@@ -12307,33 +12316,6 @@
         <updated>2025-01-27T11:17:41.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charusheele | Parannu Parannu Parannu Chellan #hariharan #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=zxeAacyCFlo</id>
-        <link href="https://www.youtube.com/watch?v=zxeAacyCFlo"/>
-        <updated>2025-01-27T11:01:19.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shabby Baby Sharon Baby | Thillaana Thillaana | Best Malayalam Song | Suresh Gopi | Kunchacko Boban]]></title>
-        <id>https://www.youtube.com/watch?v=lAI5RICdsn0</id>
-        <link href="https://www.youtube.com/watch?v=lAI5RICdsn0"/>
-        <updated>2025-01-27T10:54:08.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilaave Nilaave | Chattakkaari #shortsfeed #shortsvideo #shorts #reels #shreyaghoshal #mjayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=ZxSm4TA93n8</id>
-        <link href="https://www.youtube.com/watch?v=ZxSm4TA93n8"/>
-        <updated>2025-01-27T10:30:28.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
