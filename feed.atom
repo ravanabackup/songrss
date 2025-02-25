@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T21:07:42.733Z</updated>
+    <updated>2025-02-25T22:07:53.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=fxr_IO1R4Fw</id>
+        <link href="https://www.youtube.com/watch?v=fxr_IO1R4Fw"/>
+        <updated>2025-02-25T22:00:28.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 26th of February # Athiravile Prarthana 26th February 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=wLJhRXnzEbw</id>
@@ -12325,24 +12334,6 @@
         <updated>2025-01-27T10:30:28.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadhangal Idarathe........#christiandevotionalsongsmalayalam #jojijohns #christianmelodysongs]]></title>
-        <id>https://www.youtube.com/watch?v=KNv9F_nlUzE</id>
-        <link href="https://www.youtube.com/watch?v=KNv9F_nlUzE"/>
-        <updated>2025-01-27T09:29:20.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആത്മജ്ഞാനം പകരുന്ന ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Christian Spiritual Songs | Jesus Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=_s64nld_PBk</id>
-        <link href="https://www.youtube.com/watch?v=_s64nld_PBk"/>
-        <updated>2025-01-27T09:15:17.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
