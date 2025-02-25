@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T18:11:51.202Z</updated>
+    <updated>2025-02-25T19:06:40.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 26th of February # Athiravile Prarthana 26th February 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=wLJhRXnzEbw</id>
+        <link href="https://www.youtube.com/watch?v=wLJhRXnzEbw"/>
+        <updated>2025-02-25T19:00:41.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th February 25]]></title>
         <id>https://www.youtube.com/watch?v=2qnYAljWlAs</id>
@@ -12361,15 +12370,6 @@
         <updated>2025-01-27T07:49:49.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹം തേനല്ലാ | Sneham Thenalla | Shafi Hits |  Mayavi Movie Song | Mammootty | Manoj K Jayan]]></title>
-        <id>https://www.youtube.com/watch?v=qGw27pSP1WM</id>
-        <link href="https://www.youtube.com/watch?v=qGw27pSP1WM"/>
-        <updated>2025-01-27T06:31:28.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
