@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T00:39:41.497Z</updated>
+    <updated>2025-02-26T02:12:29.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parishudhathmave | Maramon Songs | Shorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=dKo1JRE4vVs</id>
+        <link href="https://www.youtube.com/watch?v=dKo1JRE4vVs"/>
+        <updated>2025-02-26T02:00:26.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 26th of February 25 # Mathavinte Japamala Mahimayude Rahasyangal 26th of February 25]]></title>
         <id>https://www.youtube.com/watch?v=lynwnfuAt0k</id>
@@ -12190,87 +12199,6 @@
         <updated>2025-01-27T14:30:12.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരും മറക്കാത്ത മനോഹര  ക്രിസ്തീയ ഗാനങ്ങൾ  |  @JinoKunnumpurathu   | #christiansongs | ZION CLASSICS]]></title>
-        <id>https://www.youtube.com/watch?v=dX47sJLgT_E</id>
-        <link href="https://www.youtube.com/watch?v=dX47sJLgT_E"/>
-        <updated>2025-01-27T13:30:32.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellikkinnam Niranju  | Arjunan Pillayum Anchu Makkalum |Baiju | Mohan Sithara | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Or6TAKR2tgc</id>
-        <link href="https://www.youtube.com/watch?v=Or6TAKR2tgc"/>
-        <updated>2025-01-27T13:30:15.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khamare Thinkalolive | Pramukhan (2009) | Shyam Dharman | Pradeep Palluruthy | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=LLEI1gwp6NY</id>
-        <link href="https://www.youtube.com/watch?v=LLEI1gwp6NY"/>
-        <updated>2025-01-27T13:30:12.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathileeran | Thankamani | Dileep | V Devanand | Mridula #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=DUrQYqAcpP4</id>
-        <link href="https://www.youtube.com/watch?v=DUrQYqAcpP4"/>
-        <updated>2025-01-27T13:30:06.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിന് എന്തെന്നില്ലാത്ത സന്തോഷം ഈ ഗാനങ്ങൾ കേൾക്കുമ്പോൾ | Christian Superhit Songs | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=19zXWEA2aaE</id>
-        <link href="https://www.youtube.com/watch?v=19zXWEA2aaE"/>
-        <updated>2025-01-27T13:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponman - Official Trailer | Basil Joseph | Sajin Gopu | Lijo Mol | Jothish Shankar | Justin Varghese]]></title>
-        <id>https://www.youtube.com/watch?v=3aohQs8a-lE</id>
-        <link href="https://www.youtube.com/watch?v=3aohQs8a-lE"/>
-        <updated>2025-01-27T13:29:14.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeshoye Vaa | മനമുണർത്തുന്ന മനോഹര ഗാനം |   @JinoKunnumpurathu     #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=K-xvbtDHjiw</id>
-        <link href="https://www.youtube.com/watch?v=K-xvbtDHjiw"/>
-        <updated>2025-01-27T13:00:27.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamala Sendu nasime Song | 4K Video Song | Kannaki  Movie Song | Lal | Siddique |  K S Chitra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=-t6r4Sv8bps</id>
-        <link href="https://www.youtube.com/watch?v=-t6r4Sv8bps"/>
-        <updated>2025-01-27T13:00:00.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹിറ്റുകളുടെ പെരുമഴ തീർത്ത പാട്ടുകൾ | Shafi Hit Songs | Malayalam Hit Songs | Evergreen Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5t1p_AxS55s</id>
-        <link href="https://www.youtube.com/watch?v=5t1p_AxS55s"/>
-        <updated>2025-01-27T12:47:18.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
