@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T20:09:13.395Z</updated>
+    <updated>2025-02-26T21:07:37.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12343,15 +12343,6 @@
         <updated>2025-01-28T10:11:59.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athmave Poo X Thalatherichavar - Afro Vibe | Romancham | Sushin Shyam | Rithick J]]></title>
-        <id>https://www.youtube.com/watch?v=tJUTdZsPMRc</id>
-        <link href="https://www.youtube.com/watch?v=tJUTdZsPMRc"/>
-        <updated>2025-01-28T08:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
