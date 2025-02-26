@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T05:08:49.338Z</updated>
+    <updated>2025-02-26T06:12:24.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nathum Kozhiyum | Kappiri Thuruthu | O.U.Basheer | K.H.Sulaiman Master | Saheer Ali]]></title>
+        <id>https://www.youtube.com/watch?v=XBK9ILOlcRI</id>
+        <link href="https://www.youtube.com/watch?v=XBK9ILOlcRI"/>
+        <updated>2025-02-26T05:30:20.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kissa 47 - Lyric Video | DD Next Level  | Santhanam | Arya | ofRo | S.Prem Anand]]></title>
+        <id>https://www.youtube.com/watch?v=I-E1S5XlEAY</id>
+        <link href="https://www.youtube.com/watch?v=I-E1S5XlEAY"/>
+        <updated>2025-02-26T05:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pranayamanthra Thudi | 1080p | Ezhara Ponnana | Jayaram | Kanaka - Johnson Hits]]></title>
+        <id>https://www.youtube.com/watch?v=broPgBUG5YM</id>
+        <link href="https://www.youtube.com/watch?v=broPgBUG5YM"/>
+        <updated>2025-02-26T05:09:20.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melle Vannu Priyan | Randaam Yaamam #kschithra #mohansithara #swasika #shortsfeed #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=Z3ppBES-gQs</id>
@@ -12125,15 +12152,6 @@
         <id>https://www.youtube.com/watch?v=EwR7B6hnXiI</id>
         <link href="https://www.youtube.com/watch?v=EwR7B6hnXiI"/>
         <updated>2025-01-27T19:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th January 25]]></title>
-        <id>https://www.youtube.com/watch?v=CqDJEOIHCKM</id>
-        <link href="https://www.youtube.com/watch?v=CqDJEOIHCKM"/>
-        <updated>2025-01-27T18:00:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
