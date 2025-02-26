@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T18:11:31.335Z</updated>
+    <updated>2025-02-26T19:06:42.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 27th of February # Athiravile Prarthana 27th February 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qkM12L1ymJA</id>
+        <link href="https://www.youtube.com/watch?v=qkM12L1ymJA"/>
+        <updated>2025-02-26T19:00:38.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th February 25]]></title>
+        <id>https://www.youtube.com/watch?v=KAHCUEOnY3E</id>
+        <link href="https://www.youtube.com/watch?v=KAHCUEOnY3E"/>
+        <updated>2025-02-26T18:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mattakkaa maaya kannaango..appave sonnaa sonnaango! 🤩😍❤️ #SithiraPuthiri #SaiAbhyankkar #Vivek]]></title>
         <id>https://www.youtube.com/watch?v=KV0oikwZyfw</id>
