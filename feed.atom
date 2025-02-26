@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T16:10:22.231Z</updated>
+    <updated>2025-02-26T17:07:24.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12415,24 +12415,6 @@
         <updated>2025-01-28T05:09:23.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super power of boys😎😜 #RaaMachaMacha #RamCharan #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=cfQI-CXwE9k</id>
-        <link href="https://www.youtube.com/watch?v=cfQI-CXwE9k"/>
-        <updated>2025-01-28T04:30:29.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkaitha Pookkunna | January Oru Orma | Mohanlal | Karthika | K J Yesudas | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=8E291q6t8vU</id>
-        <link href="https://www.youtube.com/watch?v=8E291q6t8vU"/>
-        <updated>2025-01-28T04:30:08.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
