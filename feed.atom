@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T10:09:21.922Z</updated>
+    <updated>2025-02-26T11:07:31.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Olanjali Kuruvi |  Forever Favourites  | Malayalam Unplugged #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=BvDwnemPFBY</id>
+        <link href="https://www.youtube.com/watch?v=BvDwnemPFBY"/>
+        <updated>2025-02-26T10:30:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Seasons - Full Album | Ameen Rashed, Rhea Prabhu | Vinod Parameswaran | Raleigh Rajan]]></title>
         <id>https://www.youtube.com/watch?v=xw8bx8ysPbc</id>
@@ -12181,15 +12190,6 @@
         <updated>2025-01-27T23:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജനുവരി: 28,  ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=o04-yb6tLkc</id>
-        <link href="https://www.youtube.com/watch?v=o04-yb6tLkc"/>
-        <updated>2025-01-27T22:30:08.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
