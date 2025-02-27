@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T08:11:36.343Z</updated>
+    <updated>2025-02-27T09:09:03.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chiri chiriyo | Chronic Bachelor | Evergreen Malayalam Hit | Yesudas, Ganga |Mukesh, Rambha, Bhavana]]></title>
+        <id>https://www.youtube.com/watch?v=faGEO_Pley0</id>
+        <link href="https://www.youtube.com/watch?v=faGEO_Pley0"/>
+        <updated>2025-02-27T09:06:30.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithuvare Enthanu 4K | Kappalu Muthalali | Vineeth Sreenivasan | Anupama Vijay | Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=N6IXcJwXJYk</id>
+        <link href="https://www.youtube.com/watch?v=N6IXcJwXJYk"/>
+        <updated>2025-02-27T08:14:09.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ പ്രിയ ഗായകൻ എം ജി അണ്ണൻ ആലപിച്ച സൂപ്പർഹിറ്റ് മെലഡി ഗാനങ്ങൾ ! MG SREEKUMAR HITS]]></title>
         <id>https://www.youtube.com/watch?v=UHZ4GzwsTLU</id>
