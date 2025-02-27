@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T12:15:25.332Z</updated>
+    <updated>2025-02-27T13:17:42.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhanayennum | വിൽ‌സൺ പിറവത്തിന്റെ മാധുര്യ ഗീതം |   @JinoKunnumpurathu               #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kMq6XR2lvp4</id>
+        <link href="https://www.youtube.com/watch?v=kMq6XR2lvp4"/>
+        <updated>2025-02-27T13:01:09.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ബസ് യാത്രയിൽ കേൾക്കാനിഷ്ടമുള്ള ഗാനങ്ങൾ | Bus Ride Favorites - Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=HIrCU0pAfzo</id>
+        <link href="https://www.youtube.com/watch?v=HIrCU0pAfzo"/>
+        <updated>2025-02-27T12:44:17.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sarvavum Yeshunadhanayi | Prathyasha Geethangal | Christian Melody Songs Malayalam | Binoy Chacko]]></title>
+        <id>https://www.youtube.com/watch?v=UlAHazk-MZk</id>
+        <link href="https://www.youtube.com/watch?v=UlAHazk-MZk"/>
+        <updated>2025-02-27T12:30:28.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിന്റെ കൈപിടിയ്ക്കാം നമുക്ക്  |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=a7gn190Qth4</id>
+        <link href="https://www.youtube.com/watch?v=a7gn190Qth4"/>
+        <updated>2025-02-27T12:30:00.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shabdham (Telugu) - Making Video | Aadhi | Lakshmi Menon | Thaman.S | Arivazhagan  | 7G Siva]]></title>
         <id>https://www.youtube.com/watch?v=Ym4b_Tpw_4s</id>
