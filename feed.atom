@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T21:07:29.167Z</updated>
+    <updated>2025-02-28T22:07:39.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=r7sgLeiZeRE</id>
+        <link href="https://www.youtube.com/watch?v=r7sgLeiZeRE"/>
+        <updated>2025-02-28T22:00:40.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 1st of March # Athiravile Prarthana 1st March 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=5k5nIrGpalg</id>
@@ -12325,15 +12334,6 @@
         <updated>2025-01-30T10:17:43.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിത്യദാനം | Nithyadanam #bestmalayalamchristiandevotionalsongs #jesussongs #christianprayersongs]]></title>
-        <id>https://www.youtube.com/watch?v=keaIOaWsSmE</id>
-        <link href="https://www.youtube.com/watch?v=keaIOaWsSmE"/>
-        <updated>2025-01-30T09:10:04.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
