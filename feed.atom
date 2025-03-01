@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T09:08:04.805Z</updated>
+    <updated>2025-03-01T10:07:44.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pranaya Sowgandhikangal | Video Song | Kavya Madhavan, Vineeth | Chithra, Santhosh Keshav]]></title>
+        <id>https://www.youtube.com/watch?v=qIrgvIAK4xM</id>
+        <link href="https://www.youtube.com/watch?v=qIrgvIAK4xM"/>
+        <updated>2025-03-01T09:30:31.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Minnum Thingal Poovaadiyil | Sai Balan | Hareesh Mohanan | Sarath Raghavan]]></title>
+        <id>https://www.youtube.com/watch?v=LakCO9y6B4g</id>
+        <link href="https://www.youtube.com/watch?v=LakCO9y6B4g"/>
+        <updated>2025-03-01T08:56:12.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neelakasham Thilakakuri | 4K |Sagaram Sakshi | Mammootty | Sukanya | Sharreth | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=6ND3e8SNYA0</id>
@@ -12190,15 +12208,6 @@
         <updated>2025-01-30T22:30:06.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=cz-IUm0Xqlc</id>
-        <link href="https://www.youtube.com/watch?v=cz-IUm0Xqlc"/>
-        <updated>2025-01-30T22:00:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
