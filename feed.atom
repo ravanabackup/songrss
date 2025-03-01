@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T21:06:36.312Z</updated>
+    <updated>2025-03-01T22:06:44.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=JCzsiFDCVd4</id>
+        <link href="https://www.youtube.com/watch?v=JCzsiFDCVd4"/>
+        <updated>2025-03-01T22:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 2nd of March # Athiravile Prarthana 2nd March 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=wIyOMZjGC_4</id>
@@ -12370,15 +12379,6 @@
         <updated>2025-01-31T10:22:55.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnalle Muthalle Nee | Robin Hood | Jassie Gift | M Jayachandran | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=mq8ofBYZDYs</id>
-        <link href="https://www.youtube.com/watch?v=mq8ofBYZDYs"/>
-        <updated>2025-01-31T09:53:18.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
