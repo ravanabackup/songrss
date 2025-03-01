@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T16:08:20.531Z</updated>
+    <updated>2025-03-01T17:06:22.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1 March 2025]]></title>
+        <id>https://www.youtube.com/watch?v=x8JGHUUrikA</id>
+        <link href="https://www.youtube.com/watch?v=x8JGHUUrikA"/>
+        <updated>2025-03-01T16:45:22.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When words fail, music 🎶 speaks ❤️✨ #Vazhithunaiye #Dragon #LeonJames #PreityMukundhan]]></title>
         <id>https://www.youtube.com/watch?v=mRWh9jzJMoM</id>
@@ -12406,24 +12415,6 @@
         <updated>2025-01-31T05:08:28.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyum Paribhavam | Kaikkudanna Nilavu | Jayaram | Shalini | Kaithapram | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=gRY5ejSV2oA</id>
-        <link href="https://www.youtube.com/watch?v=gRY5ejSV2oA"/>
-        <updated>2025-01-31T04:30:20.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funky vibes all day, let's go! 🎧🎤#KForKabaradakkam #Prithviraj #Basil #AsalKolaar #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=bC-l0d5IT-Q</id>
-        <link href="https://www.youtube.com/watch?v=bC-l0d5IT-Q"/>
-        <updated>2025-01-31T04:30:16.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
