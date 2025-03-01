@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T12:13:36.104Z</updated>
+    <updated>2025-03-01T13:12:45.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MAZHAYILUM VEYILILUM | SUPER SONG MEGHNAKUTTY SUPER..❤  | @JinoKunnumpurathu @MeghnaSumesh #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=_4doF2V9d2A</id>
+        <link href="https://www.youtube.com/watch?v=_4doF2V9d2A"/>
+        <updated>2025-03-01T13:00:50.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sangarsha Ghadana - Trailer | Krishand | Vishnu Agasthaya | Rajesh Naroth | Krishand Films]]></title>
+        <id>https://www.youtube.com/watch?v=Xf1CNjpeIcQ</id>
+        <link href="https://www.youtube.com/watch?v=Xf1CNjpeIcQ"/>
+        <updated>2025-03-01T13:00:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puthen Yesrushalem | Prathyasha Geethangal | Binoy Chacko | Smitha | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=o-UV3lx1UBc</id>
+        <link href="https://www.youtube.com/watch?v=o-UV3lx1UBc"/>
+        <updated>2025-03-01T12:30:50.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഞാൻ ലോകത്തെ ജയിച്ചിരിക്കുന്നു |  😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=VhP-31OP-uk</id>
+        <link href="https://www.youtube.com/watch?v=VhP-31OP-uk"/>
+        <updated>2025-03-01T12:30:27.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sona Sona | Ben Johnson| Video Song| Deepak Dev |Kalabhavan Mani | Subha | Kaithapram | Anil C Menon]]></title>
         <id>https://www.youtube.com/watch?v=9Mc-pa49G1s</id>
@@ -12235,15 +12271,6 @@
         <updated>2025-01-31T01:45:02.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadyakurbanayayi | Holy Communion Song | Rithuraj | James Kalapurakkal | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=VZld2RfKR24</id>
-        <link href="https://www.youtube.com/watch?v=VZld2RfKR24"/>
-        <updated>2025-01-31T00:30:18.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
