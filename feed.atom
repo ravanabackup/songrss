@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T00:40:48.920Z</updated>
+    <updated>2025-03-04T02:14:54.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyan | Christian Shorts #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=PGLV0PLUOsc</id>
+        <link href="https://www.youtube.com/watch?v=PGLV0PLUOsc"/>
+        <updated>2025-03-04T02:00:21.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golgothayil Ninnum | Meghna Sumesh | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=2RLzwTayL5k</id>
+        <link href="https://www.youtube.com/watch?v=2RLzwTayL5k"/>
+        <updated>2025-03-04T02:00:04.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurishinte Vazhiye | Christian Melody Songs | Chithra Arun | Lent Songs | Valiya Nombu Songs]]></title>
         <id>https://www.youtube.com/watch?v=16dZDrjV8Fs</id>
@@ -12217,42 +12235,6 @@
         <updated>2025-02-02T14:30:32.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Kazchavepp Geethangal | Kester | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=WGpDnTNuJ1g</id>
-        <link href="https://www.youtube.com/watch?v=WGpDnTNuJ1g"/>
-        <updated>2025-02-02T13:30:18.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തകർച്ചയിലും അനേകർക്ക് ആശ്വാസമേകുന്ന ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansong | ZION CLASSICS]]></title>
-        <id>https://www.youtube.com/watch?v=Tnh-HnNf-5o</id>
-        <link href="https://www.youtube.com/watch?v=Tnh-HnNf-5o"/>
-        <updated>2025-02-02T13:30:17.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannu Kannilee | Samadhana Pusthakam | 4 Musics | Titto P Thankachen | Aman Sakha #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=VVmmffeUIa8</id>
-        <link href="https://www.youtube.com/watch?v=VVmmffeUIa8"/>
-        <updated>2025-02-02T13:30:13.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athmaavile | കാതിനു കുളിർമയേകുന്ന ഗാനം |    @JinoKunnumpurathu          #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=4baGvwbS_zo</id>
-        <link href="https://www.youtube.com/watch?v=4baGvwbS_zo"/>
-        <updated>2025-02-02T13:00:04.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
