@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T20:09:40.073Z</updated>
+    <updated>2025-03-05T21:07:53.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12235,15 +12235,6 @@
         <updated>2025-02-04T10:02:44.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pallotty Paattu - Audio Song | പല്ലൊട്ടി പാട്ട് | Pallotty 90's Kids | LJP | Manikandan Ayyappa]]></title>
-        <id>https://www.youtube.com/watch?v=ACy-wv1H8L8</id>
-        <link href="https://www.youtube.com/watch?v=ACy-wv1H8L8"/>
-        <updated>2025-02-04T08:30:02.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
