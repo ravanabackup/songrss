@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T10:09:09.703Z</updated>
+    <updated>2025-03-06T11:07:11.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swapnam Oru Chakk  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ZL0q-Jf5_dk</id>
+        <link href="https://www.youtube.com/watch?v=ZL0q-Jf5_dk"/>
+        <updated>2025-03-06T10:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neerpalunkukal Video Song | Godfather  | M. G. Sreekumar, Sujatha Mohan | Mukesh, Kanaka]]></title>
         <id>https://www.youtube.com/watch?v=F9sFEfqjTPg</id>
@@ -12127,15 +12136,6 @@
         <updated>2025-02-04T23:30:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഫെബ്രുവരി: 05, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=F5pU4SlxeLE</id>
-        <link href="https://www.youtube.com/watch?v=F5pU4SlxeLE"/>
-        <updated>2025-02-04T22:30:04.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
