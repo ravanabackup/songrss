@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T21:07:21.316Z</updated>
+    <updated>2025-03-07T22:06:10.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=iR9ZsfsyJ64</id>
+        <link href="https://www.youtube.com/watch?v=iR9ZsfsyJ64"/>
+        <updated>2025-03-07T22:00:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 8th of March # Athiravile Prarthana 8th March 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=adlOH147Z4Q</id>
@@ -12235,15 +12244,6 @@
         <updated>2025-02-06T10:23:29.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maikkunnu Njanenne | Randaam Yaamam | Lyrical Video | Gowri Lekshmi | Nemom Pushparaj| Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=dsRs4V4fj-k</id>
-        <link href="https://www.youtube.com/watch?v=dsRs4V4fj-k"/>
-        <updated>2025-02-06T09:35:25.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
