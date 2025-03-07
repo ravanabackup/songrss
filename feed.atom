@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T08:11:16.347Z</updated>
+    <updated>2025-03-07T09:08:57.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജീവിത വീഥിയിൽ തളർന്നു വീഴാതിരിക്കാൻ കേട്ടിരിക്കേണ്ട അനശ്വര ഗാനങ്ങൾ | Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Y2s3yycKjiU</id>
+        <link href="https://www.youtube.com/watch?v=Y2s3yycKjiU"/>
+        <updated>2025-03-07T09:00:18.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജോയ് ചെറുവത്തൂർ ആലപിച്ച ക്രിസ്തീയ ഗാനങ്ങൾ | Music Shack Christian Devotional Songs Live]]></title>
+        <id>https://www.youtube.com/watch?v=imp3ND3qGhw</id>
+        <link href="https://www.youtube.com/watch?v=imp3ND3qGhw"/>
+        <updated>2025-03-07T08:51:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളനാടിന്റെ ഗന്ധം പരത്തുന്ന മലയാളസിനിമയിലെ നാടൻ ചുവയുള്ള സിനിമാഗാനങ്ങൾ | SUPERHIT FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=dx2fYvlF4q8</id>
