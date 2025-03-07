@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T04:10:50.751Z</updated>
+    <updated>2025-03-07T05:09:09.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mozhiyazhakum Video Song | Kalippaattam | K J Yesudas | KS Chithra | Raveendran | Konniyoor Bhas]]></title>
+        <id>https://www.youtube.com/watch?v=GC71tqUuE1w</id>
+        <link href="https://www.youtube.com/watch?v=GC71tqUuE1w"/>
+        <updated>2025-03-07T05:05:53.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance, groove, repeat! 🎶💥#PachaParishkari #ThirumaLi #JayStellar #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=M81B1Im7lzs</id>
+        <link href="https://www.youtube.com/watch?v=M81B1Im7lzs"/>
+        <updated>2025-03-07T04:30:18.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaanamarayathu | Pradakshinam | Manoj K Jayan | Maathu | Raveendran | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=bVHXx6Z6UEQ</id>
+        <link href="https://www.youtube.com/watch?v=bVHXx6Z6UEQ"/>
+        <updated>2025-03-07T04:30:16.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paramaraja Guruvarane | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=snh9aQsguZo</id>
