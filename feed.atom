@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T17:02:49.689Z</updated>
+    <updated>2025-03-08T18:08:19.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 9th March 25]]></title>
+        <id>https://www.youtube.com/watch?v=CYtGOBTk1w0</id>
+        <link href="https://www.youtube.com/watch?v=CYtGOBTk1w0"/>
+        <updated>2025-03-08T18:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 March 2025]]></title>
+        <id>https://www.youtube.com/watch?v=EltDGGTXawc</id>
+        <link href="https://www.youtube.com/watch?v=EltDGGTXawc"/>
+        <updated>2025-03-08T17:25:14.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manasse Manasse - Audio Song  | Sooryan | Jayaram, Vimala Raman | Illayaraja]]></title>
         <id>https://www.youtube.com/watch?v=kNCI2ABTS9Q</id>
@@ -112,6 +130,15 @@
         <updated>2025-03-08T13:30:05.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aharon Anacha Dhoopam | അഹറോൻ അണച്ച ധൂപം പോൽ | Mar Thoma Church Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=3fn2icfoZdU</id>
+        <link href="https://www.youtube.com/watch?v=3fn2icfoZdU"/>
+        <updated>2025-03-08T13:17:12.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -12271,42 +12298,6 @@
         <updated>2025-02-07T06:13:57.000Z</updated>
         <author>
             <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallanum Bhagavathiyum | Full Movie | East Coast Vijayan | Vishnu Unnikrishnan, Anusree, Mokksha]]></title>
-        <id>https://www.youtube.com/watch?v=eFI-o_1dnlw</id>
-        <link href="https://www.youtube.com/watch?v=eFI-o_1dnlw"/>
-        <updated>2025-02-07T05:50:41.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naalumani Paattu - Audio Song | Pallotty 90's Kids | LJP | Manikandan Ayyappa | Hanan Shaah]]></title>
-        <id>https://www.youtube.com/watch?v=xcOek0YzFKk</id>
-        <link href="https://www.youtube.com/watch?v=xcOek0YzFKk"/>
-        <updated>2025-02-07T05:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manya Mahajanangale |Lyrical + Karaoke Video|Malarvaadi Arts Club| Vineeth Sreenivasan| Shaan Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=xisCvW79L8U</id>
-        <link href="https://www.youtube.com/watch?v=xisCvW79L8U"/>
-        <updated>2025-02-07T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Kaanumo | Video Song | Irattakuttikalude Achan | Jayaram | Manju Warrier]]></title>
-        <id>https://www.youtube.com/watch?v=pMT155oakks</id>
-        <link href="https://www.youtube.com/watch?v=pMT155oakks"/>
-        <updated>2025-02-07T05:10:10.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
