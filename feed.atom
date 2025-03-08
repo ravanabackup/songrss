@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T04:08:12.181Z</updated>
+    <updated>2025-03-08T05:06:39.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thumbapoo kattil thane Oonjaladi | Nishttam Enishttam | Mohanlal | P Payachandram | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=JaU5FGcGmHk</id>
+        <link href="https://www.youtube.com/watch?v=JaU5FGcGmHk"/>
+        <updated>2025-03-08T05:03:19.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel the funky rhythm! 🎵🎤 #PachaParishkari #ThirumaLi #JayStellar #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=vZtuiDDcJAE</id>
+        <link href="https://www.youtube.com/watch?v=vZtuiDDcJAE"/>
+        <updated>2025-03-08T04:30:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുരിശും കുഞ്ഞാടും --ജപ(ജന്യ)രാഗമണിമാല Ft. John Britto Augustin]]></title>
         <id>https://www.youtube.com/watch?v=D3tvE41Pprw</id>
