@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T06:09:26.535Z</updated>
+    <updated>2025-03-08T07:04:20.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -380,6 +380,15 @@
         <id>https://www.youtube.com/watch?v=LC3FvR-Nd-8</id>
         <link href="https://www.youtube.com/watch?v=LC3FvR-Nd-8"/>
         <updated>2025-03-07T10:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uskoolile | Aap Kaise Ho | Varkey |Dhyan Sreenivasan |Aju Varghese | Vinay Jose | Manuel Cruz Darwin]]></title>
+        <id>https://www.youtube.com/watch?v=qekiAp6elHM</id>
+        <link href="https://www.youtube.com/watch?v=qekiAp6elHM"/>
+        <updated>2025-03-07T10:27:44.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -12107,15 +12116,6 @@
         <id>https://www.youtube.com/watch?v=Jt28x5GOADk</id>
         <link href="https://www.youtube.com/watch?v=Jt28x5GOADk"/>
         <updated>2025-02-06T22:00:20.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 7th of February # Athiravile Prarthana 7th February 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Q9NqjtLDWSk</id>
-        <link href="https://www.youtube.com/watch?v=Q9NqjtLDWSk"/>
-        <updated>2025-02-06T19:00:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
