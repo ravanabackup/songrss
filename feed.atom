@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T13:18:35.665Z</updated>
+    <updated>2025-03-11T14:08:56.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക് അത്രമേൽ ഇഷ്ടം തോന്നിയ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=x8l06mmJ0c8</id>
+        <link href="https://www.youtube.com/watch?v=x8l06mmJ0c8"/>
+        <updated>2025-03-11T13:30:40.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 നോമ്പിൽ മനസ്സുരുകി പ്രാർത്ഥിക്കാം ഈ ഗാനങ്ങൾക്കൊപ്പം | @JinoKunnumpurathu#christiansongs | #lent]]></title>
+        <id>https://www.youtube.com/watch?v=TKyTWaZFS7Q</id>
+        <link href="https://www.youtube.com/watch?v=TKyTWaZFS7Q"/>
+        <updated>2025-03-11T13:30:15.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Normal It's Beautiful | New Normal | Monisha Mohan Menon | Anagha | Swiya]]></title>
+        <id>https://www.youtube.com/watch?v=MGXH1UmGttQ</id>
+        <link href="https://www.youtube.com/watch?v=MGXH1UmGttQ"/>
+        <updated>2025-03-11T13:30:13.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Kester | Valiya Nomb Songs | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=ansvHGnxB0Y</id>
+        <link href="https://www.youtube.com/watch?v=ansvHGnxB0Y"/>
+        <updated>2025-03-11T13:30:01.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vikaara Naukayumayi Video Song | Amaram | Mammootty | KJ Yesudas | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=U7bdBtrGa9w</id>
@@ -12280,15 +12316,6 @@
         <updated>2025-02-10T03:40:27.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olanjaali Kuruvi | 1983 | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=7k38j3NDV6I</id>
-        <link href="https://www.youtube.com/watch?v=7k38j3NDV6I"/>
-        <updated>2025-02-10T02:00:10.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
