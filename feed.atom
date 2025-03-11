@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T14:08:56.113Z</updated>
+    <updated>2025-03-11T15:09:19.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Seeyone Mashihaye  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/watch?v=2scJeNjF6Gc</id>
+        <link href="https://www.youtube.com/watch?v=2scJeNjF6Gc"/>
+        <updated>2025-03-11T15:00:04.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennamme Onnu Kaanan Song | KJ Yesudas | Jishnu | Siddharth | Suhasini | Renuka | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=wyDDWY0yAZk</id>
+        <link href="https://www.youtube.com/watch?v=wyDDWY0yAZk"/>
+        <updated>2025-03-11T14:30:35.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velliyatham  Naal  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/watch?v=x1recJIdkRA</id>
+        <link href="https://www.youtube.com/watch?v=x1recJIdkRA"/>
+        <updated>2025-03-11T14:30:24.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾക്ക് അത്രമേൽ ഇഷ്ടം തോന്നിയ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=x8l06mmJ0c8</id>
