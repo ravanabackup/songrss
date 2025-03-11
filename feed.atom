@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T15:09:19.150Z</updated>
+    <updated>2025-03-11T16:10:46.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12334,15 +12334,6 @@
         <updated>2025-02-10T04:30:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viswahridaya | Christian Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lD_0rnk_Jx4</id>
-        <link href="https://www.youtube.com/watch?v=lD_0rnk_Jx4"/>
-        <updated>2025-02-10T03:40:27.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
