@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T08:12:09.068Z</updated>
+    <updated>2025-03-12T09:09:22.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[യേശുവെ ക്രൂശിത #christianworshipsongs #christianmusic #christiandevotionalsongs #jesusshorts]]></title>
+        <id>https://www.youtube.com/watch?v=3wbEcTae8So</id>
+        <link href="https://www.youtube.com/watch?v=3wbEcTae8So"/>
+        <updated>2025-03-12T08:42:55.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aakasha Thamara Pole | 4K | Ayal Kadha Ezhthukayanu | Mohanlal | Jagadish | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=G-AsyfDDGuE</id>
+        <link href="https://www.youtube.com/watch?v=G-AsyfDDGuE"/>
+        <updated>2025-03-12T08:15:59.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[യേശുവെ ക്രൂശിത | ക്രൂശിത നാഥന്റെ മനസ്സിൽ തട്ടുന്ന ഗാനങ്ങൾ | Malayalam Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=f36HXZErv8E</id>
