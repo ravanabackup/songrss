@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T20:09:17.944Z</updated>
+    <updated>2025-03-12T21:07:42.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12217,15 +12217,6 @@
         <updated>2025-02-11T09:11:15.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amala Manohari | Elizabeth Raju | Lovely Jiji | Marian Songs | Ave Maria Songs]]></title>
-        <id>https://www.youtube.com/watch?v=yN9xFF4B8nQ</id>
-        <link href="https://www.youtube.com/watch?v=yN9xFF4B8nQ"/>
-        <updated>2025-02-11T08:41:30.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
