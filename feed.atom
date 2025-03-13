@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T22:07:24.327Z</updated>
+    <updated>2025-03-13T23:08:10.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാർച്ച്: 14, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=7eqxHx_sDQU</id>
+        <link href="https://www.youtube.com/watch?v=7eqxHx_sDQU"/>
+        <updated>2025-03-13T22:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=BW6rpOae1o0</id>
@@ -12073,42 +12082,6 @@
         <updated>2025-02-12T11:25:00.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Last Ride - Smoking Guns of Bitterland | Safdar Sakeer | M.S. Yadhukrishna | Bramah]]></title>
-        <id>https://www.youtube.com/watch?v=IbTLa-08aZw</id>
-        <link href="https://www.youtube.com/watch?v=IbTLa-08aZw"/>
-        <updated>2025-02-12T10:30:07.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ishtam Ishtam | Amrutham #kschithra #mjayachandran #jayaram #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=22mSGoYAXvY</id>
-        <link href="https://www.youtube.com/watch?v=22mSGoYAXvY"/>
-        <updated>2025-02-12T10:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athyahithamathyasanam  Three Day Lent Song | Moonu Nombu Song|]]></title>
-        <id>https://www.youtube.com/watch?v=PrrZF43HPbE</id>
-        <link href="https://www.youtube.com/watch?v=PrrZF43HPbE"/>
-        <updated>2025-02-12T10:29:54.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സഹനങ്ങൾ അനുഗ്രഹമായി വരും #christianworshipsongs #evergreenchristiandevotionalsongs #jesusshorts]]></title>
-        <id>https://www.youtube.com/watch?v=25SW-nghEc0</id>
-        <link href="https://www.youtube.com/watch?v=25SW-nghEc0"/>
-        <updated>2025-02-12T10:11:34.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
