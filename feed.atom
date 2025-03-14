@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T16:09:52.557Z</updated>
+    <updated>2025-03-14T17:07:21.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vazhithunaiye 🫶 #leonjames #dragon #shilpamanjunath]]></title>
+        <id>https://www.youtube.com/watch?v=x79d9hPJ0GM</id>
+        <link href="https://www.youtube.com/watch?v=x79d9hPJ0GM"/>
+        <updated>2025-03-14T16:54:40.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazthuka Nee Maname | വാഴ്ത്തുക നീ |Christian Devotional Song Malayalam| Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=-Qwjs5Q_hW0</id>
@@ -12046,51 +12055,6 @@
         <updated>2025-02-13T05:30:44.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Masam | Alice in Wonderland | Jyotsna | Karthik | Vidyasagar | Gireesh Puthenchery Hits]]></title>
-        <id>https://www.youtube.com/watch?v=hubRDm2PXi4</id>
-        <link href="https://www.youtube.com/watch?v=hubRDm2PXi4"/>
-        <updated>2025-02-13T05:05:27.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #matchpointcreations #maramonconvention #maramon]]></title>
-        <id>https://www.youtube.com/watch?v=e5WGlYbcymo</id>
-        <link href="https://www.youtube.com/watch?v=e5WGlYbcymo"/>
-        <updated>2025-02-13T04:51:20.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eravithilai - Audio Song | Kadha Innuvare | Arvind Venugopal | Vinayak Sasikumar | Ashwin Aryan]]></title>
-        <id>https://www.youtube.com/watch?v=_eUPRhBH6uU</id>
-        <link href="https://www.youtube.com/watch?v=_eUPRhBH6uU"/>
-        <updated>2025-02-13T04:30:23.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which is your fav?? 💗🔥 #AnaswaraRajan #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=1UzwZJkgPvg</id>
-        <link href="https://www.youtube.com/watch?v=1UzwZJkgPvg"/>
-        <updated>2025-02-13T04:30:00.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#bromance Local Genz Anthem 🔥 #govindvasantha #mathewthomas]]></title>
-        <id>https://www.youtube.com/watch?v=TJBQtJ4RFo8</id>
-        <link href="https://www.youtube.com/watch?v=TJBQtJ4RFo8"/>
-        <updated>2025-02-13T04:22:23.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
