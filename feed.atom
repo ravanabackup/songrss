@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T10:08:45.191Z</updated>
+    <updated>2025-03-14T11:07:07.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Premamadhu Thedum Video Song | Kunchacko Boban | KJ Yesudas | Mohan Sithara | Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=s43L15Mjtxk</id>
+        <link href="https://www.youtube.com/watch?v=s43L15Mjtxk"/>
+        <updated>2025-03-14T11:03:24.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roja Neeyen Roja | Youth Festival #mjayachandran #shortsfeed #shortsvideo #reels #malayalamfilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=lC4nebT58ck</id>
+        <link href="https://www.youtube.com/watch?v=lC4nebT58ck"/>
+        <updated>2025-03-14T10:30:31.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hits of Sushin Shyam - Jukebox | Aadharanjali | Thalatherichavar | Pakaliravukal | Athmave Po]]></title>
+        <id>https://www.youtube.com/watch?v=ANuUIsYObus</id>
+        <link href="https://www.youtube.com/watch?v=ANuUIsYObus"/>
+        <updated>2025-03-14T10:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweetheart - Jukebox | Rio Raj | Gopika Ramesh | Yuvan Shankar Raja | Swineeth S.Sukumar]]></title>
+        <id>https://www.youtube.com/watch?v=naLJAyl_Z18</id>
+        <link href="https://www.youtube.com/watch?v=naLJAyl_Z18"/>
+        <updated>2025-03-14T10:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papathin Maa Vishathe | Dr. Akhila Alexander | E I Jacob | Malayalam Christian Songs | Lent Songs]]></title>
+        <id>https://www.youtube.com/watch?v=n4mjH5MjAgI</id>
+        <link href="https://www.youtube.com/watch?v=n4mjH5MjAgI"/>
+        <updated>2025-03-14T10:00:20.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാൽവരി മലയിരുളുന്നു #lentenseason2025 #christianworshipsongs #jesusshorts #christiansongmalayalam]]></title>
         <id>https://www.youtube.com/watch?v=QObgfyCfnas</id>
@@ -11929,15 +11974,6 @@
         <updated>2025-02-12T23:30:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഫെബ്രുവരി: 13, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=k8u15xtg81I</id>
-        <link href="https://www.youtube.com/watch?v=k8u15xtg81I"/>
-        <updated>2025-02-12T22:30:06.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
