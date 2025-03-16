@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T03:23:37.331Z</updated>
+    <updated>2025-03-16T04:09:56.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11722,15 +11722,6 @@
         <updated>2025-02-14T16:30:28.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rasanilavinu Tharunyam Song | Patheyam Movie Song | Mammootty | K J Yesudas | Bombay Ravi]]></title>
-        <id>https://www.youtube.com/watch?v=f1uXk180Q1Q</id>
-        <link href="https://www.youtube.com/watch?v=f1uXk180Q1Q"/>
-        <updated>2025-02-14T15:36:13.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
         </author>
     </entry>
 </feed>
