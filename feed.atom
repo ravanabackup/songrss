@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T18:10:51.269Z</updated>
+    <updated>2025-03-16T19:05:16.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11830,15 +11830,6 @@
         <updated>2025-02-15T07:30:34.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athmasaho Official Trailer | Gopukiran Sadasivan | Ashin Kiran | Ronnie Raphael]]></title>
-        <id>https://www.youtube.com/watch?v=DBvhzfdlO_k</id>
-        <link href="https://www.youtube.com/watch?v=DBvhzfdlO_k"/>
-        <updated>2025-02-15T06:36:40.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
 </feed>
