@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T21:06:50.028Z</updated>
+    <updated>2025-03-16T22:07:16.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=7rRPrtJBCKg</id>
+        <link href="https://www.youtube.com/watch?v=7rRPrtJBCKg"/>
+        <updated>2025-03-16T22:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 17th of March # Athiravile Prarthana 17th March 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=XQ55J85FiHA</id>
@@ -11785,33 +11794,6 @@
         <updated>2025-02-15T11:28:27.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിന്നെ മാത്രം മിഴി കണ്ടുനിന്നു  #romantic #superhitmalayalmsongs Dhooram]]></title>
-        <id>https://www.youtube.com/watch?v=JsB8NcJok7g</id>
-        <link href="https://www.youtube.com/watch?v=JsB8NcJok7g"/>
-        <updated>2025-02-15T09:51:31.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhura Swapnangal | Best Malayalam Song | K.J. Yesudas, Sujatha Mohan | Shobana, Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=YeJibwmCywA</id>
-        <link href="https://www.youtube.com/watch?v=YeJibwmCywA"/>
-        <updated>2025-02-15T09:30:14.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കെസ്റ്റർ പാടിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Evergreen Hits of Kester | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dvt5NCRMTy4</id>
-        <link href="https://www.youtube.com/watch?v=dvt5NCRMTy4"/>
-        <updated>2025-02-15T09:27:20.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
