@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T00:42:57.240Z</updated>
+    <updated>2025-03-17T02:18:46.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paramaraja Guruvarane | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VLTppLuMxWE</id>
+        <link href="https://www.youtube.com/watch?v=VLTppLuMxWE"/>
+        <updated>2025-03-17T02:00:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 17th of March 2025 Mathavinte Japamala # Santhoshathinte Rahasyangal 17th of March 25]]></title>
         <id>https://www.youtube.com/watch?v=7gS7oxW1dZM</id>
@@ -11659,87 +11668,6 @@
         <updated>2025-02-15T14:23:44.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balaheenathayil Balameki  |Maramon Convention Song | Maramon Song|]]></title>
-        <id>https://www.youtube.com/watch?v=LCag1zeqD5o</id>
-        <link href="https://www.youtube.com/watch?v=LCag1zeqD5o"/>
-        <updated>2025-02-15T14:00:31.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olakkuda Choodunnoru 4K Video Song | Manikyakallu | Prithviraj | Madhu Balakrishnan | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=pVOsq0D6RnM</id>
-        <link href="https://www.youtube.com/watch?v=pVOsq0D6RnM"/>
-        <updated>2025-02-15T13:30:29.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmaniye nin chiriyil | Mimics Super 1000 (1996) | Kaithapram | SP Venkitesh | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=Sl17BOTcBwc</id>
-        <link href="https://www.youtube.com/watch?v=Sl17BOTcBwc"/>
-        <updated>2025-02-15T13:30:16.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neela Shalabham | Sithara Krishnakumar | Manu Manjith | Biju Unity | Sriram Karthick | Aavani]]></title>
-        <id>https://www.youtube.com/watch?v=KZQ2-jzzkDw</id>
-        <link href="https://www.youtube.com/watch?v=KZQ2-jzzkDw"/>
-        <updated>2025-02-15T13:30:12.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthothram Yeshuve  | സ്തോത്രമേശുവേ | Maramon Convention Song | Maramon Song|]]></title>
-        <id>https://www.youtube.com/watch?v=AXTnPec1lsg</id>
-        <link href="https://www.youtube.com/watch?v=AXTnPec1lsg"/>
-        <updated>2025-02-15T13:30:09.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Readya Maaran X Thalatherichavar - Video Mashup | Jakes Bejoy, Sushin Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=FrT2lnlUjUA</id>
-        <link href="https://www.youtube.com/watch?v=FrT2lnlUjUA"/>
-        <updated>2025-02-15T13:30:08.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേട്ടതിൽ വെച്ച് ഏറ്റവും പ്രിയപ്പെട്ട ഗാനങ്ങൾ | Christian Superhit Songs | MG Sreekumar | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=A2NirvQdY-k</id>
-        <link href="https://www.youtube.com/watch?v=A2NirvQdY-k"/>
-        <updated>2025-02-15T13:30:05.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവമക്കളുടെ ഹൃദയ താളമായി മാറിയ ക്രിസ്തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=-DCaW83zEHs</id>
-        <link href="https://www.youtube.com/watch?v=-DCaW83zEHs"/>
-        <updated>2025-02-15T13:30:00.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame nin | ദൈവസ്നേഹം നിറയുന്ന ഗാനം |     @JinoKunnumpurathu                         #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=McQaHx7P0oQ</id>
-        <link href="https://www.youtube.com/watch?v=McQaHx7P0oQ"/>
-        <updated>2025-02-15T13:00:36.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
