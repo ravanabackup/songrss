@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T13:18:57.652Z</updated>
+    <updated>2025-03-18T14:08:38.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amme En Amme | Ave Maria | Mother Mary song | Marian Song | Sreya Anna Joseph | Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=j3pxbD887Jc</id>
+        <link href="https://www.youtube.com/watch?v=j3pxbD887Jc"/>
+        <updated>2025-03-18T14:00:54.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി.യൗസേപ്പിതാവിന്റെ തിരുനാൾ ഗാനങ്ങൾ 2025 | St.Joseph Feast Day Songs | #evergreen | #stjoseph]]></title>
+        <id>https://www.youtube.com/watch?v=LTuH0VGTWHI</id>
+        <link href="https://www.youtube.com/watch?v=LTuH0VGTWHI"/>
+        <updated>2025-03-18T13:30:27.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾ ഏറെ സ്നേഹിച്ച ഭാവ ഗായകൻ ജയചന്ദ്രൻ ആലപിച്ച ഈസ്റ്റര് ഗാനങ്ങൾ | Hits of jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=fD5cXYNy_ZA</id>
+        <link href="https://www.youtube.com/watch?v=fD5cXYNy_ZA"/>
+        <updated>2025-03-18T13:30:25.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആരോ ആരോ ആരാരോ  Poovinu Puthiya Poothennal #mammootty #evergreenclassics]]></title>
+        <id>https://www.youtube.com/watch?v=WY7aL0pp8LY</id>
+        <link href="https://www.youtube.com/watch?v=WY7aL0pp8LY"/>
+        <updated>2025-03-18T13:30:19.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam Skeepamel  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal | My Lord]]></title>
+        <id>https://www.youtube.com/watch?v=NAlGAVvCMW0</id>
+        <link href="https://www.youtube.com/watch?v=NAlGAVvCMW0"/>
+        <updated>2025-03-18T13:30:14.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 നോമ്പ് ദിനങ്ങളിൽ അത്ഭുതങ്ങൾ നടക്കാൻ ഈ ഗാനങ്ങൾകേൾക്കൂ| @JinoKunnumpurathu #christiansongs #lent]]></title>
+        <id>https://www.youtube.com/watch?v=DdsPMuFV_5o</id>
+        <link href="https://www.youtube.com/watch?v=DdsPMuFV_5o"/>
+        <updated>2025-03-18T13:30:09.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readya Maaran - Psychedelic Folk Mix | The Independeners | Hello Mummy | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=8qJxfI2_uhk</id>
+        <link href="https://www.youtube.com/watch?v=8qJxfI2_uhk"/>
+        <updated>2025-03-18T13:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുരിശിന്റെവഴി | മൂന്നാം സ്ഥലം | @JinoKunnumpurathu  #shorts | #lent | #jesus | #kurishintevazhi]]></title>
         <id>https://www.youtube.com/watch?v=ImigHIxnGnA</id>
@@ -11821,15 +11884,6 @@
         <updated>2025-02-17T04:27:13.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malpriyane | Shors]]></title>
-        <id>https://www.youtube.com/watch?v=ixhTVr0Lfzo</id>
-        <link href="https://www.youtube.com/watch?v=ixhTVr0Lfzo"/>
-        <updated>2025-02-17T02:00:33.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
