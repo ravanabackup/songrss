@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T07:09:12.541Z</updated>
+    <updated>2025-03-18T08:11:54.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kattile Mainaye | HD Video| Akashadoothu | Murali | Madhavi | ONV Kurupp | Ouseppachan | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=9yQUCNeSpyE</id>
+        <link href="https://www.youtube.com/watch?v=9yQUCNeSpyE"/>
+        <updated>2025-03-18T08:11:17.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടാകെ ഹരം കൊള്ളിച്ച മലയാളസിനിമയിലെ അടിപൊളി ഗാനങ്ങൾ | ADIPOLI SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=vkD_lDABKfs</id>
+        <link href="https://www.youtube.com/watch?v=vkD_lDABKfs"/>
+        <updated>2025-03-18T07:30:19.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിനെ പുളകമണിയിക്കുന്ന മലയാളസിനിമയിലെ മധുരം തുളുമ്പും ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=OX4SvjgqRDA</id>
+        <link href="https://www.youtube.com/watch?v=OX4SvjgqRDA"/>
+        <updated>2025-03-18T07:30:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abhilasham Movie Trailer Launch | Saiju Kurup | Arjun Ashokan | Thanvi Ram| Shamzu Zayba #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Kv1Cx6jIp_w</id>
