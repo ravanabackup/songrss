@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T02:18:04.255Z</updated>
+    <updated>2025-03-18T03:22:23.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11695,33 +11695,6 @@
         <updated>2025-02-16T17:20:49.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaishakha Sandhye Video Song|Nadodikattu|Mohanlal|Shobhana|#nadodikkattu #shobhana #mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=8PvdBPDA8zs</id>
-        <link href="https://www.youtube.com/watch?v=8PvdBPDA8zs"/>
-        <updated>2025-02-16T15:13:30.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sankupushpam | Shakunthala | Prem Nazir, Vijaya K R |  K.J. Yesudas | G. Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=t2lti1sYIXU</id>
-        <link href="https://www.youtube.com/watch?v=t2lti1sYIXU"/>
-        <updated>2025-02-16T14:30:25.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Priye | Kunchacko Boban | Shalini | KJ Yesudas | Ouseppachan | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=n2wrH4LzKv8</id>
-        <link href="https://www.youtube.com/watch?v=n2wrH4LzKv8"/>
-        <updated>2025-02-16T14:30:22.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
