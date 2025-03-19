@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T06:12:51.104Z</updated>
+    <updated>2025-03-19T07:08:46.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Krooshitha Dharshanangal Day 17]]></title>
+        <id>https://www.youtube.com/watch?v=DiQ4_5rXm28</id>
+        <link href="https://www.youtube.com/watch?v=DiQ4_5rXm28"/>
+        <updated>2025-03-19T06:06:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hamsadwani Video Song | Varnakkazhchakal | Dileep | KJ Yesudas | KS Chithra | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=j6jtT9VW1MY</id>
@@ -11801,15 +11810,6 @@
         <id>https://www.youtube.com/watch?v=QwSnTVLme3g</id>
         <link href="https://www.youtube.com/watch?v=QwSnTVLme3g"/>
         <updated>2025-02-17T22:00:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 18th of February # Athiravile Prarthana 18th February 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Z3e-xgmEXqo</id>
-        <link href="https://www.youtube.com/watch?v=Z3e-xgmEXqo"/>
-        <updated>2025-02-17T19:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
