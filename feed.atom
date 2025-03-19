@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T12:15:39.788Z</updated>
+    <updated>2025-03-19T13:18:55.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuyile Nin Kurum Kuzhal HD | Ambili Devi | Prithviraj | KJ Yesudas | Sujatha Mohan | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=QfzPSapG6aA</id>
+        <link href="https://www.youtube.com/watch?v=QfzPSapG6aA"/>
+        <updated>2025-03-19T12:45:28.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അവൻ ഒറ്റക്കായിരുന്നു  | 😇 | Rev. Aneesh P Joseph |#shorts #motivation #lent]]></title>
+        <id>https://www.youtube.com/watch?v=E1lUpOZZrn8</id>
+        <link href="https://www.youtube.com/watch?v=E1lUpOZZrn8"/>
+        <updated>2025-03-19T12:30:21.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oruthi - Video Song | Sweetheart | Rio Raj | Gopika Ramesh | Yuvan Shankar Raja | Swineeth S.Sukumar]]></title>
+        <id>https://www.youtube.com/watch?v=qWExCaSBUo0</id>
+        <link href="https://www.youtube.com/watch?v=qWExCaSBUo0"/>
+        <updated>2025-03-19T12:30:18.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Oru Thapaswini Video Song | Kaaliya Mardhanam | Malayalam Songs | Mohanlal #music #songs #mallu]]></title>
+        <id>https://www.youtube.com/watch?v=Js0pBKCilDc</id>
+        <link href="https://www.youtube.com/watch?v=Js0pBKCilDc"/>
+        <updated>2025-03-19T12:30:17.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തകർന്നവരെ വീണ്ടെടുക്കാൻ ചേർത്ത് നിർത്തുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | Binoy Chacko]]></title>
+        <id>https://www.youtube.com/watch?v=afj9r7P6yHo</id>
+        <link href="https://www.youtube.com/watch?v=afj9r7P6yHo"/>
+        <updated>2025-03-19T12:30:04.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anugraham Choriyum | Vedalakshmi | Joffi Tharakan | Joy Payyappilly | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=3zzVyTu1b-M</id>
+        <link href="https://www.youtube.com/watch?v=3zzVyTu1b-M"/>
+        <updated>2025-03-19T12:14:01.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abhilasham Movie Trailer Launch | Saiju Kurup | Arjun Ashokan | Thanvi Ram| Shamzu Zayba #shorts]]></title>
         <id>https://www.youtube.com/watch?v=OZeZiNI0wb8</id>
@@ -11902,15 +11956,6 @@
         <updated>2025-02-18T02:00:14.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Osthiyayen | Midhila Michael | Holy COmmunion Songs | Joji Johns | Josepth Mathew Padinjarethara]]></title>
-        <id>https://www.youtube.com/watch?v=GSecv4gU7ls</id>
-        <link href="https://www.youtube.com/watch?v=GSecv4gU7ls"/>
-        <updated>2025-02-18T00:30:09.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
