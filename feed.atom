@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T14:08:43.890Z</updated>
+    <updated>2025-03-20T15:09:35.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veera Dheera Sooran - Audio & Trailer Launch |Chiyaan Vikram |S.U.Arun Kumar | GV Prakash|Riya Shibu]]></title>
+        <id>https://www.youtube.com/watch?v=p_pf3LA7Pi8</id>
+        <link href="https://www.youtube.com/watch?v=p_pf3LA7Pi8"/>
+        <updated>2025-03-20T15:04:59.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varuvin Priyare  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
+        <id>https://www.youtube.com/watch?v=D2B-TYmKUXg</id>
+        <link href="https://www.youtube.com/watch?v=D2B-TYmKUXg"/>
+        <updated>2025-03-20T14:30:06.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karutha Penne  | Gireesh Puthenchery | Berny Ignatius | KS Chithra | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=8S-67X8Wzc8</id>
+        <link href="https://www.youtube.com/watch?v=8S-67X8Wzc8"/>
+        <updated>2025-03-20T14:30:05.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orthodox Church Qurbana Song #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSong]]></title>
         <id>https://www.youtube.com/watch?v=5puAKhvdgNY</id>
