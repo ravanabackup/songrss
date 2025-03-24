@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T07:09:24.131Z</updated>
+    <updated>2025-03-24T08:12:54.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക് പ്രിയമുള്ള സിനിമാഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM @NisariChithrageetham]]></title>
+        <id>https://www.youtube.com/watch?v=ZUpGAMzlFnA</id>
+        <link href="https://www.youtube.com/watch?v=ZUpGAMzlFnA"/>
+        <updated>2025-03-24T07:46:47.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maanathe Chandiranothoru | മാനത്തെ ചന്ദിരനൊത്തൊരു | Mohanlal, Sreenivasan | Chandralekha | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=fTAL9WtDNfk</id>
+        <link href="https://www.youtube.com/watch?v=fTAL9WtDNfk"/>
+        <updated>2025-03-24T07:40:47.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Vadakkan Pranaya Parvam Trailer | Sooraj sun | Vineeth vishwam |Shabareesh Varma |Dayyana Hameed]]></title>
         <id>https://www.youtube.com/watch?v=j0zUR1x_xjE</id>
