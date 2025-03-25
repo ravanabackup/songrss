@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T19:06:55.445Z</updated>
+    <updated>2025-03-25T20:09:27.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12013,6 +12013,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Orupadu Sneham Music Video |Veendumm |East Coast Vijayan |Ranjin Raj |Vijay Yesudas |Trimmed Version]]></title>
+        <id>https://www.youtube.com/watch?v=mgWr5O18X_s</id>
+        <link href="https://www.youtube.com/watch?v=mgWr5O18X_s"/>
+        <updated>2025-02-24T12:30:07.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kadhavai Thirandhaye | Sweetheart | Rio Raj | Gopika | Yuvan Shankar Raja | Swineeth S.Sukumar]]></title>
         <id>https://www.youtube.com/watch?v=0_k7plaaW0Y</id>
         <link href="https://www.youtube.com/watch?v=0_k7plaaW0Y"/>
@@ -12100,15 +12109,6 @@
         <updated>2025-02-24T08:23:50.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൂട്ടുകാരുമൊത്തുള്ള നല്ല ഓർമകളേകും  മലയാള സിനിമയിലെ തെരെഞ്ഞെടുത്ത സൗഹൃദ ഗാനങ്ങൾ | Frienship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2kVqyhhvli0</id>
-        <link href="https://www.youtube.com/watch?v=2kVqyhhvli0"/>
-        <updated>2025-02-24T07:30:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
