@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T12:16:03.317Z</updated>
+    <updated>2025-03-25T13:19:45.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunnil Mele Video Song | Agninakshathram | Indraja | Biju menon | Radhika Thilak | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=ixirPZBUf3g</id>
+        <link href="https://www.youtube.com/watch?v=ixirPZBUf3g"/>
+        <updated>2025-03-25T13:03:53.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurishinte Nizhalil | ഉരുകുന്ന മനസ്സിന് ആശ്വാസമാകും ഗാനം | Jesna Maria@JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=eQcmtmnjGP0</id>
+        <link href="https://www.youtube.com/watch?v=eQcmtmnjGP0"/>
+        <updated>2025-03-25T13:01:02.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poonkatte Poyi Chollamo HD Video Song | Shyama | KS Chithra | Unni Menon | Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=koBUrrVUang</id>
+        <link href="https://www.youtube.com/watch?v=koBUrrVUang"/>
+        <updated>2025-03-25T12:56:28.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaneeduka Nin | Prathyasha Geethangal | Binoy Chacko | Christian Worship Songs | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yyPTrW6wOlI</id>
+        <link href="https://www.youtube.com/watch?v=yyPTrW6wOlI"/>
+        <updated>2025-03-25T12:31:02.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandrappalunku Manimaala Video Song | Kanyakumari | Old Malayalam Songs | KJ Yesudas | S Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=so1uwkgRErk</id>
+        <link href="https://www.youtube.com/watch?v=so1uwkgRErk"/>
+        <updated>2025-03-25T12:30:55.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നോമ്പ് ക്രൂശിതനോടൊപ്പമുള്ള യാത്രയാണ്   | 😇 | Rev. Aneesh P Joseph |#shorts #motivation #lent]]></title>
+        <id>https://www.youtube.com/watch?v=0QDwT8WC164</id>
+        <link href="https://www.youtube.com/watch?v=0QDwT8WC164"/>
+        <updated>2025-03-25T12:30:01.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manathu Ninnu | Sreedev Pradeep | Joffi Tharakan | Joy Payyappilly | Latest Malayalam Christian Song]]></title>
         <id>https://www.youtube.com/watch?v=Xh5zmrea_3w</id>
