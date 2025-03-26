@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T09:09:41.005Z</updated>
+    <updated>2025-03-26T10:09:39.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൂരെ മാമരകൊമ്പില്‍ song | varnapakittu Movie | Mohanalal, Meena]]></title>
+        <id>https://www.youtube.com/watch?v=gv8yReJpURk</id>
+        <link href="https://www.youtube.com/watch?v=gv8yReJpURk"/>
+        <updated>2025-03-26T09:30:29.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viral Thumbil | Masmaram | Malayalam Evergreen Film Song | K.S.Chithra | Suresh Gopi | Arpana Rao |]]></title>
         <id>https://www.youtube.com/watch?v=x_19J2goTuk</id>
@@ -11956,15 +11965,6 @@
         <updated>2025-02-24T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=KaJ62S6v16U</id>
-        <link href="https://www.youtube.com/watch?v=KaJ62S6v16U"/>
-        <updated>2025-02-24T22:00:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
