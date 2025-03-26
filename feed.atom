@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T12:15:51.307Z</updated>
+    <updated>2025-03-26T13:19:38.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kilivathililoode | പ്രത്യാശയുടെ അതിമനോഹര ഗാനം | Grace Maria Jose | @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=TtWAVUSpVNY</id>
+        <link href="https://www.youtube.com/watch?v=TtWAVUSpVNY"/>
+        <updated>2025-03-26T13:00:49.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൈവിടാത്ത സ്നേഹം |  😇  | Rev. Aneesh P Joseph |#shorts #motivation #lent]]></title>
+        <id>https://www.youtube.com/watch?v=FQZzagl_rww</id>
+        <link href="https://www.youtube.com/watch?v=FQZzagl_rww"/>
+        <updated>2025-03-26T12:30:20.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഓരോ ദിവസവും പ്രതീക്ഷ നൽകുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | Kester | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=DcUf9OtlZds</id>
+        <link href="https://www.youtube.com/watch?v=DcUf9OtlZds"/>
+        <updated>2025-03-26T12:30:12.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadha Melle | Viswajith C.T. | Vinu Sreelakom | Najeem Arshad | Film Songs | Malayalam Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ObLuZr3QTN0</id>
+        <link href="https://www.youtube.com/watch?v=ObLuZr3QTN0"/>
+        <updated>2025-03-26T12:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#PR04 - Pooja Ceremony | Pradeep Ranganathan,Mamitha Baiju | Keerthiswaran | Sai Abhyankkar |Mythri]]></title>
+        <id>https://www.youtube.com/watch?v=ns4Xor66AcQ</id>
+        <link href="https://www.youtube.com/watch?v=ns4Xor66AcQ"/>
+        <updated>2025-03-26T12:19:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#romanticsong നാരങ്ങാ മുട്ടായി നാരങ്ങാ മുട്ടായി  #dileep കേശു ഈ വീടിന്റെ നാഥൻ]]></title>
+        <id>https://www.youtube.com/watch?v=0Dve_nqJpjI</id>
+        <link href="https://www.youtube.com/watch?v=0Dve_nqJpjI"/>
+        <updated>2025-03-26T12:18:25.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 26th of March 2025]]></title>
         <id>https://www.youtube.com/watch?v=RQffzgFWBuY</id>
@@ -12019,15 +12073,6 @@
         <updated>2025-02-25T03:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadyakurbanakkayi | Holy Communion Songs | Rithuraj | Joji Johns | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=L2gEumreydg</id>
-        <link href="https://www.youtube.com/watch?v=L2gEumreydg"/>
-        <updated>2025-02-25T00:30:13.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
