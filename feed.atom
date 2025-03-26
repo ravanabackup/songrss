@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T03:22:53.994Z</updated>
+    <updated>2025-03-26T04:10:50.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11911,24 +11911,6 @@
         <updated>2025-02-24T18:00:19.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandana Cholayil Song | Sallapam | Dileep | Johnson Master Hits | KJ Yesudas | S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=6q7ux1WR5Lg</id>
-        <link href="https://www.youtube.com/watch?v=6q7ux1WR5Lg"/>
-        <updated>2025-02-24T15:58:24.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's vibe to #DillubaruAaja 🕺🔥 #Diesel #STR #HarishKalyan #DhibuNinanThomas]]></title>
-        <id>https://www.youtube.com/watch?v=-t_GfSCQwlU</id>
-        <link href="https://www.youtube.com/watch?v=-t_GfSCQwlU"/>
-        <updated>2025-02-24T15:42:00.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
