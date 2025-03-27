@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T09:09:36.929Z</updated>
+    <updated>2025-03-27T10:09:32.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#naamiruvar #sudeeppalanad #mridulawarrier #boneymathew #akarshravindran #shorts #outnow]]></title>
+        <id>https://www.youtube.com/watch?v=lk9zYw3hWLw</id>
+        <link href="https://www.youtube.com/watch?v=lk9zYw3hWLw"/>
+        <updated>2025-03-27T09:39:29.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സൂര്യനെ | Sooryane | Nammal | Malayalam Filim Song | M.G.Sreekumar, Rajesh Vijay | Jishnu, Sidharth]]></title>
+        <id>https://www.youtube.com/watch?v=TZd1M1RHPKw</id>
+        <link href="https://www.youtube.com/watch?v=TZd1M1RHPKw"/>
+        <updated>2025-03-27T09:30:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chellakuruvikku - Amapiano Mix | The Independeners | Antony | Kapil Kapilan | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=N2zj_zvkB2k</id>
+        <link href="https://www.youtube.com/watch?v=N2zj_zvkB2k"/>
+        <updated>2025-03-27T09:30:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paathiravayi Neram 4K Video Song | Vietnam Colony | Minmini | Kanaka | Mohanlal | Bichu Thirumala]]></title>
         <id>https://www.youtube.com/watch?v=A3Rx0G6J-A8</id>
@@ -11965,15 +11992,6 @@
         <updated>2025-02-25T22:30:06.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=fxr_IO1R4Fw</id>
-        <link href="https://www.youtube.com/watch?v=fxr_IO1R4Fw"/>
-        <updated>2025-02-25T22:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
