@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T11:06:29.914Z</updated>
+    <updated>2025-03-29T12:13:48.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 29th of March 2025]]></title>
+        <id>https://www.youtube.com/watch?v=KaggySvcZPQ</id>
+        <link href="https://www.youtube.com/watch?v=KaggySvcZPQ"/>
+        <updated>2025-03-29T11:30:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thattum Vellattam - Title Announcement | Soubin Shahir | Deepak Parambol | Mridul Nair]]></title>
+        <id>https://www.youtube.com/watch?v=DA0wX4JHGzk</id>
+        <link href="https://www.youtube.com/watch?v=DA0wX4JHGzk"/>
+        <updated>2025-03-29T11:30:06.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sivam Sivakaram - Audio Song | Karmayogi | Indrajith, Nithya Menon | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=8yjIGrogfXQ</id>
+        <link href="https://www.youtube.com/watch?v=8yjIGrogfXQ"/>
+        <updated>2025-03-29T11:24:38.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjil Kulikkum | 4K | Jayaram | Gopika | Shyam Dharman - Veruthe Oru Bharya]]></title>
+        <id>https://www.youtube.com/watch?v=VKD_Pbn6Hjk</id>
+        <link href="https://www.youtube.com/watch?v=VKD_Pbn6Hjk"/>
+        <updated>2025-03-29T11:11:11.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aayiram Kaadham | Malarvadi Arts Club #vineethsreenivasan #shaanrahman  #shortsfeed #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=lBj7TioEZlU</id>
@@ -12028,15 +12064,6 @@
         <updated>2025-02-28T00:30:14.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 28th of February 2025 # Mathavinte Japamala #dhukhathinterahasyangal  28th of February 2025]]></title>
-        <id>https://www.youtube.com/watch?v=xg-KFF3mAtU</id>
-        <link href="https://www.youtube.com/watch?v=xg-KFF3mAtU"/>
-        <updated>2025-02-27T23:30:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
