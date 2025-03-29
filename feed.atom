@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T13:14:54.662Z</updated>
+    <updated>2025-03-29T14:07:03.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=MGcJkp1HuO4</id>
+        <link href="https://www.youtube.com/watch?v=MGcJkp1HuO4"/>
+        <updated>2025-03-29T14:00:21.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalvari Krooshin Mele  | Manoj Christy | Joji Johns | B R Anil Malappuram | Holy Week Special Songs]]></title>
+        <id>https://www.youtube.com/watch?v=KcsYOWutvB4</id>
+        <link href="https://www.youtube.com/watch?v=KcsYOWutvB4"/>
+        <updated>2025-03-29T13:59:31.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സങ്കടങ്ങളിൽ ആശ്വാസമേകുന്ന നോമ്പുകാലഗാനങ്ങൾ  |@JinoKunnumpurathu #christianmusic #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=fhwQMCRA9Fc</id>
+        <link href="https://www.youtube.com/watch?v=fhwQMCRA9Fc"/>
+        <updated>2025-03-29T13:30:23.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹോ, തകർത്തു മോളെ!! എല്ലായിടത്തും പാടി കേട്ട സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം 😍 "രാജാധിരാജൻ" | #worship]]></title>
+        <id>https://www.youtube.com/watch?v=bdNys_7Hjc8</id>
+        <link href="https://www.youtube.com/watch?v=bdNys_7Hjc8"/>
+        <updated>2025-03-29T13:30:21.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adham avashata |ക്പിപ്ത്തോ - കൂനി | Fifth Sunday of Great Lent | K'piptho/crippled woman |My Lord|]]></title>
+        <id>https://www.youtube.com/watch?v=U6ZcZW2N3Yc</id>
+        <link href="https://www.youtube.com/watch?v=U6ZcZW2N3Yc"/>
+        <updated>2025-03-29T13:30:16.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirunamakeerthanam Malayalam Christian Devotional Songs| Malayalam worship songs |]]></title>
+        <id>https://www.youtube.com/watch?v=699vUBf5wLM</id>
+        <link href="https://www.youtube.com/watch?v=699vUBf5wLM"/>
+        <updated>2025-03-29T13:30:03.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannipoomaanam | Kelkatha Shabdam |  Johnson  | K.G.Markose l Sukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=0QHa-rQ-0yc</id>
+        <link href="https://www.youtube.com/watch?v=0QHa-rQ-0yc"/>
+        <updated>2025-03-29T13:30:01.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njaanaara Mon | Story of a Tiger #shortsfeed #shortsvideo #kidsanimation #animation #reels #shorts]]></title>
         <id>https://www.youtube.com/watch?v=mgQSU-swjz4</id>
@@ -12100,15 +12163,6 @@
         <updated>2025-02-28T03:30:35.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Mazhayum Thorathirunnittilla | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=jRiuu2ko9yY</id>
-        <link href="https://www.youtube.com/watch?v=jRiuu2ko9yY"/>
-        <updated>2025-02-28T02:00:34.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
