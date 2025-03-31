@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T14:09:03.755Z</updated>
+    <updated>2025-03-31T15:09:08.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innaal Vidhi Gehe   | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
+        <id>https://www.youtube.com/watch?v=TCmfzd337XE</id>
+        <link href="https://www.youtube.com/watch?v=TCmfzd337XE"/>
+        <updated>2025-03-31T15:00:46.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innayolam  Malayalam Christian Devotional Songs| Malayalam worship songs |]]></title>
+        <id>https://www.youtube.com/watch?v=rB_-nUyJ5i4</id>
+        <link href="https://www.youtube.com/watch?v=rB_-nUyJ5i4"/>
+        <updated>2025-03-31T14:30:23.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pookkalam Vannu Pookkaalam | Bichu Thirumala | S Balakrishnan | KS Chithra | Unni Menon]]></title>
+        <id>https://www.youtube.com/watch?v=M6f_aBXSl4M</id>
+        <link href="https://www.youtube.com/watch?v=M6f_aBXSl4M"/>
+        <updated>2025-03-31T14:30:09.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thumbi Vaa - Ambient Lofi | Aelo | Olangal | Ilaiyaraaja]]></title>
+        <id>https://www.youtube.com/watch?v=C-SMxf9K538</id>
+        <link href="https://www.youtube.com/watch?v=C-SMxf9K538"/>
+        <updated>2025-03-31T14:30:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bhoojathikale Vannethi  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
         <id>https://www.youtube.com/watch?v=qgqjqvhi0_M</id>
