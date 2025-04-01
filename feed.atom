@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T15:09:18.841Z</updated>
+    <updated>2025-04-01T16:09:34.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[J.V Peter Talk Show Malayalam Christian Devotional Songs| Malayalam worship songs]]></title>
+        <id>https://www.youtube.com/watch?v=wdqvfEh6x7k</id>
+        <link href="https://www.youtube.com/watch?v=wdqvfEh6x7k"/>
+        <updated>2025-04-01T15:30:20.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maarunna Kaalam - Lofi Chill | The Independeners | Nadanna Sambavam | Ankit Menon]]></title>
         <id>https://www.youtube.com/watch?v=XOShugN3OvA</id>
@@ -11983,15 +11992,6 @@
         <updated>2025-03-03T04:30:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daleema Hits /Christian Devotional Songs /OWN MEDIA MUSIC COLLECTION .]]></title>
-        <id>https://www.youtube.com/watch?v=o5B3YcHhPJQ</id>
-        <link href="https://www.youtube.com/watch?v=o5B3YcHhPJQ"/>
-        <updated>2025-03-03T03:13:05.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
