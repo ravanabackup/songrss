@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T13:19:59.400Z</updated>
+    <updated>2025-04-02T14:08:50.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rakshithavine Malayalam Christian Devotional Songs| Malayalam worship songs]]></title>
+        <id>https://www.youtube.com/watch?v=miUaFEMktMA</id>
+        <link href="https://www.youtube.com/watch?v=miUaFEMktMA"/>
+        <updated>2025-04-02T14:01:05.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athmakale Rakshichoru | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
+        <id>https://www.youtube.com/watch?v=2qJu83No_qY</id>
+        <link href="https://www.youtube.com/watch?v=2qJu83No_qY"/>
+        <updated>2025-04-02T13:45:00.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vava en Deva | Akhila Anand | SvR | Sarayu | Sivan S Sangeeth #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=oFZ41G3SFk4</id>
+        <link href="https://www.youtube.com/watch?v=oFZ41G3SFk4"/>
+        <updated>2025-04-02T13:30:40.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aana Palunku kondoraana | Kelkatha Shabdam |  Johnson  | KJ Yesudas l P Balanachandra Menon]]></title>
+        <id>https://www.youtube.com/watch?v=lKou8LK1V8U</id>
+        <link href="https://www.youtube.com/watch?v=lKou8LK1V8U"/>
+        <updated>2025-04-02T13:30:35.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parijatham Panineeril | Ente Kalithozhan (1984) | Shyam | KJ Yesudas | Shankar | Evergreen Songs]]></title>
+        <id>https://www.youtube.com/watch?v=IIzG_Apr6z8</id>
+        <link href="https://www.youtube.com/watch?v=IIzG_Apr6z8"/>
+        <updated>2025-04-02T13:30:11.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേട്ടുതീരുംമുൻപേ അനുഗ്രഹം ലഭിക്കുന്നനോമ്പുകാല ഗാനങ്ങൾ@JinoKunnumpurathu #christiansongs #lent]]></title>
+        <id>https://www.youtube.com/watch?v=AF9SZxwNJxw</id>
+        <link href="https://www.youtube.com/watch?v=AF9SZxwNJxw"/>
+        <updated>2025-04-02T13:30:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന | രാവിലെ പ്രാര്‍ത്ഥന| Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=22i6r3TOQJU</id>
+        <link href="https://www.youtube.com/watch?v=22i6r3TOQJU"/>
+        <updated>2025-04-02T13:30:01.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maariprave Mayaprave Video Song | Dosth | Vidyasagar | Balabhaskar | Dileep | Kunchacko Boban]]></title>
         <id>https://www.youtube.com/watch?v=PyjxwiFE64E</id>
@@ -11857,24 +11920,6 @@
         <updated>2025-03-04T04:08:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaradhyan | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=PGLV0PLUOsc</id>
-        <link href="https://www.youtube.com/watch?v=PGLV0PLUOsc"/>
-        <updated>2025-03-04T02:00:21.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golgothayil Ninnum | Meghna Sumesh | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=2RLzwTayL5k</id>
-        <link href="https://www.youtube.com/watch?v=2RLzwTayL5k"/>
-        <updated>2025-03-04T02:00:04.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
