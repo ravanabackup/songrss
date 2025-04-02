@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T16:10:55.105Z</updated>
+    <updated>2025-04-02T17:07:45.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11947,24 +11947,6 @@
         <updated>2025-03-04T05:28:33.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shyamasandhye | 4K Video Song | Saagaram Sakshi | Mammootty | Sukanya | Sharreth | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=_fXhEwZixx8</id>
-        <link href="https://www.youtube.com/watch?v=_fXhEwZixx8"/>
-        <updated>2025-03-04T05:06:36.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funky beats, can't stop! 🎶🔥 #PachaParishkari #ThirumaLi #JayStellar #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=oOtDyCht0js</id>
-        <link href="https://www.youtube.com/watch?v=oOtDyCht0js"/>
-        <updated>2025-03-04T04:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
