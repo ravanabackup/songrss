@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T09:09:25.508Z</updated>
+    <updated>2025-04-04T10:09:39.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaa kannama ✨ #kaniha #priyadharshini #haripriya]]></title>
+        <id>https://www.youtube.com/watch?v=JDnbFC8D58M</id>
+        <link href="https://www.youtube.com/watch?v=JDnbFC8D58M"/>
+        <updated>2025-04-04T09:54:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonaniyil Marakurishil...#lentsongsmalayalam #lentsongs #jojijohnschristiansongs #sebu]]></title>
+        <id>https://www.youtube.com/watch?v=qHjGN_vrUXs</id>
+        <link href="https://www.youtube.com/watch?v=qHjGN_vrUXs"/>
+        <updated>2025-04-04T09:45:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varoo Varoo Gopike Slow Version | S Rameshan Nair | Raveendran | K J Yesudas | Navya | Sharreth]]></title>
+        <id>https://www.youtube.com/watch?v=73Bhtod3b2U</id>
+        <link href="https://www.youtube.com/watch?v=73Bhtod3b2U"/>
+        <updated>2025-04-04T09:43:19.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marthyarkkuvendi...#valiyanombsongs #jojijohns #sebugeorge #christiandevotionalsongsmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=pc6n0kP3rdo</id>
+        <link href="https://www.youtube.com/watch?v=pc6n0kP3rdo"/>
+        <updated>2025-04-04T09:30:30.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിടരും വർണ്ണപ്പൂക്കൾ Video Song | Kunchacko Boban, Kavya Madhavan | Iruvattam Manavatti movie]]></title>
+        <id>https://www.youtube.com/watch?v=c9tnMMNQd88</id>
+        <link href="https://www.youtube.com/watch?v=c9tnMMNQd88"/>
+        <updated>2025-04-04T09:30:23.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannodu Kannil | 916 Kunjoottan |  Lyrical Video | Madhu Balakrishnan | Anand Madhusoodanan Musical]]></title>
+        <id>https://www.youtube.com/watch?v=FsljaP4XsI0</id>
+        <link href="https://www.youtube.com/watch?v=FsljaP4XsI0"/>
+        <updated>2025-04-04T09:25:07.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goldodha...Goldodha...#christiandevotionalsongsmalayalam #sebugeorge #jojijohns #lentsongsmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=swAhVCPrBho</id>
+        <link href="https://www.youtube.com/watch?v=swAhVCPrBho"/>
+        <updated>2025-04-04T09:15:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[യേ.. മച്ചാനേ  തപ്പടിക്കടാ തകിലടിക്കടാ നീ അടി രാസാത്തി ആസപ്പെട്ടൊരു യോഗം എത്തിയെടി #shortsongs]]></title>
         <id>https://www.youtube.com/watch?v=eg10UGBHGLc</id>
@@ -11875,15 +11938,6 @@
         <updated>2025-03-05T22:30:08.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=CkoWgTgdwGk</id>
-        <link href="https://www.youtube.com/watch?v=CkoWgTgdwGk"/>
-        <updated>2025-03-05T22:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
