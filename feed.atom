@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T03:27:17.960Z</updated>
+    <updated>2025-04-06T04:10:11.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മിന്നിതെന്നും നക്ഷത്രങ്ങള്‍ Video Song | Kunchacko Boban, Shalini  | Yesudas, K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=CHlX8YvFcmQ</id>
+        <link href="https://www.youtube.com/watch?v=CHlX8YvFcmQ"/>
+        <updated>2025-04-06T03:30:05.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nandi Cholli Vazhtham | Meghna Suresh | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=VjdxWxNc80E</id>
