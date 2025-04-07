@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T14:09:08.184Z</updated>
+    <updated>2025-04-07T15:09:06.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snehathin Idayanam Malayalam Christian Devotional Songs| Malayalam worship songs]]></title>
+        <id>https://www.youtube.com/watch?v=i-D_GDZblY4</id>
+        <link href="https://www.youtube.com/watch?v=i-D_GDZblY4"/>
+        <updated>2025-04-07T15:01:04.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panchamiraavalle | First bell | Best Malayalam Song | K. J. Yesudas | Jayaram, Jagadish, Anusha]]></title>
+        <id>https://www.youtube.com/watch?v=fCQi8aNm6LQ</id>
+        <link href="https://www.youtube.com/watch?v=fCQi8aNm6LQ"/>
+        <updated>2025-04-07T14:39:21.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maane Malaramban  | Ayal Kadha Ezhthukayanu | Raveendran | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=ewhhWG9uv7s</id>
+        <link href="https://www.youtube.com/watch?v=ewhhWG9uv7s"/>
+        <updated>2025-04-07T14:30:31.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Nimishathinte Nirvruthiyil - Ambient Lofi | Aelo | Chandrakantham | K.J Yesudas | M.S.Viswanathan]]></title>
+        <id>https://www.youtube.com/watch?v=kETTU-OOuXw</id>
+        <link href="https://www.youtube.com/watch?v=kETTU-OOuXw"/>
+        <updated>2025-04-07T14:30:27.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valiya Nombu Geethangal | വലിയ നോമ്പ് ഗീതങ്ങൾ | ദുഃഖ വെള്ളി | Good Friday Songs | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=_4OD4J0sCpE</id>
+        <link href="https://www.youtube.com/watch?v=_4OD4J0sCpE"/>
+        <updated>2025-04-07T14:30:21.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mizhiyil Meen Pidanju Video Song |  Sandhyakku Virinja Poovu | Mammootty  | Ilayaraja | KJ Yesudas |]]></title>
+        <id>https://www.youtube.com/watch?v=Sa76Za5x72U</id>
+        <link href="https://www.youtube.com/watch?v=Sa76Za5x72U"/>
+        <updated>2025-04-07T14:30:13.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samurai Thara Suryan Song | Mr Marumakan | Rahul Nambiar | Dileep | Suresh Peters | P T Binu]]></title>
         <id>https://www.youtube.com/watch?v=rO7J73Wogdg</id>
