@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T12:16:35.962Z</updated>
+    <updated>2025-04-07T13:20:35.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കുരിശിന്റെവഴി | ഏഴാം സ്ഥലം | @JinoKunnumpurathu    | #shorts | #lent | #jesus | #kurishintevazhi]]></title>
+        <id>https://www.youtube.com/watch?v=h6irQ0hBVxA</id>
+        <link href="https://www.youtube.com/watch?v=h6irQ0hBVxA"/>
+        <updated>2025-04-07T13:01:05.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവീകപദ്ധതി | 😇 | Rev. Aneesh P Joseph |#shorts #motivation #lent]]></title>
+        <id>https://www.youtube.com/watch?v=i_fjvV1olPM</id>
+        <link href="https://www.youtube.com/watch?v=i_fjvV1olPM"/>
+        <updated>2025-04-07T12:30:46.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പുതു തലമുറക്ക് സമ്മാനായി തന്ന ഗാനങ്ങൾ | KG Markose | Prathyasha Geethangal | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=d7lPDQpiSG8</id>
+        <link href="https://www.youtube.com/watch?v=d7lPDQpiSG8"/>
+        <updated>2025-04-07T12:30:41.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 7th of April 2025]]></title>
+        <id>https://www.youtube.com/watch?v=P6MLpPwUPE0</id>
+        <link href="https://www.youtube.com/watch?v=P6MLpPwUPE0"/>
+        <updated>2025-04-07T12:30:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khalbinnakame Song Out Now | Abhilasham #shorts #song]]></title>
+        <id>https://www.youtube.com/watch?v=6H7U5cFTuIs</id>
+        <link href="https://www.youtube.com/watch?v=6H7U5cFTuIs"/>
+        <updated>2025-04-07T12:30:06.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പൊന്നിട്ട പെട്ടകം പൂട്ടല്ലേ | Ponnitta Pettakam | PranayaNilavu Movie Song | Rahana | Dileep]]></title>
         <id>https://www.youtube.com/watch?v=DrhIe0ToVOg</id>
@@ -85,6 +130,15 @@
         <updated>2025-04-07T09:33:23.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mar Thoma Shayana Namaskaram | ഞങ്ങള്‍ക്കുള്ള കര്‍ത്താവെ | Njangalkulla Karthave | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=lSO9S3-m_38</id>
+        <link href="https://www.youtube.com/watch?v=lSO9S3-m_38"/>
+        <updated>2025-04-07T09:14:01.000Z</updated>
+        <author>
+            <name>Music Spread</name>
         </author>
     </entry>
     <entry>
@@ -11947,15 +12001,6 @@
         <updated>2025-03-09T01:30:00.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏറ്റവും പുതിയ വലിയ നോമ്പ് ഗീതങ്ങൾ | Lent Songs Malayalam | Kester | KG Markose | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=tFrHK0hJvnY</id>
-        <link href="https://www.youtube.com/watch?v=tFrHK0hJvnY"/>
-        <updated>2025-03-09T00:30:28.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
