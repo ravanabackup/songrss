@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T09:09:45.940Z</updated>
+    <updated>2025-04-08T10:09:42.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EMPURAANE Song #shorts #empuraan #mohanlal #prithvirajsukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=aKmpKDQYBb8</id>
+        <link href="https://www.youtube.com/watch?v=aKmpKDQYBb8"/>
+        <updated>2025-04-08T09:15:34.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMPURAANE Anthem Mix #shorts #empuraan #mohanlal #prithvirajsukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=51JOtuAHnk0</id>
+        <link href="https://www.youtube.com/watch?v=51JOtuAHnk0"/>
+        <updated>2025-04-08T09:11:40.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMPURAAN Anthem #shorts #empuraan #mohanlal #prithvirajsukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=9g3oqMXYNsg</id>
+        <link href="https://www.youtube.com/watch?v=9g3oqMXYNsg"/>
+        <updated>2025-04-08T09:08:42.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peelithirumudi| Achan Kombathu Amma Varampathu | K S Chithra | Gireesh Puthancherry | P Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=jjHDDW6YrEI</id>
@@ -12037,15 +12064,6 @@
         <updated>2025-03-09T22:30:06.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=ydTx94-ps6U</id>
-        <link href="https://www.youtube.com/watch?v=ydTx94-ps6U"/>
-        <updated>2025-03-09T22:00:45.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
