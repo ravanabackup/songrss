@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T17:08:13.709Z</updated>
+    <updated>2025-04-09T18:12:27.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11257,6 +11257,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mamboo Manamithaa | Thanupp |Lyrical | Kapil Kapilan | Sreenantha | Vivek Muzhakkunnu | Bibin Ashok]]></title>
+        <id>https://www.youtube.com/watch?v=5J0DIsBItUk</id>
+        <link href="https://www.youtube.com/watch?v=5J0DIsBItUk"/>
+        <updated>2025-03-13T12:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marilla Veezhum Vareyum | Uttavar |Video Song| Anil Dev | Lawrence Fernandez | Ramgopal Harikrishnan]]></title>
         <id>https://www.youtube.com/watch?v=m64Eiv4BOFk</id>
         <link href="https://www.youtube.com/watch?v=m64Eiv4BOFk"/>
@@ -12271,60 +12280,6 @@
         <updated>2025-03-11T07:03:00.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangalapaala Poomanam | മംഗലപ്പാല പൂമണം | KS Chithra | Johnson | Mammootty | Oral Mathram Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=tuGIy3dw8fg</id>
-        <link href="https://www.youtube.com/watch?v=tuGIy3dw8fg"/>
-        <updated>2025-03-11T05:52:59.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇസ്രായേലിൻ നാഥനായി വാഴും #christianprayersong #christianmusic #christiandevotionalsong #jesusshorts]]></title>
-        <id>https://www.youtube.com/watch?v=sra15U55a0k</id>
-        <link href="https://www.youtube.com/watch?v=sra15U55a0k"/>
-        <updated>2025-03-11T05:45:34.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nagaram - Audio Song | Ore Kadal | Mamootty, Meera Jasmin | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=qar1J-6HpZs</id>
-        <link href="https://www.youtube.com/watch?v=qar1J-6HpZs"/>
-        <updated>2025-03-11T05:30:29.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Magic | Love In Singapore |Video| Mammootty | Rajeev Alunkal | Suresh Peters | Afsal | Manjari]]></title>
-        <id>https://www.youtube.com/watch?v=BWo4xZj7I6Y</id>
-        <link href="https://www.youtube.com/watch?v=BWo4xZj7I6Y"/>
-        <updated>2025-03-11T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telugu Kalyanam - Video | Sathyam Sundaram | Karthi, Arvind Swami | Govind Vasantha | C.Premkumar]]></title>
-        <id>https://www.youtube.com/watch?v=n-9rPs-aUVQ</id>
-        <link href="https://www.youtube.com/watch?v=n-9rPs-aUVQ"/>
-        <updated>2025-03-11T05:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njaanaara Mon | The Story of A Tiger #animation #cartoon #kidsvideo #shortsfeed #shortsvideo #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=3pVOpHjbAo4</id>
-        <link href="https://www.youtube.com/watch?v=3pVOpHjbAo4"/>
-        <updated>2025-03-11T05:30:01.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
