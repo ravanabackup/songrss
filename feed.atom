@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T10:11:37.443Z</updated>
+    <updated>2025-04-09T11:07:44.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EMPURAAN Anthem Dance Mix #shorts #empuraan #mohanlal #prithvirajsukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=spgNzMxOi1M</id>
+        <link href="https://www.youtube.com/watch?v=spgNzMxOi1M"/>
+        <updated>2025-04-09T11:01:13.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhathulli Palunkukal | Pranayam #mohanlal #shreyaghoshal #vijayyesudas #shortsfeed #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=eCTkuwtpWHQ</id>
+        <link href="https://www.youtube.com/watch?v=eCTkuwtpWHQ"/>
+        <updated>2025-04-09T10:30:23.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMPURAAN Mix Shorts #shorts #empuraan #mohanlal #prithvirajsukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=B4LMhSrG9ng</id>
+        <link href="https://www.youtube.com/watch?v=B4LMhSrG9ng"/>
+        <updated>2025-04-09T10:30:07.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തളിരണിഞ്ഞൊരു കിളിമരത്തിലെ ​കണിമലരേ വാ പൂക്കാലം പൂക്കാലം #evergreenhits]]></title>
+        <id>https://www.youtube.com/watch?v=vo2DYtyN64Q</id>
+        <link href="https://www.youtube.com/watch?v=vo2DYtyN64Q"/>
+        <updated>2025-04-09T10:22:29.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dil Hai Fathima | Abhilasham | Thajudheen Vatakara | Shafi Kollam | Arjun Ashokan | Saiju Kurup]]></title>
         <id>https://www.youtube.com/watch?v=1O5bvapPg0I</id>
@@ -12109,15 +12145,6 @@
         <updated>2025-03-10T23:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 11, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=dFRe-7izqyA</id>
-        <link href="https://www.youtube.com/watch?v=dFRe-7izqyA"/>
-        <updated>2025-03-10T22:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
