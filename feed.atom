@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T22:08:22.435Z</updated>
+    <updated>2025-04-09T23:08:09.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=AVhZHcTKUDI</id>
+        <link href="https://www.youtube.com/watch?v=AVhZHcTKUDI"/>
+        <updated>2025-04-09T23:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ: 10, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=LksEwy6OLus</id>
+        <link href="https://www.youtube.com/watch?v=LksEwy6OLus"/>
+        <updated>2025-04-09T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Krooshitha Dharshanangal Day 39]]></title>
         <id>https://www.youtube.com/watch?v=2LXzJ9Co11A</id>
@@ -12199,42 +12217,6 @@
         <updated>2025-03-11T11:30:06.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരോ ആരോ ആരാരോ Malayalam Hit Video Song | Poovinu Puthiya Poonthennal | Yesudas | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=T1v1mccqfC4</id>
-        <link href="https://www.youtube.com/watch?v=T1v1mccqfC4"/>
-        <updated>2025-03-11T11:07:11.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassil Midhuna Mazha Video Song | Gireesh Puthenchery | Raveendran | MG Sreekumar | Radhika Thilak]]></title>
-        <id>https://www.youtube.com/watch?v=wVEEuNbt9YI</id>
-        <link href="https://www.youtube.com/watch?v=wVEEuNbt9YI"/>
-        <updated>2025-03-11T10:52:12.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punchiri Thanchum | Anjali Surendran #coversong #malayalamcover #shortsfeed #shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=x6IlrDvjzys</id>
-        <link href="https://www.youtube.com/watch?v=x6IlrDvjzys"/>
-        <updated>2025-03-11T10:30:34.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karutha Raavinte 4K Video Song | Kunchacko Boban | Samyuktha Varma | G Venugopal | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=k69MfID0C2E</id>
-        <link href="https://www.youtube.com/watch?v=k69MfID0C2E"/>
-        <updated>2025-03-11T10:21:46.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
