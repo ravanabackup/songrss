@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T04:11:14.413Z</updated>
+    <updated>2025-04-10T05:09:21.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vattayila Panthalittu 4K Video Song | KS Chithra | P Jayachandran | Johnson | Kaithapram | Soundarya]]></title>
+        <id>https://www.youtube.com/watch?v=y3lmf3z61Zk</id>
+        <link href="https://www.youtube.com/watch?v=y3lmf3z61Zk"/>
+        <updated>2025-04-10T05:06:07.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swargavathil | Kester | Rev. Fr. Jiphy Mekkattukulam | Alan Joseph Siby | Latest Marian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=D6Wfvn2KwPM</id>
+        <link href="https://www.youtube.com/watch?v=D6Wfvn2KwPM"/>
+        <updated>2025-04-10T03:59:11.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nandi Cholli Vazhtham | Meghna Suresh | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=_yvytq60-kY</id>
@@ -12100,15 +12118,6 @@
         <updated>2025-03-11T17:54:06.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guleba 💃#thepreethiasrani #prabhudeva #gulebakavali]]></title>
-        <id>https://www.youtube.com/watch?v=Fk54v81gx40</id>
-        <link href="https://www.youtube.com/watch?v=Fk54v81gx40"/>
-        <updated>2025-03-11T16:41:59.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
