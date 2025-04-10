@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T15:09:46.547Z</updated>
+    <updated>2025-04-10T16:10:46.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuttikal Ooshanakalalum   | Osana Song | Hosanna Song | Palm sunday song |]]></title>
+        <id>https://www.youtube.com/watch?v=sG-v0ogf0qI</id>
+        <link href="https://www.youtube.com/watch?v=sG-v0ogf0qI"/>
+        <updated>2025-04-10T16:01:21.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chanchakkam Thenniyum Video Song|Jhonny Walker|Jeet Upendra|#mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=BRI2jM5wJtM</id>
+        <link href="https://www.youtube.com/watch?v=BRI2jM5wJtM"/>
+        <updated>2025-04-10T15:49:13.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yerushalemile Vanmalamel  | OshanaSong |Hosanna Song | Palm sunday song]]></title>
+        <id>https://www.youtube.com/watch?v=SfSpz0UxIKg</id>
+        <link href="https://www.youtube.com/watch?v=SfSpz0UxIKg"/>
+        <updated>2025-04-10T15:30:16.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gardhabhavahannaneal   | Osana Song |Hosanna Song | Palm sunday song]]></title>
         <id>https://www.youtube.com/watch?v=W_XwJuCHgoA</id>
@@ -12433,15 +12460,6 @@
         <updated>2025-03-12T04:13:57.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I love you mammy  #animation #animationvideo #kidscartoon #malayalamcartoon #shortsfeed #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=vTb5mIfbu-g</id>
-        <link href="https://www.youtube.com/watch?v=vTb5mIfbu-g"/>
-        <updated>2025-03-12T03:30:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
