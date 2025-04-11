@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T15:09:21.959Z</updated>
+    <updated>2025-04-11T16:10:44.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[| OshanaSong |Hosanna Song | Palm sunday song]]></title>
+        <id>https://www.youtube.com/watch?v=VDpdld1t5YI</id>
+        <link href="https://www.youtube.com/watch?v=VDpdld1t5YI"/>
+        <updated>2025-04-11T16:00:47.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marudivasam mariyamakan OshanaSong |Hosanna Song | Palm sunday song]]></title>
+        <id>https://www.youtube.com/watch?v=Wb5tqffAAY8</id>
+        <link href="https://www.youtube.com/watch?v=Wb5tqffAAY8"/>
+        <updated>2025-04-11T15:30:21.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=QbWLQnVuN30</id>
@@ -12541,15 +12559,6 @@
         <updated>2025-03-13T04:30:26.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആറ്റുകാൽ അംബികേ ജഗദംബികേ| Biju Narayanan | Gireesh Puthenchery| Attukal Devi | Hindu Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=Np9yHxJdQC0</id>
-        <link href="https://www.youtube.com/watch?v=Np9yHxJdQC0"/>
-        <updated>2025-03-13T03:30:17.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
