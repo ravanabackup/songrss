@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T06:12:54.931Z</updated>
+    <updated>2025-04-11T07:09:02.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nombum Praarthanayum  | Passion Week Songs | 40th Friday Song | My Lord]]></title>
+        <id>https://www.youtube.com/watch?v=m-knSJznydk</id>
+        <link href="https://www.youtube.com/watch?v=m-knSJznydk"/>
+        <updated>2025-04-11T06:31:41.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണാ താമര കണ്ണാ  | Najim Arashad | Sree Krishna Devotional Song | Vennakkudam]]></title>
+        <id>https://www.youtube.com/watch?v=-amB35ZXuR8</id>
+        <link href="https://www.youtube.com/watch?v=-amB35ZXuR8"/>
+        <updated>2025-04-11T06:06:34.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Romeo - Original Score | Vijay Antony | Mirnalini Ravi | Barath Dhanasekar | Ravi Royster | Vinayak]]></title>
         <id>https://www.youtube.com/watch?v=jFCR33p_J7I</id>
@@ -193,6 +211,15 @@
         <updated>2025-04-10T14:30:06.000Z</updated>
         <author>
             <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peeli Kannezhuthi | Manoj K Jayan | Sunitha| KS Chithra| G Venugopal| Johnson| Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=aflm4aJGs5c</id>
+        <link href="https://www.youtube.com/watch?v=aflm4aJGs5c"/>
+        <updated>2025-04-10T14:30:01.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
@@ -12179,15 +12206,6 @@
         <id>https://www.youtube.com/watch?v=pTnSzR1iyb0</id>
         <link href="https://www.youtube.com/watch?v=pTnSzR1iyb0"/>
         <updated>2025-03-12T22:00:43.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 13th of March # Athiravile Prarthana 13th March 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ilkjER-VPbU</id>
-        <link href="https://www.youtube.com/watch?v=ilkjER-VPbU"/>
-        <updated>2025-03-12T19:00:40.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
