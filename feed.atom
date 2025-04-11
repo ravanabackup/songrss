@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T03:26:19.554Z</updated>
+    <updated>2025-04-11T04:11:06.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12181,15 +12181,6 @@
         <updated>2025-03-12T18:00:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every dream trip needs a perfect song ✨ #Vazhithunaiye is here❤️ #Dragon #PradeepRanganathan #Kayadu]]></title>
-        <id>https://www.youtube.com/watch?v=l6lV8V9MxwI</id>
-        <link href="https://www.youtube.com/watch?v=l6lV8V9MxwI"/>
-        <updated>2025-03-12T16:08:21.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
