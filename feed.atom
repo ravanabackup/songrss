@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T16:10:44.954Z</updated>
+    <updated>2025-04-11T17:07:53.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Odimaga ❤️🎶 #Aavesham #SushinShyam #Sakthijith]]></title>
+        <id>https://www.youtube.com/watch?v=QaT049efPfo</id>
+        <link href="https://www.youtube.com/watch?v=QaT049efPfo"/>
+        <updated>2025-04-11T16:23:06.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[| OshanaSong |Hosanna Song | Palm sunday song]]></title>
         <id>https://www.youtube.com/watch?v=VDpdld1t5YI</id>
@@ -12532,33 +12541,6 @@
         <updated>2025-03-13T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mooli Mooli Kattinundoru 4K Song | Theerthadanam | Jayaram | Kaithapram | Suhasini | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=48rjjsv3a4s</id>
-        <link href="https://www.youtube.com/watch?v=48rjjsv3a4s"/>
-        <updated>2025-03-13T05:05:23.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thillai Thillai | Mukesh | Lal |  Divya Unni | Mohan Sithara | Sudhesh | Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=a2SQBx2uKrY</id>
-        <link href="https://www.youtube.com/watch?v=a2SQBx2uKrY"/>
-        <updated>2025-03-13T04:33:53.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groove mode: ON! 💃🎵 #PachaParishkari #ThirumaLi #JayStellar #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=fjI_E6HIcV0</id>
-        <link href="https://www.youtube.com/watch?v=fjI_E6HIcV0"/>
-        <updated>2025-03-13T04:30:26.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
