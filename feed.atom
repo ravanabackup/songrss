@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T17:06:45.617Z</updated>
+    <updated>2025-04-12T18:10:24.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12622,33 +12622,6 @@
         <updated>2025-03-14T06:38:54.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karutha Pookal | Sorry | Ian Camerson Paiva | Rishab Baiju | Mushin Muhammed | Anupama Sreedevi]]></title>
-        <id>https://www.youtube.com/watch?v=ugOb7x38AY8</id>
-        <link href="https://www.youtube.com/watch?v=ugOb7x38AY8"/>
-        <updated>2025-03-14T05:46:53.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paattellam - Audio Song | Sooryan | Jayaram, Vimala Raman | Illayaraja]]></title>
-        <id>https://www.youtube.com/watch?v=z-YL68lTjWY</id>
-        <link href="https://www.youtube.com/watch?v=z-YL68lTjWY"/>
-        <updated>2025-03-14T05:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanalupeyyum | Uthram Nakshathram | K J Yesudas | K.Jayakumar | Sunny Stephen]]></title>
-        <id>https://www.youtube.com/watch?v=6jVTpzaMFsM</id>
-        <link href="https://www.youtube.com/watch?v=6jVTpzaMFsM"/>
-        <updated>2025-03-14T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
