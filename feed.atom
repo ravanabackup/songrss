@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T14:06:59.763Z</updated>
+    <updated>2025-04-12T15:07:30.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yerushalemile |Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=99ipA0mCDQo</id>
+        <link href="https://www.youtube.com/watch?v=99ipA0mCDQo"/>
+        <updated>2025-04-12T15:00:20.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yerushalem  |Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=y4UwtGrhEIs</id>
+        <link href="https://www.youtube.com/watch?v=y4UwtGrhEIs"/>
+        <updated>2025-04-12T14:30:41.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pazhamthamizh | Mohanlal | Bichu Thirumala | MG Radhakrishnan | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=3dOSyHy-TRM</id>
+        <link href="https://www.youtube.com/watch?v=3dOSyHy-TRM"/>
+        <updated>2025-04-12T14:30:02.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aanipazhuthulla...#lentsongsmalayalam #valiyanombsongs #jojijohns #gishasony #sameekshasud]]></title>
         <id>https://www.youtube.com/watch?v=yjLyGBAZjnA</id>
@@ -877,6 +904,15 @@
         <updated>2025-04-11T06:31:41.000Z</updated>
         <author>
             <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaalvari Kunnile | Sreya Jayadeep | Joffi Tharakan | Joy Payyappilly | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ltkCju0i1HM</id>
+        <link href="https://www.youtube.com/watch?v=ltkCju0i1HM"/>
+        <updated>2025-04-11T06:30:50.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
