@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T16:09:24.334Z</updated>
+    <updated>2025-04-12T17:06:45.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mangalam Mangalame | 916 Kunjoottan|Video Song |Sachin Raj|Sreejish Subramanian|Anand Madhusoodanan]]></title>
+        <id>https://www.youtube.com/watch?v=7mcZVLZV8tM</id>
+        <link href="https://www.youtube.com/watch?v=7mcZVLZV8tM"/>
+        <updated>2025-04-12T16:52:17.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thenkizhakku 🎶💕 #Vaazhai #SanthoshNarayanan #Dhee #Jubin]]></title>
+        <id>https://www.youtube.com/watch?v=SMnqkC4ryJI</id>
+        <link href="https://www.youtube.com/watch?v=SMnqkC4ryJI"/>
+        <updated>2025-04-12T16:09:00.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yerushalemile Vanmala|Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=iQfkVYhJ7FQ</id>
@@ -12631,42 +12649,6 @@
         <updated>2025-03-14T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navarasa Bhavam | 4K | Aksharam | Gireesh Puthancherry | K J Yesudas | Perumbavoor G Raveendranath]]></title>
-        <id>https://www.youtube.com/watch?v=BmNVrudyMIY</id>
-        <link href="https://www.youtube.com/watch?v=BmNVrudyMIY"/>
-        <updated>2025-03-14T05:02:20.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karthave Prarthana | കർത്താവേ പ്രാർത്ഥന | Malankara Catholic Qurbana Song | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=rTPDz-MWkWs</id>
-        <link href="https://www.youtube.com/watch?v=rTPDz-MWkWs"/>
-        <updated>2025-03-14T04:31:36.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാത്തുക്കുട്ടിയും, കേദാറും പാടി കരഞ്ഞുപോയ മെഗാഹിറ്റ് ഗാനം 😍 ഇഷ്ടമായാൽ ഷെയർ ചെയ്യണേ | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Jv0LlSiXXtM</id>
-        <link href="https://www.youtube.com/watch?v=Jv0LlSiXXtM"/>
-        <updated>2025-03-14T04:30:08.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep the funk alive! 🎧💥 #PachaParishkari #ThirumaLi #JayStellar #YTShorts #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=9bPcAe6JLoY</id>
-        <link href="https://www.youtube.com/watch?v=9bPcAe6JLoY"/>
-        <updated>2025-03-14T04:30:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
