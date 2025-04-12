@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T22:07:16.630Z</updated>
+    <updated>2025-04-12T23:07:41.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=U5nh_cgj-FA</id>
+        <link href="https://www.youtube.com/watch?v=U5nh_cgj-FA"/>
+        <updated>2025-04-12T23:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഓശാന ഞായർ - ഏപ്രിൽ: 12 | #hosanna | #oshana | Palm Sunday | #prayer]]></title>
+        <id>https://www.youtube.com/watch?v=dU2BAJI0VPA</id>
+        <link href="https://www.youtube.com/watch?v=dU2BAJI0VPA"/>
+        <updated>2025-04-12T22:30:04.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 13 # Athiravile Prarthana 13th of April 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=jIoI_xHLMqY</id>
@@ -12541,42 +12559,6 @@
         <updated>2025-03-14T11:30:07.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premamadhu Thedum Video Song | Kunchacko Boban | KJ Yesudas | Mohan Sithara | Yusufali Kecheri]]></title>
-        <id>https://www.youtube.com/watch?v=s43L15Mjtxk</id>
-        <link href="https://www.youtube.com/watch?v=s43L15Mjtxk"/>
-        <updated>2025-03-14T11:03:24.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roja Neeyen Roja | Youth Festival #mjayachandran #shortsfeed #shortsvideo #reels #malayalamfilmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=lC4nebT58ck</id>
-        <link href="https://www.youtube.com/watch?v=lC4nebT58ck"/>
-        <updated>2025-03-14T10:30:31.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits of Sushin Shyam - Jukebox | Aadharanjali | Thalatherichavar | Pakaliravukal | Athmave Po]]></title>
-        <id>https://www.youtube.com/watch?v=ANuUIsYObus</id>
-        <link href="https://www.youtube.com/watch?v=ANuUIsYObus"/>
-        <updated>2025-03-14T10:30:06.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweetheart - Jukebox | Rio Raj | Gopika Ramesh | Yuvan Shankar Raja | Swineeth S.Sukumar]]></title>
-        <id>https://www.youtube.com/watch?v=naLJAyl_Z18</id>
-        <link href="https://www.youtube.com/watch?v=naLJAyl_Z18"/>
-        <updated>2025-03-14T10:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
