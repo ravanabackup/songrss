@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T07:07:52.073Z</updated>
+    <updated>2025-04-13T08:10:50.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puthen Pana Songs Malayalam | Ammakanya Manithante | Dukkavelli Songs | Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=7PhkdlM1lr8</id>
+        <link href="https://www.youtube.com/watch?v=7PhkdlM1lr8"/>
+        <updated>2025-04-13T07:30:07.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bazooka - Success Teaser | Mammootty | Gautham Vasudev Menon | Deeno Dennis]]></title>
+        <id>https://www.youtube.com/watch?v=u178iLSL7Ao</id>
+        <link href="https://www.youtube.com/watch?v=u178iLSL7Ao"/>
+        <updated>2025-04-13T07:27:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kuttikal Ooshanakal  |Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=Pof-0BBUkug</id>
