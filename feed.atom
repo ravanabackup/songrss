@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T12:14:31.207Z</updated>
+    <updated>2025-04-13T13:17:04.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കുരിശിന്റെവഴി | പതിനൊന്നാം സ്ഥലം |@JinoKunnumpurathu| #shorts | #lent | #jesus | #kurishintevazhi]]></title>
+        <id>https://www.youtube.com/watch?v=SAZR5x7v1z8</id>
+        <link href="https://www.youtube.com/watch?v=SAZR5x7v1z8"/>
+        <updated>2025-04-13T13:00:48.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 13th of April 2025]]></title>
+        <id>https://www.youtube.com/watch?v=9VFrWsuzEhk</id>
+        <link href="https://www.youtube.com/watch?v=9VFrWsuzEhk"/>
+        <updated>2025-04-13T12:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജീവിതത്തിൽ പ്രതീക്ഷയേകുന്ന പ്രത്യാശഗീതങ്ങൾ | Christian Worship Songs | Binoy Chacko |Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=525Bkd1Tmjg</id>
+        <link href="https://www.youtube.com/watch?v=525Bkd1Tmjg"/>
+        <updated>2025-04-13T12:30:08.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കുരുത്തോല പെരുന്നാൾ | 😇 | Rev. Aneesh P Joseph |#shorts #motivation #lent]]></title>
+        <id>https://www.youtube.com/watch?v=aSx0jA9WpaI</id>
+        <link href="https://www.youtube.com/watch?v=aSx0jA9WpaI"/>
+        <updated>2025-04-13T12:30:02.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chathuranga Poru Lyric video | Padakkalam Game Plan | Baby Jean |Rajesh Murugesan |Friday Film House]]></title>
         <id>https://www.youtube.com/watch?v=7TBwoWqAgPE</id>
@@ -12478,15 +12514,6 @@
         <updated>2025-03-15T01:30:06.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Songs Malayalam | Kester | Midhila Micharl | Lent Video Songs | Nomb Geethangal]]></title>
-        <id>https://www.youtube.com/watch?v=yStc0fHvsqY</id>
-        <link href="https://www.youtube.com/watch?v=yStc0fHvsqY"/>
-        <updated>2025-03-15T00:30:37.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
