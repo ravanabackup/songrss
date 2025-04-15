@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T07:09:42.472Z</updated>
+    <updated>2025-04-15T08:12:48.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enthe Innum Vanneela | 4K | Gramaphone | Murali | Gireesh Puthancherry | P Jayachandran | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=Pj4JLwN1vZ8</id>
+        <link href="https://www.youtube.com/watch?v=Pj4JLwN1vZ8"/>
+        <updated>2025-04-15T08:09:11.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ammakanya Manithante | Puthen Pana Songs Malayalam | Holy Week Songs | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kxMcg6s0Hf8</id>
+        <link href="https://www.youtube.com/watch?v=kxMcg6s0Hf8"/>
+        <updated>2025-04-15T07:30:31.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടെങ്ങും വീടെങ്ങും അത്പോലെ തന്നെ മനസിലും നന്മയും ഐശ്വര്യവുമേകുന്ന ഗാനങ്ങൾ |EVERGREEN HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=qdOuUlfg3uo</id>
+        <link href="https://www.youtube.com/watch?v=qdOuUlfg3uo"/>
+        <updated>2025-04-15T07:30:24.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marivillin Sapthavarnajalam | Amrithageetham(1982) | Mammootty |  K.J Yesudas | Old Romantic songs]]></title>
+        <id>https://www.youtube.com/watch?v=96kD61NoVwU</id>
+        <link href="https://www.youtube.com/watch?v=96kD61NoVwU"/>
+        <updated>2025-04-15T07:30:08.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കിളിവന്നുകൊഞ്ചിയ | Kili Vannu Konjiya Jalaka Vaathil Shorts #pranayavarnagal #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=Tlfu4AWEfWw</id>
