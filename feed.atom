@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T17:07:53.971Z</updated>
+    <updated>2025-04-16T18:12:33.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പെസഹ ശുശ്രൂഷ ഗീതങ്ങൾ | Orthodox Pesaha / Maundy Thursday Songs | |വലിയ നോമ്പ്]]></title>
+        <id>https://www.youtube.com/watch?v=I66M4BM9v9o</id>
+        <link href="https://www.youtube.com/watch?v=I66M4BM9v9o"/>
+        <updated>2025-04-16T17:30:07.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പെസഹ ശുശ്രൂഷ ഗീതങ്ങൾ | Orthodox Pesaha / Maundy Thursday Songs | |വലിയ നോമ്പ്]]></title>
         <id>https://www.youtube.com/watch?v=IKbwdOhNYow</id>
@@ -12622,24 +12631,6 @@
         <updated>2025-03-18T06:15:30.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Play Dulquer Salmaan | Video Jukebox | Super Hit Film Songs of Dulquer Salmaan]]></title>
-        <id>https://www.youtube.com/watch?v=zQ-l7dCdbKY</id>
-        <link href="https://www.youtube.com/watch?v=zQ-l7dCdbKY"/>
-        <updated>2025-03-18T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മിഴിനനയും  നേരം #jesusdevotionalsongs #christianworshipsongs #lentenprayers #jesusshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ulKhRBCL2_8</id>
-        <link href="https://www.youtube.com/watch?v=ulKhRBCL2_8"/>
-        <updated>2025-03-18T05:07:59.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
