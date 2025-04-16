@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T13:20:41.016Z</updated>
+    <updated>2025-04-16T14:09:43.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maranathinu Munpayi | Pesaha song |Maundy Thursday song| Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=nIrjmX-86_g</id>
+        <link href="https://www.youtube.com/watch?v=nIrjmX-86_g"/>
+        <updated>2025-04-16T14:01:20.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unni Ganapathy Shakthi Sivashakthi - Audio Song | Karmayogi | Indrajith, Nithya Menon | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=wMMiNVY9xOQ</id>
+        <link href="https://www.youtube.com/watch?v=wMMiNVY9xOQ"/>
+        <updated>2025-04-16T13:30:57.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entho Eatho Enginayo | tha Ivide Vare (1977) | G Devarajan | P Madhuri | Jayabharathi | Old Hits]]></title>
+        <id>https://www.youtube.com/watch?v=kgEkXv1v4vI</id>
+        <link href="https://www.youtube.com/watch?v=kgEkXv1v4vI"/>
+        <updated>2025-04-16T13:30:46.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rahasyam Rahasyam |പെസഹ ശുശ്രൂഷ ഗീതങ്ങൾ | Orthodox Pesaha / Maundy Thursday Songs | |വലിയ നോമ്പ്]]></title>
+        <id>https://www.youtube.com/watch?v=RyOCfHVbMLE</id>
+        <link href="https://www.youtube.com/watch?v=RyOCfHVbMLE"/>
+        <updated>2025-04-16T13:30:24.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Is Cold | Sorry | Unnikrishnan Raghuraj | Anupama Sreedevi | Adithya Balan | Ian Camerson Paiva]]></title>
+        <id>https://www.youtube.com/watch?v=1DnJdKrCi-k</id>
+        <link href="https://www.youtube.com/watch?v=1DnJdKrCi-k"/>
+        <updated>2025-04-16T13:30:01.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പെസഹദിനത്തിനായി ഒരുങ്ങാം ഈ ഗാനങ്ങളിലൂടെ|@JinoKunnumpurathu #christiansong  #evergreenhits #lent]]></title>
+        <id>https://www.youtube.com/watch?v=-7QR2ZlK_ps</id>
+        <link href="https://www.youtube.com/watch?v=-7QR2ZlK_ps"/>
+        <updated>2025-04-16T13:30:00.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ningalkuvendi | പെസഹാതിരുന്നാൾ | Maundy Thursday | #christianshorts  #lent #jesus #maundythursday]]></title>
         <id>https://www.youtube.com/watch?v=xcUL4HE6Jec</id>
@@ -12550,15 +12604,6 @@
         <updated>2025-03-18T03:30:09.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalukal Ereyilla | Christian Shorts  #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=nZpGWXMOQVY</id>
-        <link href="https://www.youtube.com/watch?v=nZpGWXMOQVY"/>
-        <updated>2025-03-18T02:00:25.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
