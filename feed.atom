@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T11:07:42.886Z</updated>
+    <updated>2025-04-16T12:16:37.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏദൻപൂവേ ഈറൻ പ്രാവേ Video Song | P. Jayachandran | Jayaram |  Daivathinte Makan Movie]]></title>
+        <id>https://www.youtube.com/watch?v=ym84L9i9DhE</id>
+        <link href="https://www.youtube.com/watch?v=ym84L9i9DhE"/>
+        <updated>2025-04-16T12:14:22.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pesaha Songs |Pesaha Vyazham | Maundy Thursday Songs]]></title>
+        <id>https://www.youtube.com/watch?v=wanJlUbFuMs</id>
+        <link href="https://www.youtube.com/watch?v=wanJlUbFuMs"/>
+        <updated>2025-04-16T12:01:50.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naadaayaloru Schooluvenam | 4K Vide | Manikyakkallu | Prithvi raj | Samvrutha Sunil Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=Fp35ELTTeYc</id>
+        <link href="https://www.youtube.com/watch?v=Fp35ELTTeYc"/>
+        <updated>2025-04-16T11:39:50.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[താലത്തിൽ വെള്ളമെടുത്തു | പെസഹാ വ്യാഴാഴ്ചകളെ എന്നും ഭക്തിസാന്ദ്രമാക്കിയ മനോഹരഗാനം |#Pesahasongs| 2025]]></title>
+        <id>https://www.youtube.com/watch?v=yNYy329RDaA</id>
+        <link href="https://www.youtube.com/watch?v=yNYy329RDaA"/>
+        <updated>2025-04-16T11:30:57.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 16th of April 2025]]></title>
+        <id>https://www.youtube.com/watch?v=nWVQWcNDC5M</id>
+        <link href="https://www.youtube.com/watch?v=nWVQWcNDC5M"/>
+        <updated>2025-04-16T11:30:45.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aachaley - Video | Tourist Family | Sasikumar | Simran | Sean Roldan | Abishan Jeevinth]]></title>
+        <id>https://www.youtube.com/watch?v=InEgXolvIos</id>
+        <link href="https://www.youtube.com/watch?v=InEgXolvIos"/>
+        <updated>2025-04-16T11:30:00.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pesaha Songs |Pesaha Vyazham | Maundy Thursday Songs]]></title>
         <id>https://www.youtube.com/watch?v=MKemiCMl5yA</id>
@@ -2290,6 +2344,15 @@
         <updated>2025-04-11T01:30:14.000Z</updated>
         <author>
             <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurishinte Vazhi | Fr.Thadeus Aravindath | Fr.Rafi Karakkat | Itha Itha Oru Manushyan]]></title>
+        <id>https://www.youtube.com/watch?v=fiq6AKoBP84</id>
+        <link href="https://www.youtube.com/watch?v=fiq6AKoBP84"/>
+        <updated>2025-04-11T01:19:29.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12424,15 +12487,6 @@
         <updated>2025-03-18T00:30:05.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 18th of March 25 # Mathavinte Japamala Dhukhathinte Rahasyangal 18th of March 25]]></title>
-        <id>https://www.youtube.com/watch?v=KLrc9vicQoM</id>
-        <link href="https://www.youtube.com/watch?v=KLrc9vicQoM"/>
-        <updated>2025-03-17T23:30:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
