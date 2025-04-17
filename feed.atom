@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T10:09:48.285Z</updated>
+    <updated>2025-04-17T11:07:32.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good Friday Songs | ദുഃഖവെള്ളി ഗാനങ്ങൾ | Malayalam Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=9BaseJsYWZc</id>
+        <link href="https://www.youtube.com/watch?v=9BaseJsYWZc"/>
+        <updated>2025-04-17T10:49:46.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaanjadi Aadi | Adnan Sami | Makalkku #shobhana #sureshgopi #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=xSWobAbdYWE</id>
+        <link href="https://www.youtube.com/watch?v=xSWobAbdYWE"/>
+        <updated>2025-04-17T10:30:39.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ChoolamadikkadaThaalamadikka From #kondal !!🤩 #saregamamalayalam #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=LF380A9azJo</id>
+        <link href="https://www.youtube.com/watch?v=LF380A9azJo"/>
+        <updated>2025-04-17T10:30:21.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പെസഹാ വ്യാഴം ഗാനങ്ങൾ  # Maundy Thursday Malayalam Christian songs #pesahathursdaysongs Pesaha Songs]]></title>
         <id>https://www.youtube.com/watch?v=VmaNjoW4DoE</id>
@@ -12604,15 +12631,6 @@
         <updated>2025-03-18T23:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 19, വി.യൗസേപ്പിതാവിന്റെ തിരുനാൾ ദിനം നിയോഗങ്ങളെല്ലാം സമർപ്പിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=vWDnfz2Tmws</id>
-        <link href="https://www.youtube.com/watch?v=vWDnfz2Tmws"/>
-        <updated>2025-03-18T22:30:19.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
