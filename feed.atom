@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T02:21:36.884Z</updated>
+    <updated>2025-04-17T03:28:26.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good Friday #matchpointfaith  #malayalamchristiandevotionalsongs #goodfriday  #matchpointcreations]]></title>
+        <id>https://www.youtube.com/watch?v=8yfd608wpTk</id>
+        <link href="https://www.youtube.com/watch?v=8yfd608wpTk"/>
+        <updated>2025-04-17T02:55:07.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thalathil Vellameduthu Short | Thalathil vellameduthu song short | Holy Thursday Song]]></title>
+        <id>https://www.youtube.com/watch?v=f88G-iYcBm0</id>
+        <link href="https://www.youtube.com/watch?v=f88G-iYcBm0"/>
+        <updated>2025-04-17T02:48:47.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargavathil | Christian Shorts]]></title>
         <id>https://www.youtube.com/watch?v=mTuaVGMHLe0</id>
@@ -12503,33 +12521,6 @@
         <id>https://www.youtube.com/watch?v=e0iWqyjnHhI</id>
         <link href="https://www.youtube.com/watch?v=e0iWqyjnHhI"/>
         <updated>2025-03-18T15:30:15.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K For Kabaradakkam - Phonk Mix | The Independeners | Guruvayoorambala Nadayil | Asal Kolaar]]></title>
-        <id>https://www.youtube.com/watch?v=cYXsLJZfgqM</id>
-        <link href="https://www.youtube.com/watch?v=cYXsLJZfgqM"/>
-        <updated>2025-03-18T14:30:30.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaane Poovitta Moham  | G Venugopal | Johnson | PK Gopi | Balachandra Menon | Shobana]]></title>
-        <id>https://www.youtube.com/watch?v=KIluCiYLc3U</id>
-        <link href="https://www.youtube.com/watch?v=KIluCiYLc3U"/>
-        <updated>2025-03-18T14:30:17.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balikale Neekeedum | Passion Week Songs | Good Friday Song Malayalam | My Lord]]></title>
-        <id>https://www.youtube.com/watch?v=IT7TQNSJrZI</id>
-        <link href="https://www.youtube.com/watch?v=IT7TQNSJrZI"/>
-        <updated>2025-03-18T14:30:08.000Z</updated>
         <author>
             <name>Music Spread</name>
         </author>
