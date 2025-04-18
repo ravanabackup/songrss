@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T20:09:16.209Z</updated>
+    <updated>2025-04-18T21:08:06.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12802,33 +12802,6 @@
         <updated>2025-03-20T10:25:20.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valiya Nombu Geethangal | വലിയ നോമ്പ് ഗീതങ്ങൾ | Great Lent Hymns |Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=PQZ6blxgRic</id>
-        <link href="https://www.youtube.com/watch?v=PQZ6blxgRic"/>
-        <updated>2025-03-20T08:36:31.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golgothayil | Meghna Sumesh | Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=wEPTg5bjwKA</id>
-        <link href="https://www.youtube.com/watch?v=wEPTg5bjwKA"/>
-        <updated>2025-03-20T08:30:32.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadalolam Novukalil | 4K Video | Photographer | Mohanlal |Kaithapram | Johnson Hits | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=KHQ1oNasexY</id>
-        <link href="https://www.youtube.com/watch?v=KHQ1oNasexY"/>
-        <updated>2025-03-20T08:16:40.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
