@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T22:08:12.998Z</updated>
+    <updated>2025-04-18T23:08:19.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=8YB9wIb1ESs</id>
+        <link href="https://www.youtube.com/watch?v=8YB9wIb1ESs"/>
+        <updated>2025-04-18T23:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 19 # Athiravile Prarthana 19th of April 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=rAkD3hz_Lbo</id>
@@ -12757,51 +12766,6 @@
         <updated>2025-03-20T11:19:40.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരുഹൃദയം #jesusdevotionalsongs #jesusshorts #lentenseason2025 #christianshorts #jesuslove #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=njrsJXYTkQM</id>
-        <link href="https://www.youtube.com/watch?v=njrsJXYTkQM"/>
-        <updated>2025-03-20T11:01:23.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idhayam Murali - First Single (Promo) | Atharvaa | Thaman S | Aakash | Preity | Kayadu | Niharika NM]]></title>
-        <id>https://www.youtube.com/watch?v=-R75NOthKjk</id>
-        <link href="https://www.youtube.com/watch?v=-R75NOthKjk"/>
-        <updated>2025-03-20T11:00:05.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cham Cham | Mallu Singh #kjyesudas #shreyaghoshal #shortsfeed #shortsvideo #shorts #mjayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=0H9K6VJcPCA</id>
-        <link href="https://www.youtube.com/watch?v=0H9K6VJcPCA"/>
-        <updated>2025-03-20T10:30:01.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thankanilaa Video Song | Snehasagaram | Sunitha | Manoj K Jayan | KS Chithra | Johnson | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=ZNSUXpcqJfk</id>
-        <link href="https://www.youtube.com/watch?v=ZNSUXpcqJfk"/>
-        <updated>2025-03-20T10:26:50.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജീവിതത്തെ വിജയിപ്പിക്കുന്ന വലിയ നോമ്പ് ഗാനങ്ങൾ | Malayalam Christian Devotional Songs | AudioJukebox]]></title>
-        <id>https://www.youtube.com/watch?v=8WlflIyBLtw</id>
-        <link href="https://www.youtube.com/watch?v=8WlflIyBLtw"/>
-        <updated>2025-03-20T10:25:20.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
