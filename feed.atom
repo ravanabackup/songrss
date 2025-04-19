@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T14:07:17.281Z</updated>
+    <updated>2025-04-19T15:07:26.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian devotional song Malayalam | Music Spread #easter]]></title>
+        <id>https://www.youtube.com/watch?v=5oWFrGf386Q</id>
+        <link href="https://www.youtube.com/watch?v=5oWFrGf386Q"/>
+        <updated>2025-04-19T14:45:01.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koothu Kummi Chenda | Chakram | Prithviraj | Meera Jasmine | Lohithadas | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=Ktnzs-NAJoE</id>
+        <link href="https://www.youtube.com/watch?v=Ktnzs-NAJoE"/>
+        <updated>2025-04-19T14:40:16.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aniyathipravinu | Shalini | KS Chithra | Ouseppachan | S Ramesan Nair |]]></title>
+        <id>https://www.youtube.com/watch?v=JNpxif4W0Gg</id>
+        <link href="https://www.youtube.com/watch?v=JNpxif4W0Gg"/>
+        <updated>2025-04-19T14:30:12.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easter Songs | Popular Malayalam Christian Songs | ക്രിസ്തീയ ഗാനങ്ങൾ | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=tXurShoXn98</id>
+        <link href="https://www.youtube.com/watch?v=tXurShoXn98"/>
+        <updated>2025-04-19T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valakilukkana Kunjole Song | Kanmashi | Kalabhavan Mani | Nithya Das | M Jayachandran Hits]]></title>
         <id>https://www.youtube.com/watch?v=TUYfra0MbH8</id>
