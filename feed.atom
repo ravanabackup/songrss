@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T05:08:28.400Z</updated>
+    <updated>2025-04-19T06:11:37.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദുഃഖവെള്ളിയാഴ്‌ച ഗീതങ്ങൾ | Good Friday songs #goodfridaysongs]]></title>
+        <id>https://www.youtube.com/watch?v=8Sx7MCxbWaA</id>
+        <link href="https://www.youtube.com/watch?v=8Sx7MCxbWaA"/>
+        <updated>2025-04-19T06:00:10.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaduranga Poru Song | Padakkalam Game Plan #babyjean #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=p6svUICjODc</id>
+        <link href="https://www.youtube.com/watch?v=p6svUICjODc"/>
+        <updated>2025-04-19T05:35:51.000Z</updated>
+        <author>
+            <name>Friday Music Company</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakshithavine Kanka Papi | രക്ഷിതാവിനെ കാണ്കപാപീ | Malayalam Christian Song | Lent song]]></title>
+        <id>https://www.youtube.com/watch?v=jYS0T97lOSg</id>
+        <link href="https://www.youtube.com/watch?v=jYS0T97lOSg"/>
+        <updated>2025-04-19T05:30:20.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthuchippy Chellakkanna | Chemistry | Video Song | Bichu Thirumala | M.Jayachandran | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=_TWojmgEWGs</id>
+        <link href="https://www.youtube.com/watch?v=_TWojmgEWGs"/>
+        <updated>2025-04-19T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sukhamanee Nilavu | Nammal | Sidharth Bharathan | Renuka Menon | Mohan Sithara | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=oaQyHSXZlfE</id>
@@ -1057,6 +1093,15 @@
         <updated>2025-04-17T04:33:07.000Z</updated>
         <author>
             <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aayirapparanellu | Hathane Udaya Video Song | Sithara Krishnakumar | Sachin Raj | Vaisakh Sugunan]]></title>
+        <id>https://www.youtube.com/watch?v=rjHP_AyZ1nY</id>
+        <link href="https://www.youtube.com/watch?v=rjHP_AyZ1nY"/>
+        <updated>2025-04-17T03:44:57.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -12692,15 +12737,6 @@
         <id>https://www.youtube.com/watch?v=1ICyL8XIOyQ</id>
         <link href="https://www.youtube.com/watch?v=1ICyL8XIOyQ"/>
         <updated>2025-03-20T19:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 21st March 25]]></title>
-        <id>https://www.youtube.com/watch?v=XoKHjjOZwAI</id>
-        <link href="https://www.youtube.com/watch?v=XoKHjjOZwAI"/>
-        <updated>2025-03-20T18:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
