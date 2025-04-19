@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T07:07:34.984Z</updated>
+    <updated>2025-04-19T08:10:29.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good Friday #goodfridaysongs]]></title>
+        <id>https://www.youtube.com/watch?v=5tTylC19bMg</id>
+        <link href="https://www.youtube.com/watch?v=5tTylC19bMg"/>
+        <updated>2025-04-19T08:00:05.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പത്തുവർഷത്തിനിടയിലും പുറത്തിറങ്ങിയ സൂപ്പർഹിറ്റ് ജനപ്രിയ ഗാനങ്ങൾ | EVERGREEN SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=Hn9iWsIYKi8</id>
+        <link href="https://www.youtube.com/watch?v=Hn9iWsIYKi8"/>
+        <updated>2025-04-19T07:30:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good Friday  #good friday]]></title>
         <id>https://www.youtube.com/watch?v=5n5lbIEwEFw</id>
