@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T15:07:26.448Z</updated>
+    <updated>2025-04-19T16:09:09.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Easter Songs]]></title>
+        <id>https://www.youtube.com/watch?v=58EKK9JL_ag</id>
+        <link href="https://www.youtube.com/watch?v=58EKK9JL_ag"/>
+        <updated>2025-04-19T15:48:25.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian devotional song Malayalam | Music Spread #easter]]></title>
         <id>https://www.youtube.com/watch?v=5oWFrGf386Q</id>
@@ -13036,15 +13045,6 @@
         <updated>2025-03-21T05:05:36.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krooshitha Dharshanangal Day 19]]></title>
-        <id>https://www.youtube.com/watch?v=v-BrGz0j8CU</id>
-        <link href="https://www.youtube.com/watch?v=v-BrGz0j8CU"/>
-        <updated>2025-03-21T03:30:06.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
