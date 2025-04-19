@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T21:07:05.644Z</updated>
+    <updated>2025-04-19T22:07:33.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12991,24 +12991,6 @@
         <updated>2025-03-21T10:30:02.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അല്ലിയാമ്പൽപൂവേ Video Song | K. S. Chithra | Mammootty, Kaveri]]></title>
-        <id>https://www.youtube.com/watch?v=zhIixp0hfLs</id>
-        <link href="https://www.youtube.com/watch?v=zhIixp0hfLs"/>
-        <updated>2025-03-21T09:50:58.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonam Thrikkannil Song |Varnakkazhchakal | Dileep | K S Chithra | Mohan Sithara | Yousafali Kecheri]]></title>
-        <id>https://www.youtube.com/watch?v=TuHDdzN44u4</id>
-        <link href="https://www.youtube.com/watch?v=TuHDdzN44u4"/>
-        <updated>2025-03-21T09:19:32.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
