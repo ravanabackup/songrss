@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T20:08:51.478Z</updated>
+    <updated>2025-04-20T21:07:17.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12910,24 +12910,6 @@
         <updated>2025-03-22T09:24:39.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Janamadhye Ninnu   | 𝐊𝐧𝐚𝐧𝐚𝐢𝐭𝐡𝐨 𝐒𝐮𝐧𝐝𝐚𝐲| |Fourth Sunday of Great Lent |  |My Lord|]]></title>
-        <id>https://www.youtube.com/watch?v=rdI8vQ3rxJc</id>
-        <link href="https://www.youtube.com/watch?v=rdI8vQ3rxJc"/>
-        <updated>2025-03-22T08:30:21.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athala pithala | Changaathippoocha | 4K | M G Sreekumar | Gireesh Puthancherry | Jayasoorya]]></title>
-        <id>https://www.youtube.com/watch?v=pV1BsVXfpG4</id>
-        <link href="https://www.youtube.com/watch?v=pV1BsVXfpG4"/>
-        <updated>2025-03-22T08:25:48.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
