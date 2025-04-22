@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T19:07:04.276Z</updated>
+    <updated>2025-04-22T20:09:53.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 23 # Athiravile Prarthana 23rd of April 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=CBbLHngzgh0</id>
+        <link href="https://www.youtube.com/watch?v=CBbLHngzgh0"/>
+        <updated>2025-04-22T20:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd April 2025]]></title>
         <id>https://www.youtube.com/watch?v=3gNFwyOU1W4</id>
@@ -12901,24 +12910,6 @@
         <updated>2025-03-24T08:37:28.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾക്ക് പ്രിയമുള്ള സിനിമാഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM @NisariChithrageetham]]></title>
-        <id>https://www.youtube.com/watch?v=ZUpGAMzlFnA</id>
-        <link href="https://www.youtube.com/watch?v=ZUpGAMzlFnA"/>
-        <updated>2025-03-24T07:46:47.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanathe Chandiranothoru | മാനത്തെ ചന്ദിരനൊത്തൊരു | Mohanlal, Sreenivasan | Chandralekha | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=fTAL9WtDNfk</id>
-        <link href="https://www.youtube.com/watch?v=fTAL9WtDNfk"/>
-        <updated>2025-03-24T07:40:47.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
