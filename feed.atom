@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T14:09:22.052Z</updated>
+    <updated>2025-04-23T15:09:36.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aazhakkadalinte | Vayalar Sarathchandra Varma | Vidyasagar | S Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=OoBkZsjqmoQ</id>
+        <link href="https://www.youtube.com/watch?v=OoBkZsjqmoQ"/>
+        <updated>2025-04-23T14:30:14.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Normal It's Beautiful | New Normal | Anagha Ravi | Monisha Mohan Menon | Swiya]]></title>
+        <id>https://www.youtube.com/watch?v=JyPDcUyypLw</id>
+        <link href="https://www.youtube.com/watch?v=JyPDcUyypLw"/>
+        <updated>2025-04-23T14:00:35.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അന്നും ഇന്നും ഒരു ബലമാണ് ഈ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansong | ZION CLASSICS]]></title>
         <id>https://www.youtube.com/watch?v=wlnUga-jFQU</id>
