@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T03:31:12.749Z</updated>
+    <updated>2025-04-24T04:11:19.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12685,33 +12685,6 @@
         <updated>2025-03-25T17:40:28.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moran Eesho | Passion Week Songs Malayalam Orthodox | Mid Lent | My Lord]]></title>
-        <id>https://www.youtube.com/watch?v=LPcohOVn768</id>
-        <link href="https://www.youtube.com/watch?v=LPcohOVn768"/>
-        <updated>2025-03-25T16:00:21.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urugudhu Urugudhu ❤️✨ #Ace #VijaySethupathy #RukminiVasanth #JustinPrabhakaran]]></title>
-        <id>https://www.youtube.com/watch?v=qz74n7DokPA</id>
-        <link href="https://www.youtube.com/watch?v=qz74n7DokPA"/>
-        <updated>2025-03-25T15:55:28.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #coversong #malayalamchristiandevotionalsongs #matchpointcreations]]></title>
-        <id>https://www.youtube.com/watch?v=xWrP4xpcfdU</id>
-        <link href="https://www.youtube.com/watch?v=xWrP4xpcfdU"/>
-        <updated>2025-03-25T15:36:47.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
