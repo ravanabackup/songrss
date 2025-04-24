@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T21:08:21.046Z</updated>
+    <updated>2025-04-24T22:08:27.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12856,15 +12856,6 @@
         <updated>2025-03-26T10:15:29.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൂരെ മാമരകൊമ്പില്‍ song | varnapakittu Movie | Mohanalal, Meena]]></title>
-        <id>https://www.youtube.com/watch?v=gv8yReJpURk</id>
-        <link href="https://www.youtube.com/watch?v=gv8yReJpURk"/>
-        <updated>2025-03-26T09:30:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
