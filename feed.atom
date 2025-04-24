@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T17:08:11.267Z</updated>
+    <updated>2025-04-24T18:11:44.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12874,42 +12874,6 @@
         <updated>2025-03-26T06:31:31.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vrischika Raathrithan Remastered Malayalam Movie Song | Aabhijathyam | K.J.Yesudas, P Susheela]]></title>
-        <id>https://www.youtube.com/watch?v=Br9MyjmStno</id>
-        <link href="https://www.youtube.com/watch?v=Br9MyjmStno"/>
-        <updated>2025-03-26T05:52:57.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Play Kunchacko Boban | Video Jukebox | Joyful  Melodies of Kunchacko Boban]]></title>
-        <id>https://www.youtube.com/watch?v=DsvERehzBN4</id>
-        <link href="https://www.youtube.com/watch?v=DsvERehzBN4"/>
-        <updated>2025-03-26T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vezhambal Kezhum - Ambient Lofi | Aelo | Alangal | K J Yesudas, S Janaki | Ilaiyaraaja]]></title>
-        <id>https://www.youtube.com/watch?v=4Z2xPY_fjq4</id>
-        <link href="https://www.youtube.com/watch?v=4Z2xPY_fjq4"/>
-        <updated>2025-03-26T05:30:01.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadaka Kaalathiloode | Ramesh Murali | Elizabeth Raju | Saheer Ali | Dramatic Death | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=t9OrPQmYNiw</id>
-        <link href="https://www.youtube.com/watch?v=t9OrPQmYNiw"/>
-        <updated>2025-03-26T05:18:41.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
