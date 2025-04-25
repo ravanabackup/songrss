@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T22:08:22.141Z</updated>
+    <updated>2025-04-25T23:08:23.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=W37F5eoe5D0</id>
+        <link href="https://www.youtube.com/watch?v=W37F5eoe5D0"/>
+        <updated>2025-04-25T23:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevante Manna | Madhu Balakrishnan | Kester | Wilson Piravom | Abhijith Kollam | Sangeetha | Anna]]></title>
+        <id>https://www.youtube.com/watch?v=WpaW9-ZVxtM</id>
+        <link href="https://www.youtube.com/watch?v=WpaW9-ZVxtM"/>
+        <updated>2025-04-25T23:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ: 26, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=YDVNqDfWJIE</id>
+        <link href="https://www.youtube.com/watch?v=YDVNqDfWJIE"/>
+        <updated>2025-04-25T22:30:17.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 26 # Athiravile Prarthana 26th of April 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=iZ8wTuu6DfI</id>
@@ -12820,24 +12847,6 @@
         <updated>2025-03-27T11:22:27.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manchadi Kadavil | Besty |Audio Song| Shaanu Samad | Afsal | Ziya ul haq | Farisha | K V Abdul Nazar]]></title>
-        <id>https://www.youtube.com/watch?v=mgVe1DtqZzc</id>
-        <link href="https://www.youtube.com/watch?v=mgVe1DtqZzc"/>
-        <updated>2025-03-27T11:06:29.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuraga Neela |  Paviyettante Madhura Chooral #kschithra #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=8foiKx9mhRI</id>
-        <link href="https://www.youtube.com/watch?v=8foiKx9mhRI"/>
-        <updated>2025-03-27T10:30:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
