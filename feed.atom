@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T06:11:35.436Z</updated>
+    <updated>2025-04-26T07:07:52.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12647,15 +12647,6 @@
         <id>https://www.youtube.com/watch?v=g_L5dw1SXjk</id>
         <link href="https://www.youtube.com/watch?v=g_L5dw1SXjk"/>
         <updated>2025-03-27T22:00:34.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 28th of March # Athiravile Prarthana 28th March 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=16ko0QSoIR8</id>
-        <link href="https://www.youtube.com/watch?v=16ko0QSoIR8"/>
-        <updated>2025-03-27T19:00:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
