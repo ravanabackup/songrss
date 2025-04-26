@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T09:08:12.698Z</updated>
+    <updated>2025-04-26T10:08:00.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വിണ്ണിലെ ഗന്ധർവ വീണകൾ |  Classic Romantic HD 1080p | Mohanlal Ambika Malayalam Hit Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=KLRwDK6-Cdk</id>
+        <link href="https://www.youtube.com/watch?v=KLRwDK6-Cdk"/>
+        <updated>2025-04-26T09:30:21.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ammakkoru Ponnumkudam 4K  | Ulsavamelam | Urvashi | Sujatha Mohan | Mohan Sithara | ONV Kurup]]></title>
         <id>https://www.youtube.com/watch?v=sFNAlDshfms</id>
@@ -12676,15 +12685,6 @@
         <updated>2025-03-27T22:30:08.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=g_L5dw1SXjk</id>
-        <link href="https://www.youtube.com/watch?v=g_L5dw1SXjk"/>
-        <updated>2025-03-27T22:00:34.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
