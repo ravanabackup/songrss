@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T22:07:23.094Z</updated>
+    <updated>2025-04-26T23:07:44.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=obaa1AH15oY</id>
+        <link href="https://www.youtube.com/watch?v=obaa1AH15oY"/>
+        <updated>2025-04-26T23:00:52.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyen Abhayam | Kester | K.G.Markose | Gagul Joseph | Celin Jose | Akhila Aanad]]></title>
+        <id>https://www.youtube.com/watch?v=2RV2tCyGu6o</id>
+        <link href="https://www.youtube.com/watch?v=2RV2tCyGu6o"/>
+        <updated>2025-04-26T23:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ: 27, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=DJpL9ae5OgY</id>
+        <link href="https://www.youtube.com/watch?v=DJpL9ae5OgY"/>
+        <updated>2025-04-26T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 27 # Athiravile Prarthana 27th of April 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=JJeQoiIqt7w</id>
@@ -12856,33 +12883,6 @@
         <updated>2025-03-28T11:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhaharom Ko Chaman | Makalkku #hariharan #sureshgopi #shobhana  #shortsfeed #shortsvideo #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=LC9cti1As7U</id>
-        <link href="https://www.youtube.com/watch?v=LC9cti1As7U"/>
-        <updated>2025-03-28T10:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erivenal Video Song | Janapriyan Malayalam Movie Songs | Jayasurya | Bhama | Rinil Gowtham]]></title>
-        <id>https://www.youtube.com/watch?v=wN6XQDmr9gE</id>
-        <link href="https://www.youtube.com/watch?v=wN6XQDmr9gE"/>
-        <updated>2025-03-28T10:20:36.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okkela Okkela Video Song | varnapakittu  Movie | Mohanlal, Meena]]></title>
-        <id>https://www.youtube.com/watch?v=5ArK-DovEmA</id>
-        <link href="https://www.youtube.com/watch?v=5ArK-DovEmA"/>
-        <updated>2025-03-28T10:11:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
