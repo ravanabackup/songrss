@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T04:10:04.200Z</updated>
+    <updated>2025-04-26T05:08:17.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ororo Poomuthum Korthu Njan | Ilamura Thamburan | Raveendran Hits | ONV Kurupp | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=ztyc_ZwTlr4</id>
+        <link href="https://www.youtube.com/watch?v=ztyc_ZwTlr4"/>
+        <updated>2025-04-26T05:07:44.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandrachooda - Lofi | EternaLove | Karmayogi | Anoop Shankar | Navneeth Sundar]]></title>
+        <id>https://www.youtube.com/watch?v=e31xKnMNegQ</id>
+        <link href="https://www.youtube.com/watch?v=e31xKnMNegQ"/>
+        <updated>2025-04-26T04:30:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enthu Nallor Sakhi Yeshu | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=9iWsnjvy9K4</id>
