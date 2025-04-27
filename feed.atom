@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T22:07:32.733Z</updated>
+    <updated>2025-04-27T23:08:19.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=VwNH1qNo7h8</id>
+        <link href="https://www.youtube.com/watch?v=VwNH1qNo7h8"/>
+        <updated>2025-04-27T23:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sahanathiloode | Madhu Balakrishnan | Kester | Wilswaraj | Elizabeth Raju]]></title>
+        <id>https://www.youtube.com/watch?v=8jkZaS9OMBg</id>
+        <link href="https://www.youtube.com/watch?v=8jkZaS9OMBg"/>
+        <updated>2025-04-27T23:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ: 28, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=GQXUMHnJrnc</id>
+        <link href="https://www.youtube.com/watch?v=GQXUMHnJrnc"/>
+        <updated>2025-04-27T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 28 # Athiravile Prarthana 28th of April 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=AmWf9HqnInc</id>
@@ -12683,24 +12710,6 @@
         <id>https://www.youtube.com/watch?v=VKD_Pbn6Hjk</id>
         <link href="https://www.youtube.com/watch?v=VKD_Pbn6Hjk"/>
         <updated>2025-03-29T11:11:11.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Kaadham | Malarvadi Arts Club #vineethsreenivasan #shaanrahman  #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=lBj7TioEZlU</id>
-        <link href="https://www.youtube.com/watch?v=lBj7TioEZlU"/>
-        <updated>2025-03-29T10:30:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaithozhaam Njangal Kaithozham - Kanninum Kannadikkum | M Jayachandran | K S Chithra | 4K Video song]]></title>
-        <id>https://www.youtube.com/watch?v=vAspvIBrvAg</id>
-        <link href="https://www.youtube.com/watch?v=vAspvIBrvAg"/>
-        <updated>2025-03-29T10:28:05.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
         </author>
