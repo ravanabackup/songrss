@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T20:08:56.405Z</updated>
+    <updated>2025-04-27T21:07:09.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12721,15 +12721,6 @@
         <updated>2025-03-29T09:30:18.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alai Paayuthe 4K Video Song | Nivedhyam | Vinu Mohan | Bhama | Shweta Mohan | K Krishnakumar]]></title>
-        <id>https://www.youtube.com/watch?v=izabYkV7xnI</id>
-        <link href="https://www.youtube.com/watch?v=izabYkV7xnI"/>
-        <updated>2025-03-29T08:09:37.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
