@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T18:10:56.834Z</updated>
+    <updated>2025-04-27T19:07:23.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th April 2025]]></title>
+        <id>https://www.youtube.com/watch?v=VfLVFDBoqBc</id>
+        <link href="https://www.youtube.com/watch?v=VfLVFDBoqBc"/>
+        <updated>2025-04-27T19:00:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27 April 2025]]></title>
         <id>https://www.youtube.com/watch?v=CkJ7T8kLzUo</id>
@@ -12730,42 +12739,6 @@
         <updated>2025-03-29T08:00:03.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkaithe Nin Manamaano | Janapriyan | Madhu Balakrishnan | Rinil Gautham | Manju Vellayani]]></title>
-        <id>https://www.youtube.com/watch?v=VxouDSr8l6g</id>
-        <link href="https://www.youtube.com/watch?v=VxouDSr8l6g"/>
-        <updated>2025-03-29T07:04:40.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #matchpointcreations #musicspread #christiansong]]></title>
-        <id>https://www.youtube.com/watch?v=eWgXxtHa6BY</id>
-        <link href="https://www.youtube.com/watch?v=eWgXxtHa6BY"/>
-        <updated>2025-03-29T07:00:03.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഴമുകിലൊളിവർണ്ണൻ | Mazhamukiloli Varnnan | Aabhijathyam Malayalam Evergreen Film Song | S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=4Bh0kgl7ehY</id>
-        <link href="https://www.youtube.com/watch?v=4Bh0kgl7ehY"/>
-        <updated>2025-03-29T06:31:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#eekaattu #adamjoan #prithvirajsukumaran #karthik #deepakdev #songoftheday #harinarayananbk]]></title>
-        <id>https://www.youtube.com/watch?v=1-t-ONzOJtQ</id>
-        <link href="https://www.youtube.com/watch?v=1-t-ONzOJtQ"/>
-        <updated>2025-03-29T06:15:17.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
