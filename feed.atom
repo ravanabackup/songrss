@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T17:07:13.196Z</updated>
+    <updated>2025-04-27T18:10:56.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12766,15 +12766,6 @@
         <updated>2025-03-29T06:15:17.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhavettanennum |Lyrical+Video Karaoke| Oru Marubhoomi Kadha | Mohanlal |Priyadarshan|M G Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=DhgTff6pVfU</id>
-        <link href="https://www.youtube.com/watch?v=DhgTff6pVfU"/>
-        <updated>2025-03-29T05:30:05.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
