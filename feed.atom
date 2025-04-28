@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T16:10:35.081Z</updated>
+    <updated>2025-04-28T17:07:56.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Madhyastaprarthana]]></title>
+        <id>https://www.youtube.com/watch?v=ozx6VAEbXZk</id>
+        <link href="https://www.youtube.com/watch?v=ozx6VAEbXZk"/>
+        <updated>2025-04-28T16:30:27.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ashwarooda Sahadaye |St. George Songs|  ഗീവർഗീസ് സഹദാ ഗീതങ്ങൾ| My Lord]]></title>
         <id>https://www.youtube.com/watch?v=-vSWFXXQtIY</id>
@@ -12757,33 +12766,6 @@
         <updated>2025-03-30T05:30:05.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINMINI HITS/CHRISTIAN DEVOTIONAL SONGS/OWN MEDIA MUSIC COLLECTION]]></title>
-        <id>https://www.youtube.com/watch?v=99UONa89pP4</id>
-        <link href="https://www.youtube.com/watch?v=99UONa89pP4"/>
-        <updated>2025-03-30T04:46:25.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹോ, തകർത്തു മോളെ!! എല്ലായിടത്തും പാടി കേട്ട സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം 😍 "രാജാധിരാജൻ" | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=v4-QIed-faQ</id>
-        <link href="https://www.youtube.com/watch?v=v4-QIed-faQ"/>
-        <updated>2025-03-30T04:30:33.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valiya Nombu Geethangal | വലിയ നോമ്പ് ഗീതങ്ങൾ | ദുഃഖ വെള്ളി | Good Friday Songs | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=9qS_EO11Ytg</id>
-        <link href="https://www.youtube.com/watch?v=9qS_EO11Ytg"/>
-        <updated>2025-03-30T04:26:29.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
