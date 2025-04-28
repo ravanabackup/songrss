@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T23:08:19.284Z</updated>
+    <updated>2025-04-28T00:45:36.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 28th of April 2025 # Mathavinte Japamala # Santhoshathinte Rahasyangal 28th of April 2025]]></title>
+        <id>https://www.youtube.com/watch?v=qB1SdUJJ_co</id>
+        <link href="https://www.youtube.com/watch?v=qB1SdUJJ_co"/>
+        <updated>2025-04-28T00:30:43.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=VwNH1qNo7h8</id>
@@ -12649,69 +12658,6 @@
         <updated>2025-03-29T13:00:59.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aradhikunne Njngal | Binoy Chacko | Prathyasha Geethangal | Christian Melody Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=fIe3iYtNQgA</id>
-        <link href="https://www.youtube.com/watch?v=fIe3iYtNQgA"/>
-        <updated>2025-03-29T12:30:39.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചങ്കിലെ ചോര  | 😇 | Rev. Aneesh P Joseph |#shorts #motivation #lent]]></title>
-        <id>https://www.youtube.com/watch?v=9ZjqJ0HriAo</id>
-        <link href="https://www.youtube.com/watch?v=9ZjqJ0HriAo"/>
-        <updated>2025-03-29T12:30:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deivam Thantha Kanmanippoove |Am...aa Tamil Movie| அம்...ஆ| Devadarshini| Gopi Sundar|Dileesh Pothan]]></title>
-        <id>https://www.youtube.com/watch?v=LqFS1JEL-E0</id>
-        <link href="https://www.youtube.com/watch?v=LqFS1JEL-E0"/>
-        <updated>2025-03-29T12:22:39.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 29th of March 2025]]></title>
-        <id>https://www.youtube.com/watch?v=KaggySvcZPQ</id>
-        <link href="https://www.youtube.com/watch?v=KaggySvcZPQ"/>
-        <updated>2025-03-29T11:30:22.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thattum Vellattam - Title Announcement | Soubin Shahir | Deepak Parambol | Mridul Nair]]></title>
-        <id>https://www.youtube.com/watch?v=DA0wX4JHGzk</id>
-        <link href="https://www.youtube.com/watch?v=DA0wX4JHGzk"/>
-        <updated>2025-03-29T11:30:06.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sivam Sivakaram - Audio Song | Karmayogi | Indrajith, Nithya Menon | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=8yjIGrogfXQ</id>
-        <link href="https://www.youtube.com/watch?v=8yjIGrogfXQ"/>
-        <updated>2025-03-29T11:24:38.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjil Kulikkum | 4K | Jayaram | Gopika | Shyam Dharman - Veruthe Oru Bharya]]></title>
-        <id>https://www.youtube.com/watch?v=VKD_Pbn6Hjk</id>
-        <link href="https://www.youtube.com/watch?v=VKD_Pbn6Hjk"/>
-        <updated>2025-03-29T11:11:11.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
