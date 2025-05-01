@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T22:08:30.007Z</updated>
+    <updated>2025-05-01T23:08:54.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=2jdSLRio0Y8</id>
+        <link href="https://www.youtube.com/watch?v=2jdSLRio0Y8"/>
+        <updated>2025-05-01T23:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മെയ്: 02, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=XjDukuqhra0</id>
+        <link href="https://www.youtube.com/watch?v=XjDukuqhra0"/>
+        <updated>2025-05-01T22:30:17.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 2 # Athiravile Prarthana 2nd of May 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=a_V-bew1JpE</id>
@@ -13063,15 +13081,6 @@
         <updated>2025-04-02T11:30:03.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Sainaba  | Amrutham #kjyesudas #kschithra  #love #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=frm1LOoUN7Y</id>
-        <link href="https://www.youtube.com/watch?v=frm1LOoUN7Y"/>
-        <updated>2025-04-02T10:30:21.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
