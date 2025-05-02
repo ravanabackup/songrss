@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T13:20:18.508Z</updated>
+    <updated>2025-05-02T14:08:48.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chentharmizhi | 4K | Perumazhakkalam | Kavya  | M Jayachandran | Madhu Balakrishnan K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=LbSFKGt80cc</id>
+        <link href="https://www.youtube.com/watch?v=LbSFKGt80cc"/>
+        <updated>2025-05-02T13:47:35.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unnikale Oru Kadha Parayam HD REMASTERED SONG | Unnikale Oru Kadha Parayam Movie Song |  | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=ipn7oOcAk54</id>
+        <link href="https://www.youtube.com/watch?v=ipn7oOcAk54"/>
+        <updated>2025-05-02T13:30:38.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanaville Minnalkodiye | Vakkalathu Narayanankutti (2001) | Jayaram | Mohan Sithara |  KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=U5K-QTrgOqU</id>
+        <link href="https://www.youtube.com/watch?v=U5K-QTrgOqU"/>
+        <updated>2025-05-02T13:30:34.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സ് വേദനയാൽ വിങ്ങുകയാണോ ഈ ഗാനങ്ങൾ കേൾക്കൂ | @JinoKunnumpurathu | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=VwrK_SIWt5M</id>
+        <link href="https://www.youtube.com/watch?v=VwrK_SIWt5M"/>
+        <updated>2025-05-02T13:30:23.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endhino Kanne Female - Audio song | Abhiyude Kadha Anuvinteyum | Tovino Thomas | Dharan Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=63__2jkFUuk</id>
+        <link href="https://www.youtube.com/watch?v=63__2jkFUuk"/>
+        <updated>2025-05-02T13:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs of The Week | KG Markose | Christian Melody Songs Malayalam | Holy Mass Songs | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=5-3lNphRaIg</id>
+        <link href="https://www.youtube.com/watch?v=5-3lNphRaIg"/>
+        <updated>2025-05-02T13:30:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Velaikku Veluppan Kalam Song | Kaliyattam | Suresh Gopi | Manju Warrier | K J Yesudas | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=s37iXDh_FQA</id>
@@ -12991,15 +13045,6 @@
         <updated>2025-04-03T05:06:35.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paapathin Maa Vishathe | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=EixbnH8saCU</id>
-        <link href="https://www.youtube.com/watch?v=EixbnH8saCU"/>
-        <updated>2025-04-03T01:30:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
