@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T03:29:08.642Z</updated>
+    <updated>2025-05-03T04:10:18.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaavalane | L JAGADAMMA  EZHAAM  CLASS  B #shortsfeed #vineethsreenivasan #oorvasi #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=1ckHoA85WTQ</id>
+        <link href="https://www.youtube.com/watch?v=1ckHoA85WTQ"/>
+        <updated>2025-05-03T03:30:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daivakarunayin | Chithra Arun | Shorts  #malayalamchristiansongs]]></title>
         <id>https://www.youtube.com/watch?v=kFQgFmNxp5c</id>
@@ -12811,15 +12820,6 @@
         <updated>2025-04-03T18:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=PTM0265xAy0</id>
-        <link href="https://www.youtube.com/watch?v=PTM0265xAy0"/>
-        <updated>2025-04-03T15:30:11.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
