@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T14:07:32.887Z</updated>
+    <updated>2025-05-03T15:07:36.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #musicspread  #MalayalamChristianDevotionalSongs #matchpointcreations #mylord]]></title>
+        <id>https://www.youtube.com/watch?v=KjnhkRK_Ld0</id>
+        <link href="https://www.youtube.com/watch?v=KjnhkRK_Ld0"/>
+        <updated>2025-05-03T14:59:20.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി. ഗീവർഗീസ് സഹദായുടെ പെരുന്നാൾ ഗീതങ്ങൾ | മധ്യസ്ഥ പാർത്ഥന | St.George Songs & Prayers | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=YXCjMK70QxU</id>
+        <link href="https://www.youtube.com/watch?v=YXCjMK70QxU"/>
+        <updated>2025-05-03T14:30:40.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=dHLSONlKITM</id>
+        <link href="https://www.youtube.com/watch?v=dHLSONlKITM"/>
+        <updated>2025-05-03T14:30:32.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayangi Poyi Njan Mayangi Poyi 4K | Nottam | KS Chithra | M Jayachandran | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=y2sgbGTajq0</id>
