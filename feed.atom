@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T16:09:21.706Z</updated>
+    <updated>2025-05-04T17:07:12.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഗീവർഗീസ് സഹദായുടെ പെരുന്നാൾ ഗീതങ്ങൾ | മധ്യസ്ഥ പാർത്ഥന | St.George Songs & Prayers | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=1xMhlyjADGg</id>
+        <link href="https://www.youtube.com/watch?v=1xMhlyjADGg"/>
+        <updated>2025-05-04T16:30:02.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വി. ഗീവർഗീസ് സഹദായുടെ പെരുന്നാൾ ഗീതങ്ങൾ | മധ്യസ്ഥ പാർത്ഥന | St.George Songs & Prayers | Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=65gTxym6RlQ</id>
@@ -12955,24 +12964,6 @@
         <updated>2025-04-05T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadi Thodiyiletho 4K Video Song | Gireesh Puthenchery | Raveendran | KS Chithra | Aaraam Thampuraan]]></title>
-        <id>https://www.youtube.com/watch?v=Ve10sr5bRjM</id>
-        <link href="https://www.youtube.com/watch?v=Ve10sr5bRjM"/>
-        <updated>2025-04-05T05:05:18.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചിങ്കാരകിന്നാരം | Chinkara Kinnaram | Evergreen hit song | Minnaram | Mohanlal | Shobana]]></title>
-        <id>https://www.youtube.com/watch?v=UHVmApTpj9E</id>
-        <link href="https://www.youtube.com/watch?v=UHVmApTpj9E"/>
-        <updated>2025-04-05T04:30:13.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
