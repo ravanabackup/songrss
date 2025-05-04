@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T08:10:47.417Z</updated>
+    <updated>2025-05-04T09:08:48.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=08VVohOUI5g</id>
+        <link href="https://www.youtube.com/watch?v=08VVohOUI5g"/>
+        <updated>2025-05-04T08:30:01.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വി. ഗീവർഗീസ് സഹദായുടെ പെരുന്നാൾ ഗീതങ്ങൾ | മധ്യസ്ഥ പാർത്ഥന | St.George Songs & Prayers | Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=pEHTzKQ9kH8</id>
