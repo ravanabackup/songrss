@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T21:07:34.602Z</updated>
+    <updated>2025-05-04T22:07:48.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12865,24 +12865,6 @@
         <updated>2025-04-05T10:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എൻ ലോക നായകാ എൻ ജീവ ദായകാ | Shinu k Aroh | En Loka Nayaka | Malayalam Christian Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=2Liqi_iEl2E</id>
-        <link href="https://www.youtube.com/watch?v=2Liqi_iEl2E"/>
-        <updated>2025-04-05T10:00:03.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാതിരാ പുള്ളുണർന്നു  Video Song | Dileep, Manju Warrier | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=_Sfl62CbxLo</id>
-        <link href="https://www.youtube.com/watch?v=_Sfl62CbxLo"/>
-        <updated>2025-04-05T09:30:28.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
