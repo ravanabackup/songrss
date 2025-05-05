@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T21:08:19.795Z</updated>
+    <updated>2025-05-05T22:08:48.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12856,24 +12856,6 @@
         <updated>2025-04-06T12:22:52.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninte Vedanayil Thaangayi | Madhu Balakrishnan | Lent Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_M7ckZGIfHw</id>
-        <link href="https://www.youtube.com/watch?v=_M7ckZGIfHw"/>
-        <updated>2025-04-06T09:42:08.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nammude Dhukkagalkkumai Kurishil Ninnum Irangivanna Eeshoyude Gaanagal | Anuradha Sriram | Lent Song]]></title>
-        <id>https://www.youtube.com/watch?v=kt1RcTiz8Lw</id>
-        <link href="https://www.youtube.com/watch?v=kt1RcTiz8Lw"/>
-        <updated>2025-04-06T09:35:49.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
