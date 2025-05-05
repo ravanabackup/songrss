@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T20:10:01.942Z</updated>
+    <updated>2025-05-05T21:08:19.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12872,33 +12872,6 @@
         <id>https://www.youtube.com/watch?v=kt1RcTiz8Lw</id>
         <link href="https://www.youtube.com/watch?v=kt1RcTiz8Lw"/>
         <updated>2025-04-06T09:35:49.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Way Of The Cross English | Lancy | James |  Jimmy George | Charles]]></title>
-        <id>https://www.youtube.com/watch?v=iOtVEwSh49E</id>
-        <link href="https://www.youtube.com/watch?v=iOtVEwSh49E"/>
-        <updated>2025-04-06T08:56:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurishiloode | Way Of The Cross | Abijith Kollam | Elizabeth Raju | Daleema]]></title>
-        <id>https://www.youtube.com/watch?v=Hj9KCO18GqM</id>
-        <link href="https://www.youtube.com/watch?v=Hj9KCO18GqM"/>
-        <updated>2025-04-06T08:49:00.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Way Of The Cross | Kurishinte Vazhi | Fr Loius Mariyadas | Madhu Balakrishnan | Elizabeth Raju]]></title>
-        <id>https://www.youtube.com/watch?v=5nnLNM0661U</id>
-        <link href="https://www.youtube.com/watch?v=5nnLNM0661U"/>
-        <updated>2025-04-06T08:43:27.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
         </author>
