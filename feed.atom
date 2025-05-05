@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T13:21:38.033Z</updated>
+    <updated>2025-05-05T14:09:32.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thalayude Vilayattu | Aaraattu | Mohanlal | Rahul Raj | B.Unnikrishnan| M.G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=r6HFIWmun0I</id>
+        <link href="https://www.youtube.com/watch?v=r6HFIWmun0I"/>
+        <updated>2025-05-05T13:30:50.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തകർന്ന മനസ്സിനെ തലോടിയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | ZION CLASSICS]]></title>
+        <id>https://www.youtube.com/watch?v=oUbdUR_q1Y8</id>
+        <link href="https://www.youtube.com/watch?v=oUbdUR_q1Y8"/>
+        <updated>2025-05-05T13:30:40.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=VG67m8JRg70</id>
+        <link href="https://www.youtube.com/watch?v=VG67m8JRg70"/>
+        <updated>2025-05-05T13:30:32.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേണപേക്ഷിച്ചു പാടുന്ന പ്രാർത്ഥനാ ഗാനങ്ങൾ | Christian Melody Songs | Wilson Piravom | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=H8LLfKFmAs4</id>
+        <link href="https://www.youtube.com/watch?v=H8LLfKFmAs4"/>
+        <updated>2025-05-05T13:30:13.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kulambadichum Kurukakazhichum | Vakkaalathu Narayanankutti (2001) | Mohan Sithara | Sreenivas]]></title>
+        <id>https://www.youtube.com/watch?v=6TX2FfI2wT0</id>
+        <link href="https://www.youtube.com/watch?v=6TX2FfI2wT0"/>
+        <updated>2025-05-05T13:30:04.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iniyum Mizhikal Nirayaruthe Video Song | Ben Johnson | Kalabhavan Mani | K J Yesudas | Deepak Dev]]></title>
         <id>https://www.youtube.com/watch?v=ty9PqxXHmKU</id>
@@ -12829,15 +12874,6 @@
         <updated>2025-04-06T03:30:05.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandi Cholli Vazhtham | Meghna Suresh | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=VjdxWxNc80E</id>
-        <link href="https://www.youtube.com/watch?v=VjdxWxNc80E"/>
-        <updated>2025-04-06T01:30:18.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
