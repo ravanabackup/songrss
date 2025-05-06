@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T21:08:07.299Z</updated>
+    <updated>2025-05-06T22:08:23.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12883,42 +12883,6 @@
         <updated>2025-04-07T10:30:23.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#EntePunyala ##KudumbasthreeyumKunjadum #DhyanSreenivasan #AnnaRajan  #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=fhlmG6AJf4g</id>
-        <link href="https://www.youtube.com/watch?v=fhlmG6AJf4g"/>
-        <updated>2025-04-07T10:05:01.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Officer On Duty - Original Soundtrack | Jakes Bejoy | Kunchacko Boban | Jithu Ashraf]]></title>
-        <id>https://www.youtube.com/watch?v=ufY8U-aR85s</id>
-        <link href="https://www.youtube.com/watch?v=ufY8U-aR85s"/>
-        <updated>2025-04-07T10:00:06.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാടാകെ ഒന്നടങ്കം ആവേശത്തിലാഴ്ത്തിയ  സൂപ്പർഹിറ്റ് അടിപൊളി ഗാനങ്ങൾ | ADIPOLI SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=wHD5sP6MKa8</id>
-        <link href="https://www.youtube.com/watch?v=wHD5sP6MKa8"/>
-        <updated>2025-04-07T09:33:23.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mar Thoma Shayana Namaskaram | ഞങ്ങള്‍ക്കുള്ള കര്‍ത്താവെ | Njangalkulla Karthave | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=lSO9S3-m_38</id>
-        <link href="https://www.youtube.com/watch?v=lSO9S3-m_38"/>
-        <updated>2025-04-07T09:14:01.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
