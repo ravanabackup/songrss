@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T22:08:23.614Z</updated>
+    <updated>2025-05-06T23:08:32.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=j-zUy6nmHfw</id>
+        <link href="https://www.youtube.com/watch?v=j-zUy6nmHfw"/>
+        <updated>2025-05-06T23:00:45.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മെയ്: 07, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=zw0dqtXJk5g</id>
+        <link href="https://www.youtube.com/watch?v=zw0dqtXJk5g"/>
+        <updated>2025-05-06T22:30:12.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 7 # Athiravile Prarthana 7th of May 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=wyWJ-uTA3aQ</id>
@@ -12865,24 +12883,6 @@
         <updated>2025-04-07T11:30:02.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഞ്ചവൻ കാട്ടിലെ Video Song | Sukumaran | S. Janaki, M. S. Viswanathan]]></title>
-        <id>https://www.youtube.com/watch?v=lYJ9OK5Uovg</id>
-        <link href="https://www.youtube.com/watch?v=lYJ9OK5Uovg"/>
-        <updated>2025-04-07T11:05:38.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johny Mone Johny | ABCD #dulquersalmaan #gopisundar #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=lUKw74_yx7s</id>
-        <link href="https://www.youtube.com/watch?v=lUKw74_yx7s"/>
-        <updated>2025-04-07T10:30:23.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
