@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T14:09:11.296Z</updated>
+    <updated>2025-05-06T15:11:59.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=T2frof6qhx4</id>
+        <link href="https://www.youtube.com/watch?v=T2frof6qhx4"/>
+        <updated>2025-05-06T14:30:31.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembarathi Kammalittu Video Song | Anil Panachooran | M Jayachandran | Shreya Ghoshal | Ravisankar]]></title>
+        <id>https://www.youtube.com/watch?v=VxlzoUwGUlA</id>
+        <link href="https://www.youtube.com/watch?v=VxlzoUwGUlA"/>
+        <updated>2025-05-06T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthumani Thooval Tharam Video Song|Kauravar|Mammootty|#spvenkatesh #mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=GkTHHA01e-Y</id>
+        <link href="https://www.youtube.com/watch?v=GkTHHA01e-Y"/>
+        <updated>2025-05-06T14:30:22.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOP 10 / CHRISTIAN DEVOTIONAL SONGS / OWN MEDIA MUSIC COLLECTION.]]></title>
         <id>https://www.youtube.com/watch?v=cTRq7tTjpJ4</id>
