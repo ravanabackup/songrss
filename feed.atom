@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T17:08:13.631Z</updated>
+    <updated>2025-05-06T18:12:41.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12955,42 +12955,6 @@
         <updated>2025-04-07T07:23:54.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു ദിനം കനവിൻ മലർവനം അരികിലതു മിഴികളിലടരുകയോ #evergreenhits #mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=hK6y653L2mY</id>
-        <link href="https://www.youtube.com/watch?v=hK6y653L2mY"/>
-        <updated>2025-04-07T05:57:41.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalolam | Rathrimazha | Video | Ramesh Narayanan | Sujatha | Kaithapram | Lenin Rajendran]]></title>
-        <id>https://www.youtube.com/watch?v=cM2IKBVDcPM</id>
-        <link href="https://www.youtube.com/watch?v=cM2IKBVDcPM"/>
-        <updated>2025-04-07T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandhan - Original Score | M. Sasikumar | Sruthi Periyasamy | Ghibran Vaibodha | Era Saravanan]]></title>
-        <id>https://www.youtube.com/watch?v=ZKqB4UF1Iok</id>
-        <link href="https://www.youtube.com/watch?v=ZKqB4UF1Iok"/>
-        <updated>2025-04-07T05:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dramatic Death | Teaser | Saheer Ali | Abdul Saheer T A | K K Sajan | S&S Productions | Film Teaser]]></title>
-        <id>https://www.youtube.com/watch?v=5Rr9OzRDOes</id>
-        <link href="https://www.youtube.com/watch?v=5Rr9OzRDOes"/>
-        <updated>2025-04-07T05:21:52.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
