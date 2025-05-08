@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T14:08:54.197Z</updated>
+    <updated>2025-05-08T15:09:20.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ambilippoomarano | 4K | Sreekrishnapurathu Nakshathrathilakkam | | Nagma | Jagathi]]></title>
+        <id>https://www.youtube.com/watch?v=oOy8XrwfhEk</id>
+        <link href="https://www.youtube.com/watch?v=oOy8XrwfhEk"/>
+        <updated>2025-05-08T14:32:07.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavillin Kottarathil | Vidyasagar | Kaithapram | Sujatha Mohan | Biju Narayanan #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=sGE-zcRWc0M</id>
+        <link href="https://www.youtube.com/watch?v=sGE-zcRWc0M"/>
+        <updated>2025-05-08T14:30:38.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=ooZWN5HpAa8</id>
+        <link href="https://www.youtube.com/watch?v=ooZWN5HpAa8"/>
+        <updated>2025-05-08T14:30:35.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകം മുഴുവൻ സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റായ ഗാനങ്ങൾ!! | #supersongs | #evergreen]]></title>
+        <id>https://www.youtube.com/watch?v=VzGCXfRbwNE</id>
+        <link href="https://www.youtube.com/watch?v=VzGCXfRbwNE"/>
+        <updated>2025-05-08T14:30:17.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവ സ്നേഹത്തിന്റെ ആഴമറിയാം ഈ ഗാനങ്ങളിലൂടെ | @JinoKunnumpurathu | #christiansongs | ZION CLASSICS]]></title>
         <id>https://www.youtube.com/watch?v=vX05UclASNA</id>
