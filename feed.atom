@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T17:07:54.018Z</updated>
+    <updated>2025-05-09T18:12:13.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12766,42 +12766,6 @@
         <updated>2025-04-10T07:30:15.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mane Madhura Karimbe | മാനേ മധുരക്കരിമ്പേ |  Pinnilavu Romantic Hit Movie Song | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=_BhBxQeVeaM</id>
-        <link href="https://www.youtube.com/watch?v=_BhBxQeVeaM"/>
-        <updated>2025-04-10T06:10:51.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sookshmadarshini - Original Score | Nazriya Nazim | Basil Joseph | MC | Christo Xavier]]></title>
-        <id>https://www.youtube.com/watch?v=EHWqFjjE59o</id>
-        <link href="https://www.youtube.com/watch?v=EHWqFjjE59o"/>
-        <updated>2025-04-10T05:34:08.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machuva Eri | Lyrical + Karaoke  Video | Best Actor | Mammootty | Bijibal | Shankar Mahadevan]]></title>
-        <id>https://www.youtube.com/watch?v=uLbIYTykKCg</id>
-        <link href="https://www.youtube.com/watch?v=uLbIYTykKCg"/>
-        <updated>2025-04-10T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manatharilennum | Lovely Jiji | Elizabeth Raju  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Lx3qUHJf_fA</id>
-        <link href="https://www.youtube.com/watch?v=Lx3qUHJf_fA"/>
-        <updated>2025-04-10T05:15:01.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
