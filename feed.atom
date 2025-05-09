@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T14:08:51.807Z</updated>
+    <updated>2025-05-09T15:09:16.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആരാലും അസാധ്യം | Aaralum Asadhyam | Malayalam Christian Devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=BrWgz9poYIY</id>
+        <link href="https://www.youtube.com/watch?v=BrWgz9poYIY"/>
+        <updated>2025-05-09T15:00:06.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=tqQgbab8YRQ</id>
+        <link href="https://www.youtube.com/watch?v=tqQgbab8YRQ"/>
+        <updated>2025-05-09T14:30:38.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikyakallal | Mohanlal | Divya Unni | MG Sreekumar | Swarnalatha | Vidyasagar #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=7pHVziV82ic</id>
+        <link href="https://www.youtube.com/watch?v=7pHVziV82ic"/>
+        <updated>2025-05-09T14:30:11.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramapithavinu Sthuthi | പരമപിതാവിനു സ്തുതിപാടാം | Malayalam Christian Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=A8ICjth3BOQ</id>
+        <link href="https://www.youtube.com/watch?v=A8ICjth3BOQ"/>
+        <updated>2025-05-09T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹോ, തകർത്തല്ലോ മോളെ!! ലോകമേമ്പാടും പാടി കേട്ട സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം "ആകാശമേ കേൾക്കാ" #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=97omqK2wD2Y</id>
+        <link href="https://www.youtube.com/watch?v=97omqK2wD2Y"/>
+        <updated>2025-05-09T14:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹോ, തകർത്തല്ലോ മോളെ!! ലോകമേമ്പാടും പാടി കേട്ട സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം "ആകാശമേ കേൾക്കാ" |#worship]]></title>
         <id>https://www.youtube.com/watch?v=BLHSuAgHGBQ</id>
