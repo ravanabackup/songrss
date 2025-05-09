@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T13:21:07.702Z</updated>
+    <updated>2025-05-09T14:08:51.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഹോ, തകർത്തല്ലോ മോളെ!! ലോകമേമ്പാടും പാടി കേട്ട സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം "ആകാശമേ കേൾക്കാ" |#worship]]></title>
+        <id>https://www.youtube.com/watch?v=BLHSuAgHGBQ</id>
+        <link href="https://www.youtube.com/watch?v=BLHSuAgHGBQ"/>
+        <updated>2025-05-09T13:45:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnanam Oonjal Video Song | Mammootty | P Susheela | Shyam |Kavalam Narayana Panicker]]></title>
+        <id>https://www.youtube.com/watch?v=vp43XzTermM</id>
+        <link href="https://www.youtube.com/watch?v=vp43XzTermM"/>
+        <updated>2025-05-09T13:30:54.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neethirapol - Audio Song | Appavum Veenjum | Ramyakrishnan, Pratap Pothen | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=Y2xkisY4zjc</id>
+        <link href="https://www.youtube.com/watch?v=Y2xkisY4zjc"/>
+        <updated>2025-05-09T13:30:35.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kavalay Kanalinu Kavalay | Vargam (2006) | Thej Mervin | Vidhu Prathap | Prithviraj | Renuka]]></title>
+        <id>https://www.youtube.com/watch?v=WzaziWWGpXs</id>
+        <link href="https://www.youtube.com/watch?v=WzaziWWGpXs"/>
+        <updated>2025-05-09T13:30:33.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേട്ടവരെല്ലാം നെഞ്ചോട് ചേർത്ത ക്രിസ്തീയ ഗാനങ്ങൾ | Sreya Jayadeep | Christian Superhit Songs]]></title>
+        <id>https://www.youtube.com/watch?v=gRqeTdUmGdU</id>
+        <link href="https://www.youtube.com/watch?v=gRqeTdUmGdU"/>
+        <updated>2025-05-09T13:30:28.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=MV5b0E0HgiU</id>
+        <link href="https://www.youtube.com/watch?v=MV5b0E0HgiU"/>
+        <updated>2025-05-09T13:30:28.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guruvayoor Unnikannanu Songs | Aanachantham | Jayaram | Madhu Balakrishnan | Jaison J Nair]]></title>
         <id>https://www.youtube.com/watch?v=ue9dnRHEKDs</id>
@@ -74,6 +128,15 @@
         <id>https://www.youtube.com/watch?v=jX6q_0kQgYw</id>
         <link href="https://www.youtube.com/watch?v=jX6q_0kQgYw"/>
         <updated>2025-05-09T12:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathiyil Pathiyayi | Sathyam Ningale Swathanthrakkum | Rijisha | Antony Abraham | Latest Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=wzWXQnxI0Us</id>
+        <link href="https://www.youtube.com/watch?v=wzWXQnxI0Us"/>
+        <updated>2025-05-09T11:54:50.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -2938,6 +3001,15 @@
         <updated>2025-05-02T10:30:37.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhanyan Vinman Vasikale | Marriage Songs | RoyPuthur & Team | Syrian Christian Wedding Songs]]></title>
+        <id>https://www.youtube.com/watch?v=FJKTwVhJYLM</id>
+        <link href="https://www.youtube.com/watch?v=FJKTwVhJYLM"/>
+        <updated>2025-05-02T09:59:52.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12667,15 +12739,6 @@
         <updated>2025-04-10T03:59:11.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandi Cholli Vazhtham | Meghna Suresh | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=_yvytq60-kY</id>
-        <link href="https://www.youtube.com/watch?v=_yvytq60-kY"/>
-        <updated>2025-04-10T01:30:31.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
