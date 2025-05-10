@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T10:08:25.326Z</updated>
+    <updated>2025-05-10T11:07:01.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devangane | Kayam #shwethamenon #bala  #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=Qoa9AM4JrqU</id>
+        <link href="https://www.youtube.com/watch?v=Qoa9AM4JrqU"/>
+        <updated>2025-05-10T11:00:47.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaidoorya Kammalaninju Video Song | M. G. Sreekumar, K. S. Chithra | Manju Warrier, Dileep, Mohini]]></title>
         <id>https://www.youtube.com/watch?v=FtNqkJz8n9U</id>
@@ -12541,24 +12550,6 @@
         <updated>2025-04-11T00:01:01.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=VwRMOZLjG5E</id>
-        <link href="https://www.youtube.com/watch?v=VwRMOZLjG5E"/>
-        <updated>2025-04-10T23:00:38.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏപ്രിൽ: 11, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=_G_CY0yjs0Y</id>
-        <link href="https://www.youtube.com/watch?v=_G_CY0yjs0Y"/>
-        <updated>2025-04-10T22:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
