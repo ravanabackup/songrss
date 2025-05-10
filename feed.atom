@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T11:07:01.415Z</updated>
+    <updated>2025-05-10T12:14:24.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=oQnvZKlCEMc</id>
+        <link href="https://www.youtube.com/watch?v=oQnvZKlCEMc"/>
+        <updated>2025-05-10T11:30:46.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crushaane Crushaane |Written and Directed By God #vineethsreenivasan #shaanrahman #shortsfeed #reels]]></title>
+        <id>https://www.youtube.com/watch?v=XJn9rV8yHkM</id>
+        <link href="https://www.youtube.com/watch?v=XJn9rV8yHkM"/>
+        <updated>2025-05-10T11:30:24.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devangane | Kayam #shwethamenon #bala  #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=Qoa9AM4JrqU</id>
@@ -1354,6 +1372,15 @@
         <updated>2025-05-07T08:32:33.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാള സിനിമയിലെ പ്രിയ മെലഡി ഗാനങ്ങൾ | Video Song Jukebox | Gireesh Puthenchery | K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=79HOMTgwxMg</id>
+        <link href="https://www.youtube.com/watch?v=79HOMTgwxMg"/>
+        <updated>2025-05-07T08:26:36.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -12541,15 +12568,6 @@
         <updated>2025-04-11T00:30:18.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാല്പതാംവെള്ളിദിവസത്തിൽ കേൾക്കാൻപറ്റിയ  നോമ്പുഗാനങ്ങൾ |  @JinoKunnumpurathu  #christiansongs #lent]]></title>
-        <id>https://www.youtube.com/watch?v=sHwqMO5biI0</id>
-        <link href="https://www.youtube.com/watch?v=sHwqMO5biI0"/>
-        <updated>2025-04-11T00:01:01.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
