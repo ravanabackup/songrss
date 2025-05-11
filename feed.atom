@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T17:06:41.467Z</updated>
+    <updated>2025-05-11T18:10:41.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12397,33 +12397,6 @@
         <updated>2025-04-12T06:17:42.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDA NENJILE VIDEO SONG | The Life Of Mangrove | Josy Alappuzha | Andrea M Theodore | D B Ajith Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=Wo_6HzKLA7E</id>
-        <link href="https://www.youtube.com/watch?v=Wo_6HzKLA7E"/>
-        <updated>2025-04-12T05:54:25.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#pessamal #mounamsollumvarthaigal #vinthakoshy #amritajayakumar #sidharthapradeep #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=iiGe8QE4pPU</id>
-        <link href="https://www.youtube.com/watch?v=iiGe8QE4pPU"/>
-        <updated>2025-04-12T05:48:47.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanazhago | Vellinakshatram  | Sujatha | Prithviraj | Vinayan | M Jayachandran | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=p8S0iP4Gs9k</id>
-        <link href="https://www.youtube.com/watch?v=p8S0iP4Gs9k"/>
-        <updated>2025-04-12T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
