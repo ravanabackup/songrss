@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T20:08:57.280Z</updated>
+    <updated>2025-05-11T21:07:24.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12361,24 +12361,6 @@
         <updated>2025-04-12T10:16:37.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radhamadhavam | Syam Mohan | Gayathri Jyothish | Rajkumar Radhakrishnan | Deepa Soman Devikrupa]]></title>
-        <id>https://www.youtube.com/watch?v=eSMWRPHVJ9I</id>
-        <link href="https://www.youtube.com/watch?v=eSMWRPHVJ9I"/>
-        <updated>2025-04-12T08:53:06.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bazooka - Sneek Peak 1 | Mammootty | Gautham Vasudev Menon | Deeno Dennis]]></title>
-        <id>https://www.youtube.com/watch?v=syQYxY_BUZg</id>
-        <link href="https://www.youtube.com/watch?v=syQYxY_BUZg"/>
-        <updated>2025-04-12T08:21:29.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
