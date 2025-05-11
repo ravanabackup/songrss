@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T11:06:44.740Z</updated>
+    <updated>2025-05-11T12:14:41.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
+        <id>https://www.youtube.com/watch?v=kx9EIRAt3v0</id>
+        <link href="https://www.youtube.com/watch?v=kx9EIRAt3v0"/>
+        <updated>2025-05-11T11:30:37.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallaliye Kallaliye - Video Song | Maaman | Soori | Prasanth Pandiyaraj | Hesham Abdul Wahab]]></title>
+        <id>https://www.youtube.com/watch?v=ripKJI95wQ8</id>
+        <link href="https://www.youtube.com/watch?v=ripKJI95wQ8"/>
+        <updated>2025-05-11T11:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Mother’s Day to all the supermoms out there!❤️#mothersday #AmAa #deivamthanthakanmanippoove]]></title>
         <id>https://www.youtube.com/watch?v=zFLp_ScD-_w</id>
@@ -12370,15 +12388,6 @@
         <updated>2025-04-12T00:30:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rakshithavine Kanka Paapi | Libin Scaria | T J Varky | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=OWgngfYj33A</id>
-        <link href="https://www.youtube.com/watch?v=OWgngfYj33A"/>
-        <updated>2025-04-12T00:00:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
