@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T17:08:09.110Z</updated>
+    <updated>2025-05-12T18:12:47.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12262,42 +12262,6 @@
         <updated>2025-04-13T06:30:12.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medaponnaniyum | 1080p | Devasuram | Mohanlal | Revathi | M G Radhakrishnan | Gireesh Puthancherry]]></title>
-        <id>https://www.youtube.com/watch?v=qh6oosrGAT8</id>
-        <link href="https://www.youtube.com/watch?v=qh6oosrGAT8"/>
-        <updated>2025-04-13T05:30:34.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yerushalem |Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=mrAoLwfv96k</id>
-        <link href="https://www.youtube.com/watch?v=mrAoLwfv96k"/>
-        <updated>2025-04-13T05:30:33.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadaisi Ulaga Por - Original Score | Hiphop Tamizha | HHT Entertainment]]></title>
-        <id>https://www.youtube.com/watch?v=3NwMLpjLnoA</id>
-        <link href="https://www.youtube.com/watch?v=3NwMLpjLnoA"/>
-        <updated>2025-04-13T05:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheruppathil | Kappiri Thuruthu #vijayyesudas #pearlemanney  #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=1dsGe7ZzBmQ</id>
-        <link href="https://www.youtube.com/watch?v=1dsGe7ZzBmQ"/>
-        <updated>2025-04-13T05:30:02.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
