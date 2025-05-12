@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T00:48:04.447Z</updated>
+    <updated>2025-05-12T02:29:41.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ellam Ange Mahathwathinay | Christian Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=YR9_ckpI3Jk</id>
+        <link href="https://www.youtube.com/watch?v=YR9_ckpI3Jk"/>
+        <updated>2025-05-12T01:30:18.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhthunne | Elizabeth Raju | Shorts  #malayalamchristiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=5sijEFSa_Gw</id>
+        <link href="https://www.youtube.com/watch?v=5sijEFSa_Gw"/>
+        <updated>2025-05-12T01:30:11.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 12th of May 2025 Mathavinte Japamala # Santhoshathinte Rahasyangal 12th of May 25]]></title>
         <id>https://www.youtube.com/watch?v=TMwu3hKAqn8</id>
@@ -12145,150 +12163,6 @@
         <updated>2025-04-12T14:30:02.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aanipazhuthulla...#lentsongsmalayalam #valiyanombsongs #jojijohns #gishasony #sameekshasud]]></title>
-        <id>https://www.youtube.com/watch?v=yjLyGBAZjnA</id>
-        <link href="https://www.youtube.com/watch?v=yjLyGBAZjnA"/>
-        <updated>2025-04-12T14:01:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuttikal Ooshanakal  |Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=oZbF51N-glM</id>
-        <link href="https://www.youtube.com/watch?v=oZbF51N-glM"/>
-        <updated>2025-04-12T14:01:11.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hosanna Mahonnathanam |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=wekJ3nt-MII</id>
-        <link href="https://www.youtube.com/watch?v=wekJ3nt-MII"/>
-        <updated>2025-04-12T13:45:12.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nara Rakshakanam..#christiandevotionalsongsmalayalam #jojijohns #valiyanombsongs #sameksha]]></title>
-        <id>https://www.youtube.com/watch?v=uNVhURcgvBA</id>
-        <link href="https://www.youtube.com/watch?v=uNVhURcgvBA"/>
-        <updated>2025-04-12T13:45:10.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജനഹൃദയങ്ങളെ  ആവേശത്തിന്റെ മുൾമുനയിൽ നിർത്തിയ  സൂപ്പർഹിറ്റ് അടിപൊളിഗാനങ്ങൾ | ADIPOLI SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=2-aDNMve3H4</id>
-        <link href="https://www.youtube.com/watch?v=2-aDNMve3H4"/>
-        <updated>2025-04-12T13:44:00.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kukku Kuruvi Kuruval Kili 4K Video Song| Paayum Puli | Rambha | Jyotsna Radhakrishnan| Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=QAu9pz6qX2g</id>
-        <link href="https://www.youtube.com/watch?v=QAu9pz6qX2g"/>
-        <updated>2025-04-12T13:36:27.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinnile Malakhamar | ഓശാന തിരുന്നാൾ ആശംസകൾ |  @JinoKunnumpurathu  #shorts #christianshorts #lent]]></title>
-        <id>https://www.youtube.com/watch?v=pqxpxRjqXZI</id>
-        <link href="https://www.youtube.com/watch?v=pqxpxRjqXZI"/>
-        <updated>2025-04-12T13:30:41.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓശാനക്കായ് ഒരുങ്ങാം ഈ ഗാനങ്ങൾക്കൊപ്പം  |@JinoKunnumpurathu  #christiansongs #evergreenhits]]></title>
-        <id>https://www.youtube.com/watch?v=ih-5QB1u9XI</id>
-        <link href="https://www.youtube.com/watch?v=ih-5QB1u9XI"/>
-        <updated>2025-04-12T13:30:38.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nararakshakanam Eeshomishiha | Easter Video Song | Sameeksha Anthony | Joji Johns | Gisha Sony]]></title>
-        <id>https://www.youtube.com/watch?v=RlGDaVW82dg</id>
-        <link href="https://www.youtube.com/watch?v=RlGDaVW82dg"/>
-        <updated>2025-04-12T13:30:30.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swapnam Oru Chak|  Super 4 Ishtaganangal  #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=KNSDJQxlXo8</id>
-        <link href="https://www.youtube.com/watch?v=KNSDJQxlXo8"/>
-        <updated>2025-04-12T13:30:25.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charusheele (Tamil ) | Parannu Parannu Parannu Chellan #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=czwbY8ep-sY</id>
-        <link href="https://www.youtube.com/watch?v=czwbY8ep-sY"/>
-        <updated>2025-04-12T13:30:25.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manam Mahatwam  |Osana Song |Hosana Song | Palm sunday song |ഓശാന | Oshana Song| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=ByJ6WOFgax8</id>
-        <link href="https://www.youtube.com/watch?v=ByJ6WOFgax8"/>
-        <updated>2025-04-12T13:30:07.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDA NENJILE VIDEO SONG | The Life Of Mangrove | Josy Alappuzha #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=isVBIOeNr60</id>
-        <link href="https://www.youtube.com/watch?v=isVBIOeNr60"/>
-        <updated>2025-04-12T13:01:22.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thamarakannan Urangenam Song | Urangenam Vatsalyam | Mammootty | Geetha | KS Chithra | SP Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=V6GGxGzJRkk</id>
-        <link href="https://www.youtube.com/watch?v=V6GGxGzJRkk"/>
-        <updated>2025-04-12T13:00:52.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THIRANJEDUKKAPPETTAVAN | ANUPAMA TOM | SIJI M GEORGE |  @JinoKunnumpurathu #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=0fM8iqIHvCI</id>
-        <link href="https://www.youtube.com/watch?v=0fM8iqIHvCI"/>
-        <updated>2025-04-12T13:00:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 April 2025]]></title>
-        <id>https://www.youtube.com/watch?v=1I9RvjTXXG8</id>
-        <link href="https://www.youtube.com/watch?v=1I9RvjTXXG8"/>
-        <updated>2025-04-12T12:50:20.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
