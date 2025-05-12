@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T07:10:16.504Z</updated>
+    <updated>2025-05-12T08:13:51.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kabadi Kabadi Video Song | Nammal Thammil | Prithviraj Sukumaran| Geethu Mohandas| Afsal | Rimi Tomy]]></title>
+        <id>https://www.youtube.com/watch?v=u-kB1P7DQwI</id>
+        <link href="https://www.youtube.com/watch?v=u-kB1P7DQwI"/>
+        <updated>2025-05-12T07:46:51.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shanthamee Rathriyil | Thudarum | Audio | S.P VENKATESH | JAKES BEJOY | Mohanlal | Tharun Moorthy]]></title>
+        <id>https://www.youtube.com/watch?v=Q2h4M6Zl540</id>
+        <link href="https://www.youtube.com/watch?v=Q2h4M6Zl540"/>
+        <updated>2025-05-12T07:30:09.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pazham tamil paattizhayum | പഴന്തമിഴ് പാട്ടിഴയും | Manichitrathazhu | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=HWnEt2Zs_yQ</id>
+        <link href="https://www.youtube.com/watch?v=HWnEt2Zs_yQ"/>
+        <updated>2025-05-12T07:22:39.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Omane Thankame | 4K | Mizhi Randilum | Dileep | Kavya | KJ Yesudas | Sujatha Mohan| Raveendran Hits]]></title>
         <id>https://www.youtube.com/watch?v=oGqcSiiHVnc</id>
@@ -12118,15 +12145,6 @@
         <updated>2025-04-12T22:30:04.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 13 # Athiravile Prarthana 13th of April 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jIoI_xHLMqY</id>
-        <link href="https://www.youtube.com/watch?v=jIoI_xHLMqY"/>
-        <updated>2025-04-12T20:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
