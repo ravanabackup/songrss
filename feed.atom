@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T03:35:54.748Z</updated>
+    <updated>2025-05-13T04:13:06.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kurishil Karaoke | Viji Panakkal | Malayalam Christian Songs Karaoke | Latest Christian Song Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=D6RQO5U5Qe0</id>
+        <link href="https://www.youtube.com/watch?v=D6RQO5U5Qe0"/>
+        <updated>2025-05-13T03:49:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaradhyan Yesupara | Manorama Christian Shorts]]></title>
         <id>https://www.youtube.com/watch?v=12ItDtTdTyY</id>
@@ -1003,6 +1012,15 @@
         <updated>2025-05-10T08:43:49.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Kripa Thannu Nadathaname | Charles John Ranni | Malayalam Christian Devotional Song Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=s7_X1N32Te8</id>
+        <link href="https://www.youtube.com/watch?v=s7_X1N32Te8"/>
+        <updated>2025-05-10T08:02:39.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
