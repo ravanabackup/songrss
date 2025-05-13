@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T07:10:04.273Z</updated>
+    <updated>2025-05-13T08:13:08.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഗന്ധര്‍വ്വനാദം | Hits Of Yesudas | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=tQXj9eS3v5I</id>
+        <link href="https://www.youtube.com/watch?v=tQXj9eS3v5I"/>
+        <updated>2025-05-13T08:10:07.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandu Kandu | Ardra Sudhakar | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=YOI2smQetLs</id>
+        <link href="https://www.youtube.com/watch?v=YOI2smQetLs"/>
+        <updated>2025-05-13T08:00:43.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wishing the voice that sets every beat on fire a phenomenal birthday! #bennydayal #paranne #koode]]></title>
+        <id>https://www.youtube.com/watch?v=Oknh0Q-nhFU</id>
+        <link href="https://www.youtube.com/watch?v=Oknh0Q-nhFU"/>
+        <updated>2025-05-13T07:54:56.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഓർമ്മയുടെ പുസ്‌തക താളുകളിൽ സൂക്ഷിച്ചു വെച്ച   മലയാളസിനിമാ ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=MLxVcag-7Xg</id>
+        <link href="https://www.youtube.com/watch?v=MLxVcag-7Xg"/>
+        <updated>2025-05-13T07:30:09.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manikyakallal | മാണിക്ക്യക്കല്ലാൽ | Varnapakittu Movie Song | Mohanlal | Divya Unni]]></title>
         <id>https://www.youtube.com/watch?v=ug5XglFjGfQ</id>
@@ -427,6 +463,15 @@
         <updated>2025-05-12T06:57:20.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaleya  | Written and Directed By God |Video| Hesham Abhul Wahab | Shaan Rahman | Febi George]]></title>
+        <id>https://www.youtube.com/watch?v=AmouF7BC3h8</id>
+        <link href="https://www.youtube.com/watch?v=AmouF7BC3h8"/>
+        <updated>2025-05-12T06:55:42.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -12235,15 +12280,6 @@
         <updated>2025-04-13T22:30:16.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 14 # Athiravile Prarthana 14th of April 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=KZ77hdUS2Dw</id>
-        <link href="https://www.youtube.com/watch?v=KZ77hdUS2Dw"/>
-        <updated>2025-04-13T20:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
