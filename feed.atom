@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T05:09:43.142Z</updated>
+    <updated>2025-05-13T06:13:35.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjayi Peytha Ninne | Asha Black | Sachin Warrier | Dinnath Puthenchery | Jecin George]]></title>
+        <id>https://www.youtube.com/watch?v=UHrx67qMPqQ</id>
+        <link href="https://www.youtube.com/watch?v=UHrx67qMPqQ"/>
+        <updated>2025-05-13T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crushaane Crushaane |Written and Directed By God #vineethsreenivasan #shaanrahman #shortsfeed #reels]]></title>
+        <id>https://www.youtube.com/watch?v=Aop5PYasnLc</id>
+        <link href="https://www.youtube.com/watch?v=Aop5PYasnLc"/>
+        <updated>2025-05-13T05:30:05.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nooru Nooru Aadukal | Kooduvittodiya Aadil Orennam | #shorts #youtubeshorts #whatsappstatus]]></title>
+        <id>https://www.youtube.com/watch?v=TAzuS8z1zb8</id>
+        <link href="https://www.youtube.com/watch?v=TAzuS8z1zb8"/>
+        <updated>2025-05-13T05:20:41.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enthinayi Nin | 4K | Mizhi Randilum | Kavya Madhavan | K S Chithra Hits | Evergreen Raveendran Hits]]></title>
         <id>https://www.youtube.com/watch?v=sg2zkULF-LE</id>
