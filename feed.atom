@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T16:11:20.346Z</updated>
+    <updated>2025-05-14T17:08:17.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12595,33 +12595,6 @@
         <updated>2025-04-15T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhakaalila Manjacharadilu 4K | Ashwaroodan | Suresh Gopi | Padmapriya | Jassie Gift| Akhila]]></title>
-        <id>https://www.youtube.com/watch?v=jcbRLRmeiOc</id>
-        <link href="https://www.youtube.com/watch?v=jcbRLRmeiOc"/>
-        <updated>2025-04-15T05:06:48.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raja Oru Rani | Janmantharam | Vineeth | Ganesh Kumar | MG Sreekumar | Poovachal Khader]]></title>
-        <id>https://www.youtube.com/watch?v=E3u6kX2jtUU</id>
-        <link href="https://www.youtube.com/watch?v=E3u6kX2jtUU"/>
-        <updated>2025-04-15T04:30:08.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pottu Pottu | Alappuzha Gymkhana | Khalid Rahman| Naslen | Lukman Avaran | Vishnu Vijay| Suhail Koya]]></title>
-        <id>https://www.youtube.com/watch?v=L3_4-UjQ1LU</id>
-        <link href="https://www.youtube.com/watch?v=L3_4-UjQ1LU"/>
-        <updated>2025-04-15T04:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
