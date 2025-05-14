@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T22:06:58.973Z</updated>
+    <updated>2025-05-14T23:07:13.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=hi75AmspNQk</id>
+        <link href="https://www.youtube.com/watch?v=hi75AmspNQk"/>
+        <updated>2025-05-14T23:00:52.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AthulyaSneham | Kester | Wilson Piravom |Daleema | Merin Gregory | Nonstop Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=EhNw2jpn37w</id>
+        <link href="https://www.youtube.com/watch?v=EhNw2jpn37w"/>
+        <updated>2025-05-14T23:00:27.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മെയ്: 15, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=u27jzNDTxUo</id>
+        <link href="https://www.youtube.com/watch?v=u27jzNDTxUo"/>
+        <updated>2025-05-14T22:30:15.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 15 # Athiravile Prarthana 15th of May 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=0qQ9NVNJUW4</id>
@@ -12523,15 +12550,6 @@
         <updated>2025-04-15T11:14:36.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palappoovithalil  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=FGhxnrB9VLM</id>
-        <link href="https://www.youtube.com/watch?v=FGhxnrB9VLM"/>
-        <updated>2025-04-15T10:30:16.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
