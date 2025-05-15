@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T03:35:10.835Z</updated>
+    <updated>2025-05-15T04:12:49.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kandu Kandu | Ardra Sudhakar | Shorts  #shortsvideo #moviessongs #malayalamfilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=s2jDF_neBkw</id>
+        <link href="https://www.youtube.com/watch?v=s2jDF_neBkw"/>
+        <updated>2025-05-15T04:00:57.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maname Pakshiganangal | Christian Shorts]]></title>
         <id>https://www.youtube.com/watch?v=pLlNqdDh7TE</id>
