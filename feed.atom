@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T16:11:29.128Z</updated>
+    <updated>2025-05-15T17:08:17.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12595,33 +12595,6 @@
         <updated>2025-04-16T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junile Nilamazhayil | Nammal Thammil  | Gireesh Puthancherry | K J Yesudas | Sujatha |M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=Nofs_3Ebnrc</id>
-        <link href="https://www.youtube.com/watch?v=Nofs_3Ebnrc"/>
-        <updated>2025-04-16T05:08:12.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Evugin Emmanuel | BB Music | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=uO_0jc_5slY</id>
-        <link href="https://www.youtube.com/watch?v=uO_0jc_5slY"/>
-        <updated>2025-04-16T04:41:34.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivakarunayin Dhanamahathmyam | Chithra Arun | E I Jacob | Evergreen Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=uyvlyCTyLCk</id>
-        <link href="https://www.youtube.com/watch?v=uyvlyCTyLCk"/>
-        <updated>2025-04-16T04:31:00.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
