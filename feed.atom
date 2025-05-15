@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T02:25:22.977Z</updated>
+    <updated>2025-05-15T03:35:10.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12388,33 +12388,6 @@
         <updated>2025-04-15T16:41:45.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathu Kaathoru Mazhayathu | Bhavana | Jishnu | Sidharth | Kaithapram | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=xo50HY5wgM8</id>
-        <link href="https://www.youtube.com/watch?v=xo50HY5wgM8"/>
-        <updated>2025-04-15T14:30:29.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈസ്റ്റർ / ഉയിർപ്പ് ശുശ്രൂഷ ഗാനങ്ങൾ | Orthodox Easter Songs | Passion Week | Sreya |Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=8Vk6-XDIrlQ</id>
-        <link href="https://www.youtube.com/watch?v=8Vk6-XDIrlQ"/>
-        <updated>2025-04-15T14:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhayamodu Srapikal  | Pesaha song |Maundy Thursday song| My Lord]]></title>
-        <id>https://www.youtube.com/watch?v=3vwEv9zStQA</id>
-        <link href="https://www.youtube.com/watch?v=3vwEv9zStQA"/>
-        <updated>2025-04-15T14:30:02.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
