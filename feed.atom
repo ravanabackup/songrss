@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-16T05:10:11.191Z</updated>
+    <updated>2025-05-16T06:13:33.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devil's Double Next Level - Jukebox | Santhanam | Geethika | Arya| ofRO | S.Prem Anand]]></title>
+        <id>https://www.youtube.com/watch?v=gYINDNKCWX0</id>
+        <link href="https://www.youtube.com/watch?v=gYINDNKCWX0"/>
+        <updated>2025-05-16T05:34:26.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool confidence, retro excellence 💅🎙️ #OldSchoolLady #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Zgkvs3d8zLA</id>
+        <link href="https://www.youtube.com/watch?v=Zgkvs3d8zLA"/>
+        <updated>2025-05-16T05:30:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chilu Chilum | Balettan | Video | M G Sreekumar | Sujatha | Mohanlal | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=rlpuCDW1JMs</id>
+        <link href="https://www.youtube.com/watch?v=rlpuCDW1JMs"/>
+        <updated>2025-05-16T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Hassare Hassare" from #Azadi #sreenathbhasi]]></title>
+        <id>https://www.youtube.com/watch?v=6ilPPrWLsDk</id>
+        <link href="https://www.youtube.com/watch?v=6ilPPrWLsDk"/>
+        <updated>2025-05-16T05:29:57.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chanchala Druthapada | 4K | Istham  | Dileep | Navya | Jyothirmayi | Mohan Sithara Hits]]></title>
         <id>https://www.youtube.com/watch?v=5TIBwTCpEn4</id>
@@ -12244,15 +12280,6 @@
         <updated>2025-04-16T19:00:09.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പെസഹ ശുശ്രൂഷ ഗീതങ്ങൾ | Orthodox Pesaha / Maundy Thursday Songs | |വലിയ നോമ്പ്]]></title>
-        <id>https://www.youtube.com/watch?v=I66M4BM9v9o</id>
-        <link href="https://www.youtube.com/watch?v=I66M4BM9v9o"/>
-        <updated>2025-04-16T17:30:07.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
