@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-16T13:22:41.835Z</updated>
+    <updated>2025-05-16T14:09:07.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onneyullenikk Anandham | ഒന്നേയുള്ളെനിക്കാനന്ദ |Malayalam Christian Devotional song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=x4c21b6OrdA</id>
+        <link href="https://www.youtube.com/watch?v=x4c21b6OrdA"/>
+        <updated>2025-05-16T13:30:48.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pazhayoru Rajani Than -- Audio song | Nayika | K.J. Yesudas | M.K. Arjunan]]></title>
+        <id>https://www.youtube.com/watch?v=w0N_oUjqVsY</id>
+        <link href="https://www.youtube.com/watch?v=w0N_oUjqVsY"/>
+        <updated>2025-05-16T13:30:47.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOKO | Arun Muraleedharan | Kapil Kapilan | Rahul M R & Meenakshi Unnikrishnan #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=trA0Wkz5m3g</id>
+        <link href="https://www.youtube.com/watch?v=trA0Wkz5m3g"/>
+        <updated>2025-05-16T13:30:46.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകമെമ്പാടുമുള്ള വിശ്വാസികൾ ആവശ്യപ്പെട്ട ക്രിസ്തീയ ഗാനങ്ങൾ | Sudeep Kumar | Christian Meldoy Songs]]></title>
+        <id>https://www.youtube.com/watch?v=hJB1ZVlUijM</id>
+        <link href="https://www.youtube.com/watch?v=hJB1ZVlUijM"/>
+        <updated>2025-05-16T13:30:40.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പെണ്ണേ നിൻ കയ്യാൽ തൊട്ടതും ദൂരെമാഞ്ഞുപോയ് ❤️💔 Ennile Punchiri #shorts #lovesong]]></title>
+        <id>https://www.youtube.com/watch?v=Ljm-gTLqWJo</id>
+        <link href="https://www.youtube.com/watch?v=Ljm-gTLqWJo"/>
+        <updated>2025-05-16T13:30:16.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paduvanayi Vannu | Ezhuthaappurangal (1987) | ONV Kurup | KJ Yesudas | KS Chithra | Nedumudi Venu]]></title>
+        <id>https://www.youtube.com/watch?v=2DizLW-rAEA</id>
+        <link href="https://www.youtube.com/watch?v=2DizLW-rAEA"/>
+        <updated>2025-05-16T13:30:01.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinakkamaano Ennodinakkamano | 4K | Ananthabhadram | Prithviraj |Girish Puthancherry | M G Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=39uQCwlPCgY</id>
@@ -12361,24 +12415,6 @@
         <updated>2025-04-17T02:48:47.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargavathil | Christian Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mTuaVGMHLe0</id>
-        <link href="https://www.youtube.com/watch?v=mTuaVGMHLe0"/>
-        <updated>2025-04-17T02:00:41.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargavathil | Christian Shorts  #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=hNuKiJQohf0</id>
-        <link href="https://www.youtube.com/watch?v=hNuKiJQohf0"/>
-        <updated>2025-04-17T02:00:40.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
