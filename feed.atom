@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T17:06:55.103Z</updated>
+    <updated>2025-05-17T18:11:03.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12316,15 +12316,6 @@
         <updated>2025-04-18T07:01:18.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chenthengil Ponnilaneerunde | 4K | Video Song | Pokkiri Raja | Mammootty | Prithviraj | Shriya Saran]]></title>
-        <id>https://www.youtube.com/watch?v=slFj7X3H-Wc</id>
-        <link href="https://www.youtube.com/watch?v=slFj7X3H-Wc"/>
-        <updated>2025-04-18T05:14:34.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
