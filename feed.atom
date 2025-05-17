@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T21:07:27.982Z</updated>
+    <updated>2025-05-17T22:07:29.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12280,33 +12280,6 @@
         <updated>2025-04-18T10:30:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kesariyam Video Song | Gourishankaram | Kavya Madhavan | Munna | Madhu Balakrishnan | Abitha]]></title>
-        <id>https://www.youtube.com/watch?v=yuzTDbp5-CA</id>
-        <link href="https://www.youtube.com/watch?v=yuzTDbp5-CA"/>
-        <updated>2025-04-18T10:06:41.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#jaalame #trance #fahadhfaasil #jacksonvijayan #anwarrasheed #nazriya #songoftheday #goodfriday]]></title>
-        <id>https://www.youtube.com/watch?v=DrOu-iBBmkU</id>
-        <link href="https://www.youtube.com/watch?v=DrOu-iBBmkU"/>
-        <updated>2025-04-18T10:03:54.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parannu Parannu Parum | Chakram | Prithviraj | Meera Jasmine | Lohithadas | Raveendran | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=wxFd4IpTp0s</id>
-        <link href="https://www.youtube.com/watch?v=wxFd4IpTp0s"/>
-        <updated>2025-04-18T09:39:09.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
