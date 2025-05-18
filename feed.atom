@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T22:07:43.812Z</updated>
+    <updated>2025-05-18T23:08:05.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=oGK_53isGQg</id>
+        <link href="https://www.youtube.com/watch?v=oGK_53isGQg"/>
+        <updated>2025-05-18T23:00:47.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മെയ്: 19, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=bayQ88mtv-s</id>
+        <link href="https://www.youtube.com/watch?v=bayQ88mtv-s"/>
+        <updated>2025-05-18T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 19 # Athiravile Prarthana 19th of May 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=G9Rjh6K9OhQ</id>
@@ -12100,33 +12118,6 @@
         <updated>2025-04-19T11:19:56.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanka Manasu | Rappakal #pjayachandran #mammootty #shortsfeed #shortsvideo #reels #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=cq4U6zsnOXA</id>
-        <link href="https://www.youtube.com/watch?v=cq4U6zsnOXA"/>
-        <updated>2025-04-19T10:30:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Ambilipoo Song From #MachanteMalakha ! 💞 #saregamamalayalam #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=EnuS-sFtrYs</id>
-        <link href="https://www.youtube.com/watch?v=EnuS-sFtrYs"/>
-        <updated>2025-04-19T10:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തേജസ്സിതാ #eastersong #jesusshorts #christianmusics #christiansong #easterstatus #eastermusic]]></title>
-        <id>https://www.youtube.com/watch?v=OE54R6PLBeU</id>
-        <link href="https://www.youtube.com/watch?v=OE54R6PLBeU"/>
-        <updated>2025-04-19T10:26:16.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
