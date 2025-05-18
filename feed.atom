@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T15:07:34.300Z</updated>
+    <updated>2025-05-18T16:09:09.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=S2g13tj9VXM</id>
+        <link href="https://www.youtube.com/watch?v=S2g13tj9VXM"/>
+        <updated>2025-05-18T15:30:25.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayamanchalil | Ottayaal Pattaalam Movie Song | Mukesh | G Venugopal | Sharreth | #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=o7R2FfjRI38</id>
@@ -12244,33 +12253,6 @@
         <updated>2025-04-19T04:10:00.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാരി പൂങ്കുയിലെ | Romantic Movie Song | Madirasi Movie | Manjari | Jayaram, Meera Nandan]]></title>
-        <id>https://www.youtube.com/watch?v=9H6tOlrFiUM</id>
-        <link href="https://www.youtube.com/watch?v=9H6tOlrFiUM"/>
-        <updated>2025-04-19T03:30:06.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krooshitha Dharshanangal Day 48]]></title>
-        <id>https://www.youtube.com/watch?v=NwD0vwxoBhw</id>
-        <link href="https://www.youtube.com/watch?v=NwD0vwxoBhw"/>
-        <updated>2025-04-19T03:17:57.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holy Saturday Song]]></title>
-        <id>https://www.youtube.com/watch?v=2GEKop-LDxk</id>
-        <link href="https://www.youtube.com/watch?v=2GEKop-LDxk"/>
-        <updated>2025-04-19T03:15:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
