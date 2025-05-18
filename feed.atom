@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T20:09:46.212Z</updated>
+    <updated>2025-05-18T21:07:26.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12154,24 +12154,6 @@
         <updated>2025-04-19T09:39:48.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easter songs #easter #eastersunday]]></title>
-        <id>https://www.youtube.com/watch?v=Nea2VprAs7g</id>
-        <link href="https://www.youtube.com/watch?v=Nea2VprAs7g"/>
-        <updated>2025-04-19T09:00:26.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Shinkari | 4K | Pakalpooram | P Jayachandran | KS Chithra | Raveendran | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=_JRjHDzFnDw</id>
-        <link href="https://www.youtube.com/watch?v=_JRjHDzFnDw"/>
-        <updated>2025-04-19T08:15:54.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
