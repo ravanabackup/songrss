@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-18T17:07:03.632Z</updated>
+    <updated>2025-05-18T18:11:21.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12190,42 +12190,6 @@
         <updated>2025-04-19T07:00:04.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദുഃഖവെള്ളിയാഴ്‌ച ഗീതങ്ങൾ | Good Friday songs #goodfridaysongs]]></title>
-        <id>https://www.youtube.com/watch?v=8Sx7MCxbWaA</id>
-        <link href="https://www.youtube.com/watch?v=8Sx7MCxbWaA"/>
-        <updated>2025-04-19T06:00:10.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaduranga Poru Song | Padakkalam Game Plan #babyjean #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=p6svUICjODc</id>
-        <link href="https://www.youtube.com/watch?v=p6svUICjODc"/>
-        <updated>2025-04-19T05:35:51.000Z</updated>
-        <author>
-            <name>Friday Music Company</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rakshithavine Kanka Papi | രക്ഷിതാവിനെ കാണ്കപാപീ | Malayalam Christian Song | Lent song]]></title>
-        <id>https://www.youtube.com/watch?v=jYS0T97lOSg</id>
-        <link href="https://www.youtube.com/watch?v=jYS0T97lOSg"/>
-        <updated>2025-04-19T05:30:20.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthuchippy Chellakkanna | Chemistry | Video Song | Bichu Thirumala | M.Jayachandran | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=_TWojmgEWGs</id>
-        <link href="https://www.youtube.com/watch?v=_TWojmgEWGs"/>
-        <updated>2025-04-19T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
