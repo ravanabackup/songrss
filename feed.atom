@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T13:25:12.425Z</updated>
+    <updated>2025-05-20T14:09:23.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tharaka Podi Podi Video Song | Jalolsavam | Nedumudi Venu| MG Sreekumar | Alphonse Joseph| BR Prasad]]></title>
+        <id>https://www.youtube.com/watch?v=ndWWOBVmH4Q</id>
+        <link href="https://www.youtube.com/watch?v=ndWWOBVmH4Q"/>
+        <updated>2025-05-20T13:45:29.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരുവട്ടം കേട്ടാൽ ഒരിക്കലും മറക്കാനാവാത്ത ഗാനങ്ങൾ @JinoKunnumpurathu#christiansongs | ZION CLASSICS]]></title>
+        <id>https://www.youtube.com/watch?v=y97B2P12JLg</id>
+        <link href="https://www.youtube.com/watch?v=y97B2P12JLg"/>
+        <updated>2025-05-20T13:31:00.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Sebu George |Christian Devotional SongsMalayalam | Joji Johns | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=orlxRYuudvk</id>
+        <link href="https://www.youtube.com/watch?v=orlxRYuudvk"/>
+        <updated>2025-05-20T13:30:42.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neram Kaalam | Njaan Ippo Entha Cheyya | Deepa Thomas | Aleena | Elisha Abraham]]></title>
+        <id>https://www.youtube.com/watch?v=oaprMHvtVm8</id>
+        <link href="https://www.youtube.com/watch?v=oaprMHvtVm8"/>
+        <updated>2025-05-20T13:30:41.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endhino Kanne Duet - Audio song |  Abhiyude Kadha Anuvinteyum | Tovino Thomas  | Dharan Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=hNPYQrGqFzo</id>
+        <link href="https://www.youtube.com/watch?v=hNPYQrGqFzo"/>
+        <updated>2025-05-20T13:30:39.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehathin Idayanam Malayalam Christian Devotional Songs| Malayalam worship songs]]></title>
+        <id>https://www.youtube.com/watch?v=iQ4bHyOx_PE</id>
+        <link href="https://www.youtube.com/watch?v=iQ4bHyOx_PE"/>
+        <updated>2025-05-20T13:30:39.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aarambhamayi - Lyric Video | Mr & Mrs Bachelor | Indrajith, Anaswara | PS Jayhari |Deepu Karunakaran]]></title>
         <id>https://www.youtube.com/watch?v=aR-emkWCXgM</id>
@@ -12199,15 +12253,6 @@
         <updated>2025-04-21T05:06:32.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kripa Thannu Nadathaname | Anna Baby  | Shorts #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=1VZrckMgn1M</id>
-        <link href="https://www.youtube.com/watch?v=1VZrckMgn1M"/>
-        <updated>2025-04-21T01:30:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
