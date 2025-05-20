@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T02:28:39.947Z</updated>
+    <updated>2025-05-20T03:36:06.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജനമനസുകളിൽ തുടരുന്ന  Mohanlal Hits | Malayalam Film Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=238xH2XaRIU</id>
+        <link href="https://www.youtube.com/watch?v=238xH2XaRIU"/>
+        <updated>2025-05-20T03:04:13.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maname Pakshiganangal | Manorama Christian Shorts]]></title>
         <id>https://www.youtube.com/watch?v=ShKwPFw8B6Y</id>
@@ -12044,42 +12053,6 @@
         <id>https://www.youtube.com/watch?v=HhinA4QdvxQ</id>
         <link href="https://www.youtube.com/watch?v=HhinA4QdvxQ"/>
         <updated>2025-04-20T15:45:00.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easter Song Malayalam, Easter Sunday Songs, Resurrection songs Malayalam #easter #eastersunday]]></title>
-        <id>https://www.youtube.com/watch?v=CDwHDTm3pEM</id>
-        <link href="https://www.youtube.com/watch?v=CDwHDTm3pEM"/>
-        <updated>2025-04-20T15:15:02.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easter Song Malayalam, Easter Sunday Songs, Resurrection songs Malayalam #easter #eastersunday]]></title>
-        <id>https://www.youtube.com/watch?v=woxmken3bqY</id>
-        <link href="https://www.youtube.com/watch?v=woxmken3bqY"/>
-        <updated>2025-04-20T14:45:07.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalikku Ponnu  | Vidyasagar | Jayaram | Pooja Batra | MG Sreekumar | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=iGlzgIz1Y_o</id>
-        <link href="https://www.youtube.com/watch?v=iGlzgIz1Y_o"/>
-        <updated>2025-04-20T14:30:24.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രിസ്തുവിന്‍റെ ദാനം | Kristhuvinte Dhanam | Malayalam Christian Devotional Song|Nagel |Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=R1-XHinYJnY</id>
-        <link href="https://www.youtube.com/watch?v=R1-XHinYJnY"/>
-        <updated>2025-04-20T14:30:06.000Z</updated>
         <author>
             <name>Music Spread</name>
         </author>
