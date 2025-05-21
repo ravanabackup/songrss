@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T10:10:11.122Z</updated>
+    <updated>2025-05-21T11:07:54.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oh Thirayukayano |Madhura Naranga #bijumenon #kunchackoboban #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=tJr9ftQth-A</id>
+        <link href="https://www.youtube.com/watch?v=tJr9ftQth-A"/>
+        <updated>2025-05-21T11:01:34.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marillavan Marakkillavan | Shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=gVg4DvsdYs4</id>
+        <link href="https://www.youtube.com/watch?v=gVg4DvsdYs4"/>
+        <updated>2025-05-21T10:30:24.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadhiyil Vachanam | Chithra Arun | Shorts  #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=TzdbX3yzNoU</id>
+        <link href="https://www.youtube.com/watch?v=TzdbX3yzNoU"/>
+        <updated>2025-05-21T10:30:15.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലാലേട്ടന്റെ എക്കാലത്തെയും എവർഗ്രീൻ ഹിറ്റ് ഗാനങ്ങൾ ❤️#mohanlal HITS OF MOHANLAL | @MovieWorldMusic]]></title>
+        <id>https://www.youtube.com/watch?v=qeq4EpQa1D4</id>
+        <link href="https://www.youtube.com/watch?v=qeq4EpQa1D4"/>
+        <updated>2025-05-21T09:50:43.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാവലായി കനലിനു കാവലായി | Vargam Malayalam Movie Song |  Prithviraj, Renuka Menon]]></title>
         <id>https://www.youtube.com/watch?v=X45fp4KvYiQ</id>
@@ -12235,24 +12271,6 @@
         <updated>2025-04-21T23:30:26.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=4UI2U_O1rLU</id>
-        <link href="https://www.youtube.com/watch?v=4UI2U_O1rLU"/>
-        <updated>2025-04-21T23:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jesus Christ | Biju Narayanan | Kester | K.G Markose | Ganesh Sundaram | Elizabeth Raju | Anna Baby]]></title>
-        <id>https://www.youtube.com/watch?v=TdlQvIHEbe4</id>
-        <link href="https://www.youtube.com/watch?v=TdlQvIHEbe4"/>
-        <updated>2025-04-21T23:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
