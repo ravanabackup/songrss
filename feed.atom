@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-21T16:11:34.111Z</updated>
+    <updated>2025-05-21T17:08:13.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12470,33 +12470,6 @@
         <updated>2025-04-22T05:15:27.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aazhithiramaala - Chill Mix | The Independeners | Pushpaka Vimanam | Rahul Raj]]></title>
-        <id>https://www.youtube.com/watch?v=8PD99I3qe0c</id>
-        <link href="https://www.youtube.com/watch?v=8PD99I3qe0c"/>
-        <updated>2025-04-22T05:06:33.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padakkuthira - Official Trailer | Suraj Venjaramoodu, Aju Varghese | Dr. Salon Symon]]></title>
-        <id>https://www.youtube.com/watch?v=8c4mTFs_0sY</id>
-        <link href="https://www.youtube.com/watch?v=8c4mTFs_0sY"/>
-        <updated>2025-04-22T04:57:38.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Weekend Just Got Vibier! 🤩 #PachaParishkari 💥🕺🏻 #saregamamalayalam #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=eRoJGfucQVU</id>
-        <link href="https://www.youtube.com/watch?v=eRoJGfucQVU"/>
-        <updated>2025-04-22T04:30:23.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
