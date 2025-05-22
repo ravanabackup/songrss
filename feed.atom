@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T14:09:15.432Z</updated>
+    <updated>2025-05-22T15:09:23.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mindathathenthe Kili Penne | Mohanlal | Shanthi Krishna | MG Sreekumar | Raveendran #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=SWrxnGWSd6A</id>
+        <link href="https://www.youtube.com/watch?v=SWrxnGWSd6A"/>
+        <updated>2025-05-22T14:30:30.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirunamakeerthanam  | Malayalam worship songs | Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=IbVTJ7XmMVk</id>
+        <link href="https://www.youtube.com/watch?v=IbVTJ7XmMVk"/>
+        <updated>2025-05-22T14:30:09.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MALAYALAM CHRISTIAN DEVOTIONAL SONGS]]></title>
         <id>https://www.youtube.com/watch?v=rbDz96qGC8s</id>
@@ -12551,15 +12569,6 @@
         <updated>2025-04-23T05:07:37.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engane Marakkum | Sathkala Vijayan | Folk Song Video #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=UwNuufX0x3w</id>
-        <link href="https://www.youtube.com/watch?v=UwNuufX0x3w"/>
-        <updated>2025-04-23T02:30:33.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
