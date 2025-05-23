@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T21:07:19.895Z</updated>
+    <updated>2025-05-23T22:08:50.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12578,15 +12578,6 @@
         <updated>2025-04-24T10:30:04.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാണുമ്പോള്‍ പറയാമോ Romantic Malayalam Video Song | Yesudas, Chithra | Dileep, Navya Nair]]></title>
-        <id>https://www.youtube.com/watch?v=QXkX_jCFJrY</id>
-        <link href="https://www.youtube.com/watch?v=QXkX_jCFJrY"/>
-        <updated>2025-04-24T09:30:28.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
