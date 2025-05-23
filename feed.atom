@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T13:21:55.302Z</updated>
+    <updated>2025-05-23T14:09:01.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In the Bleak | Acid Movie | Gokul. K | Navneet | Zinia Chaturvedi | Rahul Anand]]></title>
+        <id>https://www.youtube.com/watch?v=zJ8MTQdofjo</id>
+        <link href="https://www.youtube.com/watch?v=zJ8MTQdofjo"/>
+        <updated>2025-05-23T14:01:37.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninteyomal Mizhikalo - Audio song | Abhiyude Kadha Anuvinteyum | Tovino Thomas | Dharan Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=vBEaBx4Kj9g</id>
+        <link href="https://www.youtube.com/watch?v=vBEaBx4Kj9g"/>
+        <updated>2025-05-23T13:30:51.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ഭവനങ്ങളിലും സ്ഥിരമായി കേൾക്കുന്ന ഗാനങ്ങൾ | Rithuraj | Christian Superhit Songs | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=YopcU4KYWSU</id>
+        <link href="https://www.youtube.com/watch?v=YopcU4KYWSU"/>
+        <updated>2025-05-23T13:30:38.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alliyambal poove Video Song | Dada Sahib |  Yusufali Kecheri | Mohan Sithara | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=JoiGAo4BswE</id>
+        <link href="https://www.youtube.com/watch?v=JoiGAo4BswE"/>
+        <updated>2025-05-23T13:30:27.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Chey Maname | സ്തുതി ചെയ് മനമേ | Malayalam Christian Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=QgKbaPgHDt4</id>
+        <link href="https://www.youtube.com/watch?v=QgKbaPgHDt4"/>
+        <updated>2025-05-23T13:30:21.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHRISTIAN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=FymRq28Jl2s</id>
+        <link href="https://www.youtube.com/watch?v=FymRq28Jl2s"/>
+        <updated>2025-05-23T13:23:06.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalalanni | 3BHK (Telugu) | Siddharth | Sarath Kumar | Sri Ganesh | Amrit Ramnath | Arun Viswa]]></title>
         <id>https://www.youtube.com/watch?v=L2ixItTrHFI</id>
@@ -12551,15 +12605,6 @@
         <updated>2025-04-24T03:05:14.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kripa Thannu Nadathaname | Anna Baby  | Shorts #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=dROm4d3vdT4</id>
-        <link href="https://www.youtube.com/watch?v=dROm4d3vdT4"/>
-        <updated>2025-04-24T01:30:36.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
