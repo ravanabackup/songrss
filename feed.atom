@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T09:10:01.929Z</updated>
+    <updated>2025-05-23T10:09:55.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mindathathenthe Kili Penne 4K | Mohanlal | Vishnulokam | MG Sreekumar | Raveendran Hits]]></title>
+        <id>https://www.youtube.com/watch?v=atAELq0OqlI</id>
+        <link href="https://www.youtube.com/watch?v=atAELq0OqlI"/>
+        <updated>2025-05-23T09:38:08.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ സ്വന്തം ചിത്രാമ്മ ആലപിച്ച മധുരമുള്ള സിനിമാഗാനങ്ങൾ | HITS OF KS CHITHRA]]></title>
         <id>https://www.youtube.com/watch?v=FZz9B-QMrTk</id>
