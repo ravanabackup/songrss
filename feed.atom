@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T02:22:50.664Z</updated>
+    <updated>2025-05-24T03:31:14.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12407,42 +12407,6 @@
         <updated>2025-04-24T19:01:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalla Ilakal Akunna | Devotional songs Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=kfcTcgfS0q8</id>
-        <link href="https://www.youtube.com/watch?v=kfcTcgfS0q8"/>
-        <updated>2025-04-24T15:30:22.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweety Punch | Alappuzha Gymkhana| Khalid Rahman | Naslen | Anagha | Vishnu Vijay | Sarath Santhosh]]></title>
-        <id>https://www.youtube.com/watch?v=i3BvSYxOJrs</id>
-        <link href="https://www.youtube.com/watch?v=i3BvSYxOJrs"/>
-        <updated>2025-04-24T14:45:27.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onneullenikkanandham Malayalam Christian Devotional Songs| Malayalam worship songs]]></title>
-        <id>https://www.youtube.com/watch?v=ZkwseYOOmRE</id>
-        <link href="https://www.youtube.com/watch?v=ZkwseYOOmRE"/>
-        <updated>2025-04-24T14:30:22.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velukkumbol Kulikkuvan  | Sheela | MS Baburaj | P Bhaskaran | AP Komala | Kuttikkuppaayam]]></title>
-        <id>https://www.youtube.com/watch?v=BYSZUzPaopU</id>
-        <link href="https://www.youtube.com/watch?v=BYSZUzPaopU"/>
-        <updated>2025-04-24T14:30:07.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
