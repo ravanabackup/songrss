@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T14:07:19.771Z</updated>
+    <updated>2025-05-24T15:07:34.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthuthigeetham Paaduka Naam |Christian Devotional| | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=IMo-LKoBNsc</id>
+        <link href="https://www.youtube.com/watch?v=IMo-LKoBNsc"/>
+        <updated>2025-05-24T15:00:27.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Poovithalin | 4K | Agnidevan | Mohanlal | Gireesh Puthancherry | Revathi - M G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=gJxgT9bhuVc</id>
+        <link href="https://www.youtube.com/watch?v=gJxgT9bhuVc"/>
+        <updated>2025-05-24T14:31:32.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകമേമ്പാടും കേട്ട് പ്രാർത്ഥിച്ച സൂപ്പർ ഡ്യൂപ്പർ ഗാനം 😍  "ആത്മാവേ അഗ്നിയായി.." | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=lWTKzjIuTa0</id>
+        <link href="https://www.youtube.com/watch?v=lWTKzjIuTa0"/>
+        <updated>2025-05-24T14:30:35.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moovanthi Thazhvarayil | Mohanlal | Manju Warrier | KJ Yesudas | Gireesh Puthenchery #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=R6wzDl8ZRhg</id>
+        <link href="https://www.youtube.com/watch?v=R6wzDl8ZRhg"/>
+        <updated>2025-05-24T14:30:17.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathilaasrayam...#christianvideosongs #jojijohns #frvipinkurishumthara #christianmelodysongs]]></title>
+        <id>https://www.youtube.com/watch?v=PFKLZCvzR7g</id>
+        <link href="https://www.youtube.com/watch?v=PFKLZCvzR7g"/>
+        <updated>2025-05-24T14:15:01.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thalarnnavan Balamnalkidum...#drmeenafrancis #christianvideosongs #jojijohns #frvipin]]></title>
         <id>https://www.youtube.com/watch?v=XHA94iWr5f8</id>
