@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T18:10:58.398Z</updated>
+    <updated>2025-05-24T19:06:25.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th of May 2025]]></title>
+        <id>https://www.youtube.com/watch?v=e7m3rUlvCs4</id>
+        <link href="https://www.youtube.com/watch?v=e7m3rUlvCs4"/>
+        <updated>2025-05-24T19:00:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vengayo - Chikkama (Music Video) | Foxn | Paal Dabba | Think Indie]]></title>
         <id>https://www.youtube.com/watch?v=OnuD1HtzFGc</id>
@@ -12615,33 +12624,6 @@
         <updated>2025-04-25T07:44:50.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L JAGADAMMA  EZHAAM  CLASS  B | Official  Movie  Trailer |  Oorvasi | Kailas Menon RG | Shivas]]></title>
-        <id>https://www.youtube.com/watch?v=wGoAEzOlubY</id>
-        <link href="https://www.youtube.com/watch?v=wGoAEzOlubY"/>
-        <updated>2025-04-25T06:42:12.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#thudakkam #malayalamsong #harikrishnanks #outnow #shorts #ytshorts #musicvideo]]></title>
-        <id>https://www.youtube.com/watch?v=RJr_BqlcLes</id>
-        <link href="https://www.youtube.com/watch?v=RJr_BqlcLes"/>
-        <updated>2025-04-25T06:41:50.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirukkudumbageetham | Abhijith Kollam | Anna Baby | Fr. Ignatious Kunnumpurathu | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=gGN5WywwEKc</id>
-        <link href="https://www.youtube.com/watch?v=gGN5WywwEKc"/>
-        <updated>2025-04-25T06:31:43.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
