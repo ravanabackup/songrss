@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T13:17:35.115Z</updated>
+    <updated>2025-05-25T14:07:27.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changampuzha - Audio song | Megasandesam | K.J. Yesudas, K.S. Chithra | M. G. Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=wSs4cdN6PRc</id>
+        <link href="https://www.youtube.com/watch?v=wSs4cdN6PRc"/>
+        <updated>2025-05-25T13:30:46.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazthuka Nee Maname | വാഴ്ത്തുക നീ |Christian Devotional Song Malayalam| Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=X1jYpD6WVOk</id>
+        <link href="https://www.youtube.com/watch?v=X1jYpD6WVOk"/>
+        <updated>2025-05-25T13:30:33.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രോഗപീഡകളാൽ വലയുന്നവർക്ക് ആശ്വാസമേകുന്ന ക്രിസ്തീയഗാനങ്ങൾ | Healing Songs | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=B30XolI7mAc</id>
+        <link href="https://www.youtube.com/watch?v=B30XolI7mAc"/>
+        <updated>2025-05-25T13:30:15.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katungal Kathangalo - Audio song | Aranya Bhoomi | Vaishnav Tej, Rakul Preet Singh | M M Keeravani]]></title>
+        <id>https://www.youtube.com/watch?v=85CU0kYjftE</id>
+        <link href="https://www.youtube.com/watch?v=85CU0kYjftE"/>
+        <updated>2025-05-25T13:30:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinkalurangum Neramaayal | Onnam Sakshi Parethan | Dheeraj Sukumaran| Arun Vanaja Raju| PS Jayahari]]></title>
+        <id>https://www.youtube.com/watch?v=3B-zqCILnyU</id>
+        <link href="https://www.youtube.com/watch?v=3B-zqCILnyU"/>
+        <updated>2025-05-25T13:30:02.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ദൈവമക്കളുടെയും മനസ്സിൽ പതിഞ്ഞ അത്ഭുത ഗാനങ്ങൾ   | #christiansongs | #zionclassics]]></title>
+        <id>https://www.youtube.com/watch?v=X6GRM-PwC10</id>
+        <link href="https://www.youtube.com/watch?v=X6GRM-PwC10"/>
+        <updated>2025-05-25T13:26:12.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadanenikkekum | ദൈവസ്നേഹം നിറയുന്ന മനോഹര ഗാനം   @JinoKunnumpurathu        #shorts]]></title>
         <id>https://www.youtube.com/watch?v=OYSZ5AyoBhU</id>
@@ -12417,24 +12471,6 @@
         <updated>2025-04-26T04:30:23.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthu Nallor Sakhi Yeshu | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=9iWsnjvy9K4</id>
-        <link href="https://www.youtube.com/watch?v=9iWsnjvy9K4"/>
-        <updated>2025-04-26T02:00:12.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivakarunayin | Chithra Arun | Shorts  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=Bc-ENZ0IIpU</id>
-        <link href="https://www.youtube.com/watch?v=Bc-ENZ0IIpU"/>
-        <updated>2025-04-26T02:00:11.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
