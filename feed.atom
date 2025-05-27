@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T17:08:13.967Z</updated>
+    <updated>2025-05-27T18:11:34.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12658,33 +12658,6 @@
         <id>https://www.youtube.com/watch?v=a9DFx7E60DE</id>
         <link href="https://www.youtube.com/watch?v=a9DFx7E60DE"/>
         <updated>2025-04-28T06:29:21.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇലകൊഴിയും ശിശിരത്തിൽ | Malayalam Romantic Film Song HD | Varshangal Poyathariyathe | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=ozIZNoMy4R8</id>
-        <link href="https://www.youtube.com/watch?v=ozIZNoMy4R8"/>
-        <updated>2025-04-28T05:57:17.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holidays Holidays | Holidays |Video| Vidhu Prathap | Manjari | Jyothsna | Santhosh Varma | Alex Paul]]></title>
-        <id>https://www.youtube.com/watch?v=69o8Ahd_yT0</id>
-        <link href="https://www.youtube.com/watch?v=69o8Ahd_yT0"/>
-        <updated>2025-04-28T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhavil Kodiyil | HD Video Song | Jayaram | KS Chithra | Biju Narayanan | Gireesh Puthenchery Hits]]></title>
-        <id>https://www.youtube.com/watch?v=19iCCxiGm2k</id>
-        <link href="https://www.youtube.com/watch?v=19iCCxiGm2k"/>
-        <updated>2025-04-28T05:08:25.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
         </author>
