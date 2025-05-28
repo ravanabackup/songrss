@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T02:29:00.451Z</updated>
+    <updated>2025-05-28T03:37:01.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enne Nadathum Aa Ponnu Karamo | Christian Shorts #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=fQqybC5bZaw</id>
+        <link href="https://www.youtube.com/watch?v=fQqybC5bZaw"/>
+        <updated>2025-05-28T02:30:35.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angakale | Sreya Jayadeep | Shorts #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=GVkJ3kznUkQ</id>
@@ -454,6 +463,15 @@
         <updated>2025-05-27T05:08:34.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parannu Parannu |Parannu Parannu Parannu Chellan|Video|M G Sreekumar| LPR Varma | Vayalar Rama Varma]]></title>
+        <id>https://www.youtube.com/watch?v=Msc6hAkX99U</id>
+        <link href="https://www.youtube.com/watch?v=Msc6hAkX99U"/>
+        <updated>2025-05-27T05:05:20.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -12444,42 +12462,6 @@
         <updated>2025-04-28T16:30:27.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ashwarooda Sahadaye |St. George Songs|  ഗീവർഗീസ് സഹദാ ഗീതങ്ങൾ| My Lord]]></title>
-        <id>https://www.youtube.com/watch?v=-vSWFXXQtIY</id>
-        <link href="https://www.youtube.com/watch?v=-vSWFXXQtIY"/>
-        <updated>2025-04-28T15:30:00.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanni Nanni |Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=Y9cA94dr75I</id>
-        <link href="https://www.youtube.com/watch?v=Y9cA94dr75I"/>
-        <updated>2025-04-28T14:30:19.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnikale Oru Kadha Parayam  | Unnikale Oru Kadha Parayam Movie Song |  | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=Fm2Buzcxbj0</id>
-        <link href="https://www.youtube.com/watch?v=Fm2Buzcxbj0"/>
-        <updated>2025-04-28T14:30:14.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഞ്ചാര ചാക്കുകൾ തട്ടിമറിച്ചിട്ട് 😍🎶🎶  | thattathil... #shorts #thattathil #love #song]]></title>
-        <id>https://www.youtube.com/watch?v=0GOU00xwdLk</id>
-        <link href="https://www.youtube.com/watch?v=0GOU00xwdLk"/>
-        <updated>2025-04-28T14:30:01.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
