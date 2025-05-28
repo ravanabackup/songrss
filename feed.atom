@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T16:10:12.521Z</updated>
+    <updated>2025-05-28T17:08:35.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12734,33 +12734,6 @@
         <updated>2025-04-29T05:11:59.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Yaanangal" song from #Azadi" out now! #sreenathbhasi]]></title>
-        <id>https://www.youtube.com/watch?v=dAuLXm61aLw</id>
-        <link href="https://www.youtube.com/watch?v=dAuLXm61aLw"/>
-        <updated>2025-04-29T04:49:13.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Level up with every beat 😎🕺🎶 #OldSchoolLady]]></title>
-        <id>https://www.youtube.com/watch?v=TYxPb6cCMwM</id>
-        <link href="https://www.youtube.com/watch?v=TYxPb6cCMwM"/>
-        <updated>2025-04-29T04:30:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thrikkarangal Enne Nadathum | Lalloo Alphonse | Charles John | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=NyKVdVh0WqQ</id>
-        <link href="https://www.youtube.com/watch?v=NyKVdVh0WqQ"/>
-        <updated>2025-04-29T04:10:34.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
