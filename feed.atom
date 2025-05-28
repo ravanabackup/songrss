@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T11:08:05.021Z</updated>
+    <updated>2025-05-28T12:17:30.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junile Nilamazhayil | Nammal Thammil | Video | Prithviraj | K J Yesudas | Sujatha | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=whN-ER-lbfE</id>
+        <link href="https://www.youtube.com/watch?v=whN-ER-lbfE"/>
+        <updated>2025-05-28T12:16:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee En Sarga Soundaryame - Video Song | Flask | Saiju Kurup | Rahul Riji Nair | Sidhartha Pradeep]]></title>
+        <id>https://www.youtube.com/watch?v=SZWN9qJJ2_E</id>
+        <link href="https://www.youtube.com/watch?v=SZWN9qJJ2_E"/>
+        <updated>2025-05-28T11:30:31.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnum Parayuvanalalla Njan | Veendumm | East Coast Vijayan | Ranjin Raj | Unni Menon | Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=ndQauSxZWmM</id>
+        <link href="https://www.youtube.com/watch?v=ndQauSxZWmM"/>
+        <updated>2025-05-28T11:30:06.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oo Mridule | Audio Song | Njan Ekanaanu | K J Yesudas | M G Radhakrishnan | Sathyan Anthikad]]></title>
+        <id>https://www.youtube.com/watch?v=nkQMyccY0u0</id>
+        <link href="https://www.youtube.com/watch?v=nkQMyccY0u0"/>
+        <updated>2025-05-28T11:13:25.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthimanam Varnajalam |  Once Upon A Time There Was A Kallan #franco #shortsfeed #shortsvideo #reels]]></title>
         <id>https://www.youtube.com/watch?v=imZyllk-KaA</id>
