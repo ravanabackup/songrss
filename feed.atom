@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T17:08:35.526Z</updated>
+    <updated>2025-05-28T18:11:55.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12698,42 +12698,6 @@
         <updated>2025-04-29T07:27:44.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അകലാനോ കലരാനോ കഴിയാതെ നാം 💔❤️ Aakasham Pole Video Song   #sushinshyam  #sreenathbhasi  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=EZhSmK280V8</id>
-        <link href="https://www.youtube.com/watch?v=EZhSmK280V8"/>
-        <updated>2025-04-29T06:10:24.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innoree Mazhayil | Malarvaadi Arts Club | Video | Vineeth Sreenivasan | Shaan Rahman | Nivin Pauly]]></title>
-        <id>https://www.youtube.com/watch?v=QTjxyl-WmRE</id>
-        <link href="https://www.youtube.com/watch?v=QTjxyl-WmRE"/>
-        <updated>2025-04-29T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daveed - Original Score | Antony Varghese Pepe, Lijomol | Mo Ismail | Govind Vishnu| Justin Varghese]]></title>
-        <id>https://www.youtube.com/watch?v=yZdvhjPA1zU</id>
-        <link href="https://www.youtube.com/watch?v=yZdvhjPA1zU"/>
-        <updated>2025-04-29T05:30:06.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manithingal | Kilukil Pambaram  | M G Sreekumar  | Gireesh Puthancherry Hits | S P Venkitesh Hits]]></title>
-        <id>https://www.youtube.com/watch?v=4zZsTFEXGVI</id>
-        <link href="https://www.youtube.com/watch?v=4zZsTFEXGVI"/>
-        <updated>2025-04-29T05:11:59.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
