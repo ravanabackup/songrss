@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T22:08:29.706Z</updated>
+    <updated>2025-05-29T23:08:11.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=VCg80o9cJTM</id>
+        <link href="https://www.youtube.com/watch?v=VCg80o9cJTM"/>
+        <updated>2025-05-29T23:00:39.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മെയ്: 30, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=x3z9-PfJugA</id>
+        <link href="https://www.youtube.com/watch?v=x3z9-PfJugA"/>
+        <updated>2025-05-29T22:30:11.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 30 # Athiravile Prarthana 30th of May 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=yFlaN8mFf1M</id>
@@ -12563,42 +12581,6 @@
         <updated>2025-04-30T11:30:09.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonnu Chakaravandi | Kochi Rajavu #mgsreekumar #vidyasagar #dileep #shortsfeed #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=xYr1njGj7gI</id>
-        <link href="https://www.youtube.com/watch?v=xYr1njGj7gI"/>
-        <updated>2025-04-30T10:30:44.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Groovy #Neptune From #DetectiveUjjwalan 💥🤩#ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=D49BxV_plq4</id>
-        <link href="https://www.youtube.com/watch?v=D49BxV_plq4"/>
-        <updated>2025-04-30T10:30:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naa Kanti Kala |Demonte Colony 2 (Telugu) |Arulnithi,Priya Bhavani Shankar|Ajay R Gnanamuthu |Sam CS]]></title>
-        <id>https://www.youtube.com/watch?v=S2idPDT6ztI</id>
-        <link href="https://www.youtube.com/watch?v=S2idPDT6ztI"/>
-        <updated>2025-04-30T10:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അത്  ജിത്തു ഈ ഷർട്ട് ഒരു പത്തു തവണ ഇട്ടപ്പോ എനിക്ക് മനസ്സിലായി.. #aparnabalamurali]]></title>
-        <id>https://www.youtube.com/watch?v=MdnhfhH9110</id>
-        <link href="https://www.youtube.com/watch?v=MdnhfhH9110"/>
-        <updated>2025-04-30T10:18:14.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
