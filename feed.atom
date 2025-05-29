@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T10:10:15.860Z</updated>
+    <updated>2025-05-29T11:08:04.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varmathiye  |  Once Upon A Time There Was A Kallan #sudeepkumar #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=SK8RsX59R2Q</id>
+        <link href="https://www.youtube.com/watch?v=SK8RsX59R2Q"/>
+        <updated>2025-05-29T11:00:48.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathin Snehathin | YPE Kottarakkara | Shorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=27cBcllW0vI</id>
+        <link href="https://www.youtube.com/watch?v=27cBcllW0vI"/>
+        <updated>2025-05-29T10:30:05.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tharum Thalirum | Audio Song | Chilambu | K J Yesudas | Lathika | Ouseppachan | Bharathan]]></title>
         <id>https://www.youtube.com/watch?v=2neT4FoleSg</id>
@@ -12509,33 +12527,6 @@
         <updated>2025-04-29T23:30:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=jmLo8LWOoA0</id>
-        <link href="https://www.youtube.com/watch?v=jmLo8LWOoA0"/>
-        <updated>2025-04-29T23:00:47.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuvil Aradhana | Kester | Immanuel Henry| Chitra Arun | Wilson Piravam| Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=qn3JCN-zpa0</id>
-        <link href="https://www.youtube.com/watch?v=qn3JCN-zpa0"/>
-        <updated>2025-04-29T23:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏപ്രിൽ: 30, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=-pPqgpvzqoM</id>
-        <link href="https://www.youtube.com/watch?v=-pPqgpvzqoM"/>
-        <updated>2025-04-29T22:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
