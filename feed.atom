@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T13:23:00.035Z</updated>
+    <updated>2025-05-29T14:09:03.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#yaanangal #azadi #sreenathbhasi #varununni #songoftheday #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VVvlPAum-1Q</id>
+        <link href="https://www.youtube.com/watch?v=VVvlPAum-1Q"/>
+        <updated>2025-05-29T14:00:50.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ സങ്കടങ്ങളെല്ലാം ദൈവം ഏറ്റെടുത്തിടും കുഞ്ഞേ | Christian Melody Songs | Manoj Christy]]></title>
+        <id>https://www.youtube.com/watch?v=o72UErOAFmk</id>
+        <link href="https://www.youtube.com/watch?v=o72UErOAFmk"/>
+        <updated>2025-05-29T13:30:55.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanavile Koottukari - Dudu's Love | Joby K A | Ashwin | Noble Francis | Anoop Davis | Alveena Mariya]]></title>
+        <id>https://www.youtube.com/watch?v=g-wnd1PzWFU</id>
+        <link href="https://www.youtube.com/watch?v=g-wnd1PzWFU"/>
+        <updated>2025-05-29T13:30:43.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mulla Poitu - Audio song | Aranya Bhoomi | Panja Vaishnav Tej, Rakul Preet Singh | M M Keeravani]]></title>
+        <id>https://www.youtube.com/watch?v=Ou2lTuX3m6Y</id>
+        <link href="https://www.youtube.com/watch?v=Ou2lTuX3m6Y"/>
+        <updated>2025-05-29T13:30:26.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സറിയാത്ത തേങ്ങിപ്പോയ മലയാള സിനിമയിലെ ദുഃഖ ഗാനങ്ങൾ | Evergreen Sad Songs| K J Yesudas Sad Songs]]></title>
+        <id>https://www.youtube.com/watch?v=APMSwQdLRlk</id>
+        <link href="https://www.youtube.com/watch?v=APMSwQdLRlk"/>
+        <updated>2025-05-29T13:30:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ദിവസവും മുടങ്ങാതെ കേൾക്കുന്ന ക്രിസ്‌തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=099y8z_lHBA</id>
+        <link href="https://www.youtube.com/watch?v=099y8z_lHBA"/>
+        <updated>2025-05-29T13:30:01.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Priyappettorente | ദൈവകരങ്ങൾ സ്പർശിക്കുന്ന മനോഹര ഗാനം |   @JinoKunnumpurathu     #shorts]]></title>
         <id>https://www.youtube.com/watch?v=riEa1cqxR9A</id>
@@ -12581,15 +12635,6 @@
         <updated>2025-04-30T05:06:24.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivakarunayin | Chithra Arun | Shorts  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=MSDOx0mo-mQ</id>
-        <link href="https://www.youtube.com/watch?v=MSDOx0mo-mQ"/>
-        <updated>2025-04-30T01:30:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
