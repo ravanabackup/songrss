@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T04:14:47.341Z</updated>
+    <updated>2025-05-29T05:10:11.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chil Chil Chilamboli Thalam | 4K | Usthad | Mohanlal |]]></title>
+        <id>https://www.youtube.com/watch?v=kYra-eoCzKU</id>
+        <link href="https://www.youtube.com/watch?v=kYra-eoCzKU"/>
+        <updated>2025-05-29T05:02:59.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathira Kottarangalil | Injakkadan Mathai&Sons | Jagadish | Urvashi | K S Chithra | S P Venkitesh]]></title>
+        <id>https://www.youtube.com/watch?v=-vvAm9Kets4</id>
+        <link href="https://www.youtube.com/watch?v=-vvAm9Kets4"/>
+        <updated>2025-05-29T04:30:20.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thane Thirinjum Marinjum - Chillhop | Chris Wayne | Ambalapraavu | S. Janaki | M.S. Baburaj]]></title>
+        <id>https://www.youtube.com/watch?v=BpKTu4GaArE</id>
+        <link href="https://www.youtube.com/watch?v=BpKTu4GaArE"/>
+        <updated>2025-05-29T04:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enikkeshuvundee Maruvil | Christian Shorts Video  #musicvideo]]></title>
         <id>https://www.youtube.com/watch?v=ZakiAfPG5MI</id>
@@ -12464,24 +12491,6 @@
         <updated>2025-04-29T19:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's vibe to Champagini 🔥 #AsalKolaar #ThinkIndie #AmriteshGyan]]></title>
-        <id>https://www.youtube.com/watch?v=j3vpr64jA9U</id>
-        <link href="https://www.youtube.com/watch?v=j3vpr64jA9U"/>
-        <updated>2025-04-29T16:48:17.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathya Badan Geevarghese Sahada  |St. George Songs|  ഗീവർഗീസ് സഹദാ ഗീതങ്ങൾ| Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=d_GEBbCrtYg</id>
-        <link href="https://www.youtube.com/watch?v=d_GEBbCrtYg"/>
-        <updated>2025-04-29T16:30:11.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
