@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T17:07:50.027Z</updated>
+    <updated>2025-05-30T18:12:32.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12696,24 +12696,6 @@
         <id>https://www.youtube.com/watch?v=lk6AlAqRtjg</id>
         <link href="https://www.youtube.com/watch?v=lk6AlAqRtjg"/>
         <updated>2025-05-01T06:45:36.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maaman - Official Trailer | Soori | Aishwarya Lekshmi | Prasanth Pandiyaraj | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=RFxRhOVGp4U</id>
-        <link href="https://www.youtube.com/watch?v=RFxRhOVGp4U"/>
-        <updated>2025-05-01T05:41:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velmuruka Haro Hara | Naran | Video Song | Mohanlal | M G Sreekumar | Kaithapram | Deepak Dev]]></title>
-        <id>https://www.youtube.com/watch?v=HoJsdfhpxjA</id>
-        <link href="https://www.youtube.com/watch?v=HoJsdfhpxjA"/>
-        <updated>2025-05-01T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
