@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T02:27:05.178Z</updated>
+    <updated>2025-05-30T03:36:21.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12401,42 +12401,6 @@
         <updated>2025-04-30T16:30:10.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhyastaprarthana  |St. George Songs|  ഗീവർഗീസ് സഹദാ ഗീതങ്ങൾ| My Lord]]></title>
-        <id>https://www.youtube.com/watch?v=Uy7bAuycpH0</id>
-        <link href="https://www.youtube.com/watch?v=Uy7bAuycpH0"/>
-        <updated>2025-04-30T15:30:13.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തൊഴിലാളികളുടെ മദ്ധ്യസ്ഥനായ വി.യൗസേപ്പിതാവിന്റെ ഗാനങ്ങൾ | St.Joseph the Worker Day]]></title>
-        <id>https://www.youtube.com/watch?v=mGnvCXCvjdQ</id>
-        <link href="https://www.youtube.com/watch?v=mGnvCXCvjdQ"/>
-        <updated>2025-04-30T14:45:05.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innayolam Enne Nadathi  Malayalam Christian Devotional Songs Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=lgYbDyVCSNs</id>
-        <link href="https://www.youtube.com/watch?v=lgYbDyVCSNs"/>
-        <updated>2025-04-30T14:30:37.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhappoonkilikal | Unnikale Oru Kadha Parayam Movie Song | Mohanlal | Yesudas #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=Q6BvBOsecDs</id>
-        <link href="https://www.youtube.com/watch?v=Q6BvBOsecDs"/>
-        <updated>2025-04-30T14:30:29.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
