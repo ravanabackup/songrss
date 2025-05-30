@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-30T14:09:22.468Z</updated>
+    <updated>2025-05-30T15:09:24.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harivarasanam Video Song | HD | Thathwamasi Movie Song | HD | ഹരിവരാസനം വിശ്വമോഹനം | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=tPHift9kS68</id>
+        <link href="https://www.youtube.com/watch?v=tPHift9kS68"/>
+        <updated>2025-05-30T14:45:14.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആരാലും അസാധ്യം | Aaralum Asadhyam | Malayalam Christian Devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=58i0HFAf0UI</id>
+        <link href="https://www.youtube.com/watch?v=58i0HFAf0UI"/>
+        <updated>2025-05-30T14:30:05.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വാക്കുകളിൽ ഒതുക്കാനാവാത്ത ദൈവസ്നേഹ ഗാനങ്ങൾ | #christiansongs | #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=rt7j4H2yeIg</id>
+        <link href="https://www.youtube.com/watch?v=rt7j4H2yeIg"/>
+        <updated>2025-05-30T14:27:56.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thankathoni | Mazhavil Kavadi | K S Chithra | Kaithappram | Jayaram | Urvasi]]></title>
         <id>https://www.youtube.com/watch?v=xK_b7dIC8Hw</id>
