@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T22:07:42.746Z</updated>
+    <updated>2025-05-31T23:08:25.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=uxd2fHcPLbc</id>
+        <link href="https://www.youtube.com/watch?v=uxd2fHcPLbc"/>
+        <updated>2025-05-31T23:00:57.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂൺ: 01, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=08DG7T108VE</id>
+        <link href="https://www.youtube.com/watch?v=08DG7T108VE"/>
+        <updated>2025-05-31T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 1 # Athiravile Prarthana 1st of June 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=4RStiVIwgIs</id>
@@ -12626,24 +12644,6 @@
         <updated>2025-05-02T11:30:03.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavizham Pol Video Song | Namukku Parkkan Munthiri Thoppukal | Mohanlal | Johnson Hits | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=ysfrNoMTJ8U</id>
-        <link href="https://www.youtube.com/watch?v=ysfrNoMTJ8U"/>
-        <updated>2025-05-02T10:36:39.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let the glow-up match the groove 💅💫 #OldSchoolLady ✨ #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=w5Po0Bt9BzE</id>
-        <link href="https://www.youtube.com/watch?v=w5Po0Bt9BzE"/>
-        <updated>2025-05-02T10:30:37.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
