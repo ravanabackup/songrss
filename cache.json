@@ -6854,16 +6854,6 @@
           "wordCount": null,
           "title": "Written & Directed by God  | Official Teaser | Saiju kurup | Sunnywayne | Aparna Das | Febi George",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3j51XX4N5Sc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3j51XX4N5Sc",
-          "publishedOn": "2025-05-02T05:30:04.000Z",
-          "wordCount": null,
-          "title": "Pacha Theeyanu Nee | Baahubali – The Beginning | M.M.Keeravani | S.S.Rajamouli | Prabhas | Anushka",
-          "imageUrl": null
         }
       ]
     },
@@ -8704,6 +8694,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1Z1-ER2nUjr66DGTEq9oMA",
       "siteUrl": "https://www.youtube.com/channel/UC1Z1-ER2nUjr66DGTEq9oMA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=r9GqyiO0zlI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r9GqyiO0zlI",
+          "publishedOn": "2025-05-31T17:12:38.000Z",
+          "wordCount": null,
+          "title": "31 May 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p3w1a5D3Fi0",
           "author": null,
@@ -13032,26 +13032,6 @@
           "publishedOn": "2025-05-02T07:30:48.000Z",
           "wordCount": null,
           "title": "Meharuba Meharuba 4K | Dileep | Meera Jasmine | M. Jayachandran Jyotsna Radhakrishnan | Afsal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fsEIK6a6Snk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fsEIK6a6Snk",
-          "publishedOn": "2025-05-02T05:42:08.000Z",
-          "wordCount": null,
-          "title": "Keli Vipinam Vijanam | 4K | Manthrikam | Mohanlal | Vineetha | Vinayakan | Maria",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ByD768OFysA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ByD768OFysA",
-          "publishedOn": "2025-05-02T05:07:51.000Z",
-          "wordCount": null,
-          "title": "Peelimukil Thazhvarayil | Kusruthikuruppu | Jayaram | Meena | Yesudas | Johnson | Venugopan",
           "imageUrl": null
         }
       ]

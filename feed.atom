@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T17:06:53.435Z</updated>
+    <updated>2025-05-31T18:11:01.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[31 May 2025]]></title>
+        <id>https://www.youtube.com/watch?v=r9GqyiO0zlI</id>
+        <link href="https://www.youtube.com/watch?v=r9GqyiO0zlI"/>
+        <updated>2025-05-31T17:12:38.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amme En Amme   Christian Devotional song malayalam | Music Spread]]></title>
         <id>https://www.youtube.com/watch?v=htTsJDeHdAA</id>
@@ -12678,33 +12687,6 @@
         <id>https://www.youtube.com/watch?v=fg-_isHHUN0</id>
         <link href="https://www.youtube.com/watch?v=fg-_isHHUN0"/>
         <updated>2025-05-02T07:30:48.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keli Vipinam Vijanam | 4K | Manthrikam | Mohanlal | Vineetha | Vinayakan | Maria]]></title>
-        <id>https://www.youtube.com/watch?v=fsEIK6a6Snk</id>
-        <link href="https://www.youtube.com/watch?v=fsEIK6a6Snk"/>
-        <updated>2025-05-02T05:42:08.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pacha Theeyanu Nee | Baahubali – The Beginning | M.M.Keeravani | S.S.Rajamouli | Prabhas | Anushka]]></title>
-        <id>https://www.youtube.com/watch?v=3j51XX4N5Sc</id>
-        <link href="https://www.youtube.com/watch?v=3j51XX4N5Sc"/>
-        <updated>2025-05-02T05:30:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peelimukil Thazhvarayil | Kusruthikuruppu | Jayaram | Meena | Yesudas | Johnson | Venugopan]]></title>
-        <id>https://www.youtube.com/watch?v=ByD768OFysA</id>
-        <link href="https://www.youtube.com/watch?v=ByD768OFysA"/>
-        <updated>2025-05-02T05:07:51.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
         </author>
