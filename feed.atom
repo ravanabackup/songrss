@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T13:19:23.630Z</updated>
+    <updated>2025-05-31T14:07:34.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poonkatte Poyi Chollamo | Shibu Chakravarthy | Raghu Kumar | KS Chithra | Unni Menon |]]></title>
+        <id>https://www.youtube.com/watch?v=hqisO-DdHNg</id>
+        <link href="https://www.youtube.com/watch?v=hqisO-DdHNg"/>
+        <updated>2025-05-31T13:30:39.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തിൽ അലിഞ്ഞു ചേർന്ന ക്രിസ്‌തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=QnpaWSO9wS8</id>
+        <link href="https://www.youtube.com/watch?v=QnpaWSO9wS8"/>
+        <updated>2025-05-31T13:30:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
+        <id>https://www.youtube.com/watch?v=Tbb5Hluv-f4</id>
+        <link href="https://www.youtube.com/watch?v=Tbb5Hluv-f4"/>
+        <updated>2025-05-31T13:30:31.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈശോയെ നേരിൽ കണ്ട സന്തോഷം നൽകുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Kester Christian Superhit Songs]]></title>
+        <id>https://www.youtube.com/watch?v=XItYwxLN5DY</id>
+        <link href="https://www.youtube.com/watch?v=XItYwxLN5DY"/>
+        <updated>2025-05-31T13:30:24.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacha Pullin - Audio song | Aranya Bhoomi | Panja Vaishnav Tej, Rakul Preet Singh | M M Keeravani]]></title>
+        <id>https://www.youtube.com/watch?v=VmfLbBpe61s</id>
+        <link href="https://www.youtube.com/watch?v=VmfLbBpe61s"/>
+        <updated>2025-05-31T13:30:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omane Neeyoromal 4K | Ganamela | Mukesh | Geetha Vijayan | KJ Yesudas | Raveendran Hits]]></title>
+        <id>https://www.youtube.com/watch?v=f3q1xKoDyT8</id>
+        <link href="https://www.youtube.com/watch?v=f3q1xKoDyT8"/>
+        <updated>2025-05-31T13:24:40.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kusumavadana 4K Video Song | Madhuchandralekha | Urvashi | Jayaram | Mamta Mohandas | Chithra Iyer]]></title>
         <id>https://www.youtube.com/watch?v=RLL8f7OuCdM</id>
@@ -12671,24 +12725,6 @@
         <updated>2025-05-02T03:54:53.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Shorts  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=f5p-cvI4Uww</id>
-        <link href="https://www.youtube.com/watch?v=f5p-cvI4Uww"/>
-        <updated>2025-05-02T02:00:37.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandanam Yeshuve | Wilson Piravom | Immanuel Henry | Celin Jose | Jyotsna]]></title>
-        <id>https://www.youtube.com/watch?v=eRyw1Ymp7Tc</id>
-        <link href="https://www.youtube.com/watch?v=eRyw1Ymp7Tc"/>
-        <updated>2025-05-02T01:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
