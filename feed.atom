@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-01T07:08:42.323Z</updated>
+    <updated>2025-06-01T08:11:39.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12572,15 +12572,6 @@
         <updated>2025-05-02T22:30:16.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 3 # Athiravile Prarthana 3rd of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Rs25eJD9ubc</id>
-        <link href="https://www.youtube.com/watch?v=Rs25eJD9ubc"/>
-        <updated>2025-05-02T20:00:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
