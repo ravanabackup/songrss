@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-02T11:08:40.625Z</updated>
+    <updated>2025-06-02T12:17:36.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshu En Pakshamay Theernnathinal | Kedarnath | Evergreen Malayalam Christian Songs | Gospel Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Mlyngp7OMwc</id>
+        <link href="https://www.youtube.com/watch?v=Mlyngp7OMwc"/>
+        <updated>2025-06-02T11:45:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathinalam Raavinte 4K | Jayaram | Gireesh Puthenchery | Mohan Sithara | M.G Sreekumar Hits]]></title>
+        <id>https://www.youtube.com/watch?v=oLWZ-vOV0g4</id>
+        <link href="https://www.youtube.com/watch?v=oLWZ-vOV0g4"/>
+        <updated>2025-06-02T11:38:23.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathivrathayam Paripavana | പതിവ്രതയാം |Malankara Catholic Wedding Song|Roy Puthur|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=ggVDLXrIsUw</id>
+        <link href="https://www.youtube.com/watch?v=ggVDLXrIsUw"/>
+        <updated>2025-06-02T11:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaathi Adi Aaathi | Veera Dheera Sooran |Chiyaan Vikram|S.U.Arun Kumar |GV Prakash Kumar |Riya Shibu]]></title>
+        <id>https://www.youtube.com/watch?v=SmZx533n83M</id>
+        <link href="https://www.youtube.com/watch?v=SmZx533n83M"/>
+        <updated>2025-06-02T11:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Subhage | 4K | Emte Ponnu Thamburan | G Devarajan | K J Yesudas | Vayalar Sharath Chadravarma Hits]]></title>
         <id>https://www.youtube.com/watch?v=tEYA9kLlmFE</id>
@@ -1426,6 +1462,15 @@
         <updated>2025-05-30T04:30:33.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonstop Christian Devotional Songs | Evergreen Malayalam Christian Songs | Old Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=i4-jXMNHZh4</id>
+        <link href="https://www.youtube.com/watch?v=i4-jXMNHZh4"/>
+        <updated>2025-05-30T01:42:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12563,15 +12608,6 @@
         <updated>2025-05-04T00:30:20.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്‍റെ വണക്കമാസം 4th May 2025 # Vanakkamasam Prayer 2025 May 4 # Mathavinte Vanakkamasam Day 4]]></title>
-        <id>https://www.youtube.com/watch?v=hztwPGXQzbM</id>
-        <link href="https://www.youtube.com/watch?v=hztwPGXQzbM"/>
-        <updated>2025-05-03T23:30:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
