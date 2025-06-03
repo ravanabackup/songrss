@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T09:10:51.535Z</updated>
+    <updated>2025-06-03T10:10:40.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chenkadali Kumbilile 4K | Chattambinadu | Rimi Tomy Hits | Alex Paul | Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=aXXvJdXxsNg</id>
+        <link href="https://www.youtube.com/watch?v=aXXvJdXxsNg"/>
+        <updated>2025-06-03T10:01:51.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#mrandmrsbachelor #pathithahridhaya #anaswararajan #psjayhari #songoftheday #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=yZTyy9E5wXw</id>
+        <link href="https://www.youtube.com/watch?v=yZTyy9E5wXw"/>
+        <updated>2025-06-03T09:58:35.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnaminnikkum | Kattappanayile Hrithik Roshan | Shankar Mahadevan | Nadirsha | Santhosh Varma]]></title>
+        <id>https://www.youtube.com/watch?v=V-KY3N6xNjQ</id>
+        <link href="https://www.youtube.com/watch?v=V-KY3N6xNjQ"/>
+        <updated>2025-06-03T09:49:00.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aadhyamayi Kandanaal | Thooval Kottaram | K J Yesudas | K S Chithra]]></title>
         <id>https://www.youtube.com/watch?v=knoWb-_1xPU</id>
