@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T14:08:13.776Z</updated>
+    <updated>2025-06-04T15:34:33.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dwadasiyil Mani Deepika | Yusufali Kecheri | Vidyasagar | KJ Yesudas | Sujatha Mohan #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=adT5aJ-8n0o</id>
+        <link href="https://www.youtube.com/watch?v=adT5aJ-8n0o"/>
+        <updated>2025-06-04T14:18:57.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നെഞ്ചിലെ എല്ലാ വിഷമങ്ങൾക്കും മരുന്നാകുന്ന ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
         <id>https://www.youtube.com/watch?v=d-NfN85lbHE</id>
@@ -12687,15 +12696,6 @@
         <id>https://www.youtube.com/watch?v=vnVqEz0C4x8</id>
         <link href="https://www.youtube.com/watch?v=vnVqEz0C4x8"/>
         <updated>2025-05-06T04:30:39.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
-        <id>https://www.youtube.com/watch?v=DvPJ9XDt-QI</id>
-        <link href="https://www.youtube.com/watch?v=DvPJ9XDt-QI"/>
-        <updated>2025-05-06T03:30:18.000Z</updated>
         <author>
             <name>Music Spread</name>
         </author>
