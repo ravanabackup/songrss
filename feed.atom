@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T07:09:48.167Z</updated>
+    <updated>2025-06-04T08:13:31.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മമ്മുക്കയുടെ ഇഷ്ടഗാനങ്ങൾ | HITS OF MAMMOOTTY | EVERGREEN SONGS OF MAMMOOTTY]]></title>
+        <id>https://www.youtube.com/watch?v=4_BnV5apldE</id>
+        <link href="https://www.youtube.com/watch?v=4_BnV5apldE"/>
+        <updated>2025-06-04T07:36:33.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravinte Deva Hridayathil | 4K  | Mazhathullikkilukkam | Dileep | Navya Nair | KJ Yesudas Hits]]></title>
+        <id>https://www.youtube.com/watch?v=dO0Lg2C16UA</id>
+        <link href="https://www.youtube.com/watch?v=dO0Lg2C16UA"/>
+        <updated>2025-06-04T07:32:57.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദേവാങ്കണങ്ങൾ കൈയ്യൊഴിഞ്ഞ താരകം #evergreenhits #malayalam #moviesong]]></title>
         <id>https://www.youtube.com/watch?v=rPTHoXdQfkY</id>
@@ -12563,15 +12581,6 @@
         <updated>2025-05-05T22:30:05.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 6 # Athiravile Prarthana 6th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iw-C95ub6WU</id>
-        <link href="https://www.youtube.com/watch?v=iw-C95ub6WU"/>
-        <updated>2025-05-05T20:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
