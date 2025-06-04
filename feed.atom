@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T16:11:37.276Z</updated>
+    <updated>2025-06-04T17:08:24.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12689,24 +12689,6 @@
         <updated>2025-05-06T05:14:36.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lets start the trend #ruggedcouples #thalaivanthalaivi #mynanandhini]]></title>
-        <id>https://www.youtube.com/watch?v=KjyVXwiz6CM</id>
-        <link href="https://www.youtube.com/watch?v=KjyVXwiz6CM"/>
-        <updated>2025-05-06T04:35:31.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
-        <id>https://www.youtube.com/watch?v=vnVqEz0C4x8</id>
-        <link href="https://www.youtube.com/watch?v=vnVqEz0C4x8"/>
-        <updated>2025-05-06T04:30:39.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
