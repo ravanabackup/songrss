@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T09:10:21.150Z</updated>
+    <updated>2025-06-05T10:10:25.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayamayuram | Audio Song | Vadakkunokki Yanthram | M G Sreekumar | Sreenivasan | Johnson| Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=YcbtN8Qgyk4</id>
+        <link href="https://www.youtube.com/watch?v=YcbtN8Qgyk4"/>
+        <updated>2025-06-05T09:44:35.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachavellam Thachinu Sojappan Song | Calender Movie | Video Song | Vineeth Sreenivasan |  Prithviraj]]></title>
+        <id>https://www.youtube.com/watch?v=k9MdqDVyEhA</id>
+        <link href="https://www.youtube.com/watch?v=k9MdqDVyEhA"/>
+        <updated>2025-06-05T09:30:20.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ganamanu Njan 4K  | Iruvattam Manavatti | Alphones Johns | B R Prasad |  Sreenivas | Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=oWik9hbEeNc</id>
@@ -31,6 +49,15 @@
         <updated>2025-06-05T07:00:13.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agamporul | Music Video | Rejeesh Devaragam | Sudheesh Sasikumar | Shinju NC]]></title>
+        <id>https://www.youtube.com/watch?v=197yh9sxs1o</id>
+        <link href="https://www.youtube.com/watch?v=197yh9sxs1o"/>
+        <updated>2025-06-05T06:58:58.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -346,6 +373,15 @@
         <updated>2025-06-04T09:15:39.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Para Para Para Parannupokum | Kids Animation Videos | Malayalam Christian Animation Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ZYow-89zH9k</id>
+        <link href="https://www.youtube.com/watch?v=ZYow-89zH9k"/>
+        <updated>2025-06-04T09:01:25.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -1291,6 +1327,15 @@
         <updated>2025-06-02T05:24:00.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neelakkuyile | Manjari | Santhosh Varma | Aby Salvin | Joby Joy Vilanganpara | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5E-bk5gt40k</id>
+        <link href="https://www.youtube.com/watch?v=5E-bk5gt40k"/>
+        <updated>2025-06-02T05:07:41.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
