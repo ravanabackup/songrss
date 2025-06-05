@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T07:10:08.558Z</updated>
+    <updated>2025-06-05T08:13:20.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏവർക്കും ഒരുപോലെ പ്രിയങ്കരം ഈ മനോഹര ഗാനങ്ങൾ | EVERGREEN MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=5t5EsYhXPLw</id>
+        <link href="https://www.youtube.com/watch?v=5t5EsYhXPLw"/>
+        <updated>2025-06-05T07:45:21.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Khaaleja - Sada Siva Video with Lyrics | Mahesh Babu, Anushka | Manisarma]]></title>
         <id>https://www.youtube.com/watch?v=8LXvQBACCCE</id>
@@ -12509,15 +12518,6 @@
         <updated>2025-05-06T22:30:12.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 7 # Athiravile Prarthana 7th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=wyWJ-uTA3aQ</id>
-        <link href="https://www.youtube.com/watch?v=wyWJ-uTA3aQ"/>
-        <updated>2025-05-06T20:00:45.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
