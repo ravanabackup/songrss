@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T16:11:33.722Z</updated>
+    <updated>2025-06-05T17:06:53.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shubhayaathraa Geethangal  | Akashadoothu | Murali | KJ Yesudas l ONV Kurup | Madhavi #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JggC7RS-e0k</id>
+        <link href="https://www.youtube.com/watch?v=JggC7RS-e0k"/>
+        <updated>2025-06-05T16:28:06.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Karthavin Varavil Namme…. #matchpointfaith  #malayalamchristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=4KuSWFy5AR4</id>
@@ -12761,24 +12770,6 @@
         <updated>2025-05-07T07:45:16.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aarum Aarum Kaanathe | 4K Video Song | Nandanam | Prithviraj | Navya Nair | Raveendran Hits]]></title>
-        <id>https://www.youtube.com/watch?v=oLbIxgRKBm0</id>
-        <link href="https://www.youtube.com/watch?v=oLbIxgRKBm0"/>
-        <updated>2025-05-07T05:05:29.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Ange Mahathwathinay | Christian Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=NIQxyvTEkxs</id>
-        <link href="https://www.youtube.com/watch?v=NIQxyvTEkxs"/>
-        <updated>2025-05-07T04:30:16.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
