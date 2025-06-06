@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T02:29:23.735Z</updated>
+    <updated>2025-06-06T03:39:41.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanunnu Njaninnaa Kalvariyil | Shorts  #christiansongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=W1scuYGmrcQ</id>
+        <link href="https://www.youtube.com/watch?v=W1scuYGmrcQ"/>
+        <updated>2025-06-06T02:30:21.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marillavan Marakkillavan | Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=JOK44ycDn8s</id>
@@ -12554,42 +12563,6 @@
         <updated>2025-05-07T16:02:35.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
-        <id>https://www.youtube.com/watch?v=gR6uaJjPK7Y</id>
-        <link href="https://www.youtube.com/watch?v=gR6uaJjPK7Y"/>
-        <updated>2025-05-07T15:30:21.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunkumam Charthumee | Poothumbiyum Poovalanmarum | Vani Vishwanath | K S Chithra Hits | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=4sRauAIhUv4</id>
-        <link href="https://www.youtube.com/watch?v=4sRauAIhUv4"/>
-        <updated>2025-05-07T14:50:01.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhameettum | Jayasoorya | Navya Nair | Jyotsna| Alex Paul | Gireesh Puthenchery #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=5uCS9tFQCf0</id>
-        <link href="https://www.youtube.com/watch?v=5uCS9tFQCf0"/>
-        <updated>2025-05-07T14:30:08.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
-        <id>https://www.youtube.com/watch?v=5gMS_AsHCwY</id>
-        <link href="https://www.youtube.com/watch?v=5gMS_AsHCwY"/>
-        <updated>2025-05-07T14:30:06.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
