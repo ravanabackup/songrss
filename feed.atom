@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T04:16:02.372Z</updated>
+    <updated>2025-06-06T05:10:11.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#songoftheday #orunokkil #madhuramanoharamoham #heshamabdulwahab #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=q6HquiYKmLs</id>
+        <link href="https://www.youtube.com/watch?v=q6HquiYKmLs"/>
+        <updated>2025-06-06T04:31:55.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellikkinnam Niranju | Arjunanpillayum Anchu Makkalum | Innocent | K J Yesudas | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=7tAiqeNxERw</id>
+        <link href="https://www.youtube.com/watch?v=7tAiqeNxERw"/>
+        <updated>2025-06-06T04:30:04.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanunnu Njaninnaa Kalvariyil | Shorts  #christiansongs #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=W1scuYGmrcQ</id>
@@ -12545,15 +12563,6 @@
         <updated>2025-05-07T19:00:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വി.ഗീവറുഗീസ് സഹദായുടെ പെരുന്നാൾ നമസ്ക്കാരം | St. George Prayers & Songs|  Feast Of St. George]]></title>
-        <id>https://www.youtube.com/watch?v=ewemJdwm4DA</id>
-        <link href="https://www.youtube.com/watch?v=ewemJdwm4DA"/>
-        <updated>2025-05-07T16:30:12.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
