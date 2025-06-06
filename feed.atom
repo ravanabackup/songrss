@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T03:39:41.745Z</updated>
+    <updated>2025-06-06T04:16:02.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12554,15 +12554,6 @@
         <updated>2025-05-07T16:30:12.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mmm...haha 🍻 #nagmanasser #dhibuninanthomas #beersong]]></title>
-        <id>https://www.youtube.com/watch?v=cLn4_Zv4J1w</id>
-        <link href="https://www.youtube.com/watch?v=cLn4_Zv4J1w"/>
-        <updated>2025-05-07T16:02:35.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
