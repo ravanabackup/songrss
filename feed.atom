@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T07:09:37.601Z</updated>
+    <updated>2025-06-06T08:13:11.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരു ദിവസം പോലും കേൾക്കാതിരിക്കാനാവാത്ത അത്രമേൽ സ്നേഹിക്കുന്ന മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=QpMThGb6Bgw</id>
+        <link href="https://www.youtube.com/watch?v=QpMThGb6Bgw"/>
+        <updated>2025-06-06T07:30:23.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൂ വേണോ... പൂ വേണോ...| Deshadanakili Karayaarilla Evergreen Malayalam Film Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=gWv2F0vcHBk</id>
+        <link href="https://www.youtube.com/watch?v=gWv2F0vcHBk"/>
+        <updated>2025-06-06T07:12:37.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Khaaleja - Pileche Video with Lyrics | Mahesh Babu, Anushka | Manisarma]]></title>
         <id>https://www.youtube.com/watch?v=CZWSdjqHzZc</id>
@@ -12608,15 +12626,6 @@
         <updated>2025-05-07T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 8 # Athiravile Prarthana 8th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=M5USrwEUYB4</id>
-        <link href="https://www.youtube.com/watch?v=M5USrwEUYB4"/>
-        <updated>2025-05-07T20:00:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
