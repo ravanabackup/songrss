@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T05:09:03.757Z</updated>
+    <updated>2025-06-07T06:12:10.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Changathi Koottam | Audio Song | Note Book | Afsal | Vidhu Prathap | Rimi Tomy | Sayanora]]></title>
+        <id>https://www.youtube.com/watch?v=Ye1kCJn60u4</id>
+        <link href="https://www.youtube.com/watch?v=Ye1kCJn60u4"/>
+        <updated>2025-06-07T05:30:26.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No surface vibes – this one goes deep #Jodino1 🎶🔥#Ytshorts #Shorts #Saregamamalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=f3spXJy62bo</id>
+        <link href="https://www.youtube.com/watch?v=f3spXJy62bo"/>
+        <updated>2025-06-07T05:30:18.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vidarum varanapookal | 4K Iruvattam Manavatti  |Afsal |Sujatha Mohan | Kunchacko Boban]]></title>
+        <id>https://www.youtube.com/watch?v=fsh151-vqoQ</id>
+        <link href="https://www.youtube.com/watch?v=fsh151-vqoQ"/>
+        <updated>2025-06-07T05:30:18.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puthiyoru Pakalil | Theevram |Video Song| Theevram | Roby Abraham |  Dulquer Salmaan |Arun Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=NxvgTw-ruak</id>
+        <link href="https://www.youtube.com/watch?v=NxvgTw-ruak"/>
+        <updated>2025-06-07T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kathodu kathoram | Audio Jukebox |  Saritha Birthday Special Song | Mammootty | Saritha]]></title>
         <id>https://www.youtube.com/watch?v=jxhrqG61vRs</id>
