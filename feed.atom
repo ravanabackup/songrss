@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T15:07:55.459Z</updated>
+    <updated>2025-06-07T16:09:30.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onneyullenikk Anandham | ഒന്നേയുള്ളെനിക്കാനന്ദ |Malayalam Christian Devotional song | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=Nw6ifF2eeDQ</id>
+        <link href="https://www.youtube.com/watch?v=Nw6ifF2eeDQ"/>
+        <updated>2025-06-07T15:30:18.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദേ.. കാത്തുക്കുട്ടിയും കേദാർക്കുട്ടനും പാടി തകർത്ത സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനം | #worship | #shorts]]></title>
         <id>https://www.youtube.com/watch?v=c4vjFPyLojs</id>
