@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-08T14:07:33.731Z</updated>
+    <updated>2025-06-08T15:07:47.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sadhukochukunjuupadeshi Song |Malayalam Christian Devotional Song |Music Spread|]]></title>
+        <id>https://www.youtube.com/watch?v=xhYtQNCpnGM</id>
+        <link href="https://www.youtube.com/watch?v=xhYtQNCpnGM"/>
+        <updated>2025-06-08T14:30:41.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raapadee Kezhunnuvo | Akashadoothu | Murali | KJ Yesudas l ONV Kurup | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=wdzDbz377OI</id>
+        <link href="https://www.youtube.com/watch?v=wdzDbz377OI"/>
+        <updated>2025-06-08T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിങ്ങൾക്ക് നഷ്ട്ടപ്പെട്ടതെല്ലാം തിരികെതരും ഈ ഗാനങ്ങൾ @JinoKunnumpurathu #evergreenhits]]></title>
         <id>https://www.youtube.com/watch?v=xGCBay4lJoo</id>
