@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-08T11:06:37.461Z</updated>
+    <updated>2025-06-08T12:15:06.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maatra Paravai Video Song |Vaayai Moodi Pesavum |Dulquer Salmaan, Nazriya| Sean Roldan |Balaji Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=CeMeL8xdApo</id>
+        <link href="https://www.youtube.com/watch?v=CeMeL8xdApo"/>
+        <updated>2025-06-08T11:30:24.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penne Penne Kathali | Audio Song | Chunkzz | Honey Rose | Ramshi | Gopi Sundar | B K Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=1Mvbac3d9tc</id>
+        <link href="https://www.youtube.com/watch?v=1Mvbac3d9tc"/>
+        <updated>2025-06-08T11:30:01.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doore Doore Video Song | Nadodi | Mohanlal | MG Sreekumar | SP Venkitesh | ONV Kurup]]></title>
         <id>https://www.youtube.com/watch?v=bpStJomdO2Y</id>
@@ -12527,15 +12545,6 @@
         <updated>2025-05-10T00:30:14.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്‍റെ വണക്കമാസം 10th May 2025 # Vanakkamasam Prayer 2025 May 10 # Mathavinte Vanakkamasam]]></title>
-        <id>https://www.youtube.com/watch?v=bsHFbB37yvU</id>
-        <link href="https://www.youtube.com/watch?v=bsHFbB37yvU"/>
-        <updated>2025-05-09T23:30:26.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
