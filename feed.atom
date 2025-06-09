@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-09T05:11:39.754Z</updated>
+    <updated>2025-06-09T06:14:55.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let the sound speak – #Jodino1 knows the vibe 🎧💣#Ytshorts #Shorts #Saregamamalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=uL3DSasRj6g</id>
+        <link href="https://www.youtube.com/watch?v=uL3DSasRj6g"/>
+        <updated>2025-06-09T05:30:25.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Favourite Movie Songs | Celebrity Playlist | Anil Panachooran | Super Hit Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GyelR5Oh4cA</id>
+        <link href="https://www.youtube.com/watch?v=GyelR5Oh4cA"/>
+        <updated>2025-06-09T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnum Chemanthipoovum | Iruvattam Manavaatti 4K | M.G.Sreekumar | Sujatha | Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=h3wfdr09QXk</id>
+        <link href="https://www.youtube.com/watch?v=h3wfdr09QXk"/>
+        <updated>2025-06-09T05:15:25.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malarthen Kili | Freedom | Jishnu | Nithyadas | M G Sreekumar | Ranjini Jose]]></title>
         <id>https://www.youtube.com/watch?v=pj2h90Unau8</id>
