@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-09T20:10:29.001Z</updated>
+    <updated>2025-06-09T21:08:43.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12572,33 +12572,6 @@
         <updated>2025-05-11T11:30:05.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Mother’s Day to all the supermoms out there!❤️#mothersday #AmAa #deivamthanthakanmanippoove]]></title>
-        <id>https://www.youtube.com/watch?v=zFLp_ScD-_w</id>
-        <link href="https://www.youtube.com/watch?v=zFLp_ScD-_w"/>
-        <updated>2025-05-11T08:55:05.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nimishadalangal Video Song | Aalinganam | K J Yesudas | Bichu Thirumala | AT Ummer | Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=K4tXjU1vaSU</id>
-        <link href="https://www.youtube.com/watch?v=K4tXjU1vaSU"/>
-        <updated>2025-05-11T08:30:08.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poy Varuvan Koode Varu Video Song | Out of Syllabus | Parvathy Thiruvothu | Manjari | Prabha Varma]]></title>
-        <id>https://www.youtube.com/watch?v=2AIeam0AnfY</id>
-        <link href="https://www.youtube.com/watch?v=2AIeam0AnfY"/>
-        <updated>2025-05-11T08:30:02.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
