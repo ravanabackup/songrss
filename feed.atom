@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-09T07:11:21.211Z</updated>
+    <updated>2025-06-09T08:14:25.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Koodeyulla Amma Karaoke # Amme Thaye Vimalaambike Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=ItyWf2bJBZY</id>
+        <link href="https://www.youtube.com/watch?v=ItyWf2bJBZY"/>
+        <updated>2025-06-09T08:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്ര വലിയ നൊമ്പരവും അകറ്റുന്ന അനശ്വര ക്രിസ്ത്യൻ ഭക്തിഗാനങ്ങൾ | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_2GRveihBYw</id>
+        <link href="https://www.youtube.com/watch?v=_2GRveihBYw"/>
+        <updated>2025-06-09T07:59:18.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിനെ കുളിരണിയിപ്പിക്കുന്ന മലയാളസിനിമയിലെ ആർദ്ര ഗാനങ്ങൾ | MELODIOUS SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=aXfNO6qg1FY</id>
+        <link href="https://www.youtube.com/watch?v=aXfNO6qg1FY"/>
+        <updated>2025-06-09T07:35:40.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthimana Choppu Maanju | അന്തിമാനച്ചോപ്പ് മാഞ്ഞു | Manathe Vellitheru Movie Song | Shobana, Vineeth]]></title>
+        <id>https://www.youtube.com/watch?v=MogO0xXSasY</id>
+        <link href="https://www.youtube.com/watch?v=MogO0xXSasY"/>
+        <updated>2025-06-09T07:14:48.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yemaiundacho - Video with Lyrics | Deepthi Sunaina | Vinay Shanmukh | Vijai Bulganin]]></title>
+        <id>https://www.youtube.com/watch?v=vUIqG30PxH0</id>
+        <link href="https://www.youtube.com/watch?v=vUIqG30PxH0"/>
+        <updated>2025-06-09T07:01:01.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#thaanepookkum #SapthamashreeThaskaraha #Prithvirajsukumaran #ReenuMathews #songoftheday #shorts]]></title>
         <id>https://www.youtube.com/watch?v=sDSx1ogY4e0</id>
@@ -12392,15 +12437,6 @@
         <updated>2025-05-10T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 11 # Athiravile Prarthana 11th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ecWhTKHiDKA</id>
-        <link href="https://www.youtube.com/watch?v=ecWhTKHiDKA"/>
-        <updated>2025-05-10T20:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
