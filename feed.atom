@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T22:08:33.302Z</updated>
+    <updated>2025-06-10T23:08:42.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=USZD53eLtds</id>
+        <link href="https://www.youtube.com/watch?v=USZD53eLtds"/>
+        <updated>2025-06-10T23:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂൺ: 11, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=Z0OWIflRnP4</id>
+        <link href="https://www.youtube.com/watch?v=Z0OWIflRnP4"/>
+        <updated>2025-06-10T22:30:07.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 11 # Athiravile Prarthana 11th of June 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=7zTxI30nyos</id>
@@ -12743,42 +12761,6 @@
         <updated>2025-05-12T11:22:25.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[റൂഹാ!!! Rooha | Swargeeya Jerusalem | Ft. John Britto Augustin]]></title>
-        <id>https://www.youtube.com/watch?v=Dbmy-fJ1KuM</id>
-        <link href="https://www.youtube.com/watch?v=Dbmy-fJ1KuM"/>
-        <updated>2025-05-12T11:05:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paattil Ee Paattil  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=AToqSn9gy1M</id>
-        <link href="https://www.youtube.com/watch?v=AToqSn9gy1M"/>
-        <updated>2025-05-12T11:00:29.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yachikendum Samayamitha | യാചിക്കേണ്ടും സമയമിതാ | Roy Puthur & Maria Kolady | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=SY7XUbdig3U</id>
-        <link href="https://www.youtube.com/watch?v=SY7XUbdig3U"/>
-        <updated>2025-05-12T11:00:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അന്നമ്മേ നീയെന്താടി പെങ്കൊച്ചേ കുന്തം പോലെ ചിന്തിച്ചു നിക്കണത് #trending #shortsongs]]></title>
-        <id>https://www.youtube.com/watch?v=Gr1uqbhX4VA</id>
-        <link href="https://www.youtube.com/watch?v=Gr1uqbhX4VA"/>
-        <updated>2025-05-12T10:58:01.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
         </author>
     </entry>
 </feed>
