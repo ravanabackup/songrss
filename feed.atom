@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T00:46:14.872Z</updated>
+    <updated>2025-06-10T02:40:45.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunjattin Thirurakthathal Njan | Elizabeth S. Mathew | Shorts  #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=4cml5XVjD3M</id>
+        <link href="https://www.youtube.com/watch?v=4cml5XVjD3M"/>
+        <updated>2025-06-10T01:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala  10th of June  2025 # Mathavinte Japamala # Dhukhathinte Rahasyangal 10th of June  2025]]></title>
         <id>https://www.youtube.com/watch?v=guzZDOT_hPE</id>
@@ -12500,69 +12509,6 @@
         <updated>2025-05-11T16:25:49.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninakkente Manassile | Dileep | Meera Jasmine | KJ Yesudas | Sujatha Mohan | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=PxzdnPq7NhI</id>
-        <link href="https://www.youtube.com/watch?v=PxzdnPq7NhI"/>
-        <updated>2025-05-11T14:30:14.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allimalar kannil Video Song | Mammootty | Janaki | Shyam |Kavalam Narayana Panicker]]></title>
-        <id>https://www.youtube.com/watch?v=j4CtB7yyyPQ</id>
-        <link href="https://www.youtube.com/watch?v=j4CtB7yyyPQ"/>
-        <updated>2025-05-11T13:30:36.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parishudha Simhasanathil | Pop Leo XiV |  Prayer Songs |Joji Johns | Sebu George |James Kalapurakkal]]></title>
-        <id>https://www.youtube.com/watch?v=XlN8wBgT0mk</id>
-        <link href="https://www.youtube.com/watch?v=XlN8wBgT0mk"/>
-        <updated>2025-05-11T13:30:31.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karineelakannu - Audio Song | Appavum Veenjum | Ramyakrishnan, Pratap Pothen | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=ZWlcIfNpoaY</id>
-        <link href="https://www.youtube.com/watch?v=ZWlcIfNpoaY"/>
-        <updated>2025-05-11T13:30:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏകാന്തതയിൽ മനസ്സിലേക്ക് ഓടിയെത്തുന്ന മനോഹര ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=R_xBOBtM07c</id>
-        <link href="https://www.youtube.com/watch?v=R_xBOBtM07c"/>
-        <updated>2025-05-11T13:30:17.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil Minnum Thingal Poovaadiyil | Sai Balan | Hareesh Mohanan | Sarath Raghavan]]></title>
-        <id>https://www.youtube.com/watch?v=E-Jy_ti7QSo</id>
-        <link href="https://www.youtube.com/watch?v=E-Jy_ti7QSo"/>
-        <updated>2025-05-11T13:30:09.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNNATHATHIL OSANNA | മേഘ്നാകുട്ടീ.. പൊളിച്ചുട്ടോ👌❤️ @MeghnaSumesh​ @DevotionalSongTamil #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=3lL9IfeBSfA</id>
-        <link href="https://www.youtube.com/watch?v=3lL9IfeBSfA"/>
-        <updated>2025-05-11T13:00:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
