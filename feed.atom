@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T03:41:17.086Z</updated>
+    <updated>2025-06-11T04:18:57.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -526,6 +526,15 @@
         <updated>2025-06-10T04:00:47.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethra Nandhi Pranjalum | Celin Shoji | Sibi Sabu | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=QCsaKZgv1Hc</id>
+        <link href="https://www.youtube.com/watch?v=QCsaKZgv1Hc"/>
+        <updated>2025-06-10T03:47:37.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12608,15 +12617,6 @@
         <updated>2025-05-12T19:00:54.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരളിൽ വിളങ്ങി നിൽപ്പൂ #spvenkatesh #mammootty #kauravar #kjyesudashits]]></title>
-        <id>https://www.youtube.com/watch?v=V419vnbMomI</id>
-        <link href="https://www.youtube.com/watch?v=V419vnbMomI"/>
-        <updated>2025-05-12T15:54:30.000Z</updated>
-        <author>
-            <name>Raaga music</name>
         </author>
     </entry>
 </feed>
