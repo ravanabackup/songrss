@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-11T13:25:51.900Z</updated>
+    <updated>2025-06-11T14:08:32.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kondal Song X K For Kabaradakkam - Video Mashup | Dabzee | Asal Kolaar | Sam CS | Ankit Menon]]></title>
+        <id>https://www.youtube.com/watch?v=uPsM_RkR92Y</id>
+        <link href="https://www.youtube.com/watch?v=uPsM_RkR92Y"/>
+        <updated>2025-06-11T13:30:50.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ ഹൃദയത്തിൽ സ്ഥാനം പിടിച്ച സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=zelPYe7Eqzc</id>
+        <link href="https://www.youtube.com/watch?v=zelPYe7Eqzc"/>
+        <updated>2025-06-11T13:30:49.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നമ്മെ താങ്ങിനടത്തും പ്രത്യാശാഗീതങ്ങൾ  | @JinoKunnumpurathu    #christiansongs #]]></title>
+        <id>https://www.youtube.com/watch?v=essc5p7raCQ</id>
+        <link href="https://www.youtube.com/watch?v=essc5p7raCQ"/>
+        <updated>2025-06-11T13:30:38.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aakashathil Vazhum |Sameeksha Anthony |Joji Johns | Shibu Antony Mavelikkara |Christian Prayer Songs]]></title>
+        <id>https://www.youtube.com/watch?v=VuWf6UpZM5c</id>
+        <link href="https://www.youtube.com/watch?v=VuWf6UpZM5c"/>
+        <updated>2025-06-11T13:30:34.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആത്മാവിൽ മുട്ടിവിളിച്ചതു പോലെ സ്നേഹാതുരമായ്‌ തൊട്ടുരിയാടിയ പോലെ #evergreenhits #filmsong]]></title>
+        <id>https://www.youtube.com/watch?v=bDLwEkEXmVk</id>
+        <link href="https://www.youtube.com/watch?v=bDLwEkEXmVk"/>
+        <updated>2025-06-11T13:30:27.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaranne Aaranne -  Reprise #urumisong #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=6KcfA5wOMoo</id>
+        <link href="https://www.youtube.com/watch?v=6KcfA5wOMoo"/>
+        <updated>2025-06-11T13:30:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy birthday to the gifted #utharaunnikrishnan ! #shorts #morrakka #lakshmi]]></title>
         <id>https://www.youtube.com/watch?v=qBaD_tF2dJI</id>
@@ -12842,15 +12896,6 @@
         <updated>2025-05-13T03:49:11.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaradhyan Yesupara | Manorama Christian Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=12ItDtTdTyY</id>
-        <link href="https://www.youtube.com/watch?v=12ItDtTdTyY"/>
-        <updated>2025-05-13T01:30:01.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
