@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T07:10:05.880Z</updated>
+    <updated>2025-06-12T08:13:24.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക് പ്രിയമുള്ള മലയാള ചലച്ചിത്രഗാനങ്ങൾ  | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=MHXDwh4Tz5o</id>
+        <link href="https://www.youtube.com/watch?v=MHXDwh4Tz5o"/>
+        <updated>2025-06-12T07:30:10.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Mood Today ?! 😍🎶 #AshubhaMangalakaari #NeelaNilave #Pakaliravukal #AthmavePoo #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/shorts/6oBq6QRxJMk</id>
+        <link href="https://www.youtube.com/shorts/6oBq6QRxJMk"/>
+        <updated>2025-06-12T07:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dikkiloona - Per Vachaalum Video with Lyrics | Santhanam | Yuvan Shankar Raja]]></title>
         <id>https://www.youtube.com/watch?v=PuSBbnXprdg</id>
@@ -14347,15 +14366,6 @@
         <updated>2025-05-13T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 14 # Athiravile Prarthana 14th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7pWBeRAt7J0</id>
-        <link href="https://www.youtube.com/watch?v=7pWBeRAt7J0"/>
-        <updated>2025-05-13T20:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
