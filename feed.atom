@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T20:10:23.499Z</updated>
+    <updated>2025-06-13T21:08:17.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14603,33 +14603,6 @@
         <updated>2025-05-15T09:30:03.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angakale | Sreya Jayadeep | Joffi Tharakan | Joy Payyappilly | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=OfH1cEI8lV4</id>
-        <link href="https://www.youtube.com/watch?v=OfH1cEI8lV4"/>
-        <updated>2025-05-15T09:05:17.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയത്തിൽ ഇടം നേടിയ ഗാനങ്ങൾ | Nostalgic Hits | MG Radhakrishnan | Gireesh Puthenchery |Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=RC4XqVh8-JQ</id>
-        <link href="https://www.youtube.com/watch?v=RC4XqVh8-JQ"/>
-        <updated>2025-05-15T08:37:28.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walking In The Moonlight 4K | Kunchacko Boban | Aswathy Vidyasagar Hits | Hariharan |Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=qmlS2efMC6Q</id>
-        <link href="https://www.youtube.com/watch?v=qmlS2efMC6Q"/>
-        <updated>2025-05-15T08:19:29.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
