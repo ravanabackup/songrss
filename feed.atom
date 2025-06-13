@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T08:13:12.386Z</updated>
+    <updated>2025-06-13T09:10:26.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pramadavanam | പ്രമദവനം വീണ്ടും...| His Highness Abdulla | Mohanlal | K J Yesudas | Movie Audio Song]]></title>
+        <id>https://www.youtube.com/shorts/p2xh8verXEA</id>
+        <link href="https://www.youtube.com/shorts/p2xh8verXEA"/>
+        <updated>2025-06-13T09:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾക്ക് എപ്പോഴും നാവിൻ തുമ്പിലുള്ള മലയാളസിനിമാഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=oxROqzS0HhU</id>
