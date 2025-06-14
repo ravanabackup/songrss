@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T16:09:51.799Z</updated>
+    <updated>2025-06-14T17:07:00.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[177th Birth Anniversary of Parumala Thirumeni | St Gregorios birthday |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/EeIDwj-UH6k</id>
+        <link href="https://www.youtube.com/shorts/EeIDwj-UH6k"/>
+        <updated>2025-06-14T16:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Velivu Niranjoreesho Nin |  വെളിവു നിറഞ്ഞോരീശോ | Roy Puthur & Maria Kolady | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=_60_Yhv6o5U</id>
@@ -14758,15 +14768,6 @@
         <updated>2025-05-16T05:09:59.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Once Upon A Time There Was A Kallan |Official Trailer|Sreenath Bhasi|Fazil Mohammed |Theos Creations]]></title>
-        <id>https://www.youtube.com/watch?v=mogVrVvlydA</id>
-        <link href="https://www.youtube.com/watch?v=mogVrVvlydA"/>
-        <updated>2025-05-16T04:56:40.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
