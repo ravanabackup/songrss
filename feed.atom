@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T08:14:21.065Z</updated>
+    <updated>2025-06-16T09:12:17.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maamazhayile | 4K | Mayilattam | M Jayachandran | Gireesh Puthacherry Hits | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=yWFt4V2SS2Y</id>
+        <link href="https://www.youtube.com/watch?v=yWFt4V2SS2Y"/>
+        <updated>2025-06-16T08:29:35.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾക്ക് എത്ര കേട്ടാലും മതി വരാത്ത സിനിമാഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=PD8PfdCPeGA</id>
@@ -2283,6 +2292,15 @@
         <updated>2025-06-11T13:01:01.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sabhyam Thirusabhayamee Njan | Marriage Songs | Roy Puthur & Team | Malankara Wedding Songs]]></title>
+        <id>https://www.youtube.com/watch?v=4fwqOciCang</id>
+        <link href="https://www.youtube.com/watch?v=4fwqOciCang"/>
+        <updated>2025-06-11T12:48:21.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
