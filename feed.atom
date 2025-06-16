@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T10:10:57.232Z</updated>
+    <updated>2025-06-16T11:08:45.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ha En Daivame | Fr.Thadeus Aravindath |Biju Naarayanan| Kester |Maneesha | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=t7hT6bkJ05E</id>
+        <link href="https://www.youtube.com/watch?v=t7hT6bkJ05E"/>
+        <updated>2025-06-16T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poo Kumkumappoo | K S  Chithra | Rasathanthram #kschithra  #shortsfeed #shortsvideo #mohanlal]]></title>
+        <id>https://www.youtube.com/shorts/5bSy6w8hPqQ</id>
+        <link href="https://www.youtube.com/shorts/5bSy6w8hPqQ"/>
+        <updated>2025-06-16T10:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലഹരീ ആനന്ദലഹരീ  | Prabhu Movie Song | Malayalam Melody | K. J. Yesudas | Seema, Prem Nazir]]></title>
+        <id>https://www.youtube.com/watch?v=uZ4nq4_z_No</id>
+        <link href="https://www.youtube.com/watch?v=uZ4nq4_z_No"/>
+        <updated>2025-06-16T10:24:19.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wishing the ever-graceful #Anjali a very happy birthday! #shorts #ytshorts yts]]></title>
         <id>https://www.youtube.com/shorts/tVXpxJKhy5k</id>
@@ -14469,33 +14497,6 @@
         <updated>2025-05-17T23:30:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuvin Kaarunyam | Kester | Elizabeth Raju | Chitra Arun | Nonstop Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ckRITXh77mc</id>
-        <link href="https://www.youtube.com/watch?v=ckRITXh77mc"/>
-        <updated>2025-05-17T23:00:22.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=5d-7p_dq3lo</id>
-        <link href="https://www.youtube.com/watch?v=5d-7p_dq3lo"/>
-        <updated>2025-05-17T23:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മെയ്: 18, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=4gc5AywdhCs</id>
-        <link href="https://www.youtube.com/watch?v=4gc5AywdhCs"/>
-        <updated>2025-05-17T22:30:01.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
