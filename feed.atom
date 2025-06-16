@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T07:12:05.157Z</updated>
+    <updated>2025-06-16T08:14:21.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക് എത്ര കേട്ടാലും മതി വരാത്ത സിനിമാഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=PD8PfdCPeGA</id>
+        <link href="https://www.youtube.com/watch?v=PD8PfdCPeGA"/>
+        <updated>2025-06-16T07:39:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ ദൈവസ്നേഹത്തിന്റെ കുളിർമഴ പെയ്യുന്ന മനോഹരമായ ക്രിസ്ത്യൻ ഭക്തിഗാനങ്ങൾ | Christian Musics]]></title>
+        <id>https://www.youtube.com/watch?v=z_38VF2prOg</id>
+        <link href="https://www.youtube.com/watch?v=z_38VF2prOg"/>
+        <updated>2025-06-16T07:21:30.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Kannu Kulla 💖🎶 #AppuchiGraamam #VishalChandrashekhar]]></title>
+        <id>https://www.youtube.com/shorts/WMHGyksgci8</id>
+        <link href="https://www.youtube.com/shorts/WMHGyksgci8"/>
+        <updated>2025-06-16T07:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viduthalai - Kaattumalli Video with Lyrics | Ilaiyaraaja | Soori | Vijay Sethupathi]]></title>
         <id>https://www.youtube.com/watch?v=zCXlW-2wWY4</id>
@@ -14421,15 +14449,6 @@
         <updated>2025-05-17T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 18 # Athiravile Prarthana 18th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=OqaJ8ztpXPY</id>
-        <link href="https://www.youtube.com/watch?v=OqaJ8ztpXPY"/>
-        <updated>2025-05-17T20:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
