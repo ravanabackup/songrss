@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T14:10:07.250Z</updated>
+    <updated>2025-06-16T15:10:09.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Mazhapakshi Paadunnu | Gireesh Puthenchery | Mohan Sithara | MG Sreekumar | Sujatha #shorts]]></title>
+        <id>https://www.youtube.com/shorts/tbIvGl0Fswo</id>
+        <link href="https://www.youtube.com/shorts/tbIvGl0Fswo"/>
+        <updated>2025-06-16T14:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kooki Paayum | Dance Party #shortsfeed #shortsvideo #shorts #reels #shinetomchacko #prayagamartin]]></title>
+        <id>https://www.youtube.com/shorts/EhAMbGSDueg</id>
+        <link href="https://www.youtube.com/shorts/EhAMbGSDueg"/>
+        <updated>2025-06-16T14:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാലങ്ങൾകഴിഞ്ഞാലും മറക്കാൻകഴിയില്ല ഈ മനോഹരഗാനങ്ങൾ | @JinoKunnumpurathu  #jinokunnumpurath]]></title>
         <id>https://www.youtube.com/watch?v=fKLJwuzpES8</id>
