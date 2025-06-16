@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T02:44:20.320Z</updated>
+    <updated>2025-06-16T03:46:13.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14383,33 +14383,6 @@
         <updated>2025-05-17T16:46:53.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vengayo x Think Indie | Artist Reveal]]></title>
-        <id>https://www.youtube.com/watch?v=ZQB1BG-tAT8</id>
-        <link href="https://www.youtube.com/watch?v=ZQB1BG-tAT8"/>
-        <updated>2025-05-17T15:39:11.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.V Peter Talk Show Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=VPUh3nExQek</id>
-        <link href="https://www.youtube.com/watch?v=VPUh3nExQek"/>
-        <updated>2025-05-17T15:30:27.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhithunaiye 🎶 #tejuashwini #leonjames #dragon]]></title>
-        <id>https://www.youtube.com/watch?v=pTJH4biGLqY</id>
-        <link href="https://www.youtube.com/watch?v=pTJH4biGLqY"/>
-        <updated>2025-05-17T15:23:17.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
