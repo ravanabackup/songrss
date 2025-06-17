@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T15:10:13.597Z</updated>
+    <updated>2025-06-17T16:11:55.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14755,15 +14755,6 @@
         <updated>2025-05-19T05:26:40.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thrikkarangal Enne Nadathum Karaoke | Charles John | Malayalam Christian Devotional Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=rxOsIWp-V3w</id>
-        <link href="https://www.youtube.com/watch?v=rxOsIWp-V3w"/>
-        <updated>2025-05-19T03:44:36.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
