@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T17:09:34.882Z</updated>
+    <updated>2025-06-17T18:13:19.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14719,42 +14719,6 @@
         <updated>2025-05-19T07:00:20.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr. & Mrs Bachelor trailer out now #anaswararajan #indrajithsukumaran]]></title>
-        <id>https://www.youtube.com/watch?v=WAxkxIpqw9k</id>
-        <link href="https://www.youtube.com/watch?v=WAxkxIpqw9k"/>
-        <updated>2025-05-19T05:38:05.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kusumavadana  | Animation Video |Madhuchandralekha| Animated Version of Film Song | Latest Animation]]></title>
-        <id>https://www.youtube.com/watch?v=qZa69x_MEbg</id>
-        <link href="https://www.youtube.com/watch?v=qZa69x_MEbg"/>
-        <updated>2025-05-19T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing the fire to this retro rhythm 🔥🕺 #OldSchoolLady #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=1nWeh-1HHJ8</id>
-        <link href="https://www.youtube.com/watch?v=1nWeh-1HHJ8"/>
-        <updated>2025-05-19T05:30:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pennin Vaakku Kelkkenam 4K | Kottappurathe Koottukudumbam | Kaithapram | Urvashi | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=pmt_-t4LYCA</id>
-        <link href="https://www.youtube.com/watch?v=pmt_-t4LYCA"/>
-        <updated>2025-05-19T05:26:40.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
