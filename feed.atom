@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T20:11:02.188Z</updated>
+    <updated>2025-06-17T21:08:52.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14710,15 +14710,6 @@
         <updated>2025-05-19T09:11:02.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnayam Minnum Katte | 4K | Ananthabhadram | Kavya Madhavan | Prithviraj | Manoj K Jayan]]></title>
-        <id>https://www.youtube.com/watch?v=l89wr13PxSI</id>
-        <link href="https://www.youtube.com/watch?v=l89wr13PxSI"/>
-        <updated>2025-05-19T08:36:49.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
