@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T08:13:36.413Z</updated>
+    <updated>2025-06-17T09:11:27.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pathirappo Choodi 4K | Mayilpeelkkavu | Kunchakko Boban | Jomol | Chithra | Anil Babu]]></title>
+        <id>https://www.youtube.com/watch?v=SDli-n6wl_E</id>
+        <link href="https://www.youtube.com/watch?v=SDli-n6wl_E"/>
+        <updated>2025-06-17T08:32:25.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orukuri Veendum | Musical Album | Shorts  #love]]></title>
+        <id>https://www.youtube.com/shorts/LYy_aFE_pRo</id>
+        <link href="https://www.youtube.com/shorts/LYy_aFE_pRo"/>
+        <updated>2025-06-17T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vidyarangam Unarukayayi - Video Song | Sithara krishnakumar | Dr Jose Thankachan | Prasanth Mohan MP]]></title>
+        <id>https://www.youtube.com/watch?v=EkiHEa2LHGY</id>
+        <link href="https://www.youtube.com/watch?v=EkiHEa2LHGY"/>
+        <updated>2025-06-17T07:44:13.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസോടു ചേർന്ന് നിൽക്കുന്ന മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
         <id>https://www.youtube.com/watch?v=j3MNHTO-unc</id>
