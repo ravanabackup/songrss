@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T17:10:33.236Z</updated>
+    <updated>2025-06-18T18:13:21.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14859,51 +14859,6 @@
         <updated>2025-05-20T07:45:56.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elegance on beat, chill on repeat 🎶👠 #OldSchoolLady #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=i9KoGqmvpCc</id>
-        <link href="https://www.youtube.com/watch?v=i9KoGqmvpCc"/>
-        <updated>2025-05-20T05:30:31.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galagalagalagaale | Vande Maatharam | Video Song | Mammootty | Mankombu Gopalakrishnan | D Imman]]></title>
-        <id>https://www.youtube.com/watch?v=DSLVzk3dQR8</id>
-        <link href="https://www.youtube.com/watch?v=DSLVzk3dQR8"/>
-        <updated>2025-05-20T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skibidi Who? | Maranamass | Basil Joseph | Rajesh Madhavan | Sivaprasad | Tovino Thomas | JK | Gah]]></title>
-        <id>https://www.youtube.com/watch?v=KBErozAzC4g</id>
-        <link href="https://www.youtube.com/watch?v=KBErozAzC4g"/>
-        <updated>2025-05-20T05:30:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penthakostha Nalil | Holy Spirit Songs | Gagul Joseph | Fr.Joy Kakkanattu | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=c5Ie2G6lsz0</id>
-        <link href="https://www.youtube.com/watch?v=c5Ie2G6lsz0"/>
-        <updated>2025-05-20T05:24:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thankanilaa Pattuduthu | 4K | Sunitha |Manoj K Jayan | Snehasagaram | Jhnson | Hits of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=2hV1qi8lycU</id>
-        <link href="https://www.youtube.com/watch?v=2hV1qi8lycU"/>
-        <updated>2025-05-20T05:16:53.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
