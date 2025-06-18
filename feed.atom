@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T14:09:49.950Z</updated>
+    <updated>2025-06-18T15:10:02.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shalabham Vazhimaruma |  S Ramesan Nair | MG Radhakrishnan | KS Chithra | MG Sreekumar #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/39N1bvEFgew</id>
+        <link href="https://www.youtube.com/shorts/39N1bvEFgew"/>
+        <updated>2025-06-18T14:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idayaraga Ramana Dukham HD |Uncle Bun |Mohanlal |Raveendran |K J Yesudas Hits]]></title>
+        <id>https://www.youtube.com/watch?v=VW79RL8hi2M</id>
+        <link href="https://www.youtube.com/watch?v=VW79RL8hi2M"/>
+        <updated>2025-06-18T14:27:31.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകം മുഴുവനും സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റായ ക്രിസ്തിയ ഗാനങ്ങൾ!! | #evergreen | #superhits | #malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=H0VDotIvYas</id>
+        <link href="https://www.youtube.com/watch?v=H0VDotIvYas"/>
+        <updated>2025-06-18T14:15:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പണ്ടുമുതലേ വീടുകളിൽ പാടിയിരുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ |  Prathysha Geethangal | Worship Songs]]></title>
         <id>https://www.youtube.com/watch?v=sQVBJCnUfZc</id>
@@ -14866,15 +14894,6 @@
         <updated>2025-05-20T05:09:46.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജനമനസുകളിൽ തുടരുന്ന  Mohanlal Hits | Malayalam Film Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=238xH2XaRIU</id>
-        <link href="https://www.youtube.com/watch?v=238xH2XaRIU"/>
-        <updated>2025-05-20T03:04:13.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
