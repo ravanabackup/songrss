@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T15:10:02.633Z</updated>
+    <updated>2025-06-18T16:11:44.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ilaneer Mazhayay from June 20th | 6PM #jubairmuhammed #vishnugroovy]]></title>
+        <id>https://www.youtube.com/shorts/we1Ev4fmuFM</id>
+        <link href="https://www.youtube.com/shorts/we1Ev4fmuFM"/>
+        <updated>2025-06-18T15:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shalabham Vazhimaruma |  S Ramesan Nair | MG Radhakrishnan | KS Chithra | MG Sreekumar #shortsvideo]]></title>
         <id>https://www.youtube.com/shorts/39N1bvEFgew</id>
@@ -14767,6 +14777,15 @@
         <updated>2025-05-20T11:35:07.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജനമനസുകളിൽ തുടരുന്ന  Mohanlal Hits | Malayalam Film Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=238xH2XaRIU</id>
+        <link href="https://www.youtube.com/watch?v=238xH2XaRIU"/>
+        <updated>2025-05-20T11:30:06.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
