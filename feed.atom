@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T14:08:48.598Z</updated>
+    <updated>2025-06-19T15:09:33.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ambadi Payyukal Meyum | S Ramesan Nair | Vidyasagar | K J Yesudas | Sujatha Mohan #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/ocvPzInAfUU</id>
+        <link href="https://www.youtube.com/shorts/ocvPzInAfUU"/>
+        <updated>2025-06-19T14:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Murahara Murali | HD Video Song | Gireesh Puthenchery | SP Venkitesh | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=CTOZSw1nqqo</id>
+        <link href="https://www.youtube.com/watch?v=CTOZSw1nqqo"/>
+        <updated>2025-06-19T14:28:40.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Maname | എൻ മനമേ | Malankara Catholic Wedding Song | Roy Puthur | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=Tm_NSJUV__A</id>
+        <link href="https://www.youtube.com/watch?v=Tm_NSJUV__A"/>
+        <updated>2025-06-19T14:15:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnaminunge 4K Video Song | Kabadi Kabadi | Kalabhavan Mani | Nadirsha | Baburaj Thrippunithara]]></title>
+        <id>https://www.youtube.com/watch?v=o3tmYlDMouY</id>
+        <link href="https://www.youtube.com/watch?v=o3tmYlDMouY"/>
+        <updated>2025-06-19T13:56:36.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kulirillam Vazhum Song | Jalolsavam | Kunchacko Boban | KJ Yesudas | KS Chithra | BR Prasad]]></title>
         <id>https://www.youtube.com/watch?v=BOOMYFCJVo4</id>
