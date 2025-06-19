@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T17:08:09.265Z</updated>
+    <updated>2025-06-19T18:12:47.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14894,42 +14894,6 @@
         <updated>2025-05-21T06:16:01.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excellent reviews for the preview show of #Azadi #sreenathbhasi]]></title>
-        <id>https://www.youtube.com/watch?v=MVmUIlevpOQ</id>
-        <link href="https://www.youtube.com/watch?v=MVmUIlevpOQ"/>
-        <updated>2025-05-21T05:34:16.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swantham Lalettan | Video Jukebox | Super Hit Movie Songs from Mohanlal Films]]></title>
-        <id>https://www.youtube.com/watch?v=jhLUuW6Z7lQ</id>
-        <link href="https://www.youtube.com/watch?v=jhLUuW6Z7lQ"/>
-        <updated>2025-05-21T05:34:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasthuri Pottu Thotten | Innathe Chintha Vishayam | Mohanlal | Gireesh Puthenchery | Ilayaraja]]></title>
-        <id>https://www.youtube.com/watch?v=fnFa_blW4Hs</id>
-        <link href="https://www.youtube.com/watch?v=fnFa_blW4Hs"/>
-        <updated>2025-05-21T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikkuyile 4K | Valkannadi | Kalabhavan Mani | Geethu Mohandas | KJ Yesudas | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=0Y74wDMN6Fw</id>
-        <link href="https://www.youtube.com/watch?v=0Y74wDMN6Fw"/>
-        <updated>2025-05-21T05:22:18.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
