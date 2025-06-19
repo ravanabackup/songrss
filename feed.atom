@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T20:11:08.487Z</updated>
+    <updated>2025-06-19T21:08:27.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14831,42 +14831,6 @@
         <updated>2025-05-21T09:11:16.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Nadathum Aa Ponnu Karamo | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=n0tTMWsHIaI</id>
-        <link href="https://www.youtube.com/watch?v=n0tTMWsHIaI"/>
-        <updated>2025-05-21T09:05:58.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wishing Our Legendary Lalettan Mohanlal, A Very Happy Birthday! #HBDMohanlal #HappyBirthdayMohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=LTBnsMGyRME</id>
-        <link href="https://www.youtube.com/watch?v=LTBnsMGyRME"/>
-        <updated>2025-05-21T08:30:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnale Minnale Thaazhe Varoo |4K Vesham | K.S.Chithra Hits | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=beBNfn9vARA</id>
-        <link href="https://www.youtube.com/watch?v=beBNfn9vARA"/>
-        <updated>2025-05-21T08:23:44.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy birthday to the complete actor, the icon of Indian cinema – #mohanlal ! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=zAFTd-M6ZWI</id>
-        <link href="https://www.youtube.com/watch?v=zAFTd-M6ZWI"/>
-        <updated>2025-05-21T08:18:17.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
