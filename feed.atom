@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-20T05:10:54.781Z</updated>
+    <updated>2025-06-20T06:14:20.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ilaya Manmadhaa | 4K Lanka | Karthik | Cicily | Suresh Gopi | Mamta Mohandas | B R Prasad]]></title>
+        <id>https://www.youtube.com/watch?v=_l35WcrvVNY</id>
+        <link href="https://www.youtube.com/watch?v=_l35WcrvVNY"/>
+        <updated>2025-06-20T05:20:38.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulariyile Panimazhayil | Freedom | Jishnu | Renuka Menon  | Sujatha Mohan |]]></title>
+        <id>https://www.youtube.com/watch?v=Kka0iyJVwWo</id>
+        <link href="https://www.youtube.com/watch?v=Kka0iyJVwWo"/>
+        <updated>2025-06-20T05:18:04.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaa Kannamma 💕 #heshamabdulwahab #oncemore #nivedithagowda]]></title>
         <id>https://www.youtube.com/shorts/tHB75QGbnrA</id>
