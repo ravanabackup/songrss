@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T08:11:28.131Z</updated>
+    <updated>2025-06-21T09:08:35.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaalolam Poompaithale |HD  | Nadodi | Mohanlal, Mohini | S.P.Venkitesh Hits]]></title>
+        <id>https://www.youtube.com/watch?v=SOh4Z_PBj9o</id>
+        <link href="https://www.youtube.com/watch?v=SOh4Z_PBj9o"/>
+        <updated>2025-06-21T08:31:41.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponmurali Oothum Kaatil | പൊൻ‌മുരളിയൂതും കാറ്റിൽ | Aaryan Hit Movie Song | Mohanlal | Monisha]]></title>
+        <id>https://www.youtube.com/watch?v=_ZN7ZapaIDI</id>
+        <link href="https://www.youtube.com/watch?v=_ZN7ZapaIDI"/>
+        <updated>2025-06-21T08:31:15.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ilaneer Mazhayay out now #jubairmuhammed #vishnugroovi #theerthavinod]]></title>
         <id>https://www.youtube.com/shorts/j1whJJCgBwE</id>
@@ -87,6 +105,15 @@
         <updated>2025-06-21T05:17:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirakerippaarunno | Dheeraj Sukumaran | Siddharth Anish | Gopika Krishna | Salvin Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=17zzYu0QkM4</id>
+        <link href="https://www.youtube.com/watch?v=17zzYu0QkM4"/>
+        <updated>2025-06-21T04:53:49.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
