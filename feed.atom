@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T17:07:13.124Z</updated>
+    <updated>2025-06-21T18:11:14.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14809,42 +14809,6 @@
         <updated>2025-05-23T06:23:25.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Var Nilavum Karmukilum Audio Song | 3 K M | Sandhya Raghav | Fahadh C H | Jaison T John]]></title>
-        <id>https://www.youtube.com/watch?v=DxQdWWKedd0</id>
-        <link href="https://www.youtube.com/watch?v=DxQdWWKedd0"/>
-        <updated>2025-05-23T06:08:38.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyum Kothiyode | Bharya Onnu Makkal Moonnu | Video | K J Yesudas | M Jayachandran |Rajeev Alunkal]]></title>
-        <id>https://www.youtube.com/watch?v=KyBNIzsMbJ0</id>
-        <link href="https://www.youtube.com/watch?v=KyBNIzsMbJ0"/>
-        <updated>2025-05-23T05:30:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilaavinte Neelabhasma | നിലാവിന്‍റെ നീലഭസ്മ | Gireesh Puthenchery | Mohanlal, Revathi | Agnidevan]]></title>
-        <id>https://www.youtube.com/watch?v=hRW6UK-w21s</id>
-        <link href="https://www.youtube.com/watch?v=hRW6UK-w21s"/>
-        <updated>2025-05-23T05:21:08.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanumasa Thinkal | 4K | Panchaloham |  Gireesh Puthenchery | Raveendran Hits]]></title>
-        <id>https://www.youtube.com/watch?v=efDOOo41KNw</id>
-        <link href="https://www.youtube.com/watch?v=efDOOo41KNw"/>
-        <updated>2025-05-23T05:09:53.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
