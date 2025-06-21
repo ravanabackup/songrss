@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T16:10:09.202Z</updated>
+    <updated>2025-06-21T17:07:13.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14845,24 +14845,6 @@
         <updated>2025-05-23T05:09:53.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ace - Jukebox | Vijay Sethupathi, Rukmini Vasanth | Justin Prabhakaran | Sam CS | Arumugakumar | 7CS]]></title>
-        <id>https://www.youtube.com/watch?v=RJ3fkwWwD3o</id>
-        <link href="https://www.youtube.com/watch?v=RJ3fkwWwD3o"/>
-        <updated>2025-05-23T04:30:26.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelakasham Pole - Ambient Lofi | Aelo | Vivaha Avahanam | Najim Arshad, Nithya Mammen | Vinu Thomas]]></title>
-        <id>https://www.youtube.com/watch?v=cG8ox-8YPwQ</id>
-        <link href="https://www.youtube.com/watch?v=cG8ox-8YPwQ"/>
-        <updated>2025-05-23T04:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
