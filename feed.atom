@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T22:07:59.148Z</updated>
+    <updated>2025-06-21T23:08:46.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/jKM-wfmZLoo</id>
+        <link href="https://www.youtube.com/shorts/jKM-wfmZLoo"/>
+        <updated>2025-06-21T23:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂൺ: 22, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=xtKGE9tKvyI</id>
+        <link href="https://www.youtube.com/watch?v=xtKGE9tKvyI"/>
+        <updated>2025-06-21T22:30:12.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 22 # Athiravile Prarthana 22nd of June 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=7xATkf-92vU</id>
@@ -14761,24 +14780,6 @@
         <id>https://www.youtube.com/watch?v=3olHsP-1bkc</id>
         <link href="https://www.youtube.com/watch?v=3olHsP-1bkc"/>
         <updated>2025-05-23T11:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mamboo Pozhikkunna |  Ottamandaram #sujatha  #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=usXpo4G063I</id>
-        <link href="https://www.youtube.com/watch?v=usXpo4G063I"/>
-        <updated>2025-05-23T11:01:45.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannor Bhuvasikaleyum | വാനോർ ഭൂവാസികളേയും | Mar Thoma Wedding Song | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=wF_yJr6NVSE</id>
-        <link href="https://www.youtube.com/watch?v=wF_yJr6NVSE"/>
-        <updated>2025-05-23T10:16:14.000Z</updated>
         <author>
             <name>Match Point Faith</name>
         </author>
