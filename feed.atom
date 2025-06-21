@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T05:09:08.631Z</updated>
+    <updated>2025-06-21T06:12:32.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ikkanda Kaalam | Kayam | Video | Mohan Sithara |Viju Ramachandran| Bala | Swetha Menon|Manoj K Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=ZHuFRkZNaXY</id>
+        <link href="https://www.youtube.com/watch?v=ZHuFRkZNaXY"/>
+        <updated>2025-06-21T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalichirithan Praayam HD  The Car | Jayaram | Sreelekshmi | KJ Yesudas Hits | Sanjeev Babu]]></title>
+        <id>https://www.youtube.com/watch?v=srehTl0vjD8</id>
+        <link href="https://www.youtube.com/watch?v=srehTl0vjD8"/>
+        <updated>2025-06-21T05:22:18.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sounds of Malayalam - Audio Jukebox | World Music Day Special | Neela Nilave | Vatteppam]]></title>
+        <id>https://www.youtube.com/watch?v=vrlxw3xOcRE</id>
+        <link href="https://www.youtube.com/watch?v=vrlxw3xOcRE"/>
+        <updated>2025-06-21T05:17:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madhumasam Viriyanu - Retro House | The Independeners | Meghasandesam | M.G. Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=KX8caS1lMQA</id>
