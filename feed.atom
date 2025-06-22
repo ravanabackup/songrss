@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T10:09:17.569Z</updated>
+    <updated>2025-06-22T11:07:30.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DNA - Sneak Peek | Atharvaa | Nimisha Sajayan | Nelson Venkatesan | Jayanthi Ambedkar]]></title>
+        <id>https://www.youtube.com/watch?v=CMWKcq0kn_8</id>
+        <link href="https://www.youtube.com/watch?v=CMWKcq0kn_8"/>
+        <updated>2025-06-22T10:30:13.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athmeeya Soukhyam | Kester | Gagul Joseph | Wilson Piravom | Kuttiyachan | Chitra Arun]]></title>
+        <id>https://www.youtube.com/watch?v=pzTs3tNfy8U</id>
+        <link href="https://www.youtube.com/watch?v=pzTs3tNfy8U"/>
+        <updated>2025-06-22T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aayen Parishudh Aathma | Hindi Christian Shorts #manoramamusic #manoramachristiansongs #shortsvideo]]></title>
         <id>https://www.youtube.com/shorts/TBmRlYqpL1Y</id>
@@ -14623,24 +14641,6 @@
         <updated>2025-05-23T23:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=arhBJpXBXog</id>
-        <link href="https://www.youtube.com/watch?v=arhBJpXBXog"/>
-        <updated>2025-05-23T23:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മെയ്: 24, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=xNS5IxmJuK4</id>
-        <link href="https://www.youtube.com/watch?v=xNS5IxmJuK4"/>
-        <updated>2025-05-23T22:30:11.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
