@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T08:11:37.044Z</updated>
+    <updated>2025-06-22T09:09:08.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ada Aaduyaa 💥 #krishnashilpa #mohamed #thalaivanthalaivii #santhoshnarayanan]]></title>
+        <id>https://www.youtube.com/shorts/1TctoH1AoX8</id>
+        <link href="https://www.youtube.com/shorts/1TctoH1AoX8"/>
+        <updated>2025-06-22T08:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sita Ramam (Telugu) - Oh Sita Hey Rama Video with Lyrics | Dulquer, Mrunal Thakur]]></title>
         <id>https://www.youtube.com/watch?v=JFS-3zdBj8Q</id>
