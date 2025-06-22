@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T04:21:22.931Z</updated>
+    <updated>2025-06-22T05:10:19.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hope Of Shambala - Lofi | The Independeners | Kalki 2898 AD (Malayalam) | Santhosh Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=-0A9_kuBsh0</id>
+        <link href="https://www.youtube.com/watch?v=-0A9_kuBsh0"/>
+        <updated>2025-06-22T04:30:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akkare Poonilavu | Chitra Pai | Shorts #manoramamusic #shorts #filmsongs  #albumsong]]></title>
         <id>https://www.youtube.com/shorts/2gdx2o2PxoM</id>
