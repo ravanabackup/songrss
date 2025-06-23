@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T15:10:18.098Z</updated>
+    <updated>2025-06-23T16:11:53.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/6jflT3xc76Q</id>
+        <link href="https://www.youtube.com/shorts/6jflT3xc76Q"/>
+        <updated>2025-06-23T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paikurumbiyue  Meikkum #gramaphone #trending #navyanair #dileep #meerajasmine]]></title>
+        <id>https://www.youtube.com/shorts/hfzimEOsaqM</id>
+        <link href="https://www.youtube.com/shorts/hfzimEOsaqM"/>
+        <updated>2025-06-23T15:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njattuvela Kiliye | ONV Kurup | MG Radhakrishnan | KS Chithra | Urvashi | Midhunam #shorts]]></title>
         <id>https://www.youtube.com/shorts/wMJPEbu1VwE</id>
