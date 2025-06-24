@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T20:10:38.512Z</updated>
+    <updated>2025-06-24T21:09:55.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14893,33 +14893,6 @@
         <updated>2025-05-26T09:32:12.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വർഗ്ഗം തേടി വന്നൊരേ | Swargam Thedi Vannore | Daya Malayalam Movie Evergreen Hits | Manju Warrier]]></title>
-        <id>https://www.youtube.com/watch?v=MBVv_SS10Hc</id>
-        <link href="https://www.youtube.com/watch?v=MBVv_SS10Hc"/>
-        <updated>2025-05-26T08:35:43.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkarakku Yathra | അക്കരയ്ക്ക്‌ യാത്ര | Elizabeth | Sibin Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=K6nXOR5d8F8</id>
-        <link href="https://www.youtube.com/watch?v=K6nXOR5d8F8"/>
-        <updated>2025-05-26T08:28:04.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magha Masam Mallikappoo | 4K|  ENTE PONNU THAMPURAN | K J Yesudas Hits | G. Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=_9Z86tmVcc0</id>
-        <link href="https://www.youtube.com/watch?v=_9Z86tmVcc0"/>
-        <updated>2025-05-26T08:14:45.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
