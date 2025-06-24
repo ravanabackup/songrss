@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T02:41:35.213Z</updated>
+    <updated>2025-06-24T03:42:11.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Sthuthi En Maname | Christian Shorts #manoramachristiandevotionalsongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/shorts/xPkEwwJOWVQ</id>
+        <link href="https://www.youtube.com/shorts/xPkEwwJOWVQ"/>
+        <updated>2025-06-24T03:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Priyane Yeshuve | Shorts | Kester #manoramamusic #manoramachristiansongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/2jbV-KRAf2c</id>
+        <link href="https://www.youtube.com/shorts/2jbV-KRAf2c"/>
+        <updated>2025-06-24T03:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സ്വർഗ്ഗീയ തിരഞ്ഞെടുപ്പ് /സമാധാന ബലി... Ft . John Britto Augustin]]></title>
         <id>https://www.youtube.com/watch?v=FmOFfJlM-pc</id>
@@ -14690,15 +14710,6 @@
         <updated>2025-05-25T16:43:15.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread |Malayalam Christian Song | Maramon  song]]></title>
-        <id>https://www.youtube.com/watch?v=Nn3mkCw3aqc</id>
-        <link href="https://www.youtube.com/watch?v=Nn3mkCw3aqc"/>
-        <updated>2025-05-25T15:30:17.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
