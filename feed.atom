@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T22:08:50.994Z</updated>
+    <updated>2025-06-25T23:09:11.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/2W8ES0LJYTw</id>
+        <link href="https://www.youtube.com/shorts/2W8ES0LJYTw"/>
+        <updated>2025-06-25T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂൺ: 26, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=AJq4Mt3QajU</id>
+        <link href="https://www.youtube.com/watch?v=AJq4Mt3QajU"/>
+        <updated>2025-06-25T22:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 26 # Athiravile Prarthana 26th of June 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=4RhmjAvFfOo</id>
@@ -14892,42 +14911,6 @@
         <updated>2025-05-27T11:30:04.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njanennum Kinavu | Forever Favourites #unplugged #coversong #shortsfeed #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/watch?v=F2rNntw29Sk</id>
-        <link href="https://www.youtube.com/watch?v=F2rNntw29Sk"/>
-        <updated>2025-05-27T11:00:24.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathiravayi Neram | Vietnam Colony | Mohanlal | Minmini | S Balakrishnan | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=55zcnjZmNCE</id>
-        <link href="https://www.youtube.com/watch?v=55zcnjZmNCE"/>
-        <updated>2025-05-27T10:37:39.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veli Penninnu | 4K | Mazhathullikkilukkam | Dileep | Navya Nair | Sreenivasan | Sujatha Mohan Hits]]></title>
-        <id>https://www.youtube.com/watch?v=vsJQn3yLMso</id>
-        <link href="https://www.youtube.com/watch?v=vsJQn3yLMso"/>
-        <updated>2025-05-27T10:36:08.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibes that hit deep - sound with soul #Jodino1 🔥💥 #Ytshorts #Shorts #Saregamamalayalam]]></title>
-        <id>https://www.youtube.com/watch?v=pNcK2Gx-J_s</id>
-        <link href="https://www.youtube.com/watch?v=pNcK2Gx-J_s"/>
-        <updated>2025-05-27T10:30:38.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
