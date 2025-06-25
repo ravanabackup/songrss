@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T21:08:53.338Z</updated>
+    <updated>2025-06-25T22:08:50.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14928,24 +14928,6 @@
         <updated>2025-05-27T10:30:38.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ദുപുഷ്പം ചൂടി നിൽക്കും രാത്രി | Indhupushpam Choodi Nilkkum | Vaishali | Chithra | ONV Kuruppu]]></title>
-        <id>https://www.youtube.com/watch?v=Mz4v7Gx63Kw</id>
-        <link href="https://www.youtube.com/watch?v=Mz4v7Gx63Kw"/>
-        <updated>2025-05-27T10:03:07.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മയിലാഞ്ചി മൊഞ്ചുള്ള  Video Song | Indrajit movie | Indraja, Kalabhavan Mani]]></title>
-        <id>https://www.youtube.com/watch?v=hng3MPVGYhM</id>
-        <link href="https://www.youtube.com/watch?v=hng3MPVGYhM"/>
-        <updated>2025-05-27T09:30:20.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
