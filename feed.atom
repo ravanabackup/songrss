@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T16:11:58.688Z</updated>
+    <updated>2025-06-25T17:09:57.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14991,42 +14991,6 @@
         <updated>2025-05-27T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otta Nokkile | 4K Chacko Randaman | K Mani| Jyotsna | Sunder C Babu | Jophi Tharakan]]></title>
-        <id>https://www.youtube.com/watch?v=mi8bxK5pPYI</id>
-        <link href="https://www.youtube.com/watch?v=mi8bxK5pPYI"/>
-        <updated>2025-05-27T05:08:34.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parannu Parannu |Parannu Parannu Parannu Chellan|Video|M G Sreekumar| LPR Varma | Vayalar Rama Varma]]></title>
-        <id>https://www.youtube.com/watch?v=Msc6hAkX99U</id>
-        <link href="https://www.youtube.com/watch?v=Msc6hAkX99U"/>
-        <updated>2025-05-27T05:05:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melam | Parannu Parannu Parannu Chellan | Video Song | Deepak Ram | Joy Jinith | Jishnu Harindra]]></title>
-        <id>https://www.youtube.com/watch?v=as11BwJ07cU</id>
-        <link href="https://www.youtube.com/watch?v=as11BwJ07cU"/>
-        <updated>2025-05-27T04:39:26.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezhazhakumaayi | Kakkaykkum Poochaykkum Kalyanam | Dileep | Devayani | KJ Yesudas | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=yo8sGd9iLGU</id>
-        <link href="https://www.youtube.com/watch?v=yo8sGd9iLGU"/>
-        <updated>2025-05-27T04:33:37.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
