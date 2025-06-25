@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T02:42:08.473Z</updated>
+    <updated>2025-06-25T03:43:58.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Aaro Doore | Written & Directed By God #shortsfeed #shortsvideo #shorts #reels #shaanrahman]]></title>
+        <id>https://www.youtube.com/shorts/z-yqXgcedks</id>
+        <link href="https://www.youtube.com/shorts/z-yqXgcedks"/>
+        <updated>2025-06-25T03:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viswasa Jeevitha Padakil Njan | George Peter Chittur | Shorts]]></title>
+        <id>https://www.youtube.com/shorts/PCaFDw8GjVE</id>
+        <link href="https://www.youtube.com/shorts/PCaFDw8GjVE"/>
+        <updated>2025-06-25T03:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 25th of June 2025 # Mathavinte Japamala # Mahimayude Rahasyangal 25th of June  2025]]></title>
         <id>https://www.youtube.com/watch?v=whcfiYgUjiY</id>
@@ -14685,24 +14705,6 @@
         <updated>2025-05-26T19:00:24.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mittai 🍫 is for Kids 🎶 Roja🌹  is for Men 👨#Sunflower #ParanthuPo #SanthoshDhayanidhi #Prabu #Shalini]]></title>
-        <id>https://www.youtube.com/watch?v=XJmU6p4pnrQ</id>
-        <link href="https://www.youtube.com/watch?v=XJmU6p4pnrQ"/>
-        <updated>2025-05-26T15:42:23.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26 May 2025]]></title>
-        <id>https://www.youtube.com/watch?v=hXmt90dplr0</id>
-        <link href="https://www.youtube.com/watch?v=hXmt90dplr0"/>
-        <updated>2025-05-26T15:24:38.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
