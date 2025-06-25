@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T15:10:19.625Z</updated>
+    <updated>2025-06-25T16:11:58.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -15027,15 +15027,6 @@
         <updated>2025-05-27T04:33:37.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Nadathum Aa Ponnu Karamo | Christian Shorts #shortsvideo  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=IVXyyWMyitg</id>
-        <link href="https://www.youtube.com/watch?v=IVXyyWMyitg"/>
-        <updated>2025-05-27T04:00:20.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
