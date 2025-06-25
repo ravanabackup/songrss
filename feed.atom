@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T11:08:57.674Z</updated>
+    <updated>2025-06-25T12:18:15.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25 June 2025]]></title>
+        <id>https://www.youtube.com/shorts/WD2Npq-lw9w</id>
+        <link href="https://www.youtube.com/shorts/WD2Npq-lw9w"/>
+        <updated>2025-06-25T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aalapanam Thedum Thaimanam | ആലാപനം തേടും തായ്‌മനം | Ente Sooryaputhrikku | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/shorts/KEk-mdTmFOc</id>
+        <link href="https://www.youtube.com/shorts/KEk-mdTmFOc"/>
+        <updated>2025-06-25T12:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siyona | 4K  Nammal Thammil  | Prithviraj |Viji Thambi |Gireesh Puthenchery | M.Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=JBK1lZ_bmJU</id>
+        <link href="https://www.youtube.com/watch?v=JBK1lZ_bmJU"/>
+        <updated>2025-06-25T11:39:12.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jwalamukhi | Kurukshetra #mohanlal #shortsfeed #shortsvideo #shorts #reels #patriotism #army]]></title>
+        <id>https://www.youtube.com/shorts/vvQShONQP_Y</id>
+        <link href="https://www.youtube.com/shorts/vvQShONQP_Y"/>
+        <updated>2025-06-25T11:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellaram Kunnumele | വെള്ളാരം കുന്നുമ്മേലേ | Revathikkoru Paavakutty Movie | KJ Yesudas Song]]></title>
+        <id>https://www.youtube.com/watch?v=Gx7mN2P26AA</id>
+        <link href="https://www.youtube.com/watch?v=Gx7mN2P26AA"/>
+        <updated>2025-06-25T11:30:28.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallaliye Kallaliye (Movie Version) - Video | Maaman |Soori |Prasanth Pandiyaraj |Hesham Abdul Wahab]]></title>
+        <id>https://www.youtube.com/watch?v=0As-WBVZf2c</id>
+        <link href="https://www.youtube.com/watch?v=0As-WBVZf2c"/>
+        <updated>2025-06-25T11:30:12.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pazhamthamizh Paattizhayum | പഴന്തമിഴ് പാട്ടിഴയും | Manichitrathazhu | Mohanlal | Shobana]]></title>
         <id>https://www.youtube.com/watch?v=fCLnZAVon84</id>
@@ -14837,15 +14894,6 @@
         <updated>2025-05-27T00:30:09.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്‍റെ വണക്കമാസം 27th May 2025 # Vanakkamasam Prayer 2025 May 27 # Mathavinte Vanakkamasam 27]]></title>
-        <id>https://www.youtube.com/watch?v=q47izzx7uV4</id>
-        <link href="https://www.youtube.com/watch?v=q47izzx7uV4"/>
-        <updated>2025-05-26T23:30:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
