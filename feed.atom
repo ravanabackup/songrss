@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T14:09:58.036Z</updated>
+    <updated>2025-06-25T15:10:19.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വിശ്വാസ ജീവിത പടകിൽ ഞാൻ | Vishwasa Jeevitha | Malayalam Christian Devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/tNhReu1RtKA</id>
+        <link href="https://www.youtube.com/shorts/tNhReu1RtKA"/>
+        <updated>2025-06-25T14:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kudamulla Kammalaninju | Gireesh Puthenchery | Ouseppachan | KJ Yesudas #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/OWWzcGlDpTI</id>
+        <link href="https://www.youtube.com/shorts/OWWzcGlDpTI"/>
+        <updated>2025-06-25T14:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Christian devotional songs | old Christian songs Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=ob2WSxSkEYA</id>
+        <link href="https://www.youtube.com/watch?v=ob2WSxSkEYA"/>
+        <updated>2025-06-25T14:12:41.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Endless Night - Song of the day!]]></title>
         <id>https://www.youtube.com/shorts/o6A7ivmO6yI</id>
