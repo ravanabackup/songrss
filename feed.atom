@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T20:10:18.341Z</updated>
+    <updated>2025-06-26T21:08:46.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14943,43 +14943,6 @@
         <updated>2025-05-28T09:30:22.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aa Rathri Maanjupoy | Audio Song | Panchagni | K S Chithra | Bombay Ravi | O N V Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=c5wOn25p9VY</id>
-        <link href="https://www.youtube.com/watch?v=c5wOn25p9VY"/>
-        <updated>2025-05-28T09:03:06.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crushaane Crushaane | Written and Directed By God #vineethsreenivasan #shaanrahman #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=rQfUJ80EokI</id>
-        <link href="https://www.youtube.com/watch?v=rQfUJ80EokI"/>
-        <updated>2025-05-28T08:30:34.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudamullakkadavil Song | Vellithira | Prithviraj | Navya Nair | Sujatha Mohan #shorts]]></title>
-        <id>https://www.youtube.com/shorts/4xxD6GtA0HA</id>
-        <link href="https://www.youtube.com/shorts/4xxD6GtA0HA"/>
-        <updated>2025-05-28T08:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudamullakkadavil Song | Vellithira | Prithviraj | Navya Nair | Sujatha Mohan #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=4xxD6GtA0HA</id>
-        <link href="https://www.youtube.com/watch?v=4xxD6GtA0HA"/>
-        <updated>2025-05-28T08:30:05.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
