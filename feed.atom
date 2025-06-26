@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T17:09:13.162Z</updated>
+    <updated>2025-06-26T18:13:12.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14971,33 +14971,6 @@
         <updated>2025-05-28T07:39:13.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kankonile single from Mr. & Mrs. Bachelor]]></title>
-        <id>https://www.youtube.com/watch?v=4ynzxbaUCxU</id>
-        <link href="https://www.youtube.com/watch?v=4ynzxbaUCxU"/>
-        <updated>2025-05-28T05:59:27.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadodi Poothinkal | 4K | | Ustaad | Mohanlal | Gireesh Puthancherry |  Vidyasagar Hits]]></title>
-        <id>https://www.youtube.com/watch?v=6JJdUDrjsDc</id>
-        <link href="https://www.youtube.com/watch?v=6JJdUDrjsDc"/>
-        <updated>2025-05-28T05:54:35.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarkeet - Original Score | Asif Ali | Thamar | Govind Vasantha | Ajith Vinayaka Films]]></title>
-        <id>https://www.youtube.com/watch?v=3X0Z-Rv1O18</id>
-        <link href="https://www.youtube.com/watch?v=3X0Z-Rv1O18"/>
-        <updated>2025-05-28T05:30:05.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
