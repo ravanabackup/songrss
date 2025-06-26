@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T07:10:58.264Z</updated>
+    <updated>2025-06-26T08:13:32.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയമധുര ഗാനങ്ങൾ  | EVERGREEN LOVE SONGS MALAYALAM | LOVE SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=GR-_RDn0_pA</id>
+        <link href="https://www.youtube.com/watch?v=GR-_RDn0_pA"/>
+        <updated>2025-06-26T07:33:38.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാമകഥ ഗാനലയം | Raamakadha Gaanalayam | #Bharatham | Malayalam Film Song | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=wVGlMq68GcI</id>
@@ -14730,15 +14739,6 @@
         <updated>2025-05-27T22:30:04.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 28 # Athiravile Prarthana 28th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Six9x38cX_0</id>
-        <link href="https://www.youtube.com/watch?v=Six9x38cX_0"/>
-        <updated>2025-05-27T20:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
