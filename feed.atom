@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T14:08:40.371Z</updated>
+    <updated>2025-06-26T15:10:07.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalyanakacheri Pakkala |  Maayaajaalam | Mukesh | KJ Yesudas | Bichu Thirumala| #shorts]]></title>
+        <id>https://www.youtube.com/shorts/buJXB3-57y8</id>
+        <link href="https://www.youtube.com/shorts/buJXB3-57y8"/>
+        <updated>2025-06-26T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/HBKmNR2kxJA</id>
+        <link href="https://www.youtube.com/shorts/HBKmNR2kxJA"/>
+        <updated>2025-06-26T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilaneer Mazhayay 🎶]]></title>
+        <id>https://www.youtube.com/shorts/dUf9jXrrUNo</id>
+        <link href="https://www.youtube.com/shorts/dUf9jXrrUNo"/>
+        <updated>2025-06-26T14:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enikkothasha Varum Parvatham | George Peter Chittur | Shorts  #christiansongs #GeorgePeterChittur]]></title>
         <id>https://www.youtube.com/shorts/7hInFCO8--4</id>
@@ -14957,15 +14987,6 @@
         <updated>2025-05-28T04:30:49.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Nadathum Aa Ponnu Karamo | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=fQqybC5bZaw</id>
-        <link href="https://www.youtube.com/watch?v=fQqybC5bZaw"/>
-        <updated>2025-05-28T02:30:35.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
