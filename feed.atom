@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T10:10:35.319Z</updated>
+    <updated>2025-06-26T11:08:41.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നീലവാനച്ചോലയിൽ നീന്തിടുന്ന ചന്ദ്രികേ… #evergreenhits #kamalhaasan]]></title>
+        <id>https://www.youtube.com/shorts/C0RhRPKcsz0</id>
+        <link href="https://www.youtube.com/shorts/C0RhRPKcsz0"/>
+        <updated>2025-06-26T10:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akkare Ninnoru Maaran | Animation Song  #animation #shortsfeed #cartoon #nurseryrhymes #reels]]></title>
+        <id>https://www.youtube.com/shorts/EG_yJTLVgU8</id>
+        <link href="https://www.youtube.com/shorts/EG_yJTLVgU8"/>
+        <updated>2025-06-26T10:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പുന്നാരപ്പെണ്ണിന്റെ നിക്കാഹിന് Song | Jambulingam Movie | HD Video Song Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=LhlqetPXyc8</id>
@@ -61,6 +81,15 @@
         <updated>2025-06-26T07:33:38.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory Blues | Udumbanchola Vision | Gopi Sundar | Sooraj Santhosh | BK Harinarayanan|Sreenath Bhasi]]></title>
+        <id>https://www.youtube.com/watch?v=toOZtet2Mm8</id>
+        <link href="https://www.youtube.com/watch?v=toOZtet2Mm8"/>
+        <updated>2025-06-26T07:08:27.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -491,6 +520,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirunama Keerthanam Paduvan | തിരുനാമ കീർത്തനം |Fr.Michele Panachikkal|Elizabeth|Match Point Faith|]]></title>
+        <id>https://www.youtube.com/watch?v=WG8tqQXT6cQ</id>
+        <link href="https://www.youtube.com/watch?v=WG8tqQXT6cQ"/>
+        <updated>2025-06-25T09:36:41.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -14778,24 +14816,6 @@
         <updated>2025-05-27T23:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=09wD1bNhEnE</id>
-        <link href="https://www.youtube.com/watch?v=09wD1bNhEnE"/>
-        <updated>2025-05-27T23:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മെയ്: 28, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=Mco7ULauAaE</id>
-        <link href="https://www.youtube.com/watch?v=Mco7ULauAaE"/>
-        <updated>2025-05-27T22:30:04.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
