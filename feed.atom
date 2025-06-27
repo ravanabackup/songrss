@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T21:08:25.693Z</updated>
+    <updated>2025-06-27T22:09:15.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14973,24 +14973,6 @@
         <updated>2025-05-29T10:09:44.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharum Thalirum | Audio Song | Chilambu | K J Yesudas | Lathika | Ouseppachan | Bharathan]]></title>
-        <id>https://www.youtube.com/watch?v=Rfk_HVI_UTw</id>
-        <link href="https://www.youtube.com/watch?v=Rfk_HVI_UTw"/>
-        <updated>2025-05-29T09:37:11.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മൌനങ്ങള്‍ പോലും നാദങ്ങളായ്  | Aardram Movie Song | K. J. Yesudas| Murali, Urvashi]]></title>
-        <id>https://www.youtube.com/watch?v=mJVFk9b8mEg</id>
-        <link href="https://www.youtube.com/watch?v=mJVFk9b8mEg"/>
-        <updated>2025-05-29T09:30:25.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
