@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T16:11:38.802Z</updated>
+    <updated>2025-06-27T17:08:21.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veera Dheera Sooran - Audio & Trailer Launch |Chiyaan Vikram |S.U.Arun Kumar | GV Prakash|Riya Shibu]]></title>
+        <id>https://www.youtube.com/watch?v=oChxtbMrW7Q</id>
+        <link href="https://www.youtube.com/watch?v=oChxtbMrW7Q"/>
+        <updated>2025-06-27T16:57:26.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mallipoo 🌷#sherinshringar #arrahman #vtk]]></title>
+        <id>https://www.youtube.com/shorts/Tx8Y4Qgvej0</id>
+        <link href="https://www.youtube.com/shorts/Tx8Y4Qgvej0"/>
+        <updated>2025-06-27T16:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27 June 2025]]></title>
+        <id>https://www.youtube.com/shorts/qcIu3DZw3i8</id>
+        <link href="https://www.youtube.com/shorts/qcIu3DZw3i8"/>
+        <updated>2025-06-27T16:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mereya I Written and Directed By God #shortsfeed #shaanrahman]]></title>
         <id>https://www.youtube.com/shorts/PTlJ_looHOE</id>
@@ -14990,33 +15019,6 @@
         <updated>2025-05-29T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chil Chil Chilamboli Thalam | 4K | Usthad | Mohanlal |]]></title>
-        <id>https://www.youtube.com/watch?v=kYra-eoCzKU</id>
-        <link href="https://www.youtube.com/watch?v=kYra-eoCzKU"/>
-        <updated>2025-05-29T05:02:59.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathira Kottarangalil | Injakkadan Mathai&Sons | Jagadish | Urvashi | K S Chithra | S P Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=-vvAm9Kets4</id>
-        <link href="https://www.youtube.com/watch?v=-vvAm9Kets4"/>
-        <updated>2025-05-29T04:30:20.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thane Thirinjum Marinjum - Chillhop | Chris Wayne | Ambalapraavu | S. Janaki | M.S. Baburaj]]></title>
-        <id>https://www.youtube.com/watch?v=BpKTu4GaArE</id>
-        <link href="https://www.youtube.com/watch?v=BpKTu4GaArE"/>
-        <updated>2025-05-29T04:30:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
