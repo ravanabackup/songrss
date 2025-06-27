@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T07:10:39.310Z</updated>
+    <updated>2025-06-27T08:13:27.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ ഉത്സവമേളം തീർത്ത മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ | MALAYALAM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=ZYSalZlU_7c</id>
+        <link href="https://www.youtube.com/watch?v=ZYSalZlU_7c"/>
+        <updated>2025-06-27T07:32:49.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Khaaleja - Makathika Video with Lyrics | Mahesh Babu, Anushka | Manisarma]]></title>
         <id>https://www.youtube.com/watch?v=2AdtGBgWdBM</id>
@@ -14748,15 +14757,6 @@
         <updated>2025-05-28T22:30:19.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 29 # Athiravile Prarthana 29th of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=SVyvDe0SPsI</id>
-        <link href="https://www.youtube.com/watch?v=SVyvDe0SPsI"/>
-        <updated>2025-05-28T20:00:19.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
