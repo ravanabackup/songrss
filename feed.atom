@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T09:10:35.128Z</updated>
+    <updated>2025-06-27T10:10:17.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muthani Munthiri 4K | Pookalam Varavayi | Jayaram | Bichu Thirumala | Ouseppachan | Baby Shyamili]]></title>
+        <id>https://www.youtube.com/watch?v=4hIyxcW_obM</id>
+        <link href="https://www.youtube.com/watch?v=4hIyxcW_obM"/>
+        <updated>2025-06-27T09:36:08.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കുടു കുടു പാടി വരും 🎶 | Picnic Movie Hit Old Malayalam Song | Prem Nazir | P.Jayachandran, P.Madhuri]]></title>
+        <id>https://www.youtube.com/watch?v=m0sVDtwmP2g</id>
+        <link href="https://www.youtube.com/watch?v=m0sVDtwmP2g"/>
+        <updated>2025-06-27T09:30:37.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Goa Beaches | നോർത്ത് ഗോവയിലെ ബീച്ചുകൾ  | Goa Travel Guide Malayalam | Manorama Travelogue]]></title>
         <id>https://www.youtube.com/watch?v=vqJosXYzhN8</id>
@@ -103,6 +121,15 @@
         <updated>2025-06-27T09:04:20.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimalahrudayathal | Abhijith Kollam | Fr.Joseph Antony Palliparambil | Fr. Jolly George Chakkalackal]]></title>
+        <id>https://www.youtube.com/watch?v=FvlrcMIymKE</id>
+        <link href="https://www.youtube.com/watch?v=FvlrcMIymKE"/>
+        <updated>2025-06-27T08:55:18.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
