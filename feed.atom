@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T17:08:21.718Z</updated>
+    <updated>2025-06-27T18:12:51.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -15010,15 +15010,6 @@
         <updated>2025-05-29T06:30:04.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadiyum Paranjum | ഞാൻ എന്നും സംഗീതവിദ്യാർത്ഥി  | പാടിയും പറഞ്ഞും | M Jayachandran |Music Interview]]></title>
-        <id>https://www.youtube.com/watch?v=FToo1fHnWrc</id>
-        <link href="https://www.youtube.com/watch?v=FToo1fHnWrc"/>
-        <updated>2025-05-29T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
