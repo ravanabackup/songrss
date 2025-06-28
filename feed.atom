@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-28T11:06:53.250Z</updated>
+    <updated>2025-06-28T12:15:34.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pavizha Mazha | Reprise #coversong #reprise #shortsfeed #shortsvideo #reels #shorts #fahadhfaasil]]></title>
+        <id>https://www.youtube.com/shorts/XmnWRLNBOmk</id>
+        <link href="https://www.youtube.com/shorts/XmnWRLNBOmk"/>
+        <updated>2025-06-28T12:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanambadi Etho | വാനമ്പാടി ഏതോ | Desadanakili Karayarilla Movie Song | KJ Yesudas | Raveendran]]></title>
+        <id>https://www.youtube.com/shorts/IkClt7yTW0k</id>
+        <link href="https://www.youtube.com/shorts/IkClt7yTW0k"/>
+        <updated>2025-06-28T12:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hemantham Thozhuthunarum Video Song | Aalinganam | K J Yesudas | Bichu Thirumala | AT Ummer]]></title>
+        <id>https://www.youtube.com/watch?v=rMgCnxCsb4g</id>
+        <link href="https://www.youtube.com/watch?v=rMgCnxCsb4g"/>
+        <updated>2025-06-28T11:30:48.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunkumam Charthumee Video Song| Poothumpiyum Poovalanmarum| Vani Viswanath |KS Chithra |MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=V3Lec5Uy74I</id>
+        <link href="https://www.youtube.com/watch?v=V3Lec5Uy74I"/>
+        <updated>2025-06-28T11:30:33.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellaram Kunnumele | വെള്ളാരം കുന്നുമ്മേലേ | Revathikkoru Paavakutty Movie | KJ Yesudas Song]]></title>
+        <id>https://www.youtube.com/shorts/6z6Eloo1OdE</id>
+        <link href="https://www.youtube.com/shorts/6z6Eloo1OdE"/>
+        <updated>2025-06-28T11:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daiva Kripa | Fr.Thadevus Aravindath | Kester | Kuttiachan | Jyolsna | Malayalam Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=4_8jaZXVwTw</id>
@@ -14894,24 +14942,6 @@
         <updated>2025-05-30T00:30:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്‍റെ വണക്കമാസം 30th May 2025 # Vanakkamasam Prayer 2025 May 30 # Mathavinte Vanakkamasam 30]]></title>
-        <id>https://www.youtube.com/watch?v=dkQqWt_UbnY</id>
-        <link href="https://www.youtube.com/watch?v=dkQqWt_UbnY"/>
-        <updated>2025-05-29T23:30:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karuthunnavan Yeshu Mathram | Binoy Chacko | Job Kurien | K.G Markose | Kuttiyachan | Celin Jose]]></title>
-        <id>https://www.youtube.com/watch?v=bUVJ-pWNIeU</id>
-        <link href="https://www.youtube.com/watch?v=bUVJ-pWNIeU"/>
-        <updated>2025-05-29T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
