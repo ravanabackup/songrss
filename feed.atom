@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-28T02:28:42.431Z</updated>
+    <updated>2025-06-28T03:38:17.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swarangal Adyasharam | Sathkala Vijayan #folksong #naadanpaattu #shortsfeed #shorts  #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/Tutk-fq_mCA</id>
+        <link href="https://www.youtube.com/shorts/Tutk-fq_mCA"/>
+        <updated>2025-06-28T03:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാർത്തിക പൗർണമി | Kaattu Kallan | Prem Nazir – Seema Evergreen Combo |  Classic Malayalam Song]]></title>
+        <id>https://www.youtube.com/watch?v=QkiCUA8BKVk</id>
+        <link href="https://www.youtube.com/watch?v=QkiCUA8BKVk"/>
+        <updated>2025-06-28T03:30:20.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത ഗീങ്ങൾ/CHRISTIAN DEVOTIONAL SONGS/OWN MEDIA MUSIC COLLECTION.]]></title>
         <id>https://www.youtube.com/watch?v=t1hHz2KOOXI</id>
@@ -14800,43 +14819,6 @@
         <updated>2025-05-29T19:00:46.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kili Pattu Moolave  | Gireesh Puthenchery | Raveendran | KJ Yesudas | KS Chithra #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lDqeWp6LdYs</id>
-        <link href="https://www.youtube.com/watch?v=lDqeWp6LdYs"/>
-        <updated>2025-05-29T14:30:37.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parisudhan Mahonnatha Devan | Hallelujah | പരിശുദ്ധൻ മഹോന്നത ദേവൻ | Libin & Merin |Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=HX6mBLysEaY</id>
-        <link href="https://www.youtube.com/watch?v=HX6mBLysEaY"/>
-        <updated>2025-05-29T14:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29 May 2025]]></title>
-        <id>https://www.youtube.com/shorts/DiMgz4Eh3EM</id>
-        <link href="https://www.youtube.com/shorts/DiMgz4Eh3EM"/>
-        <updated>2025-05-29T14:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29 May 2025]]></title>
-        <id>https://www.youtube.com/watch?v=DiMgz4Eh3EM</id>
-        <link href="https://www.youtube.com/watch?v=DiMgz4Eh3EM"/>
-        <updated>2025-05-29T14:29:15.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
