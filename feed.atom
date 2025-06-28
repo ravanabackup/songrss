@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-28T20:09:34.645Z</updated>
+    <updated>2025-06-28T21:07:39.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14975,43 +14975,6 @@
         <updated>2025-05-30T09:30:22.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thankathoni | Audio song | Mazhavil Kavadi | K S Chithra | Johnson | Kaithappram]]></title>
-        <id>https://www.youtube.com/watch?v=nivZ--643qI</id>
-        <link href="https://www.youtube.com/watch?v=nivZ--643qI"/>
-        <updated>2025-05-30T08:52:23.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരിച്ചു കിട്ടാത്ത സ്നേഹം മനസ്സിന്റെ വിങ്ങലാണ് #Khalbinnakame #Abhilasham #shorts]]></title>
-        <id>https://www.youtube.com/shorts/HtbuRhJUH6k</id>
-        <link href="https://www.youtube.com/shorts/HtbuRhJUH6k"/>
-        <updated>2025-05-30T08:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരിച്ചു കിട്ടാത്ത സ്നേഹം മനസ്സിന്റെ വിങ്ങലാണ് #Khalbinnakame #Abhilasham #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=HtbuRhJUH6k</id>
-        <link href="https://www.youtube.com/watch?v=HtbuRhJUH6k"/>
-        <updated>2025-05-30T08:30:09.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Written & Directed by God  | Motion Poster | Saiju kurup | Sunnywayne | Aparna Das | Febi George]]></title>
-        <id>https://www.youtube.com/watch?v=LQ--Fnr1NAM</id>
-        <link href="https://www.youtube.com/watch?v=LQ--Fnr1NAM"/>
-        <updated>2025-05-30T08:27:33.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
