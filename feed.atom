@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T07:08:36.023Z</updated>
+    <updated>2025-06-29T08:11:39.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mariya Shinkarathom |Anjana S Kumar #shortsfeed #shortsvideo #tribasong #folksong #naadanpattukal]]></title>
+        <id>https://www.youtube.com/shorts/A-LoXp9_1Pc</id>
+        <link href="https://www.youtube.com/shorts/A-LoXp9_1Pc"/>
+        <updated>2025-06-29T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oho Enthan Baby - Official Trailer | Rudra | Mithila Palkar | Vishnu Vishal | Raahul | Jen Martin]]></title>
+        <id>https://www.youtube.com/watch?v=F2_5Pv15THk</id>
+        <link href="https://www.youtube.com/watch?v=F2_5Pv15THk"/>
+        <updated>2025-06-29T07:15:36.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Khaleja - Taxi Video with Lyrics | Mahesh Babu, Anushka | Manisarma]]></title>
         <id>https://www.youtube.com/watch?v=3t85ZaFRVSg</id>
@@ -14713,15 +14732,6 @@
         <updated>2025-05-30T22:30:02.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 31 # Athiravile Prarthana 31st of May 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=8HvG3d-JRdQ</id>
-        <link href="https://www.youtube.com/watch?v=8HvG3d-JRdQ"/>
-        <updated>2025-05-30T20:00:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
