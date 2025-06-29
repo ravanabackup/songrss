@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T14:07:44.840Z</updated>
+    <updated>2025-06-29T15:08:25.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Olathumbathirunnooyaladum | Shobana | S Janaki | Ilayaraja | Bichu Thirumala #shorts]]></title>
+        <id>https://www.youtube.com/shorts/H94K3RiPVJo</id>
+        <link href="https://www.youtube.com/shorts/H94K3RiPVJo"/>
+        <updated>2025-06-29T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആരെല്ലാം മറന്നാലും യേശു കൂടെയുണ്ടെന്ന് ഉറപ്പേകുന്ന ഗാനങ്ങൾ |@JinoKunnumpurathu  | #christiansongs]]></title>
         <id>https://www.youtube.com/watch?v=tFxKeQMixKA</id>
@@ -14764,24 +14774,6 @@
         <updated>2025-05-31T04:30:03.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manja Uduppitta Kochuthumbi | Richukuttan | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=lDs7AFJZYZI</id>
-        <link href="https://www.youtube.com/watch?v=lDs7AFJZYZI"/>
-        <updated>2025-05-31T03:01:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അമ്മതൻ  സ്നേഹത്തിൻ പൂഞ്ചോലയിൽ……AMMATHAN SNEHATHIN POONJOLAYIL Fr Shijo, Fr Framin, Shaly]]></title>
-        <id>https://www.youtube.com/watch?v=xI9O0S2p-vE</id>
-        <link href="https://www.youtube.com/watch?v=xI9O0S2p-vE"/>
-        <updated>2025-05-31T02:33:34.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
