@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T16:12:03.475Z</updated>
+    <updated>2025-07-01T17:09:27.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[தேவதை 😇🤍 #nikhilavimal #kayalanandhi #pariyerumperumal #vaazhaimovie]]></title>
+        <id>https://www.youtube.com/shorts/fq8T3kfRMV4</id>
+        <link href="https://www.youtube.com/shorts/fq8T3kfRMV4"/>
+        <updated>2025-07-01T16:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶En Priyane Pol.…  #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
+        <id>https://www.youtube.com/shorts/FQ4TcRbBA6Q</id>
+        <link href="https://www.youtube.com/shorts/FQ4TcRbBA6Q"/>
+        <updated>2025-07-01T16:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sabhayam Thiru Sabhayam | സഭയാം തിരുസഭയാം | Orthodox Wedding Song | Maria & Bibin |Match Point Faith]]></title>
         <id>https://www.youtube.com/watch?v=cHJ8wxQDr0A</id>
@@ -14725,33 +14745,6 @@
         <updated>2025-06-02T05:24:00.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelakkuyile | Manjari | Santhosh Varma | Aby Salvin | Joby Joy Vilanganpara | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5E-bk5gt40k</id>
-        <link href="https://www.youtube.com/watch?v=5E-bk5gt40k"/>
-        <updated>2025-06-02T05:07:41.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhairava Anthem - Synthwave Mix | The Independeners | Kalki 2898 AD (Malayalam) | Santhosh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=UU9unacA9YM</id>
-        <link href="https://www.youtube.com/watch?v=UU9unacA9YM"/>
-        <updated>2025-06-02T04:45:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmani |Written & Directed By God | Lyrical Video | Vineeth Sreenivasan | Shaan Rahman |Febi George]]></title>
-        <id>https://www.youtube.com/watch?v=zXIm3JUpnus</id>
-        <link href="https://www.youtube.com/watch?v=zXIm3JUpnus"/>
-        <updated>2025-06-02T04:13:03.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
