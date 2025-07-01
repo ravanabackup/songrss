@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T03:54:44.561Z</updated>
+    <updated>2025-07-01T04:29:08.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14526,15 +14526,6 @@
         <updated>2025-06-01T16:35:16.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chikkama 💥❤️ #Vengayo #Foxn #ThinkIndie]]></title>
-        <id>https://www.youtube.com/watch?v=Hwc8h1NNqwA</id>
-        <link href="https://www.youtube.com/watch?v=Hwc8h1NNqwA"/>
-        <updated>2025-06-01T16:21:21.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
