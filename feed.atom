@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T05:14:56.609Z</updated>
+    <updated>2025-07-01T06:14:44.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nanma Niranja | Maria Kolady | Lovely Jiji #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/shorts/e7kTcQhMHMo</id>
+        <link href="https://www.youtube.com/shorts/e7kTcQhMHMo"/>
+        <updated>2025-07-01T05:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penninte Chenchundil | Guruji Oru Vakku | K J Yesudas | K S Chithra | Jerry Amaldev]]></title>
+        <id>https://www.youtube.com/shorts/KuvdPFtRlvY</id>
+        <link href="https://www.youtube.com/shorts/KuvdPFtRlvY"/>
+        <updated>2025-07-01T05:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaadunnuvo - Vocals Only | The Independeners | Pookkaalam | K.S. Chithra | Sachin Warrier]]></title>
+        <id>https://www.youtube.com/watch?v=KLifr9eNsXI</id>
+        <link href="https://www.youtube.com/watch?v=KLifr9eNsXI"/>
+        <updated>2025-07-01T05:30:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthanennu Chodikkalle  | Ulakam Chuttum Valiban | Video |Kaithapram | Mohan Sithara | Vijay Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=5wJFAm9IwVc</id>
+        <link href="https://www.youtube.com/watch?v=5wJFAm9IwVc"/>
+        <updated>2025-07-01T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paranthu Po - Jukebox (Side A) | Ram | Shiva | Grace Antony | Santhosh Dhayanithi | Madhan Karky]]></title>
+        <id>https://www.youtube.com/watch?v=CSZcK_kdr7U</id>
+        <link href="https://www.youtube.com/watch?v=CSZcK_kdr7U"/>
+        <updated>2025-07-01T05:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chakkarakkili 8K | Vellinakshatram | Prithviraj | M.Jayachandran | Sujatha Hits]]></title>
+        <id>https://www.youtube.com/watch?v=21lFVO6bPio</id>
+        <link href="https://www.youtube.com/watch?v=21lFVO6bPio"/>
+        <updated>2025-07-01T05:17:55.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devadidevasuthan | George Peter Chittur | Shorts  #christiansongs #GeorgePeterChittur]]></title>
         <id>https://www.youtube.com/shorts/f1bRlvAi0ac</id>
