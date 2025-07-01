@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T13:26:13.933Z</updated>
+    <updated>2025-07-01T14:09:39.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onnam vattam kandappol | Gireesh Puthenchery | MG Sreekumar | Chandralekha #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/SKN0GHa7DyU</id>
+        <link href="https://www.youtube.com/shorts/SKN0GHa7DyU"/>
+        <updated>2025-07-01T14:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Munnottoru Vettam - Audio song | Padachone Ingalu Katholi | Sreenath Bhasi | Shaan Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=IEhsDkWK4dM</id>
+        <link href="https://www.youtube.com/watch?v=IEhsDkWK4dM"/>
+        <updated>2025-07-01T13:30:27.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം തന്ന ഗാനങ്ങൾ  | @JinoKunnumpurathu  | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=QTTwRpNyc7w</id>
+        <link href="https://www.youtube.com/watch?v=QTTwRpNyc7w"/>
+        <updated>2025-07-01T13:30:25.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ റിച്ചുകുട്ടൻ ആലപിച്ച ഏറ്റവും നല്ല ക്രിസ്തീയഗാനങ്ങൾ |Christian Devotional Sonfs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=FTKvhesTCwE</id>
+        <link href="https://www.youtube.com/watch?v=FTKvhesTCwE"/>
+        <updated>2025-07-01T13:30:25.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വാനം പോലെ | Dosth | Dileep | Kunchacko Boban]]></title>
+        <id>https://www.youtube.com/shorts/9sFvOWSUpmw</id>
+        <link href="https://www.youtube.com/shorts/9sFvOWSUpmw"/>
+        <updated>2025-07-01T13:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gopangane Aathmaavile | ഗോപാംഗനേ ആത്മാവിലെ...| Bharatham Mohanlal Movie | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=7B4rxdHbzjU</id>
+        <link href="https://www.youtube.com/watch?v=7B4rxdHbzjU"/>
+        <updated>2025-07-01T13:30:08.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിത്യവും ജോലികൾക്കിടയിൽ കേൾക്കുന്ന മലയാളസിനിമയിലെ ഇഷ്ടഗാനങ്ങൾ | FAVOURITE SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=345Ibe325R4</id>
+        <link href="https://www.youtube.com/watch?v=345Ibe325R4"/>
+        <updated>2025-07-01T13:30:03.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karivalayo Changathi Video Song| Five Fingers | Kunchacko Boban| Karthika |KJ Yesudas |Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=z14mRedoUU8</id>
@@ -14668,15 +14733,6 @@
         <updated>2025-06-02T04:13:03.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manja Uduppitta Kochuthumbi | Richukuttan | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=vheX-VBDM4E</id>
-        <link href="https://www.youtube.com/watch?v=vheX-VBDM4E"/>
-        <updated>2025-06-02T01:30:42.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
