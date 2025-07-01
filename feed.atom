@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T07:11:39.157Z</updated>
+    <updated>2025-07-01T08:14:01.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസിൻ ചെപ്പിലൊളിപ്പിച്ചു വെച്ച മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=6paELFTo0UY</id>
+        <link href="https://www.youtube.com/watch?v=6paELFTo0UY"/>
+        <updated>2025-07-01T07:34:36.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#songoftheday #readyready #devi2 #prabhudeva #tamannaah #samcs #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/shorts/NMAmI6oZink</id>
+        <link href="https://www.youtube.com/shorts/NMAmI6oZink"/>
+        <updated>2025-07-01T07:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sooryanalam Ponvilakkayi | സൂര്യനാളം പൊൻവിളക്കായി...| Thacholi Varghese Chekavar | Yesudas | Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=EZUntCb4rd8</id>
+        <link href="https://www.youtube.com/watch?v=EZUntCb4rd8"/>
+        <updated>2025-07-01T07:28:47.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U Turn Telugu - The Karma Theme Video with Lyrics | Samantha | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=DgNVyBMBkdM</id>
+        <link href="https://www.youtube.com/watch?v=DgNVyBMBkdM"/>
+        <updated>2025-07-01T07:00:25.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാമാ നീ അരികിൽ വരാമോ...Mama Thoda Pyar song out now❤️ | #shorts #flaskmovie #trendingsongs]]></title>
         <id>https://www.youtube.com/shorts/-R4IRNJ0l6A</id>
@@ -14536,15 +14573,6 @@
         <updated>2025-06-01T22:30:17.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 2 # Athiravile Prarthana 2nd of June 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=aOYfkjv1dEY</id>
-        <link href="https://www.youtube.com/watch?v=aOYfkjv1dEY"/>
-        <updated>2025-06-01T20:00:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
