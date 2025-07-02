@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T04:20:05.177Z</updated>
+    <updated>2025-07-02T05:12:41.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nin Thumbu Kettiyitta | Shalini Ente Koottukari | KJ Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=ehQhq26wDGM</id>
+        <link href="https://www.youtube.com/watch?v=ehQhq26wDGM"/>
+        <updated>2025-07-02T04:30:29.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ella Navum Paadi Vazhthum | K S Chithra | Shorts #shortsvideo #shorts]]></title>
         <id>https://www.youtube.com/shorts/2VxML2tJDW8</id>
