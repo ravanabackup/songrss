@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T08:13:40.254Z</updated>
+    <updated>2025-07-02T09:12:13.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chandhana Mukile 8K Remastered | M Jayachandran | S Rameshan Nair | K S Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=3-uEzAeZNNk</id>
+        <link href="https://www.youtube.com/watch?v=3-uEzAeZNNk"/>
+        <updated>2025-07-02T08:24:46.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രേക്ഷകരുടെ മനസ്സിൽ സ്ഥാനം നേടിയ സൂപ്പർഹിറ്റ് പ്രണയ ഗാനങ്ങൾ  | ROMANTIC SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=_oKdx0YHkq8</id>
@@ -773,6 +782,15 @@
         <updated>2025-06-30T12:30:02.000Z</updated>
         <author>
             <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam | Vol. 4 | ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=SgKe7fV_oCY</id>
+        <link href="https://www.youtube.com/watch?v=SgKe7fV_oCY"/>
+        <updated>2025-06-30T12:14:55.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
