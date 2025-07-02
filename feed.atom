@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T16:11:26.395Z</updated>
+    <updated>2025-07-02T17:09:34.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
+        <id>https://www.youtube.com/shorts/79-apcCjops</id>
+        <link href="https://www.youtube.com/shorts/79-apcCjops"/>
+        <updated>2025-07-02T16:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Song Malayalam | #shortsmalayalam]]></title>
         <id>https://www.youtube.com/shorts/cGgaVozj2kE</id>
@@ -14710,51 +14720,6 @@
         <updated>2025-06-03T05:30:02.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Nadathum Aa Ponnu Karamo | Christian Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=zOHVddoa-fw</id>
-        <link href="https://www.youtube.com/watch?v=zOHVddoa-fw"/>
-        <updated>2025-06-03T05:00:58.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഞ്ഞുരുകും, Manjurukum Video Song | Angachamayam Movie | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=GXotP8W_mR4</id>
-        <link href="https://www.youtube.com/watch?v=GXotP8W_mR4"/>
-        <updated>2025-06-03T04:59:57.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manthrtikam Jukebox | Mohanlal | Priyaraman | Vineetha | Thambi Kannanthanam | S P Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=-2kIRoys2_g</id>
-        <link href="https://www.youtube.com/watch?v=-2kIRoys2_g"/>
-        <updated>2025-06-03T04:38:14.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnaminnikkum | Kattappanayile Hrithik Roshan | Shankar Mahadevan | Nadirsha | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=yrdaM97CzTA</id>
-        <link href="https://www.youtube.com/watch?v=yrdaM97CzTA"/>
-        <updated>2025-06-03T04:37:12.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjilayil Mungithorthe - RnB | Joyal MJ | Kalithozhan | P. Jayachandran | G. Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=r35__dRaYS4</id>
-        <link href="https://www.youtube.com/watch?v=r35__dRaYS4"/>
-        <updated>2025-06-03T04:30:39.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
