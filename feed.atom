@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T05:13:58.579Z</updated>
+    <updated>2025-07-03T06:14:45.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SAHASAM - the "Onam season" is calling. പവറാവട്ടെ.....🔥]]></title>
+        <id>https://www.youtube.com/shorts/cr-mtIyhyRk</id>
+        <link href="https://www.youtube.com/shorts/cr-mtIyhyRk"/>
+        <updated>2025-07-03T05:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attam Bomb | One Way Ticket | Video Song| Prithviraj Sukumaran | Gireesh Puthenchery | Rahul Raj]]></title>
+        <id>https://www.youtube.com/watch?v=nWH7Slq_YKw</id>
+        <link href="https://www.youtube.com/watch?v=nWH7Slq_YKw"/>
+        <updated>2025-07-03T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pon Unjalil - Ambient Lofi | Aelo | Aaru Sundarimarude Katha | K.S. Chithra, Kalyani Menon]]></title>
+        <id>https://www.youtube.com/watch?v=-4w3wlGw86M</id>
+        <link href="https://www.youtube.com/watch?v=-4w3wlGw86M"/>
+        <updated>2025-07-03T05:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മറക്കല്ലേ നാളെയാണ്...!! | നിനക്കെന്നെ Music Video @123MusixOriginals  #thankachan]]></title>
         <id>https://www.youtube.com/shorts/4qSyKxpqIsI</id>
