@@ -2575,6 +2575,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9UppX_U_IDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9UppX_U_IDY",
+          "publishedOn": "2025-07-03T20:00:05.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന  July 4 # Athiravile Prarthana 4th of July 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=grkjo2z8cO0",
           "author": null,
           "description": "",
@@ -7550,16 +7560,6 @@
           "publishedOn": "2025-06-05T07:45:21.000Z",
           "wordCount": null,
           "title": "ഏവർക്കും ഒരുപോലെ പ്രിയങ്കരം ഈ മനോഹര ഗാനങ്ങൾ | EVERGREEN MELODY SONGS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4_BnV5apldE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4_BnV5apldE",
-          "publishedOn": "2025-06-04T07:36:33.000Z",
-          "wordCount": null,
-          "title": "മമ്മുക്കയുടെ ഇഷ്ടഗാനങ്ങൾ | HITS OF MAMMOOTTY | EVERGREEN SONGS OF MAMMOOTTY",
           "imageUrl": null
         }
       ]
@@ -15332,16 +15332,6 @@
           "publishedOn": "2025-06-04T10:10:56.000Z",
           "wordCount": null,
           "title": "Surabila Swapnangal | 4K |  ENTE PONNU THAMPURAN | K J Yesudas Hits | G. Devarajan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dO0Lg2C16UA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dO0Lg2C16UA",
-          "publishedOn": "2025-06-04T07:32:57.000Z",
-          "wordCount": null,
-          "title": "Ravinte Deva Hridayathil | 4K  | Mazhathullikkilukkam | Dileep | Navya Nair | KJ Yesudas Hits",
           "imageUrl": null
         }
       ]
