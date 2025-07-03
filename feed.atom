@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T18:12:57.088Z</updated>
+    <updated>2025-07-03T19:07:08.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 4th July 2025]]></title>
+        <id>https://www.youtube.com/watch?v=grkjo2z8cO0</id>
+        <link href="https://www.youtube.com/watch?v=grkjo2z8cO0"/>
+        <updated>2025-07-03T19:00:42.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 July 2025]]></title>
         <id>https://www.youtube.com/shorts/vEmWXJE9XOo</id>
@@ -14574,63 +14583,6 @@
         <updated>2025-06-04T07:32:57.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേവാങ്കണങ്ങൾ കൈയ്യൊഴിഞ്ഞ താരകം #evergreenhits #malayalam #moviesong]]></title>
-        <id>https://www.youtube.com/shorts/rPTHoXdQfkY</id>
-        <link href="https://www.youtube.com/shorts/rPTHoXdQfkY"/>
-        <updated>2025-06-04T06:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേവാങ്കണങ്ങൾ കൈയ്യൊഴിഞ്ഞ താരകം #evergreenhits #malayalam #moviesong]]></title>
-        <id>https://www.youtube.com/watch?v=rPTHoXdQfkY</id>
-        <link href="https://www.youtube.com/watch?v=rPTHoXdQfkY"/>
-        <updated>2025-06-04T06:42:37.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerusalem Nayaka | ജെറുസലേം നായകാ  | P.Jayachandran | #jesusshorts | #shorts | #christianmusic]]></title>
-        <id>https://www.youtube.com/shorts/YfRiVvMh4GQ</id>
-        <link href="https://www.youtube.com/shorts/YfRiVvMh4GQ"/>
-        <updated>2025-06-04T06:41:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerusalem Nayaka | ജെറുസലേം നായകാ  | P.Jayachandran | #jesusshorts | #shorts | #christianmusic]]></title>
-        <id>https://www.youtube.com/watch?v=YfRiVvMh4GQ</id>
-        <link href="https://www.youtube.com/watch?v=YfRiVvMh4GQ"/>
-        <updated>2025-06-04T06:41:43.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Mazhanila #Vikramadithyan #MonsoonMelodies #dulquersalmaan #bijibal #namithapramod #shorts]]></title>
-        <id>https://www.youtube.com/shorts/DyxF1Qxdxwo</id>
-        <link href="https://www.youtube.com/shorts/DyxF1Qxdxwo"/>
-        <updated>2025-06-04T06:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Mazhanila #Vikramadithyan #MonsoonMelodies #dulquersalmaan #bijibal #namithapramod #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=DyxF1Qxdxwo</id>
-        <link href="https://www.youtube.com/watch?v=DyxF1Qxdxwo"/>
-        <updated>2025-06-04T06:25:53.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
