@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T13:24:05.095Z</updated>
+    <updated>2025-07-03T14:09:40.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആത്മാവിനെ തൊട്ടുണർത്തുന്ന അതിമനോഹര 15 ഗാനങ്ങൾ  |  @JinoKunnumpurathu   | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=tda5JqCOXKg</id>
+        <link href="https://www.youtube.com/watch?v=tda5JqCOXKg"/>
+        <updated>2025-07-03T13:30:52.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേൾക്കാൻ ആഗ്രഹിച്ച ക്രിസ്തീയ ഗാനങ്ങൾ | MG Sreekumar | Sujatha | Christian Melody Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=iq5rJnqBr4A</id>
+        <link href="https://www.youtube.com/watch?v=iq5rJnqBr4A"/>
+        <updated>2025-07-03T13:30:43.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before Marraige & After Marraige 😂 | Aniyathipraavu | Jaya Jaya Jaya Jaya Hey | Saina music]]></title>
+        <id>https://www.youtube.com/shorts/f22qAX0gdTk</id>
+        <link href="https://www.youtube.com/shorts/f22qAX0gdTk"/>
+        <updated>2025-07-03T13:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enth Paangh... Enth Paangh - Audio Song | Padachone Ingalu Katholi | Sreenath Bhasi | Shaan Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=U2r4mKHx5EM</id>
+        <link href="https://www.youtube.com/watch?v=U2r4mKHx5EM"/>
+        <updated>2025-07-03T13:30:35.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambili Choodunna | Manivathoorile Aayiram Sivarathrikal | ONV Kurup | KS Chithra l Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=F1GEbfFbm_4</id>
+        <link href="https://www.youtube.com/watch?v=F1GEbfFbm_4"/>
+        <updated>2025-07-03T13:30:25.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Padi Pukazhthidam Devadevane | പാടി പുകഴ്ത്തിടാം | Rev. C. John | Maria Kolady | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=0olXs1CHHaQ</id>
+        <link href="https://www.youtube.com/watch?v=0olXs1CHHaQ"/>
+        <updated>2025-07-03T13:25:11.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njanoru Rajavayal l4K | Kabadi Kabadi | Kalabhavan Mani | Nadirsha | Vineeth Sreenivasan & Rimi Tomy]]></title>
         <id>https://www.youtube.com/watch?v=7dTMfl-TsRw</id>
@@ -14599,15 +14654,6 @@
         <updated>2025-06-04T03:30:09.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthu Nallor Sakhi Yeshu | Christian Shorts Video  #musicshorts]]></title>
-        <id>https://www.youtube.com/watch?v=H2FthN2U0KA</id>
-        <link href="https://www.youtube.com/watch?v=H2FthN2U0KA"/>
-        <updated>2025-06-04T02:00:26.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
