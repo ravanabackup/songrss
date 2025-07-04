@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T21:09:05.197Z</updated>
+    <updated>2025-07-04T22:09:15.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14596,24 +14596,6 @@
         <updated>2025-06-05T10:30:29.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayamayuram | Audio Song | Vadakkunokki Yanthram | M G Sreekumar | Sreenivasan | Johnson| Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=YcbtN8Qgyk4</id>
-        <link href="https://www.youtube.com/watch?v=YcbtN8Qgyk4"/>
-        <updated>2025-06-05T09:44:35.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pachavellam Thachinu Sojappan Song | Calender Movie | Video Song | Vineeth Sreenivasan |  Prithviraj]]></title>
-        <id>https://www.youtube.com/watch?v=k9MdqDVyEhA</id>
-        <link href="https://www.youtube.com/watch?v=k9MdqDVyEhA"/>
-        <updated>2025-06-05T09:30:20.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
