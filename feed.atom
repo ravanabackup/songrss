@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T14:09:35.193Z</updated>
+    <updated>2025-07-04T15:09:16.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vazthuka Nee Maname | വാഴ്ത്തുക നീ |Christian Devotional Song Malayalam| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/dKtxV5kUqbo</id>
+        <link href="https://www.youtube.com/shorts/dKtxV5kUqbo"/>
+        <updated>2025-07-04T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poru Nee Vaarilam | Priya Raman | KS Chithra | MG Sreekumar | Gireesh Puthenchery #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/8oKklhxD_UI</id>
+        <link href="https://www.youtube.com/shorts/8oKklhxD_UI"/>
+        <updated>2025-07-04T14:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vannil Ninnoru | കിരീടം വാഴ്‌വ് |Kireedom Vazhvu|Bridegroom|Mar Thoma Wedding Song|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=ebMloiDA_mY</id>
+        <link href="https://www.youtube.com/watch?v=ebMloiDA_mY"/>
+        <updated>2025-07-04T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Varuthu Pokku' short film screened at Cannes Film Festival now streaming on YouTube!]]></title>
         <id>https://www.youtube.com/shorts/E1JMlLpojQI</id>
@@ -14608,25 +14637,6 @@
         <updated>2025-06-05T05:13:35.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Shorts #christiansongs #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/9ssXwur9pfg</id>
-        <link href="https://www.youtube.com/shorts/9ssXwur9pfg"/>
-        <updated>2025-06-05T02:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Shorts #christiansongs #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=9ssXwur9pfg</id>
-        <link href="https://www.youtube.com/watch?v=9ssXwur9pfg"/>
-        <updated>2025-06-05T02:30:07.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
