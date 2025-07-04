@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T23:09:20.526Z</updated>
+    <updated>2025-07-04T00:46:44.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 4th of July 2025 # Mathavinte Japamala # Dhukhathinte Rahasyangal 4th of July 2025]]></title>
+        <id>https://www.youtube.com/watch?v=ECXSxnf1eko</id>
+        <link href="https://www.youtube.com/watch?v=ECXSxnf1eko"/>
+        <updated>2025-07-04T00:30:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thiruvilavil Abhayam | Fr.Thadeus Aravindath  | KS Chithra | Kester | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=0c2S-WlNXCs</id>
+        <link href="https://www.youtube.com/watch?v=0c2S-WlNXCs"/>
+        <updated>2025-07-03T23:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/NX2mYK3ep-w</id>
@@ -14449,60 +14467,6 @@
         <updated>2025-06-04T13:00:26.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paranthu Po - Teaser | Ram | Shiva | Grace Antony | Anjali | Aju Varghese | Santhosh Dhayanithi]]></title>
-        <id>https://www.youtube.com/watch?v=YzUrBiA2AQI</id>
-        <link href="https://www.youtube.com/watch?v=YzUrBiA2AQI"/>
-        <updated>2025-06-04T12:39:07.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനുഷ്യനന്മ | 😇  | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=wxgYbiDIPxs</id>
-        <link href="https://www.youtube.com/watch?v=wxgYbiDIPxs"/>
-        <updated>2025-06-04T12:31:10.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 4th of June 2025]]></title>
-        <id>https://www.youtube.com/watch?v=fFecfoDBAH0</id>
-        <link href="https://www.youtube.com/watch?v=fFecfoDBAH0"/>
-        <updated>2025-06-04T12:30:51.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makara Nilavil | 4K | | Snehithan | Kunchacko Boban | Nandana | Sukumari | Cochin Haneefa]]></title>
-        <id>https://www.youtube.com/watch?v=P0ctpimQp4s</id>
-        <link href="https://www.youtube.com/watch?v=P0ctpimQp4s"/>
-        <updated>2025-06-04T12:16:33.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benz - Character Promo |Raghava Lawrence,Nivin|Lokesh Kanagaraj|Bakkiyaraj Kannan| @SaiAbhyankkar]]></title>
-        <id>https://www.youtube.com/watch?v=yNA5CuzUO6M</id>
-        <link href="https://www.youtube.com/watch?v=yNA5CuzUO6M"/>
-        <updated>2025-06-04T12:04:07.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amruthamaayi |  Snehaveedu #mohanlal #ilayaraja #shortsfeed #shortsvideo #shorts #reels #hariharan]]></title>
-        <id>https://www.youtube.com/watch?v=EQoYJD-ThWc</id>
-        <link href="https://www.youtube.com/watch?v=EQoYJD-ThWc"/>
-        <updated>2025-06-04T12:00:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
