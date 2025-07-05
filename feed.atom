@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T16:10:24.531Z</updated>
+    <updated>2025-07-05T17:07:51.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14575,43 +14575,6 @@
         <updated>2025-06-06T05:12:46.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akalavum Arikil | Honey Bee 2 | Bhavana | Wrenz Band | Deepak Dev | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=ulh6MllGyks</id>
-        <link href="https://www.youtube.com/watch?v=ulh6MllGyks"/>
-        <updated>2025-06-06T04:57:07.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#songoftheday #orunokkil #madhuramanoharamoham #heshamabdulwahab #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/shorts/q6HquiYKmLs</id>
-        <link href="https://www.youtube.com/shorts/q6HquiYKmLs"/>
-        <updated>2025-06-06T04:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#songoftheday #orunokkil #madhuramanoharamoham #heshamabdulwahab #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=q6HquiYKmLs</id>
-        <link href="https://www.youtube.com/watch?v=q6HquiYKmLs"/>
-        <updated>2025-06-06T04:31:55.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellikkinnam Niranju | Arjunanpillayum Anchu Makkalum | Innocent | K J Yesudas | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=7tAiqeNxERw</id>
-        <link href="https://www.youtube.com/watch?v=7tAiqeNxERw"/>
-        <updated>2025-06-06T04:30:04.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
