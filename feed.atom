@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T11:07:17.872Z</updated>
+    <updated>2025-07-05T12:15:36.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doore Maamala Kaadu | Video Song | Thetta | Ameer Niyas | Ragesh Swaminathan]]></title>
+        <id>https://www.youtube.com/watch?v=xi01Vmxzhb4</id>
+        <link href="https://www.youtube.com/watch?v=xi01Vmxzhb4"/>
+        <updated>2025-07-05T11:37:08.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raveendra Nee Evide? |Official Teaser Out Now #shorts #anoopmenon #dhyansreenivasan #sheeluabraham]]></title>
         <id>https://www.youtube.com/shorts/vGUxOam2cv4</id>
@@ -3403,6 +3412,15 @@
         <updated>2025-06-27T13:00:30.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചെറുപ്പകാലം ഹിറ്റാക്കിയ ഗാനങ്ങൾ | Evergreen Hits | Vidyasagar | S Ramesan Nair | K.S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=QIg1WhPHUpw</id>
+        <link href="https://www.youtube.com/watch?v=QIg1WhPHUpw"/>
+        <updated>2025-06-27T12:56:57.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -14443,24 +14461,6 @@
         <updated>2025-06-06T00:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 6th June 2025 # Novena to the Sacred Heart of Jesus 6th June 2025]]></title>
-        <id>https://www.youtube.com/watch?v=Y4fmbHMo0m0</id>
-        <link href="https://www.youtube.com/watch?v=Y4fmbHMo0m0"/>
-        <updated>2025-06-05T23:30:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karunamayan | Kester | K.G Markose | Wilson Piravom | Mithila | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2uB9ibyfPfM</id>
-        <link href="https://www.youtube.com/watch?v=2uB9ibyfPfM"/>
-        <updated>2025-06-05T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
