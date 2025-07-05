@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T21:08:51.962Z</updated>
+    <updated>2025-07-05T22:08:06.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14493,15 +14493,6 @@
         <updated>2025-06-06T10:30:17.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശരത്കാലചന്ദ്രിക വിടപറഞ്ഞു HD Song | Old Classic | S Janaki | Madhu Sheela |]]></title>
-        <id>https://www.youtube.com/watch?v=SNMD9Jlv6Oo</id>
-        <link href="https://www.youtube.com/watch?v=SNMD9Jlv6Oo"/>
-        <updated>2025-06-06T09:30:15.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
