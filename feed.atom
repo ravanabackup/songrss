@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T03:38:22.371Z</updated>
+    <updated>2025-07-05T04:14:32.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14310,25 +14310,6 @@
         <updated>2025-06-05T16:28:06.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Karthavin Varavil Namme…. #matchpointfaith  #malayalamchristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/4KuSWFy5AR4</id>
-        <link href="https://www.youtube.com/shorts/4KuSWFy5AR4"/>
-        <updated>2025-06-05T15:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Karthavin Varavil Namme…. #matchpointfaith  #malayalamchristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=4KuSWFy5AR4</id>
-        <link href="https://www.youtube.com/watch?v=4KuSWFy5AR4"/>
-        <updated>2025-06-05T15:43:19.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
