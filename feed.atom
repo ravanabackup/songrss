@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T09:08:45.290Z</updated>
+    <updated>2025-07-06T10:09:31.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Pithrusuthane | യേശു പിത്യസുതനെ | Orthodox Qurbana Song | Roy & Maria | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=Nfs0Gc3iI40</id>
+        <link href="https://www.youtube.com/watch?v=Nfs0Gc3iI40"/>
+        <updated>2025-07-06T09:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjum Kulirum Kunjikiliyum | മഞ്ഞും കുളിരും കുഞ്ഞിക്കിളിയും | Sandhyaku Virinja Poovu | S Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=16Ha2BDSGTs</id>
+        <link href="https://www.youtube.com/watch?v=16Ha2BDSGTs"/>
+        <updated>2025-07-06T09:30:01.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Varuthu Pokku' short film screened at 2025 Cannes Film Festival now streaming on YouTube]]></title>
         <id>https://www.youtube.com/shorts/JNKjF7ra9WY</id>
