@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T10:11:10.235Z</updated>
+    <updated>2025-07-07T11:08:38.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Mazhayum | Fr. Sajan P. Mathew | Shibu John | Malayalam Christian Devotional Songs | Gospel]]></title>
+        <id>https://www.youtube.com/watch?v=DF7m440oziY</id>
+        <link href="https://www.youtube.com/watch?v=DF7m440oziY"/>
+        <updated>2025-07-07T10:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St Antonys Vishudante Gaanagalum Prathanayum Novenayum | Kester | Elizabeth Raju | Merin Gregory]]></title>
+        <id>https://www.youtube.com/watch?v=Fqtjl4MEGaM</id>
+        <link href="https://www.youtube.com/watch?v=Fqtjl4MEGaM"/>
+        <updated>2025-07-07T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@SaiAbhyankkar - Vizhi Veekura (Audio) | Sai Smriti | Adesh Krishna | Think Indie]]></title>
+        <id>https://www.youtube.com/watch?v=72tCWK3HlaA</id>
+        <link href="https://www.youtube.com/watch?v=72tCWK3HlaA"/>
+        <updated>2025-07-07T10:27:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്തേ മുല്ലേ പൂക്കാത്തു | Panchaloham Movie Melody Song  🎧  | Manoj K Jayan, Vani Viswanath]]></title>
         <id>https://www.youtube.com/watch?v=Wf9KUy7rrfY</id>
@@ -14163,24 +14190,6 @@
         <updated>2025-06-07T23:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=UGxcYC_Lq7Q</id>
-        <link href="https://www.youtube.com/watch?v=UGxcYC_Lq7Q"/>
-        <updated>2025-06-07T23:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂൺ: 08, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=uch2NLC3M-w</id>
-        <link href="https://www.youtube.com/watch?v=uch2NLC3M-w"/>
-        <updated>2025-06-07T22:30:11.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
