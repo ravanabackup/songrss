@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T09:13:09.925Z</updated>
+    <updated>2025-07-07T10:11:10.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എന്തേ മുല്ലേ പൂക്കാത്തു | Panchaloham Movie Melody Song  🎧  | Manoj K Jayan, Vani Viswanath]]></title>
+        <id>https://www.youtube.com/watch?v=Wf9KUy7rrfY</id>
+        <link href="https://www.youtube.com/watch?v=Wf9KUy7rrfY"/>
+        <updated>2025-07-07T09:30:31.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mizhikalil | Bunglavil  Outha #sujatha #gvenugopal #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/shorts/FSRKE0Pb7Jk</id>
