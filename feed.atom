@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T07:12:21.473Z</updated>
+    <updated>2025-07-07T08:14:54.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Rajamalli 4K | MG Sreekumar Hits | Ouseppachan | S Ramesan Nair | Aniyathipraavu]]></title>
+        <id>https://www.youtube.com/watch?v=WhwoJEkZ6v0</id>
+        <link href="https://www.youtube.com/watch?v=WhwoJEkZ6v0"/>
+        <updated>2025-07-07T08:06:10.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രേക്ഷക മനം കവർന്ന മഞ്ജു വാര്യരുടെ ഇഷ്ടഗാനങ്ങൾ | HITS OF MANJU WARRIER | EVERGREEN HIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=tX4_QpzkGuQ</id>
+        <link href="https://www.youtube.com/watch?v=tX4_QpzkGuQ"/>
+        <updated>2025-07-07T07:30:25.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ye Maaya Chesave - Vintunnavaa Video with Lyrics | Naga Chaitanya, Samantha]]></title>
         <id>https://www.youtube.com/watch?v=1jrv_TZ_EPA</id>
@@ -14135,15 +14153,6 @@
         <updated>2025-06-07T22:30:11.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 8 # Athiravile Prarthana 8th of June 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=mPBdSREe9FE</id>
-        <link href="https://www.youtube.com/watch?v=mPBdSREe9FE"/>
-        <updated>2025-06-07T20:00:39.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
