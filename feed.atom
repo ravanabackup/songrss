@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T07:11:22.067Z</updated>
+    <updated>2025-07-08T08:14:10.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ചുന്ദരിവാവേ ചുന്ദരിവാവേ ചായോ ചായുറങ്ങ്... ചെമ്പക കൊമ്പിൽ കിങ്ങിണി പ്രാവിൻ പാട്ടും കേട്ടുറങ്ങ് ...]]></title>
+        <id>https://www.youtube.com/shorts/qAvD3P8Lrbg</id>
+        <link href="https://www.youtube.com/shorts/qAvD3P8Lrbg"/>
+        <updated>2025-07-08T07:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സൂപ്പർതാരങ്ങളുടെ സൂപ്പർഹിറ്റ് ജനപ്രിയ ഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=dhFi5vV4w94</id>
+        <link href="https://www.youtube.com/watch?v=dhFi5vV4w94"/>
+        <updated>2025-07-08T07:41:38.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjum Kulirum Kunjikiliyum | മഞ്ഞും കുളിരും കുഞ്ഞിക്കിളിയും | Sandhyaku Virinja Poovu | S Janaki]]></title>
+        <id>https://www.youtube.com/shorts/wgaWT2WZlhk</id>
+        <link href="https://www.youtube.com/shorts/wgaWT2WZlhk"/>
+        <updated>2025-07-08T07:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tik Tik Tik - Title Track Video with Lyrics | Jayam Ravi | D.Imman]]></title>
         <id>https://www.youtube.com/watch?v=BDS92e1A9zE</id>
@@ -14167,15 +14196,6 @@
         <updated>2025-06-08T22:30:12.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 9 # Athiravile Prarthana 9th of June 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=zAg8JG_Lhbw</id>
-        <link href="https://www.youtube.com/watch?v=zAg8JG_Lhbw"/>
-        <updated>2025-06-08T20:00:41.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
