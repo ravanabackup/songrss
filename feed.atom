@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T21:08:53.997Z</updated>
+    <updated>2025-07-09T22:09:37.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14043,43 +14043,6 @@
         <updated>2025-06-10T10:47:14.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundarano Sooriyano | Veena Anoop | Film Songs  #manoramamusic #shorts]]></title>
-        <id>https://www.youtube.com/shorts/igYSjf008QI</id>
-        <link href="https://www.youtube.com/shorts/igYSjf008QI"/>
-        <updated>2025-06-10T09:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundarano Sooriyano | Veena Anoop | Film Songs  #manoramamusic #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=igYSjf008QI</id>
-        <link href="https://www.youtube.com/watch?v=igYSjf008QI"/>
-        <updated>2025-06-10T09:58:37.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആത്മാവിൽ മുട്ടിവിളിച്ചതു പോലെ | Athmavil Mutti | Aranyakam Malayalam Film Song | Saleema, Vineeth]]></title>
-        <id>https://www.youtube.com/watch?v=TFvqQIW-T0k</id>
-        <link href="https://www.youtube.com/watch?v=TFvqQIW-T0k"/>
-        <updated>2025-06-10T09:38:10.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരാമദേവതമാരേ | Aaramadevathamaare Song  | Prabhu  movie | S. Janaki | Prem nazir, Seema]]></title>
-        <id>https://www.youtube.com/watch?v=cmeF7ZcHD2E</id>
-        <link href="https://www.youtube.com/watch?v=cmeF7ZcHD2E"/>
-        <updated>2025-06-10T09:30:21.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
