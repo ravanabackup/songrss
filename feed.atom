@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T19:08:24.288Z</updated>
+    <updated>2025-07-09T20:10:26.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 10 # Athiravile Prarthana 10th of July 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=m9OWezsfkRs</id>
+        <link href="https://www.youtube.com/watch?v=m9OWezsfkRs"/>
+        <updated>2025-07-09T20:00:34.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th July 2025]]></title>
         <id>https://www.youtube.com/watch?v=yacSxhlHCCY</id>
@@ -14080,43 +14089,6 @@
         <updated>2025-06-10T08:58:06.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaranne Aaranne 4K Video Song| Urumi | Prithviraj | Prabhu Deva | Tabu | Deepak Dev| Job Kurian,Rita]]></title>
-        <id>https://www.youtube.com/watch?v=z2Y-ONftm94</id>
-        <link href="https://www.youtube.com/watch?v=z2Y-ONftm94"/>
-        <updated>2025-06-10T08:02:25.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wishing the melody maker #justinprabhakaran a very happy birthday! #shorts]]></title>
-        <id>https://www.youtube.com/shorts/mBwheU9RCps</id>
-        <link href="https://www.youtube.com/shorts/mBwheU9RCps"/>
-        <updated>2025-06-10T07:40:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wishing the melody maker #justinprabhakaran a very happy birthday! #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mBwheU9RCps</id>
-        <link href="https://www.youtube.com/watch?v=mBwheU9RCps"/>
-        <updated>2025-06-10T07:40:43.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏവരും കേൾക്കാനാഗ്രഹിച്ച എൺപതുകളിലെ മനം മയക്കും ഗാനങ്ങൾ  | 80S HITS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=5q25QUTM7NY</id>
-        <link href="https://www.youtube.com/watch?v=5q25QUTM7NY"/>
-        <updated>2025-06-10T07:38:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
