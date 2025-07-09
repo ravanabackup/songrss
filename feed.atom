@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T05:15:20.380Z</updated>
+    <updated>2025-07-09T06:14:38.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Groove Into Onam Vibes #OnamMood #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/shorts/xm90QzZm9ME</id>
+        <link href="https://www.youtube.com/shorts/xm90QzZm9ME"/>
+        <updated>2025-07-09T05:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilamaan Mizhi | Ringtone | Video | K J Yesudas | Shaan | Suresh Gopi | Bala | Megha Nair | Sandhya]]></title>
+        <id>https://www.youtube.com/watch?v=e_N7cmUoLQw</id>
+        <link href="https://www.youtube.com/watch?v=e_N7cmUoLQw"/>
+        <updated>2025-07-09T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaval Vennilave | Krithyam | Prithviraj | Vidhu Prathap | Gireesh Puthanchery | D Udayakumar]]></title>
         <id>https://www.youtube.com/watch?v=5Q6hLTqydw0</id>
