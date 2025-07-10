@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T17:11:40.952Z</updated>
+    <updated>2025-07-10T18:13:44.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13866,52 +13866,6 @@
         <updated>2025-06-11T06:15:31.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്യാമ മേഘമേ നീ | Shyaamameghame Nee | Adhipan Malayalam Movie Evergreen Song | Mohanlal | Parvathy]]></title>
-        <id>https://www.youtube.com/watch?v=xerJUWRsuqA</id>
-        <link href="https://www.youtube.com/watch?v=xerJUWRsuqA"/>
-        <updated>2025-06-11T06:10:18.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built different – sound that hits hard #Jodino1 💥🎵#Ytshorts #Shorts #SaregamaMalayalam]]></title>
-        <id>https://www.youtube.com/shorts/fgi1ZHhXSxk</id>
-        <link href="https://www.youtube.com/shorts/fgi1ZHhXSxk"/>
-        <updated>2025-06-11T05:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built different – sound that hits hard #Jodino1 💥🎵#Ytshorts #Shorts #SaregamaMalayalam]]></title>
-        <id>https://www.youtube.com/watch?v=fgi1ZHhXSxk</id>
-        <link href="https://www.youtube.com/watch?v=fgi1ZHhXSxk"/>
-        <updated>2025-06-11T05:30:31.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kusumavadana | Madhuchandralekha | Video | Kavalam Sreekumar | Gireesh Puthenchery | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=PI0WtjvbANs</id>
-        <link href="https://www.youtube.com/watch?v=PI0WtjvbANs"/>
-        <updated>2025-06-11T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EN JEEVANE 8K  | Devadoothan | S Janaki | Hits of Vidyasagar | Kaithapram | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=9XAKA57NXRo</id>
-        <link href="https://www.youtube.com/watch?v=9XAKA57NXRo"/>
-        <updated>2025-06-11T05:13:58.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
