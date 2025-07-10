@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T16:11:43.514Z</updated>
+    <updated>2025-07-10T17:11:40.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13912,15 +13912,6 @@
         <updated>2025-06-11T05:13:58.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA - Jukebox  | Atharvaa | Nimisha Sajayan | Nelson Venkatesan | Sahi Siva | Olympia Movies]]></title>
-        <id>https://www.youtube.com/watch?v=JjywrdDTSFE</id>
-        <link href="https://www.youtube.com/watch?v=JjywrdDTSFE"/>
-        <updated>2025-06-11T04:30:06.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
