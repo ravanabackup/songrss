@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T07:11:50.153Z</updated>
+    <updated>2025-07-10T08:13:47.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിനക്കായ് ഞാൻ പാട്ടു പാടുമ്പോൾ... #trending #malayalam songs]]></title>
+        <id>https://www.youtube.com/shorts/hlYBg8dMBa8</id>
+        <link href="https://www.youtube.com/shorts/hlYBg8dMBa8"/>
+        <updated>2025-07-10T07:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് എന്തെന്നില്ലാത്ത സംതൃപ്തിയേകുന്ന പഴയ നല്ല ഗാനങ്ങൾ  | OLD MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=0YlXzIo7H6o</id>
+        <link href="https://www.youtube.com/watch?v=0YlXzIo7H6o"/>
+        <updated>2025-07-10T07:30:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Petta - Ullaallaa Video with Lyrics | Rajinikanth | Anirudh Ravichander]]></title>
         <id>https://www.youtube.com/watch?v=oqDL9_Y5OIE</id>
@@ -373,6 +392,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninnoden Daivame | നിന്നോടെൻ ദൈവമേ | Evg. E.I.Jacob | Fr. Severios & Lalloo | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=3baV53HP0rc</id>
+        <link href="https://www.youtube.com/watch?v=3baV53HP0rc"/>
+        <updated>2025-07-09T11:49:26.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -13758,15 +13786,6 @@
         <updated>2025-06-10T22:30:07.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 11 # Athiravile Prarthana 11th of June 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7zTxI30nyos</id>
-        <link href="https://www.youtube.com/watch?v=7zTxI30nyos"/>
-        <updated>2025-06-10T20:00:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
