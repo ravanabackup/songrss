@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T17:09:57.307Z</updated>
+    <updated>2025-07-11T18:13:09.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13670,42 +13670,6 @@
         <updated>2025-06-12T07:00:23.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaromal  | Cinema Company | Video Song | Shreya Ghoshal | Rafeeq Ahamed | Alphons Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=0hfRfhf2Ycc</id>
-        <link href="https://www.youtube.com/watch?v=0hfRfhf2Ycc"/>
-        <updated>2025-06-12T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൊഞ്ചിനിന്ന പഞ്ചമിയോ | Konchininna Panchamiyo | Karyam Nisaram Movie Song | Prem Nazir | S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=mADjK5LM4cE</id>
-        <link href="https://www.youtube.com/watch?v=mADjK5LM4cE"/>
-        <updated>2025-06-12T05:26:53.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadiye Nile Nadiye 4K| Runway | Dileep | Kavya | Suresh Peters | Sujatha Mohan | Vidhu Prathap]]></title>
-        <id>https://www.youtube.com/watch?v=cDysJXsboOQ</id>
-        <link href="https://www.youtube.com/watch?v=cDysJXsboOQ"/>
-        <updated>2025-06-12T05:14:05.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomkaatinodum Kilikalodum | Poomukhapadiyil Ninneyum Kaathu |  Rahman | K J Yesudas | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=bGVfTtEklHw</id>
-        <link href="https://www.youtube.com/watch?v=bGVfTtEklHw"/>
-        <updated>2025-06-12T05:12:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
