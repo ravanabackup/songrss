@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T14:10:16.526Z</updated>
+    <updated>2025-07-11T15:09:53.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pathivum Pathirum | Morpheus | Amal Irfan | Anwar Sadath | King Orekh | Biju Unity]]></title>
+        <id>https://www.youtube.com/shorts/b9wW18s-AmE</id>
+        <link href="https://www.youtube.com/shorts/b9wW18s-AmE"/>
+        <updated>2025-07-11T15:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |BTS]]></title>
+        <id>https://www.youtube.com/shorts/qJ-jRlhbeYc</id>
+        <link href="https://www.youtube.com/shorts/qJ-jRlhbeYc"/>
+        <updated>2025-07-11T14:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Doing - Video Song Out Now  | Flask | Saiju Kurup #sureshkrishna #shorts #newmalayalamsong]]></title>
+        <id>https://www.youtube.com/shorts/mStQbFbL0n4</id>
+        <link href="https://www.youtube.com/shorts/mStQbFbL0n4"/>
+        <updated>2025-07-11T14:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nettiyil Poovulla | Manivathoorile Aayiram Shivaraathrika | Mammootty | KJ Yesudas | #shorts]]></title>
+        <id>https://www.youtube.com/shorts/QseKwJnAzFs</id>
+        <link href="https://www.youtube.com/shorts/QseKwJnAzFs"/>
+        <updated>2025-07-11T14:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lallam Chollunna Video Song|Vietnam Colony|Kanaka|Mohanlal|]]></title>
+        <id>https://www.youtube.com/watch?v=WRbRLTRybm8</id>
+        <link href="https://www.youtube.com/watch?v=WRbRLTRybm8"/>
+        <updated>2025-07-11T14:30:05.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#VannaVazhikal #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/Iuxb5EYgEOo</id>
@@ -13656,25 +13705,6 @@
         <updated>2025-06-12T04:30:16.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #mariakolady #christiancover]]></title>
-        <id>https://www.youtube.com/watch?v=eeavceHq-2M</id>
-        <link href="https://www.youtube.com/watch?v=eeavceHq-2M"/>
-        <updated>2025-06-12T02:42:38.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #mariakolady #christiancover]]></title>
-        <id>https://www.youtube.com/shorts/eeavceHq-2M</id>
-        <link href="https://www.youtube.com/shorts/eeavceHq-2M"/>
-        <updated>2025-06-12T02:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
