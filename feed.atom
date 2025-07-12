@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T14:08:15.658Z</updated>
+    <updated>2025-07-12T15:08:43.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The most beautiful passenger we"ll ever have 🥹🤍]]></title>
+        <id>https://www.youtube.com/shorts/Y32mMix6ee4</id>
+        <link href="https://www.youtube.com/shorts/Y32mMix6ee4"/>
+        <updated>2025-07-12T14:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembarathi Kammalittu  | M Jayachandran | Shreya Ghoshal | Ravisankar #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/InhqpaVt1mU</id>
+        <link href="https://www.youtube.com/shorts/InhqpaVt1mU"/>
+        <updated>2025-07-12T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#EnikkenteAasrayam #Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/ZixIr8MuD-A</id>
