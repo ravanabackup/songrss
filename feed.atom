@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T21:08:11.372Z</updated>
+    <updated>2025-07-13T22:08:57.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13289,24 +13289,6 @@
         <updated>2025-06-14T10:10:25.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ragadevanum | Chamayam | M G Sreekumar, K S Chithra | #malayalamsongs #oldsongs #evergreenhits]]></title>
-        <id>https://www.youtube.com/watch?v=xhdJlEdQrrg</id>
-        <link href="https://www.youtube.com/watch?v=xhdJlEdQrrg"/>
-        <updated>2025-06-14T09:30:28.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒന്നു ചിരിക്കാൻ Video Song | Ithaa Oru Manushyan Movie | P. Jayachandran | Madhu, Sheela]]></title>
-        <id>https://www.youtube.com/watch?v=qW0Yzksm9X8</id>
-        <link href="https://www.youtube.com/watch?v=qW0Yzksm9X8"/>
-        <updated>2025-06-14T09:30:24.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
