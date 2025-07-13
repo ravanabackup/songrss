@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T18:11:52.293Z</updated>
+    <updated>2025-07-13T19:06:52.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th July 2025]]></title>
+        <id>https://www.youtube.com/watch?v=EAaaSDMg9nk</id>
+        <link href="https://www.youtube.com/watch?v=EAaaSDMg9nk"/>
+        <updated>2025-07-13T19:00:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhithunaiye 🎶 #sidsriram #leonjames #dragon]]></title>
         <id>https://www.youtube.com/shorts/7iZqJmzJifA</id>
@@ -13326,34 +13335,6 @@
         <updated>2025-06-14T07:30:05.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master - Kutti Story Video with Lyrics | Thalapathy Vijay | Anirudh Ravichander]]></title>
-        <id>https://www.youtube.com/watch?v=J6m_K006ZYs</id>
-        <link href="https://www.youtube.com/watch?v=J6m_K006ZYs"/>
-        <updated>2025-06-14T07:00:30.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malyalam christian devotional songs Nonstop | sadu kochu upadeshi | M.E.Cherian | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=x3GZsCBJVDs</id>
-        <link href="https://www.youtube.com/watch?v=x3GZsCBJVDs"/>
-        <updated>2025-06-14T06:38:33.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalkandam Chundil | Onnanu Nammal | K J Yesudas, S Janaki | #oldsongs #evergreenhits #oldhits]]></title>
-        <id>https://www.youtube.com/shorts/YjJESVnq1jA</id>
-        <link href="https://www.youtube.com/shorts/YjJESVnq1jA"/>
-        <updated>2025-06-14T06:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
