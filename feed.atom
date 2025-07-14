@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T22:09:30.272Z</updated>
+    <updated>2025-07-14T23:09:30.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/0YEOvWJ8O5E</id>
+        <link href="https://www.youtube.com/shorts/0YEOvWJ8O5E"/>
+        <updated>2025-07-14T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂലൈ: 15, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=VLCaMAEc31M</id>
+        <link href="https://www.youtube.com/watch?v=VLCaMAEc31M"/>
+        <updated>2025-07-14T22:30:14.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 15 # Athiravile Prarthana 15th of July 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=u0uUlW1X9_o</id>
@@ -13310,25 +13329,6 @@
         <updated>2025-06-15T11:14:32.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neermizhi Peeliyil | നീർമിഴിപ്പീലിയില്‍ | Vachanam | Malayalam Film Song | Suresh Gopi | Jayaram]]></title>
-        <id>https://www.youtube.com/shorts/D6Er7h9SrXA</id>
-        <link href="https://www.youtube.com/shorts/D6Er7h9SrXA"/>
-        <updated>2025-06-15T11:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aathmavin Thenmazha | Fr.Thadevus Aravindath | Jerry Amaldev | Sujatha | Kester | Daleema | Maneesha]]></title>
-        <id>https://www.youtube.com/watch?v=9Up_gmW89WE</id>
-        <link href="https://www.youtube.com/watch?v=9Up_gmW89WE"/>
-        <updated>2025-06-15T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
