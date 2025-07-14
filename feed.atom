@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T15:10:55.019Z</updated>
+    <updated>2025-07-14T16:12:12.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kooduvittu Oduvil Njanen | കൂടുവിട്ട് ഒടുവിൽ ഞാനെൻ | Christian Song |Joshua Adoor |Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=oXkDSpE9q3U</id>
+        <link href="https://www.youtube.com/watch?v=oXkDSpE9q3U"/>
+        <updated>2025-07-14T15:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaivam - Adoring Shiva, Shiva Bhakthi song by #MadhuBalakrishnan]]></title>
+        <id>https://www.youtube.com/shorts/Mt5LUiVy5w8</id>
+        <link href="https://www.youtube.com/shorts/Mt5LUiVy5w8"/>
+        <updated>2025-07-14T15:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen to #AagasaVeeran ❤️🎶 #ThalaivanThalaivii #VijaySethupathi #NithyaMenen #SanthoshNarayanan]]></title>
+        <id>https://www.youtube.com/shorts/ea6R616Fwx8</id>
+        <link href="https://www.youtube.com/shorts/ea6R616Fwx8"/>
+        <updated>2025-07-14T15:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Chiri Kandal | Gireesh Puthenchery  | Manjari | Vijay Yesudas | Meenakshi #shortsvideo]]></title>
         <id>https://www.youtube.com/shorts/Kec10qov010</id>
