@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-14T18:14:20.940Z</updated>
+    <updated>2025-07-14T19:09:24.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th July 2025]]></title>
+        <id>https://www.youtube.com/watch?v=cvBXeqzwsow</id>
+        <link href="https://www.youtube.com/watch?v=cvBXeqzwsow"/>
+        <updated>2025-07-14T19:00:27.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Krishna Nee Song | Radha Madhavam | കൃഷ്ണ നീ ബേഗനെ | Malayalam Song song | Geetha | MG Sreekumar]]></title>
         <id>https://www.youtube.com/shorts/91snReUFx-E</id>
@@ -13320,25 +13329,6 @@
         <updated>2025-06-15T09:30:28.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punjavayalu Koyyan | പുഞ്ച വയലു കൊയ്യാന്‍ പോണവളേ HD | #PunchavayaluKoyyan #NairSaab]]></title>
-        <id>https://www.youtube.com/shorts/DL6OMYYHfLM</id>
-        <link href="https://www.youtube.com/shorts/DL6OMYYHfLM"/>
-        <updated>2025-06-15T07:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathuvaakula Rendu Kaadhal - Two Two Two Video with Lyrics | Vijay Sethupathi | AnirudhRavichander]]></title>
-        <id>https://www.youtube.com/watch?v=-ASMXykOBpM</id>
-        <link href="https://www.youtube.com/watch?v=-ASMXykOBpM"/>
-        <updated>2025-06-15T07:00:00.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
