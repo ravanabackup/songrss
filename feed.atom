@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T05:15:33.587Z</updated>
+    <updated>2025-07-15T06:15:11.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കിലുകിൽ പമ്പരം | Kilukil Pambaram Full Song | Kilukkam Malayalam Movie | Mohanlal | Revathi]]></title>
+        <id>https://www.youtube.com/watch?v=X2O94-8HpcU</id>
+        <link href="https://www.youtube.com/watch?v=X2O94-8HpcU"/>
+        <updated>2025-07-15T06:03:39.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOLLYWOOD DANCE HITS | Video Jukebox | മലയാളം ഡാൻസ് സിനിമാഗാനങ്ങൻ | Malayalam Film Dance Hits]]></title>
+        <id>https://www.youtube.com/watch?v=8G0-fKWeRcA</id>
+        <link href="https://www.youtube.com/watch?v=8G0-fKWeRcA"/>
+        <updated>2025-07-15T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hrudayathin Nombaramellam | Christian Melody Songs | Wilson Piravom | Benny Pandalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=F5VnpAG6uXg</id>
+        <link href="https://www.youtube.com/watch?v=F5VnpAG6uXg"/>
+        <updated>2025-07-15T05:16:40.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആടിയാടി | Aadiyadi Padunne | Meghna Sumesh | Shorts   #manoramachristiandevotionalsongs #shortsvideo]]></title>
         <id>https://www.youtube.com/shorts/aVeqPfx7TyI</id>
@@ -13156,16 +13183,6 @@
         <updated>2025-06-15T19:00:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 June 2025]]></title>
-        <id>https://www.youtube.com/shorts/V9SkvPzQqzA</id>
-        <link href="https://www.youtube.com/shorts/V9SkvPzQqzA"/>
-        <updated>2025-06-15T17:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
