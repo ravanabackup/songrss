@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T16:12:23.524Z</updated>
+    <updated>2025-07-15T17:09:08.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വേടൻ വരുന്നേ കാടൻ വരുന്നേ #mohanlal #vietnamcolony #malayalamsongs #mohanlalsongs #movie #love #song]]></title>
+        <id>https://www.youtube.com/shorts/QEtssJv4-p8</id>
+        <link href="https://www.youtube.com/shorts/QEtssJv4-p8"/>
+        <updated>2025-07-15T16:35:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Rathriyilulla Ninte.…  #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
         <id>https://www.youtube.com/shorts/8VmXwq71c_c</id>
@@ -13415,16 +13425,6 @@
         <updated>2025-06-16T05:18:48.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noha Appooppan | Animation Video Shorts #shortsvideo  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/ZdmFB8ctymo</id>
-        <link href="https://www.youtube.com/shorts/ZdmFB8ctymo"/>
-        <updated>2025-06-16T04:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
