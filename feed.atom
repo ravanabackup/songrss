@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T10:10:56.979Z</updated>
+    <updated>2025-07-16T11:08:44.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Melleyonnu Paadi Ninne | 4K | Manassinakkare | Ilayaraja | KJ Yesudas | Nayanthara | Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=wM2bmkBfMJY</id>
+        <link href="https://www.youtube.com/watch?v=wM2bmkBfMJY"/>
+        <updated>2025-07-16T11:05:00.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathil Chiriyode Video Song | Campus Diary | Bijibal | Vijay Yesudas | Swetha Mohan | Rafeeq Ahamed]]></title>
+        <id>https://www.youtube.com/watch?v=BJc9MUT060w</id>
+        <link href="https://www.youtube.com/watch?v=BJc9MUT060w"/>
+        <updated>2025-07-16T10:30:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vagdhana Pedakam Ft. Shanavas, Br Anil, Jinu,Ryan, Ralfin latest Marian Song Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=zCLW74PF94g</id>
+        <link href="https://www.youtube.com/watch?v=zCLW74PF94g"/>
+        <updated>2025-07-16T09:57:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അണ്ണന്റെ ഹൃദയമല്ലോ Old Malayalam Movie Song l Ellam Ninak Vendi movie l Sukumaran, Sumalatha]]></title>
         <id>https://www.youtube.com/watch?v=udzQ7DfkBX0</id>
@@ -449,6 +476,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendra Nee Evide |Official Trailer |Anoop Menon |Sheelu Abraham |Dhyan Sreenivasan |Manoj Palodan]]></title>
+        <id>https://www.youtube.com/watch?v=vMhmJAYdBoo</id>
+        <link href="https://www.youtube.com/watch?v=vMhmJAYdBoo"/>
+        <updated>2025-07-15T11:17:13.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -13294,25 +13330,6 @@
         <updated>2025-06-16T23:30:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/ZhfsP-OsArs</id>
-        <link href="https://www.youtube.com/shorts/ZhfsP-OsArs"/>
-        <updated>2025-06-16T23:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂൺ: 17, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=ZvBRadbChf0</id>
-        <link href="https://www.youtube.com/watch?v=ZvBRadbChf0"/>
-        <updated>2025-06-16T22:30:07.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
