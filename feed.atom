@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T09:14:15.051Z</updated>
+    <updated>2025-07-17T10:11:10.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സുറുമ വരച്ചൊരു കണ്ണ് Video song | kaattu kallan | HD Video Song Prem Nazir | Malayalam Old Song]]></title>
+        <id>https://www.youtube.com/watch?v=UnUqPG5AnsI</id>
+        <link href="https://www.youtube.com/watch?v=UnUqPG5AnsI"/>
+        <updated>2025-07-17T09:57:15.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnam Ragam Paadi | ഒന്നാം രാഗം പാടി |  Evergreen Hit Song | Thoovanathumbikal | Mohanlal, Paravathi]]></title>
+        <id>https://www.youtube.com/watch?v=Ik5oXiwgwVg</id>
+        <link href="https://www.youtube.com/watch?v=Ik5oXiwgwVg"/>
+        <updated>2025-07-17T09:41:13.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendra Nee Evide | Official Trailer Out Now #shorts #movie #trending]]></title>
+        <id>https://www.youtube.com/shorts/oiFDPVQxmdI</id>
+        <link href="https://www.youtube.com/shorts/oiFDPVQxmdI"/>
+        <updated>2025-07-17T09:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ezhazhukumaayi Poovanikayil | ഏഴഴകുമായ് പൂവനികയിൽ | Kaakkakkum Poochakkum Kalyanam | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=8VLuCBd2eFE</id>
