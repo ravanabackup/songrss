@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T16:12:13.524Z</updated>
+    <updated>2025-07-17T17:10:41.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Another banger loading #SigmaPaiyan from July 20th 🍉🧨 #AsalKolaar #ThinkIndie]]></title>
+        <id>https://www.youtube.com/shorts/9MFgR9MpKxw</id>
+        <link href="https://www.youtube.com/shorts/9MFgR9MpKxw"/>
+        <updated>2025-07-17T16:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sthuthi Chey Maname | സ്തുതി ചെയ് മനമേ | Malayalam Christian Song | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/fX358sTOGoc</id>
@@ -13488,53 +13498,6 @@
         <updated>2025-06-18T05:22:22.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വല്ലാത്തൊരു ജീവിതം 😂 | Ulakam Urundu - Song Out Now #saijukurup #shorts #malayalamsongs]]></title>
-        <id>https://www.youtube.com/shorts/HZcbMQIwsGU</id>
-        <link href="https://www.youtube.com/shorts/HZcbMQIwsGU"/>
-        <updated>2025-06-18T05:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundarano Sooriyano | Veena Anoop | Film Songs  #manoramamusic #shorts #filmsongs]]></title>
-        <id>https://www.youtube.com/shorts/C1Prpb3FsyM</id>
-        <link href="https://www.youtube.com/shorts/C1Prpb3FsyM"/>
-        <updated>2025-06-18T05:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണാം തുമ്പീ പോരാമോ Kannam Thumbi  Song Kakkothikkavile Appooppan Thaadikal | K.S. Chithra | Kaveri]]></title>
-        <id>https://www.youtube.com/watch?v=kblcYfDOvGo</id>
-        <link href="https://www.youtube.com/watch?v=kblcYfDOvGo"/>
-        <updated>2025-06-18T04:30:25.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope Of Shambala - Slow Reverb | The Independeners | Kalki 2898 AD (Malayalam) | Santhosh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=iYhB1aDZoLg</id>
-        <link href="https://www.youtube.com/watch?v=iYhB1aDZoLg"/>
-        <updated>2025-06-18T04:30:23.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arulmozhi | Meiyazhagan | Karthi,Arvind Swami | Rajkiran | Sri Divya | Govind Vasantha | C.Premkumar]]></title>
-        <id>https://www.youtube.com/watch?v=K0yLdGRAj3E</id>
-        <link href="https://www.youtube.com/watch?v=K0yLdGRAj3E"/>
-        <updated>2025-06-18T04:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
