@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T17:10:41.115Z</updated>
+    <updated>2025-07-17T18:14:15.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13462,42 +13462,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Veezhchakalum | Tina Joy | Joice Thonniamala |Stanly John | Malayalam Christian Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=y0FSuYKTEHQ</id>
-        <link href="https://www.youtube.com/watch?v=y0FSuYKTEHQ"/>
-        <updated>2025-06-18T05:57:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayil  | Uthram Nakshathram | K S Chithra | K.Jayakumar | Sunny Stephen | Lyrical Video]]></title>
-        <id>https://www.youtube.com/watch?v=H6zEDvyhN1E</id>
-        <link href="https://www.youtube.com/watch?v=H6zEDvyhN1E"/>
-        <updated>2025-06-18T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=QMYDjU_-zzc</id>
-        <link href="https://www.youtube.com/watch?v=QMYDjU_-zzc"/>
-        <updated>2025-06-18T05:22:45.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guruvayoor Unnikkannanu | 4K | Anachandam | Jayaram | Madambu Kunjukuttan |  Madhu Balakrishnan Hits]]></title>
-        <id>https://www.youtube.com/watch?v=pYQqd0xcEtg</id>
-        <link href="https://www.youtube.com/watch?v=pYQqd0xcEtg"/>
-        <updated>2025-06-18T05:22:22.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
