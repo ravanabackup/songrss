@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T02:51:46.148Z</updated>
+    <updated>2025-07-18T03:54:23.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pottala Muttaye 😋  #alyamanasa #sublahshini #santhoshnarayanan]]></title>
+        <id>https://www.youtube.com/shorts/vnXYmRZgwio</id>
+        <link href="https://www.youtube.com/shorts/vnXYmRZgwio"/>
+        <updated>2025-07-18T03:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Veezhchakalum | Tina Joy #EnteVeezhchakalum #manoramamusic #manoramachristiansongs #tinajoy]]></title>
         <id>https://www.youtube.com/shorts/JfPY6wBoVp0</id>
@@ -13123,16 +13133,6 @@
         <updated>2025-06-18T19:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilaneer Mazhayay from June 20th | 6PM #jubairmuhammed #vishnugroovy]]></title>
-        <id>https://www.youtube.com/shorts/we1Ev4fmuFM</id>
-        <link href="https://www.youtube.com/shorts/we1Ev4fmuFM"/>
-        <updated>2025-06-18T15:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
