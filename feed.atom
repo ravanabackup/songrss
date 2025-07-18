@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T09:14:27.426Z</updated>
+    <updated>2025-07-18T10:10:44.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanninila Penkodiye | 4K | Oru Maravathoor Kanavu | Mammootty | Gireesh Puthencheri |Vidyasagar Hits]]></title>
+        <id>https://www.youtube.com/watch?v=RLUDnhALe7k</id>
+        <link href="https://www.youtube.com/watch?v=RLUDnhALe7k"/>
+        <updated>2025-07-18T09:57:36.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannimaavu Pootho | Jayaram | Meena | Yesudas |  Malayalam Old Melody Song]]></title>
+        <id>https://www.youtube.com/watch?v=0MUFKxaYiSw</id>
+        <link href="https://www.youtube.com/watch?v=0MUFKxaYiSw"/>
+        <updated>2025-07-18T09:30:01.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒന്നാം രാഗം പാടി ഒന്നിനെ മാത്രം തേടി #evergreenhits #malayalam #moviesong]]></title>
+        <id>https://www.youtube.com/shorts/IXUzUZy1QFk</id>
+        <link href="https://www.youtube.com/shorts/IXUzUZy1QFk"/>
+        <updated>2025-07-18T09:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manju Peyyunna Rathriyil | മഞ്ഞു പെയ്യുന്ന രാത്രിയിൽ | Purappadu Movie | MG Sreekumar | Ouseppachan]]></title>
         <id>https://www.youtube.com/shorts/QrGlmpgyETo</id>
