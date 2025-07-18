@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T14:11:01.691Z</updated>
+    <updated>2025-07-18T15:10:09.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉപമകളാൽ ശ്ലേമോൻ | Upamakalal | Malankara Catholic Wedding Song | Roy Puthur | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=Sl1FJBTaD-Q</id>
+        <link href="https://www.youtube.com/watch?v=Sl1FJBTaD-Q"/>
+        <updated>2025-07-18T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalabham Tharam | Gireesh Puthenchery | Raveendran | KS Chithra | Biju Narayanan #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/kusg3kApPJ0</id>
+        <link href="https://www.youtube.com/shorts/kusg3kApPJ0"/>
+        <updated>2025-07-18T14:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എനിക്കൊത്താശ വരും പർവ്വതം #enikkothasha #manoramamusic #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/uAyQMhNiE74</id>
@@ -13356,46 +13375,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeramani | Police Day | Shorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/QExZT9bSagU</id>
-        <link href="https://www.youtube.com/shorts/QExZT9bSagU"/>
-        <updated>2025-06-19T03:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkare Poonilavu | Chitra Pai | Shorts #manoramamusic #shorts #filmsongs  #albumsong]]></title>
-        <id>https://www.youtube.com/shorts/BQnQImsiwgM</id>
-        <link href="https://www.youtube.com/shorts/BQnQImsiwgM"/>
-        <updated>2025-06-19T03:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Sthuthi En Maname | Christian Shorts #manoramachristiandevotionalsongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/1eXycDac3dI</id>
-        <link href="https://www.youtube.com/shorts/1eXycDac3dI"/>
-        <updated>2025-06-19T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalloorum 😇 #gvprakashkumar #mirnaa]]></title>
-        <id>https://www.youtube.com/shorts/urYEf_4MHcQ</id>
-        <link href="https://www.youtube.com/shorts/urYEf_4MHcQ"/>
-        <updated>2025-06-19T02:38:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
