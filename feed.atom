@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T22:09:18.982Z</updated>
+    <updated>2025-07-18T23:09:31.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/kHlOrP2LpyM</id>
+        <link href="https://www.youtube.com/shorts/kHlOrP2LpyM"/>
+        <updated>2025-07-18T23:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂലൈ: 19, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=Fb3qIVxQzcE</id>
+        <link href="https://www.youtube.com/watch?v=Fb3qIVxQzcE"/>
+        <updated>2025-07-18T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 19 # Athiravile Prarthana 19th of July 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Umbkiq5OTXo</id>
@@ -13255,44 +13274,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gandharajan Poovidarnnu | 4K Video song | Calendar | Sujatha Mohan | Prithviraj | Malayalam songs]]></title>
-        <id>https://www.youtube.com/watch?v=gMvYsdBlvFQ</id>
-        <link href="https://www.youtube.com/watch?v=gMvYsdBlvFQ"/>
-        <updated>2025-06-19T11:08:12.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambilikala Choodum | അമ്പിളിക്കലച്ചൂടും...| Rajashilpi  Movie | KS Chithra Song | Audio Song]]></title>
-        <id>https://www.youtube.com/shorts/YfpdE1ZDeaM</id>
-        <link href="https://www.youtube.com/shorts/YfpdE1ZDeaM"/>
-        <updated>2025-06-19T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asthamikkatha Sneham | Fr.Thadeus Aravindath | Biju Narayanan | Minmini | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=1jCi6doQojY</id>
-        <link href="https://www.youtube.com/watch?v=1jCi6doQojY"/>
-        <updated>2025-06-19T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാനനീലിമ...  വാരിയെന്റെ കണ്ണിൽ പെയ്തു... #malayalamsongs]]></title>
-        <id>https://www.youtube.com/shorts/3EnKtcTAOy8</id>
-        <link href="https://www.youtube.com/shorts/3EnKtcTAOy8"/>
-        <updated>2025-06-19T10:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
         </author>
     </entry>
 </feed>
