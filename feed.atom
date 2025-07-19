@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-19T07:09:28.022Z</updated>
+    <updated>2025-07-19T08:12:04.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാരും പോകുഞ്ചോ കുറിഞ്ചിമലയിലു #evergreenhits #malayalam]]></title>
+        <id>https://www.youtube.com/shorts/-B3jSOIxvz0</id>
+        <link href="https://www.youtube.com/shorts/-B3jSOIxvz0"/>
+        <updated>2025-07-19T07:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിരവധി സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ മലയാളികൾക്ക് സമ്മാനിച്ച ഉമ്മറിക്കക്ക് കണ്ണീരോടെ വിട|Hits Of Nisari Ummer]]></title>
+        <id>https://www.youtube.com/watch?v=ZLWKSsxN3lo</id>
+        <link href="https://www.youtube.com/watch?v=ZLWKSsxN3lo"/>
+        <updated>2025-07-19T07:30:30.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ninakkayi Njan Pattu Paadumbol | നിനക്കായി ഞാൻ പാട്ട് പാടുമ്പോൾ  | Malayalam Romantic Songs | Bibin]]></title>
         <id>https://www.youtube.com/watch?v=KL_3aaoTNb4</id>
@@ -13132,15 +13151,6 @@
         <updated>2025-06-19T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 20 # Athiravile Prarthana 20th of June 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pvCbDhF2DXs</id>
-        <link href="https://www.youtube.com/watch?v=pvCbDhF2DXs"/>
-        <updated>2025-06-19T20:00:41.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
