@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T17:07:55.018Z</updated>
+    <updated>2025-07-20T18:12:11.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13292,42 +13292,6 @@
         <updated>2025-06-21T06:27:45.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallamoola | Travel Song | P Jayachandran | Shyam Mangalath | Prasanth Mohan M P | Kavitha Sree]]></title>
-        <id>https://www.youtube.com/watch?v=ESiXfBnUh2k</id>
-        <link href="https://www.youtube.com/watch?v=ESiXfBnUh2k"/>
-        <updated>2025-06-21T05:31:22.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ikkanda Kaalam | Kayam | Video | Mohan Sithara |Viju Ramachandran| Bala | Swetha Menon|Manoj K Jayan]]></title>
-        <id>https://www.youtube.com/watch?v=ZHuFRkZNaXY</id>
-        <link href="https://www.youtube.com/watch?v=ZHuFRkZNaXY"/>
-        <updated>2025-06-21T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalichirithan Praayam HD  The Car | Jayaram | Sreelekshmi | KJ Yesudas Hits | Sanjeev Babu]]></title>
-        <id>https://www.youtube.com/watch?v=srehTl0vjD8</id>
-        <link href="https://www.youtube.com/watch?v=srehTl0vjD8"/>
-        <updated>2025-06-21T05:22:18.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sounds of Malayalam - Audio Jukebox | World Music Day Special | Neela Nilave | Vatteppam]]></title>
-        <id>https://www.youtube.com/watch?v=vrlxw3xOcRE</id>
-        <link href="https://www.youtube.com/watch?v=vrlxw3xOcRE"/>
-        <updated>2025-06-21T05:17:10.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
