@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T14:08:14.328Z</updated>
+    <updated>2025-07-20T15:08:45.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karukavayal Kuruvi | Dhruvam | KJ Yesudas  | SP Venkitesh | Shibu Chakravarthy #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/ebEucOQSyzU</id>
+        <link href="https://www.youtube.com/shorts/ebEucOQSyzU"/>
+        <updated>2025-07-20T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Chey Maname | സ്തുതി ചെയ് മനമേ | Malayalam Christian Song | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/Ppj2GOP99FI</id>
+        <link href="https://www.youtube.com/shorts/Ppj2GOP99FI"/>
+        <updated>2025-07-20T14:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #malayalamchristiandevotionalsongs #matchpointcreations]]></title>
+        <id>https://www.youtube.com/shorts/_m52lWcOKcM</id>
+        <link href="https://www.youtube.com/shorts/_m52lWcOKcM"/>
+        <updated>2025-07-20T14:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pavizhavumay Video Song|Gamanam|Lekshmi|Vijayakumar|]]></title>
         <id>https://www.youtube.com/watch?v=V9x6P5xQOes</id>
@@ -13275,16 +13305,6 @@
         <updated>2025-06-21T03:30:35.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil Ninnum Marayalle | Christian Shorts #manoramachristiandevotionalsongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/O8pV_4uDFRY</id>
-        <link href="https://www.youtube.com/shorts/O8pV_4uDFRY"/>
-        <updated>2025-06-21T03:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
