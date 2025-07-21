@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T07:17:57.195Z</updated>
+    <updated>2025-07-21T08:16:00.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആബാലവൃദ്ധം ജനങ്ങളും അതിശയകരം എന്ന് വിശേഷിപ്പിച്ച സിനിമ ഗാനങ്ങൾ | Everlasting Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ND0x2Wle9aU</id>
+        <link href="https://www.youtube.com/watch?v=ND0x2Wle9aU"/>
+        <updated>2025-07-21T07:30:10.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indraneelimayolum | 4K |  Vaisali | Super Hit Malayalam Movie Song | Suparna Anand |  K S Chithra]]></title>
         <id>https://www.youtube.com/watch?v=sD2-ZBUHOjU</id>
@@ -13006,15 +13015,6 @@
         <updated>2025-06-21T22:30:12.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 22 # Athiravile Prarthana 22nd of June 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7xATkf-92vU</id>
-        <link href="https://www.youtube.com/watch?v=7xATkf-92vU"/>
-        <updated>2025-06-21T20:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
