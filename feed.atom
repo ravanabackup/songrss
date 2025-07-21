@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T15:10:45.994Z</updated>
+    <updated>2025-07-21T16:11:46.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith  #malayalamchristiandevotionalsongs #matchpointcreations #music]]></title>
+        <id>https://www.youtube.com/shorts/zlr22iB3cGU</id>
+        <link href="https://www.youtube.com/shorts/zlr22iB3cGU"/>
+        <updated>2025-07-21T15:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith  #malayalamchristiandevotionalsongs #matchpointcreations #music]]></title>
         <id>https://www.youtube.com/shorts/SUL2qkEr9l8</id>
@@ -13260,16 +13270,6 @@
         <updated>2025-06-22T04:30:01.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkare Poonilavu | Chitra Pai | Shorts #manoramamusic #shorts #filmsongs  #albumsong]]></title>
-        <id>https://www.youtube.com/shorts/2gdx2o2PxoM</id>
-        <link href="https://www.youtube.com/shorts/2gdx2o2PxoM"/>
-        <updated>2025-06-22T03:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
