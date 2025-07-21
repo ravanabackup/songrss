@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T09:17:57.759Z</updated>
+    <updated>2025-07-21T10:11:45.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓർമയിലൊരുശിശിരം | Ormayil Oru Shishiram | Gandhinagar 2nd Street  Movie Song  Video Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=2qa1grg4D7Y</id>
+        <link href="https://www.youtube.com/watch?v=2qa1grg4D7Y"/>
+        <updated>2025-07-21T09:40:14.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തുമ്പപ്പൂ കോടിയുടുത്ത് song sandesam movie | Old is Gold | Evergreen Malayalam Classic]]></title>
+        <id>https://www.youtube.com/watch?v=Gwu_w57m7QU</id>
+        <link href="https://www.youtube.com/watch?v=Gwu_w57m7QU"/>
+        <updated>2025-07-21T09:30:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjil Maayum | മഞ്ഞിൽ മായും | Mazhavilkoodaram Movie | MG Sreekumar KS Chithra Song | Annie Rahman]]></title>
         <id>https://www.youtube.com/watch?v=pjmyHh_JyQs</id>
