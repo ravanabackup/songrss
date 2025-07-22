@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T20:11:33.476Z</updated>
+    <updated>2025-07-22T21:09:00.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13278,15 +13278,6 @@
         <updated>2025-06-23T09:30:31.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangalya Kaalam 4K | Vakkalathu Narayanankutty|Jayaram |Manya |MG Sreekumar |Anuradha Sriram]]></title>
-        <id>https://www.youtube.com/watch?v=el9pleX4Q3E</id>
-        <link href="https://www.youtube.com/watch?v=el9pleX4Q3E"/>
-        <updated>2025-06-23T08:17:35.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
