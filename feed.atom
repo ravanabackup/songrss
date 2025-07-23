@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T11:09:17.888Z</updated>
+    <updated>2025-07-23T12:19:09.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yachikendum Samayamitha | യാചിക്കേണ്ടും | Malankara Catholic Church Qurbana Song |Match Point Faith|]]></title>
+        <id>https://www.youtube.com/watch?v=i2uXr8MiAoA</id>
+        <link href="https://www.youtube.com/watch?v=i2uXr8MiAoA"/>
+        <updated>2025-07-23T11:45:21.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Pakalin Idavazhiyil | Raveendra Nee Evide |Anoop Menon |Sheelu Abraham |Hariharan |Manoj Palodan]]></title>
+        <id>https://www.youtube.com/watch?v=CSIs9HrcPGc</id>
+        <link href="https://www.youtube.com/watch?v=CSIs9HrcPGc"/>
+        <updated>2025-07-23T11:30:07.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koothambalathil Vecho | കൂത്തമ്പലത്തിൽ വെച്ചോ | Appu  | MG Sreekumar | Mohanlal | Sreekumaran Thampi]]></title>
+        <id>https://www.youtube.com/shorts/A_OqCexG5FM</id>
+        <link href="https://www.youtube.com/shorts/A_OqCexG5FM"/>
+        <updated>2025-07-23T11:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambottee Chemboth 4K Video Song | Kottaram Veettile Apputtan | MG Sreekumar | Kalabhavan Mani]]></title>
+        <id>https://www.youtube.com/watch?v=XEc8fZIeXtE</id>
+        <link href="https://www.youtube.com/watch?v=XEc8fZIeXtE"/>
+        <updated>2025-07-23T11:11:45.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargam Suvarna Swargam | Lajjaavathi Movie Song | Nostalgic Malayalam Hit]]></title>
         <id>https://www.youtube.com/watch?v=dtf1ljuuDzc</id>
@@ -13104,24 +13141,6 @@
         <updated>2025-06-24T00:30:50.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 24th June 2025 # Novena to the Sacred Heart of Jesus 24th June 2025]]></title>
-        <id>https://www.youtube.com/watch?v=j0swzTAC3qs</id>
-        <link href="https://www.youtube.com/watch?v=j0swzTAC3qs"/>
-        <updated>2025-06-23T23:30:16.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ammathan Sneham | Kester | Minmini | Midhula Warrier | Sreya | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dPE2T2n8_cs</id>
-        <link href="https://www.youtube.com/watch?v=dPE2T2n8_cs"/>
-        <updated>2025-06-23T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
