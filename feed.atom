@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T17:13:07.134Z</updated>
+    <updated>2025-07-23T18:13:32.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13275,43 +13275,6 @@
         <updated>2025-06-24T07:00:54.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gopaangane Aathmavile | ഗോപാംഗനേ ആത്മാവിലെ | Bharatham  Malayalam Film Song | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=7Ntsp4Fe9M0</id>
-        <link href="https://www.youtube.com/watch?v=7Ntsp4Fe9M0"/>
-        <updated>2025-06-24T05:50:29.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maaman - Deleted Scene #3 | Soori | Aishwarya Lekshmi | Prasanth Pandiyaraj | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=M32O4qKT8Rs</id>
-        <link href="https://www.youtube.com/watch?v=M32O4qKT8Rs"/>
-        <updated>2025-06-24T05:30:11.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadiyum Paranjum | ദേവരാജൻ മാസ്റ്ററോടൊപ്പമുള്ള അനുഭവങ്ങൾ  | പാടിയും പറഞ്ഞും| M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=grK8rXoTRUI</id>
-        <link href="https://www.youtube.com/watch?v=grK8rXoTRUI"/>
-        <updated>2025-06-24T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanma Niranja | Lovely Jiji | Maria Kolady  #malayalamchristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/dFmUn8grnbc</id>
-        <link href="https://www.youtube.com/shorts/dFmUn8grnbc"/>
-        <updated>2025-06-24T05:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
