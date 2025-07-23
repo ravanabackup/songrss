@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T14:12:34.854Z</updated>
+    <updated>2025-07-23T15:11:27.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manavarayemel Swargathil | മണവറയെ മേൽ | Orthodox Wedding Song | Maria Kolady | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=Cm0ZGBP_yIc</id>
+        <link href="https://www.youtube.com/watch?v=Cm0ZGBP_yIc"/>
+        <updated>2025-07-23T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaithra Nilavinte Video Song | Mammootty | Sudheesh | Shruthi | KJ Yesudas | Johnson |#shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/qaIMj-3wa28</id>
+        <link href="https://www.youtube.com/shorts/qaIMj-3wa28"/>
+        <updated>2025-07-23T14:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Pakalin Idavazhiyil Video Song Is Out Now | Raveendra Nee Evide #shorts]]></title>
+        <id>https://www.youtube.com/shorts/PkzZYr9sWFQ</id>
+        <link href="https://www.youtube.com/shorts/PkzZYr9sWFQ"/>
+        <updated>2025-07-23T14:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The romantic wave #OttaNokku is TRENDING NOW! #sumathivalavu #shorts]]></title>
+        <id>https://www.youtube.com/shorts/0w1uJfy3Vcg</id>
+        <link href="https://www.youtube.com/shorts/0w1uJfy3Vcg"/>
+        <updated>2025-07-23T14:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Malpriyane #manoramachristiansongs #shortsvideo #shorts]]></title>
         <id>https://www.youtube.com/shorts/0c76ZgzbQSc</id>
@@ -13272,26 +13311,6 @@
         <updated>2025-06-24T05:10:47.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Sthuthi En Maname | Christian Shorts #manoramachristiandevotionalsongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/xPkEwwJOWVQ</id>
-        <link href="https://www.youtube.com/shorts/xPkEwwJOWVQ"/>
-        <updated>2025-06-24T03:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Priyane Yeshuve | Shorts | Kester #manoramamusic #manoramachristiansongs #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/2jbV-KRAf2c</id>
-        <link href="https://www.youtube.com/shorts/2jbV-KRAf2c"/>
-        <updated>2025-06-24T03:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
