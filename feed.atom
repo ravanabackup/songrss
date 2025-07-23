@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T09:15:23.269Z</updated>
+    <updated>2025-07-23T10:11:01.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swargam Suvarna Swargam | Lajjaavathi Movie Song | Nostalgic Malayalam Hit]]></title>
+        <id>https://www.youtube.com/watch?v=dtf1ljuuDzc</id>
+        <link href="https://www.youtube.com/watch?v=dtf1ljuuDzc"/>
+        <updated>2025-07-23T09:30:34.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koothambalathil Vecho | കൂത്തമ്പലത്തിൽ വെച്ചോ | Appu  | MG Sreekumar | Mohanlal | Sreekumaran Thampi]]></title>
+        <id>https://www.youtube.com/watch?v=XmfVdXZbb78</id>
+        <link href="https://www.youtube.com/watch?v=XmfVdXZbb78"/>
+        <updated>2025-07-23T09:27:17.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pavanarachezhuthunnu | Vietnam Colony | Mohanlal | Bichu Thirumala |  | Sujatha Mohan | K J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=tILci_1jhJU</id>
