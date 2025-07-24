@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T05:16:39.897Z</updated>
+    <updated>2025-07-24T06:15:32.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thullum Nenjam 🥹 #shreyaghoshal #amritramnath #3bhk #siddharth]]></title>
+        <id>https://www.youtube.com/shorts/vYyOn0RijEI</id>
+        <link href="https://www.youtube.com/shorts/vYyOn0RijEI"/>
+        <updated>2025-07-24T05:58:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pichakappoonkavukalkku 4K | No 20. Madras Mail | Mohanlal | MG Sreekumar | Ouseppachan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=gjEeMrNlA-Q</id>
+        <link href="https://www.youtube.com/watch?v=gjEeMrNlA-Q"/>
+        <updated>2025-07-24T05:33:31.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palanayakare - Video | Maranamass | Basil Joseph | Rajesh Madhavan | Sivaprasad | Tovino Thomas | JK]]></title>
+        <id>https://www.youtube.com/watch?v=gshG_vKzLyg</id>
+        <link href="https://www.youtube.com/watch?v=gshG_vKzLyg"/>
+        <updated>2025-07-24T05:30:11.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Pakalin Idavazhiyil Video Song Is Out Now | Raveendra Nee Evide #shorts]]></title>
+        <id>https://www.youtube.com/shorts/AYP6Zlc4YQw</id>
+        <link href="https://www.youtube.com/shorts/AYP6Zlc4YQw"/>
+        <updated>2025-07-24T05:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hip Hop Malayalam Movie Hit Songs |  Jukebox | Rap & Hip Hop Super Hit Malayalam Movie Songs #rap]]></title>
+        <id>https://www.youtube.com/watch?v=Z03nFs4N2jY</id>
+        <link href="https://www.youtube.com/watch?v=Z03nFs4N2jY"/>
+        <updated>2025-07-24T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വാലിന്മേൽ പൂവും | Vaalinmel Poovum | Pavithram | Mohanlal | Shobhana | M G Sreekumar | Sreevidya]]></title>
         <id>https://www.youtube.com/shorts/6Mru9oeuFm4</id>
@@ -13052,16 +13099,6 @@
         <updated>2025-06-24T19:00:13.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanavellam 💭 #priyaanand #amritramnath #3bhk]]></title>
-        <id>https://www.youtube.com/shorts/DJSEvSVVCY0</id>
-        <link href="https://www.youtube.com/shorts/DJSEvSVVCY0"/>
-        <updated>2025-06-24T17:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
