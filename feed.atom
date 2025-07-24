@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T20:09:44.311Z</updated>
+    <updated>2025-07-24T21:09:54.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13247,24 +13247,6 @@
         <updated>2025-06-25T09:30:21.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Written & Directed By God | Audio Jukebox | Shaan Rahman | Haritha Haribabu | B K Harinarayanan]]></title>
-        <id>https://www.youtube.com/watch?v=jiaO7PH3BCY</id>
-        <link href="https://www.youtube.com/watch?v=jiaO7PH3BCY"/>
-        <updated>2025-06-25T08:51:15.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyane Urangiyille 4K | Nammal Thammil Gireesh Puthacherry Hits | KJ Yesudas | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=7GMGsFuEVJs</id>
-        <link href="https://www.youtube.com/watch?v=7GMGsFuEVJs"/>
-        <updated>2025-06-25T08:24:40.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
