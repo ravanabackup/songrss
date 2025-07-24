@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T21:09:54.380Z</updated>
+    <updated>2025-07-24T22:09:53.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13200,53 +13200,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Karuthuvan Kakkuvan | George Peter Chittur | Shorts #christiansongs]]></title>
-        <id>https://www.youtube.com/shorts/kzhNfWwUTMM</id>
-        <link href="https://www.youtube.com/shorts/kzhNfWwUTMM"/>
-        <updated>2025-06-25T10:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mereya I Written and Directed By God #shortsfeed #shaanrahman]]></title>
-        <id>https://www.youtube.com/shorts/LpOJbWPAjjQ</id>
-        <link href="https://www.youtube.com/shorts/LpOJbWPAjjQ"/>
-        <updated>2025-06-25T10:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirunama Keerthanam Paduvan | തിരുനാമ കീർത്തനം |Fr.Michele Panachikkal|Elizabeth|Match Point Faith|]]></title>
-        <id>https://www.youtube.com/watch?v=WG8tqQXT6cQ</id>
-        <link href="https://www.youtube.com/watch?v=WG8tqQXT6cQ"/>
-        <updated>2025-06-25T09:36:41.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olichirikyan Vallikudilonnu | Aranyakam Movie |  KS Chithra | ഒളിച്ചിരിക്കാൻവള്ളിക്കുടിലൊന്നൊരുക്കി]]></title>
-        <id>https://www.youtube.com/watch?v=_ABqU2C-rKI</id>
-        <link href="https://www.youtube.com/watch?v=_ABqU2C-rKI"/>
-        <updated>2025-06-25T09:30:29.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജാഗ്‌രേ ജാ കല്പനയിടുന്നൊരു രാജാവേ Song song Rathi Manmathan movie | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=gJ_Yr7RgJUs</id>
-        <link href="https://www.youtube.com/watch?v=gJ_Yr7RgJUs"/>
-        <updated>2025-06-25T09:30:21.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
