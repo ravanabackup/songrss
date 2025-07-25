@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T09:14:16.577Z</updated>
+    <updated>2025-07-25T10:10:48.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thennale Thoomanam | തെന്നലേ തൂമണം തൂകുവാ | S Janaki Song | Bichu Thirumala | Jayan Movie Song]]></title>
+        <id>https://www.youtube.com/shorts/jaX_58pKsIQ</id>
+        <link href="https://www.youtube.com/shorts/jaX_58pKsIQ"/>
+        <updated>2025-07-25T10:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Then Kiniyunna Prayam | Silk Smitha Romantic Melody | Idavelakku Sesham | Vani Jairam Hit]]></title>
+        <id>https://www.youtube.com/watch?v=VPznX1WNOrE</id>
+        <link href="https://www.youtube.com/watch?v=VPznX1WNOrE"/>
+        <updated>2025-07-25T09:30:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Jeevanadham | Sheeba Lijo | Praveen M Kumar | Anooj Babu | @JinoKunnumpurathu | #studioversion]]></title>
         <id>https://www.youtube.com/watch?v=sCiDO7X0o3E</id>
