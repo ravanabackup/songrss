@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T05:18:07.438Z</updated>
+    <updated>2025-07-25T06:15:30.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Omal Thamara | Njan Prakashan #fahadhfaasil #shaanrahman #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/K6u5kjnI73g</id>
+        <link href="https://www.youtube.com/shorts/K6u5kjnI73g"/>
+        <updated>2025-07-25T05:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kandu Kandarinju | കണ്ടൂ കണ്ടറിഞ്ഞു | Sangharsham Movie Song | Malayesia Vasudevan | Srividhya Hits]]></title>
         <id>https://www.youtube.com/shorts/kfjApEt0kWA</id>
