@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T08:14:02.131Z</updated>
+    <updated>2025-07-25T09:14:16.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Jeevanadham | Sheeba Lijo | Praveen M Kumar | Anooj Babu | @JinoKunnumpurathu | #studioversion]]></title>
+        <id>https://www.youtube.com/watch?v=sCiDO7X0o3E</id>
+        <link href="https://www.youtube.com/watch?v=sCiDO7X0o3E"/>
+        <updated>2025-07-25T08:38:21.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yajamanan Varumannerathu | യജമാനന്‍ വരുമന്നേരം | Malankara Catholic Church Qurbana|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=6-SMAnqjk7c</id>
+        <link href="https://www.youtube.com/watch?v=6-SMAnqjk7c"/>
+        <updated>2025-07-25T08:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangalamuhoortham | മംഗളമുഹൂർത്തം | Aavesham Movie | Jayan Movie Song | Old Hits | Vani Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=PnZHe-EhVuQ</id>
+        <link href="https://www.youtube.com/watch?v=PnZHe-EhVuQ"/>
+        <updated>2025-07-25T08:20:34.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹൃദയം നുറുങ്ങുന്ന വേദനയിലും കൂട്ടായി നിന്ന മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ  | INTIMATE SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=CcFF0IpUByQ</id>
@@ -572,6 +599,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalvari Malayaile Kurishil | Elizabeth Raju | Fr. Rejo Palliyan VC | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Xt3k0p00QZ8</id>
+        <link href="https://www.youtube.com/watch?v=Xt3k0p00QZ8"/>
+        <updated>2025-07-24T03:54:15.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
