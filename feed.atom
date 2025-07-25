@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T18:13:56.188Z</updated>
+    <updated>2025-07-25T19:09:43.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th July 2025]]></title>
+        <id>https://www.youtube.com/watch?v=DyqsVEnPl6k</id>
+        <link href="https://www.youtube.com/watch?v=DyqsVEnPl6k"/>
+        <updated>2025-07-25T19:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Maname Pakshiganangal… #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
         <id>https://www.youtube.com/shorts/NQfAVnO4sKk</id>
@@ -13250,52 +13259,6 @@
         <updated>2025-06-26T07:33:38.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory Blues | Udumbanchola Vision | Gopi Sundar | Sooraj Santhosh | BK Harinarayanan|Sreenath Bhasi]]></title>
-        <id>https://www.youtube.com/watch?v=toOZtet2Mm8</id>
-        <link href="https://www.youtube.com/watch?v=toOZtet2Mm8"/>
-        <updated>2025-06-26T07:08:27.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാമകഥ ഗാനലയം | Raamakadha Gaanalayam | #Bharatham | Malayalam Film Song | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=wVGlMq68GcI</id>
-        <link href="https://www.youtube.com/watch?v=wVGlMq68GcI"/>
-        <updated>2025-06-26T07:00:30.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khaaleja - Bhoom Shakenaka Video with Lyrics | Mahesh Babu, Anushka | Manisarma]]></title>
-        <id>https://www.youtube.com/watch?v=4_8nJGqobpI</id>
-        <link href="https://www.youtube.com/watch?v=4_8nJGqobpI"/>
-        <updated>2025-06-26T07:00:03.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#thallumaala #thallumaalapaattu #tovinothomas #vishnuvijay #muri #songoftheday #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/shorts/HgB9Qvm6_mc</id>
-        <link href="https://www.youtube.com/shorts/HgB9Qvm6_mc"/>
-        <updated>2025-06-26T06:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3BHK (Tamil) - Jukebox | Siddharth | Sarath Kumar | Sri Ganesh | Amrit Ramnath | Arun Viswa]]></title>
-        <id>https://www.youtube.com/watch?v=Lv-37d2z5Hs</id>
-        <link href="https://www.youtube.com/watch?v=Lv-37d2z5Hs"/>
-        <updated>2025-06-26T06:30:11.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
