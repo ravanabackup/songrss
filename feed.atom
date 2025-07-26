@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T09:09:28.419Z</updated>
+    <updated>2025-07-26T10:09:20.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaishakapournamiyo | വൈശാഖപൗർണ്ണമിയോ | Parinayam Movie | KS Chithra | KJ Yesudas | Bombay Ravi]]></title>
+        <id>https://www.youtube.com/watch?v=s-BXyMMwZ-o</id>
+        <link href="https://www.youtube.com/watch?v=s-BXyMMwZ-o"/>
+        <updated>2025-07-26T10:01:18.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്ര കേട്ടാലും മതിവരാത്ത അത്രമേൽ പ്രിയമുള്ള യുഗ്മ ഗാനങ്ങൾ | DUET SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=yR4u8A5cidw</id>
+        <link href="https://www.youtube.com/watch?v=yR4u8A5cidw"/>
+        <updated>2025-07-26T09:31:32.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaaye Bhadrakali Amme | Jambulingam | Evergreen Devotional Track]]></title>
+        <id>https://www.youtube.com/watch?v=8Zd0l6pAmJg</id>
+        <link href="https://www.youtube.com/watch?v=8Zd0l6pAmJg"/>
+        <updated>2025-07-26T09:30:04.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nambiyampathi Malanirayil | നമ്പിയാമ്പതി മലനിരയിൽ | Avesham Movie | Jayan Movie Song | KJ Yesudas]]></title>
         <id>https://www.youtube.com/shorts/eI7wNc9d3WM</id>
