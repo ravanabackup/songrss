@@ -2625,6 +2625,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0B5juwANtSw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0B5juwANtSw",
+          "publishedOn": "2025-07-26T20:00:00.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന July 27 # Athiravile Prarthana 27th of July 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KwlZR9sqDOE",
           "author": null,
           "description": "",
@@ -6891,16 +6901,6 @@
           "publishedOn": "2025-06-28T07:38:35.000Z",
           "wordCount": null,
           "title": "മലയാളിപ്രേക്ഷകർ കേൾക്കാനാഗ്രഹിച്ച പ്രശസ്ത യുഗ്മ ഗാനങ്ങൾ  | EVERGREEN SONGS MALAYALAM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZYSalZlU_7c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZYSalZlU_7c",
-          "publishedOn": "2025-06-27T07:32:49.000Z",
-          "wordCount": null,
-          "title": "മനസ്സിൽ ഉത്സവമേളം തീർത്ത മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ | MALAYALAM SONGS",
           "imageUrl": null
         }
       ]
