@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T02:45:26.920Z</updated>
+    <updated>2025-07-26T03:51:49.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pottala Muttaye 💥 #riyashibu #sameeha #pradeep #thalaivanthalaivii]]></title>
+        <id>https://www.youtube.com/shorts/MZ6MjAU2Yjc</id>
+        <link href="https://www.youtube.com/shorts/MZ6MjAU2Yjc"/>
+        <updated>2025-07-26T03:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#EnikkenteAasrayam #manoramachristiansongs #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/QtLOMsqwhb4</id>
@@ -13022,16 +13032,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeran Marum | Uncle Lyrical #mammootty #shreyaghoshal #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/3lopvrJ_iIA</id>
-        <link href="https://www.youtube.com/shorts/3lopvrJ_iIA"/>
-        <updated>2025-06-26T15:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
