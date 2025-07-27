@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T14:08:20.068Z</updated>
+    <updated>2025-07-27T15:08:49.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Daivathin Uyarathil | സ്തുതി ദൈവത്തിന്നുയരത്തിൽ | Orthodox Qurbana Song | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=n7fKysHUJfU</id>
+        <link href="https://www.youtube.com/watch?v=n7fKysHUJfU"/>
+        <updated>2025-07-27T15:03:56.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Daivathin | സ്തുതി ദൈവത്തിന്നുയരത്തിൽ | Malankara Catholic Church Qurbana| Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=8rGCMYiuCLA</id>
+        <link href="https://www.youtube.com/watch?v=8rGCMYiuCLA"/>
+        <updated>2025-07-27T14:49:34.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samayamithapoorva | Mammootty | Mohanlal | Kunchako Boban| KJ Yesudas | MG Sreekumar #shorts]]></title>
+        <id>https://www.youtube.com/shorts/oSXw3hbvaqw</id>
+        <link href="https://www.youtube.com/shorts/oSXw3hbvaqw"/>
+        <updated>2025-07-27T14:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶En Rakshaka En Daivame  #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
+        <id>https://www.youtube.com/shorts/O-SES9vp52A</id>
+        <link href="https://www.youtube.com/shorts/O-SES9vp52A"/>
+        <updated>2025-07-27T14:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#EnikkenteAasrayam #Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/mLzGC6LcC8Y</id>
@@ -13160,15 +13198,6 @@
         <updated>2025-06-28T03:30:20.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗീങ്ങൾ/CHRISTIAN DEVOTIONAL SONGS/OWN MEDIA MUSIC COLLECTION.]]></title>
-        <id>https://www.youtube.com/watch?v=t1hHz2KOOXI</id>
-        <link href="https://www.youtube.com/watch?v=t1hHz2KOOXI"/>
-        <updated>2025-06-28T02:13:03.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
