@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T21:08:34.536Z</updated>
+    <updated>2025-07-27T22:09:16.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13126,24 +13126,6 @@
         <updated>2025-06-28T10:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunungi Kunungi | 4K | Pookalam Varavayi | M G sreekumar Hits | Bichu Thirumala | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=gzDq0j0JLgo</id>
-        <link href="https://www.youtube.com/watch?v=gzDq0j0JLgo"/>
-        <updated>2025-06-28T10:04:48.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anjusharangalum | അഞ്ചുശരങ്ങളും...| Parinayam Malyalam Movie | KJ Yesudas Song | Evergreen Song]]></title>
-        <id>https://www.youtube.com/watch?v=gilEv_PR6v8</id>
-        <link href="https://www.youtube.com/watch?v=gilEv_PR6v8"/>
-        <updated>2025-06-28T09:57:22.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
