@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T09:09:42.952Z</updated>
+    <updated>2025-07-27T10:09:44.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kiliye Cherukiliye | Happy Birthday KS Chithra #kschithra #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/tcSCkcEpOn8</id>
+        <link href="https://www.youtube.com/shorts/tcSCkcEpOn8"/>
+        <updated>2025-07-27T09:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaarmukile Vaanil Nee | വാർമുകിലെ വാനിൽ നീ | Mazha Movie | KS Chithra Song | Rvergreen | Samyuktha]]></title>
+        <id>https://www.youtube.com/watch?v=0Lgze4yMlyc</id>
+        <link href="https://www.youtube.com/watch?v=0Lgze4yMlyc"/>
+        <updated>2025-07-27T09:30:00.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vivegam - Surviva Video with Lyrics | Ajith Kumar | Anirudh Ravichander ft. Yogi B, Mali]]></title>
         <id>https://www.youtube.com/watch?v=3hey0rg6Q3g</id>
