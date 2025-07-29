@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T16:12:14.013Z</updated>
+    <updated>2025-07-29T17:13:43.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maname Maname 💙 #aruljothi #pradeepkumar #leonjames #dragon]]></title>
+        <id>https://www.youtube.com/shorts/aeoMNcSGBh0</id>
+        <link href="https://www.youtube.com/shorts/aeoMNcSGBh0"/>
+        <updated>2025-07-29T16:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Down Troddence - Monsoon In Kannur (Music Video) | AYAKTIHIS | Think Originals]]></title>
+        <id>https://www.youtube.com/watch?v=oGsYQWHK0lo</id>
+        <link href="https://www.youtube.com/watch?v=oGsYQWHK0lo"/>
+        <updated>2025-07-29T16:25:11.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vannin Udayon | വാനീന്നുടയോന്‍ | കിരീടം വാഴ്വ് | Orthodox Wedding Song | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=E6FF43B2KH8</id>
@@ -13369,25 +13388,6 @@
         <updated>2025-06-30T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezham Nalu Ayilyam Nalu 4K | Vismayam | K. J. Yesudas | Johnson Hits| S Ramesan Niar]]></title>
-        <id>https://www.youtube.com/watch?v=081MVykRegQ</id>
-        <link href="https://www.youtube.com/watch?v=081MVykRegQ"/>
-        <updated>2025-06-30T05:08:59.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mariya Shinkarathom |Anjana S Kumar #shortsfeed #shortsvideo #tribasong #folksong #naadanpattukal]]></title>
-        <id>https://www.youtube.com/shorts/hYOslZ3UWyo</id>
-        <link href="https://www.youtube.com/shorts/hYOslZ3UWyo"/>
-        <updated>2025-06-30T04:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
