@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T22:09:51.245Z</updated>
+    <updated>2025-07-29T23:09:37.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/GHAXfIN5VrI</id>
+        <link href="https://www.youtube.com/shorts/GHAXfIN5VrI"/>
+        <updated>2025-07-29T23:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂലൈ: 30, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=vkfl8Zul1zY</id>
+        <link href="https://www.youtube.com/watch?v=vkfl8Zul1zY"/>
+        <updated>2025-07-29T22:30:25.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 30 # Athiravile Prarthana 30th of July 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=qgJBODy1d7s</id>
@@ -13275,34 +13294,6 @@
         <updated>2025-06-30T11:45:46.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katte Katte | Celluloid #prithvirajsukumaran #shortsfeed #shortsvideo #reels #shorts #mjayachandran]]></title>
-        <id>https://www.youtube.com/shorts/urkKKlVSctg</id>
-        <link href="https://www.youtube.com/shorts/urkKKlVSctg"/>
-        <updated>2025-06-30T11:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennum Kelkkuvan Ishtapedunna Manohara Kristheeyaganangal | Nonstop Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6KqVHfRHFJM</id>
-        <link href="https://www.youtube.com/watch?v=6KqVHfRHFJM"/>
-        <updated>2025-06-30T10:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kathu Kathoru | 4K | Nammal | Mohan Sithara | Kaithapram Hits | Balu | Gopan | Pushpavathy]]></title>
-        <id>https://www.youtube.com/watch?v=tZovsFIVOAw</id>
-        <link href="https://www.youtube.com/watch?v=tZovsFIVOAw"/>
-        <updated>2025-06-30T10:09:48.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
