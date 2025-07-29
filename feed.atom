@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T21:09:24.961Z</updated>
+    <updated>2025-07-29T22:09:51.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13303,24 +13303,6 @@
         <updated>2025-06-30T10:09:48.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parvanendhumughi Parvathy | പാർവണേന്ദുമുഖി പാർവതി | Parinayam Movie Song | KS Chithra | Bomabay Ravi]]></title>
-        <id>https://www.youtube.com/watch?v=dKbOqcBWt1U</id>
-        <link href="https://www.youtube.com/watch?v=dKbOqcBWt1U"/>
-        <updated>2025-06-30T09:56:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kashmeera Chandrikayo song  Rathi Manmathan movie]]></title>
-        <id>https://www.youtube.com/watch?v=6dIEbcrLFNE</id>
-        <link href="https://www.youtube.com/watch?v=6dIEbcrLFNE"/>
-        <updated>2025-06-30T09:30:05.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
