@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T11:09:12.221Z</updated>
+    <updated>2025-07-30T12:19:59.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flask Original Background Score | Sidhartha Pradeep | Rahul Riji Nair | Saiju Kurup | Suresh Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=mIkJTwn-4WQ</id>
+        <link href="https://www.youtube.com/watch?v=mIkJTwn-4WQ"/>
+        <updated>2025-07-30T11:30:50.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nimishamam Chashakame | നിമിഷമാം ചഷകമേ | Sruthi Movie | KJ Yesudas Song | Balachandran Chullikkadu]]></title>
+        <id>https://www.youtube.com/shorts/bti5zMWJxkE</id>
+        <link href="https://www.youtube.com/shorts/bti5zMWJxkE"/>
+        <updated>2025-07-30T11:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kand Kand - Video | Thalavara | Arjun Ashokan | Revathi Sharma | Akhil Anilkumar | Electronic Kili]]></title>
+        <id>https://www.youtube.com/watch?v=21YcJkhNj7g</id>
+        <link href="https://www.youtube.com/watch?v=21YcJkhNj7g"/>
+        <updated>2025-07-30T11:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വളവിലേക്കുള്ള അനൗൺസ്മെന്റ് വണ്ടി പുറപ്പെട്ടിരിക്കുന്നു. ഇനി വെറും രണ്ട് ദിവസം കൂടി മാത്രം.]]></title>
         <id>https://www.youtube.com/shorts/aYWIg-kn4Vg</id>
