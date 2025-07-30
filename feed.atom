@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T07:15:42.267Z</updated>
+    <updated>2025-07-30T08:14:38.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The heart touching #OruVaazhvinPayanam from #AmAa is out now! #gopisundar #shorts]]></title>
+        <id>https://www.youtube.com/shorts/dRJyAB_jrjM</id>
+        <link href="https://www.youtube.com/shorts/dRJyAB_jrjM"/>
+        <updated>2025-07-30T07:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രേക്ഷകർ ഇരുകയ്യും നീട്ടി സ്വീകരിച്ച മലയാളസിനിമയിലെ അനശ്വര ഗാനങ്ങൾ  | POPULAR  HIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=ubfFz2rJxos</id>
+        <link href="https://www.youtube.com/watch?v=ubfFz2rJxos"/>
+        <updated>2025-07-30T07:30:29.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maari - Don’u Don’u Don’u Video with Lyrics | Dhanush, Kajal | Anirudh]]></title>
         <id>https://www.youtube.com/watch?v=V4X1HTDwrrQ</id>
@@ -13195,15 +13214,6 @@
         <updated>2025-06-30T22:30:00.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 1 # Athiravile Prarthana 1st of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6T9MYJTqhEw</id>
-        <link href="https://www.youtube.com/watch?v=6T9MYJTqhEw"/>
-        <updated>2025-06-30T20:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
