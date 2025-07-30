@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T10:11:53.274Z</updated>
+    <updated>2025-07-30T11:09:12.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വളവിലേക്കുള്ള അനൗൺസ്മെന്റ് വണ്ടി പുറപ്പെട്ടിരിക്കുന്നു. ഇനി വെറും രണ്ട് ദിവസം കൂടി മാത്രം.]]></title>
+        <id>https://www.youtube.com/shorts/aYWIg-kn4Vg</id>
+        <link href="https://www.youtube.com/shorts/aYWIg-kn4Vg"/>
+        <updated>2025-07-30T11:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leelaravindham Chumbichu | ലീലാരവിന്ദം ചുംബിച്ചു | Sruthi | KS Chithra | Balachandran Chullikkadu]]></title>
+        <id>https://www.youtube.com/shorts/PWYd2aPwscg</id>
+        <link href="https://www.youtube.com/shorts/PWYd2aPwscg"/>
+        <updated>2025-07-30T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veezhvena - Video Song | 3BHK | Siddharth |Sarath Kumar | Pradeep Kumar | Sri Ganesh | Amrit Ramnath]]></title>
+        <id>https://www.youtube.com/watch?v=t-MgbzkG2UQ</id>
+        <link href="https://www.youtube.com/watch?v=t-MgbzkG2UQ"/>
+        <updated>2025-07-30T10:55:41.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanamarayathu | കാണാമറയത്ത് | Pradhakshinam Movie Song | KS Chithra | Balachandran Chullikkad]]></title>
+        <id>https://www.youtube.com/shorts/sGupu0-MsIg</id>
+        <link href="https://www.youtube.com/shorts/sGupu0-MsIg"/>
+        <updated>2025-07-30T10:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Mounaraagaminnu 4K | Jayaram | Shruthi | KJ Yesudas | KS Chithra | Berny Ignatius]]></title>
         <id>https://www.youtube.com/watch?v=4Uit1BzeW6E</id>
@@ -13223,25 +13262,6 @@
         <updated>2025-07-01T00:30:10.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/VwgPnbnS260</id>
-        <link href="https://www.youtube.com/shorts/VwgPnbnS260"/>
-        <updated>2025-06-30T23:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 01, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=6HYFPnByEyI</id>
-        <link href="https://www.youtube.com/watch?v=6HYFPnByEyI"/>
-        <updated>2025-06-30T22:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
