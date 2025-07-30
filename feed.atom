@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T16:12:35.600Z</updated>
+    <updated>2025-07-30T17:11:43.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[❤️ All yours now… Ninnodu Parayuvaan – the sweetest melody of love is streaming everywhere!]]></title>
+        <id>https://www.youtube.com/shorts/15qwsbBI3ds</id>
+        <link href="https://www.youtube.com/shorts/15qwsbBI3ds"/>
+        <updated>2025-07-30T17:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs  #music]]></title>
+        <id>https://www.youtube.com/shorts/gU9v2kJsc_w</id>
+        <link href="https://www.youtube.com/shorts/gU9v2kJsc_w"/>
+        <updated>2025-07-30T16:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30 July 2025]]></title>
         <id>https://www.youtube.com/shorts/aACs093Ijus</id>
