@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T13:33:09.906Z</updated>
+    <updated>2025-07-30T14:11:57.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karthane Rajan Nin Balathil | കർത്തനെ രാജൻ നിൻ ബലത്തിൽ | Mar Thoma Wedding Song | Match Point Faith|]]></title>
+        <id>https://www.youtube.com/watch?v=k5F7Lo3GFBs</id>
+        <link href="https://www.youtube.com/watch?v=k5F7Lo3GFBs"/>
+        <updated>2025-07-30T14:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഭൂമിയോളം താഴാൻ മനുഷ്യന് മനസ് നൽകുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Madhu Balakrishnan | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=hr66stD2OEw</id>
@@ -13382,16 +13391,6 @@
         <updated>2025-07-01T05:13:35.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devadidevasuthan | George Peter Chittur | Shorts  #christiansongs #GeorgePeterChittur]]></title>
-        <id>https://www.youtube.com/shorts/f1bRlvAi0ac</id>
-        <link href="https://www.youtube.com/shorts/f1bRlvAi0ac"/>
-        <updated>2025-07-01T02:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
