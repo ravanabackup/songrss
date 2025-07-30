@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T09:16:54.390Z</updated>
+    <updated>2025-07-30T10:11:53.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Mounaraagaminnu 4K | Jayaram | Shruthi | KJ Yesudas | KS Chithra | Berny Ignatius]]></title>
+        <id>https://www.youtube.com/watch?v=4Uit1BzeW6E</id>
+        <link href="https://www.youtube.com/watch?v=4Uit1BzeW6E"/>
+        <updated>2025-07-30T10:11:43.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pookkaitha Pookkunna | January Oru Orma Movie Song | Yesudas | Malayalam Old Melody | HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=uQCiLn98-hs</id>
+        <link href="https://www.youtube.com/watch?v=uQCiLn98-hs"/>
+        <updated>2025-07-30T09:30:26.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സൂര്യനാളം പൊൻ വിളക്കായ് | Sooryanalam ponvilakkayi | Thacholi Varghese Chekavar | Girish Puthencheri]]></title>
         <id>https://www.youtube.com/shorts/qzCe0PIijjY</id>
