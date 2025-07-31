@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T11:09:03.586Z</updated>
+    <updated>2025-07-31T12:17:51.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onam Dance Loading… ⚡🪘 #OnamMood #YTShorts #Shorts]]></title>
+        <id>https://www.youtube.com/shorts/3G87UBf52hY</id>
+        <link href="https://www.youtube.com/shorts/3G87UBf52hY"/>
+        <updated>2025-07-31T12:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazha.. Pranayam.. Haricharan's voice 🥰]]></title>
+        <id>https://www.youtube.com/shorts/uyVVzPSunRk</id>
+        <link href="https://www.youtube.com/shorts/uyVVzPSunRk"/>
+        <updated>2025-07-31T12:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannadi Koodum Kootti | 4K Video Song | Gireesh Puthenchery | Vidyasagar | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=fInJxcpp5WQ</id>
+        <link href="https://www.youtube.com/watch?v=fInJxcpp5WQ"/>
+        <updated>2025-07-31T11:34:27.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Brother Movie Superhit Song | Kalamanodishtam   | Mohanlal | Siddique | Deepak Dev]]></title>
+        <id>https://www.youtube.com/shorts/qpo5j1ilx00</id>
+        <link href="https://www.youtube.com/shorts/qpo5j1ilx00"/>
+        <updated>2025-07-31T11:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The lyrical finesse of Din Nath Puthenchery! ✨]]></title>
         <id>https://www.youtube.com/shorts/k9VnRleZ8VA</id>
@@ -13272,15 +13311,6 @@
         <updated>2025-07-02T00:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits Of Elizabeth Raju Vol 01| Nonstop Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=fRQ_nlp-tvY</id>
-        <link href="https://www.youtube.com/watch?v=fRQ_nlp-tvY"/>
-        <updated>2025-07-01T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
