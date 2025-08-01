@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T05:23:21.952Z</updated>
+    <updated>2025-08-01T06:17:40.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Naanamaavunno | Video Song |Aattakalasam | Mohanlal | KJ Yesudas & Vani Jayaram | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=sE8U7I-afNc</id>
+        <link href="https://www.youtube.com/watch?v=sE8U7I-afNc"/>
+        <updated>2025-08-01T05:35:05.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meda Kulirambili | Sathkala Vijayan #folksong #naadanpaattu #shortsfeed #shorts  #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/shorts/NHPf__soR0w</id>
+        <link href="https://www.youtube.com/shorts/NHPf__soR0w"/>
+        <updated>2025-08-01T05:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maaya Theera Video Song | DNA | Atharvaa | Nimisha Sajayan | Nelson Venkatesan | Anal Akash]]></title>
+        <id>https://www.youtube.com/watch?v=09ZDeYIq0lQ</id>
+        <link href="https://www.youtube.com/watch?v=09ZDeYIq0lQ"/>
+        <updated>2025-08-01T05:30:00.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#കാന്തനേശു #KaanthaneshuVanameghe #RejiAbraham #Kanthanyeshu]]></title>
         <id>https://www.youtube.com/shorts/WSc-LzaYsjQ</id>
