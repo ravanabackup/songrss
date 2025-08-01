@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T15:10:40.696Z</updated>
+    <updated>2025-08-01T16:12:38.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/OUa1Ucw4BbY</id>
+        <link href="https://www.youtube.com/shorts/OUa1Ucw4BbY"/>
+        <updated>2025-08-01T15:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deva Suthane | ദേവ സുതനെ | Mar Thoma Wedding Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=4e_-gv1XmG8</id>
+        <link href="https://www.youtube.com/watch?v=4e_-gv1XmG8"/>
+        <updated>2025-08-01T15:15:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
         <id>https://www.youtube.com/shorts/nyYrxe0KNhs</id>
