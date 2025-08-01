@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T11:09:02.312Z</updated>
+    <updated>2025-08-01T12:19:05.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nilaavinte Neelabhasma | നിലാവിന്‍റെ നീലഭസ്മ |  Gireesh Puthenchery | Mohanlal, Revathi - Agnidevan]]></title>
+        <id>https://www.youtube.com/watch?v=lzoP0Dqrmdo</id>
+        <link href="https://www.youtube.com/watch?v=lzoP0Dqrmdo"/>
+        <updated>2025-08-01T11:38:03.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Kannil - Lofi Flip | Mind Relax Lofi Song | Haricharan | Sayanora | Dulquer Salmaan]]></title>
+        <id>https://www.youtube.com/watch?v=LdUZeqeBlzQ</id>
+        <link href="https://www.youtube.com/watch?v=LdUZeqeBlzQ"/>
+        <updated>2025-08-01T11:30:30.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sangarsha Ghadana - Teaser | Krishand | Vishnu Agasthaya | Rajesh Naroth | Krishand Films]]></title>
+        <id>https://www.youtube.com/watch?v=KIr4ztGbKms</id>
+        <link href="https://www.youtube.com/watch?v=KIr4ztGbKms"/>
+        <updated>2025-08-01T11:30:06.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theeyiluruki | തീയിലുരുക്കി തൃത്തകിടാക്കി | K J Yesudas | Johnson Master| Ponmuttayidunna Thaaravu]]></title>
         <id>https://www.youtube.com/shorts/PkaBSM0JNWE</id>
@@ -13345,15 +13372,6 @@
         <updated>2025-07-03T00:30:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevadhayakan | Fr.Thadeus Aravindath |Jerry Amaldev |Fr.Joseph Palackal | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bNm64yO7VfU</id>
-        <link href="https://www.youtube.com/watch?v=bNm64yO7VfU"/>
-        <updated>2025-07-02T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
