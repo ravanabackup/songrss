@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T03:09:54.834Z</updated>
+    <updated>2025-08-01T04:44:10.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -386,6 +386,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chendarile | Odiyangam | Sithara Krishnakumar | Manikandan | Rijosh | Sunil Subramanian | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=NZD7EMu1494</id>
+        <link href="https://www.youtube.com/watch?v=NZD7EMu1494"/>
+        <updated>2025-07-31T11:22:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -13243,26 +13252,6 @@
         <updated>2025-07-02T19:01:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
-        <id>https://www.youtube.com/shorts/79-apcCjops</id>
-        <link href="https://www.youtube.com/shorts/79-apcCjops"/>
-        <updated>2025-07-02T16:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Song Malayalam | #shortsmalayalam]]></title>
-        <id>https://www.youtube.com/shorts/cGgaVozj2kE</id>
-        <link href="https://www.youtube.com/shorts/cGgaVozj2kE"/>
-        <updated>2025-07-02T15:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
