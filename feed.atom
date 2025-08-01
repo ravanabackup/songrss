@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T22:09:21.017Z</updated>
+    <updated>2025-08-01T23:09:55.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/u-AzfcQJn_c</id>
+        <link href="https://www.youtube.com/shorts/u-AzfcQJn_c"/>
+        <updated>2025-08-01T23:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആഗസ്റ്റ്: 02, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=dw-Bv_V5dxU</id>
+        <link href="https://www.youtube.com/watch?v=dw-Bv_V5dxU"/>
+        <updated>2025-08-01T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 2 # Athiravile Prarthana 2nd of August 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=coAXWBYrCRI</id>
@@ -13401,42 +13420,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alliyilam Poovo | Mangalam Nerunnu | Nedumudi Venu | Baby Shalini - Ilayaraja Hits]]></title>
-        <id>https://www.youtube.com/watch?v=o3iEmi8X0Q0</id>
-        <link href="https://www.youtube.com/watch?v=o3iEmi8X0Q0"/>
-        <updated>2025-07-03T11:01:26.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arikil Video Song | Maalayogam | Sourav Suresh | Hareesh S | Babitha Basheer | Shynas Ilyaz]]></title>
-        <id>https://www.youtube.com/watch?v=IqrUFrlTH6M</id>
-        <link href="https://www.youtube.com/watch?v=IqrUFrlTH6M"/>
-        <updated>2025-07-03T10:30:07.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits Of Sujatha Vol 02 | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=4D1KjPxyhRQ</id>
-        <link href="https://www.youtube.com/watch?v=4D1KjPxyhRQ"/>
-        <updated>2025-07-03T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayilaanchiyaninju | 4K| Maniyan Pilla Adhava Maniyan Pilla | P Madhuri | Devarajan | Evergreen Hits]]></title>
-        <id>https://www.youtube.com/watch?v=Nn8n4wz_lcg</id>
-        <link href="https://www.youtube.com/watch?v=Nn8n4wz_lcg"/>
-        <updated>2025-07-03T10:28:17.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
