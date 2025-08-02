@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T07:09:55.636Z</updated>
+    <updated>2025-08-02T08:12:24.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അള്ളാ അവളെന്റെ പെണ്ണാകണേ |  Allah Avalente | Ennodu Para I Love You Ennu | Vineeth Sreenivasan]]></title>
+        <id>https://www.youtube.com/shorts/D9ZRysu-_oA</id>
+        <link href="https://www.youtube.com/shorts/D9ZRysu-_oA"/>
+        <updated>2025-08-02T08:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അള്ളാ അവളെന്റെ പെണ്ണാകണേ |  Allah Avalente | Ennodu Para I Love You Ennu | Vineeth Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=d9mASHbsNIU</id>
+        <link href="https://www.youtube.com/watch?v=d9mASHbsNIU"/>
+        <updated>2025-08-02T07:30:19.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏതൊരു ശ്രോതാവിന്റെയും മനസ്സിൽ സ്നേഹ സുഗന്ധം  പൂശും മലയാള സിനിമ ഗാനങ്ങൾ | Evergreen Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Yan7kzlcObA</id>
+        <link href="https://www.youtube.com/watch?v=Yan7kzlcObA"/>
+        <updated>2025-08-02T07:30:14.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neerparavai - Para Para Video with Lyrics | Vishnu, Sunaina | N.R. Raghunanthan]]></title>
+        <id>https://www.youtube.com/watch?v=g6s-mbwRgZ4</id>
+        <link href="https://www.youtube.com/watch?v=g6s-mbwRgZ4"/>
+        <updated>2025-08-02T07:00:41.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thedi Thedi - Video | Nanban Oruvan Vantha Piragu|Venkat Prabhu|Ananth Ram | Aishwarya| A H Kaashif]]></title>
         <id>https://www.youtube.com/watch?v=xLDL4F0266Q</id>
@@ -13277,15 +13314,6 @@
         <updated>2025-07-03T22:30:05.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 4 # Athiravile Prarthana 4th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=9UppX_U_IDY</id>
-        <link href="https://www.youtube.com/watch?v=9UppX_U_IDY"/>
-        <updated>2025-07-03T20:00:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
