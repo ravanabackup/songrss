@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T11:07:58.250Z</updated>
+    <updated>2025-08-03T12:17:17.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Detective Ujjwalan - Full Album | Dhyan Sreenivasan | Indraneel Gopeekrishnan, Rahul G | Rzee]]></title>
+        <id>https://www.youtube.com/watch?v=XPoGhiaWxnk</id>
+        <link href="https://www.youtube.com/watch?v=XPoGhiaWxnk"/>
+        <updated>2025-08-03T11:30:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthumazha Konjal | 4K | Big B | Bala | Mamotty | Alphonse Joseph| Jyotsna |Vineeth Sreenivasan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=KgvFVWoCcac</id>
+        <link href="https://www.youtube.com/watch?v=KgvFVWoCcac"/>
+        <updated>2025-08-03T11:30:16.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onam Mood On 🔥💃#OnamMood #YTShorts #Shorts]]></title>
         <id>https://www.youtube.com/shorts/dFWGkqUjI8E</id>
@@ -13262,15 +13280,6 @@
         <updated>2025-07-05T00:30:13.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevajalam | Fr.Thadeus Aravindath | Sujatha | Kester | Swarnalatha | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=kvLOJK-260Y</id>
-        <link href="https://www.youtube.com/watch?v=kvLOJK-260Y"/>
-        <updated>2025-07-04T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
