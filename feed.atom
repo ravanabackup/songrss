@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T07:10:21.437Z</updated>
+    <updated>2025-08-03T08:12:27.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandharapoo Song is Out Now | Raveendra Nee Evide |Anoop Menon #shorts #music]]></title>
+        <id>https://www.youtube.com/shorts/OEwqnbbTKAY</id>
+        <link href="https://www.youtube.com/shorts/OEwqnbbTKAY"/>
+        <updated>2025-08-03T07:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mandharapoo Song is Out Now | Raveendra Nee Evide |Anoop Menon #shorts #music]]></title>
         <id>https://www.youtube.com/shorts/l3Hcgk_2diE</id>
@@ -13241,15 +13251,6 @@
         <updated>2025-07-04T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 5 # Athiravile Prarthana 5th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=vtMfSxViFy4</id>
-        <link href="https://www.youtube.com/watch?v=vtMfSxViFy4"/>
-        <updated>2025-07-04T20:00:45.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
