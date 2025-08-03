@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T03:06:27.996Z</updated>
+    <updated>2025-08-03T04:38:58.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇവിടെ നാം നിലാവിൽ...| Ivide naam | Ennodu Para I Love You Ennu | Hari Sankar | Sruthy Sasidharan]]></title>
+        <id>https://www.youtube.com/watch?v=Ph3OgaIEGCU</id>
+        <link href="https://www.youtube.com/watch?v=Ph3OgaIEGCU"/>
+        <updated>2025-08-03T04:30:13.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadyarathi Neelimayil | Idavelakku Sesham | KJ Yesudas | Silk Smitha | Old Malayalam Song HD]]></title>
+        <id>https://www.youtube.com/watch?v=8RQNflbtPrg</id>
+        <link href="https://www.youtube.com/watch?v=8RQNflbtPrg"/>
+        <updated>2025-08-03T04:30:06.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sarva Sakthananallo | Franko | Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/wy6SHixWjoY</id>
@@ -13212,46 +13230,6 @@
         <updated>2025-07-04T19:00:48.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 July 2025]]></title>
-        <id>https://www.youtube.com/shorts/gbNbk1m98hQ</id>
-        <link href="https://www.youtube.com/shorts/gbNbk1m98hQ"/>
-        <updated>2025-07-04T16:38:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthothram Yeshuve  | സ്തോത്രമേശുവേ | Malayalam Christian devotional Song | Aji Susan | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/ajMx4vWS5aY</id>
-        <link href="https://www.youtube.com/shorts/ajMx4vWS5aY"/>
-        <updated>2025-07-04T16:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎥BTS of our new project with the blessed singer Maria Kolady  #matchpointfaith  #bts]]></title>
-        <id>https://www.youtube.com/shorts/Hzc2RdECcMQ</id>
-        <link href="https://www.youtube.com/shorts/Hzc2RdECcMQ"/>
-        <updated>2025-07-04T16:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/GZTaW0Eo9CU</id>
-        <link href="https://www.youtube.com/shorts/GZTaW0Eo9CU"/>
-        <updated>2025-07-04T15:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
