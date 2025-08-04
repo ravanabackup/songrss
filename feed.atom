@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T03:07:41.692Z</updated>
+    <updated>2025-08-04T04:47:38.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maayam Chollum Maine | Pakalpooram | Mukesh | Geethu Mohandas | KS Chithra | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=ZTogWNuhgD8</id>
+        <link href="https://www.youtube.com/watch?v=ZTogWNuhgD8"/>
+        <updated>2025-08-04T04:39:28.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maname Pakshiganangal | Cicily Abraham | Shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/Vx5sEV_43Do</id>
+        <link href="https://www.youtube.com/shorts/Vx5sEV_43Do"/>
+        <updated>2025-08-04T04:09:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Daivam Ariyathe | Chithra | Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/5mPSAujlBKY</id>
@@ -13091,16 +13110,6 @@
         <updated>2025-07-05T19:00:08.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneer Ennu Marumo| കണ്ണുനീർ എന്ന് മാറുമോ |Christian Devotional song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/h4qbtmnG2ro</id>
-        <link href="https://www.youtube.com/shorts/h4qbtmnG2ro"/>
-        <updated>2025-07-05T15:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
