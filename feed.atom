@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T22:10:09.746Z</updated>
+    <updated>2025-08-04T23:10:04.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/ijyG1_eV9LE</id>
+        <link href="https://www.youtube.com/shorts/ijyG1_eV9LE"/>
+        <updated>2025-08-04T23:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആഗസ്റ്റ്: 05, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=wmSfqYe_ORU</id>
+        <link href="https://www.youtube.com/watch?v=wmSfqYe_ORU"/>
+        <updated>2025-08-04T22:30:13.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 5 # Athiravile Prarthana 5th of August 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=LVaTpX8L2BE</id>
@@ -13296,25 +13315,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raveendra Nee Evide? |Official Teaser Out Now #shorts #anoopmenon #dhyansreenivasan #sheeluabraham]]></title>
-        <id>https://www.youtube.com/shorts/Quq-k-uTYNc</id>
-        <link href="https://www.youtube.com/shorts/Quq-k-uTYNc"/>
-        <updated>2025-07-06T11:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargeeya Tharam | Kester | Wilswaraj | Daleema | Maneesha | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=G8aGHRo1B5I</id>
-        <link href="https://www.youtube.com/watch?v=G8aGHRo1B5I"/>
-        <updated>2025-07-06T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
