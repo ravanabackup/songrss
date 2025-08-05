@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T11:09:59.995Z</updated>
+    <updated>2025-08-05T12:20:23.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മത്താപ്പൂവേ മുത്തു പൊഴിച്ചാട്ടെ | Mathapoove muthu | Balraam Vs Tharadas | Mammootty | Katrina Kaif]]></title>
+        <id>https://www.youtube.com/shorts/CN_jQ4N54HI</id>
+        <link href="https://www.youtube.com/shorts/CN_jQ4N54HI"/>
+        <updated>2025-08-05T12:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smrithikal Oru Mounaraga | 4K | M D Rajendran | Johnson Hits | Saakshyam | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=goeFqroFu0Y</id>
+        <link href="https://www.youtube.com/watch?v=goeFqroFu0Y"/>
+        <updated>2025-08-05T11:57:17.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു പൂവിതളിന്‍ | Oru Poovithalin | Agnidevan Video Song | Mohanlal | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=CI-dtzsdy34</id>
+        <link href="https://www.youtube.com/watch?v=CI-dtzsdy34"/>
+        <updated>2025-08-05T11:56:28.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മത്താപ്പൂവേ മുത്തു പൊഴിച്ചാട്ടെ | Mathapoove muthu | Balraam Vs Tharadas | Mammootty | Katrina Kaif]]></title>
+        <id>https://www.youtube.com/watch?v=PRJqfdLVtBk</id>
+        <link href="https://www.youtube.com/watch?v=PRJqfdLVtBk"/>
+        <updated>2025-08-05T11:30:22.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pottala Muttaye | Thalaivan Thalaivii | Vijay Sethupathi,Nithya Menen |Pandiraaj |Santhosh Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=sWT7S6T0Qzw</id>
+        <link href="https://www.youtube.com/watch?v=sWT7S6T0Qzw"/>
+        <updated>2025-08-05T11:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meesha - Sneak Peek 2 | Emcy Joseph | Kathir | Hakim Shah | Shine Tom Chacko]]></title>
         <id>https://www.youtube.com/watch?v=iJ2yCYCEUSo</id>
@@ -13245,15 +13291,6 @@
         <updated>2025-07-07T00:30:31.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varoo Nadhane Vazhthidam | Kester | Wilson Piravom | Mithila Michael | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=P-0jslGg-eY</id>
-        <link href="https://www.youtube.com/watch?v=P-0jslGg-eY"/>
-        <updated>2025-07-06T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
