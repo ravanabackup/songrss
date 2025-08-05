@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T15:12:48.770Z</updated>
+    <updated>2025-08-05T16:10:26.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kazhchayithil Karthave | കാഴ്ചയിതില്‍ കര്‍ത്താവേ | Qurbana Song | Roy & Maria | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=3O3XJnBQews</id>
+        <link href="https://www.youtube.com/watch?v=3O3XJnBQews"/>
+        <updated>2025-08-05T15:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
+        <id>https://www.youtube.com/shorts/aPmyAIX43vc</id>
+        <link href="https://www.youtube.com/shorts/aPmyAIX43vc"/>
+        <updated>2025-08-05T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paulose Sleeha | പൗലോസ് ശ്ലീഹാ | Malankara Catholic Wedding Song | Roy Puthur | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=kYDEpepQVCY</id>
+        <link href="https://www.youtube.com/watch?v=kYDEpepQVCY"/>
+        <updated>2025-08-05T15:15:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njangalkulla Karthave | ഞങ്ങൾക്കുള്ള കർത്താവേ | Mar Thoma Church Qurbana Song | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=NCe7fG05Fi0</id>
