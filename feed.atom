@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T11:09:34.481Z</updated>
+    <updated>2025-08-06T12:20:34.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malar Manjalil Video Song | King Solomon | Rahman | Sheeba Agarwal| KS Chithra | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=v0AX-9nZvK8</id>
+        <link href="https://www.youtube.com/watch?v=v0AX-9nZvK8"/>
+        <updated>2025-08-06T12:04:05.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dei Maganey - Lyric Video | Paranthu Po | Ram | Shiva | Grace Antony | Santhosh Dhayanithi]]></title>
+        <id>https://www.youtube.com/watch?v=ISR1QC_ugRo</id>
+        <link href="https://www.youtube.com/watch?v=ISR1QC_ugRo"/>
+        <updated>2025-08-06T12:00:49.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Neram Kandillegil | ഒരു നേരം കണ്ടില്ലെങ്കിൽ | Hello Dubaikkaran | Nadirsha | Santhosh Varma]]></title>
+        <id>https://www.youtube.com/watch?v=SXRHUeuBlDA</id>
+        <link href="https://www.youtube.com/watch?v=SXRHUeuBlDA"/>
+        <updated>2025-08-06T11:58:13.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആരോമല്‍ നീ അഭിലാഷം നീ | Aromal Nee | Ee Sabdham Innathe Sabdham Malayalam Film Song | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=edlEeaNJpnU</id>
+        <link href="https://www.youtube.com/watch?v=edlEeaNJpnU"/>
+        <updated>2025-08-06T11:45:22.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manavalan In Trouble -  Official Teaser | Malayalam Action Comedy Short Film | Abinand PE]]></title>
+        <id>https://www.youtube.com/watch?v=YyW1hwaWiGc</id>
+        <link href="https://www.youtube.com/watch?v=YyW1hwaWiGc"/>
+        <updated>2025-08-06T11:30:28.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthikku Yogyanam | Evugin Emmanuel | Jomon Philip | Blemin Babu | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=sb9M-LgHxIU</id>
+        <link href="https://www.youtube.com/watch?v=sb9M-LgHxIU"/>
+        <updated>2025-08-06T11:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Etho Vazhitharayil | ഏതോ വഴിത്താരയിൽ | Chanakyathandhram | Unni Mukundhan | Shan Rahman | Kaithapram]]></title>
         <id>https://www.youtube.com/shorts/8smq7Z0sT_k</id>
@@ -13231,15 +13285,6 @@
         <updated>2025-07-08T00:30:40.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuvinte Vazhiye | Kester | Najim Arshad | Wilson Piravom | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dUA8lmQmpeQ</id>
-        <link href="https://www.youtube.com/watch?v=dUA8lmQmpeQ"/>
-        <updated>2025-07-07T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
