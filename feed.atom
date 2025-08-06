@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T09:17:17.705Z</updated>
+    <updated>2025-08-06T10:12:03.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Etho Vazhitharayil | ഏതോ വഴിത്താരയിൽ | Chanakyathandhram | Unni Mukundhan | Shan Rahman | Kaithapram]]></title>
+        <id>https://www.youtube.com/shorts/8smq7Z0sT_k</id>
+        <link href="https://www.youtube.com/shorts/8smq7Z0sT_k"/>
+        <updated>2025-08-06T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vadaka Veedanu Lokam    Master by Vinu Chacko]]></title>
         <id>https://www.youtube.com/watch?v=qrLisBxYUd4</id>
@@ -76,6 +86,15 @@
         <updated>2025-08-06T05:17:28.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalayi - Video Song | Meesha | Job Kurian | Sooraj S. Kurup | Kathir, Hakim Shah, Shine Tom Chacko]]></title>
+        <id>https://www.youtube.com/watch?v=BDLcpkPQ88E</id>
+        <link href="https://www.youtube.com/watch?v=BDLcpkPQ88E"/>
+        <updated>2025-08-06T05:05:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
