@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T07:16:33.296Z</updated>
+    <updated>2025-08-07T08:14:52.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കേൾക്കുന്ന മാത്രയിൽ ആരുടെയും മിഴി നിറഞ്ഞുപോകുന്ന വിരഹാർദ്രമായ സിനിമാഗാനങ്ങൾ | SAD SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=jhk1e1a1wIs</id>
+        <link href="https://www.youtube.com/watch?v=jhk1e1a1wIs"/>
+        <updated>2025-08-07T07:30:29.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aala Vittodiya Kunjadu Njan | Christian Shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/bU9mxfnjkNo</id>
@@ -13229,15 +13238,6 @@
         <updated>2025-07-08T22:30:13.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 9 # Athiravile Prarthana 9th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Pccg4pii1zI</id>
-        <link href="https://www.youtube.com/watch?v=Pccg4pii1zI"/>
-        <updated>2025-07-08T20:00:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
