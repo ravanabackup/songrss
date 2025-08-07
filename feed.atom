@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T11:09:37.015Z</updated>
+    <updated>2025-08-07T12:20:12.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTS of #NinnoduParayuvaan! #sumathivalavu #shorts]]></title>
+        <id>https://www.youtube.com/shorts/9G5pn87YghA</id>
+        <link href="https://www.youtube.com/shorts/9G5pn87YghA"/>
+        <updated>2025-08-07T11:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalayi - Video Song | Meesha | Job Kurian | Sooraj S. Kurup | Kathir, Hakim Shah, Shine Tom Chacko]]></title>
+        <id>https://www.youtube.com/watch?v=cRSQPvVsQ2U</id>
+        <link href="https://www.youtube.com/watch?v=cRSQPvVsQ2U"/>
+        <updated>2025-08-07T11:48:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadukumanikkoru Kannunde | കടുകുമണിക്കൊരു കണ്ണുണ്ട് | Kappela Movie | Anna Ben | Sithra Krishnakumar]]></title>
+        <id>https://www.youtube.com/shorts/zPkGYVTW170</id>
+        <link href="https://www.youtube.com/shorts/zPkGYVTW170"/>
+        <updated>2025-08-07T11:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanmani Unplugged| Written and Directed By God |Video| Vineeth Sreenivasan |Shaan Rahman|Febi George]]></title>
+        <id>https://www.youtube.com/watch?v=i16iYBK4yEY</id>
+        <link href="https://www.youtube.com/watch?v=i16iYBK4yEY"/>
+        <updated>2025-08-07T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaanaville Minnal Kodiye | വാനവില്ലേ മിന്നൽക്കൊടിയെ | Vakkalathu Narayanankutty Video Song | Jayaram]]></title>
         <id>https://www.youtube.com/watch?v=q15rKTqT-Kg</id>
@@ -13246,15 +13284,6 @@
         <updated>2025-07-09T00:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthama Geethangal | Madhu | Kester | Vidhu | Daleema | Merin Gregory | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pCJgva6gKmY</id>
-        <link href="https://www.youtube.com/watch?v=pCJgva6gKmY"/>
-        <updated>2025-07-08T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
