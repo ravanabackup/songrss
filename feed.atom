@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T16:12:57.374Z</updated>
+    <updated>2025-08-07T17:13:08.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 August 2025]]></title>
+        <id>https://www.youtube.com/shorts/mU_PJxpYEpQ</id>
+        <link href="https://www.youtube.com/shorts/mU_PJxpYEpQ"/>
+        <updated>2025-08-07T16:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Seethai Out Now ❤️🎶 #PaalDabba #Foxn #ThinkIndie]]></title>
         <id>https://www.youtube.com/shorts/5xQCUL0M4ZI</id>
@@ -13443,24 +13453,6 @@
         <updated>2025-07-09T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaval Vennilave | Krithyam | Prithviraj | Vidhu Prathap | Gireesh Puthanchery | D Udayakumar]]></title>
-        <id>https://www.youtube.com/watch?v=5Q6hLTqydw0</id>
-        <link href="https://www.youtube.com/watch?v=5Q6hLTqydw0"/>
-        <updated>2025-07-09T04:31:44.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ragadevanum Nadhakanyayum | രാഗദേവനും നാദകന്യയും | Chamayam Movie | MG Sreekumar | KS Chithra Song]]></title>
-        <id>https://www.youtube.com/watch?v=iFnjFaauNV4</id>
-        <link href="https://www.youtube.com/watch?v=iFnjFaauNV4"/>
-        <updated>2025-07-09T04:30:34.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>

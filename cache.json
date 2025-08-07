@@ -8765,6 +8765,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC1Z1-ER2nUjr66DGTEq9oMA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/mU_PJxpYEpQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mU_PJxpYEpQ",
+          "publishedOn": "2025-08-07T16:34:40.000Z",
+          "wordCount": 2049,
+          "title": "7 August 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hXAQsX9Hb_8",
           "author": null,
           "description": "",
@@ -10209,16 +10219,6 @@
           "publishedOn": "2025-07-09T06:30:02.000Z",
           "wordCount": 2097,
           "title": "Dhoore Dhoore | ദൂരെ ദൂരെസാഗരം തേടി | Varavelppu Mohanlal Movie |KS Chithra | Johnson Master Hits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iFnjFaauNV4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iFnjFaauNV4",
-          "publishedOn": "2025-07-09T04:30:34.000Z",
-          "wordCount": null,
-          "title": "Ragadevanum Nadhakanyayum | രാഗദേവനും നാദകന്യയും | Chamayam Movie | MG Sreekumar | KS Chithra Song",
           "imageUrl": null
         }
       ]
@@ -12183,16 +12183,6 @@
           "publishedOn": "2025-07-11T04:30:38.000Z",
           "wordCount": null,
           "title": "Malaramban Thazhukunna | Chukkan | Sureshgopi | Gouthami | KJ Yesudas | KS Chithra | S P Venkitesh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5Q6hLTqydw0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5Q6hLTqydw0",
-          "publishedOn": "2025-07-09T04:31:44.000Z",
-          "wordCount": null,
-          "title": "Kaval Vennilave | Krithyam | Prithviraj | Vidhu Prathap | Gireesh Puthanchery | D Udayakumar",
           "imageUrl": null
         }
       ]
