@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T02:56:37.618Z</updated>
+    <updated>2025-08-07T04:01:28.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A soulful lullaby by #GopiSundar 💫 #IthalePonnithale is trending with 10K+ reels on Instagram!#amah]]></title>
+        <id>https://www.youtube.com/shorts/tLQvW-h46go</id>
+        <link href="https://www.youtube.com/shorts/tLQvW-h46go"/>
+        <updated>2025-08-07T03:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaa Kannamma 🌸 #aditishankar #heshamabdulwahab #oncemore]]></title>
+        <id>https://www.youtube.com/shorts/5TQPMwd4roA</id>
+        <link href="https://www.youtube.com/shorts/5TQPMwd4roA"/>
+        <updated>2025-08-07T03:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaayo Varika | Odiyangam | Rijosh #malayalammoviesongs]]></title>
         <id>https://www.youtube.com/shorts/l81VOD1BiR8</id>
@@ -448,6 +468,15 @@
         <updated>2025-08-06T04:30:20.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athmavilaake | Niya Sara Soby | Sijo Mathew Jacob | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=G8DRSv1CH34</id>
+        <link href="https://www.youtube.com/watch?v=G8DRSv1CH34"/>
+        <updated>2025-08-06T04:25:36.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -13171,35 +13200,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanne Kanave ❤️🎶 #DNA #Atharvaa #NimishaSajayan #SreekanthHariharan]]></title>
-        <id>https://www.youtube.com/shorts/JTUcA93XxfA</id>
-        <link href="https://www.youtube.com/shorts/JTUcA93XxfA"/>
-        <updated>2025-07-08T15:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/pCb-oNx4LLg</id>
-        <link href="https://www.youtube.com/shorts/pCb-oNx4LLg"/>
-        <updated>2025-07-08T15:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninnu Mahimayoda Rajakumari | നിന്നു മഹിമയോടാ രാജകുമാരി | Orthodox Baptism Song | Match Point Faith|]]></title>
-        <id>https://www.youtube.com/watch?v=Os2OYc2nkJk</id>
-        <link href="https://www.youtube.com/watch?v=Os2OYc2nkJk"/>
-        <updated>2025-07-08T15:15:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
