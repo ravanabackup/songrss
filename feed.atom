@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T14:14:28.928Z</updated>
+    <updated>2025-08-07T15:12:06.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aayiram Kannumay  | Nadiya Moidu | Padmini | KJ Yesudas | Bichu Thirumala | Jerry Amaldev #shorts]]></title>
+        <id>https://www.youtube.com/shorts/K1IEG3tjFQk</id>
+        <link href="https://www.youtube.com/shorts/K1IEG3tjFQk"/>
+        <updated>2025-08-07T14:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandhya Sleeba | വന്ദ്യ സ്ലീബാ തരുവിന്മേൽ | Orthodox Wedding Song | Maria & Bibin |Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=3ks_ob2jnFc</id>
+        <link href="https://www.youtube.com/watch?v=3ks_ob2jnFc"/>
+        <updated>2025-08-07T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhoovake Nammikkum | Malankara Catholic Church Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=lMsESWj6gko</id>
+        <link href="https://www.youtube.com/watch?v=lMsESWj6gko"/>
+        <updated>2025-08-07T14:15:09.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eden Thotta | ഏദൻതോട്ട വിധാതാവേ | Malankara Catholic Wedding Song | Roy Puthur | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=0Uisndv0rls</id>
