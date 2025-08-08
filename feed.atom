@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T14:13:05.007Z</updated>
+    <updated>2025-08-08T15:10:33.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daivasuthar Naam | ദൈവസുതർ നാമായിടുവാൻ | Mar Thoma Church Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=DWUgPgzBGTM</id>
+        <link href="https://www.youtube.com/watch?v=DWUgPgzBGTM"/>
+        <updated>2025-08-08T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjakunji kaalulla Video Song|Minnaram|Mohanlal|Anju|]]></title>
+        <id>https://www.youtube.com/watch?v=y4oWQC39fDU</id>
+        <link href="https://www.youtube.com/watch?v=y4oWQC39fDU"/>
+        <updated>2025-08-08T14:31:12.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priyasakhi Evide Nee Video Song | Fahad Fazil |S Ramesan Nair | Ouseppachan | KJ Yesudas| #shorts]]></title>
+        <id>https://www.youtube.com/shorts/792nQOvEU90</id>
+        <link href="https://www.youtube.com/shorts/792nQOvEU90"/>
+        <updated>2025-08-08T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kelpin Bhoothala Jathikale | കേള്‍പ്പിന്‍ ഭൂതല ജാതികളേ | Orthodox Baptism Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=3bVOrf0JRSU</id>
+        <link href="https://www.youtube.com/watch?v=3bVOrf0JRSU"/>
+        <updated>2025-08-08T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകം മുഴുവനും ഏറ്റുപാടി പ്രാർത്ഥിച്ച പരിശുദ്ധ അമ്മയുടെ അത്ഭുത ഗാനം!! | #worship | #mary | #shorts]]></title>
+        <id>https://www.youtube.com/shorts/_mgq09uLTVA</id>
+        <link href="https://www.youtube.com/shorts/_mgq09uLTVA"/>
+        <updated>2025-08-08T14:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neeyen Kinavo | നീയെൻ കിനാവോ | Hello My Dear Wrong Number Movie | KJ Yesudas | KS Chithra | Mohanlal]]></title>
         <id>https://www.youtube.com/shorts/ToJenWnBGME</id>
