@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T11:09:28.178Z</updated>
+    <updated>2025-08-08T12:19:33.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thu Badi Masha AllaH | തൂ ബഡി മാഷാ അള്ളാ | His Highness Abdullah | KJ Yesudas | Raveendran Master]]></title>
+        <id>https://www.youtube.com/watch?v=Q13Is2wy2Ko</id>
+        <link href="https://www.youtube.com/watch?v=Q13Is2wy2Ko"/>
+        <updated>2025-08-08T12:00:55.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnum Pooppada | പൊന്നും പൂപ്പട | Oru Kadankatha Pole Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=1faeLG_LwP8</id>
+        <link href="https://www.youtube.com/watch?v=1faeLG_LwP8"/>
+        <updated>2025-08-08T11:31:25.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithaloornnu Veena (Reprise) | Cover Video| Thanmathra |Rhithwik S Chand | Kaithapram | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=4XsW9aND7IY</id>
+        <link href="https://www.youtube.com/watch?v=4XsW9aND7IY"/>
+        <updated>2025-08-08T11:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neeyen Kinavo | നീയെൻ കിനാവോ | Hello My Dear Wrong Number Movie | KJ Yesudas | KS Chithra | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=afaCZ7yhUb4</id>
@@ -13247,15 +13274,6 @@
         <updated>2025-07-10T00:30:03.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Ente Yeshuve | Kester | Vidhu | Wilson | Merin Gregory | Evergreen Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=rEi5W1gOsfc</id>
-        <link href="https://www.youtube.com/watch?v=rEi5W1gOsfc"/>
-        <updated>2025-07-09T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
