@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T13:31:33.689Z</updated>
+    <updated>2025-08-08T14:13:05.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neeyen Kinavo | നീയെൻ കിനാവോ | Hello My Dear Wrong Number Movie | KJ Yesudas | KS Chithra | Mohanlal]]></title>
+        <id>https://www.youtube.com/shorts/ToJenWnBGME</id>
+        <link href="https://www.youtube.com/shorts/ToJenWnBGME"/>
+        <updated>2025-08-08T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാള മെലഡിയുടെ ​മാന്ത്രികൻ | Johnson Master Songs | Malayalam Evergreen Film Songs | Saina Music]]></title>
+        <id>https://www.youtube.com/watch?v=KuTt25SuSv8</id>
+        <link href="https://www.youtube.com/watch?v=KuTt25SuSv8"/>
+        <updated>2025-08-08T14:00:06.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shlemon Rajan | ശ്ലേമോൻ രാജൻ വിമലസഭേ | Malankara Catholic Wedding Song |Roy Puthur|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=d4Uu6oDolXI</id>
+        <link href="https://www.youtube.com/watch?v=d4Uu6oDolXI"/>
+        <updated>2025-08-08T14:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകമെങ്ങും ക്രിസ്തീയ ദേവാലയങ്ങളിൽ ഭക്തി തുളുമ്പും ഗാനങ്ങൾ | Wilson Piravom | Superhit Melodies]]></title>
+        <id>https://www.youtube.com/watch?v=NmyYHA_4EPs</id>
+        <link href="https://www.youtube.com/watch?v=NmyYHA_4EPs"/>
+        <updated>2025-08-08T13:58:46.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 August 2025]]></title>
+        <id>https://www.youtube.com/shorts/gX6B2nxJa8A</id>
+        <link href="https://www.youtube.com/shorts/gX6B2nxJa8A"/>
+        <updated>2025-08-08T13:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകം മുഴുവനും ഏറ്റുപാടി പ്രാർത്ഥിച്ച പരിശുദ്ധ അമ്മയുടെ അത്ഭുത ഗാനം!! | #evergreen | #super | #mary]]></title>
         <id>https://www.youtube.com/watch?v=uly28MOOVTc</id>
@@ -13374,16 +13421,6 @@
         <updated>2025-07-10T04:30:04.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Veezhchakalum | Tina Joy #EnteVeezhchakalum #manoramamusic #manoramachristiansongs #tinajoy]]></title>
-        <id>https://www.youtube.com/shorts/7xHOtXNDucg</id>
-        <link href="https://www.youtube.com/shorts/7xHOtXNDucg"/>
-        <updated>2025-07-10T02:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
