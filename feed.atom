@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T17:08:14.112Z</updated>
+    <updated>2025-08-08T18:11:56.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13421,44 +13421,6 @@
         <updated>2025-07-10T07:00:51.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Dheeran Continues to run in theatres with laughter ❤️]]></title>
-        <id>https://www.youtube.com/shorts/z4Spjqs2bpU</id>
-        <link href="https://www.youtube.com/shorts/z4Spjqs2bpU"/>
-        <updated>2025-07-10T06:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൽക്കണ്ടം ചുണ്ടിൽ  | Kalkandam Chundil | Onnanu Nammal Hit Movie Song | Mammootty | Seema]]></title>
-        <id>https://www.youtube.com/watch?v=v-jIx0U_qr8</id>
-        <link href="https://www.youtube.com/watch?v=v-jIx0U_qr8"/>
-        <updated>2025-07-10T05:42:05.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Naal Annorunaal | Four Friends | Lyrical + Karaoke Video| Karthik | Kaithapram | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=2ThOglD_U3k</id>
-        <link href="https://www.youtube.com/watch?v=2ThOglD_U3k"/>
-        <updated>2025-07-10T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Mizhiyethetho #Jagalafilm #SreedevKappur #MidhunMalayalam]]></title>
-        <id>https://www.youtube.com/shorts/0KsXlWeM_hM</id>
-        <link href="https://www.youtube.com/shorts/0KsXlWeM_hM"/>
-        <updated>2025-07-10T05:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
