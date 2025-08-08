@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T05:20:24.361Z</updated>
+    <updated>2025-08-08T06:17:02.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rekhachithram - Score | Asif Ali | Anaswara Rajan|Jofin T Chacko |Mujeeb Majeed|Venu Kunnappilly]]></title>
+        <id>https://www.youtube.com/watch?v=zxZeolatqmY</id>
+        <link href="https://www.youtube.com/watch?v=zxZeolatqmY"/>
+        <updated>2025-08-08T05:30:07.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enthedi Enthedi 4K Video Song | Shikkar | Mohanlal | Sneha | KS Chithra | Sudeep Kumar]]></title>
         <id>https://www.youtube.com/watch?v=epUcJVdkido</id>
@@ -13237,16 +13246,6 @@
         <updated>2025-07-09T19:00:57.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megamo Aval ♥️ #chaithraachar #pradeepkumar]]></title>
-        <id>https://www.youtube.com/shorts/o3KHFv9kw00</id>
-        <link href="https://www.youtube.com/shorts/o3KHFv9kw00"/>
-        <updated>2025-07-09T17:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
