@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T20:09:44.429Z</updated>
+    <updated>2025-08-09T21:07:55.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13502,15 +13502,6 @@
         <updated>2025-07-11T09:28:26.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing Doing - Video Song | Flask | Saiju Kurup |Rahul Riji Nair |Sidhartha Pradeep |Suresh Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=_NR8D-zgcSk</id>
-        <link href="https://www.youtube.com/watch?v=_NR8D-zgcSk"/>
-        <updated>2025-07-11T08:28:06.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
