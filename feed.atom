@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T14:08:30.919Z</updated>
+    <updated>2025-08-09T15:08:37.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sundarikalil Athi | സുന്ദരികളിൽ അതി സുന്ദരി | Orthodox Wedding Song |Maria Kolady |Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=H38gYaJqsWQ</id>
+        <link href="https://www.youtube.com/watch?v=H38gYaJqsWQ"/>
+        <updated>2025-08-09T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Church Niranam, St. Marys  Songs & Prayers #bts]]></title>
+        <id>https://www.youtube.com/shorts/qlvtp2HQgio</id>
+        <link href="https://www.youtube.com/shorts/qlvtp2HQgio"/>
+        <updated>2025-08-09T14:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katte Nee Veesharuthippol Thirunelloor Karunakaran | MG Radhakrishnan | KS Chithra #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/XlIKaaaDcQA</id>
+        <link href="https://www.youtube.com/shorts/XlIKaaaDcQA"/>
+        <updated>2025-08-09T14:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakkuka Nadha Sleebayal | കാക്കുക നാഥാ സ്ലീബായാൽ | Orthodox Baptism Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=bYj0X-OHnXg</id>
+        <link href="https://www.youtube.com/watch?v=bYj0X-OHnXg"/>
+        <updated>2025-08-09T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadha Kripa Chaiyenam | നാഥാ കൃപചെയ്യണമലിവാൽ | Malankara Catholic Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=KxUqoTI-7xs</id>
+        <link href="https://www.youtube.com/watch?v=KxUqoTI-7xs"/>
+        <updated>2025-08-09T14:15:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaanaadhoorathano | Madanolsavam | Suraj Venjaramoodu | Bhama Arun | Christo Xavier]]></title>
         <id>https://www.youtube.com/shorts/x78zs6s53DE</id>
@@ -13453,16 +13500,6 @@
         <updated>2025-07-11T04:30:38.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MaanithaManore #Jagalafilm #SreedevKappur #MidhunMalayalam]]></title>
-        <id>https://www.youtube.com/shorts/3YMvduUOvOg</id>
-        <link href="https://www.youtube.com/shorts/3YMvduUOvOg"/>
-        <updated>2025-07-11T03:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
