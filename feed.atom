@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T11:07:50.137Z</updated>
+    <updated>2025-08-09T12:16:32.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ilakozhiye | Thalavara | Arjun Ashokan |Revathy | Mahesh Narayanan| Akhil Anilkumar| Electronic Kili]]></title>
+        <id>https://www.youtube.com/watch?v=twj8km5MjE8</id>
+        <link href="https://www.youtube.com/watch?v=twj8km5MjE8"/>
+        <updated>2025-08-09T11:35:55.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellaram Kunnileri | Swapna Sanchari #jayaram #sudeepkumar #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/ABy10HpwiQA</id>
+        <link href="https://www.youtube.com/shorts/ABy10HpwiQA"/>
+        <updated>2025-08-09T11:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mahavatar Narsimha Success Trailer - Malayalam | Ashwin Kumar | Hombale Films | In Cinemas Now]]></title>
         <id>https://www.youtube.com/watch?v=GXvmo0A-NOo</id>
