@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T21:07:55.112Z</updated>
+    <updated>2025-08-09T22:08:52.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13475,33 +13475,6 @@
         <updated>2025-07-11T11:12:49.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poo Nilavo Palzhiyo | 4K | Biju Narayanan | K S Chithra | Biju Narayanan | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=5QJ_WKhW3AQ</id>
-        <link href="https://www.youtube.com/watch?v=5QJ_WKhW3AQ"/>
-        <updated>2025-07-11T09:42:58.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudumayil Arimulla – Romantic Melody from Rathimanmadhan | Malayalam Evergreen Song]]></title>
-        <id>https://www.youtube.com/watch?v=3R8DjxBtzqg</id>
-        <link href="https://www.youtube.com/watch?v=3R8DjxBtzqg"/>
-        <updated>2025-07-11T09:30:02.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathivum Pathirum | Morpheus | Amal Irfan | Anwar Sadath | King Orekh | Biju Unity]]></title>
-        <id>https://www.youtube.com/watch?v=16WgOVkRpzM</id>
-        <link href="https://www.youtube.com/watch?v=16WgOVkRpzM"/>
-        <updated>2025-07-11T09:28:26.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
