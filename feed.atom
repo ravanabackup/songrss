@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T10:11:18.541Z</updated>
+    <updated>2025-08-11T11:09:40.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[⚡🐎 1 MILLION+ views and counting — thank you for riding along with "Odum Kuthira Chaadum Kuthira"!]]></title>
+        <id>https://www.youtube.com/shorts/fXvPBPlg9Kc</id>
+        <link href="https://www.youtube.com/shorts/fXvPBPlg9Kc"/>
+        <updated>2025-08-11T10:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennodu Para I Love You Ennu | Allah Avalente Pennakan | Vineeth Sreenivasan]]></title>
+        <id>https://www.youtube.com/shorts/FWhA6cDKKDg</id>
+        <link href="https://www.youtube.com/shorts/FWhA6cDKKDg"/>
+        <updated>2025-08-11T10:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuyil Paadum | Aaraam Thampuran | M G Sreekumar | Sujatha Mohan | Raveendran  | Mohanlal Hits]]></title>
+        <id>https://www.youtube.com/watch?v=hJzNxXL9eKo</id>
+        <link href="https://www.youtube.com/watch?v=hJzNxXL9eKo"/>
+        <updated>2025-08-11T10:20:39.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാരിവിൽ മാനത്ത് | Maarivil Maanathu | Pattabhiraman Movie Song | KS Chithra | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=j2hm4QJ20zU</id>
@@ -13285,25 +13314,6 @@
         <updated>2025-07-13T00:30:17.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/C4G3XAOPQPs</id>
-        <link href="https://www.youtube.com/shorts/C4G3XAOPQPs"/>
-        <updated>2025-07-12T23:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 13, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=BeDGYW-f318</id>
-        <link href="https://www.youtube.com/watch?v=BeDGYW-f318"/>
-        <updated>2025-07-12T22:30:04.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
