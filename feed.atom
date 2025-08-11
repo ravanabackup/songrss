@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T08:15:23.689Z</updated>
+    <updated>2025-08-11T09:15:44.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാരിവിൽ മാനത്ത് | Maarivil Maanathu | Pattabhiraman Movie Song | KS Chithra | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=j2hm4QJ20zU</id>
+        <link href="https://www.youtube.com/watch?v=j2hm4QJ20zU"/>
+        <updated>2025-08-11T08:49:32.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Sundara Bharathabhoomi | Patriotic Songs #EnteSundaraBharatha #JoyPalakkamoola #SibiDevassya]]></title>
         <id>https://www.youtube.com/shorts/JRexg1iVVAU</id>
@@ -32,6 +41,15 @@
         <updated>2025-08-11T07:09:33.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve En Nadhane | El-Shaddai Church,Sydney | Manu Puthuppally | Malayalam Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=l5xKRunHvHc</id>
+        <link href="https://www.youtube.com/watch?v=l5xKRunHvHc"/>
+        <updated>2025-08-11T06:45:46.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
