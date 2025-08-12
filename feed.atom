@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T05:10:47.500Z</updated>
+    <updated>2025-08-12T06:15:27.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ചിരിക്കുമ്പോള്‍ കൂടെച്ചിരിക്കാന്‍ | Chirikubol Koode Chirikkan | Kadal  Malayalam Clssic Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=daEG15THP5I</id>
+        <link href="https://www.youtube.com/watch?v=daEG15THP5I"/>
+        <updated>2025-08-12T05:56:57.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thithinam Thaka | Anjana S Kumar | Tribal song #folksong #naadanpaattu #shortsfeed #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/E8ENLwTGK1Y</id>
+        <link href="https://www.youtube.com/shorts/E8ENLwTGK1Y"/>
+        <updated>2025-08-12T05:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mohikkum Neelmizhiyode 4K Video Song | Maanthrikam | Mohanlal Hits | K J Yesudas | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=hDVPRZ3crgg</id>
+        <link href="https://www.youtube.com/watch?v=hDVPRZ3crgg"/>
+        <updated>2025-08-12T05:11:03.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Sundara Bharathabhoomi | Patriotic Songs #EnteSundaraBharatha #JoyPalakkamoola #SibiDevassya]]></title>
         <id>https://www.youtube.com/shorts/LkDd3xVRbTo</id>
@@ -13410,16 +13438,6 @@
         <updated>2025-07-13T19:00:21.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhithunaiye 🎶 #sidsriram #leonjames #dragon]]></title>
-        <id>https://www.youtube.com/shorts/7iZqJmzJifA</id>
-        <link href="https://www.youtube.com/shorts/7iZqJmzJifA"/>
-        <updated>2025-07-13T17:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
