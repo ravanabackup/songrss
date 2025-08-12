@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T14:10:14.266Z</updated>
+    <updated>2025-08-12T15:10:20.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/fUltA8qV8O4</id>
+        <link href="https://www.youtube.com/shorts/fUltA8qV8O4"/>
+        <updated>2025-08-12T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mashiha Thampurante | മ്ശിഹാ തമ്പുരാന്റെ | Mar Thoma Church Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=Y6j0y5JRu-A</id>
+        <link href="https://www.youtube.com/watch?v=Y6j0y5JRu-A"/>
+        <updated>2025-08-12T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shubhachinam Than | ശുഭചിഹ്നം താൻ | Malankara Catholic Wedding Song | Roy Puthur | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=cYLKltEKG0I</id>
+        <link href="https://www.youtube.com/watch?v=cYLKltEKG0I"/>
+        <updated>2025-08-12T14:45:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/7PcqC0efmrs</id>
+        <link href="https://www.youtube.com/shorts/7PcqC0efmrs"/>
+        <updated>2025-08-12T14:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyonyam Slomo Nalkin | അന്യോന്യം ശ്ലോമ്മോ നൽകിൻ | Malankara Catholic Qurbana Song|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=7N7bs7MmC8E</id>
+        <link href="https://www.youtube.com/watch?v=7N7bs7MmC8E"/>
+        <updated>2025-08-12T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazthuka Nee Maname | വാഴ്ത്തുക നീ |Christian Devotional Song Malayalam| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/BNiUhpq9_Zs</id>
+        <link href="https://www.youtube.com/shorts/BNiUhpq9_Zs"/>
+        <updated>2025-08-12T14:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രിയ ഗായകരുടെ പ്രിയപ്പെട്ടഗാനങ്ങൾ | Kester | Christian Melody Songs | Chithra Arun | Manoj Christy]]></title>
         <id>https://www.youtube.com/watch?v=6WeLu6WtNaM</id>
@@ -40,6 +97,15 @@
         <updated>2025-08-12T13:30:05.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana songs| മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr Kris Sebi]]></title>
+        <id>https://www.youtube.com/watch?v=XYcNWqUwB5E</id>
+        <link href="https://www.youtube.com/watch?v=XYcNWqUwB5E"/>
+        <updated>2025-08-12T13:21:36.000Z</updated>
+        <author>
+            <name>Music Spread</name>
         </author>
     </entry>
     <entry>
@@ -13543,16 +13609,6 @@
         <id>https://www.youtube.com/shorts/HShq7b8wHrU</id>
         <link href="https://www.youtube.com/shorts/HShq7b8wHrU"/>
         <updated>2025-07-14T03:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ThudareAlbumSong #AnsaTheresMathew #JyothishKassi #AnandhuSAcharya]]></title>
-        <id>https://www.youtube.com/shorts/2_oB3uSeRx0</id>
-        <link href="https://www.youtube.com/shorts/2_oB3uSeRx0"/>
-        <updated>2025-07-14T03:00:02.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
