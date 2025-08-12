@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T10:10:54.965Z</updated>
+    <updated>2025-08-12T11:08:51.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ishttamanu Ishttamanenikku | ഇഷ്ട്ടമാണിഷ്ട്ടമാണ് എനിക്ക് നിൻ മുഖം | Kannadi Kadakathu | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=SN5Q-zH5AUU</id>
+        <link href="https://www.youtube.com/watch?v=SN5Q-zH5AUU"/>
+        <updated>2025-08-12T10:17:49.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[st Marys songs, mother mary Orthodox songs, Shoonoyo Nomb, Vangippu perunnal]]></title>
         <id>https://www.youtube.com/shorts/dg026kKxUrw</id>
@@ -50,6 +59,15 @@
         <updated>2025-08-12T05:56:57.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Muthum Thedi SneakPeek | Sahasam | Ramzan | Gouri | Babu Antony | Narain | Aju Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=UOZz-0X44VE</id>
+        <link href="https://www.youtube.com/watch?v=UOZz-0X44VE"/>
+        <updated>2025-08-12T05:36:47.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
@@ -13438,25 +13456,6 @@
         <updated>2025-07-14T00:30:46.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/hf1g9NgYNzA</id>
-        <link href="https://www.youtube.com/shorts/hf1g9NgYNzA"/>
-        <updated>2025-07-13T23:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 14, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=5vYtB8t180Q</id>
-        <link href="https://www.youtube.com/watch?v=5vYtB8t180Q"/>
-        <updated>2025-07-13T22:30:01.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
