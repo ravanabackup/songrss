@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T11:08:51.803Z</updated>
+    <updated>2025-08-12T12:18:11.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veyilirangum Nadavarambil | നേരാണു നേരാണു നേരാണെടീ | Neranu Neranu Neranedi | Mammootty]]></title>
+        <id>https://www.youtube.com/shorts/8aE_-6EkZL8</id>
+        <link href="https://www.youtube.com/shorts/8aE_-6EkZL8"/>
+        <updated>2025-08-12T11:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spark of The Paradise (Malayalam) | Sequence Wrap Video | Nani | Srikanth Odela |Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=crLJ23AF9pk</id>
+        <link href="https://www.youtube.com/watch?v=crLJ23AF9pk"/>
+        <updated>2025-08-12T11:05:24.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanive - Lyrical | Soothravakyam | Soothravakyam | Vincy Aloshious, Shine Tom Chacko |Jean P Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=R3jvVN2uecU</id>
+        <link href="https://www.youtube.com/watch?v=R3jvVN2uecU"/>
+        <updated>2025-08-12T10:19:18.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ishttamanu Ishttamanenikku | ഇഷ്ട്ടമാണിഷ്ട്ടമാണ് എനിക്ക് നിൻ മുഖം | Kannadi Kadakathu | Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=SN5Q-zH5AUU</id>
