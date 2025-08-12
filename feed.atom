@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T15:10:20.941Z</updated>
+    <updated>2025-08-12T16:12:13.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/vizAD1e7rII</id>
+        <link href="https://www.youtube.com/shorts/vizAD1e7rII"/>
+        <updated>2025-08-12T16:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/s6qNiJjXPMc</id>
+        <link href="https://www.youtube.com/shorts/s6qNiJjXPMc"/>
+        <updated>2025-08-12T15:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karthavu Arulicheythu | കർത്താവരുളിച്ചെയ്തു | Orthodox Qurbana Song | Roy &  Maria|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=9t91GKZMitU</id>
+        <link href="https://www.youtube.com/watch?v=9t91GKZMitU"/>
+        <updated>2025-08-12T15:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/fUltA8qV8O4</id>
@@ -13602,16 +13631,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manya Maha Janangale | Band Video #shaanrahman #vineethsreenivasan #coversong #unplugged #shortsfeed]]></title>
-        <id>https://www.youtube.com/shorts/HShq7b8wHrU</id>
-        <link href="https://www.youtube.com/shorts/HShq7b8wHrU"/>
-        <updated>2025-07-14T03:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
