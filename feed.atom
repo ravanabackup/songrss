@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T06:15:07.515Z</updated>
+    <updated>2025-08-13T07:12:01.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പറയാതെ വയ്യെൻ ഉയിരേ | Parayaathe Vayyen Uyire | Kottaram Vaidyan Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=CT2nca9L8rU</id>
+        <link href="https://www.youtube.com/watch?v=CT2nca9L8rU"/>
+        <updated>2025-08-13T06:15:00.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tharamai Thinkalai | താരമായ് തിങ്കളായ് | Ann Maria Kalippilanu | Sachin Warrier | Shan Rahman]]></title>
         <id>https://www.youtube.com/watch?v=R2-DH1FUhp0</id>
@@ -13422,15 +13431,6 @@
         <id>https://www.youtube.com/watch?v=u0uUlW1X9_o</id>
         <link href="https://www.youtube.com/watch?v=u0uUlW1X9_o"/>
         <updated>2025-07-14T20:00:40.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th July 2025]]></title>
-        <id>https://www.youtube.com/watch?v=cvBXeqzwsow</id>
-        <link href="https://www.youtube.com/watch?v=cvBXeqzwsow"/>
-        <updated>2025-07-14T19:00:27.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
