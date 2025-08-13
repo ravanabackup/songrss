@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T17:07:45.211Z</updated>
+    <updated>2025-08-13T18:14:06.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13735,33 +13735,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കിലുകിൽ പമ്പരം | Kilukil Pambaram Full Song | Kilukkam Malayalam Movie | Mohanlal | Revathi]]></title>
-        <id>https://www.youtube.com/watch?v=X2O94-8HpcU</id>
-        <link href="https://www.youtube.com/watch?v=X2O94-8HpcU"/>
-        <updated>2025-07-15T06:03:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOLLYWOOD DANCE HITS | Video Jukebox | മലയാളം ഡാൻസ് സിനിമാഗാനങ്ങൻ | Malayalam Film Dance Hits]]></title>
-        <id>https://www.youtube.com/watch?v=8G0-fKWeRcA</id>
-        <link href="https://www.youtube.com/watch?v=8G0-fKWeRcA"/>
-        <updated>2025-07-15T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hrudayathin Nombaramellam | Christian Melody Songs | Wilson Piravom | Benny Pandalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=F5VnpAG6uXg</id>
-        <link href="https://www.youtube.com/watch?v=F5VnpAG6uXg"/>
-        <updated>2025-07-15T05:16:40.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
