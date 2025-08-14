@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T11:08:55.119Z</updated>
+    <updated>2025-08-14T12:18:52.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amme Bharathame Song | Independence Day Patriotic Song | Sankar Mahadevan | Thej Mervin]]></title>
+        <id>https://www.youtube.com/watch?v=nVdtflln8q0</id>
+        <link href="https://www.youtube.com/watch?v=nVdtflln8q0"/>
+        <updated>2025-08-14T11:49:58.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അല്ലിയിളം പൂവോ | Alliyilam Poovo | Mangalam Nerunnu Movie Song | Nedumudi Venu | Baby Shalini]]></title>
+        <id>https://www.youtube.com/watch?v=Xe8GUdKMwpw</id>
+        <link href="https://www.youtube.com/watch?v=Xe8GUdKMwpw"/>
+        <updated>2025-08-14T11:42:20.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orikkal Nee Chirichal | ഒരിക്കൽ നീ  ചിരിച്ചാൽ | Appu Movie | MG Sreekumar | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/shorts/18XKxOeh4cs</id>
+        <link href="https://www.youtube.com/shorts/18XKxOeh4cs"/>
+        <updated>2025-08-14T11:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachai Vayal Elelo |Prijini Satheeshan | Rijosh | Odiyangam |Sunil Subramanian | Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=QW5SNqFv5sk</id>
+        <link href="https://www.youtube.com/watch?v=QW5SNqFv5sk"/>
+        <updated>2025-08-14T11:27:31.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Sundara Bharathabhoomi | PatrioticSongs2025 #EnteSundaraBharatha #JoyPalakkamoola #SibiDevassya]]></title>
         <id>https://www.youtube.com/shorts/WqD32_C5mrk</id>
