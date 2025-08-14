@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T21:08:43.285Z</updated>
+    <updated>2025-08-14T22:09:01.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13754,33 +13754,6 @@
         <updated>2025-07-16T10:30:07.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vagdhana Pedakam Ft. Shanavas, Br Anil, Jinu,Ryan, Ralfin latest Marian Song Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=zCLW74PF94g</id>
-        <link href="https://www.youtube.com/watch?v=zCLW74PF94g"/>
-        <updated>2025-07-16T09:57:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അണ്ണന്റെ ഹൃദയമല്ലോ Old Malayalam Movie Song l Ellam Ninak Vendi movie l Sukumaran, Sumalatha]]></title>
-        <id>https://www.youtube.com/watch?v=udzQ7DfkBX0</id>
-        <link href="https://www.youtube.com/watch?v=udzQ7DfkBX0"/>
-        <updated>2025-07-16T09:30:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സാമഗാനാലയഭാവം | Samagaanalayabhavam | Oottypattanam Movie Song | K J Yesudas | Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=uHNen27RDAs</id>
-        <link href="https://www.youtube.com/watch?v=uHNen27RDAs"/>
-        <updated>2025-07-16T09:29:16.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
