@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T17:09:06.962Z</updated>
+    <updated>2025-08-14T18:14:00.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/yB-zAkV36FM</id>
+        <link href="https://www.youtube.com/shorts/yB-zAkV36FM"/>
+        <updated>2025-08-14T18:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orthodox St. Mary's songs  | Mother Mary Songs | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/bLkH8ZqHArk</id>
+        <link href="https://www.youtube.com/shorts/bLkH8ZqHArk"/>
+        <updated>2025-08-14T17:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
         <id>https://www.youtube.com/shorts/85wqAcVWWMo</id>
@@ -13770,53 +13790,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shiva song "Shaivam | Adoring Shiva"]]></title>
-        <id>https://www.youtube.com/shorts/mamMSLAHn9s</id>
-        <link href="https://www.youtube.com/shorts/mamMSLAHn9s"/>
-        <updated>2025-07-16T06:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 6 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith||]]></title>
-        <id>https://www.youtube.com/watch?v=VuuCFiBcack</id>
-        <link href="https://www.youtube.com/watch?v=VuuCFiBcack"/>
-        <updated>2025-07-16T05:57:39.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omal Chiriyo | ഓമൽ ചിരിയോ | Georgettans Pooram Movie Song | Rajisha Vijayan | Dileep | Ramshi]]></title>
-        <id>https://www.youtube.com/shorts/bU4J8HYB_lQ</id>
-        <link href="https://www.youtube.com/shorts/bU4J8HYB_lQ"/>
-        <updated>2025-07-16T05:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sumangali Kuruvi | 4K | Azhakiya Ravanan | Mammootty | Sreenivasan | Bhanupriya | Vidyasagar Hits]]></title>
-        <id>https://www.youtube.com/watch?v=cG9fG4HbY_U</id>
-        <link href="https://www.youtube.com/watch?v=cG9fG4HbY_U"/>
-        <updated>2025-07-16T05:34:30.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattinkarayorathe | Rasathanthram | Video Song | Mohanlal | Sathyan Anthikkad | Ilayaraja | Manjari]]></title>
-        <id>https://www.youtube.com/watch?v=u1LNQwPwuAA</id>
-        <link href="https://www.youtube.com/watch?v=u1LNQwPwuAA"/>
-        <updated>2025-07-16T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
