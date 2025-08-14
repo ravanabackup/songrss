@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T05:11:45.880Z</updated>
+    <updated>2025-08-14T06:15:08.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vande Matharam Mashup | Patriotic Songs | Shorts]]></title>
+        <id>https://www.youtube.com/shorts/GyauNBYSeBA</id>
+        <link href="https://www.youtube.com/shorts/GyauNBYSeBA"/>
+        <updated>2025-08-14T06:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idi Mazhai Video Song | 3BHK | Siddharth | Sarath Kumar| Amrit Ramnath | Paal Dabba | Sri Ganesh]]></title>
+        <id>https://www.youtube.com/watch?v=JpATDySmPTA</id>
+        <link href="https://www.youtube.com/watch?v=JpATDySmPTA"/>
+        <updated>2025-08-14T05:30:08.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum  | P Jayachandran | പാടിയത് 150 ലേറെ സംഗീത സംവിധായകർക്ക് വേണ്ടി | പാടിയും പറഞ്ഞും]]></title>
+        <id>https://www.youtube.com/watch?v=BCM-yV4fCRM</id>
+        <link href="https://www.youtube.com/watch?v=BCM-yV4fCRM"/>
+        <updated>2025-08-14T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Cycle ♥️ #priyaanand #govindvasantha #meiyazhagan]]></title>
+        <id>https://www.youtube.com/shorts/BsC64wOUBiU</id>
+        <link href="https://www.youtube.com/shorts/BsC64wOUBiU"/>
+        <updated>2025-08-14T05:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Sundara Bharathabhoomi | PatrioticSongs2025 #EnteSundaraBharatha #JoyPalakkamoola #SibiDevassya]]></title>
         <id>https://www.youtube.com/shorts/l17ebsGYoxI</id>
