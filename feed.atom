@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T10:10:23.643Z</updated>
+    <updated>2025-08-15T11:08:11.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഋതുഭേദ കല്പന | Rithubheda Kalpana | Mangalam Nerunnu | Sreenath | Shanthi Krishna | Ilayaraja]]></title>
+        <id>https://www.youtube.com/watch?v=26ufaiM9Awg</id>
+        <link href="https://www.youtube.com/watch?v=26ufaiM9Awg"/>
+        <updated>2025-08-15T10:53:43.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സീയോൻ... John Britto Augustin Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=bdQyAIpRPYk</id>
+        <link href="https://www.youtube.com/watch?v=bdQyAIpRPYk"/>
+        <updated>2025-08-15T10:42:44.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shokam Venda 💃🥁 #sumathivalavu #ranjinraj #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/shorts/6Edad9tQkMQ</id>
+        <link href="https://www.youtube.com/shorts/6Edad9tQkMQ"/>
+        <updated>2025-08-15T10:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thusharabindhu | തുഷാരബിന്ദു | Ashokante Aswathikuttikku Movie | KJ Yesudas | Thakazhi Shankara]]></title>
         <id>https://www.youtube.com/watch?v=Erj50gXd2lQ</id>
@@ -13631,25 +13659,6 @@
         <updated>2025-07-16T23:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/hpCcmRRKxqw</id>
-        <link href="https://www.youtube.com/shorts/hpCcmRRKxqw"/>
-        <updated>2025-07-16T23:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 17, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=yfAW1Co4K9s</id>
-        <link href="https://www.youtube.com/watch?v=yfAW1Co4K9s"/>
-        <updated>2025-07-16T22:30:14.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
