@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T16:11:33.668Z</updated>
+    <updated>2025-08-15T17:08:13.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13750,36 +13750,6 @@
         <updated>2025-07-17T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#കാന്തനേശു #KaanthaneshuVanameghe #RejiAbraham #Kanthanyeshu]]></title>
-        <id>https://www.youtube.com/shorts/P-5kMg96A0g</id>
-        <link href="https://www.youtube.com/shorts/P-5kMg96A0g"/>
-        <updated>2025-07-17T05:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bagi Jeansum | ബാഗി ജീൻസും...| Sainyam Movie Song | SP Venkitesh Music | Evergreen Hit Song]]></title>
-        <id>https://www.youtube.com/shorts/qXzpQbRcVIU</id>
-        <link href="https://www.youtube.com/shorts/qXzpQbRcVIU"/>
-        <updated>2025-07-17T04:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raveendra Nee Evide | Official Trailer Out Now #shorts #movie #trending]]></title>
-        <id>https://www.youtube.com/shorts/7dUmfDBhzYY</id>
-        <link href="https://www.youtube.com/shorts/7dUmfDBhzYY"/>
-        <updated>2025-07-17T04:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
