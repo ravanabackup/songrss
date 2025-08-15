@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T14:09:32.074Z</updated>
+    <updated>2025-08-15T15:09:40.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉണർന്നുവോ മുളം തണ്ടിലുമീ‍ണം പൊഴിഞ്ഞുവോ മണിച്ചുണ്ടിലിന്നൊരു തേൻ‌കണം]]></title>
+        <id>https://www.youtube.com/shorts/lTMbDuzWau8</id>
+        <link href="https://www.youtube.com/shorts/lTMbDuzWau8"/>
+        <updated>2025-08-15T14:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nalla Devane Njangal | Shorts #manoramachristiandevotionalsongs #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/OsxgJgxIqcA</id>
