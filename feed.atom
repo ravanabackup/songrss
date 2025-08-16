@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T11:07:11.065Z</updated>
+    <updated>2025-08-16T12:16:48.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hey Vennillaa 4K Video Song | Pattam Pole| Dulquer Salman | Malavika Mohanan| Haricharan|Shakthisree]]></title>
+        <id>https://www.youtube.com/watch?v=xr4CK_41udw</id>
+        <link href="https://www.youtube.com/watch?v=xr4CK_41udw"/>
+        <updated>2025-08-16T11:54:30.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikuyile | Valkannadi #kalabhavanmani #yesudas #sujatha #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/7t8yhMfMBvc</id>
+        <link href="https://www.youtube.com/shorts/7t8yhMfMBvc"/>
+        <updated>2025-08-16T11:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Vattam Koodiyenormagal | ഒരു വട്ടം കൂടിയെന്നോർമകൾ | Chillu Movie | KJ Yesudas | ONV Kurup]]></title>
+        <id>https://www.youtube.com/shorts/u5TxeW3KzFI</id>
+        <link href="https://www.youtube.com/shorts/u5TxeW3KzFI"/>
+        <updated>2025-08-16T11:27:42.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പീലിയേഴും വീശി വാ | Peeliyezhum Veeshi Vaa | Poovinu Puthiya Poonthennal | Mammootty, Suresh Gopi]]></title>
         <id>https://www.youtube.com/watch?v=-1qeR4I3Ce0</id>
@@ -470,6 +498,15 @@
         <updated>2025-08-15T05:45:41.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hit Christian Devotional Songs Malayalam | സൂപ്പർ  ഹിറ്റായ ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=z6vItF3YF6o</id>
+        <link href="https://www.youtube.com/watch?v=z6vItF3YF6o"/>
+        <updated>2025-08-15T05:44:09.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -13531,15 +13568,6 @@
         <updated>2025-07-18T00:30:27.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargeeya Sangeetham | Madhu Balakrishnan | Kester | Wilswaraj | Elizabeth Raju]]></title>
-        <id>https://www.youtube.com/watch?v=4z24R-glsWk</id>
-        <link href="https://www.youtube.com/watch?v=4z24R-glsWk"/>
-        <updated>2025-07-17T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
