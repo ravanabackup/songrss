@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T19:06:56.052Z</updated>
+    <updated>2025-08-17T20:09:55.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 18 # Athiravile Prarthana 18th of August 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=PRxrKEZ9oJI</id>
+        <link href="https://www.youtube.com/watch?v=PRxrKEZ9oJI"/>
+        <updated>2025-08-17T20:00:13.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 18th August 2025]]></title>
         <id>https://www.youtube.com/watch?v=k-5K-8vaKzc</id>
@@ -13556,34 +13565,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എല്ലാരും പോകുഞ്ചോ കുറിഞ്ചിമലയിലു #evergreenhits #malayalam]]></title>
-        <id>https://www.youtube.com/shorts/-B3jSOIxvz0</id>
-        <link href="https://www.youtube.com/shorts/-B3jSOIxvz0"/>
-        <updated>2025-07-19T07:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിരവധി സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ മലയാളികൾക്ക് സമ്മാനിച്ച ഉമ്മറിക്കക്ക് കണ്ണീരോടെ വിട|Hits Of Nisari Ummer]]></title>
-        <id>https://www.youtube.com/watch?v=ZLWKSsxN3lo</id>
-        <link href="https://www.youtube.com/watch?v=ZLWKSsxN3lo"/>
-        <updated>2025-07-19T07:30:30.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninakkayi Njan Pattu Paadumbol | നിനക്കായി ഞാൻ പാട്ട് പാടുമ്പോൾ  | Malayalam Romantic Songs | Bibin]]></title>
-        <id>https://www.youtube.com/watch?v=KL_3aaoTNb4</id>
-        <link href="https://www.youtube.com/watch?v=KL_3aaoTNb4"/>
-        <updated>2025-07-19T07:08:02.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
