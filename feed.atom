@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T16:10:16.009Z</updated>
+    <updated>2025-08-17T17:07:36.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13611,16 +13611,6 @@
         <updated>2025-07-19T05:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chundhari Vaave | ചുന്ദരി വാവേ | Sadrishya Vakyam 24:29 Movie Song | MG Sreekumar | Shreya Jayadeep]]></title>
-        <id>https://www.youtube.com/shorts/OuetuUIe-aQ</id>
-        <link href="https://www.youtube.com/shorts/OuetuUIe-aQ"/>
-        <updated>2025-07-19T04:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
