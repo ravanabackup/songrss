@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T07:08:40.378Z</updated>
+    <updated>2025-08-17T08:12:28.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Practice session vs Shooting time - Varuthu Pokku Short Film]]></title>
+        <id>https://www.youtube.com/shorts/gbEG9YOcVUs</id>
+        <link href="https://www.youtube.com/shorts/gbEG9YOcVUs"/>
+        <updated>2025-08-17T07:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nagaramo | Sahasam | Kapil Kapilan, Bhadra Rajin | Ramzan, Gouri Kishan l Bibin Ashok |Bibin Krishna]]></title>
         <id>https://www.youtube.com/watch?v=o38pjeK_rk8</id>
@@ -13496,15 +13506,6 @@
         <updated>2025-07-18T22:30:03.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 19 # Athiravile Prarthana 19th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Umbkiq5OTXo</id>
-        <link href="https://www.youtube.com/watch?v=Umbkiq5OTXo"/>
-        <updated>2025-07-18T20:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
