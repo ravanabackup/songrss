@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T14:11:13.343Z</updated>
+    <updated>2025-08-18T15:10:32.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aashaadham Padumbol  | Biju menon | K Jayakumar | Raveendran | KJ Yesudas | K S Chitra #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/FpMh_0_w_6w</id>
+        <link href="https://www.youtube.com/shorts/FpMh_0_w_6w"/>
+        <updated>2025-08-18T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിൻ മക്കന നീങ്ങുമ്പോൾ | Raavin Makkana Neegumbol | Kalamandalam Hydrali Movie | Rakesh Brahmanadan]]></title>
         <id>https://www.youtube.com/shorts/wCIG3BhALzU</id>
