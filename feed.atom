@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T09:14:46.138Z</updated>
+    <updated>2025-08-18T10:11:00.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pookkuda Onam Songs | Onam Folk Songs #shorts #onam #onamsongs #pookkuda]]></title>
+        <id>https://www.youtube.com/shorts/kWY-wh2Psso</id>
+        <link href="https://www.youtube.com/shorts/kWY-wh2Psso"/>
+        <updated>2025-08-18T10:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacha Paayal - Ambient Lofi | Heart Killer Beats | Super Sharanya | Justin Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=67AT1qIJFAg</id>
+        <link href="https://www.youtube.com/watch?v=67AT1qIJFAg"/>
+        <updated>2025-08-18T09:56:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തങ്കത്തിടമ്പല്ലേ | Thankathidamballe | Kalika Movie Song | P Madhuri | G Devarajan | Audio Song]]></title>
+        <id>https://www.youtube.com/watch?v=IXjTR5NrU4I</id>
+        <link href="https://www.youtube.com/watch?v=IXjTR5NrU4I"/>
+        <updated>2025-08-18T09:49:23.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) ദൈവ സാന്നിധ്യത്തിൽ | Music Shack Christian Devotional Songs Live]]></title>
+        <id>https://www.youtube.com/watch?v=-YM1-RBenl0</id>
+        <link href="https://www.youtube.com/watch?v=-YM1-RBenl0"/>
+        <updated>2025-08-18T09:17:18.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thengum Hridayam | HD Video song | Aattakalasam | Mohanlal | Poovachal Khader - Raveendran Hits]]></title>
         <id>https://www.youtube.com/watch?v=XnV78uZMRss</id>
