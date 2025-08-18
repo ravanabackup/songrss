@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T07:14:18.486Z</updated>
+    <updated>2025-08-18T08:15:19.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തിലലിഞ്ഞു ചേർന്ന ഒരുപിടി നല്ല ഗാനങ്ങൾ | HEART MELTING SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=WllMYxK-C6c</id>
+        <link href="https://www.youtube.com/watch?v=WllMYxK-C6c"/>
+        <updated>2025-08-18T07:30:27.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your moves, our groove! 🔥💃 Show us your #OnamBlast hookstep & keep the vibes rolling! 🥁✨]]></title>
+        <id>https://www.youtube.com/shorts/8X_bNpd-R6k</id>
+        <link href="https://www.youtube.com/shorts/8X_bNpd-R6k"/>
+        <updated>2025-08-18T07:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സുകൃതം സുധാമയം നാവില്‍ | Sukrutham Sudhamayam Naavil | Anchil Oral Arjunan | Pathmapriya & Jayaram]]></title>
         <id>https://www.youtube.com/shorts/0QlpjsP06ic</id>
@@ -13342,15 +13361,6 @@
         <updated>2025-07-19T22:30:20.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 20 # Athiravile Prarthana 20th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=tpwfq_jgGug</id>
-        <link href="https://www.youtube.com/watch?v=tpwfq_jgGug"/>
-        <updated>2025-07-19T20:00:39.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
