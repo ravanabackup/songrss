@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T05:14:58.098Z</updated>
+    <updated>2025-08-18T06:16:10.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maanazhago | Vellinakshatram  | K J Yesudas | Prithviraj | Vinayan | M Jayachandran | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=rEAs0uV2v1E</id>
+        <link href="https://www.youtube.com/watch?v=rEAs0uV2v1E"/>
+        <updated>2025-08-18T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theduvathethoru | 4K  | Vaishali | KS Chithra | Bombay Ravi | O N V Kurup Hits]]></title>
+        <id>https://www.youtube.com/watch?v=hjPKZFKmkGg</id>
+        <link href="https://www.youtube.com/watch?v=hjPKZFKmkGg"/>
+        <updated>2025-08-18T05:23:46.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Padinjaaru Chayunna Sooryan | പടിഞ്ഞാറു ചായുന്ന സൂര്യൻ | Aniyatha Valakal | Yesudas | Vani Jayaram]]></title>
         <id>https://www.youtube.com/shorts/PMHjz3fMVy0</id>
@@ -13342,15 +13360,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mamodeesayin Neerin | മാമ്മോദീസായിൻ നീരിൻ | Orthodox Baptism Song | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=m0Rgzx7mhew</id>
-        <link href="https://www.youtube.com/watch?v=m0Rgzx7mhew"/>
-        <updated>2025-07-19T17:15:36.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
