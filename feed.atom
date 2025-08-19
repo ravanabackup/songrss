@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T05:09:51.211Z</updated>
+    <updated>2025-08-19T06:14:39.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Othiri Othiri Othiri | Pranayavarnangal | Gireesh Puthenchery | Vidyasagar | KS Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=HrCatbgSpAk</id>
+        <link href="https://www.youtube.com/watch?v=HrCatbgSpAk"/>
+        <updated>2025-08-19T05:33:57.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enundodi  | Remix By DJ Savyo #shortsfeed #remix #djmix #djpartysongs #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/eFHUiYNOhB8</id>
+        <link href="https://www.youtube.com/shorts/eFHUiYNOhB8"/>
+        <updated>2025-08-19T05:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassilayiram | Bhaskar the Rascal #mammootty #deepakdev #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/HD3vIOMag1M</id>
+        <link href="https://www.youtube.com/shorts/HD3vIOMag1M"/>
+        <updated>2025-08-19T05:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paattinte Palkadavil | Living Together | Video Song | Vijay Yesudas | Kaithapram | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=xnHy0ClfQtY</id>
+        <link href="https://www.youtube.com/watch?v=xnHy0ClfQtY"/>
+        <updated>2025-08-19T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perarasi | Thalaivan Thalaivii | Vijay Sethupathi, Nithya Menen| Pandiraaj | Santhosh Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=BD6sAEiAQyo</id>
+        <link href="https://www.youtube.com/watch?v=BD6sAEiAQyo"/>
+        <updated>2025-08-19T05:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karalilezhum Kanavukal | Jananayakan | Babu Antony | M G Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=TuiN-DShdJ8</id>
