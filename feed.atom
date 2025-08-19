@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T07:09:39.987Z</updated>
+    <updated>2025-08-19T08:13:13.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onam gets bigger with this high-energy dance track! 🥁🔥 #blastonam #shorts]]></title>
+        <id>https://www.youtube.com/shorts/bS2U1zn8X8w</id>
+        <link href="https://www.youtube.com/shorts/bS2U1zn8X8w"/>
+        <updated>2025-08-19T08:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aathamavin Baliyayi Karaoke | New Entrance Song | Anna Baby | Binoj Kurian | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=czVcuh8e1IY</id>
+        <link href="https://www.youtube.com/watch?v=czVcuh8e1IY"/>
+        <updated>2025-08-19T07:30:30.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് കുളിർമയേകുന്ന  മലയാളസിനിമയിലെ സുന്ദര മെലഡി ഗാനങ്ങൾ | MALAYALAM MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=c_C94_oDqUg</id>
+        <link href="https://www.youtube.com/watch?v=c_C94_oDqUg"/>
+        <updated>2025-08-19T07:30:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurumbathi Chundhari Nee | കുറുമ്പത്തി ചുന്ദരി നീ | Ann Maria Kalippilan | Sunny Wayne | Vineeth]]></title>
         <id>https://www.youtube.com/watch?v=F4hjz25QTPo</id>
@@ -13492,15 +13520,6 @@
         <updated>2025-07-20T22:30:08.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 21 # Athiravile Prarthana 21st of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xb2Ka03QMQQ</id>
-        <link href="https://www.youtube.com/watch?v=xb2Ka03QMQQ"/>
-        <updated>2025-07-20T20:00:27.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
