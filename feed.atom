@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T11:08:06.574Z</updated>
+    <updated>2025-08-19T12:17:42.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kurumbathi Chundhari Nee | കുറുമ്പത്തി ചുന്ദരി നീ | Ann Maria Kalippilan | Sunny Wayne | Vineeth]]></title>
+        <id>https://www.youtube.com/shorts/rPIHkjbv0_o</id>
+        <link href="https://www.youtube.com/shorts/rPIHkjbv0_o"/>
+        <updated>2025-08-19T12:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#BlastOnam - a power-packed festive track with energy in every beat! featuring Suhaid Kukku 🌼🔥🕺]]></title>
+        <id>https://www.youtube.com/shorts/xlDhgxIhR20</id>
+        <link href="https://www.youtube.com/shorts/xlDhgxIhR20"/>
+        <updated>2025-08-19T11:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആൺകുയിലെ തേൻകുയിലെ | Aankuyile Thenkuyile | Dhwani  Evergreen Film Song  | Jayaram | Shobhana]]></title>
         <id>https://www.youtube.com/watch?v=-LpNiRnYrjE</id>
@@ -13519,15 +13539,6 @@
         <updated>2025-07-21T00:30:34.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits Of Immanuel Henry Vol 01 | Malayalam Christian Songs | Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=D9RPLxgbfLM</id>
-        <link href="https://www.youtube.com/watch?v=D9RPLxgbfLM"/>
-        <updated>2025-07-20T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
