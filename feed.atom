@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T02:25:42.900Z</updated>
+    <updated>2025-08-19T03:35:45.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shokam Venda 🤩🎶]]></title>
+        <id>https://www.youtube.com/shorts/A3TRrUAVjcg</id>
+        <link href="https://www.youtube.com/shorts/A3TRrUAVjcg"/>
+        <updated>2025-08-19T02:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maname Pakshiganangal | Cicily Abraham | Shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/_AT52FLGj1w</id>
@@ -13465,36 +13475,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/4wED-k7Iex4</id>
-        <link href="https://www.youtube.com/shorts/4wED-k7Iex4"/>
-        <updated>2025-07-20T15:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karukavayal Kuruvi | Dhruvam | KJ Yesudas  | SP Venkitesh | Shibu Chakravarthy #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/ebEucOQSyzU</id>
-        <link href="https://www.youtube.com/shorts/ebEucOQSyzU"/>
-        <updated>2025-07-20T14:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Chey Maname | സ്തുതി ചെയ് മനമേ | Malayalam Christian Song | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/Ppj2GOP99FI</id>
-        <link href="https://www.youtube.com/shorts/Ppj2GOP99FI"/>
-        <updated>2025-07-20T14:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
