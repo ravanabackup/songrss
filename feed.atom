@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T03:35:45.748Z</updated>
+    <updated>2025-08-19T04:12:30.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13455,26 +13455,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith a#malayalamchristiandevotionalsongs #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/1XzCIuSODpU</id>
-        <link href="https://www.youtube.com/shorts/1XzCIuSODpU"/>
-        <updated>2025-07-20T16:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Vazhthidunnu Vazhthidunnu… #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSong]]></title>
-        <id>https://www.youtube.com/shorts/nWcUY_Vi2Vg</id>
-        <link href="https://www.youtube.com/shorts/nWcUY_Vi2Vg"/>
-        <updated>2025-07-20T15:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
