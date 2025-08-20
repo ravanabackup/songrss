@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T07:09:54.315Z</updated>
+    <updated>2025-08-20T08:12:59.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abhishekakattayi | Worship Songs | Shorts #manoramachristiansongs  #Abhishekakattayi #holyclaps]]></title>
+        <id>https://www.youtube.com/shorts/6UQ4NUXBhGc</id>
+        <link href="https://www.youtube.com/shorts/6UQ4NUXBhGc"/>
+        <updated>2025-08-20T07:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhishekakattayi | Worship Songs | Shorts #manoramachristiansongs  #Abhishekakattayi #holyclaps]]></title>
+        <id>https://www.youtube.com/shorts/Umoer7deEw0</id>
+        <link href="https://www.youtube.com/shorts/Umoer7deEw0"/>
+        <updated>2025-08-20T07:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏵 Thiruvaavaniraavu 🏵 #shorts]]></title>
+        <id>https://www.youtube.com/shorts/0PSnNvCvO0o</id>
+        <link href="https://www.youtube.com/shorts/0PSnNvCvO0o"/>
+        <updated>2025-08-20T07:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേട്ടിരിക്കാൻ ഇഷ്ടം തോന്നുന്ന മലയാളസിനിമയിലെ വിസ്മയഗാനങ്ങൾ | OLD SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=N7kkMZ3M2AU</id>
+        <link href="https://www.youtube.com/watch?v=N7kkMZ3M2AU"/>
+        <updated>2025-08-20T07:30:11.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുറുമൊഴി കുറുകി കുറുകി നീ | Kathodu Kathoram | കാതോടു കാതോരം തേന് ചോരുമാ മന്ത്രം #mammootty]]></title>
         <id>https://www.youtube.com/shorts/3_5oBQ1DMG8</id>
@@ -13429,15 +13468,6 @@
         <updated>2025-07-21T22:30:08.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 22 # Athiravile Prarthana 22nd of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=i6XIZXnFrB8</id>
-        <link href="https://www.youtube.com/watch?v=i6XIZXnFrB8"/>
-        <updated>2025-07-21T20:00:34.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
