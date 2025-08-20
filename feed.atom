@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T05:09:56.744Z</updated>
+    <updated>2025-08-20T06:14:43.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who’s that, who’s that 👀 #priyaanand  #paaldabba #enseethai]]></title>
+        <id>https://www.youtube.com/shorts/TDjwX8-Vvzc</id>
+        <link href="https://www.youtube.com/shorts/TDjwX8-Vvzc"/>
+        <updated>2025-08-20T06:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old is Gold Onam Songs |Jukebox|തലമുറകൾ ആഘോഷമാക്കിയ ആ പഴയ ഓണപ്പാട്ടുകൾ ഇതാ|K J Yesudas|M G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=_nJCH7OiJHk</id>
+        <link href="https://www.youtube.com/watch?v=_nJCH7OiJHk"/>
+        <updated>2025-08-20T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Kanneeru Kandu Nee | Christian Shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/OV_Us0CbKe8</id>
