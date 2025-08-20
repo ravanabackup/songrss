@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T10:09:51.916Z</updated>
+    <updated>2025-08-20T11:07:43.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swargam Thedi Vannore | സ്വർഗം തേടി വന്നോരേ | Daya | Manju Warrier | Sujatha Mohan Song | ONV Kurup]]></title>
+        <id>https://www.youtube.com/shorts/a2aU9Lrsqgc</id>
+        <link href="https://www.youtube.com/shorts/a2aU9Lrsqgc"/>
+        <updated>2025-08-20T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5BIGW9i8o0w</id>
+        <link href="https://www.youtube.com/watch?v=5BIGW9i8o0w"/>
+        <updated>2025-08-20T10:26:36.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargam Thedi Vannore | സ്വർഗം തേടി വന്നോരേ | Daya | Manju Warrier | Sujatha Mohan Song | ONV Kurup]]></title>
         <id>https://www.youtube.com/watch?v=Wb68SylAaec</id>
@@ -13477,25 +13496,6 @@
         <updated>2025-07-22T00:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/XjB-OxU5MvQ</id>
-        <link href="https://www.youtube.com/shorts/XjB-OxU5MvQ"/>
-        <updated>2025-07-21T23:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 22, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=hyZ_uKIQwqs</id>
-        <link href="https://www.youtube.com/watch?v=hyZ_uKIQwqs"/>
-        <updated>2025-07-21T22:30:08.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
