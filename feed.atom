@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T05:10:03.334Z</updated>
+    <updated>2025-08-21T06:18:39.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pongala Malayalam Movie | Teaser | Sreenath Bhasi | Baburaj | A B Binil | Deepu Bose | Anil Pillai]]></title>
+        <id>https://www.youtube.com/watch?v=CDjL0lbpr40</id>
+        <link href="https://www.youtube.com/watch?v=CDjL0lbpr40"/>
+        <updated>2025-08-21T06:00:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melle Melle Oru | മെല്ലെ മെല്ലെ ഒരു മന്ദാരം | Sadrisya Vakyam 24:29 | Vijay Yesudas | Sheelu Abraham]]></title>
+        <id>https://www.youtube.com/watch?v=KI-Fv6HmyV8</id>
+        <link href="https://www.youtube.com/watch?v=KI-Fv6HmyV8"/>
+        <updated>2025-08-21T05:59:46.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etho Pattin Eenam | IRA #gopisundar #vijayyesudas #shortsfeed #shortsvideo #shorts  #gokulsuresh]]></title>
+        <id>https://www.youtube.com/shorts/f9L6RC-4HcA</id>
+        <link href="https://www.youtube.com/shorts/f9L6RC-4HcA"/>
+        <updated>2025-08-21T05:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakkuyile Rakkuyile | Onam Song #mgsreekumar #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/Fm2tJNKe2Eo</id>
+        <link href="https://www.youtube.com/shorts/Fm2tJNKe2Eo"/>
+        <updated>2025-08-21T05:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kuttalam Kuruvi | Kakkakarumban | Sidharth Bharathan | Meenakshi | M.Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=Q3GKuBBRGLA</id>
