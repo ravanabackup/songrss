@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T11:08:16.321Z</updated>
+    <updated>2025-08-21T12:17:38.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lockdown Kalathe Kallyanam | Kanaronam |Rajeev V4u| Harish Kanaran |Vishnu Unnikrishnan |Hippo Prime]]></title>
+        <id>https://www.youtube.com/watch?v=Ydj2w-D7lZg</id>
+        <link href="https://www.youtube.com/watch?v=Ydj2w-D7lZg"/>
+        <updated>2025-08-21T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Viral Neetti - 4K  | Gireesh Puthenchery - Vidyasagar | K J Yesudas | Pranayavarnangal]]></title>
+        <id>https://www.youtube.com/watch?v=LDb71sO8B1A</id>
+        <link href="https://www.youtube.com/watch?v=LDb71sO8B1A"/>
+        <updated>2025-08-21T11:25:21.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sreelavasantham 4K Video Song | Nandhanam | Prithviraj | Navya Nair | KJ Yesudas | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=bIzK2Y9yUJ8</id>
+        <link href="https://www.youtube.com/watch?v=bIzK2Y9yUJ8"/>
+        <updated>2025-08-21T11:19:19.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Makam Pirannoru Malalyalam Movie Song | HD Video Song | Kottaram Vaidyan | M. G. Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=wG_ua0jb_d4</id>
@@ -472,6 +499,15 @@
         <updated>2025-08-20T10:26:36.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karam - Official Trailer | Vineeth Sreenivasan | Noble Babu Thomas | Shaan Rahman|Visakh Subramaniam]]></title>
+        <id>https://www.youtube.com/watch?v=dfyec7cQoAI</id>
+        <link href="https://www.youtube.com/watch?v=dfyec7cQoAI"/>
+        <updated>2025-08-20T10:06:54.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -13523,15 +13559,6 @@
         <updated>2025-07-23T00:30:29.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin Nirakudam Amma | Kester | Gagul Joseph | Wilson Piravom |  Elizabeth Raju | Manisha]]></title>
-        <id>https://www.youtube.com/watch?v=IsTyhp-3HBE</id>
-        <link href="https://www.youtube.com/watch?v=IsTyhp-3HBE"/>
-        <updated>2025-07-22T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
