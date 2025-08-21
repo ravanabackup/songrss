@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T13:22:20.369Z</updated>
+    <updated>2025-08-21T14:09:48.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vilichathenthinu Nee Veruthe Song | Gramaphone | Dileep | Meera Jasmine | K J Yesudas | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=Vfuk22gAgQ8</id>
+        <link href="https://www.youtube.com/watch?v=Vfuk22gAgQ8"/>
+        <updated>2025-08-21T14:00:47.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 August 2025]]></title>
+        <id>https://www.youtube.com/shorts/EhkZapcojr8</id>
+        <link href="https://www.youtube.com/shorts/EhkZapcojr8"/>
+        <updated>2025-08-21T13:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹമെന്തെന്ന് അറിയാം ഈ ഗാനങ്ങളിലൂടെ | Kester | Christian Melody Songs | Songs Of God's Love]]></title>
+        <id>https://www.youtube.com/watch?v=i9zi6sl7APQ</id>
+        <link href="https://www.youtube.com/watch?v=i9zi6sl7APQ"/>
+        <updated>2025-08-21T13:30:42.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വൈറൽ  ക്രിസ്തീയ  ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongsmalayalam | Zion Classics]]></title>
+        <id>https://www.youtube.com/watch?v=VfAoJyWUzgQ</id>
+        <link href="https://www.youtube.com/watch?v=VfAoJyWUzgQ"/>
+        <updated>2025-08-21T13:30:26.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAVAL VILAKKE |  മേഘ്‌നകുട്ടി പാടിയ മനോഹര ഗാനം |@JinoKunnumpurathu | #shorts]]></title>
         <id>https://www.youtube.com/shorts/4nUlGYPCEwI</id>
@@ -78,6 +115,15 @@
         <updated>2025-08-21T11:19:19.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birthday Tribute To Kester | Christian Songs Medley | Aneesh K. Anto| Kester Songs|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=Ft95V27wXtU</id>
+        <link href="https://www.youtube.com/watch?v=Ft95V27wXtU"/>
+        <updated>2025-08-21T10:04:44.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -13578,16 +13624,6 @@
         <updated>2025-07-23T04:28:07.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MalpriyaneEnneshu #manoramachristiansongs #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/KG77Iwc0RB4</id>
-        <link href="https://www.youtube.com/shorts/KG77Iwc0RB4"/>
-        <updated>2025-07-23T02:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
