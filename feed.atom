@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T21:08:16.906Z</updated>
+    <updated>2025-08-21T22:08:52.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13524,33 +13524,6 @@
         <updated>2025-07-23T11:11:45.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargam Suvarna Swargam | Lajjaavathi Movie Song | Nostalgic Malayalam Hit]]></title>
-        <id>https://www.youtube.com/watch?v=dtf1ljuuDzc</id>
-        <link href="https://www.youtube.com/watch?v=dtf1ljuuDzc"/>
-        <updated>2025-07-23T09:30:34.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koothambalathil Vecho | കൂത്തമ്പലത്തിൽ വെച്ചോ | Appu  | MG Sreekumar | Mohanlal | Sreekumaran Thampi]]></title>
-        <id>https://www.youtube.com/watch?v=XmfVdXZbb78</id>
-        <link href="https://www.youtube.com/watch?v=XmfVdXZbb78"/>
-        <updated>2025-07-23T09:27:17.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prathyasha Geethangal | Christian Songs Mashup Malayalam | Christian Medley | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=UrsEgg9t0SQ</id>
-        <link href="https://www.youtube.com/watch?v=UrsEgg9t0SQ"/>
-        <updated>2025-07-23T09:23:58.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
