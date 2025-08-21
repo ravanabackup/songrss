@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T07:13:21.686Z</updated>
+    <updated>2025-08-21T08:13:17.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lose yourself in the romance of #HalwaStreet ! #shorts #haricharan #swathymanu]]></title>
+        <id>https://www.youtube.com/shorts/grX1ku5cVss</id>
+        <link href="https://www.youtube.com/shorts/grX1ku5cVss"/>
+        <updated>2025-08-21T07:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടെങ്ങും ആസ്വദിക്കുന്ന മലയാളസിനിമയിലെ കേൾക്കാൻ രസമുള്ള ഓണപ്പാട്ടുകൾ | ONAPATTUKAL]]></title>
+        <id>https://www.youtube.com/watch?v=CvhQ4fS_4Qk</id>
+        <link href="https://www.youtube.com/watch?v=CvhQ4fS_4Qk"/>
+        <updated>2025-08-21T07:33:55.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അനുരാഗലോല ഗാത്രി | Anuragalola Gatri | Dhwani Romantic Malayalam Movie Song | Yesudas & P. Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=Dx_sJh2Ll3w</id>
+        <link href="https://www.youtube.com/watch?v=Dx_sJh2Ll3w"/>
+        <updated>2025-08-21T07:30:57.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yadhu Hrudayam | Lyrical + Karaoke Video | Rappakal | Mammootty | Madhu Balakrishnan | K.S.Chithra]]></title>
         <id>https://www.youtube.com/watch?v=tQw8zlFNGZs</id>
@@ -13478,15 +13506,6 @@
         <updated>2025-07-22T22:30:05.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 23 # Athiravile Prarthana 23rd of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ardKKltYOQg</id>
-        <link href="https://www.youtube.com/watch?v=ardKKltYOQg"/>
-        <updated>2025-07-22T20:00:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
