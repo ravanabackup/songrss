@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T21:07:53.813Z</updated>
+    <updated>2025-08-22T22:08:11.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13485,15 +13485,6 @@
         <updated>2025-07-24T10:21:27.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 7 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith||]]></title>
-        <id>https://www.youtube.com/watch?v=Rtzjo7NXaDk</id>
-        <link href="https://www.youtube.com/watch?v=Rtzjo7NXaDk"/>
-        <updated>2025-07-24T09:12:00.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
