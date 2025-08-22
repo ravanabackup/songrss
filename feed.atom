@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T16:10:52.225Z</updated>
+    <updated>2025-08-22T17:07:45.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1 MILLION strong on YouTube! ❤️🎶 A journey of music, love & cinema #123musix]]></title>
+        <id>https://www.youtube.com/watch?v=bnzCZk9eulE</id>
+        <link href="https://www.youtube.com/watch?v=bnzCZk9eulE"/>
+        <updated>2025-08-22T16:00:33.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Padi Pukhazthidam… #matchpointfaith #matchpointcreations  #mylord Match Point Faith]]></title>
         <id>https://www.youtube.com/shorts/6dQKA5JxR-8</id>
@@ -13551,26 +13560,6 @@
         <updated>2025-07-24T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാലിന്മേൽ പൂവും | Vaalinmel Poovum | Pavithram | Mohanlal | Shobhana | M G Sreekumar | Sreevidya]]></title>
-        <id>https://www.youtube.com/shorts/6Mru9oeuFm4</id>
-        <link href="https://www.youtube.com/shorts/6Mru9oeuFm4"/>
-        <updated>2025-07-24T04:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merucury Lamp Veenu | മെർക്കുറി ലാമ്പുവീണു | Sainyam Movie Song | Mano | Malgudi Subha | Sujatha]]></title>
-        <id>https://www.youtube.com/shorts/h1FDdqaBB5A</id>
-        <link href="https://www.youtube.com/shorts/h1FDdqaBB5A"/>
-        <updated>2025-07-24T04:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
