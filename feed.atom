@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T07:08:08.381Z</updated>
+    <updated>2025-08-23T08:11:10.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neeyonnu Paadu | നീയൊന്നു പാട് | Thacholi Varghese Chekavar  | MG Sreekumar | Swarnalatha | Vineeth]]></title>
+        <id>https://www.youtube.com/watch?v=Br7CLs3Iqq8</id>
+        <link href="https://www.youtube.com/watch?v=Br7CLs3Iqq8"/>
+        <updated>2025-08-23T07:45:43.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ മനസ്സ് നിറച്ച മലയാളസിനിമയിലെ വിസ്മയ ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=sPs5IjnGRKQ</id>
+        <link href="https://www.youtube.com/watch?v=sPs5IjnGRKQ"/>
+        <updated>2025-08-23T07:30:34.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[God Intro | Written & Directed By God #shortsfeed #shortsvideo #shorts #reels #shaanrahman]]></title>
         <id>https://www.youtube.com/shorts/g5zwn3zvkCQ</id>
@@ -13283,15 +13301,6 @@
         <updated>2025-07-24T22:30:06.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 25 # Athiravile Prarthana 25th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Y7XKNxg8xW0</id>
-        <link href="https://www.youtube.com/watch?v=Y7XKNxg8xW0"/>
-        <updated>2025-07-24T20:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
