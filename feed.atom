@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T11:06:52.626Z</updated>
+    <updated>2025-08-23T12:15:07.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neeyonnu Paadu | നീയൊന്നു പാട് | Thacholi Varghese Chekavar  | MG Sreekumar | Swarnalatha | Vineeth]]></title>
+        <id>https://www.youtube.com/shorts/kqqSiYWoadk</id>
+        <link href="https://www.youtube.com/shorts/kqqSiYWoadk"/>
+        <updated>2025-08-23T12:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶 1 Million+ views & counting — thank you for loving Dupattawaali 🦋💕]]></title>
+        <id>https://www.youtube.com/shorts/dGNrYYmpWnA</id>
+        <link href="https://www.youtube.com/shorts/dGNrYYmpWnA"/>
+        <updated>2025-08-23T12:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് കൂട്ടായി നിൽക്കുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5u-jqt36C68</id>
+        <link href="https://www.youtube.com/watch?v=5u-jqt36C68"/>
+        <updated>2025-08-23T11:57:53.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilakozhiye | Thalavara | Arjun Ashokan |Revathy | Mahesh Narayanan| Akhil Anilkumar| Electronic Kili]]></title>
+        <id>https://www.youtube.com/watch?v=s7fpixCzxBc</id>
+        <link href="https://www.youtube.com/watch?v=s7fpixCzxBc"/>
+        <updated>2025-08-23T11:45:25.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muttathethum Thennale 4K |Video |  Chandrolsavam | Mohanlal | KJ Yesudas | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=GLfF01olEZA</id>
+        <link href="https://www.youtube.com/watch?v=GLfF01olEZA"/>
+        <updated>2025-08-23T11:13:50.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസിന് കൂട്ടായി നിൽക്കുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=TzvUp-zsqFI</id>
@@ -13301,15 +13348,6 @@
         <updated>2025-07-25T00:30:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneha Sooryodayam | Kester | K.G Markose | Wilson | Manjari | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CkhWe4v23uY</id>
-        <link href="https://www.youtube.com/watch?v=CkhWe4v23uY"/>
-        <updated>2025-07-24T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
