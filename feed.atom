@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T14:07:19.134Z</updated>
+    <updated>2025-08-23T15:07:33.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaalkkanezhuthiya | Paithrukam Movie Song | K J Yesudas | Jayaram | Suresh Gopi #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/tWbU65Dc3aI</id>
+        <link href="https://www.youtube.com/shorts/tWbU65Dc3aI"/>
+        <updated>2025-08-23T14:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thamarakkannanurangenam  | KS Chithra | Geetha | Mammootty | Kaithapram | Malayalam Song]]></title>
+        <id>https://www.youtube.com/watch?v=-TRcBa6F214</id>
+        <link href="https://www.youtube.com/watch?v=-TRcBa6F214"/>
+        <updated>2025-08-23T14:30:00.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abki Baar Arjun Sarkaar - Video | HIT 3 (Malayalam) | Nani | Sailesh Kolanu |Srinidhi|Mickey J Meyer]]></title>
+        <id>https://www.youtube.com/watch?v=-Ne7T3yAK4w</id>
+        <link href="https://www.youtube.com/watch?v=-Ne7T3yAK4w"/>
+        <updated>2025-08-23T14:13:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manavalan In Trouble short film]]></title>
         <id>https://www.youtube.com/shorts/8tG3dW6VsEQ</id>
