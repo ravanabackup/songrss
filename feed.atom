@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T03:28:28.970Z</updated>
+    <updated>2025-08-23T04:10:39.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athapoovum Nulli | Punnaram Cholli Cholli | Rahman | Sareena Vahab | K J Yesudas | K S Chithra| ONV]]></title>
+        <id>https://www.youtube.com/watch?v=Nlzx-7oZlVo</id>
+        <link href="https://www.youtube.com/watch?v=Nlzx-7oZlVo"/>
+        <updated>2025-08-23T03:30:58.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathiyavunnilla Priyane | Shorts #manoramachristiandevotionalsongs #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/dnZITQr5Xhc</id>
