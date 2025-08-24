@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T14:07:20.340Z</updated>
+    <updated>2025-08-24T15:07:58.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paal Kudangal Video Song|Pranaya Nilavu|Dileep|Mohini|#bernyignatius #dileep]]></title>
+        <id>https://www.youtube.com/watch?v=u3rxG33IQ18</id>
+        <link href="https://www.youtube.com/watch?v=u3rxG33IQ18"/>
+        <updated>2025-08-24T14:30:52.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavillin Kottarathil | Vidyasagar | Kaithapram | Sujatha Mohan | Biju Narayanan #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/c1KTL5klLJY</id>
+        <link href="https://www.youtube.com/shorts/c1KTL5klLJY"/>
+        <updated>2025-08-24T14:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24 August 2025]]></title>
+        <id>https://www.youtube.com/shorts/NlOkkiRBuqU</id>
+        <link href="https://www.youtube.com/shorts/NlOkkiRBuqU"/>
+        <updated>2025-08-24T14:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manju Peyyana | S Ramesan Nair | Vidyasagar | Sujatha Mohan | Kavya Madhavan | Dileep]]></title>
         <id>https://www.youtube.com/shorts/27Hxp7u7zgQ</id>
@@ -13342,15 +13371,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonkuyile Poonkuyile | East Coast Vijayan | M Jayachandran | Chinmayi | Swantham | Lyrical Video]]></title>
-        <id>https://www.youtube.com/watch?v=bo86nxOJ2Ng</id>
-        <link href="https://www.youtube.com/watch?v=bo86nxOJ2Ng"/>
-        <updated>2025-07-26T02:54:00.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
