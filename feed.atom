@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T02:28:21.459Z</updated>
+    <updated>2025-08-25T03:40:18.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pookkuda Onam Songs | Onam Folk Songs #shorts #onam #onamsongs #pookkuda]]></title>
+        <id>https://www.youtube.com/shorts/o3gDuQo4nb8</id>
+        <link href="https://www.youtube.com/shorts/o3gDuQo4nb8"/>
+        <updated>2025-08-25T03:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadha Snehamam | Christian Shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/L-ZypcxsR0o</id>
@@ -13148,44 +13158,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Yeshuve Ninte Roopamee… #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
-        <id>https://www.youtube.com/shorts/57KokeEItNY</id>
-        <link href="https://www.youtube.com/shorts/57KokeEItNY"/>
-        <updated>2025-07-26T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhim Dhim Thirumukham Video Song | Kudumbakodathi | Dileep | Mohini | MG Sreekumar | SP Venkatesh]]></title>
-        <id>https://www.youtube.com/watch?v=5IBlheRgPFw</id>
-        <link href="https://www.youtube.com/watch?v=5IBlheRgPFw"/>
-        <updated>2025-07-26T15:00:09.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anpudayone Nin Vathil | അൻപുടയോനെ നിൻ | Qurbana Song | Roy Puthur & Maria Kolady | Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=p4YBpuJYyzU</id>
-        <link href="https://www.youtube.com/watch?v=p4YBpuJYyzU"/>
-        <updated>2025-07-26T15:00:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharam Valkannadi Nokki  | Kaithapram | Bharathan | KS Chithra | Jayaram | Charmila | #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/lMzDn4n6hUk</id>
-        <link href="https://www.youtube.com/shorts/lMzDn4n6hUk"/>
-        <updated>2025-07-26T14:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Movie : Keli (1991)Movie Director : BharathanLyrics : KaithapramMusic : BharathanSingers : KS ChithraTharam Valkannadi Nokki  | Kaithapram | Bharathan | KS C...]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
