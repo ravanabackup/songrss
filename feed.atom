@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T07:10:58.644Z</updated>
+    <updated>2025-08-25T08:14:26.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kasthoori ente 4K | Vishnulokam | Mohanlal | Urvasi | MG Sreekumar, Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=JDk0EdaHCAc</id>
+        <link href="https://www.youtube.com/watch?v=JDk0EdaHCAc"/>
+        <updated>2025-08-25T07:58:52.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടെങ്ങും ആഘോഷമൊരുക്കാൻ കിടിലൻ ഓണപ്പാട്ടുകൾ | ONAPATTUKAL | ONAM SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=-kdc_p3Q2SM</id>
+        <link href="https://www.youtube.com/watch?v=-kdc_p3Q2SM"/>
+        <updated>2025-08-25T07:30:00.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saamy Square - Pudhu Metro Rail Video with Lyrics | Vikram, Keerthy Suresh | DSP]]></title>
+        <id>https://www.youtube.com/watch?v=LPfEZsf9gro</id>
+        <link href="https://www.youtube.com/watch?v=LPfEZsf9gro"/>
+        <updated>2025-08-25T07:16:34.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chilankakal Tholkkum | ചിലങ്കകൾ തോൽക്കും | Sathya Movie | Roma | Sithara Krishnakumar | Gopi Sundar]]></title>
         <id>https://www.youtube.com/watch?v=Byb7-iYx59I</id>
@@ -13204,15 +13231,6 @@
         <updated>2025-07-26T22:30:06.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 27 # Athiravile Prarthana 27th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=0B5juwANtSw</id>
-        <link href="https://www.youtube.com/watch?v=0B5juwANtSw"/>
-        <updated>2025-07-26T20:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
