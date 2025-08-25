@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T15:09:52.992Z</updated>
+    <updated>2025-08-25T16:11:03.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bhoovake Nammikum | ഭൂവാകെ നമിക്കും നിന്നെ | Orthodox Qurbana Song | Roy & Maria | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=lUU8FrQp4Ow</id>
+        <link href="https://www.youtube.com/watch?v=lUU8FrQp4Ow"/>
+        <updated>2025-08-25T16:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶Puthanam Yerusalemil…  #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
+        <id>https://www.youtube.com/shorts/iz0tVTU56mo</id>
+        <link href="https://www.youtube.com/shorts/iz0tVTU56mo"/>
+        <updated>2025-08-25T15:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaalittezhuthiya Neelakkadakannil  | Onnanu Nammal |  ilayaraja |  Bichu Tirumala | K J Yesudas Hits]]></title>
         <id>https://www.youtube.com/watch?v=E4N_gb9VVvA</id>
@@ -13440,16 +13459,6 @@
         <updated>2025-07-27T04:30:01.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chengathir Kaiyum | Happy Birthday KS Chithra #kschithra #shortsfeed #shortsvideo #reels #shorts]]></title>
-        <id>https://www.youtube.com/shorts/P5-Ib15YaQo</id>
-        <link href="https://www.youtube.com/shorts/P5-Ib15YaQo"/>
-        <updated>2025-07-27T03:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
