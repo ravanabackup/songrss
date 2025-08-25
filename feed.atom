@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T05:10:38.897Z</updated>
+    <updated>2025-08-25T06:15:32.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#duppattawaali]]></title>
+        <id>https://www.youtube.com/shorts/xdQNrE1kuiw</id>
+        <link href="https://www.youtube.com/shorts/xdQNrE1kuiw"/>
+        <updated>2025-08-25T05:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaa En Uyir Poove -  Video Song | DNA | Atharvaa |Nimisha Sajayan |Nelson Venkatesan |Sathya Prakash]]></title>
+        <id>https://www.youtube.com/watch?v=_F-v8m_4ruo</id>
+        <link href="https://www.youtube.com/watch?v=_F-v8m_4ruo"/>
+        <updated>2025-08-25T05:30:15.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രതിസുഖ സാരമായി ദേവി | Dhwani Evergreen Hit Malayalam Movie Song | K. J. Yesudas | Jayaram | Shobhana]]></title>
+        <id>https://www.youtube.com/watch?v=cQo72Vb3jRA</id>
+        <link href="https://www.youtube.com/watch?v=cQo72Vb3jRA"/>
+        <updated>2025-08-25T05:11:47.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargathilo Nammal | സ്വർഗ്ഗത്തിലോ നമ്മൾ | Akkare Akkare Akkare Movie | MG Sreekumar | Unni Menon]]></title>
         <id>https://www.youtube.com/shorts/u0k9nn_AiQ8</id>
