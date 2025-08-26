@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T09:10:52.080Z</updated>
+    <updated>2025-08-26T10:09:55.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓണപ്പാട്ടുമായ് | Onappattumaay | Ouseppachan | Gireesh Puthenchery | M G Sreekumar, Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=u6LWFLE3BOs</id>
+        <link href="https://www.youtube.com/watch?v=u6LWFLE3BOs"/>
+        <updated>2025-08-26T09:52:50.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ninne Thodum Poo Nilavu | നിന്നെ തൊടും പൂനിലാവ് | Bhayanakam Movie | Sreekumaran Thampi | Audio Song]]></title>
         <id>https://www.youtube.com/watch?v=YVtEgEutKVw</id>
