@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T19:07:06.023Z</updated>
+    <updated>2025-08-26T20:10:00.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 27 # Athiravile Prarthana 27th of August 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=h60BgDgHRKk</id>
+        <link href="https://www.youtube.com/watch?v=h60BgDgHRKk"/>
+        <updated>2025-08-26T20:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th August 2025]]></title>
         <id>https://www.youtube.com/watch?v=iiRgmELvZTg</id>
@@ -13241,6 +13250,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Idiminnal (Swargam) | Video Song | Surabhila Sundara Swapnam | Electronic kili |Paul V, Rajalakshmi]]></title>
+        <id>https://www.youtube.com/watch?v=VwCWCdv8BGE</id>
+        <link href="https://www.youtube.com/watch?v=VwCWCdv8BGE"/>
+        <updated>2025-07-28T11:30:07.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kanavellam - Video Song | 3BHK | Siddharth | Sarath Kumar | Sri Ganesh | Amrit Ramnath | Arun Viswa]]></title>
         <id>https://www.youtube.com/watch?v=cuGm58kwPEw</id>
         <link href="https://www.youtube.com/watch?v=cuGm58kwPEw"/>
@@ -13315,34 +13333,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padamelam Panjarithalam | പടമേളം പഞ്ചാരിതാളം | Mafidona Movie | Maqbool Salman Song | Jassi Gift]]></title>
-        <id>https://www.youtube.com/watch?v=OG3ONlUoT80</id>
-        <link href="https://www.youtube.com/watch?v=OG3ONlUoT80"/>
-        <updated>2025-07-28T07:30:12.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾക്ക് ഒരിക്കലും മറക്കാനാവാത്ത മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ | OLD MALAYALAM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=8G8tvdH9W3w</id>
-        <link href="https://www.youtube.com/watch?v=8G8tvdH9W3w"/>
-        <updated>2025-07-28T07:30:07.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn tears into moves! 💃💔 Groove to #ShokamVenda from #SumathiValavu now! 🎶]]></title>
-        <id>https://www.youtube.com/shorts/LbBaEKAAmsg</id>
-        <link href="https://www.youtube.com/shorts/LbBaEKAAmsg"/>
-        <updated>2025-07-28T07:19:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
