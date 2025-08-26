@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T07:10:14.306Z</updated>
+    <updated>2025-08-26T09:10:52.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninne Thodum Poo Nilavu | നിന്നെ തൊടും പൂനിലാവ് | Bhayanakam Movie | Sreekumaran Thampi | Audio Song]]></title>
+        <id>https://www.youtube.com/watch?v=YVtEgEutKVw</id>
+        <link href="https://www.youtube.com/watch?v=YVtEgEutKVw"/>
+        <updated>2025-08-26T08:56:21.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#kimkim #jacknjill #manjuwarrier #songoftheday #shorts]]></title>
+        <id>https://www.youtube.com/shorts/8dhT9xzPlD4</id>
+        <link href="https://www.youtube.com/shorts/8dhT9xzPlD4"/>
+        <updated>2025-08-26T08:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കെ ജി മാർക്കോസ് ആലപിച്ച എക്കാലത്തെയും മികച്ച ഓണപ്പാട്ടുകൾ | KG MARKOSE ONAM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=2lllPFne1t0</id>
+        <link href="https://www.youtube.com/watch?v=2lllPFne1t0"/>
+        <updated>2025-08-26T07:30:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anegan - Danga Maari Oodhari Video with Lyrics | Dhanush | Harris Jayaraj]]></title>
+        <id>https://www.youtube.com/watch?v=a3qHEGMocjM</id>
+        <link href="https://www.youtube.com/watch?v=a3qHEGMocjM"/>
+        <updated>2025-08-26T07:00:00.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karimizhi Kuruviye | 4K | Meesamadhavan | Dileep | Vidyasagar | Sujatha Mohan Hits]]></title>
         <id>https://www.youtube.com/watch?v=BxlxA6I9J-8</id>
@@ -13231,15 +13268,6 @@
         <updated>2025-07-27T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 28 # Athiravile Prarthana 28th of July 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Gwj0lmLUQuM</id>
-        <link href="https://www.youtube.com/watch?v=Gwj0lmLUQuM"/>
-        <updated>2025-07-27T20:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
