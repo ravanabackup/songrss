@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T21:08:08.590Z</updated>
+    <updated>2025-08-27T22:08:09.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13244,34 +13244,6 @@
         <updated>2025-07-29T10:15:20.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breakup blues got a beat now!🎶💔 Dance to Shokam Venda 🕺#sumathivalavu #shorts]]></title>
-        <id>https://www.youtube.com/shorts/pFX2cieHXAU</id>
-        <link href="https://www.youtube.com/shorts/pFX2cieHXAU"/>
-        <updated>2025-07-29T10:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shubhachinam Than | ശുഭചിഹ്നം താൻ സ്ലീബാ | Orthodox Wedding Song | Joshua Adoor | Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=aGJZ3fgEgsU</id>
-        <link href="https://www.youtube.com/watch?v=aGJZ3fgEgsU"/>
-        <updated>2025-07-29T09:40:57.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadhi Nadhi Nila Nadhi | Chevalier Michael Movie | Malayalam Old Melody | HD Video Song | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=DoH3oHImbAc</id>
-        <link href="https://www.youtube.com/watch?v=DoH3oHImbAc"/>
-        <updated>2025-07-29T09:30:19.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
