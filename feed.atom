@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T03:28:32.686Z</updated>
+    <updated>2025-08-27T04:11:20.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13098,15 +13098,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Kadangal | എൻ്റെ കടങ്ങളശേഷം നിൻ | Malankara Catholic Church Qurbana Song | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=uGVouFv-tA8</id>
-        <link href="https://www.youtube.com/watch?v=uGVouFv-tA8"/>
-        <updated>2025-07-28T16:06:21.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
