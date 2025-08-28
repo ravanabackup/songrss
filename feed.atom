@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T08:12:29.327Z</updated>
+    <updated>2025-08-28T09:09:45.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kowcAGowr7s</id>
+        <link href="https://www.youtube.com/watch?v=kowcAGowr7s"/>
+        <updated>2025-08-28T08:58:21.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Ellam Ellam Alle | 4K | Meesamadhavan | Dileep | Kavya | Vidyasagar | KJ Yesudas, Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=eyTUhkwS1ik</id>
+        <link href="https://www.youtube.com/watch?v=eyTUhkwS1ik"/>
+        <updated>2025-08-28T08:52:17.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#thookiyirikkum #odumkuthirachaadumkuthira #fahadhfaasil #Lal #justinvarghese #shorts #outnow]]></title>
         <id>https://www.youtube.com/shorts/CAZ4UDnwGy8</id>
