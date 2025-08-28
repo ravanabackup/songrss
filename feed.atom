@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T05:09:28.745Z</updated>
+    <updated>2025-08-28T06:14:11.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hits of Mohanlal | Mohanlal Evergreen Hit Songs | Mohanlal Video Songs | Video Jukebox |]]></title>
+        <id>https://www.youtube.com/watch?v=v3Bi52yVq70</id>
+        <link href="https://www.youtube.com/watch?v=v3Bi52yVq70"/>
+        <updated>2025-08-28T05:33:45.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirunelli Kadu Poothu | Dinarathrangal | Mukesh | Parvathi | MG Sreekumar & KS Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=0xbVmiUO8IE</id>
+        <link href="https://www.youtube.com/watch?v=0xbVmiUO8IE"/>
+        <updated>2025-08-28T05:32:17.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum |യാഥാസ്ഥിതികത്വത്തെ ഉടച്ചുവാർത്ത വയലാർ|പാടിയും പറഞ്ഞും|Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=-Vu43qhcIyQ</id>
+        <link href="https://www.youtube.com/watch?v=-Vu43qhcIyQ"/>
+        <updated>2025-08-28T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thaazhvaaram Manpoove | താഴ്വാരം മൺപൂവേ | Jackpot Movie | Yesudas | Chithra | Mammooty | Ilayaraja]]></title>
         <id>https://www.youtube.com/watch?v=ohIuqctctQ8</id>
