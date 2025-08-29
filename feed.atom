@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T02:19:46.531Z</updated>
+    <updated>2025-08-29T03:28:07.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Duppattawaali 🦋🎶 #odumkuthirachaadumkuthira #shorts]]></title>
+        <id>https://www.youtube.com/shorts/YB49yZ4INEU</id>
+        <link href="https://www.youtube.com/shorts/YB49yZ4INEU"/>
+        <updated>2025-08-29T02:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 29th of August 2025 # Mathavinte Japamala # Dhukhathinte Rahasyangal 29th of August 2025]]></title>
         <id>https://www.youtube.com/watch?v=y67UMtIEJg4</id>
@@ -13043,34 +13053,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arikil Varoo 4K Video Song | Aanachandam | Jayaram | Remya Nambessan | Rakesh Brahmanandan | Nasnin]]></title>
-        <id>https://www.youtube.com/watch?v=WQ9axWPQEk4</id>
-        <link href="https://www.youtube.com/watch?v=WQ9axWPQEk4"/>
-        <updated>2025-07-30T14:46:19.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnanam Kunninmel  | Kunchacko Boban | Jomol | KJ Yesudas |KS Chithra | S Ramesan Nair #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/hbG5jsCE9bc</id>
-        <link href="https://www.youtube.com/shorts/hbG5jsCE9bc"/>
-        <updated>2025-07-30T14:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abun D'Bashmayo | ആബൂൻ ദ് ബശ് മായോ | The Lord's Prayer | Fr. Philip Thayillem | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=zCF0RT1NxnQ</id>
-        <link href="https://www.youtube.com/watch?v=zCF0RT1NxnQ"/>
-        <updated>2025-07-30T14:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
