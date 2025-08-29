@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T22:08:20.266Z</updated>
+    <updated>2025-08-29T23:08:07.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/PtITqNQkYJc</id>
+        <link href="https://www.youtube.com/shorts/PtITqNQkYJc"/>
+        <updated>2025-08-29T23:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആഗസ്റ്റ്: 30, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=oLOv5mj8xvg</id>
+        <link href="https://www.youtube.com/watch?v=oLOv5mj8xvg"/>
+        <updated>2025-08-29T22:30:14.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 30 # Athiravile Prarthana 30th of August 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=3cruRxxqTiM</id>
@@ -13148,16 +13167,6 @@
         <updated>2025-07-31T11:22:22.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The lyrical finesse of Din Nath Puthenchery! ✨]]></title>
-        <id>https://www.youtube.com/shorts/k9VnRleZ8VA</id>
-        <link href="https://www.youtube.com/shorts/k9VnRleZ8VA"/>
-        <updated>2025-07-31T10:51:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
