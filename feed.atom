@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T08:12:19.095Z</updated>
+    <updated>2025-08-29T09:09:38.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sooryakireedam Veenudanju Video Song | Devasuram | Mohanlal | Gireesh Puthenchery | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=vpObcecdEOw</id>
+        <link href="https://www.youtube.com/watch?v=vpObcecdEOw"/>
+        <updated>2025-08-29T08:30:41.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#OorumBlood 10000 Aura 🔥 #Dude #pradeepranganathan #mamithabaiju @SaiAbhyankkar @Iampaaldabba]]></title>
         <id>https://www.youtube.com/shorts/aLQBNkvx-P4</id>
