@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T10:08:00.123Z</updated>
+    <updated>2025-08-30T11:06:34.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akalum Kinaakkale | Sajan K Ram | Haricharan | Shabi Panangat | Babu John | Akhil Marar]]></title>
+        <id>https://www.youtube.com/watch?v=HlAnD8nIB9E</id>
+        <link href="https://www.youtube.com/watch?v=HlAnD8nIB9E"/>
+        <updated>2025-08-30T10:30:11.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Shyama Sandhyayil | ഈ ശ്യാമ സന്ധ്യയിൽ | Sparsam Movie | KJ Yesudas | Sarath | Manoj K Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=6YehL71x-gY</id>
+        <link href="https://www.youtube.com/watch?v=6YehL71x-gY"/>
+        <updated>2025-08-30T10:30:04.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടിന്റെ പൊന്നോണം | Super Hit Onam Songs | P Jayachandran | MG Sreekumar | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=JmjPZkv0HoI</id>
+        <link href="https://www.youtube.com/watch?v=JmjPZkv0HoI"/>
+        <updated>2025-08-30T10:26:38.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaanana Chayayil | കാനനഛായയിലാടുമേയ്ക്കാന്‍ | Ramanan Malayalam Classic Song |P Leela, KP Udayabhanu]]></title>
         <id>https://www.youtube.com/watch?v=22GlaNu0v0k</id>
@@ -1087,6 +1114,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional Songs Malayalam | Traditional Songs | Immanuel Henry Hits | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=KpTYkn_FGkI</id>
+        <link href="https://www.youtube.com/watch?v=KpTYkn_FGkI"/>
+        <updated>2025-08-27T14:26:51.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -13001,25 +13037,6 @@
         <updated>2025-08-01T00:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/ExgoqsYWE84</id>
-        <link href="https://www.youtube.com/shorts/ExgoqsYWE84"/>
-        <updated>2025-07-31T23:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആഗസ്റ്റ്: 01, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=zs2D8TiAkYo</id>
-        <link href="https://www.youtube.com/watch?v=zs2D8TiAkYo"/>
-        <updated>2025-07-31T22:30:22.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
