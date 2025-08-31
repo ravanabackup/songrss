@@ -2895,6 +2895,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eDlIYqprEmg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eDlIYqprEmg",
+          "publishedOn": "2025-08-31T20:00:33.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന September 1 # Athiravile Prarthana 1st of September 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IpC1uJhPtbI",
           "author": null,
           "description": "",
@@ -7062,16 +7072,6 @@
           "wordCount": null,
           "title": "മനസിന് ആശ്വാസം പകരുന്ന മലയാളസിനിമയിലെ ഒരുപിടി നല്ല ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Yan7kzlcObA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yan7kzlcObA",
-          "publishedOn": "2025-08-02T07:30:14.000Z",
-          "wordCount": null,
-          "title": "ഏതൊരു ശ്രോതാവിന്റെയും മനസ്സിൽ സ്നേഹ സുഗന്ധം  പൂശും മലയാള സിനിമ ഗാനങ്ങൾ | Evergreen Melody Songs",
-          "imageUrl": null
         }
       ]
     },
@@ -9929,26 +9929,6 @@
           "publishedOn": "2025-08-02T11:30:00.000Z",
           "wordCount": null,
           "title": "ഏതുഗാനം പാടിനിൽപ്പു | Ethu Gaanam | Ennodu Para I Love You Ennu | Aavani Malhar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/D9ZRysu-_oA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/D9ZRysu-_oA",
-          "publishedOn": "2025-08-02T08:00:13.000Z",
-          "wordCount": 2119,
-          "title": "അള്ളാ അവളെന്റെ പെണ്ണാകണേ |  Allah Avalente | Ennodu Para I Love You Ennu | Vineeth Sreenivasan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d9mASHbsNIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d9mASHbsNIU",
-          "publishedOn": "2025-08-02T07:30:19.000Z",
-          "wordCount": null,
-          "title": "അള്ളാ അവളെന്റെ പെണ്ണാകണേ |  Allah Avalente | Ennodu Para I Love You Ennu | Vineeth Sreenivasan",
           "imageUrl": null
         }
       ]
