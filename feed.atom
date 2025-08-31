@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T06:12:12.226Z</updated>
+    <updated>2025-08-31T07:07:57.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vedalam - Aaluma Doluma Video with Lyrics | Ajith Kumar | Anirudh]]></title>
+        <id>https://www.youtube.com/watch?v=J4Vl2QfORtI</id>
+        <link href="https://www.youtube.com/watch?v=J4Vl2QfORtI"/>
+        <updated>2025-08-31T07:00:19.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innale Mayagumbol - Ambient Lofi | Aelo | Anveshichu Kandethiyilla | K. J. Yesudas | Baburaj]]></title>
         <id>https://www.youtube.com/watch?v=xaMDjQYum10</id>
@@ -12928,15 +12937,6 @@
         <id>https://www.youtube.com/watch?v=coAXWBYrCRI</id>
         <link href="https://www.youtube.com/watch?v=coAXWBYrCRI"/>
         <updated>2025-08-01T20:00:24.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd August 2025]]></title>
-        <id>https://www.youtube.com/watch?v=35GIdZXkiRE</id>
-        <link href="https://www.youtube.com/watch?v=35GIdZXkiRE"/>
-        <updated>2025-08-01T19:00:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
