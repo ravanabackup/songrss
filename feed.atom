@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T09:07:55.070Z</updated>
+    <updated>2025-08-31T10:08:04.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ponmulam Thandu Moolum | Chandrolsavam | Mohanlal|  Gireesh Puthancherry | Vidyasagar | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=6QpgDW1UNFo</id>
+        <link href="https://www.youtube.com/watch?v=6QpgDW1UNFo"/>
+        <updated>2025-08-31T09:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mangalam Mangalame | മംഗളം മംഗളമേ | 916 Kunjootan Movie | Sachin Raj | Guiness Pakru | New Released]]></title>
         <id>https://www.youtube.com/shorts/h1Em3emabm4</id>
