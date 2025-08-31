@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T17:06:59.601Z</updated>
+    <updated>2025-08-31T18:10:43.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[31 August 2025]]></title>
+        <id>https://www.youtube.com/shorts/UXkgQAyRFTA</id>
+        <link href="https://www.youtube.com/shorts/UXkgQAyRFTA"/>
+        <updated>2025-08-31T17:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Bhuswargam Perunnone…#matchpointfaith #matchpointcreations #stmarys #EttuNombu #mothermarysongs]]></title>
         <id>https://www.youtube.com/shorts/xhvkZyQW7BQ</id>
@@ -13025,33 +13035,6 @@
         <updated>2025-08-02T06:13:42.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thedi Thedi - Video | Nanban Oruvan Vantha Piragu|Venkat Prabhu|Ananth Ram | Aishwarya| A H Kaashif]]></title>
-        <id>https://www.youtube.com/watch?v=xLDL4F0266Q</id>
-        <link href="https://www.youtube.com/watch?v=xLDL4F0266Q"/>
-        <updated>2025-08-02T05:30:16.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non Stop Instrumental Hits Film Songs | Jukebox | സൂപ്പർഹിറ്റ് സിനിമാഗാനളുടെ  ഇൻസ്ട്രുമെന്റൽ]]></title>
-        <id>https://www.youtube.com/watch?v=ZHKUDYfA3pI</id>
-        <link href="https://www.youtube.com/watch?v=ZHKUDYfA3pI"/>
-        <updated>2025-08-02T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambotti Chembothu | 4K| Kottaram Veettile Apputtan | Jayaram | M G Sreekumar | Kalabhavan Mani Hits]]></title>
-        <id>https://www.youtube.com/watch?v=F-W4DlwHywU</id>
-        <link href="https://www.youtube.com/watch?v=F-W4DlwHywU"/>
-        <updated>2025-08-02T05:21:38.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
