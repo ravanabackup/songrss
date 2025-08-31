@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T05:08:40.563Z</updated>
+    <updated>2025-08-31T06:12:12.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innale Mayagumbol - Ambient Lofi | Aelo | Anveshichu Kandethiyilla | K. J. Yesudas | Baburaj]]></title>
+        <id>https://www.youtube.com/watch?v=xaMDjQYum10</id>
+        <link href="https://www.youtube.com/watch?v=xaMDjQYum10"/>
+        <updated>2025-08-31T06:04:14.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweetheart - Original Score | Rio Raj | Gopika Ramesh | Yuvan Shankar Raja | Swineeth S.Sukumar]]></title>
+        <id>https://www.youtube.com/watch?v=nLRPA5bFDog</id>
+        <link href="https://www.youtube.com/watch?v=nLRPA5bFDog"/>
+        <updated>2025-08-31T05:29:29.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Duppattawaali 🦋💖]]></title>
         <id>https://www.youtube.com/shorts/OPDmQUzTzIw</id>
