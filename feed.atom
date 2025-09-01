@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T20:09:16.970Z</updated>
+    <updated>2025-09-01T21:07:30.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13007,25 +13007,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💃 Shokam Venda 💃 #sumathivalavu #shorts]]></title>
-        <id>https://www.youtube.com/shorts/pLfWYBr-OjE</id>
-        <link href="https://www.youtube.com/shorts/pLfWYBr-OjE"/>
-        <updated>2025-08-03T08:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machaane Vaa Video Song | Mannar Mathai Speaking | Vani Viswanath | Mukesh | Malgudi Subha]]></title>
-        <id>https://www.youtube.com/watch?v=ZkVPNr6jTi0</id>
-        <link href="https://www.youtube.com/watch?v=ZkVPNr6jTi0"/>
-        <updated>2025-08-03T08:30:23.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
