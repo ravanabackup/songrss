@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T11:07:55.772Z</updated>
+    <updated>2025-09-01T12:18:13.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jaalakaari - Making | Balti| Shane Nigam| Unni| @SaiAbhyankkar   |Santhosh T Kuruvilla,Binu George]]></title>
+        <id>https://www.youtube.com/watch?v=3f7Z_f_AYQM</id>
+        <link href="https://www.youtube.com/watch?v=3f7Z_f_AYQM"/>
+        <updated>2025-09-01T12:00:08.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kondal Vedan X MGR - Mashup | Heart Killer Beats | Sam C.S., Viswanathan-Ramamoorthy]]></title>
+        <id>https://www.youtube.com/watch?v=R8SrkyBLl6E</id>
+        <link href="https://www.youtube.com/watch?v=R8SrkyBLl6E"/>
+        <updated>2025-09-01T11:34:36.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponchingachilla | Onam Song #yesudas #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/axBQkCaGJvE</id>
+        <link href="https://www.youtube.com/shorts/axBQkCaGJvE"/>
+        <updated>2025-09-01T11:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pande Pande | പണ്ടേ പണ്ടേ | Once Upon A Time In Kochi Movie | Vidhu Prathap Hit | New Released Song]]></title>
         <id>https://www.youtube.com/watch?v=Ad4vIuKPzj4</id>
@@ -12913,15 +12941,6 @@
         <updated>2025-08-03T00:30:15.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pithave | Kester | Wilson | Celin Jose | Elizabeth Raju | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2nS2Ha-jhlI</id>
-        <link href="https://www.youtube.com/watch?v=2nS2Ha-jhlI"/>
-        <updated>2025-08-03T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
