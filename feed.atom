@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T16:10:34.513Z</updated>
+    <updated>2025-09-01T17:07:11.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13047,24 +13047,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇവിടെ നാം നിലാവിൽ...| Ivide naam | Ennodu Para I Love You Ennu | Hari Sankar | Sruthy Sasidharan]]></title>
-        <id>https://www.youtube.com/watch?v=Ph3OgaIEGCU</id>
-        <link href="https://www.youtube.com/watch?v=Ph3OgaIEGCU"/>
-        <updated>2025-08-03T04:30:13.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadyarathi Neelimayil | Idavelakku Sesham | KJ Yesudas | Silk Smitha | Old Malayalam Song HD]]></title>
-        <id>https://www.youtube.com/watch?v=8RQNflbtPrg</id>
-        <link href="https://www.youtube.com/watch?v=8RQNflbtPrg"/>
-        <updated>2025-08-03T04:30:06.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
