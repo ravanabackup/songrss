@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T11:07:41.319Z</updated>
+    <updated>2025-09-02T12:17:49.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maan Kutty Video Song | Ponmudipuzhayorathu | Gireesh Puthenchery | Ilayaraja | Manjari | Asha Menon]]></title>
+        <id>https://www.youtube.com/watch?v=1qkNJNK6iAw</id>
+        <link href="https://www.youtube.com/watch?v=1qkNJNK6iAw"/>
+        <updated>2025-09-02T12:10:14.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്പലമില്ലാതെ ആല്‍ത്തറയില്‍ വാഴും | Paadha Mudra Malayalam Movie Song | Mohanlal | Seema]]></title>
+        <id>https://www.youtube.com/watch?v=OqvdqYezge0</id>
+        <link href="https://www.youtube.com/watch?v=OqvdqYezge0"/>
+        <updated>2025-09-02T11:53:53.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anubhoothi Pookkum | Uthram Nakshathram #kschithra #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/BnmnW3Vq5lA</id>
+        <link href="https://www.youtube.com/shorts/BnmnW3Vq5lA"/>
+        <updated>2025-09-02T11:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siddhu Kumar - Tharana - 18 Miles (Launch Event - Promo) | Ashok Selvan | Mirnaa |Sathish Selvakumar]]></title>
+        <id>https://www.youtube.com/watch?v=Ko1_cLuNuw0</id>
+        <link href="https://www.youtube.com/watch?v=Ko1_cLuNuw0"/>
+        <updated>2025-09-02T11:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayaponmane | മായപൊന്മാനെ | Thalayanamathram Movie | Urvashi | Sreenivasan Movie | Evergreen Hit]]></title>
         <id>https://www.youtube.com/watch?v=gfTxI98wfbE</id>
@@ -23,6 +60,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onapookkaalam Vidarum - Onam Song | Madhu Balakrishnan | Fr. Vineeth Ajimon Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=zdz-CyIRyNI</id>
+        <link href="https://www.youtube.com/watch?v=zdz-CyIRyNI"/>
+        <updated>2025-09-02T09:27:52.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12938,15 +12984,6 @@
         <updated>2025-08-04T00:30:45.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punyam | Kester | Wilson Piravom | Elizabeth Raju | Anju Joseph | Sreya Jaydeep]]></title>
-        <id>https://www.youtube.com/watch?v=alzdph0bPXE</id>
-        <link href="https://www.youtube.com/watch?v=alzdph0bPXE"/>
-        <updated>2025-08-04T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
