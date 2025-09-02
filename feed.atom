@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T07:09:37.723Z</updated>
+    <updated>2025-09-02T08:13:42.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ZWtSFwTE72M</id>
+        <link href="https://www.youtube.com/watch?v=ZWtSFwTE72M"/>
+        <updated>2025-09-02T07:33:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnitta Pettakam | 4K |  Pranayanilaavu | K J Yesudas | Berni Ignatius | Dileep | Mohini]]></title>
+        <id>https://www.youtube.com/watch?v=ah54CaGpwhg</id>
+        <link href="https://www.youtube.com/watch?v=ah54CaGpwhg"/>
+        <updated>2025-09-02T07:31:26.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അത്തം മുതൽ തിരുവോണം വരെ മലയാളികളേവരും എപ്പോഴും കേട്ടുകൊണ്ടിരിക്കുന്ന സിനിമാഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=JhcwyC0YSGk</id>
+        <link href="https://www.youtube.com/watch?v=JhcwyC0YSGk"/>
+        <updated>2025-09-02T07:30:17.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unplugged love ❤️ Straight from @abhyankkar #Dude #Pradeepranganathan #Mamithabaiju #paaldabba]]></title>
+        <id>https://www.youtube.com/watch?v=5VCKNVRHJ94</id>
+        <link href="https://www.youtube.com/watch?v=5VCKNVRHJ94"/>
+        <updated>2025-09-02T07:26:19.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thaanaa Serndha Koottam - Sodakku Video with Lyrics | Suriya, Keerthi Suresh | Anirudh]]></title>
         <id>https://www.youtube.com/watch?v=KD2gxuzabys</id>
@@ -12883,15 +12919,6 @@
         <updated>2025-08-03T22:30:02.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 4 # Athiravile Prarthana 4th of August 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=rsln13dzgxk</id>
-        <link href="https://www.youtube.com/watch?v=rsln13dzgxk"/>
-        <updated>2025-08-03T20:00:37.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
