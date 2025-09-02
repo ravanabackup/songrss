@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T08:13:42.057Z</updated>
+    <updated>2025-09-02T09:10:47.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gange Thudiyil Video Song | HD | Vadakkumnadhan Movie Song | REMASTERED |]]></title>
+        <id>https://www.youtube.com/watch?v=TpceucWRPG0</id>
+        <link href="https://www.youtube.com/watch?v=TpceucWRPG0"/>
+        <updated>2025-09-02T08:55:12.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കളഭം ചാർത്തും | Kalabham Charthum | Thalavattam | MG Sreekumar | Mohanlal Movie Song | Evergreen Hit]]></title>
+        <id>https://www.youtube.com/shorts/usqE9k9MjRA</id>
+        <link href="https://www.youtube.com/shorts/usqE9k9MjRA"/>
+        <updated>2025-09-02T08:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=ZWtSFwTE72M</id>
@@ -368,6 +387,15 @@
         <updated>2025-09-01T10:09:39.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Kaalam | Sithara Krishnakumar | Saawan Rithu | Rafeeq Ahamed | Sreeranjini Kodampally]]></title>
+        <id>https://www.youtube.com/watch?v=ImeCTuWuOgs</id>
+        <link href="https://www.youtube.com/watch?v=ImeCTuWuOgs"/>
+        <updated>2025-09-01T09:47:38.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
