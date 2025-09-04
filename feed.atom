@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T10:09:43.122Z</updated>
+    <updated>2025-09-04T11:07:39.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rettekka - Onam Song 2025 #onam2025 #Rettekka]]></title>
+        <id>https://www.youtube.com/shorts/Hh7Yr6p-WXo</id>
+        <link href="https://www.youtube.com/shorts/Hh7Yr6p-WXo"/>
+        <updated>2025-09-04T11:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavillin Malarthedi | Kadha Ithuvare | Mammootty | Suhasini KJ Yesudas & KS Chithra | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=n1EgauOzIAw</id>
+        <link href="https://www.youtube.com/watch?v=n1EgauOzIAw"/>
+        <updated>2025-09-04T10:14:14.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhtheeduka Sthuthichartheeduka | Lalloo Alphonse | Malayalam Christian Songs | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=SU8Js8lRC8k</id>
+        <link href="https://www.youtube.com/watch?v=SU8Js8lRC8k"/>
+        <updated>2025-09-04T09:53:04.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poo Venam Video Song | Oru Minnaminunginte Nurungu Vettam | Parvathy | KJ Yesudas | Lathika| Johnson]]></title>
         <id>https://www.youtube.com/watch?v=qfG7HpuzaSA</id>
@@ -12851,25 +12879,6 @@
         <updated>2025-08-06T00:30:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/KfSsh1YpAFA</id>
-        <link href="https://www.youtube.com/shorts/KfSsh1YpAFA"/>
-        <updated>2025-08-05T23:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആഗസ്റ്റ്: 06, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=p-olmC8MvD8</id>
-        <link href="https://www.youtube.com/watch?v=p-olmC8MvD8"/>
-        <updated>2025-08-05T22:30:11.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
