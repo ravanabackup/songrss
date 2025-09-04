@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T11:07:39.760Z</updated>
+    <updated>2025-09-04T12:17:01.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manassil Oru Poomala I| nnathe Chinthavishayam #mohanlal #ilayaraja #shortsfeed  #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/05dgeQ_bl0k</id>
+        <link href="https://www.youtube.com/shorts/05dgeQ_bl0k"/>
+        <updated>2025-09-04T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Protest - Lyrical | Udumbanchola Vision | Gopi Sundar | Sreenath Bhasi | Mathew Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=-Uc0uIyAQNk</id>
+        <link href="https://www.youtube.com/watch?v=-Uc0uIyAQNk"/>
+        <updated>2025-09-04T11:28:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rettekka - Onam Song 2025 #onam2025 #Rettekka]]></title>
         <id>https://www.youtube.com/shorts/Hh7Yr6p-WXo</id>
