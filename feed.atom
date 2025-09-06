@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T03:18:53.846Z</updated>
+    <updated>2025-09-06T04:10:10.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12545,35 +12545,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Seethai Out Now ❤️🎶 #PaalDabba #Foxn #ThinkIndie]]></title>
-        <id>https://www.youtube.com/shorts/5xQCUL0M4ZI</id>
-        <link href="https://www.youtube.com/shorts/5xQCUL0M4ZI"/>
-        <updated>2025-08-07T15:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/qBFBsJA9rHY</id>
-        <link href="https://www.youtube.com/shorts/qBFBsJA9rHY"/>
-        <updated>2025-08-07T15:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 9 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith||]]></title>
-        <id>https://www.youtube.com/watch?v=pJ4crQ4Xf8I</id>
-        <link href="https://www.youtube.com/watch?v=pJ4crQ4Xf8I"/>
-        <updated>2025-08-07T15:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
