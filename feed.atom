@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T17:05:26.353Z</updated>
+    <updated>2025-09-07T18:10:21.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12587,42 +12587,6 @@
         <updated>2025-08-09T07:03:54.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aavanippadamaakave | ആവണിപ്പടമാകവേ | Grihapravesham Movie | KJ Yesudas | ONV Kurup | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=_57SkEtdtwA</id>
-        <link href="https://www.youtube.com/watch?v=_57SkEtdtwA"/>
-        <updated>2025-08-09T06:00:46.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classical Moments | Sharreth | Audio Jukebox | Carnatic Classical Krithis by Sharreth]]></title>
-        <id>https://www.youtube.com/watch?v=xgNWHj70rjs</id>
-        <link href="https://www.youtube.com/watch?v=xgNWHj70rjs"/>
-        <updated>2025-08-09T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minmini - Original Score | Halitha Shameem | Khatija Rahman|EstherAnil|PraveenKishore|C.GauravKaalai]]></title>
-        <id>https://www.youtube.com/watch?v=-6K5Pj9RzpY</id>
-        <link href="https://www.youtube.com/watch?v=-6K5Pj9RzpY"/>
-        <updated>2025-08-09T05:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sembakame Sevappazhake 4K Video Song | Shikkar | Shankar Mahadevan | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=ezQff3ytsgY</id>
-        <link href="https://www.youtube.com/watch?v=ezQff3ytsgY"/>
-        <updated>2025-08-09T05:27:24.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
