@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T13:13:43.077Z</updated>
+    <updated>2025-09-07T14:06:51.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ilamai Kadhal - Afrobeat Mix | The Independeners | Neymar | Anthony Daasan | Shaan Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=NvAlm3TXiMU</id>
+        <link href="https://www.youtube.com/watch?v=NvAlm3TXiMU"/>
+        <updated>2025-09-07T13:30:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിനെ ദൈവവഴിയെ തിരിച്ചുവിടും ഗാനങ്ങൾ | Kester | Christian Melody Songs | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=NvJehEqSeG0</id>
+        <link href="https://www.youtube.com/watch?v=NvJehEqSeG0"/>
+        <updated>2025-09-07T13:30:21.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിന്റെ എട്ടുനോമ്പ് ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | #mathavu | Zion Classics]]></title>
+        <id>https://www.youtube.com/watch?v=7GzouI16rKQ</id>
+        <link href="https://www.youtube.com/watch?v=7GzouI16rKQ"/>
+        <updated>2025-09-07T13:30:05.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അകതാരിൽ നിറയുന്ന |  മാതാവിന്റെ പിറവിത്തിരുന്നാൾ മംഗളങ്ങൾ | @JinoKunnumpurathu  #shorts #mathavu]]></title>
         <id>https://www.youtube.com/shorts/_axqz9qUhi4</id>
@@ -12567,26 +12594,6 @@
         <updated>2025-08-09T04:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#കാന്തനേശു #KaanthaneshuVanameghe #RejiAbraham #Kanthanyeshu]]></title>
-        <id>https://www.youtube.com/shorts/n3oMcF0GOKs</id>
-        <link href="https://www.youtube.com/shorts/n3oMcF0GOKs"/>
-        <updated>2025-08-09T02:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maname Pakshiganangal | Cicily Abraham | Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/0PSxj7iD5GM</id>
-        <link href="https://www.youtube.com/shorts/0PSxj7iD5GM"/>
-        <updated>2025-08-09T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
