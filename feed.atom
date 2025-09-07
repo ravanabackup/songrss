@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T11:04:17.032Z</updated>
+    <updated>2025-09-07T12:14:52.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12519,15 +12519,6 @@
         <updated>2025-08-09T00:30:18.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nithya Jeevante Manna | Kester | Gakul Joseph | K.G.Markose | Vijesh Gopal | Wilson Piravom]]></title>
-        <id>https://www.youtube.com/watch?v=MBD0zFYXvD4</id>
-        <link href="https://www.youtube.com/watch?v=MBD0zFYXvD4"/>
-        <updated>2025-08-09T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
