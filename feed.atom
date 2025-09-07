@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T03:26:58.565Z</updated>
+    <updated>2025-09-07T04:10:11.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Annarakanna Vaa | Bhramaram #Lyrical #shorts #moviesongs #malyalam #mohanlal #blessy #manoramamusic]]></title>
+        <id>https://www.youtube.com/shorts/D1W8P62KZd4</id>
+        <link href="https://www.youtube.com/shorts/D1W8P62KZd4"/>
+        <updated>2025-09-07T03:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie]]></title>
+        <id>https://www.youtube.com/shorts/0BOSKFxfQ58</id>
+        <link href="https://www.youtube.com/shorts/0BOSKFxfQ58"/>
+        <updated>2025-09-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ellam Kanunna Daivam | Shorts #EllamKanunnaDaivam #AshlyMary #manoramamusic#malayalamchristiansongs]]></title>
         <id>https://www.youtube.com/shorts/hzHhSRxdBxg</id>
@@ -12423,25 +12443,6 @@
         <updated>2025-08-08T19:00:01.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaatru Veesum Un Vaasam ❤️🎶 #Neram #NazriyaNazim #RajeshMurugesan]]></title>
-        <id>https://www.youtube.com/shorts/_MBzZQ9Am_g</id>
-        <link href="https://www.youtube.com/shorts/_MBzZQ9Am_g"/>
-        <updated>2025-08-08T15:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadima Neethinjare | ആദിമ നീതിജ്ഞരെ | Orthodox Wedding Song | Maria Kolady | Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=bDb8J3Wpb7o</id>
-        <link href="https://www.youtube.com/watch?v=bDb8J3Wpb7o"/>
-        <updated>2025-08-08T15:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
