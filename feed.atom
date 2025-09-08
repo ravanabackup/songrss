@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T07:09:39.952Z</updated>
+    <updated>2025-09-08T08:14:03.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അവധികാലം കൂടുതൽ രസകരമാക്കും മലയാളസിനിമാഗാനങ്ങൾ | OLD SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=WNH114tdT0c</id>
+        <link href="https://www.youtube.com/watch?v=WNH114tdT0c"/>
+        <updated>2025-09-08T07:30:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh My Kadavule - Kadhaippoma Video with Lyrics | Ashok Selvan | Leon James]]></title>
         <id>https://www.youtube.com/watch?v=fDKQXNqKT_U</id>
@@ -12358,15 +12367,6 @@
         <updated>2025-08-09T22:30:04.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 10 # Athiravile Prarthana 10th of August 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=XAuvasrZD40</id>
-        <link href="https://www.youtube.com/watch?v=XAuvasrZD40"/>
-        <updated>2025-08-09T20:00:32.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
