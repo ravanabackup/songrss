@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T17:08:16.011Z</updated>
+    <updated>2025-09-08T18:13:31.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12495,52 +12495,6 @@
         <updated>2025-08-10T06:29:56.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 10 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith|]]></title>
-        <id>https://www.youtube.com/watch?v=h-LpDnShg8A</id>
-        <link href="https://www.youtube.com/watch?v=h-LpDnShg8A"/>
-        <updated>2025-08-10T06:12:05.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangala Deepavumay 4K | Kaikudanna Nilavu | Jayaram | Dileep |  KS Chithra, Shabnam & Chorus]]></title>
-        <id>https://www.youtube.com/watch?v=Ws9BVmkHQXo</id>
-        <link href="https://www.youtube.com/watch?v=Ws9BVmkHQXo"/>
-        <updated>2025-08-10T05:31:16.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Mozhi Parayam |  IRA #unnimukundan #gopisundar #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/UKNUn1Hl4AM</id>
-        <link href="https://www.youtube.com/shorts/UKNUn1Hl4AM"/>
-        <updated>2025-08-10T05:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asur Theme Video Song - Tamil | Mahavatar Narsimha | Sam CS | Hombale Films | Kleem Productions]]></title>
-        <id>https://www.youtube.com/watch?v=zKL8HdVPH_g</id>
-        <link href="https://www.youtube.com/watch?v=zKL8HdVPH_g"/>
-        <updated>2025-08-10T05:30:06.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asur Theme Video Song - Malayalam | Mahavatar Narsimha | Sam CS | Hombale Films | Kleem Productions]]></title>
-        <id>https://www.youtube.com/watch?v=vrBOok1dKMs</id>
-        <link href="https://www.youtube.com/watch?v=vrBOok1dKMs"/>
-        <updated>2025-08-10T05:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
