@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T11:07:50.761Z</updated>
+    <updated>2025-09-08T12:18:31.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Naadham Maninadham 4K Video Song | Naadody | Mohanlal | MG Sreekumar | SP Venkatesh | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=IKm39u0xkfo</id>
+        <link href="https://www.youtube.com/watch?v=IKm39u0xkfo"/>
+        <updated>2025-09-08T12:00:37.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Kanne Kanmaniye HD Video Song | Kadhayile Nayika | Singer (Shankar Mahadevan)]]></title>
+        <id>https://www.youtube.com/watch?v=kCbgh505HtU</id>
+        <link href="https://www.youtube.com/watch?v=kCbgh505HtU"/>
+        <updated>2025-09-08T11:43:19.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maasam Thaimaasam | E Mazha Thenmazha Movie | മാസം തൈമാസം | MG Sreekumar | Sujatha | Johnson Master]]></title>
+        <id>https://www.youtube.com/shorts/iALJk2qPhDM</id>
+        <link href="https://www.youtube.com/shorts/iALJk2qPhDM"/>
+        <updated>2025-09-08T11:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhivakkil | Annayum Rasoolum #fahadhfaasil #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/mL6OPXGpzxs</id>
+        <link href="https://www.youtube.com/shorts/mL6OPXGpzxs"/>
+        <updated>2025-09-08T11:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ | St Mary’s songs | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/0rpGpoYhb2k</id>
+        <link href="https://www.youtube.com/shorts/0rpGpoYhb2k"/>
+        <updated>2025-09-08T11:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maasam Thaimaasam | E Mazha Thenmazha Movie | മാസം തൈമാസം | MG Sreekumar | Sujatha | Johnson Master]]></title>
         <id>https://www.youtube.com/watch?v=AKiEtfDe2NU</id>
@@ -12367,15 +12415,6 @@
         <updated>2025-08-10T00:30:02.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninte Varavinaay |]]></title>
-        <id>https://www.youtube.com/watch?v=KSntHpJ9sbg</id>
-        <link href="https://www.youtube.com/watch?v=KSntHpJ9sbg"/>
-        <updated>2025-08-10T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
