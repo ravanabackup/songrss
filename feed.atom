@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T18:13:31.138Z</updated>
+    <updated>2025-09-08T19:07:04.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th SEP 2025]]></title>
+        <id>https://www.youtube.com/watch?v=jOAZLuy7slY</id>
+        <link href="https://www.youtube.com/watch?v=jOAZLuy7slY"/>
+        <updated>2025-09-08T19:00:41.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 September 2025]]></title>
         <id>https://www.youtube.com/shorts/6Vg1-pcThrQ</id>
@@ -12477,24 +12486,6 @@
         <updated>2025-08-10T07:30:05.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിൻ്റെ ആത്മാവ് നേരിട്ട് വെളിപ്പെടുത്തിയ ഗാനം Pavanalmave Varika | Holy Spirit Song Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=zrXKAfyWJ7c</id>
-        <link href="https://www.youtube.com/watch?v=zrXKAfyWJ7c"/>
-        <updated>2025-08-10T06:59:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sahasam - Sneak Peek 1 | Ramzan | Gouri | Babu Antony | Narain | Bibin Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=QRi1R07oQag</id>
-        <link href="https://www.youtube.com/watch?v=QRi1R07oQag"/>
-        <updated>2025-08-10T06:29:56.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
