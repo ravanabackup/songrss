@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-09T10:09:59.353Z</updated>
+    <updated>2025-09-09T11:08:12.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kettu Pottiya Pattam | Uyirin Uyire | VideoSong | Afvin Mathew | Mathachan Company | Kudurkars Films]]></title>
+        <id>https://www.youtube.com/watch?v=b21qSBtRxgY</id>
+        <link href="https://www.youtube.com/watch?v=b21qSBtRxgY"/>
+        <updated>2025-09-09T10:52:42.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒന്നാനാം ഊഞ്ഞാൽ ഒരു പൂവിനൂഞ്ഞാൽ | Onnanam Oonjaal Oru Poovinoonjaal | Aalkkoottathil Thaniye]]></title>
+        <id>https://www.youtube.com/shorts/hYoEDU3FBKU</id>
+        <link href="https://www.youtube.com/shorts/hYoEDU3FBKU"/>
+        <updated>2025-09-09T10:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhayam Lesham Lyrical Video | Maria Kolady | Malayalam Christian Devotional Songs Lyrics Video]]></title>
+        <id>https://www.youtube.com/watch?v=cig5fE6ZsN0</id>
+        <link href="https://www.youtube.com/watch?v=cig5fE6ZsN0"/>
+        <updated>2025-09-09T10:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pandengando Randalu | പണ്ടെങ്ങാണ്ടോ രണ്ടാള് | Aanakallan Movie | Biju Menon | Madhu Balakrishnan]]></title>
         <id>https://www.youtube.com/shorts/C5ZRuJ_kdyE</id>
@@ -12439,25 +12467,6 @@
         <updated>2025-08-11T00:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/THwMzAUL7OM</id>
-        <link href="https://www.youtube.com/shorts/THwMzAUL7OM"/>
-        <updated>2025-08-10T23:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആഗസ്റ്റ്: 11, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=hhByyT6Uzyg</id>
-        <link href="https://www.youtube.com/watch?v=hhByyT6Uzyg"/>
-        <updated>2025-08-10T22:30:08.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
