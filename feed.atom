@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T23:08:35.635Z</updated>
+    <updated>2025-09-09T00:42:34.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 9th of September 2025 # Mathavinte Japamala Dhukhathinte Rahasyangal 9th of September 25]]></title>
+        <id>https://www.youtube.com/watch?v=H5q0b_yZMrU</id>
+        <link href="https://www.youtube.com/watch?v=H5q0b_yZMrU"/>
+        <updated>2025-09-09T00:30:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/NeShCqM_8vA</id>
@@ -12421,52 +12430,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennila Kanyake - Lofi | The Independeners | Pavi Caretaker | K. S. Harisankar | Midhun Mukundan]]></title>
-        <id>https://www.youtube.com/watch?v=zLtLJ4v2LIo</id>
-        <link href="https://www.youtube.com/watch?v=zLtLJ4v2LIo"/>
-        <updated>2025-08-10T12:31:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹസാന്നിധ്യം    | 😇 | Rev. Aneesh P Joseph | #shorts  #motivation]]></title>
-        <id>https://www.youtube.com/shorts/wXWMLDcNlRg</id>
-        <link href="https://www.youtube.com/shorts/wXWMLDcNlRg"/>
-        <updated>2025-08-10T12:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജോജി ജോൺസിന്റെ ശാന്ത സുന്ദര ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Wilson Piravom]]></title>
-        <id>https://www.youtube.com/watch?v=mVn5zFxZ-3w</id>
-        <link href="https://www.youtube.com/watch?v=mVn5zFxZ-3w"/>
-        <updated>2025-08-10T12:30:51.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasrayan | Kester | Wilswaraj | Gagul Joseph | Aji Puthur | Ramesh Murali]]></title>
-        <id>https://www.youtube.com/watch?v=UiMg-UAwWtU</id>
-        <link href="https://www.youtube.com/watch?v=UiMg-UAwWtU"/>
-        <updated>2025-08-10T12:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാളെ എന്തെന്ന് ഓർത്തു വിഷമിക്കേണ്ട ഈ ഗാനങ്ങൾ കേട്ടാൽ | Prathyasha Geethangal | Binoy Chacko]]></title>
-        <id>https://www.youtube.com/watch?v=32q2NTec-Us</id>
-        <link href="https://www.youtube.com/watch?v=32q2NTec-Us"/>
-        <updated>2025-08-10T12:30:05.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
