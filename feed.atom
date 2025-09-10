@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T05:08:54.685Z</updated>
+    <updated>2025-09-10T06:13:37.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അമ്മേ അമ്മേ | Amme Amme | War and Love Hit Movie Video Song | Dileep | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=M4iGUDI-rUo</id>
+        <link href="https://www.youtube.com/watch?v=M4iGUDI-rUo"/>
+        <updated>2025-09-10T05:56:06.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thumbi Kalayanathinu 4K | Kalyanaraman | Dileep | Navya Nair| MG Sreekumar | Sujatha Mohan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=d-UyfEzvkFU</id>
+        <link href="https://www.youtube.com/watch?v=d-UyfEzvkFU"/>
+        <updated>2025-09-10T05:39:13.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velmuruka (Remix) | Naran | Video | Mohanlal | M G Sreekumar | Deepak Dev | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=gE9Sz1HFA9k</id>
+        <link href="https://www.youtube.com/watch?v=gE9Sz1HFA9k"/>
+        <updated>2025-09-10T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shokam Venda 💃🥁🎶]]></title>
         <id>https://www.youtube.com/shorts/nIbylsIOD7k</id>
@@ -12337,16 +12364,6 @@
         <updated>2025-08-11T19:00:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[st Marys songs, mother mary Orthodox songs, Shoonoyo Nomb, Vangippu perunnal #shoonoyoperunal]]></title>
-        <id>https://www.youtube.com/shorts/JFqqgaDOwGU</id>
-        <link href="https://www.youtube.com/shorts/JFqqgaDOwGU"/>
-        <updated>2025-08-11T17:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
