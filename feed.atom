@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T14:08:17.059Z</updated>
+    <updated>2025-09-10T15:09:15.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 13 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith|]]></title>
+        <id>https://www.youtube.com/watch?v=0kXs-FZXngY</id>
+        <link href="https://www.youtube.com/watch?v=0kXs-FZXngY"/>
+        <updated>2025-09-10T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
+        <id>https://www.youtube.com/shorts/GxXR8hv4n_k</id>
+        <link href="https://www.youtube.com/shorts/GxXR8hv4n_k"/>
+        <updated>2025-09-10T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aazhakkadalinte | Vayalar Sarathchandra Varma | Vidyasagar | S Janaki #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/3X-fOaQtOss</id>
+        <link href="https://www.youtube.com/shorts/3X-fOaQtOss"/>
+        <updated>2025-09-10T14:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Khayal musical short film releasing on September 12th]]></title>
         <id>https://www.youtube.com/shorts/cCKWcdKmeq4</id>
