@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T14:08:54.582Z</updated>
+    <updated>2025-09-11T15:09:23.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parakkum Thalika  | Dileep | Harisree Ashokan | Ee Parakkum Thalika #shorts]]></title>
+        <id>https://www.youtube.com/shorts/bSLrDd9qKoM</id>
+        <link href="https://www.youtube.com/shorts/bSLrDd9qKoM"/>
+        <updated>2025-09-11T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/6JdJO5gnSUc</id>
+        <link href="https://www.youtube.com/shorts/6JdJO5gnSUc"/>
+        <updated>2025-09-11T14:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urakkam Kankalil | 4K | Mahayanam | Mukesh | Jalaja | Mammootty | Philomina - MG Sreekumar Hits]]></title>
+        <id>https://www.youtube.com/watch?v=hMOHOjN9wcE</id>
+        <link href="https://www.youtube.com/watch?v=hMOHOjN9wcE"/>
+        <updated>2025-09-11T14:17:27.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസ്സിൽ സ്ഥാനം പിടിച്ച സുന്ദര  മെലഡി ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=sl5i0SNBb3U</id>
