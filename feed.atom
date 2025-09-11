@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T07:09:15.717Z</updated>
+    <updated>2025-09-11T08:12:52.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thathane Arinjilla...#christiandevotionalsongs #kesterhits #jojijohns #christiandevotionalsong]]></title>
+        <id>https://www.youtube.com/shorts/nHYQmjwtsB8</id>
+        <link href="https://www.youtube.com/shorts/nHYQmjwtsB8"/>
+        <updated>2025-09-11T07:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീർപ്പളുങ്കുപോൽ മനസ്സിൽ ചിതറിയ മലയാളസിനിമയിലെ വിരഹ ഗാനങ്ങൾ | HEART TOUCHING SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=DqxV93rqLxU</id>
+        <link href="https://www.youtube.com/watch?v=DqxV93rqLxU"/>
+        <updated>2025-09-11T07:30:13.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bigil - Singappenney Video with Lyrics | Vijay, Nayanthara | A. R. Rahman]]></title>
         <id>https://www.youtube.com/watch?v=8JXVsEpY9jA</id>
@@ -32,6 +51,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odiyangam | Official Trailer | Sunil Subramanian | Praveen Kumar Mudaliar | Rijosh VA | Film Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=k3nqoMIIBtI</id>
+        <link href="https://www.youtube.com/watch?v=k3nqoMIIBtI"/>
+        <updated>2025-09-11T06:40:46.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -12343,15 +12371,6 @@
         <updated>2025-08-12T22:30:14.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 13 # Athiravile Prarthana 13th of August 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=q4urxzd6WG0</id>
-        <link href="https://www.youtube.com/watch?v=q4urxzd6WG0"/>
-        <updated>2025-08-12T20:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
