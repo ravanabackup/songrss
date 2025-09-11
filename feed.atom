@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T09:09:23.211Z</updated>
+    <updated>2025-09-11T10:09:08.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=wNHxjQb9eKU</id>
+        <link href="https://www.youtube.com/watch?v=wNHxjQb9eKU"/>
+        <updated>2025-09-11T10:02:58.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kiliye Kiliye 4K Video Song | Aa Rathri | Mammootty | Ilayaraja | S Janaki | Poovachal Khader]]></title>
         <id>https://www.youtube.com/watch?v=ZKrpgwFJKZA</id>
@@ -547,6 +556,15 @@
         <updated>2025-09-10T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worship Songs Mashup | Malayalam Christian Medley|സൂപ്പർഹിറ്റ് മാഷപ്പ്| Pooja Prem|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=MzZJNr247Ww</id>
+        <link href="https://www.youtube.com/watch?v=MzZJNr247Ww"/>
+        <updated>2025-09-10T05:07:59.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
