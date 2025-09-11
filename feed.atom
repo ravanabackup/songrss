@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T17:07:30.390Z</updated>
+    <updated>2025-09-11T18:10:41.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12455,51 +12455,6 @@
         <updated>2025-08-13T06:15:00.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharamai Thinkalai | താരമായ് തിങ്കളായ് | Ann Maria Kalippilanu | Sachin Warrier | Shan Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=R2-DH1FUhp0</id>
-        <link href="https://www.youtube.com/watch?v=R2-DH1FUhp0"/>
-        <updated>2025-08-13T05:57:12.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നനഞ്ഞ നേരിയ പട്ടുറുമാല്‍ | Nananju Neriya Patturumaal | Ente Mohangal Poovaninju | Yesudas  S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=TRv8M8vOK-o</id>
-        <link href="https://www.youtube.com/watch?v=TRv8M8vOK-o"/>
-        <updated>2025-08-13T05:43:32.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mindathathenthe Kili Penne | Vishnulokam | 4K| Mohanlal Hits | MG Sreekumar | Raveendran Hits]]></title>
-        <id>https://www.youtube.com/watch?v=HIi6twqZZyU</id>
-        <link href="https://www.youtube.com/watch?v=HIi6twqZZyU"/>
-        <updated>2025-08-13T05:33:54.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruvathirakali Pattukal |Jukebox | K S Chithra | Kanipayyur Kaikottikali Sangham | Malathy G Menon]]></title>
-        <id>https://www.youtube.com/watch?v=ktjLw8lqL34</id>
-        <link href="https://www.youtube.com/watch?v=ktjLw8lqL34"/>
-        <updated>2025-08-13T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Braidaathi - Video | Ponman | Basil Joseph | Lijo Mol | Sajin Gopu | Jothish Shankar|Justin Varghese]]></title>
-        <id>https://www.youtube.com/watch?v=3Od93tWvjt0</id>
-        <link href="https://www.youtube.com/watch?v=3Od93tWvjt0"/>
-        <updated>2025-08-13T05:30:05.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
