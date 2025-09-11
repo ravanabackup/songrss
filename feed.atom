@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T13:16:35.381Z</updated>
+    <updated>2025-09-11T14:08:54.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ സ്ഥാനം പിടിച്ച സുന്ദര  മെലഡി ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=sl5i0SNBb3U</id>
+        <link href="https://www.youtube.com/watch?v=sl5i0SNBb3U"/>
+        <updated>2025-09-11T13:31:00.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വീണുപോകാതെ താങ്ങിനിർത്തുന്ന യേശുവിന്റെ ഗാനങ്ങൾ  | @JinoKunnumpurathu #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=rFxAwdt1p8s</id>
+        <link href="https://www.youtube.com/watch?v=rFxAwdt1p8s"/>
+        <updated>2025-09-11T13:30:58.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akame - Song of the day!]]></title>
+        <id>https://www.youtube.com/shorts/Mgds7u7PUnI</id>
+        <link href="https://www.youtube.com/shorts/Mgds7u7PUnI"/>
+        <updated>2025-09-11T13:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്രകേട്ടാലും മതിവരില്ല ഈ പഴയകാല ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Songs Malayalam | Old Is Gold]]></title>
+        <id>https://www.youtube.com/watch?v=Jnu9-ZeH6Ts</id>
+        <link href="https://www.youtube.com/watch?v=Jnu9-ZeH6Ts"/>
+        <updated>2025-09-11T13:30:30.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gokula Bala Balaka Song | Parthan Kanda Paralokam | Jayaram | Jassie Gift | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=I9txCXJ6Dxg</id>
@@ -12473,26 +12510,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnathan Nee | Sujatha | Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/rw35rDKz8q0</id>
-        <link href="https://www.youtube.com/shorts/rw35rDKz8q0"/>
-        <updated>2025-08-13T02:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aala Vittodiya Kunjadu Njan | Christian Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/MsSniXXiYh0</id>
-        <link href="https://www.youtube.com/shorts/MsSniXXiYh0"/>
-        <updated>2025-08-13T01:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
