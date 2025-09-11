@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T10:09:08.125Z</updated>
+    <updated>2025-09-11T11:07:12.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vishupakshi Chilachu | വിഷുപ്പക്ഷി ചിലച്ചു | Elanjipookal Movie | KJ Yesudas | Ratheesh Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=kdiaA856M-0</id>
+        <link href="https://www.youtube.com/watch?v=kdiaA856M-0"/>
+        <updated>2025-09-11T10:46:08.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=wNHxjQb9eKU</id>
@@ -12408,25 +12417,6 @@
         <updated>2025-08-13T00:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/ZHvMhcdDoFQ</id>
-        <link href="https://www.youtube.com/shorts/ZHvMhcdDoFQ"/>
-        <updated>2025-08-12T23:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആഗസ്റ്റ്: 13, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=keWFzK6sJg4</id>
-        <link href="https://www.youtube.com/watch?v=keWFzK6sJg4"/>
-        <updated>2025-08-12T22:30:14.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
