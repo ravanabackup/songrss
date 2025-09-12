@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T11:07:17.827Z</updated>
+    <updated>2025-09-12T12:17:04.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Vaanile Video Song | DNA | Atharvaa, Nimisha Sajayan | @pravinsaivi | Nelson Venkatesan]]></title>
+        <id>https://www.youtube.com/watch?v=p7K4pT54Zz8</id>
+        <link href="https://www.youtube.com/watch?v=p7K4pT54Zz8"/>
+        <updated>2025-09-12T12:00:04.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manasil Midhuna Mazha 4K | Nandhanam | MG Sreekumar|Radhika Thilak | Gireesh Puthenchery| Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=1kUSt7LibWU</id>
+        <link href="https://www.youtube.com/watch?v=1kUSt7LibWU"/>
+        <updated>2025-09-12T11:53:13.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olakkam | 1983 #nivinpauly #gopisundar #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/9Xm0YAJ6Gns</id>
+        <link href="https://www.youtube.com/shorts/9Xm0YAJ6Gns"/>
+        <updated>2025-09-12T11:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaranne Aaranne |DJ Remix Video| Urumi |DJ Savyo|Deepak Dev| Engandiyoor Chandrasekharan| Job Kuruan]]></title>
+        <id>https://www.youtube.com/watch?v=oaozbQkSsbw</id>
+        <link href="https://www.youtube.com/watch?v=oaozbQkSsbw"/>
+        <updated>2025-09-12T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porattam - Video Song | Flask | Saiju Kurup | BK Harinarayanan | Sidhartha Pradeep]]></title>
+        <id>https://www.youtube.com/watch?v=OwfnxVSJKFM</id>
+        <link href="https://www.youtube.com/watch?v=OwfnxVSJKFM"/>
+        <updated>2025-09-12T11:30:06.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread |Malayalam Christian Song | Maramon  song]]></title>
+        <id>https://www.youtube.com/shorts/2Z9t6z8IxGI</id>
+        <link href="https://www.youtube.com/shorts/2Z9t6z8IxGI"/>
+        <updated>2025-09-12T11:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odiyangam | Official Trailer | Sunil Subramanian | Praveen Kumar Mudaliar | Rijosh | Film Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=lF94_FdutiE</id>
+        <link href="https://www.youtube.com/watch?v=lF94_FdutiE"/>
+        <updated>2025-09-12T11:26:28.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manthrikkochamma Varunnunde | മന്ത്രിക്കൊച്ചമ്മ വരുന്നുണ്ടേ | God Father | Bichu Thirumala | Mukesh]]></title>
         <id>https://www.youtube.com/watch?v=RdnnKAy2dJo</id>
@@ -12236,15 +12301,6 @@
         <updated>2025-08-14T00:30:08.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhikalil | Kester | K.G.Markose | Najim Arshad | Elizabeth | Mithila | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=qm2YQsnTRxQ</id>
-        <link href="https://www.youtube.com/watch?v=qm2YQsnTRxQ"/>
-        <updated>2025-08-14T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
