@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T10:07:26.904Z</updated>
+    <updated>2025-09-14T11:03:26.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannerkayaliletho 4K Video | Ramji Rao Speaking  |  Mukesh | M G Sreekumar | K S Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=CRBZsALXyQ4</id>
+        <link href="https://www.youtube.com/watch?v=CRBZsALXyQ4"/>
+        <updated>2025-09-14T10:45:03.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rajinimurugan - Un Mele Oru Kannu Video with Lyrics | Sivakarthikeyan | D. Imman]]></title>
         <id>https://www.youtube.com/watch?v=J-Gv9dwRegQ</id>
@@ -11969,25 +11978,6 @@
         <updated>2025-08-16T00:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/Rdk8N66HC6U</id>
-        <link href="https://www.youtube.com/shorts/Rdk8N66HC6U"/>
-        <updated>2025-08-15T23:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആഗസ്റ്റ്: 16, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=2XT1NzzvjwU</id>
-        <link href="https://www.youtube.com/watch?v=2XT1NzzvjwU"/>
-        <updated>2025-08-15T22:30:01.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
