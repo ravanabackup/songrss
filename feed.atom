@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T17:05:46.289Z</updated>
+    <updated>2025-09-14T18:10:12.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12028,33 +12028,6 @@
         <updated>2025-08-16T07:36:16.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Vattam Koodiyenormagal | ഒരു വട്ടം കൂടിയെന്നോർമകൾ | Chillu Movie | KJ Yesudas | ONV Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=NonLfYSDEME</id>
-        <link href="https://www.youtube.com/watch?v=NonLfYSDEME"/>
-        <updated>2025-08-16T05:59:56.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doore Mamamara | Varnapakittu | Mohanlal Hits | Gireesh Puthanchery | Vidyasagar | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=kxKfK4tcSnI</id>
-        <link href="https://www.youtube.com/watch?v=kxKfK4tcSnI"/>
-        <updated>2025-08-16T05:38:33.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PT Sir - Original Score | Hiphop Tamizha | Kashmira Pardeshi | Karthik Venugopalan | Vels]]></title>
-        <id>https://www.youtube.com/watch?v=RRC8gHgC1rk</id>
-        <link href="https://www.youtube.com/watch?v=RRC8gHgC1rk"/>
-        <updated>2025-08-16T05:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
