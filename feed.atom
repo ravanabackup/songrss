@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T17:07:47.927Z</updated>
+    <updated>2025-09-15T18:12:43.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12046,35 +12046,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karalinte Novarinjal | 4K |  Kottaram Veettile Appoottan | Jayaram | K J Yesudas | Berny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=r5cwEtnNmtc</id>
-        <link href="https://www.youtube.com/watch?v=r5cwEtnNmtc"/>
-        <updated>2025-08-17T05:49:51.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BlastOnam hookstep 💃🕺]]></title>
-        <id>https://www.youtube.com/shorts/NMd5ZgUfKSw</id>
-        <link href="https://www.youtube.com/shorts/NMd5ZgUfKSw"/>
-        <updated>2025-08-17T05:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poo Avizhum Pozhudhil 🌻 #sanjkayy #pradeepkumar]]></title>
-        <id>https://www.youtube.com/shorts/5S2lqqCE6Gw</id>
-        <link href="https://www.youtube.com/shorts/5S2lqqCE6Gw"/>
-        <updated>2025-08-17T05:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
