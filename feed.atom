@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T05:08:54.621Z</updated>
+    <updated>2025-09-16T06:13:49.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thattan Thattan 🌱 #santhoshnarayanan #dhanush #aishwarya]]></title>
+        <id>https://www.youtube.com/shorts/HQnCOI7fcBQ</id>
+        <link href="https://www.youtube.com/shorts/HQnCOI7fcBQ"/>
+        <updated>2025-09-16T05:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonam Thrikkannil 4K | Varnakkazhchakal | Dileep | K S Chithra | Mohan Sithara Hits]]></title>
+        <id>https://www.youtube.com/watch?v=LS6T8U4AcCo</id>
+        <link href="https://www.youtube.com/watch?v=LS6T8U4AcCo"/>
+        <updated>2025-09-16T05:34:20.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viriyunnu kozhiyunnu | Bombay March 12 | Mammootty | Afzal Yusuff | Rafeeq Ahamed | Sadhana Sargam]]></title>
+        <id>https://www.youtube.com/watch?v=4pHrod1R5R4</id>
+        <link href="https://www.youtube.com/watch?v=4pHrod1R5R4"/>
+        <updated>2025-09-16T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TOMIN THACHANKARY, YESUDAS & CHITHRA CHRISTIAN DEVOTIONAL SONGS]]></title>
         <id>https://www.youtube.com/watch?v=o892YGlYQmA</id>
