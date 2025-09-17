@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T11:07:21.702Z</updated>
+    <updated>2025-09-17T12:17:14.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NaMo 75 | Celebrating PM Shri Narendra Modi Ji’s 75th Birthday | Kailas | Vaishnav Girish | Sruthy]]></title>
+        <id>https://www.youtube.com/watch?v=sYYCedr9720</id>
+        <link href="https://www.youtube.com/watch?v=sYYCedr9720"/>
+        <updated>2025-09-17T12:08:15.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/SETw-jOF6hA</id>
+        <link href="https://www.youtube.com/shorts/SETw-jOF6hA"/>
+        <updated>2025-09-17T11:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinners | Vala - Story of A Bangle| Lukman Avaran,Dhyan| Govind Vasantha|The Imbachi,GABRI |Muhashin]]></title>
+        <id>https://www.youtube.com/watch?v=ON6gYerxmDE</id>
+        <link href="https://www.youtube.com/watch?v=ON6gYerxmDE"/>
+        <updated>2025-09-17T11:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaakinullile | Ozhimuri #shortsfeed #shortsvideo #shorts #reels #asifali #bhavana]]></title>
+        <id>https://www.youtube.com/shorts/2Ph3kztlQrU</id>
+        <link href="https://www.youtube.com/shorts/2Ph3kztlQrU"/>
+        <updated>2025-09-17T11:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunchacko Boban Song Broohi Krishna Ghana Shyama | Ingane Oru Nilapakshi | K. S. Chithra]]></title>
         <id>https://www.youtube.com/watch?v=ncfOgsqmvIk</id>
@@ -6840,6 +6878,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yeshuve Pole Aakuvan | യേശുവെപ്പോലെ ആകുവാൻ | V. Nagel Song | Maria Kolady | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=ios526QY6M4</id>
+        <link href="https://www.youtube.com/watch?v=ios526QY6M4"/>
+        <updated>2025-08-30T12:37:28.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ee Shyama Sandhyayil | ഈ ശ്യാമ സന്ധ്യയിൽ | Sparsam Movie | KJ Yesudas | Sarath | Manoj K Jayan]]></title>
         <id>https://www.youtube.com/shorts/jyk_xypg3Qc</id>
         <link href="https://www.youtube.com/shorts/jyk_xypg3Qc"/>
@@ -11803,15 +11850,6 @@
         <updated>2025-08-19T00:30:24.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kripadanam | Madhu | Kester | Aji Puthur | Elizabeth Raju | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Pu-0fBrkq2E</id>
-        <link href="https://www.youtube.com/watch?v=Pu-0fBrkq2E"/>
-        <updated>2025-08-19T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
