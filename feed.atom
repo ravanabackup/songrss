@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T05:08:57.092Z</updated>
+    <updated>2025-09-18T06:13:54.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oho Enthan Baby - Original Score | Rudra, Mithila Palkar | Vishnu Vishal | Jen Martin]]></title>
+        <id>https://www.youtube.com/watch?v=FeFxbKOkQc0</id>
+        <link href="https://www.youtube.com/watch?v=FeFxbKOkQc0"/>
+        <updated>2025-09-18T05:36:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennu Varum nee 4K | Kannaki | Kaithapram Vishwanathan Nambudiri | Kaithapram | K S Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=1IBtrkgert4</id>
+        <link href="https://www.youtube.com/watch?v=1IBtrkgert4"/>
+        <updated>2025-09-18T05:35:16.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kabadi Kabadi | Nammal Thammil | Video Song | Prithviraj | Gireesh Puthenchery |  M.Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=qCY6Yx4cFvA</id>
+        <link href="https://www.youtube.com/watch?v=qCY6Yx4cFvA"/>
+        <updated>2025-09-18T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paal Ninavilum | പാൽ നിനവിലും | Kaakkakkum Poochakkum Kalyanam | Biju Narayanan | Kaithapram]]></title>
         <id>https://www.youtube.com/shorts/vegIgIJtVHY</id>
