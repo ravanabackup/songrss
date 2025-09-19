@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-19T11:07:30.794Z</updated>
+    <updated>2025-09-19T12:17:20.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mazhaneer Thullikal | Beautiful #shortsfeed #shortsvideo #shorts #reels #unnimenon]]></title>
+        <id>https://www.youtube.com/shorts/bumMwR7z3tA</id>
+        <link href="https://www.youtube.com/shorts/bumMwR7z3tA"/>
+        <updated>2025-09-19T11:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onneyullenikk Anandham | ഒന്നേയുള്ളെനിക്കാനന്ദ |Malayalam Christian Devotional song | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/ULXZC83VSRA</id>
+        <link href="https://www.youtube.com/shorts/ULXZC83VSRA"/>
+        <updated>2025-09-19T11:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chempakapoo | Tribal Song Video | Anjana S Kumar  | Viral Folk Songs]]></title>
+        <id>https://www.youtube.com/watch?v=a7ZOgw0a2_0</id>
+        <link href="https://www.youtube.com/watch?v=a7ZOgw0a2_0"/>
+        <updated>2025-09-19T11:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=aN7f1b-tVLA</id>
@@ -208,6 +237,15 @@
         <updated>2025-09-18T13:08:40.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karam - Official Trailer 2 | Vineeth | Noble | Ivan | Shaan | Visakh | Merryland]]></title>
+        <id>https://www.youtube.com/watch?v=VmNIhlOL63k</id>
+        <link href="https://www.youtube.com/watch?v=VmNIhlOL63k"/>
+        <updated>2025-09-18T13:08:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -11708,15 +11746,6 @@
         <updated>2025-08-21T00:30:21.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karunardram | Madhu Balakrishnan | Kester | Wilson Piravom | Jose Sagar | Radhika Thilak]]></title>
-        <id>https://www.youtube.com/watch?v=R3qPTi5rloc</id>
-        <link href="https://www.youtube.com/watch?v=R3qPTi5rloc"/>
-        <updated>2025-08-21T00:00:07.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
