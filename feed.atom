@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-19T14:09:08.009Z</updated>
+    <updated>2025-09-19T15:09:02.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moovanthi Thazhvarayil | Raveendran | Mohanlal, Manju Warrier - Kanmadam]]></title>
+        <id>https://www.youtube.com/shorts/huZaX_AgPcs</id>
+        <link href="https://www.youtube.com/shorts/huZaX_AgPcs"/>
+        <updated>2025-09-19T15:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs Mashup | Old Malayalam Christian Songs| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/UsW1ULQ51mE</id>
+        <link href="https://www.youtube.com/shorts/UsW1ULQ51mE"/>
+        <updated>2025-09-19T14:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nallaru Po | Dude | Pradeep Ranganathan | @SaiAbhyankkar | Tippu | Mohit Chauhan | Keerthiswaran]]></title>
+        <id>https://www.youtube.com/watch?v=-hZIVX0iv9w</id>
+        <link href="https://www.youtube.com/watch?v=-hZIVX0iv9w"/>
+        <updated>2025-09-19T14:28:13.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azhalaayi Nee - Song of the day!]]></title>
         <id>https://www.youtube.com/shorts/swQHPkjDjfg</id>
