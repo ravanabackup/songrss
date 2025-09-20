@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T14:07:15.416Z</updated>
+    <updated>2025-09-20T15:07:32.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prapancham Sakshi | 4K | Padheyam |  K. J. Yesudas | Ravi Bombay | Mammootty Hits]]></title>
+        <id>https://www.youtube.com/watch?v=Gy-BgqfQJ74</id>
+        <link href="https://www.youtube.com/watch?v=Gy-BgqfQJ74"/>
+        <updated>2025-09-20T14:37:01.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anugrahathin Adhipathiye | അനുഗ്രഹത്തിന്‍  |Malayalam Christian Song | Aji Susan |  Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/Sm2yYj5S8TY</id>
+        <link href="https://www.youtube.com/shorts/Sm2yYj5S8TY"/>
+        <updated>2025-09-20T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nin Keerthanam...#christiandevotionalsongs #jojijohns #branilmalappuram #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/tS7UlBTEvGw</id>
+        <link href="https://www.youtube.com/shorts/tS7UlBTEvGw"/>
+        <updated>2025-09-20T14:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nin Mozhikal...#newchristianvideosong #jojijohnschristiansongs #christiandevotionalsongsmalayalam]]></title>
         <id>https://www.youtube.com/shorts/kSieMpAhI9g</id>
