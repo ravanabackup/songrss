@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T02:23:59.220Z</updated>
+    <updated>2025-09-21T03:31:39.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aadikkarin Manjam #KJYesudas #Video #Song #ONVKurup #SunnyStephen #Thapasya #Album #Lyrical]]></title>
+        <id>https://www.youtube.com/shorts/Z3ZxvZ8Bdag</id>
+        <link href="https://www.youtube.com/shorts/Z3ZxvZ8Bdag"/>
+        <updated>2025-09-21T03:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akkaraykku Yathra Cheyyum #MariaKolady #AkkaraykkuYathraCheyyum #MSDavidKodukulanji]]></title>
         <id>https://www.youtube.com/shorts/nyhhlna6n6I</id>
@@ -11641,35 +11651,6 @@
         <updated>2025-08-22T16:00:33.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Padi Pukhazthidam… #matchpointfaith #matchpointcreations  #mylord Match Point Faith]]></title>
-        <id>https://www.youtube.com/shorts/6dQKA5JxR-8</id>
-        <link href="https://www.youtube.com/shorts/6dQKA5JxR-8"/>
-        <updated>2025-08-22T14:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaanchakkam Thenniyum Video Song | Johnnie Walker | Mammootty | Jeet Upendra | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Oes90uS7SEk</id>
-        <link href="https://www.youtube.com/watch?v=Oes90uS7SEk"/>
-        <updated>2025-08-22T14:40:00.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konchi Konchi Vilikkunna | Kaithapram | Ouseppachan | KJ Yesudas | Vismayathumbathu #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/VLd_zI7J5Tw</id>
-        <link href="https://www.youtube.com/shorts/VLd_zI7J5Tw"/>
-        <updated>2025-08-22T14:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
