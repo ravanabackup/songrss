@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-22T14:10:10.580Z</updated>
+    <updated>2025-09-22T15:10:11.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അസി ഇടുക്കിയിൽ വന്നിട്ടുണ്ടോ? Khayaal now streaming on YouTube]]></title>
+        <id>https://www.youtube.com/shorts/NGqdcAqfbNI</id>
+        <link href="https://www.youtube.com/shorts/NGqdcAqfbNI"/>
+        <updated>2025-09-22T14:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirukarathal Vahichu Enne, Enni Enni Sthuthikkuvan who wrote ?? | Mothy Varkey | Nirmala Peter]]></title>
+        <id>https://www.youtube.com/shorts/z5GPx1xiqp8</id>
+        <link href="https://www.youtube.com/shorts/z5GPx1xiqp8"/>
+        <updated>2025-09-22T14:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#songoftheday #ChenthamaraChundil #Style #hbdunnimukundan #unnimukundan]]></title>
+        <id>https://www.youtube.com/shorts/yk3iBfa94LM</id>
+        <link href="https://www.youtube.com/shorts/yk3iBfa94LM"/>
+        <updated>2025-09-22T14:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്നും കാവലായി കൂടെയുള്ള യേശുവിൻ ഗീതങ്ങൾ | Christian Devotional Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=vz5uuk5INYY</id>
@@ -11629,16 +11659,6 @@
         <updated>2025-08-24T04:30:40.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Iniya Thanimaye 🎶 #Teddy #Arya #Imman #SidSriram]]></title>
-        <id>https://www.youtube.com/shorts/9x_DQUBBuro</id>
-        <link href="https://www.youtube.com/shorts/9x_DQUBBuro"/>
-        <updated>2025-08-24T02:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
