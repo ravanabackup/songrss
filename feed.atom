@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T11:07:39.560Z</updated>
+    <updated>2025-09-23T12:16:56.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പൊയ്കയിൽ കുളിർ പൊയ്കയിൽ | Poykayil | Rajashilpi Classic Hit Movie Song | Mohanlal | K.J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=DDpN6zx-ESk</id>
+        <link href="https://www.youtube.com/watch?v=DDpN6zx-ESk"/>
+        <updated>2025-09-23T12:02:40.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/xa1xG78b-ZI</id>
+        <link href="https://www.youtube.com/shorts/xa1xG78b-ZI"/>
+        <updated>2025-09-23T11:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sona Sona |  Ben Johnson #kalabhavanmani #deepakdev #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/9Nh9KPhvtpE</id>
+        <link href="https://www.youtube.com/shorts/9Nh9KPhvtpE"/>
+        <updated>2025-09-23T11:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaru Ponu - Lyrical | Valsala Club | Kaarthik Shankar, Roopesh | Jini S | Jonathan Bruce]]></title>
+        <id>https://www.youtube.com/watch?v=BvUDhxE6Tsk</id>
+        <link href="https://www.youtube.com/watch?v=BvUDhxE6Tsk"/>
+        <updated>2025-09-23T11:28:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalyanakuruvikku | കല്യാണക്കുരുവിയ്ക്കു | Aabhijathyam  | Madhu | P Leela | AT Ummar | Evergreen]]></title>
         <id>https://www.youtube.com/watch?v=gLhLtkN1jhA</id>
