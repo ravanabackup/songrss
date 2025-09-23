@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T09:10:15.516Z</updated>
+    <updated>2025-09-23T10:09:23.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pedi Thonni Aadyam Kandappol |  Dileep | KJ Yesudas | KS Chithra #trending]]></title>
+        <id>https://www.youtube.com/shorts/gkLKjbYSu6k</id>
+        <link href="https://www.youtube.com/shorts/gkLKjbYSu6k"/>
+        <updated>2025-09-23T09:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=j2kdMcqBnos</id>
+        <link href="https://www.youtube.com/watch?v=j2kdMcqBnos"/>
+        <updated>2025-09-23T09:41:11.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhavil Kodiyil Video Song | Aniyan Bava Chetan Bava | Jayaram | Kasthuri | KS Chithra|SP Venkitesh]]></title>
         <id>https://www.youtube.com/watch?v=REAnoO4Eg28</id>
