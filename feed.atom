@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T19:07:17.157Z</updated>
+    <updated>2025-09-23T20:09:40.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 24 Athiravile Prarthana 24th of September 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=fppyXSqcSOY</id>
+        <link href="https://www.youtube.com/watch?v=fppyXSqcSOY"/>
+        <updated>2025-09-23T20:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th SEP 2025]]></title>
         <id>https://www.youtube.com/watch?v=_gYyR4kGxWU</id>
@@ -11672,33 +11681,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasthoori ente 4K | Vishnulokam | Mohanlal | Urvasi | MG Sreekumar, Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=JDk0EdaHCAc</id>
-        <link href="https://www.youtube.com/watch?v=JDk0EdaHCAc"/>
-        <updated>2025-08-25T07:58:52.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാടെങ്ങും ആഘോഷമൊരുക്കാൻ കിടിലൻ ഓണപ്പാട്ടുകൾ | ONAPATTUKAL | ONAM SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=-kdc_p3Q2SM</id>
-        <link href="https://www.youtube.com/watch?v=-kdc_p3Q2SM"/>
-        <updated>2025-08-25T07:30:00.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saamy Square - Pudhu Metro Rail Video with Lyrics | Vikram, Keerthy Suresh | DSP]]></title>
-        <id>https://www.youtube.com/watch?v=LPfEZsf9gro</id>
-        <link href="https://www.youtube.com/watch?v=LPfEZsf9gro"/>
-        <updated>2025-08-25T07:16:34.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
