@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T17:08:07.274Z</updated>
+    <updated>2025-09-24T18:13:22.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11613,43 +11613,6 @@
         <updated>2025-08-26T06:23:05.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 12 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith|]]></title>
-        <id>https://www.youtube.com/watch?v=W0R27a_LRB0</id>
-        <link href="https://www.youtube.com/watch?v=W0R27a_LRB0"/>
-        <updated>2025-08-26T05:40:44.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു രാഗമാല കോർത്തു സഖീ | Dhwani Evergreen Malayalam Movie | K. J Yesudas | Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=HtOetfVFYVE</id>
-        <link href="https://www.youtube.com/watch?v=HtOetfVFYVE"/>
-        <updated>2025-08-26T05:35:16.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkarakkili | Vellinakshatram #sujatha #mjayachandran #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/lpNSIojUph0</id>
-        <link href="https://www.youtube.com/shorts/lpNSIojUph0"/>
-        <updated>2025-08-26T05:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pirivu | Thalaivan Thalaivii | Vijay Sethupathi, Nithya Menen| Pandiraaj | Santhosh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=Ipi1hFqz4Vg</id>
-        <link href="https://www.youtube.com/watch?v=Ipi1hFqz4Vg"/>
-        <updated>2025-08-26T05:30:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
