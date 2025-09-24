@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T20:09:50.114Z</updated>
+    <updated>2025-09-24T21:07:36.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11567,25 +11567,6 @@
         <updated>2025-08-26T09:52:50.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninne Thodum Poo Nilavu | നിന്നെ തൊടും പൂനിലാവ് | Bhayanakam Movie | Sreekumaran Thampi | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=YVtEgEutKVw</id>
-        <link href="https://www.youtube.com/watch?v=YVtEgEutKVw"/>
-        <updated>2025-08-26T08:56:21.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#kimkim #jacknjill #manjuwarrier #songoftheday #shorts]]></title>
-        <id>https://www.youtube.com/shorts/8dhT9xzPlD4</id>
-        <link href="https://www.youtube.com/shorts/8dhT9xzPlD4"/>
-        <updated>2025-08-26T08:19:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
