@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T17:07:43.589Z</updated>
+    <updated>2025-09-25T18:13:52.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11642,44 +11642,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💃 Blast Onam 🤩🥁]]></title>
-        <id>https://www.youtube.com/shorts/3p7x3vQTER0</id>
-        <link href="https://www.youtube.com/shorts/3p7x3vQTER0"/>
-        <updated>2025-08-27T06:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valayonnitha |Video Song| Rock N Roll |Vijay Yesudas | Girish Puthenchery | Mohanlal |Ranjith Govind]]></title>
-        <id>https://www.youtube.com/watch?v=HF6sAQRh47k</id>
-        <link href="https://www.youtube.com/watch?v=HF6sAQRh47k"/>
-        <updated>2025-08-27T05:30:16.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wedding Dance | Maaman | Soori | Aishwarya Lekshmi | Prasanth Pandiyaraj | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=iC-x9xhC8-U</id>
-        <link href="https://www.youtube.com/watch?v=iC-x9xhC8-U"/>
-        <updated>2025-08-27T05:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൊന്‍ വീണേ എന്നുള്ളിന്‍ മൗനം വാങ്ങൂ | Ponveene Ennullil Maunam Vaangoo | Thalavattom Hit Songs]]></title>
-        <id>https://www.youtube.com/shorts/jmWrG-qkyYM</id>
-        <link href="https://www.youtube.com/shorts/jmWrG-qkyYM"/>
-        <updated>2025-08-27T05:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
