@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T02:17:03.835Z</updated>
+    <updated>2025-09-25T03:26:42.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11416,36 +11416,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneer Ennu Marumo| കണ്ണുനീർ എന്ന് മാറുമോ |Christian Devotional song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/gHb85YZXAuM</id>
-        <link href="https://www.youtube.com/shorts/gHb85YZXAuM"/>
-        <updated>2025-08-26T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alayum Kaattin Hrudayam | KS Chithra | Geetha | Mammootty | Kaithapram | #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/-_USS6YDEys</id>
-        <link href="https://www.youtube.com/shorts/-_USS6YDEys"/>
-        <updated>2025-08-26T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya Sowgandhikangal | Ouseppachan | Kavya Madhavan | Vineeth | Darling Darling]]></title>
-        <id>https://www.youtube.com/shorts/X3arndLsOcE</id>
-        <link href="https://www.youtube.com/shorts/X3arndLsOcE"/>
-        <updated>2025-08-26T14:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
