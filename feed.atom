@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T03:26:42.743Z</updated>
+    <updated>2025-09-25T04:11:25.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തകർന്ന ഹൃദയങ്ങൾക്ക് ഒത്തിരി ആശ്വാസമേകുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=YfZTWjR6EjQ</id>
+        <link href="https://www.youtube.com/watch?v=YfZTWjR6EjQ"/>
+        <updated>2025-09-25T03:27:41.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pathalame Maraname | Shorts #libinscaria #manoramamusic #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/9nfcNvDCeKA</id>
