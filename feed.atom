@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T02:16:21.580Z</updated>
+    <updated>2025-09-26T03:24:58.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11383,45 +11383,6 @@
         <updated>2025-08-27T19:00:54.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazthuka Nee Maname | വാഴ്ത്തുക നീ |Christian Devotional Song Malayalam| Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/Oy1Atzg7a3I</id>
-        <link href="https://www.youtube.com/shorts/Oy1Atzg7a3I"/>
-        <updated>2025-08-27T14:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayiloru Sisiram  | Mohanlal | Karthika | Unni Menon | Shyam | Bichu Thirumala #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/31sh1pEgJeE</id>
-        <link href="https://www.youtube.com/shorts/31sh1pEgJeE"/>
-        <updated>2025-08-27T14:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikyakallal | Varnapakittu | Mohanlal | Divya Unni | Vidyasagar]]></title>
-        <id>https://www.youtube.com/shorts/-XgHRUXEXxo</id>
-        <link href="https://www.youtube.com/shorts/-XgHRUXEXxo"/>
-        <updated>2025-08-27T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional Songs Malayalam | Traditional Songs | Immanuel Henry Hits | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=KpTYkn_FGkI</id>
-        <link href="https://www.youtube.com/watch?v=KpTYkn_FGkI"/>
-        <updated>2025-08-27T14:26:51.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
