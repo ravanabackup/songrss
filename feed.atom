@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T11:07:30.705Z</updated>
+    <updated>2025-09-26T12:17:13.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pattinte Palkkadavil | Judith Ann | Shorts #judithann #PattintePalkkadavil]]></title>
+        <id>https://www.youtube.com/shorts/qoZzQnyuXxw</id>
+        <link href="https://www.youtube.com/shorts/qoZzQnyuXxw"/>
+        <updated>2025-09-26T12:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance to the beats of Summava 💃🥁 #shorts #innocentmovie]]></title>
+        <id>https://www.youtube.com/shorts/rODzzHCs3fw</id>
+        <link href="https://www.youtube.com/shorts/rODzzHCs3fw"/>
+        <updated>2025-09-26T11:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enundodee | Celluloid #shortsfeed #shortsvideo #shorts #reels #mjayachandran #sitharakrishnakumar]]></title>
+        <id>https://www.youtube.com/shorts/esyvpDqZxCc</id>
+        <link href="https://www.youtube.com/shorts/esyvpDqZxCc"/>
+        <updated>2025-09-26T11:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/Rq_Xh5vn9FU</id>
+        <link href="https://www.youtube.com/shorts/Rq_Xh5vn9FU"/>
+        <updated>2025-09-26T11:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anchikonchathedee (Unplugged Melody Cover) | Video Song | Divya S Menon | Anila Rajeev | Drona]]></title>
+        <id>https://www.youtube.com/watch?v=0QTQ6-Chc_s</id>
+        <link href="https://www.youtube.com/watch?v=0QTQ6-Chc_s"/>
+        <updated>2025-09-26T11:30:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEERUMENTE PRANANIL | ദൈവ സ്നേഹം നിറയുന്ന മനോഹര ഗാനം| @JinoKunnumpurathu  | #shorts #reels]]></title>
         <id>https://www.youtube.com/shorts/RPiJ383TCUE</id>
@@ -11504,15 +11553,6 @@
         <updated>2025-08-28T00:30:04.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits Of Kester Vol 25]]></title>
-        <id>https://www.youtube.com/watch?v=eHuSP1Y-Y_k</id>
-        <link href="https://www.youtube.com/watch?v=eHuSP1Y-Y_k"/>
-        <updated>2025-08-28T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
