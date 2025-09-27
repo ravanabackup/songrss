@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T17:06:14.520Z</updated>
+    <updated>2025-09-27T18:10:37.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11553,33 +11553,6 @@
         <updated>2025-08-29T07:00:51.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരു കേട്ടാലും മനസ്സിനിഷ്ടപ്പെടുന്ന ഒരുപിടി നല്ല ഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=PK53fCk7nOw</id>
-        <link href="https://www.youtube.com/watch?v=PK53fCk7nOw"/>
-        <updated>2025-08-29T05:49:47.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penne Penne Nin | Meesamadhavan | Dileep | Kavya | Vidyasagar | M G Sreekumar | K S Chithra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=XgxaT5xKiwc</id>
-        <link href="https://www.youtube.com/watch?v=XgxaT5xKiwc"/>
-        <updated>2025-08-29T05:24:33.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thooval Nilaa Thoovennile | തൂവൽ നിലാ തൂവെണ്ണില | Once Upon A Time In Kochi | Arjun Asokan | Audio]]></title>
-        <id>https://www.youtube.com/watch?v=3FnfCAe7czM</id>
-        <link href="https://www.youtube.com/watch?v=3FnfCAe7czM"/>
-        <updated>2025-08-29T05:06:18.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
