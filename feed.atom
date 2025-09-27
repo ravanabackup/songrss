@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T07:07:10.515Z</updated>
+    <updated>2025-09-27T08:10:18.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Feel the beats, live the vibe! Dive into the magic of #KaakeKaake & #Summava 🤩🎶]]></title>
+        <id>https://www.youtube.com/shorts/sjlJVsy0IGQ</id>
+        <link href="https://www.youtube.com/shorts/sjlJVsy0IGQ"/>
+        <updated>2025-09-27T07:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വീണ്ടും വീണ്ടും കേട്ടോണ്ടിരിക്കാൻ ഇഷ്ടമുള്ള സുന്ദര ഗാനങ്ങൾ  | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=GBRbZWX9v_U</id>
+        <link href="https://www.youtube.com/watch?v=GBRbZWX9v_U"/>
+        <updated>2025-09-27T07:30:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manithan - Aval Video With Lyrics | Udhayanidhi | Santhosh Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=M9EOPDpKCKQ</id>
+        <link href="https://www.youtube.com/watch?v=M9EOPDpKCKQ"/>
+        <updated>2025-09-27T07:00:30.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=v_Fi5dp6G0M</id>
@@ -11403,15 +11431,6 @@
         <updated>2025-08-28T22:30:05.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 29 # Athiravile Prarthana 29th of August 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=05orEo2oAUE</id>
-        <link href="https://www.youtube.com/watch?v=05orEo2oAUE"/>
-        <updated>2025-08-28T20:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
