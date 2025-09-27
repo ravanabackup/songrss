@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T05:08:50.173Z</updated>
+    <updated>2025-09-27T06:11:20.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Walking in the moonlight | Sathyam Sivam Sundaram|  Kunchacko Boban | Vidyasagar | Hariharan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=60XcCRlupB4</id>
+        <link href="https://www.youtube.com/watch?v=60XcCRlupB4"/>
+        <updated>2025-09-27T05:50:52.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neelaponmaane | Ringtone | Video | Vineeth Sreenivasan| Shaan | Suresh Gopi | Bala | Shweta Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=xwH29qbsucQ</id>
+        <link href="https://www.youtube.com/watch?v=xwH29qbsucQ"/>
+        <updated>2025-09-27T05:30:37.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🦋 Your love made it magical! Duppattawaali Video Song crosses 1M+ views and is trending! ❤️]]></title>
         <id>https://www.youtube.com/shorts/rUww9cR17JU</id>
