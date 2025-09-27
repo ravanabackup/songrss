@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T11:05:54.019Z</updated>
+    <updated>2025-09-27T12:14:48.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manasanilayil | മാനസനിളയിൽ...| Dhwani Movie | KJ Yesudas | Naushad Ali | Evergreen Song | Audio Song]]></title>
+        <id>https://www.youtube.com/shorts/IwnVOwmkgVY</id>
+        <link href="https://www.youtube.com/shorts/IwnVOwmkgVY"/>
+        <updated>2025-09-27T11:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ബലഹീനതയിൽ ബലമേകീ | Balaheenathayil Balameki | Music Spread |Malayalam Christian Song | Maramon  song]]></title>
+        <id>https://www.youtube.com/shorts/UKK359kVnUs</id>
+        <link href="https://www.youtube.com/shorts/UKK359kVnUs"/>
+        <updated>2025-09-27T11:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badnahi | Kalimannu #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/31cqAdik_0U</id>
+        <link href="https://www.youtube.com/shorts/31cqAdik_0U"/>
+        <updated>2025-09-27T11:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sarvam | എം ജയചന്ദ്രൻ  പാടി ഹിറ്റാക്കിയ സൂപ്പർ ഡ്യൂപ്പർ ഗാനം |@JinoKunnumpurathu |#shorts]]></title>
         <id>https://www.youtube.com/shorts/Ya1Roh0qKzY</id>
@@ -51,6 +81,15 @@
         <updated>2025-09-27T08:54:37.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kani Mozhiye - Video Song | Amoz Alexander| Ajai Shaji | Aju Varghese | Tara Amala Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=nAqQfbfHsv8</id>
+        <link href="https://www.youtube.com/watch?v=nAqQfbfHsv8"/>
+        <updated>2025-09-27T08:30:00.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -11459,15 +11498,6 @@
         <updated>2025-08-29T00:30:57.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edarunna Manassil | Cicily | Kester | Wilson Piravom | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=zFOrXmwBpI4</id>
-        <link href="https://www.youtube.com/watch?v=zFOrXmwBpI4"/>
-        <updated>2025-08-29T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
