@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T22:07:16.267Z</updated>
+    <updated>2025-09-27T23:07:34.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/aHjLVrSzbSQ</id>
+        <link href="https://www.youtube.com/shorts/aHjLVrSzbSQ"/>
+        <updated>2025-09-27T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സെപ്റ്റംബർ: 28, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=QENydNU0LPA</id>
+        <link href="https://www.youtube.com/watch?v=QENydNU0LPA"/>
+        <updated>2025-09-27T22:30:14.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  September 28 Athiravile Prarthana 28th of September 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=mWMmLe3M9yU</id>
@@ -11458,53 +11477,6 @@
         <updated>2025-08-29T11:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sravanappookkal | Paul Joseph | Onam Songs  #onamspecial #shorts #onam]]></title>
-        <id>https://www.youtube.com/shorts/EF3Qt8XV5Hs</id>
-        <link href="https://www.youtube.com/shorts/EF3Qt8XV5Hs"/>
-        <updated>2025-08-29T11:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karaloram Karichal| Video | Jayakrishnan Karichal |Gopesh Karichal |Vipin Pranavam| Karichal Chundan]]></title>
-        <id>https://www.youtube.com/watch?v=bS_JDabB4E4</id>
-        <link href="https://www.youtube.com/watch?v=bS_JDabB4E4"/>
-        <updated>2025-08-29T10:51:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love finds its melody in #Haricharan’s voice! ❤️ 🎶]]></title>
-        <id>https://www.youtube.com/shorts/zfawKtIE4K8</id>
-        <link href="https://www.youtube.com/shorts/zfawKtIE4K8"/>
-        <updated>2025-08-29T10:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUDHIRAM Kannada Official Trailer  | Raj B Shetty | Aparna Balamurali | Jisho Lon Antony | VS LALAN]]></title>
-        <id>https://www.youtube.com/watch?v=rq83tE9FbsE</id>
-        <link href="https://www.youtube.com/watch?v=rq83tE9FbsE"/>
-        <updated>2025-08-29T10:32:42.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadhayile Nayika Malayalam Movie Song - Kanavinu Kalyanam | HD Video Song | Afsal]]></title>
-        <id>https://www.youtube.com/watch?v=sEQiEjNWKjQ</id>
-        <link href="https://www.youtube.com/watch?v=sEQiEjNWKjQ"/>
-        <updated>2025-08-29T10:08:46.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
