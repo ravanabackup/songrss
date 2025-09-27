@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T03:19:57.368Z</updated>
+    <updated>2025-09-27T04:10:19.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Nee Aaro #urumisong  #KJYesudas #shwetamohan #Kaithapram #deepakdev #Prithviraj #lyrical]]></title>
+        <id>https://www.youtube.com/shorts/dMYdO2NmAQI</id>
+        <link href="https://www.youtube.com/shorts/dMYdO2NmAQI"/>
+        <updated>2025-09-27T03:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yeshuve En Nadhane | Christian shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/_F81Lf_TNUU</id>
@@ -334,6 +344,15 @@
         <updated>2025-09-26T08:29:28.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meiyazhagan Medley | Karthi, Arvind Swami | Govind Vasantha | C.Premkumar | Suriya | Jyotika]]></title>
+        <id>https://www.youtube.com/watch?v=9akiKkVppKU</id>
+        <link href="https://www.youtube.com/watch?v=9akiKkVppKU"/>
+        <updated>2025-09-26T07:42:42.000Z</updated>
+        <author>
+            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
@@ -11375,25 +11394,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check out short film Manavalan In Trouble on YouTube]]></title>
-        <id>https://www.youtube.com/shorts/wM3OhvKbgaE</id>
-        <link href="https://www.youtube.com/shorts/wM3OhvKbgaE"/>
-        <updated>2025-08-28T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu Manavalan Namme | യേശു മണവാളൻ നമ്മെ | Christian Song | Antony & Sreya | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=HrfA28IcxIw</id>
-        <link href="https://www.youtube.com/watch?v=HrfA28IcxIw"/>
-        <updated>2025-08-28T15:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
