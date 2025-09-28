@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T17:06:57.958Z</updated>
+    <updated>2025-09-28T18:10:50.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11496,43 +11496,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karaloram Karichal I  Theme Song #boatrace #karichal #shortsfeed #onam #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/shorts/xP_3kWTaGAw</id>
-        <link href="https://www.youtube.com/shorts/xP_3kWTaGAw"/>
-        <updated>2025-08-30T06:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharivala Kayyal Enne | 4K |  Sadanandante Samayam  | Dileep | Kavya | Vidhu Prathap | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=6W1wi8joFfY</id>
-        <link href="https://www.youtube.com/watch?v=6W1wi8joFfY"/>
-        <updated>2025-08-30T05:39:54.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ona Veyil Olangalil| Bombay March 12 | Lyrical+Karaoke Video| M.G.Sreekumar|Afzal Yusuff | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=j6YZJgkCxzM</id>
-        <link href="https://www.youtube.com/watch?v=j6YZJgkCxzM"/>
-        <updated>2025-08-30T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sangarsha Ghadana - Original Score | Krishand | Vishnu Agasthaya | Rajesh Naroth | Krishand Films]]></title>
-        <id>https://www.youtube.com/watch?v=hj0yvnbyUvg</id>
-        <link href="https://www.youtube.com/watch?v=hj0yvnbyUvg"/>
-        <updated>2025-08-30T05:29:25.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
