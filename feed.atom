@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T22:07:39.850Z</updated>
+    <updated>2025-09-28T23:07:31.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/SV4yi1c7xus</id>
+        <link href="https://www.youtube.com/shorts/SV4yi1c7xus"/>
+        <updated>2025-09-28T23:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സെപ്റ്റംബർ: 29, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=yYv-iCCEjSs</id>
+        <link href="https://www.youtube.com/watch?v=yYv-iCCEjSs"/>
+        <updated>2025-09-28T22:30:24.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 29 Athiravile Prarthana 29th of September 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=EWkB4-LIhgQ</id>
@@ -11394,33 +11413,6 @@
         <updated>2025-08-30T11:30:17.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akalum Kinaakkale | Sajan K Ram | Haricharan | Shabi Panangat | Babu John | Akhil Marar]]></title>
-        <id>https://www.youtube.com/watch?v=HlAnD8nIB9E</id>
-        <link href="https://www.youtube.com/watch?v=HlAnD8nIB9E"/>
-        <updated>2025-08-30T10:30:11.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Shyama Sandhyayil | ഈ ശ്യാമ സന്ധ്യയിൽ | Sparsam Movie | KJ Yesudas | Sarath | Manoj K Jayan]]></title>
-        <id>https://www.youtube.com/watch?v=6YehL71x-gY</id>
-        <link href="https://www.youtube.com/watch?v=6YehL71x-gY"/>
-        <updated>2025-08-30T10:30:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടിന്റെ പൊന്നോണം | Super Hit Onam Songs | P Jayachandran | MG Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=JmjPZkv0HoI</id>
-        <link href="https://www.youtube.com/watch?v=JmjPZkv0HoI"/>
-        <updated>2025-08-30T10:26:38.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
