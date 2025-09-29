@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T11:07:50.924Z</updated>
+    <updated>2025-09-29T12:18:08.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ithiri Chakkara Nulli | Seniors #shortsfeed #shortsvideo #shorts #reels #jayaram #bijumenon]]></title>
+        <id>https://www.youtube.com/shorts/hfSGk64bpko</id>
+        <link href="https://www.youtube.com/shorts/hfSGk64bpko"/>
+        <updated>2025-09-29T12:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chanchala Druthapada  Istham Movie song| Jayasudha | Dileep | Navya Nair | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=byzCkSIqKh8</id>
+        <link href="https://www.youtube.com/watch?v=byzCkSIqKh8"/>
+        <updated>2025-09-29T11:52:39.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhanumaasa Thinkal Video Song | Panchaloham | Vani Viswanath | KS Chithra | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=nmh4wcm6WaM</id>
+        <link href="https://www.youtube.com/watch?v=nmh4wcm6WaM"/>
+        <updated>2025-09-29T11:44:11.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala Thottil from 1st of October By Fr Vineeth Ajimon Joseph]]></title>
+        <id>https://www.youtube.com/shorts/GUMCmNsZdTQ</id>
+        <link href="https://www.youtube.com/shorts/GUMCmNsZdTQ"/>
+        <updated>2025-09-29T11:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innayolam Enne Nadathi | ഇന്നയോളം എന്നെ | Malayalam Christian devotional song | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/XFhMLeFmj1k</id>
+        <link href="https://www.youtube.com/shorts/XFhMLeFmj1k"/>
+        <updated>2025-09-29T11:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Roohe Khuda | Teslin Shaji | Gill Deep |@JinoKunnumpurathu| #shorts #hindishorts #hits #reels]]></title>
         <id>https://www.youtube.com/shorts/lFXRAyB8lok</id>
@@ -117,6 +165,15 @@
         <updated>2025-09-29T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakke Kakke Kudevide |Angam Attahasam |Madhav Suresh |Shine Tom| Vineeth Sreenivasan |Sujith S. Nair]]></title>
+        <id>https://www.youtube.com/watch?v=2tXR69VKbD0</id>
+        <link href="https://www.youtube.com/watch?v=2tXR69VKbD0"/>
+        <updated>2025-09-29T04:47:53.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -11291,15 +11348,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idayante Shabdam | Kester | Wilson Piravom | Wilswaraj | Sreenivas | Abhijith Kollam | Daleema]]></title>
-        <id>https://www.youtube.com/watch?v=B-OeAZy3jQY</id>
-        <link href="https://www.youtube.com/watch?v=B-OeAZy3jQY"/>
-        <updated>2025-08-31T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
