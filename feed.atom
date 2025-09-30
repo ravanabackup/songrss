@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T15:08:27.050Z</updated>
+    <updated>2025-09-30T16:11:39.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kothamangalam pally perunal, kothamangalam bava]]></title>
+        <id>https://www.youtube.com/shorts/xs3ug29zSuY</id>
+        <link href="https://www.youtube.com/shorts/xs3ug29zSuY"/>
+        <updated>2025-09-30T15:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമ്മയ്ക്കായ് ഒരു സ്നേഹഗീതം./ മരിയൻ ഗീതങ്ങൾ/]]></title>
         <id>https://www.youtube.com/watch?v=HDOUMX7cun0</id>
@@ -11516,25 +11526,6 @@
         <updated>2025-09-01T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangalam Mangalame | മംഗളം മംഗളമേ | 916 Kunjootan Movie | Sachin Raj | Guiness Pakru | New Released]]></title>
-        <id>https://www.youtube.com/watch?v=5J98VUkR8aY</id>
-        <link href="https://www.youtube.com/watch?v=5J98VUkR8aY"/>
-        <updated>2025-09-01T04:09:22.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kangal Edho 👀❤️ #priyaanand #dhibuninanthomas #chithha]]></title>
-        <id>https://www.youtube.com/shorts/R5jgYuynWxw</id>
-        <link href="https://www.youtube.com/shorts/R5jgYuynWxw"/>
-        <updated>2025-09-01T04:02:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
