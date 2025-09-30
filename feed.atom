@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T00:42:49.737Z</updated>
+    <updated>2025-09-30T02:14:36.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നമോ നമോ ശ്രീശങ്കരി ദേവി | Namo Namo Sree Sankari Devi | Durga Dhyanam | Hindu Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=4ZA7dzINnns</id>
+        <link href="https://www.youtube.com/watch?v=4ZA7dzINnns"/>
+        <updated>2025-09-30T02:00:08.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sarvasrishtikalum | Christian shorts #manoramachristiandevotionalsongs  #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/mvjaxSd4jxE</id>
+        <link href="https://www.youtube.com/shorts/mvjaxSd4jxE"/>
+        <updated>2025-09-30T01:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 30th of September 25 # Mathavinte Japamala Dhukhathinte Rahasyangal 30th of September 25]]></title>
         <id>https://www.youtube.com/watch?v=rN0O7Bxch7k</id>
@@ -11302,53 +11321,6 @@
         <updated>2025-08-31T14:29:47.000Z</updated>
         <author>
             <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ | St Mary’s songs | Music Spread]]></title>
-        <id>https://www.youtube.com/watch?v=Bj6pAqP9hVo</id>
-        <link href="https://www.youtube.com/watch?v=Bj6pAqP9hVo"/>
-        <updated>2025-08-31T14:00:06.000Z</updated>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആഹ്ലാദചിത്തരായി മാറും ഈ ഗാനങ്ങൾ കേൾക്കുമ്പോൾ | Gagul Joseph | Christian Melody Songs | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=ndNkuhNsljw</id>
-        <link href="https://www.youtube.com/watch?v=ndNkuhNsljw"/>
-        <updated>2025-08-31T13:30:56.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മധുരമേറിയ ക്രിസ്തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | Zion Classics]]></title>
-        <id>https://www.youtube.com/watch?v=R95yL3J9Sng</id>
-        <link href="https://www.youtube.com/watch?v=R95yL3J9Sng"/>
-        <updated>2025-08-31T13:30:23.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravilum Pakalilum | ഞാൻ നെഞ്ചോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ | @JinoKunnumpurathu | #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/fVusJrvAB-0</id>
-        <link href="https://www.youtube.com/shorts/fVusJrvAB-0"/>
-        <updated>2025-08-31T13:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എട്ടുനോമ്പ് ദിനങ്ങളിൽ മാതാവിനോട് ഏതു കാര്യവും പ്രാർത്ഥിച്ചാൽ അമ്മ സാധിച്ചുതരും ഈ ഗാനത്തിലൂടെ!!]]></title>
-        <id>https://www.youtube.com/shorts/YHpMBXuQCJg</id>
-        <link href="https://www.youtube.com/shorts/YHpMBXuQCJg"/>
-        <updated>2025-08-31T13:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
