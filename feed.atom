@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T22:08:35.998Z</updated>
+    <updated>2025-09-30T23:08:00.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/njM0MLC1a1Q</id>
+        <link href="https://www.youtube.com/shorts/njM0MLC1a1Q"/>
+        <updated>2025-09-30T23:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 01, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=AfwkE0aSrB0</id>
+        <link href="https://www.youtube.com/watch?v=AfwkE0aSrB0"/>
+        <updated>2025-09-30T22:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 1 # Athiravile Prarthana 1st October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=X0M8CHtkjqQ</id>
@@ -11426,43 +11445,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pande Pande | പണ്ടേ പണ്ടേ | Once Upon A Time In Kochi Movie | Vidhu Prathap Hit | New Released Song]]></title>
-        <id>https://www.youtube.com/watch?v=Ad4vIuKPzj4</id>
-        <link href="https://www.youtube.com/watch?v=Ad4vIuKPzj4"/>
-        <updated>2025-09-01T11:00:24.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experience the soul of #SwathyManu's music!🎶😍]]></title>
-        <id>https://www.youtube.com/shorts/cSoBbM04eyY</id>
-        <link href="https://www.youtube.com/shorts/cSoBbM04eyY"/>
-        <updated>2025-09-01T10:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harthaal Malayalam Movie Song Vellilakkoodaaram Video Song | K.S.Chithra | M. G. Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=zDJVpkJxdDQ</id>
-        <link href="https://www.youtube.com/watch?v=zDJVpkJxdDQ"/>
-        <updated>2025-09-01T10:53:39.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവില്‍ പൂന്തേന്‍ | Raavil Poonthen | Naduvazhikal Evergreen Hit Movie Song l Mohanlal | Roopini]]></title>
-        <id>https://www.youtube.com/watch?v=sY6p5DBsc2M</id>
-        <link href="https://www.youtube.com/watch?v=sY6p5DBsc2M"/>
-        <updated>2025-09-01T10:09:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
