@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-01T05:10:02.298Z</updated>
+    <updated>2025-10-01T06:14:25.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karakaviyum..#christiandevotionalsongsmalayalam #holymasssongs #jojijohnschristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/r70RebWY25Q</id>
+        <link href="https://www.youtube.com/shorts/r70RebWY25Q"/>
+        <updated>2025-10-01T05:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changampuzha Kavithakal | Audio Jukebox 02 | ചങ്ങമ്പുഴയുടെ തിരഞ്ഞെടുത്ത കവിതകൾ | Malatalam Poems]]></title>
+        <id>https://www.youtube.com/watch?v=cV0wepFYYck</id>
+        <link href="https://www.youtube.com/watch?v=cV0wepFYYck"/>
+        <updated>2025-10-01T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaanaroopikal Anavaratham...#christiandevotionalsongs #annababy #jojijohnschristiansongs #newvideo]]></title>
+        <id>https://www.youtube.com/shorts/rp9paFbWycI</id>
+        <link href="https://www.youtube.com/shorts/rp9paFbWycI"/>
+        <updated>2025-10-01T05:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aathmavin Baliyayi...#christiandevotionalsongs #annababy #jojijohns #christianvideosongs]]></title>
         <id>https://www.youtube.com/shorts/4zjLAgq4rlk</id>
