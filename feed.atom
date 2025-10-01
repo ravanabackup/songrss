@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-01T02:26:22.805Z</updated>
+    <updated>2025-10-01T03:36:21.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amme Narayana | അമ്മേ നാരായണ | Amme Narayana Devi Narayana | Unni Menon | Navarathri Special Songs]]></title>
+        <id>https://www.youtube.com/shorts/iIkHyu4f-RE</id>
+        <link href="https://www.youtube.com/shorts/iIkHyu4f-RE"/>
+        <updated>2025-10-01T03:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amme Narayana | അമ്മേ നാരായണ | Amme Narayana Devi Narayana | Unni Menon | Navarathri Special Songs]]></title>
         <id>https://www.youtube.com/watch?v=Pd_wHk-aX8c</id>
@@ -11312,54 +11322,6 @@
         <updated>2025-09-01T19:00:40.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ | St Mary’s songs | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/jXt9VE5-14E</id>
-        <link href="https://www.youtube.com/shorts/jXt9VE5-14E"/>
-        <updated>2025-09-01T15:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിന്റെ എല്ലാ പ്രശ്‌നങ്ങലും യേശു മാറ്റിതരും ഈ ഗാനങ്ങൾ കേട്ടാൽ | Christian Songs | Abhijith Kollam]]></title>
-        <id>https://www.youtube.com/watch?v=cPO6tTUAr78</id>
-        <link href="https://www.youtube.com/watch?v=cPO6tTUAr78"/>
-        <updated>2025-09-01T14:36:09.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaane Poovitta Moham  | G Venugopal | Johnson | PK Gopi | Balachandra Menon | Shobana #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/kLiswlaRr90</id>
-        <link href="https://www.youtube.com/shorts/kLiswlaRr90"/>
-        <updated>2025-09-01T14:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaromale En Aaromale |Makan Ente Makan  | Mammootty | Poovachal Ghadar |  K.J Yesudas, K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=S-XpcPYhUmk</id>
-        <link href="https://www.youtube.com/watch?v=S-XpcPYhUmk"/>
-        <updated>2025-09-01T14:30:21.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ| Music Spread | Manarcad pally perunnal]]></title>
-        <id>https://www.youtube.com/shorts/EHl5zBTtmCs</id>
-        <link href="https://www.youtube.com/shorts/EHl5zBTtmCs"/>
-        <updated>2025-09-01T14:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
