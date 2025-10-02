@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-02T11:07:13.339Z</updated>
+    <updated>2025-10-02T12:16:20.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanmani Unplugged | Written & Directed By God #shortsfeed #shortsvideo #shorts #reels #shaanrahman]]></title>
+        <id>https://www.youtube.com/shorts/k2qWUILC77Y</id>
+        <link href="https://www.youtube.com/shorts/k2qWUILC77Y"/>
+        <updated>2025-10-02T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hridayathil Ninnozhukum | Biju Narayanan | Rose Varghese | Pavithran Amachal | @JinoKunnumpurathu |]]></title>
         <id>https://www.youtube.com/shorts/kBZLYgD44M0</id>
@@ -11442,15 +11452,6 @@
         <updated>2025-09-03T00:30:26.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Karthaave | Biju Narayanan | Kester | Wilson Piravom | Najim  Arshad | Minmini | Jyotsna]]></title>
-        <id>https://www.youtube.com/watch?v=jQcA0U6RGHk</id>
-        <link href="https://www.youtube.com/watch?v=jQcA0U6RGHk"/>
-        <updated>2025-09-02T23:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
