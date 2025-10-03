@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T11:07:19.975Z</updated>
+    <updated>2025-10-03T12:16:33.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaruyire - Lyric Video | Diesel | Harish Kalyan | Athulyaa | Dhibu Ninan Thomas |Shanmugam Muthusamy]]></title>
+        <id>https://www.youtube.com/watch?v=rlwP5LVAB_Q</id>
+        <link href="https://www.youtube.com/watch?v=rlwP5LVAB_Q"/>
+        <updated>2025-10-03T11:44:39.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irulalayo Pakaloliyo |Once Upon A Time There Was A Kallan|Fazil Muhammed|RafeeqAhammed|SreenathBhasi]]></title>
+        <id>https://www.youtube.com/watch?v=TQFwoX4Ko0o</id>
+        <link href="https://www.youtube.com/watch?v=TQFwoX4Ko0o"/>
+        <updated>2025-10-03T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhthidum Njan |   ആഴമേറും സ്നേഹം നിറയുന്ന ഈശോയുടെ ഗാനം |   @JinoKunnumpurathu  |#shorts #hits]]></title>
         <id>https://www.youtube.com/shorts/44sGMAP9vzU</id>
@@ -1116,6 +1134,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിലെപ്പോഴും താലോലിക്കുന്ന മെലഡി ഗാനങ്ങൾ | OLD MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=t4O4H876NlI</id>
+        <link href="https://www.youtube.com/watch?v=t4O4H876NlI"/>
+        <updated>2025-09-30T13:30:51.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
