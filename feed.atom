@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T03:21:34.076Z</updated>
+    <updated>2025-10-03T04:10:52.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11237,26 +11237,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konchi Konchi Vilikkunna | Kaithapram | Ouseppachan | KJ Yesudas | Vismayathumbathu #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/PYbjBoDHVp8</id>
-        <link href="https://www.youtube.com/shorts/PYbjBoDHVp8"/>
-        <updated>2025-09-03T16:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ettu Nombu songs, Ettunombu perunnal,  st marys fest manarcad pally perunnal]]></title>
-        <id>https://www.youtube.com/shorts/0tathCncBJE</id>
-        <link href="https://www.youtube.com/shorts/0tathCncBJE"/>
-        <updated>2025-09-03T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
