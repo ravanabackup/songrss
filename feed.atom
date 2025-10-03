@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T04:10:52.949Z</updated>
+    <updated>2025-10-03T05:09:01.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rakshaka... #christiandevotionalsongs #shibuantony #jojijohnschristiansongs #videosongs]]></title>
+        <id>https://www.youtube.com/shorts/PX8SZBm9YqA</id>
+        <link href="https://www.youtube.com/shorts/PX8SZBm9YqA"/>
+        <updated>2025-10-03T04:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madikkanenthanenthaanu | മടിക്കാനെന്താണെന്താണ് | Ulta | Vijay Yesudas | Sithara Krishnakumar]]></title>
+        <id>https://www.youtube.com/watch?v=EV5PfGu4SlQ</id>
+        <link href="https://www.youtube.com/watch?v=EV5PfGu4SlQ"/>
+        <updated>2025-10-03T04:30:08.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BALTI - Sneak Peek | Shane Nigam | Shanthnu| Unni| Sai Abhyankkar| Santhosh T Kuruvilla| Binu George]]></title>
+        <id>https://www.youtube.com/watch?v=krPTtOILjJU</id>
+        <link href="https://www.youtube.com/watch?v=krPTtOILjJU"/>
+        <updated>2025-10-03T04:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akkaraykku Yathra Cheyyum #MariaKolady #AkkaraykkuYathraCheyyum #MSDavidKodukulanji]]></title>
         <id>https://www.youtube.com/shorts/mMBWU8Tz-5w</id>
@@ -11227,16 +11255,6 @@
         <updated>2025-09-03T19:00:30.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 September 2025]]></title>
-        <id>https://www.youtube.com/shorts/rn2kQvuHhm0</id>
-        <link href="https://www.youtube.com/shorts/rn2kQvuHhm0"/>
-        <updated>2025-09-03T16:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
