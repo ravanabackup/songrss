@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T10:09:40.350Z</updated>
+    <updated>2025-10-03T11:07:19.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vazhthidum Njan |   ആഴമേറും സ്നേഹം നിറയുന്ന ഈശോയുടെ ഗാനം |   @JinoKunnumpurathu  |#shorts #hits]]></title>
+        <id>https://www.youtube.com/shorts/44sGMAP9vzU</id>
+        <link href="https://www.youtube.com/shorts/44sGMAP9vzU"/>
+        <updated>2025-10-03T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എൻ മാനസം എന്നും നിന്റെ ആലയംഎന്നും നിന്റെ ശ്രീപദം തേടി വരുന്നൂ ഞാൻ കൂടെ വരുന്നൂ #oldsong #madhu]]></title>
+        <id>https://www.youtube.com/shorts/5sedfFbeWO8</id>
+        <link href="https://www.youtube.com/shorts/5sedfFbeWO8"/>
+        <updated>2025-10-03T10:43:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കെസ്റ്റർ പാടിയ അതിമനോഹരഗാനങ്ങൾ  | #christiansongs  #toptracksindia #toptrending #toptrendingsongs]]></title>
+        <id>https://www.youtube.com/watch?v=uBAb3CrnbB0</id>
+        <link href="https://www.youtube.com/watch?v=uBAb3CrnbB0"/>
+        <updated>2025-10-03T10:30:39.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കരുതുന്ന ദൈവം  | 😇 | Rev. Aneesh P Joseph |  @JinoKunnumpurathu    #shorts  #motivation #trending]]></title>
+        <id>https://www.youtube.com/shorts/ZzYMIJNRdR0</id>
+        <link href="https://www.youtube.com/shorts/ZzYMIJNRdR0"/>
+        <updated>2025-10-03T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnum Kinaave HD Video Song | Vanarasena Malayalam Movie video song | M G Sreekumar, K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=QkJZnCIflGM</id>
+        <link href="https://www.youtube.com/watch?v=QkJZnCIflGM"/>
+        <updated>2025-10-03T10:11:56.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gear up, rise up - the anthem of energy is here! #Thookiyirikkum video song is streaming now.]]></title>
         <id>https://www.youtube.com/shorts/-_vvZbVTWLk</id>
@@ -11314,25 +11362,6 @@
         <updated>2025-09-04T00:30:09.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/ryCRoCpQ60M</id>
-        <link href="https://www.youtube.com/shorts/ryCRoCpQ60M"/>
-        <updated>2025-09-03T23:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സെപ്റ്റംബർ: 04, എട്ടുനോമ്പ് ദിനങ്ങളിൽ പരിശുദ്ധ അമ്മയുടെ അനുഗ്രഹത്തിനായി പ്രാർത്ഥിക്കാം]]></title>
-        <id>https://www.youtube.com/watch?v=6Jm2FXkJTA4</id>
-        <link href="https://www.youtube.com/watch?v=6Jm2FXkJTA4"/>
-        <updated>2025-09-03T22:30:03.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
