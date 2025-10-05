@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T00:46:32.956Z</updated>
+    <updated>2025-10-05T02:24:12.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11395,43 +11395,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിത്യ സ്തുതി ഗീതങ്ങൾ | Praise and Worship Songs | KG Markose | Christian Melody Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=ige97nP6f7s</id>
-        <link href="https://www.youtube.com/watch?v=ige97nP6f7s"/>
-        <updated>2025-09-05T13:30:49.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മെഗാഹിറ്റ്  ക്രിസ്തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | Zion Classics]]></title>
-        <id>https://www.youtube.com/watch?v=lRSv1IouKHA</id>
-        <link href="https://www.youtube.com/watch?v=lRSv1IouKHA"/>
-        <updated>2025-09-05T13:30:47.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaadaruthe - Ambient Lofi | Aelo | Autorickshawkkarante Bharya | Nithya Mammen | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=dSnJArBwQzo</id>
-        <link href="https://www.youtube.com/watch?v=dSnJArBwQzo"/>
-        <updated>2025-09-05T13:30:42.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurise Kurisumarame | മനോഹരമായ ക്രിസ്തീയ ഗാനം | @JinoKunnumpurathu  #shorts]]></title>
-        <id>https://www.youtube.com/shorts/ROBjeKSPG34</id>
-        <link href="https://www.youtube.com/shorts/ROBjeKSPG34"/>
-        <updated>2025-09-05T13:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
