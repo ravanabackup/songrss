@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T15:09:28.540Z</updated>
+    <updated>2025-10-06T16:11:01.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 October 2025]]></title>
+        <id>https://www.youtube.com/shorts/kNneUMzswOQ</id>
+        <link href="https://www.youtube.com/shorts/kNneUMzswOQ"/>
+        <updated>2025-10-06T15:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sare Sare Sambare| Video Song|Thilakkam|Dileep|Kavya Madhavan|]]></title>
         <id>https://www.youtube.com/watch?v=T2qVKxmGm9A</id>
@@ -11518,26 +11528,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annarakanna Vaa | Bhramaram #Lyrical #shorts #moviesongs #malyalam #mohanlal #blessy #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/D1W8P62KZd4</id>
-        <link href="https://www.youtube.com/shorts/D1W8P62KZd4"/>
-        <updated>2025-09-07T03:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie]]></title>
-        <id>https://www.youtube.com/shorts/0BOSKFxfQ58</id>
-        <link href="https://www.youtube.com/shorts/0BOSKFxfQ58"/>
-        <updated>2025-09-07T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
