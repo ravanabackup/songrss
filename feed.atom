@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T12:17:28.608Z</updated>
+    <updated>2025-10-06T13:21:21.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ashubha Mangalakaari - Tech House Mix | The Independeners | Super Sharanya | Justin Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=y76WGDafcq0</id>
+        <link href="https://www.youtube.com/watch?v=y76WGDafcq0"/>
+        <updated>2025-10-06T13:01:52.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദുരിതക്കയത്തിൽ നിന്നും കരകയറ്റിയ ക്രിസ്തീയ ഗാനങ്ങൾ | Daleema | Kester | Prathyasha Geethangal]]></title>
+        <id>https://www.youtube.com/watch?v=26q1Jv2-AOk</id>
+        <link href="https://www.youtube.com/watch?v=26q1Jv2-AOk"/>
+        <updated>2025-10-06T12:30:03.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Mavum Poothe | Adi Kapyare Koottamani #shortsfeed #shortsvideo #shorts #reels #shaanrahman]]></title>
         <id>https://www.youtube.com/shorts/83xMrT4qaik</id>
@@ -11463,34 +11481,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പരി.മാതാവിന്റെ ജനതിരുനാൾ ഗാനങ്ങൾ | Mariyan Songs Malayalam | Kester | Ettunomb Songs | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=dyf0FwlEt1I</id>
-        <link href="https://www.youtube.com/watch?v=dyf0FwlEt1I"/>
-        <updated>2025-09-07T00:30:35.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie]]></title>
-        <id>https://www.youtube.com/shorts/DLt5oNvm1bI</id>
-        <link href="https://www.youtube.com/shorts/DLt5oNvm1bI"/>
-        <updated>2025-09-07T00:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 7th of September 2025 # Mathavinte Japamala #mahimayuderahasyangal 7th of September 25]]></title>
-        <id>https://www.youtube.com/watch?v=auy0wMiBuKQ</id>
-        <link href="https://www.youtube.com/watch?v=auy0wMiBuKQ"/>
-        <updated>2025-09-07T00:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
