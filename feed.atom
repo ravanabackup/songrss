@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T09:12:13.433Z</updated>
+    <updated>2025-10-06T10:10:42.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjarikal Manjushakal | മഞ്ജരികൾ മഞ്ജുഷകൾ | Enthino Pookunna Pookkalam | KJ Yesudas | Audio Song]]></title>
+        <id>https://www.youtube.com/shorts/YfCqeC0C5lM</id>
+        <link href="https://www.youtube.com/shorts/YfCqeC0C5lM"/>
+        <updated>2025-10-06T09:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comali - Paisa Notu Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
         <id>https://www.youtube.com/watch?v=_AVdoHrF5S8</id>
@@ -11369,16 +11379,6 @@
         <updated>2025-09-06T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie]]></title>
-        <id>https://www.youtube.com/shorts/4LcJg-PlDaM</id>
-        <link href="https://www.youtube.com/shorts/4LcJg-PlDaM"/>
-        <updated>2025-09-06T22:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
