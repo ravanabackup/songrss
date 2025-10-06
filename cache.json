@@ -2655,6 +2655,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/IB0sGNjzzg4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/IB0sGNjzzg4",
+          "publishedOn": "2025-10-06T22:00:26.000Z",
+          "wordCount": 2039,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zmVMb5VKFWg",
           "author": null,
           "description": "",
@@ -6205,16 +6215,6 @@
           "wordCount": 1918,
           "title": "Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-9dkJ-HPIfU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-9dkJ-HPIfU",
-          "publishedOn": "2025-09-07T09:30:00.000Z",
-          "wordCount": 2004,
-          "title": "Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie",
-          "imageUrl": null
         }
       ]
     },
@@ -8459,16 +8459,6 @@
           "link": "https://www.youtube.com/shorts/-8UMMmYY0IQ",
           "publishedOn": "2025-09-07T12:30:01.000Z",
           "wordCount": 2275,
-          "title": "Niramezhum Karalil | നിറമേഴും കരളിൽ | Snehamulla Simham | Mammootty Movie Song | Unni Menon | Melody",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=veVX3-F9Vek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=veVX3-F9Vek",
-          "publishedOn": "2025-09-07T09:30:36.000Z",
-          "wordCount": null,
           "title": "Niramezhum Karalil | നിറമേഴും കരളിൽ | Snehamulla Simham | Mammootty Movie Song | Unni Menon | Melody",
           "imageUrl": null
         }
@@ -11732,16 +11722,6 @@
           "publishedOn": "2025-09-08T06:10:40.000Z",
           "wordCount": null,
           "title": "Kattile Mainaye | 4K | Akashadoothu | Murali | Madhavi | Ouseppachan | K S Chithra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_R5ZZHF5CCA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_R5ZZHF5CCA",
-          "publishedOn": "2025-09-07T09:30:18.000Z",
-          "wordCount": null,
-          "title": "Palkudangal 4K - PranayaNilavu(1999) | K.J Yesudas | Radhika Thilak | S. Ramesan Nair | Dileep Hits",
           "imageUrl": null
         }
       ]

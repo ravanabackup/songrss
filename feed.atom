@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-06T21:07:29.813Z</updated>
+    <updated>2025-10-06T22:08:13.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/IB0sGNjzzg4</id>
+        <link href="https://www.youtube.com/shorts/IB0sGNjzzg4"/>
+        <updated>2025-10-06T22:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  October 7 # Athiravile Prarthana 7th of October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=zmVMb5VKFWg</id>
@@ -11444,34 +11454,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niramezhum Karalil | നിറമേഴും കരളിൽ | Snehamulla Simham | Mammootty Movie Song | Unni Menon | Melody]]></title>
-        <id>https://www.youtube.com/watch?v=veVX3-F9Vek</id>
-        <link href="https://www.youtube.com/watch?v=veVX3-F9Vek"/>
-        <updated>2025-09-07T09:30:36.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palkudangal 4K - PranayaNilavu(1999) | K.J Yesudas | Radhika Thilak | S. Ramesan Nair | Dileep Hits]]></title>
-        <id>https://www.youtube.com/watch?v=_R5ZZHF5CCA</id>
-        <link href="https://www.youtube.com/watch?v=_R5ZZHF5CCA"/>
-        <updated>2025-09-07T09:30:18.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Mammootty #mammootty #shortsfeed #shortsvideo #shorts #reels #mammoottymovie]]></title>
-        <id>https://www.youtube.com/shorts/-9dkJ-HPIfU</id>
-        <link href="https://www.youtube.com/shorts/-9dkJ-HPIfU"/>
-        <updated>2025-09-07T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
