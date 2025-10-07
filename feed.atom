@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T15:09:48.874Z</updated>
+    <updated>2025-10-07T16:11:05.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thalam Thulli - Song of the day!]]></title>
+        <id>https://www.youtube.com/shorts/wAz9hDy2pZw</id>
+        <link href="https://www.youtube.com/shorts/wAz9hDy2pZw"/>
+        <updated>2025-10-07T15:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Malankara Catholic Wedding Song… #matchpointfaith  #matchpointcreations]]></title>
         <id>https://www.youtube.com/shorts/CveetIgLAZ0</id>
@@ -11591,16 +11601,6 @@
         <updated>2025-09-08T05:30:03.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ada Aadu yaa 😍💥 #santhoshnarayanan #sublahshini #neethumaya]]></title>
-        <id>https://www.youtube.com/shorts/we7gOOxgAds</id>
-        <link href="https://www.youtube.com/shorts/we7gOOxgAds"/>
-        <updated>2025-09-08T03:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
