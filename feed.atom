@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T00:41:54.651Z</updated>
+    <updated>2025-10-07T02:14:34.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aradhikkum Njan Kumbidum | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/uLBJWmYsGIg</id>
+        <link href="https://www.youtube.com/shorts/uLBJWmYsGIg"/>
+        <updated>2025-10-07T01:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hits of Kuttiyachan | Vol 02 | Evertime Malayalam Christian Songs | Old Malayalam Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=ARhy4CT10Ug</id>
@@ -11368,53 +11378,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilamai Kadhal - Afrobeat Mix | The Independeners | Neymar | Anthony Daasan | Shaan Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=NvAlm3TXiMU</id>
-        <link href="https://www.youtube.com/watch?v=NvAlm3TXiMU"/>
-        <updated>2025-09-07T13:30:32.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിനെ ദൈവവഴിയെ തിരിച്ചുവിടും ഗാനങ്ങൾ | Kester | Christian Melody Songs | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=NvJehEqSeG0</id>
-        <link href="https://www.youtube.com/watch?v=NvJehEqSeG0"/>
-        <updated>2025-09-07T13:30:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്റെ എട്ടുനോമ്പ് ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs | #mathavu | Zion Classics]]></title>
-        <id>https://www.youtube.com/watch?v=7GzouI16rKQ</id>
-        <link href="https://www.youtube.com/watch?v=7GzouI16rKQ"/>
-        <updated>2025-09-07T13:30:05.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അകതാരിൽ നിറയുന്ന |  മാതാവിന്റെ പിറവിത്തിരുന്നാൾ മംഗളങ്ങൾ | @JinoKunnumpurathu  #shorts #mathavu]]></title>
-        <id>https://www.youtube.com/shorts/_axqz9qUhi4</id>
-        <link href="https://www.youtube.com/shorts/_axqz9qUhi4"/>
-        <updated>2025-09-07T13:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naaye Naaye 🐶 #IdharkuthaneAasaipattaiBalakumara]]></title>
-        <id>https://www.youtube.com/shorts/Ali0LxB2MfY</id>
-        <link href="https://www.youtube.com/shorts/Ali0LxB2MfY"/>
-        <updated>2025-09-07T12:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
