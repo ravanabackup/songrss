@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T17:07:57.148Z</updated>
+    <updated>2025-10-07T18:13:42.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th October 2025]]></title>
+        <id>https://www.youtube.com/watch?v=jcFg4FG76dw</id>
+        <link href="https://www.youtube.com/watch?v=jcFg4FG76dw"/>
+        <updated>2025-10-07T18:00:41.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thalam Thulli - Song of the day!]]></title>
         <id>https://www.youtube.com/shorts/wAz9hDy2pZw</id>
@@ -11574,33 +11583,6 @@
         <updated>2025-09-08T06:59:43.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kattile Mainaye | 4K | Akashadoothu | Murali | Madhavi | Ouseppachan | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=ziYQfDX4Afs</id>
-        <link href="https://www.youtube.com/watch?v=ziYQfDX4Afs"/>
-        <updated>2025-09-08T06:10:40.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalamozhikalayi | Pranayam | Video | Mohanlal | Blessy | Sharreth | O.N.V.Kurup | M.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=Em4SSXBMSHA</id>
-        <link href="https://www.youtube.com/watch?v=Em4SSXBMSHA"/>
-        <updated>2025-09-08T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnum Tharangal - Lofi Chill | The Independeners | Kadha Innuvare | Ashwin Aryan]]></title>
-        <id>https://www.youtube.com/watch?v=7S7y6qPlyWI</id>
-        <link href="https://www.youtube.com/watch?v=7S7y6qPlyWI"/>
-        <updated>2025-09-08T05:30:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
