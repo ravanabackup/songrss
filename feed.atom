@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T09:10:24.193Z</updated>
+    <updated>2025-10-08T10:09:40.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Medaponnodam | മേടപ്പൊന്നോടം | Kireedam Movie | Mohanlal | Johnson Master Hits | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=YEZhJcAUIuM</id>
+        <link href="https://www.youtube.com/watch?v=YEZhJcAUIuM"/>
+        <updated>2025-10-08T10:00:54.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaraaro HD Video Song | Kallanum Polisum Malayalam Movie Song | M. G. Sreekumar & K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=t5PAfD6SXfc</id>
+        <link href="https://www.youtube.com/watch?v=t5PAfD6SXfc"/>
+        <updated>2025-10-08T09:45:04.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaikkottum Kandittilla 🕺 #songoftheday]]></title>
         <id>https://www.youtube.com/shorts/9KWnU9-Nemo</id>
