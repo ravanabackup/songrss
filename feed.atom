@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T16:11:18.342Z</updated>
+    <updated>2025-10-08T17:07:52.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11645,15 +11645,6 @@
         <updated>2025-09-09T05:19:12.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poo Chirichoo | Agnisharam | Jayan | Sukumaran | M K Arjunan | Jayachandran | Jayabharathy]]></title>
-        <id>https://www.youtube.com/watch?v=9cvVUKoqnMc</id>
-        <link href="https://www.youtube.com/watch?v=9cvVUKoqnMc"/>
-        <updated>2025-09-09T04:35:20.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
