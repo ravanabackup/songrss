@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-09T02:15:58.934Z</updated>
+    <updated>2025-10-09T03:25:43.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -426,6 +426,16 @@
         <updated>2025-10-08T04:30:12.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dillubaru Aaja 🔥 #silambarasantr #harishkalyan #diesel #diwali]]></title>
+        <id>https://www.youtube.com/shorts/gY5mRixOIiY</id>
+        <link href="https://www.youtube.com/shorts/gY5mRixOIiY"/>
+        <updated>2025-10-08T02:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
@@ -11381,36 +11391,6 @@
         <updated>2025-09-09T19:00:01.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vizhi Veekura ❤️🎶 #SaiAbhyankkar #SaiSmriti #AdeshKrishna #Theertha #ThinkIndie]]></title>
-        <id>https://www.youtube.com/shorts/zmwTht8WYmk</id>
-        <link href="https://www.youtube.com/shorts/zmwTht8WYmk"/>
-        <updated>2025-09-09T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velukkumbol Kulikkuvan  | Sheela | MS Baburaj | P Bhaskaran | AP Komala | Kuttikkuppaayam #shorts]]></title>
-        <id>https://www.youtube.com/shorts/LIJ9iJGRfRo</id>
-        <link href="https://www.youtube.com/shorts/LIJ9iJGRfRo"/>
-        <updated>2025-09-09T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/DmOEw8IzOyw</id>
-        <link href="https://www.youtube.com/shorts/DmOEw8IzOyw"/>
-        <updated>2025-09-09T14:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
