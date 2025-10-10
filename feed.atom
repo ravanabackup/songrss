@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-10T07:09:10.901Z</updated>
+    <updated>2025-10-10T08:12:58.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മമ്മൂക്ക അഭിനയിച്ച സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | HITS OF MAMMOOTTY]]></title>
+        <id>https://www.youtube.com/watch?v=x7TezOOAA7o</id>
+        <link href="https://www.youtube.com/watch?v=x7TezOOAA7o"/>
+        <updated>2025-10-10T07:30:38.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amme Ne thanna Japamala...#mariyansong #sojanparakkal #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/ulXhQMF86zU</id>
+        <link href="https://www.youtube.com/shorts/ulXhQMF86zU"/>
+        <updated>2025-10-10T07:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amme Nee Thann Japamala | Sojan Parakkal | Mariyan Video Song Malayalam | Aayudhamam Japamala]]></title>
+        <id>https://www.youtube.com/watch?v=7-fG4xoB47E</id>
+        <link href="https://www.youtube.com/watch?v=7-fG4xoB47E"/>
+        <updated>2025-10-10T07:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I - Pookkalae Sattru Oyivedungal Video with Lyrics | A. R. Rahman | Vikram]]></title>
         <id>https://www.youtube.com/watch?v=Uas4Lg_xN9g</id>
@@ -410,6 +438,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Innee Sandhyavelayil | Dr. George Varghese | Jose Kadavil | Danniyah Susa Cheriyan | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=g1r31uFXMZw</id>
+        <link href="https://www.youtube.com/watch?v=g1r31uFXMZw"/>
+        <updated>2025-10-09T08:49:58.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ദുഃഖങ്ങളെല്ലാം അകറ്റുന്ന യേശുനാഥന്റെ  ദിവ്യഗാനങ്ങൾ | Evergreen Malayalam Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=KmczRKWUuEY</id>
         <link href="https://www.youtube.com/watch?v=KmczRKWUuEY"/>
@@ -471,6 +508,15 @@
         <updated>2025-10-09T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dheeram Promo Song | Indrajith Sukumaran | Manikandan Ayyappa |Murali Gopy |Sithara |Jithin Suresh T]]></title>
+        <id>https://www.youtube.com/watch?v=LLVH5UubxRA</id>
+        <link href="https://www.youtube.com/watch?v=LLVH5UubxRA"/>
+        <updated>2025-10-09T05:22:28.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -11372,15 +11418,6 @@
         <updated>2025-09-10T22:30:12.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  September 11 Athiravile Prarthana 11th of September 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5b3AIyGupME</id>
-        <link href="https://www.youtube.com/watch?v=5b3AIyGupME"/>
-        <updated>2025-09-10T20:00:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
