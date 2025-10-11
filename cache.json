@@ -7634,16 +7634,6 @@
           "wordCount": 2017,
           "title": "12 September 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/8-pF0Cl8sYw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/8-pF0Cl8sYw",
-          "publishedOn": "2025-09-11T17:00:10.000Z",
-          "wordCount": 1964,
-          "title": "11 September 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -9866,6 +9856,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7HxL02mm_QSBvrykXTzMew",
       "siteUrl": "https://www.youtube.com/channel/UC7HxL02mm_QSBvrykXTzMew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pAV6hKpdQL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pAV6hKpdQL0",
+          "publishedOn": "2025-10-11T04:30:24.000Z",
+          "wordCount": null,
+          "title": "Naanamavunno | Attakalasham | Mohanlal | Lakshmi | KJ Yesudas | Raveendran | J Sasikumar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OppzYaNxmOk",
           "author": null,
