@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-11T21:06:52.944Z</updated>
+    <updated>2025-10-11T22:07:26.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/TQwH__PqV7I</id>
+        <link href="https://www.youtube.com/shorts/TQwH__PqV7I"/>
+        <updated>2025-10-11T22:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന October 12 # Athiravile Prarthana 12th October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=-e0HM2EEqMk</id>
@@ -11793,16 +11803,6 @@
         <updated>2025-09-12T10:43:35.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilapad 🔥 #Haal #ShaneNigam #Nandhagopan]]></title>
-        <id>https://www.youtube.com/shorts/Ud57acmkzXc</id>
-        <link href="https://www.youtube.com/shorts/Ud57acmkzXc"/>
-        <updated>2025-09-12T09:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
