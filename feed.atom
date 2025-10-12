@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T22:07:26.157Z</updated>
+    <updated>2025-10-12T23:07:31.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 13, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=sfiULvy3_U4</id>
+        <link href="https://www.youtube.com/watch?v=sfiULvy3_U4"/>
+        <updated>2025-10-12T22:30:10.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/X8o3I_LpkYA</id>
+        <link href="https://www.youtube.com/shorts/X8o3I_LpkYA"/>
+        <updated>2025-10-12T22:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  October 13 # Athiravile Prarthana 13th of October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=6WuFme5JE2c</id>
@@ -11683,25 +11702,6 @@
         <updated>2025-09-13T11:26:56.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉരുകിയുരുകിയെരിയുമീ | Urugiyurugiyeriyumi...| Lelam | Ouseppachan | KJ Yesudas | Suresh Gopi]]></title>
-        <id>https://www.youtube.com/shorts/sp70Jsw7VrI</id>
-        <link href="https://www.youtube.com/shorts/sp70Jsw7VrI"/>
-        <updated>2025-09-13T11:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivathinte Makan Malayalam Movie Song - Thaalikku Ponnu | HD Video Song | M. G. Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=i957fN6kPkM</id>
-        <link href="https://www.youtube.com/watch?v=i957fN6kPkM"/>
-        <updated>2025-09-13T10:10:36.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
