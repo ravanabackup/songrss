@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T19:05:44.119Z</updated>
+    <updated>2025-10-12T20:09:12.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11721,44 +11721,6 @@
         <updated>2025-09-13T09:08:55.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏറ്റവും കൂടുതൽ ഹിറ്റ് ഗാനങ്ങളിറങ്ങിയ തൊണ്ണൂറുകളിലെ മാസ്മര ഗാനങ്ങൾ | 90s HITS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=lEDWubVDfao</id>
-        <link href="https://www.youtube.com/watch?v=lEDWubVDfao"/>
-        <updated>2025-09-13T07:30:32.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porattam - Video Song Out Now | Flask | Saiju Kurup #shorts #music]]></title>
-        <id>https://www.youtube.com/shorts/dKxi7GW78Ak</id>
-        <link href="https://www.youtube.com/shorts/dKxi7GW78Ak"/>
-        <updated>2025-09-13T07:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉരുകിയുരുകിയെരിയുമീ | Urugiyurugiyeriyumi...| Lelam | Ouseppachan | KJ Yesudas | Suresh Gopi]]></title>
-        <id>https://www.youtube.com/watch?v=mU2bX239f0A</id>
-        <link href="https://www.youtube.com/watch?v=mU2bX239f0A"/>
-        <updated>2025-09-13T07:26:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m just chilling Aaya cool ah 😎 #mamithabaiju #saiabhyankkar #dude]]></title>
-        <id>https://www.youtube.com/shorts/ZgcxOtc2l9A</id>
-        <link href="https://www.youtube.com/shorts/ZgcxOtc2l9A"/>
-        <updated>2025-09-13T07:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
