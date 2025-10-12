@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T21:07:03.437Z</updated>
+    <updated>2025-10-12T22:07:26.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11702,25 +11702,6 @@
         <updated>2025-09-13T10:10:36.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porattam - Video Song Out Now | Flask | Saiju Kurup #shorts #music]]></title>
-        <id>https://www.youtube.com/shorts/SETpOmJxR6E</id>
-        <link href="https://www.youtube.com/shorts/SETpOmJxR6E"/>
-        <updated>2025-09-13T09:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Ariyathe Kaanum | നീ അറിയാതെ കാണും | Mazhaneerthullikal | Ouseppachan | Swetha Mohan | Audio]]></title>
-        <id>https://www.youtube.com/watch?v=5raKLB58soU</id>
-        <link href="https://www.youtube.com/watch?v=5raKLB58soU"/>
-        <updated>2025-09-13T09:08:55.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
