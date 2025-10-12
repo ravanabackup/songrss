@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T05:08:33.158Z</updated>
+    <updated>2025-10-12T06:12:22.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎶Ushakalam Naam… #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
+        <id>https://www.youtube.com/shorts/HvtxZh4-EHE</id>
+        <link href="https://www.youtube.com/shorts/HvtxZh4-EHE"/>
+        <updated>2025-10-12T05:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junile Nila Mazhayil | Unplugged Melody Cover #unplugged #coversong #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/shorts/4_pB1LK9qX8</id>
+        <link href="https://www.youtube.com/shorts/4_pB1LK9qX8"/>
+        <updated>2025-10-12T05:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manathe Marikkurumbe | മാനത്തെ മാരിക്കുറുമ്പേ | Pulimurugan | Vani Jairam | Gopi Sundar | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=RRnlTHQNFOk</id>
