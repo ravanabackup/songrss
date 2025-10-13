@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T05:10:10.356Z</updated>
+    <updated>2025-10-13T06:15:22.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Siyona | Nammal Thammil | Video Song | Prithviraj |Viji Thambi |Gireesh Puthenchery | M.Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=xLWlifDmGm8</id>
+        <link href="https://www.youtube.com/watch?v=xLWlifDmGm8"/>
+        <updated>2025-10-13T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music of Bison Kaalamaadan - Nivas K Prasanna (Promo) | Think Pod]]></title>
+        <id>https://www.youtube.com/watch?v=ARZegH4PmOQ</id>
+        <link href="https://www.youtube.com/watch?v=ARZegH4PmOQ"/>
+        <updated>2025-10-13T05:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DUDE Diwali Music Concert LIVE | Pradeep Ranganathan, Mamitha Baiju | Keerthiswaran | Sai Abhyankkar]]></title>
+        <id>https://www.youtube.com/watch?v=NHhU_Z5lKRU</id>
+        <link href="https://www.youtube.com/watch?v=NHhU_Z5lKRU"/>
+        <updated>2025-10-13T04:53:17.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manchadi Mani Kondu | Aadhaaram | Murali | Geetha | K J Yesudas | Johnson | George Kithu | Sudheesh]]></title>
         <id>https://www.youtube.com/watch?v=ifhp1GSSZ28</id>
