@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T21:07:39.739Z</updated>
+    <updated>2025-10-14T22:09:07.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/henMVVh8U1Y</id>
+        <link href="https://www.youtube.com/shorts/henMVVh8U1Y"/>
+        <updated>2025-10-14T22:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  October 15 # Athiravile Prarthana 15th of October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=FDZDqpnOCBw</id>
@@ -11859,24 +11869,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paathiravum Poonilaavum Malayalam Movie HD Video Song | Ingane Oru Nilapakshi | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=gS-ufaZUEZk</id>
-        <link href="https://www.youtube.com/watch?v=gS-ufaZUEZk"/>
-        <updated>2025-09-15T09:54:57.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakaliravukal - Amapiano | The Independeners | Kurup | Neha Nair | Sushin Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=CB7mQ5P3McQ</id>
-        <link href="https://www.youtube.com/watch?v=CB7mQ5P3McQ"/>
-        <updated>2025-09-15T09:30:13.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
