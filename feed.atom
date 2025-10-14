@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T19:07:23.126Z</updated>
+    <updated>2025-10-14T20:09:57.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11905,35 +11905,6 @@
         <updated>2025-09-15T08:45:07.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Ambambo is streaming now on all major platforms!💃🥁 #innocentmovie]]></title>
-        <id>https://www.youtube.com/shorts/ZhQt7aZKRWk</id>
-        <link href="https://www.youtube.com/shorts/ZhQt7aZKRWk"/>
-        <updated>2025-09-15T08:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സ് നിറഞ്ഞാസ്വദിക്കും മലയാളസിനിമയിലെ അനശ്വര ഗാനങ്ങൾ | MINDBLOWING SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=odqX4DgIywk</id>
-        <link href="https://www.youtube.com/watch?v=odqX4DgIywk"/>
-        <updated>2025-09-15T07:35:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oblivion | Dominic Arun | K S Harisankar #shortsvideo #shortsfeed #reels #malayalam #albumsong]]></title>
-        <id>https://www.youtube.com/shorts/dK3FydvhJQE</id>
-        <link href="https://www.youtube.com/shorts/dK3FydvhJQE"/>
-        <updated>2025-09-15T07:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
