@@ -2885,6 +2885,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SEhnvuFZaY8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SEhnvuFZaY8",
+          "publishedOn": "2025-10-14T18:00:25.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th October 25",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4y1V_e3MUn0",
           "author": null,
           "description": "",
@@ -6524,16 +6534,6 @@
           "publishedOn": "2025-09-15T07:30:30.000Z",
           "wordCount": 2014,
           "title": "Oblivion | Dominic Arun | K S Harisankar #shortsvideo #shortsfeed #reels #malayalam #albumsong",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=efnRwiJpVXc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=efnRwiJpVXc",
-          "publishedOn": "2025-09-15T05:30:06.000Z",
-          "wordCount": null,
-          "title": "Paadiyum Paranjum  | P Jayachandran |  സുശീലാമ്മയുടെ ആരാധകൻ  | പാടിയും പറഞ്ഞും | Music Interview",
           "imageUrl": null
         }
       ]
@@ -12212,16 +12212,6 @@
           "publishedOn": "2025-09-15T11:02:17.000Z",
           "wordCount": null,
           "title": "Ambilikkalayum | Adharvam Movie Song | K S Chithra | O N V Kurupp | Ilayaraja  Hits| Mamootty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vUWgI7OMLj4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vUWgI7OMLj4",
-          "publishedOn": "2025-09-15T06:13:10.000Z",
-          "wordCount": null,
-          "title": "Karmukil Varnantel | 4K | Nandanam | Navya Nair | KS Chithra | Gireesh Puthenchery | Raveendran",
           "imageUrl": null
         }
       ]
