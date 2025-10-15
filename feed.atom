@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T02:19:41.087Z</updated>
+    <updated>2025-10-15T03:30:34.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11687,45 +11687,6 @@
         <updated>2025-09-15T15:40:13.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
-        <id>https://www.youtube.com/shorts/vzOiemxNY74</id>
-        <link href="https://www.youtube.com/shorts/vzOiemxNY74"/>
-        <updated>2025-09-15T14:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chanthukudanjoru | Shahabaz Aman | Sujatha Mohan | Vidyasagar | Dileep #shorts]]></title>
-        <id>https://www.youtube.com/shorts/eeMCNoTBaOU</id>
-        <link href="https://www.youtube.com/shorts/eeMCNoTBaOU"/>
-        <updated>2025-09-15T14:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pottu Kuthadi Video Song|Ravanaprabhu|Vasundaradas|Jagadeesh|Vindhya|]]></title>
-        <id>https://www.youtube.com/watch?v=2jLwYvtseCE</id>
-        <link href="https://www.youtube.com/watch?v=2jLwYvtseCE"/>
-        <updated>2025-09-15T14:29:00.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ndaakkippaattu #thallumaala #shinetomchacko #songoftheday #shorts #hbd]]></title>
-        <id>https://www.youtube.com/shorts/n6mNbNpUX90</id>
-        <link href="https://www.youtube.com/shorts/n6mNbNpUX90"/>
-        <updated>2025-09-15T14:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
