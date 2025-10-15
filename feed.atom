@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T20:10:09.527Z</updated>
+    <updated>2025-10-15T21:07:58.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11848,35 +11848,6 @@
         <updated>2025-09-16T09:58:37.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padaporuthana Dheeran Neeye | പടപൊരുതണ ധീരൻ നീയേ | Chanakya Sasthram | Shan Rahman | Unni Mukundhan]]></title>
-        <id>https://www.youtube.com/shorts/YBsT-Sti4Zc</id>
-        <link href="https://www.youtube.com/shorts/YBsT-Sti4Zc"/>
-        <updated>2025-09-16T08:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=VoVpTy3FpmM</id>
-        <link href="https://www.youtube.com/watch?v=VoVpTy3FpmM"/>
-        <updated>2025-09-16T08:47:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌿 Traditional beats meet timeless energy…#Ambambo – a folk musical treat you can’t miss! ✨]]></title>
-        <id>https://www.youtube.com/shorts/Urstt-vzmUY</id>
-        <link href="https://www.youtube.com/shorts/Urstt-vzmUY"/>
-        <updated>2025-09-16T08:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
