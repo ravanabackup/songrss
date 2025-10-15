@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T21:07:58.450Z</updated>
+    <updated>2025-10-15T22:06:47.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/Yiy3d-zzvO8</id>
+        <link href="https://www.youtube.com/shorts/Yiy3d-zzvO8"/>
+        <updated>2025-10-15T22:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 16 # Athiravile Prarthana 16th October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=vOxkz3SojjI</id>
@@ -11839,15 +11849,6 @@
         <updated>2025-09-16T11:00:19.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ | Malayalam Christian Devotional Song | Music Spread |]]></title>
-        <id>https://www.youtube.com/watch?v=_E1ZyTcGcGw</id>
-        <link href="https://www.youtube.com/watch?v=_E1ZyTcGcGw"/>
-        <updated>2025-09-16T09:58:37.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
