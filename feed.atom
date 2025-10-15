@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T10:10:58.118Z</updated>
+    <updated>2025-10-15T11:07:46.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AZHAMERUM SNEHAM |  ആഴമേറും സ്നേഹം നിറയുന്ന ഈശോയുടെ ഗാനം |  @JinoKunnumpurathu  | #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/2lbNweDfcmc</id>
+        <link href="https://www.youtube.com/shorts/2lbNweDfcmc"/>
+        <updated>2025-10-15T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ കാത്തിരിപ്പ് വെറുതെയാവില്ല    | 😇 | Rev. Aneesh P Joseph | #shorts  #motivation #trending]]></title>
+        <id>https://www.youtube.com/shorts/wrbe3ZuXbns</id>
+        <link href="https://www.youtube.com/shorts/wrbe3ZuXbns"/>
+        <updated>2025-10-15T10:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dum Dum Dum Dundundubhi Naadam | ദും ദും ദും ദുന്ദുഭിനാദം | Vaishali Movie | Dinesh | Lathika]]></title>
+        <id>https://www.youtube.com/watch?v=-Q8qmbe6XYY</id>
+        <link href="https://www.youtube.com/watch?v=-Q8qmbe6XYY"/>
+        <updated>2025-10-15T10:30:17.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കെസ്റ്റർ പാടിയ അതിമനോഹരഗാനങ്ങൾ @JinoKunnumpurathu    #toptracksindia #toptrending #kesterhits]]></title>
+        <id>https://www.youtube.com/watch?v=LuVX-ih6NBI</id>
+        <link href="https://www.youtube.com/watch?v=LuVX-ih6NBI"/>
+        <updated>2025-10-15T10:30:15.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithiri Neram - Teaser | Roshan Mathew | Zarin Shihab |  Maitreyan | Prasanth Vijay | Basil CJ]]></title>
+        <id>https://www.youtube.com/watch?v=un44CZ5G_I0</id>
+        <link href="https://www.youtube.com/watch?v=un44CZ5G_I0"/>
+        <updated>2025-10-15T10:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിറത്തിങ്കൾ  പോലെ മനസ്സിൽ തെളിഞ്ഞു നിന്ന ചലച്ചിത്ര ഗാനങ്ങൾ | OLD MELODY SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=NywRx8s2Zg8</id>
@@ -11658,25 +11705,6 @@
         <updated>2025-09-16T00:30:50.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/yn9e7E-RECg</id>
-        <link href="https://www.youtube.com/shorts/yn9e7E-RECg"/>
-        <updated>2025-09-15T23:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സെപ്റ്റംബർ: 16, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=VjQlbgwvHzk</id>
-        <link href="https://www.youtube.com/watch?v=VjQlbgwvHzk"/>
-        <updated>2025-09-15T22:30:09.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
