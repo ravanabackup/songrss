@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T05:09:45.493Z</updated>
+    <updated>2025-10-15T06:14:48.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ravereyaay | Video Song| Rock N Roll | Mohanlal |Madhu Balakrishnan| Vidyasagar | Girish Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=JNS5Jods22Y</id>
+        <link href="https://www.youtube.com/watch?v=JNS5Jods22Y"/>
+        <updated>2025-10-15T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹൃദയം തകർന്നവർക്ക് ഏറെ ആശ്വാസം പകരുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Songs Malayalam | Kester]]></title>
         <id>https://www.youtube.com/watch?v=qhKd9_WA2zk</id>
