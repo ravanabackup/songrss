@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T14:09:46.282Z</updated>
+    <updated>2025-10-15T15:09:54.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulluvan Paattu video song is Streaming Now! Theatre: The Myth of Reality #rimakallingal #sajinbaabu]]></title>
+        <id>https://www.youtube.com/shorts/PPnxZ_ru-B0</id>
+        <link href="https://www.youtube.com/shorts/PPnxZ_ru-B0"/>
+        <updated>2025-10-15T15:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകമെമ്പാടും ഇന്നും ഏറ്റുപാടുന്ന സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനങ്ങൾ!! | #super #evergreen | #hits]]></title>
+        <id>https://www.youtube.com/watch?v=jEROi6BTrWA</id>
+        <link href="https://www.youtube.com/watch?v=jEROi6BTrWA"/>
+        <updated>2025-10-15T14:16:34.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yogyallenn Aakilum ...#christiandevotionalsongs #jojijohnschristiansongs #frlibinkoombara #rijiya]]></title>
         <id>https://www.youtube.com/shorts/9ss4ZiJukB8</id>
@@ -11886,15 +11905,6 @@
         <updated>2025-09-16T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMIN THACHANKARY, YESUDAS & CHITHRA CHRISTIAN DEVOTIONAL SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=o892YGlYQmA</id>
-        <link href="https://www.youtube.com/watch?v=o892YGlYQmA"/>
-        <updated>2025-09-16T02:15:06.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
