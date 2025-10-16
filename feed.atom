@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T02:18:47.472Z</updated>
+    <updated>2025-10-16T03:29:48.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11680,26 +11680,6 @@
         <updated>2025-09-16T19:00:29.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peeli Kannezhuthi | Manoj K Jayan | KS Chithra| G Venugopal| Johnson| Kaithapram #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/l78gQoJEE9Y</id>
-        <link href="https://www.youtube.com/shorts/l78gQoJEE9Y"/>
-        <updated>2025-09-16T14:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innolam enne | maramon song | Marthoma church |Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/VfOUQ5aZEts</id>
-        <link href="https://www.youtube.com/shorts/VfOUQ5aZEts"/>
-        <updated>2025-09-16T14:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
