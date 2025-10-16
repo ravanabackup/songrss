@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T08:13:48.190Z</updated>
+    <updated>2025-10-16T09:11:05.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Prithviraj Sukumaran|Adakachakko #shortsvideo #shortsfeed #reels #prithvirajsukumaran]]></title>
+        <id>https://www.youtube.com/shorts/XVvfOW_7Ous</id>
+        <link href="https://www.youtube.com/shorts/XVvfOW_7Ous"/>
+        <updated>2025-10-16T08:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hridayame Hridayame | ഹൃദയമേ ഹൃദയമേ | Thaaram Movie Song | Nikhil |Reshma |Prithviraj | G V Prakash]]></title>
         <id>https://www.youtube.com/watch?v=ogtkRsGtrNI</id>
