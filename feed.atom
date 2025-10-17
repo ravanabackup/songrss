@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T05:09:02.857Z</updated>
+    <updated>2025-10-17T06:13:53.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chembavu | Salt N' Pepper | Pushpavathy | Rafeeque Ahammed | Bijibal | Ashiq Abu]]></title>
+        <id>https://www.youtube.com/watch?v=BrrEzdSrENI</id>
+        <link href="https://www.youtube.com/watch?v=BrrEzdSrENI"/>
+        <updated>2025-10-17T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Athishayam from Innocent — the sound of love you’ll want to play on repeat 💖🎵 #outnow #shorts]]></title>
         <id>https://www.youtube.com/shorts/9BW5M3DCudg</id>
