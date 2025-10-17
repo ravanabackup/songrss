@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T21:07:35.349Z</updated>
+    <updated>2025-10-17T22:08:14.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/FldYdsqcfiQ</id>
+        <link href="https://www.youtube.com/shorts/FldYdsqcfiQ"/>
+        <updated>2025-10-17T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 18 # Athiravile Prarthana 18th October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=r3eBEiH4Z2o</id>
@@ -11939,16 +11949,6 @@
         <updated>2025-09-18T10:17:44.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelaravil Innu Ninte | നീലരാവിൽ ഇന്നു നിന്റെ | Kudumbasametham | KJ Yesudas | Minmini | Johnson]]></title>
-        <id>https://www.youtube.com/shorts/C3jOIkDZFJc</id>
-        <link href="https://www.youtube.com/shorts/C3jOIkDZFJc"/>
-        <updated>2025-09-18T09:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
