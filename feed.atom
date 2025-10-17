@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T22:08:14.576Z</updated>
+    <updated>2025-10-17T23:08:11.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 17, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=3CbigRDoshg</id>
+        <link href="https://www.youtube.com/watch?v=3CbigRDoshg"/>
+        <updated>2025-10-17T22:30:00.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/FldYdsqcfiQ</id>
@@ -11922,33 +11931,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayamayooram | മായാമയൂരം | Kalapam Movie | Sujatha Mohan Song | Evergreen Hit | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=n__XHSPo08c</id>
-        <link href="https://www.youtube.com/watch?v=n__XHSPo08c"/>
-        <updated>2025-09-18T10:32:38.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuyilene - Lyrical | Malayalam Hip-Hop Rap | EMEN | Neelakuyil]]></title>
-        <id>https://www.youtube.com/watch?v=EcFlbGmTpo0</id>
-        <link href="https://www.youtube.com/watch?v=EcFlbGmTpo0"/>
-        <updated>2025-09-18T10:30:09.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennodothunarunna | Sukrutham Movie Video Song | K J Yesudas |  ONV Kurupp | Bombay Ravi Hits]]></title>
-        <id>https://www.youtube.com/watch?v=NYAplzzzjg0</id>
-        <link href="https://www.youtube.com/watch?v=NYAplzzzjg0"/>
-        <updated>2025-09-18T10:17:44.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
