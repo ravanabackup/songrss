@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T17:07:37.906Z</updated>
+    <updated>2025-10-17T18:10:55.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 18th October 25]]></title>
+        <id>https://www.youtube.com/watch?v=mnhwiL82mgc</id>
+        <link href="https://www.youtube.com/watch?v=mnhwiL82mgc"/>
+        <updated>2025-10-17T18:01:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Padi Pukhazthidam.. #matchpointfaith  #malayalamchristiandevotionalsongs  #matchpointcreations]]></title>
         <id>https://www.youtube.com/shorts/9wGfya2VYos</id>
@@ -11987,42 +11996,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerriyude Aanmakkal | Official Trailer | Gijo Sebastian | Dr. Suresh Prem | Aiswarya Nambiar | Emma]]></title>
-        <id>https://www.youtube.com/watch?v=K4HrVoXK06w</id>
-        <link href="https://www.youtube.com/watch?v=K4HrVoXK06w"/>
-        <updated>2025-09-18T06:05:44.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oho Enthan Baby - Original Score | Rudra, Mithila Palkar | Vishnu Vishal | Jen Martin]]></title>
-        <id>https://www.youtube.com/watch?v=FeFxbKOkQc0</id>
-        <link href="https://www.youtube.com/watch?v=FeFxbKOkQc0"/>
-        <updated>2025-09-18T05:36:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennu Varum nee 4K | Kannaki | Kaithapram Vishwanathan Nambudiri | Kaithapram | K S Chithra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=1IBtrkgert4</id>
-        <link href="https://www.youtube.com/watch?v=1IBtrkgert4"/>
-        <updated>2025-09-18T05:35:16.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kabadi Kabadi | Nammal Thammil | Video Song | Prithviraj | Gireesh Puthenchery |  M.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=qCY6Yx4cFvA</id>
-        <link href="https://www.youtube.com/watch?v=qCY6Yx4cFvA"/>
-        <updated>2025-09-18T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
