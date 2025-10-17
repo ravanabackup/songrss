@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T19:07:10.551Z</updated>
+    <updated>2025-10-17T20:10:10.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11958,15 +11958,6 @@
         <updated>2025-09-18T08:43:52.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിന്റെ ജാലകവാതിലിൽ എപ്പോഴും  കുറുകുന്ന പ്രാക്കളാം സിനിമ ഗാനങ്ങൾ | Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=q-XPC8X9oYE</id>
-        <link href="https://www.youtube.com/watch?v=q-XPC8X9oYE"/>
-        <updated>2025-09-18T07:30:24.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
