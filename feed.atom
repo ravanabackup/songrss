@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T03:27:20.466Z</updated>
+    <updated>2025-10-17T04:11:35.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athishayam from Innocent — the sound of love you’ll want to play on repeat 💖🎵 #outnow #shorts]]></title>
+        <id>https://www.youtube.com/shorts/9BW5M3DCudg</id>
+        <link href="https://www.youtube.com/shorts/9BW5M3DCudg"/>
+        <updated>2025-10-17T03:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ധ്യാനം  Christian Bhajans Ft. Biju Narayanan, Fr Thomas Edayal, Samji Arattupuzha, Fr Saiju]]></title>
         <id>https://www.youtube.com/watch?v=aXeupQ7Nmw4</id>
@@ -11782,26 +11792,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Yeshuve Pole Aakuvan…#matchpointfaith ##MalayalamChristianDevotionalSongs #newrelease]]></title>
-        <id>https://www.youtube.com/shorts/0a9s1gtz80Q</id>
-        <link href="https://www.youtube.com/shorts/0a9s1gtz80Q"/>
-        <updated>2025-09-17T16:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ |Malayalam Christian Devotional song | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/HKdh3RixLbA</id>
-        <link href="https://www.youtube.com/shorts/HKdh3RixLbA"/>
-        <updated>2025-09-17T16:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
