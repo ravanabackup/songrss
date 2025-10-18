@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T02:12:00.328Z</updated>
+    <updated>2025-10-18T03:20:32.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11807,26 +11807,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ |  Nanni Nanni | Pr. Charles Jacob |  Roji Ponnachan | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/yBRjLqzdf0c</id>
-        <link href="https://www.youtube.com/shorts/yBRjLqzdf0c"/>
-        <updated>2025-09-18T14:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maaya Devakikku | Dileep | Kavya Madhavan | KS Chithra | Vidyasagar | S Ramesan Nair #shorts]]></title>
-        <id>https://www.youtube.com/shorts/6Nm1CMaOFFQ</id>
-        <link href="https://www.youtube.com/shorts/6Nm1CMaOFFQ"/>
-        <updated>2025-09-18T14:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
