@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T19:04:37.204Z</updated>
+    <updated>2025-10-18T20:08:58.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11967,15 +11967,6 @@
         <updated>2025-09-19T08:41:12.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എല്ലാവർക്കും ഒരുപോലെ ഇഷ്ടപെടുന്ന മലയാളസിനിമയിലെ ഹിറ്റ് സിനിമാപ്പാട്ടുകൾ | POPULAR SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=0UUlWdARMDI</id>
-        <link href="https://www.youtube.com/watch?v=0UUlWdARMDI"/>
-        <updated>2025-09-19T07:32:16.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
