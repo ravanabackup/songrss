@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T14:07:12.553Z</updated>
+    <updated>2025-10-18T15:07:24.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎶Shobhayulloru Nadu… #matchpointfaith #matchpointcreations #malayalamchristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/pmuBXeHsoEs</id>
+        <link href="https://www.youtube.com/shorts/pmuBXeHsoEs"/>
+        <updated>2025-10-18T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaaradendu Paadi| Mammootty, Shobana, Dileep, Shalini - Kaliyoonjal | Kaithapram | Ilayaraja Hits]]></title>
+        <id>https://www.youtube.com/watch?v=J734b_1AZaY</id>
+        <link href="https://www.youtube.com/watch?v=J734b_1AZaY"/>
+        <updated>2025-10-18T14:10:20.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ചെറുപ്പം മുതലേ പാടിപ്പടിച്ച ക്രിസ്തീയഗാനങ്ങൾ | Kuttiyachan |  Worship Songs | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=xY_cl-siMgM</id>
