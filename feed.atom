@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-18T09:08:38.629Z</updated>
+    <updated>2025-10-18T10:08:20.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13,6 +13,16 @@
         <updated>2025-10-18T09:03:45.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That spark of romance? It’s #NithyaMammen behind the mic, shaping the soul of Athishayam 💖🎵]]></title>
+        <id>https://www.youtube.com/shorts/MFF5yi6C3V8</id>
+        <link href="https://www.youtube.com/shorts/MFF5yi6C3V8"/>
+        <updated>2025-10-18T09:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +70,15 @@
         <updated>2025-10-18T05:33:10.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandana Mazha Pozhiyum Video Song | Swapnasundari Movie | Najim Arshad |Ajith sukumaran |K J Philip]]></title>
+        <id>https://www.youtube.com/watch?v=GOwUwkzhwHQ</id>
+        <link href="https://www.youtube.com/watch?v=GOwUwkzhwHQ"/>
+        <updated>2025-10-18T04:45:30.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
     <entry>
