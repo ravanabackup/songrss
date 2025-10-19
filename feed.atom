@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T09:08:26.009Z</updated>
+    <updated>2025-10-19T10:08:37.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pranayavenuvil HD Video Song | Swaralayam Malayalam Movie song | Krishnachandran & K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=gLCgmoXHMzc</id>
+        <link href="https://www.youtube.com/watch?v=gLCgmoXHMzc"/>
+        <updated>2025-10-19T09:09:45.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payyannur Pavithram 4K Video Song | Kaalchilambu | Samvrutha Sunil| Vineeth |KS Chithra | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=tArdsVuWcOQ</id>
