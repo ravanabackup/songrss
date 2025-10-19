@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T05:08:55.580Z</updated>
+    <updated>2025-10-19T06:13:10.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nagapattu | Sathkala Vijayan #folksong #naadanpaattu #shortsfeed #shorts  #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/shorts/m0pkAA-bQ4M</id>
+        <link href="https://www.youtube.com/shorts/m0pkAA-bQ4M"/>
+        <updated>2025-10-19T05:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oorum blood hits 500K+ reels on instagram 💥 #dude #saiabhyankkar #mamithabaiju]]></title>
+        <id>https://www.youtube.com/shorts/yL5Ip3Pe5fw</id>
+        <link href="https://www.youtube.com/shorts/yL5Ip3Pe5fw"/>
+        <updated>2025-10-19T05:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thaimavin Thanalil | Oru Yathramozhi | Mohanlal | Ranjitha | MG Sreekumar | Ilaiyaraja]]></title>
         <id>https://www.youtube.com/watch?v=cV-xZvHi_AM</id>
