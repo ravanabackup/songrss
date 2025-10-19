@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T16:09:14.603Z</updated>
+    <updated>2025-10-19T17:07:25.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11969,42 +11969,6 @@
         <updated>2025-09-20T05:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varika Parisudathmave | Elizabeth Raju | Malayalam Christian Songs Lyrics | Christian Lyrical Video]]></title>
-        <id>https://www.youtube.com/watch?v=1TKnkYJ53mk</id>
-        <link href="https://www.youtube.com/watch?v=1TKnkYJ53mk"/>
-        <updated>2025-09-20T04:57:41.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Murai Vanthu Paaraaya | ഒരു മുറൈ വന്തു പാർത്തായാ | Manichithrathaazhu |Yesudas | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=XT0uXOxYzTU</id>
-        <link href="https://www.youtube.com/watch?v=XT0uXOxYzTU"/>
-        <updated>2025-09-20T04:56:16.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paarin Deepame Karaoke | Andrews Michael | Malayalam Christian Songs Karaoke | Karaoke with Lyrics]]></title>
-        <id>https://www.youtube.com/watch?v=VnY9eurWobE</id>
-        <link href="https://www.youtube.com/watch?v=VnY9eurWobE"/>
-        <updated>2025-09-20T04:36:41.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunka Thimikida | Aadhaaram | Murali | Geetha | K S Chithra | Johnson | Gorge Kithu]]></title>
-        <id>https://www.youtube.com/watch?v=uJBTsNZAYqE</id>
-        <link href="https://www.youtube.com/watch?v=uJBTsNZAYqE"/>
-        <updated>2025-09-20T04:30:46.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
