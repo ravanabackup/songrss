@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T02:29:44.272Z</updated>
+    <updated>2025-10-19T03:39:14.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവമാണ് നമ്മുടെ അഭയം | SHORTS PRAYER | #shorts #prayer @JinoKunnumpurathu]]></title>
+        <id>https://www.youtube.com/shorts/PchnPH4tDYo</id>
+        <link href="https://www.youtube.com/shorts/PchnPH4tDYo"/>
+        <updated>2025-10-19T02:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargapithavam Daivame | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/ll0UEE9N6As</id>
@@ -11872,26 +11882,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moovanthi Thazhvarayil | Raveendran | Mohanlal, Manju Warrier - Kanmadam]]></title>
-        <id>https://www.youtube.com/shorts/huZaX_AgPcs</id>
-        <link href="https://www.youtube.com/shorts/huZaX_AgPcs"/>
-        <updated>2025-09-19T15:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs Mashup | Old Malayalam Christian Songs| Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/UsW1ULQ51mE</id>
-        <link href="https://www.youtube.com/shorts/UsW1ULQ51mE"/>
-        <updated>2025-09-19T14:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
