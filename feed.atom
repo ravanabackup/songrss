@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T19:08:02.135Z</updated>
+    <updated>2025-10-21T20:10:38.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11999,15 +11999,6 @@
         <updated>2025-09-22T08:30:07.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളിപ്രേക്ഷകർക്ക് ഏറ്റവും പ്രിയപ്പെട്ട ചലച്ചിത്രഗാനങ്ങൾ | MOST FAVOURITE SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=kREea7vuX9A</id>
-        <link href="https://www.youtube.com/watch?v=kREea7vuX9A"/>
-        <updated>2025-09-22T07:30:27.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
