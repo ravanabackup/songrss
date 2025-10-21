@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T20:10:38.732Z</updated>
+    <updated>2025-10-21T21:08:15.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11962,43 +11962,6 @@
         <updated>2025-09-22T09:13:45.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The groove is here! #Summava from #Innocent is streaming everywhere now! 🎵🔥 @OfficialKiliPaul]]></title>
-        <id>https://www.youtube.com/shorts/hSLATEkwtTk</id>
-        <link href="https://www.youtube.com/shorts/hSLATEkwtTk"/>
-        <updated>2025-09-22T09:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthamme Chundath | Kulam | 4K Video Song | MG Radhakrishnan | K S Chithra Hits | MG Radhakrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=hf4q00uNV7w</id>
-        <link href="https://www.youtube.com/watch?v=hf4q00uNV7w"/>
-        <updated>2025-09-22T08:42:51.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonthennale Nee HD Video Song | Sayam Sandhya Malayalam Movie Song | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=XJtTfs-He6A</id>
-        <link href="https://www.youtube.com/watch?v=XJtTfs-He6A"/>
-        <updated>2025-09-22T08:42:03.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാലാതീതമായ മലയാളം ഗാനങ്ങൾ | Timeless Malayalam Songs | Gireesh Puthenchery | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=QgR3vF5MhGA</id>
-        <link href="https://www.youtube.com/watch?v=QgR3vF5MhGA"/>
-        <updated>2025-09-22T08:30:07.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
