@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T05:10:09.360Z</updated>
+    <updated>2025-10-22T06:15:06.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raagamaduchandra | Love In Singapore |Video| Mammootty |Santhosh Varma| Suresh Peters | Shweta Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=D51L6bb6wMY</id>
+        <link href="https://www.youtube.com/watch?v=D51L6bb6wMY"/>
+        <updated>2025-10-22T05:30:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pennin Vaaku Kelkkenam | 4K | Kottappurathe Koottukudumbam | Sujatha Mohan |  Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=gYx41RERCss</id>
+        <link href="https://www.youtube.com/watch?v=gYx41RERCss"/>
+        <updated>2025-10-22T05:16:15.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unjalurangi | ഊഞ്ഞാലുറങ്ങി | Kudumbasametham Movie | KJ Yesudas | Johnson Mater | Kaithapram | Audio]]></title>
         <id>https://www.youtube.com/watch?v=-WWPFeVDssE</id>
