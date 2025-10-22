@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T18:14:58.108Z</updated>
+    <updated>2025-10-22T19:08:07.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 23 # Athiravile Prarthana 23rd of October 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GKPzZcpJcBQ</id>
+        <link href="https://www.youtube.com/watch?v=GKPzZcpJcBQ"/>
+        <updated>2025-10-22T19:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd October 25]]></title>
         <id>https://www.youtube.com/watch?v=yiFcq1O75HU</id>
@@ -12038,34 +12047,6 @@
         <updated>2025-09-23T07:09:00.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paiya - En Kadhal Solla Video With Lyrics | Karthi | Yuvan Shankar Raja]]></title>
-        <id>https://www.youtube.com/watch?v=Pg8lqT9cZ3s</id>
-        <link href="https://www.youtube.com/watch?v=Pg8lqT9cZ3s"/>
-        <updated>2025-09-23T07:00:22.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutharam Muthunde | Video Song | Gireesh Puthenchery | Vidyasagar | MG Sreekumar | Harini | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=NhSS3F9THls</id>
-        <link href="https://www.youtube.com/watch?v=NhSS3F9THls"/>
-        <updated>2025-09-23T06:36:25.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listen to En Moochum Venam 🎶 #Burma #Ranjith #Sudarshan #Kabilan]]></title>
-        <id>https://www.youtube.com/shorts/MXKWzMJ0tSM</id>
-        <link href="https://www.youtube.com/shorts/MXKWzMJ0tSM"/>
-        <updated>2025-09-23T06:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
