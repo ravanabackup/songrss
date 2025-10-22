@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T00:45:12.254Z</updated>
+    <updated>2025-10-22T02:24:00.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pathalame Maraname | Shorts #libinscaria #PathalameMaraname #manoramamusic #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/AbiIBbBkHUg</id>
+        <link href="https://www.youtube.com/shorts/AbiIBbBkHUg"/>
+        <updated>2025-10-22T01:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Nadhan Eesho | Kester | K.G Markose | Sudeep Kumar | Wilson Piravom | Evergreen Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=Fgmh8j7UP04</id>
@@ -11831,53 +11841,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#songoftheday #ChenthamaraChundil #Style #hbdunnimukundan #unnimukundan]]></title>
-        <id>https://www.youtube.com/shorts/yk3iBfa94LM</id>
-        <link href="https://www.youtube.com/shorts/yk3iBfa94LM"/>
-        <updated>2025-09-22T14:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നും കാവലായി കൂടെയുള്ള യേശുവിൻ ഗീതങ്ങൾ | Christian Devotional Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=vz5uuk5INYY</id>
-        <link href="https://www.youtube.com/watch?v=vz5uuk5INYY"/>
-        <updated>2025-09-22T13:31:04.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhiyoram - Lofi | The Independeners | Manjil Virinja Pookkal | S. Janaki | Jerry Amaldev]]></title>
-        <id>https://www.youtube.com/watch?v=1fIvzQX3hSA</id>
-        <link href="https://www.youtube.com/watch?v=1fIvzQX3hSA"/>
-        <updated>2025-09-22T13:30:04.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സമാധാനം കിട്ടുന്നില്ലേ  ഈ ഗാനങ്ങൾ കേൾക്കൂ | @JinoKunnumpurathu  #christiansongs #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=0jthzMid4fg</id>
-        <link href="https://www.youtube.com/watch?v=0jthzMid4fg"/>
-        <updated>2025-09-22T13:30:01.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruvathazha Neram | Jacques C Thachoth | Tinto Parappally |   @JinoKunnumpurathu| #christiansong]]></title>
-        <id>https://www.youtube.com/shorts/-i4P9LG3AFQ</id>
-        <link href="https://www.youtube.com/shorts/-i4P9LG3AFQ"/>
-        <updated>2025-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
