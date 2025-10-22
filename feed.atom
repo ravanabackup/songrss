@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T20:11:26.224Z</updated>
+    <updated>2025-10-22T21:06:48.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12000,35 +12000,6 @@
         <updated>2025-09-23T09:41:11.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhavil Kodiyil Video Song | Aniyan Bava Chetan Bava | Jayaram | Kasthuri | KS Chithra|SP Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=REAnoO4Eg28</id>
-        <link href="https://www.youtube.com/watch?v=REAnoO4Eg28"/>
-        <updated>2025-09-23T08:37:35.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#KiliPaul vibes 🔥 Trending on YouTube now!#Summava #Innocent]]></title>
-        <id>https://www.youtube.com/shorts/m6VssJNj1I4</id>
-        <link href="https://www.youtube.com/shorts/m6VssJNj1I4"/>
-        <updated>2025-09-23T08:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Premagaanam Paadi | ഒരു പ്രേമഗാനം പാടി | Asthamayam Movie | Madhu Hit Songs | KJ Yesudas | Shyam]]></title>
-        <id>https://www.youtube.com/shorts/J9RKoBjPlRI</id>
-        <link href="https://www.youtube.com/shorts/J9RKoBjPlRI"/>
-        <updated>2025-09-23T08:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
