@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T17:09:07.445Z</updated>
+    <updated>2025-10-22T18:14:58.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd October 25]]></title>
+        <id>https://www.youtube.com/watch?v=yiFcq1O75HU</id>
+        <link href="https://www.youtube.com/watch?v=yiFcq1O75HU"/>
+        <updated>2025-10-22T18:01:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Santhapame Santhapame… #matchpointfaith #malayalamchristiandevotionalsongs #parumalathirumeni]]></title>
         <id>https://www.youtube.com/shorts/oi5rmRnqfbI</id>
@@ -12057,24 +12066,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mariye | Nithya Mamman | Fr. Shaji Thumpechirayil | Gijo Sebastian |Jerriyude Aanmakkal | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=PEGHHU8l_nQ</id>
-        <link href="https://www.youtube.com/watch?v=PEGHHU8l_nQ"/>
-        <updated>2025-09-23T05:54:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mele Vellithinkal | Live with UNTAGGED | Cover Version | Rajesh Ramachandran | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=UHw56guMPUU</id>
-        <link href="https://www.youtube.com/watch?v=UHw56guMPUU"/>
-        <updated>2025-09-23T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
