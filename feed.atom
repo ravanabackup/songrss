@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T16:11:28.329Z</updated>
+    <updated>2025-10-23T17:08:13.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12095,15 +12095,6 @@
         <updated>2025-09-24T05:14:07.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vala - Story of A Bangle - Jukebox | Lukman | Dhyan | Govind Vasantha | Muhashin | Fairbay Films]]></title>
-        <id>https://www.youtube.com/watch?v=wMm14cZtdUQ</id>
-        <link href="https://www.youtube.com/watch?v=wMm14cZtdUQ"/>
-        <updated>2025-09-24T04:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
