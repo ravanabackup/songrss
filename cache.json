@@ -3025,6 +3025,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tnqJoeyv5t8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tnqJoeyv5t8",
+          "publishedOn": "2025-10-23T18:01:02.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th October 25",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tVpMVaSNCPo",
           "author": null,
           "description": "",
@@ -6784,16 +6794,6 @@
           "wordCount": null,
           "title": "Neeyennarukil | Aman Zacharia | Gijo Sebastian | Richin Kuzhikkad | Jerriyude Aanmakkal | Emma",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=De3elr-nwow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=De3elr-nwow",
-          "publishedOn": "2025-09-24T05:30:06.000Z",
-          "wordCount": null,
-          "title": "Naadan Paattukal |Jukebox|Sathkala Vijayan|Anjana S Kumar|മണ്ണിൻ്റെ മണമുള്ള  നാടൻപാട്ടുകൾ |Folk Song",
-          "imageUrl": null
         }
       ]
     },
@@ -9238,16 +9238,6 @@
           "link": "https://www.youtube.com/shorts/qJNjwlPbTXU",
           "publishedOn": "2025-09-24T06:43:56.000Z",
           "wordCount": 2194,
-          "title": "Aaraadhyam Parayum | ആരാദ്യം പറയും | Mazha Movie | Asha GMenon | Raveendran | Biju Menon | Melody",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zu2S_DhV46A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zu2S_DhV46A",
-          "publishedOn": "2025-09-24T05:14:07.000Z",
-          "wordCount": null,
           "title": "Aaraadhyam Parayum | ആരാദ്യം പറയും | Mazha Movie | Asha GMenon | Raveendran | Biju Menon | Melody",
           "imageUrl": null
         }
