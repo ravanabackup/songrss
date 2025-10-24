@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T22:08:49.396Z</updated>
+    <updated>2025-10-24T23:08:44.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 25, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=L6ytSOKN8d4</id>
+        <link href="https://www.youtube.com/watch?v=L6ytSOKN8d4"/>
+        <updated>2025-10-24T22:30:04.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/rdcJBC72kfU</id>
@@ -11971,44 +11980,6 @@
         <updated>2025-09-25T11:22:09.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാളെകൾ ഒരു കൂട്ടം സ്വപ്നങ്ങളാണ്  | 😇 | Rev. Aneesh P Joseph@JinoKunnumpurathu #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/mkaeBb7Hv4M</id>
-        <link href="https://www.youtube.com/shorts/mkaeBb7Hv4M"/>
-        <updated>2025-09-25T10:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉള്ളിന്റെ ഉള്ളിലെ നൊമ്പരങ്ങൾ മാറ്റിത്തരുന്ന ഗാനങ്ങൾ |@JinoKunnumpurathu #christiansongs #trending]]></title>
-        <id>https://www.youtube.com/watch?v=bdsdCfHn2Eo</id>
-        <link href="https://www.youtube.com/watch?v=bdsdCfHn2Eo"/>
-        <updated>2025-09-25T10:30:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Tamil Christian Song of MEGHNAKUTTY | @JinoKunnumpurathu  | #christiansong]]></title>
-        <id>https://www.youtube.com/shorts/9Uu1b5LqADI</id>
-        <link href="https://www.youtube.com/shorts/9Uu1b5LqADI"/>
-        <updated>2025-09-25T10:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPB ആലപിച്ച മാപ്പിളപ്പാട്ടുകൾ | Mazhavil Varnnam | മഴവിൽ വർണ്ണം | SP Balasubramanyam | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=0InytaTe8rg</id>
-        <link href="https://www.youtube.com/watch?v=0InytaTe8rg"/>
-        <updated>2025-09-25T10:30:01.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
