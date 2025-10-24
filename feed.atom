@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T05:09:52.995Z</updated>
+    <updated>2025-10-24T06:14:16.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thamarappoovil Vaazhum | 4K | Chandralekha | Mohanlal | Sukanya | Pooja Batra | Nedumudi Venu]]></title>
+        <id>https://www.youtube.com/watch?v=83TxHdztJYU</id>
+        <link href="https://www.youtube.com/watch?v=83TxHdztJYU"/>
+        <updated>2025-10-24T05:53:57.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum  | P Jayachandran | അസാധാരണമായി ചിന്തിക്കുന്നവൻ കലാകാരൻ  | പാടിയും പറഞ്ഞും]]></title>
+        <id>https://www.youtube.com/watch?v=lBGNknZu2QA</id>
+        <link href="https://www.youtube.com/watch?v=lBGNknZu2QA"/>
+        <updated>2025-10-24T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kulir Choodi Ozhukum Katte | കുളിർ ചൂടും ഒഴുകും കാറ്റേ | Neelakkuyil | Shafi Kollam | Anusree]]></title>
         <id>https://www.youtube.com/watch?v=XzfDLYYYGEs</id>
