@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-25T21:07:24.102Z</updated>
+    <updated>2025-10-25T22:07:29.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/tjFzsAEGvTU</id>
+        <link href="https://www.youtube.com/shorts/tjFzsAEGvTU"/>
+        <updated>2025-10-25T22:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  October 26 # Athiravile Prarthana 26th of October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=M2xmNtYOC1o</id>
@@ -12075,15 +12085,6 @@
         <updated>2025-09-26T10:10:01.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional Songs Live | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=moLNwjOs_0E</id>
-        <link href="https://www.youtube.com/watch?v=moLNwjOs_0E"/>
-        <updated>2025-09-26T09:38:36.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
