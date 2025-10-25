@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-25T05:08:48.147Z</updated>
+    <updated>2025-10-25T06:12:50.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=p7GQFGqr3pM</id>
+        <link href="https://www.youtube.com/watch?v=p7GQFGqr3pM"/>
+        <updated>2025-10-25T05:30:37.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadha Ezhuthiyatharo - Melodic Slap House | The Independeners | Vivaha Avahanam | Rahul R Govinda]]></title>
+        <id>https://www.youtube.com/watch?v=dB86H_a3KoU</id>
+        <link href="https://www.youtube.com/watch?v=dB86H_a3KoU"/>
+        <updated>2025-10-25T05:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naraghathae Vithu Video Song| Pongala |Sreenath Bhasi |Baburaj | Ranjin Raj | The Imbachi |A B Binil]]></title>
+        <id>https://www.youtube.com/watch?v=z_f7bs7Y02I</id>
+        <link href="https://www.youtube.com/watch?v=z_f7bs7Y02I"/>
+        <updated>2025-10-25T05:25:00.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Joliyum Kooliyum Illa | ജോലിയും കൂലിയുമില്ല | Georgettans Pooram | Gopi Sundar | BK Harinarayanan]]></title>
         <id>https://www.youtube.com/watch?v=wJV202_e_YE</id>
