@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-25T00:42:42.712Z</updated>
+    <updated>2025-10-25T02:17:35.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marillavan Marakkillavan | Christian shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/-QETIRwMuh4</id>
+        <link href="https://www.youtube.com/shorts/-QETIRwMuh4"/>
+        <updated>2025-10-25T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പഴയ ക്രിസ്തീയ ഗാനങ്ങൾ | Praise and Worship Songs | Kester | Old Is Gold]]></title>
         <id>https://www.youtube.com/watch?v=JUNyFnFuC-s</id>
@@ -11840,52 +11850,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Malayalam Dance Songs | Trending Audio Jukebox | 123Musix]]></title>
-        <id>https://www.youtube.com/watch?v=_fmEHKLSn9c</id>
-        <link href="https://www.youtube.com/watch?v=_fmEHKLSn9c"/>
-        <updated>2025-09-25T13:30:37.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masalama - Vocals Only | The Independeners | Ayisha | Shreya Ghoshal | M. Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=IilJsDmg-sY</id>
-        <link href="https://www.youtube.com/watch?v=IilJsDmg-sY"/>
-        <updated>2025-09-25T13:30:30.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രത്യാശ നശിച്ചവർക്ക് ആശ്വാസമേകുന്ന ക്രിസ്തീയഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=45IaZ-bwK2o</id>
-        <link href="https://www.youtube.com/watch?v=45IaZ-bwK2o"/>
-        <updated>2025-09-25T13:30:06.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾക്കെന്നും പ്രിയമുള്ള മെലഡി ഗാനങ്ങൾ  | EVERGREEN SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=3M5IbGkMShI</id>
-        <link href="https://www.youtube.com/watch?v=3M5IbGkMShI"/>
-        <updated>2025-09-25T13:30:04.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endless Night | Abided Crage | Deneesh Mathew | John Abraham JK | David Joyel | Abee Suhana]]></title>
-        <id>https://www.youtube.com/shorts/2jl478DeCP8</id>
-        <link href="https://www.youtube.com/shorts/2jl478DeCP8"/>
-        <updated>2025-09-25T13:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
