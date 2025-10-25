@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-25T18:11:45.226Z</updated>
+    <updated>2025-10-25T19:04:51.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  October 26 # Athiravile Prarthana 26th of October 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=M2xmNtYOC1o</id>
+        <link href="https://www.youtube.com/watch?v=M2xmNtYOC1o"/>
+        <updated>2025-10-25T19:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th October 25]]></title>
         <id>https://www.youtube.com/watch?v=cbI5XGJm2ss</id>
@@ -12131,33 +12140,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaaradi Nee Mohini - Venmegam Video With Lyrics | Dhanush | Yuvanshankar Raja]]></title>
-        <id>https://www.youtube.com/watch?v=zpO48HqlV04</id>
-        <link href="https://www.youtube.com/watch?v=zpO48HqlV04"/>
-        <updated>2025-09-26T07:01:07.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelakkoovala | Kadha Samvidhanam Kunchakko Movie Song | Vineeth Sreenivasan Hits | Rajalakshmi]]></title>
-        <id>https://www.youtube.com/watch?v=UdhksbOE0V0</id>
-        <link href="https://www.youtube.com/watch?v=UdhksbOE0V0"/>
-        <updated>2025-09-26T06:46:07.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakka Malayile|Lyrical + Karaoke Video| Mallu Singh |MJayachandran| Unni Mukundan | Kunchacko Boban]]></title>
-        <id>https://www.youtube.com/watch?v=4aL3INop5GY</id>
-        <link href="https://www.youtube.com/watch?v=4aL3INop5GY"/>
-        <updated>2025-09-26T06:30:06.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
