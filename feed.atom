@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-25T09:08:26.557Z</updated>
+    <updated>2025-10-25T10:08:28.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -125,6 +125,15 @@
         <updated>2025-10-25T05:25:00.000Z</updated>
         <author>
             <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalyana Kondattam - Video Song | Nidhiyum Bhoothavum | Anish G Menon, Ashwath Lal | Sajan Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=a1nRXgpia2s</id>
+        <link href="https://www.youtube.com/watch?v=a1nRXgpia2s"/>
+        <updated>2025-10-25T04:40:57.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
