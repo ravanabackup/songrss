@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-26T13:15:58.143Z</updated>
+    <updated>2025-10-26T14:07:29.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎶Wedding Song #matchpointfaith #weddingsong #matchpointcreations #malayalamchristiandevotionalsong]]></title>
+        <id>https://www.youtube.com/shorts/_gad12XNYR8</id>
+        <link href="https://www.youtube.com/shorts/_gad12XNYR8"/>
+        <updated>2025-10-26T14:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/yxYbahsBxkU</id>
+        <link href="https://www.youtube.com/shorts/yxYbahsBxkU"/>
+        <updated>2025-10-26T13:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ottamuri Vakkumayi - Rainy Day Mix | The Independeners | Romancham | Pradeep Kumar | Sushin Shyam]]></title>
+        <id>https://www.youtube.com/watch?v=yK46b1jBmm8</id>
+        <link href="https://www.youtube.com/watch?v=yK46b1jBmm8"/>
+        <updated>2025-10-26T13:31:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chithrashalabham Paranjath - Song of the day!]]></title>
+        <id>https://www.youtube.com/shorts/WvASLkkyPaw</id>
+        <link href="https://www.youtube.com/shorts/WvASLkkyPaw"/>
+        <updated>2025-10-26T13:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
         <id>https://www.youtube.com/shorts/YUNp_U_TT5w</id>
