@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T16:11:40.193Z</updated>
+    <updated>2025-10-27T17:08:19.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12107,44 +12107,6 @@
         <id>https://www.youtube.com/watch?v=aCUm6ehliow</id>
         <link href="https://www.youtube.com/watch?v=aCUm6ehliow"/>
         <updated>2025-09-28T05:10:54.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudamurikalyanam | പുടമുറി കല്യാണം | Chilambu Movie | KS Chithra | Ouseppachan | Evergreen Song]]></title>
-        <id>https://www.youtube.com/watch?v=yOIitqqJzcE</id>
-        <link href="https://www.youtube.com/watch?v=yOIitqqJzcE"/>
-        <updated>2025-09-28T04:30:48.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള പഴയ സിനിമ ഗാനങ്ങൾ| Evergreen Hit Songs| Old is Gold Malayalam film Songs| Mooladhanam|Sathyan]]></title>
-        <id>https://www.youtube.com/watch?v=FWOBipu0AJY</id>
-        <link href="https://www.youtube.com/watch?v=FWOBipu0AJY"/>
-        <updated>2025-09-28T04:30:19.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kani Mozhiye Song | Amoz Alexander #shorts #ajuvarghese #romanticsongs]]></title>
-        <id>https://www.youtube.com/shorts/CP1zyX6EYb8</id>
-        <link href="https://www.youtube.com/shorts/CP1zyX6EYb8"/>
-        <updated>2025-09-28T04:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kani Mozhiye - Video Song Out Now | Amoz Alexander #shorts #ajuvarghese #romanticsongs]]></title>
-        <id>https://www.youtube.com/shorts/dG0GNcBqpYs</id>
-        <link href="https://www.youtube.com/shorts/dG0GNcBqpYs"/>
-        <updated>2025-09-28T04:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
         </author>
