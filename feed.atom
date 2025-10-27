@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T04:19:36.960Z</updated>
+    <updated>2025-10-27T05:10:45.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Udayarkka Kiranangal| Ee Snehatheerath(Samam)| Kunchacko Boban| Uma Shankari| Kavitha Krishnamoorthy]]></title>
+        <id>https://www.youtube.com/watch?v=q_zYnT7okV0</id>
+        <link href="https://www.youtube.com/watch?v=q_zYnT7okV0"/>
+        <updated>2025-10-27T04:30:38.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=8YBAx84kcf8</id>
