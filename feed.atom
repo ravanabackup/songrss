@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T19:07:24.394Z</updated>
+    <updated>2025-10-27T20:08:17.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12040,16 +12040,6 @@
         <updated>2025-09-28T08:30:03.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kani Mozhiye Song | Amoz Alexander #shorts #ajuvarghese #romanticsongs]]></title>
-        <id>https://www.youtube.com/shorts/LVXOo3cDehw</id>
-        <link href="https://www.youtube.com/shorts/LVXOo3cDehw"/>
-        <updated>2025-09-28T07:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
