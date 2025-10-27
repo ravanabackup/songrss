@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T17:08:19.731Z</updated>
+    <updated>2025-10-27T18:14:09.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th October 25]]></title>
+        <id>https://www.youtube.com/watch?v=w9vI5hQD4W0</id>
+        <link href="https://www.youtube.com/watch?v=w9vI5hQD4W0"/>
+        <updated>2025-10-27T18:01:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[27 October 2025]]></title>
         <id>https://www.youtube.com/shorts/0hnyv_pzIDc</id>
@@ -12061,54 +12070,6 @@
         <updated>2025-09-28T06:30:11.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Meiyazhagan medley 🚲🎶 #karthi #arvindswami #govindvasantha]]></title>
-        <id>https://www.youtube.com/shorts/_hiNSfS5Mis</id>
-        <link href="https://www.youtube.com/shorts/_hiNSfS5Mis"/>
-        <updated>2025-09-28T06:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjum Madhumaariyum Video Song | Puthiya Karukkal | KJ Yesudas | Jayaram | Parvathy | SP Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=OQjlzSQTrQU</id>
-        <link href="https://www.youtube.com/watch?v=OQjlzSQTrQU"/>
-        <updated>2025-09-28T05:50:51.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Ushakalam Naam.. #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
-        <id>https://www.youtube.com/shorts/lO_8qffE_bo</id>
-        <link href="https://www.youtube.com/shorts/lO_8qffE_bo"/>
-        <updated>2025-09-28T05:33:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chempakapoo I  Anjana S Kumar  #folksong #nadanpattukal #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/4DPw7bINrok</id>
-        <link href="https://www.youtube.com/shorts/4DPw7bINrok"/>
-        <updated>2025-09-28T05:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam Songs Live | 24/7 Live Stream | 123Musix]]></title>
-        <id>https://www.youtube.com/watch?v=aCUm6ehliow</id>
-        <link href="https://www.youtube.com/watch?v=aCUm6ehliow"/>
-        <updated>2025-09-28T05:10:54.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
