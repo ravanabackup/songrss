@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T20:08:17.471Z</updated>
+    <updated>2025-10-27T21:08:01.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12031,15 +12031,6 @@
         <updated>2025-09-28T10:30:04.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thenundo Poove 4K Video Song | Yakshiyum Njanum | Meghana Raj | Manjari | Vijay Yesudas | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=3gIBPwvy3Bk</id>
-        <link href="https://www.youtube.com/watch?v=3gIBPwvy3Bk"/>
-        <updated>2025-09-28T08:30:03.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
