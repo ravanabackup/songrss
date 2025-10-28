@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T00:43:00.614Z</updated>
+    <updated>2025-10-28T02:20:38.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swargapithavam Daivame | Christian shorts #manoramachristiandevotionalsongs #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/TDd6PnFtpZA</id>
+        <link href="https://www.youtube.com/shorts/TDd6PnFtpZA"/>
+        <updated>2025-10-28T01:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enne Nayikkum Nalloridayan | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/7lrBTuMXh_g</id>
+        <link href="https://www.youtube.com/shorts/7lrBTuMXh_g"/>
+        <updated>2025-10-28T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innallenkil Nale | Marichavarude Orma Songs | Gagul Joseph | Sunny Panniyarkutty | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=1CnLaMuM94c</id>
@@ -11966,43 +11986,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vayya Veli - Song of the day!]]></title>
-        <id>https://www.youtube.com/shorts/bcoyMPIlMwg</id>
-        <link href="https://www.youtube.com/shorts/bcoyMPIlMwg"/>
-        <updated>2025-09-28T13:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mukya Doothanaya Vishudha | Christian Video Song | Sojan Parakkal | Mikhael Malakha Prayer Song]]></title>
-        <id>https://www.youtube.com/watch?v=TgF0EqA1M9s</id>
-        <link href="https://www.youtube.com/watch?v=TgF0EqA1M9s"/>
-        <updated>2025-09-28T13:30:27.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam DJ Party Mix - Audio Jukebox | Kiliye Kiliye - Afrobeat Mix, Vatteppam - EDM]]></title>
-        <id>https://www.youtube.com/watch?v=5bMa86VzElA</id>
-        <link href="https://www.youtube.com/watch?v=5bMa86VzElA"/>
-        <updated>2025-09-28T13:29:56.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poulose Sleeha | Marriage Songs | Roy Puthur & Team | Cherian Varghese | Malankara Wedding Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_Co0c_wykj4</id>
-        <link href="https://www.youtube.com/watch?v=_Co0c_wykj4"/>
-        <updated>2025-09-28T13:00:08.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
