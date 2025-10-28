@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-27T23:08:31.203Z</updated>
+    <updated>2025-10-28T00:43:00.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innallenkil Nale | Marichavarude Orma Songs | Gagul Joseph | Sunny Panniyarkutty | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=1CnLaMuM94c</id>
+        <link href="https://www.youtube.com/watch?v=1CnLaMuM94c"/>
+        <updated>2025-10-28T00:30:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala Thottil October 28 Fr Vineeth Ajimon Joseph]]></title>
+        <id>https://www.youtube.com/shorts/eJcFxjBfpe0</id>
+        <link href="https://www.youtube.com/shorts/eJcFxjBfpe0"/>
+        <updated>2025-10-27T23:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 28th of October 25 # Mathavinte Japamala Dhukhathinte Rahasyangal 28th of October 25]]></title>
+        <id>https://www.youtube.com/watch?v=9xFTuDxFoO4</id>
+        <link href="https://www.youtube.com/watch?v=9xFTuDxFoO4"/>
+        <updated>2025-10-27T23:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 28, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
         <id>https://www.youtube.com/watch?v=7Xo5ZboW5FE</id>
@@ -11975,52 +12003,6 @@
         <updated>2025-09-28T13:00:08.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya Kalahamo Video Song | Old Malayalam Songs | Shiksha| Prem Nazir | Sheela |  G Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=NEuuailws6Q</id>
-        <link href="https://www.youtube.com/watch?v=NEuuailws6Q"/>
-        <updated>2025-09-28T12:30:26.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 28th of September 2025]]></title>
-        <id>https://www.youtube.com/watch?v=NRIkZJeNRG4</id>
-        <link href="https://www.youtube.com/watch?v=NRIkZJeNRG4"/>
-        <updated>2025-09-28T12:30:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വീട്ടിലെ മൂത്തവർക്കെല്ലാം മനഃപാഠമാക്കിയ ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | KG Markose]]></title>
-        <id>https://www.youtube.com/watch?v=Gex2uDySwQ4</id>
-        <link href="https://www.youtube.com/watch?v=Gex2uDySwQ4"/>
-        <updated>2025-09-28T12:30:21.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaada Veera Punch | Balti | Shane Nigam, Shanthu | Unni Sivalingam | @SaiAbhyankkar]]></title>
-        <id>https://www.youtube.com/watch?v=Y9MvkQV5wOA</id>
-        <link href="https://www.youtube.com/watch?v=Y9MvkQV5wOA"/>
-        <updated>2025-09-28T12:30:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അടവിതരുക്കളിനിടയിൽ| Adavi Tharukalin Idayil| Annamma Mammen| Malayalam Christian Song| Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/ksiQ9Irq7Xc</id>
-        <link href="https://www.youtube.com/shorts/ksiQ9Irq7Xc"/>
-        <updated>2025-09-28T11:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
