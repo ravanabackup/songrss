@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T02:28:04.249Z</updated>
+    <updated>2025-10-29T03:41:08.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12004,26 +12004,6 @@
         <updated>2025-09-29T19:00:39.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakke Kakke Kudevide Lyric video Out Now |Angam Attahasam #shorts #vineethsreenivasan #madhavsuresh]]></title>
-        <id>https://www.youtube.com/shorts/KBxBLZ0f4cE</id>
-        <link href="https://www.youtube.com/shorts/KBxBLZ0f4cE"/>
-        <updated>2025-09-29T14:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രിസ്തുവിന്‍റെ ദാനം | Kristhuvinte Dhanam | Malayalam Christian Devotional Song|Nagel |Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/MH9iTLZxZCE</id>
-        <link href="https://www.youtube.com/shorts/MH9iTLZxZCE"/>
-        <updated>2025-09-29T14:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
