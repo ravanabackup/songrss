@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T09:10:29.499Z</updated>
+    <updated>2025-10-29T10:11:07.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oo Mridule | ഓ മൃദുലേ...| Njan Ekananu Movie | KJ Yesudas | MG Radhakrishnan | Sathyan Anthikad]]></title>
+        <id>https://www.youtube.com/watch?v=_gW0pCC2pSE</id>
+        <link href="https://www.youtube.com/watch?v=_gW0pCC2pSE"/>
+        <updated>2025-10-29T09:17:34.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nakshathra Deepangal Thilangi | നക്ഷത്ര ദീപങ്ങൾ തിളങ്ങി | Nirakudam Movie | KJ Yesudas | Audio Song]]></title>
         <id>https://www.youtube.com/shorts/P5wKO9b04tg</id>
