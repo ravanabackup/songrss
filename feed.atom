@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T04:11:27.593Z</updated>
+    <updated>2025-10-30T05:09:51.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The #Singari energy just hit your screens🕺🏻#pradeepranganathan #saiabhyankkar #dude]]></title>
+        <id>https://www.youtube.com/shorts/n8X2nC1uD1I</id>
+        <link href="https://www.youtube.com/shorts/n8X2nC1uD1I"/>
+        <updated>2025-10-30T04:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=q2H8NXlraJs</id>
@@ -567,6 +577,51 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Bible Malayalam | Gospel of John | Chapter 6 | Holy Bible | New Testament | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=3BC9VlZ2XOQ</id>
+        <link href="https://www.youtube.com/watch?v=3BC9VlZ2XOQ"/>
+        <updated>2025-10-28T16:53:30.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Bible Malayalam | Gospel of John | Chapter 5 | Holy Bible | New Testament | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=6P3Nt1onSRU</id>
+        <link href="https://www.youtube.com/watch?v=6P3Nt1onSRU"/>
+        <updated>2025-10-28T15:43:41.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Bible Malayalam | Gospel of John | Chapter 4 | Holy Bible | New Testament | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=cj4Ey7dpX_c</id>
+        <link href="https://www.youtube.com/watch?v=cj4Ey7dpX_c"/>
+        <updated>2025-10-28T15:43:17.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Bible Malayalam | Gospel of John | Chapter 3 | Holy Bible | New Testament | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=7enMAQn9gcg</id>
+        <link href="https://www.youtube.com/watch?v=7enMAQn9gcg"/>
+        <updated>2025-10-28T15:42:47.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Bible Malayalam | Gospel of John | Chapter 2 | Holy Bible | New Testament | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=2DtAVCaQf_A</id>
+        <link href="https://www.youtube.com/watch?v=2DtAVCaQf_A"/>
+        <updated>2025-10-28T15:42:24.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -12031,26 +12086,6 @@
         <updated>2025-09-30T19:00:04.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kothamangalam bava, kothamangalam pally perunal]]></title>
-        <id>https://www.youtube.com/shorts/vBHg4OH0O2M</id>
-        <link href="https://www.youtube.com/shorts/vBHg4OH0O2M"/>
-        <updated>2025-09-30T16:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Worship Songs Mashup… #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
-        <id>https://www.youtube.com/shorts/xFuGZiHI8Fo</id>
-        <link href="https://www.youtube.com/shorts/xFuGZiHI8Fo"/>
-        <updated>2025-09-30T16:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
