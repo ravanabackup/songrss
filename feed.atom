@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T21:08:10.429Z</updated>
+    <updated>2025-10-30T22:08:55.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/qL1KvEaRLAI</id>
+        <link href="https://www.youtube.com/shorts/qL1KvEaRLAI"/>
+        <updated>2025-10-30T22:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 31 # Athiravile Prarthana 31st October 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=IgcLNQjMc98</id>
@@ -12271,15 +12281,6 @@
         <updated>2025-10-01T10:30:03.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh My God | Jameelante Poovenkozhi | Vineeth Sreenivasan | Bindhu Panicker | New Released Song]]></title>
-        <id>https://www.youtube.com/watch?v=zUhIj1z6fyc</id>
-        <link href="https://www.youtube.com/watch?v=zUhIj1z6fyc"/>
-        <updated>2025-10-01T09:30:28.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
