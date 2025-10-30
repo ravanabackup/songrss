@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T22:08:55.792Z</updated>
+    <updated>2025-10-30T23:08:41.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 31, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=bOdBfSthF30</id>
+        <link href="https://www.youtube.com/watch?v=bOdBfSthF30"/>
+        <updated>2025-10-30T22:30:08.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/qL1KvEaRLAI</id>
@@ -12252,35 +12261,6 @@
         <updated>2025-10-01T11:30:35.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARUNATHAN VATHIL | ആഴമേറും സ്നേഹം നിറയുന്ന ഈശോയുടെ ഗാനം |  @JinoKunnumpurathu    | #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/Px-_Pp5dnfc</id>
-        <link href="https://www.youtube.com/shorts/Px-_Pp5dnfc"/>
-        <updated>2025-10-01T11:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്തിനാണ്  നീ തളരുന്നത്  | 😇 | Rev. Aneesh P Joseph    @JinoKunnumpurathu    #shorts # #trending]]></title>
-        <id>https://www.youtube.com/shorts/2VyIcbMEwGM</id>
-        <link href="https://www.youtube.com/shorts/2VyIcbMEwGM"/>
-        <updated>2025-10-01T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തെ നമ്മുക്ക് തൊട്ടറിയാം ഈ ഗാനങ്ങളിലൂടെ | #christiansongs #tresnding #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=3lLH-zFnWNQ</id>
-        <link href="https://www.youtube.com/watch?v=3lLH-zFnWNQ"/>
-        <updated>2025-10-01T10:30:03.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
