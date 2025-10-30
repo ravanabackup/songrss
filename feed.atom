@@ -2,16 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T03:37:07.327Z</updated>
+    <updated>2025-10-30T04:11:27.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=q2H8NXlraJs</id>
+        <link href="https://www.youtube.com/watch?v=q2H8NXlraJs"/>
+        <updated>2025-10-30T03:56:22.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ammaykkoru Ponnum Kudam HD Video Song | Utsavamelam Malayalam Movie Song | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=BZOcrvdsoTQ</id>
+        <link href="https://www.youtube.com/watch?v=BZOcrvdsoTQ"/>
+        <updated>2025-10-30T03:50:09.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marillavan Marakkillavan | Christian shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/OiHQOQBziJM</id>
         <link href="https://www.youtube.com/shorts/OiHQOQBziJM"/>
         <updated>2025-10-30T01:30:19.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio Bible Malayalam | Gospel of John - Chapter 1 | Holy Bible | New Testament | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=oaMgTdw4GxA</id>
+        <link href="https://www.youtube.com/watch?v=oaMgTdw4GxA"/>
+        <updated>2025-10-30T00:23:44.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
         </author>
