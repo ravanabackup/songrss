@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T07:09:31.563Z</updated>
+    <updated>2025-10-30T08:13:08.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാത്രിയുടെ നിശബ്തതയിൽ കേൾക്കാൻ  അനുയോജ്യമായ മലയാള സിനിമയിലെ മെലഡി ഗാനങ്ങൾ | Malayalam Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Aiw2IyrtbhE</id>
+        <link href="https://www.youtube.com/watch?v=Aiw2IyrtbhE"/>
+        <updated>2025-10-30T07:30:11.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kilukkam Petty | Koottinilamkili Malayalam Movie Song | S Janaki | P Jayachandran | Baby Shalini]]></title>
+        <id>https://www.youtube.com/watch?v=S2AWn0gydKo</id>
+        <link href="https://www.youtube.com/watch?v=S2AWn0gydKo"/>
+        <updated>2025-10-30T07:20:05.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💕 Turn up the feels!#NeramPularave – The heart-touching vibe from Sadar Nedumangad. #outnow]]></title>
         <id>https://www.youtube.com/shorts/P6_0tuWsZwA</id>
@@ -14,6 +32,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nenjin Ezhuth - Video with Lyrics | Deepika Venkatachalam | Adarsh Krishnan N]]></title>
+        <id>https://www.youtube.com/watch?v=uMY4H1Dlebk</id>
+        <link href="https://www.youtube.com/watch?v=uMY4H1Dlebk"/>
+        <updated>2025-10-30T07:01:02.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
     <entry>
@@ -12152,15 +12179,6 @@
         <updated>2025-09-30T22:30:02.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 1 # Athiravile Prarthana 1st October 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=X0M8CHtkjqQ</id>
-        <link href="https://www.youtube.com/watch?v=X0M8CHtkjqQ"/>
-        <updated>2025-09-30T20:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
