@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T22:08:46.721Z</updated>
+    <updated>2025-10-31T23:08:56.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, നവംബർ: 01 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=xW_Uy5_HpyU</id>
+        <link href="https://www.youtube.com/watch?v=xW_Uy5_HpyU"/>
+        <updated>2025-10-31T22:30:18.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/kGjkRquM4q8</id>
@@ -12316,53 +12325,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayathil Ninnozhukum | Biju Narayanan | Rose Varghese | Pavithran Amachal | @JinoKunnumpurathu |]]></title>
-        <id>https://www.youtube.com/shorts/kBZLYgD44M0</id>
-        <link href="https://www.youtube.com/shorts/kBZLYgD44M0"/>
-        <updated>2025-10-02T11:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaalolam Poompaithale Video Song | Naadodi | Mohanlal | K.G.Markose | S.P. Venkitesh | O.N.V Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=SjY0D7VDIMU</id>
-        <link href="https://www.youtube.com/watch?v=SjY0D7VDIMU"/>
-        <updated>2025-10-02T10:50:43.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadanja Chandanamo | Kunjikkoonan Movie Song | KJ Yesudas | Dileep Hits | Navya Nair | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=1vD6Hzj4ohw</id>
-        <link href="https://www.youtube.com/watch?v=1vD6Hzj4ohw"/>
-        <updated>2025-10-02T10:44:51.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അടഞ്ഞ വാതിൽ   | 😇 | Rev. Aneesh P Joseph    @JinoKunnumpurathu    #shorts # #trending]]></title>
-        <id>https://www.youtube.com/shorts/n_1M7-2k2wM</id>
-        <link href="https://www.youtube.com/shorts/n_1M7-2k2wM"/>
-        <updated>2025-10-02T10:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇത്തിരി നേരം കിട്ടിയാൽ ഒത്തിരി പ്രാവിശ്യം ഇഷ്ടത്തോടെ കേൾക്കുന്ന 15  ഗാനങ്ങൾ | #christiansongs |]]></title>
-        <id>https://www.youtube.com/watch?v=DkOQlz1Eqo0</id>
-        <link href="https://www.youtube.com/watch?v=DkOQlz1Eqo0"/>
-        <updated>2025-10-02T10:30:08.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
