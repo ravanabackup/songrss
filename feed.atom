@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-01T09:08:48.596Z</updated>
+    <updated>2025-11-01T10:08:51.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ബാഗി ജീൻസും | Baggy Jeansum | Sainyam Malayalam Movie  Superhit Song | Mammootty | Vikram]]></title>
+        <id>https://www.youtube.com/watch?v=woy8GVZlib0</id>
+        <link href="https://www.youtube.com/watch?v=woy8GVZlib0"/>
+        <updated>2025-11-01T10:01:07.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Thankathaaram HD Video Song | Nagarathil Samsaaravishayam Malayalam Movie Song | Unni Menon]]></title>
+        <id>https://www.youtube.com/watch?v=WLM8qv88yT0</id>
+        <link href="https://www.youtube.com/watch?v=WLM8qv88yT0"/>
+        <updated>2025-11-01T09:20:46.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എൻ്റെ കേരളം | Ente Keralam | Video Song | KJ Yesudas | P Jayachandran | Malayalam Evergreen Hits]]></title>
         <id>https://www.youtube.com/watch?v=5dSbYmdNkJo</id>
