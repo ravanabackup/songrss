@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T22:07:57.798Z</updated>
+    <updated>2025-11-02T23:08:21.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, നവംബർ: 03 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=CRkVkdJRWGY</id>
+        <link href="https://www.youtube.com/watch?v=CRkVkdJRWGY"/>
+        <updated>2025-11-02T22:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/4TMhubqc68k</id>
@@ -12363,53 +12372,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EN JEEVANADHAM |സ്നേഹസ്വരൂപനായ യേശുവിന്റെ ഗാനം |        @JinoKunnumpurathu  #shorts]]></title>
-        <id>https://www.youtube.com/shorts/TjKSKmgzht4</id>
-        <link href="https://www.youtube.com/shorts/TjKSKmgzht4"/>
-        <updated>2025-10-04T11:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നല്ല സൗഹൃദങ്ങൾ | 😇 | Rev. Aneesh P Joseph |  @JinoKunnumpurathu    #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/uHirXqC-ea0</id>
-        <link href="https://www.youtube.com/shorts/uHirXqC-ea0"/>
-        <updated>2025-10-04T10:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരയുന്നവന്റെ കണ്ണീർ തുടയ്ക്കുന്ന കരുണാർദ്ര ഗാനങ്ങൾ   #toptracksindia #toptrending #toptrendingsongs]]></title>
-        <id>https://www.youtube.com/watch?v=KA1IucKMiNs</id>
-        <link href="https://www.youtube.com/watch?v=KA1IucKMiNs"/>
-        <updated>2025-10-04T10:30:12.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mindaappenninte Karalile HD  Bass Boosted | Kottappurathe Koottukudumbam | KS Chithra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=1pYf87s-KfY</id>
-        <link href="https://www.youtube.com/watch?v=1pYf87s-KfY"/>
-        <updated>2025-10-04T10:28:46.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rathisughasaramayi | രതിസുഖസാരമായി | Dhwani Movie | KJ Yesudas Song | Yusufali Kechery | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=P_tybcK1eC8</id>
-        <link href="https://www.youtube.com/watch?v=P_tybcK1eC8"/>
-        <updated>2025-10-04T10:10:51.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
