@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T17:07:32.827Z</updated>
+    <updated>2025-11-02T18:10:57.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 3rd November 25]]></title>
+        <id>https://www.youtube.com/watch?v=GCHYE1MgjRs</id>
+        <link href="https://www.youtube.com/watch?v=GCHYE1MgjRs"/>
+        <updated>2025-11-02T18:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 November 2025]]></title>
         <id>https://www.youtube.com/shorts/Aruj6yltwuI</id>
@@ -12429,36 +12438,6 @@
         <updated>2025-10-04T07:30:04.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#paandipara #sumathivalavu #songoftheday #ranjinraj #arjunashokan]]></title>
-        <id>https://www.youtube.com/shorts/d3VMjQYN1jE</id>
-        <link href="https://www.youtube.com/shorts/d3VMjQYN1jE"/>
-        <updated>2025-10-04T06:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thithinam Thaka | Anjana S Kumar | Tribal song #folksong #naadanpaattu #shortsfeed #reels #shorts]]></title>
-        <id>https://www.youtube.com/shorts/BnqROVAjIho</id>
-        <link href="https://www.youtube.com/shorts/BnqROVAjIho"/>
-        <updated>2025-10-04T05:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Govind Vasantha takes over, music isn’t just heard, it’s felt. 🎶✨ #7YearsOf96 #Meiyazhagan #96]]></title>
-        <id>https://www.youtube.com/shorts/SU8kPY5E0-E</id>
-        <link href="https://www.youtube.com/shorts/SU8kPY5E0-E"/>
-        <updated>2025-10-04T05:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
