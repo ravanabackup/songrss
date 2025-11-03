@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T07:10:40.161Z</updated>
+    <updated>2025-11-03T08:14:23.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Love Today - Saachitale Video with Lyrics | Pradeep Ranganathan, Ivana | Yuvan]]></title>
+        <id>https://www.youtube.com/watch?v=NTmsZRwT05w</id>
+        <link href="https://www.youtube.com/watch?v=NTmsZRwT05w"/>
+        <updated>2025-11-03T08:00:28.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moodal Manjumaay | മൂടൽ മഞ്ഞുമായ് | Anthichuvappu | Vani Jairam Song | AT Ummar | Evergreen Hit]]></title>
+        <id>https://www.youtube.com/watch?v=_Z6E1doH7d8</id>
+        <link href="https://www.youtube.com/watch?v=_Z6E1doH7d8"/>
+        <updated>2025-11-03T07:29:55.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ദൈവമക്കളുടെയും ഹൃദയത്തെ തൊട്ടുണർത്തുന്ന ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=Ou0_3o5AO8Y</id>
+        <link href="https://www.youtube.com/watch?v=Ou0_3o5AO8Y"/>
+        <updated>2025-11-03T06:54:25.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maravidamay | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/S7zJgiLbvlQ</id>
