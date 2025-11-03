@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T20:10:52.200Z</updated>
+    <updated>2025-11-03T21:08:31.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12390,15 +12390,6 @@
         <updated>2025-10-05T10:02:14.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sukhamo Maayaa Saanthwanam Video Song | Symphony | Sujatha Mohan | V Devanand | Deepak Dev]]></title>
-        <id>https://www.youtube.com/watch?v=s_rlFiu_X9A</id>
-        <link href="https://www.youtube.com/watch?v=s_rlFiu_X9A"/>
-        <updated>2025-10-05T08:30:28.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
