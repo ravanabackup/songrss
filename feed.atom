@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T22:09:16.228Z</updated>
+    <updated>2025-11-03T23:08:38.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, നവംബർ: 04 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=3X6Bsyd2JLo</id>
+        <link href="https://www.youtube.com/watch?v=3X6Bsyd2JLo"/>
+        <updated>2025-11-03T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/lieY-q6oYGo</id>
@@ -12362,35 +12371,6 @@
         <updated>2025-10-05T11:14:18.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAVAL VILAKKE |  MEGHNAKUTTY SUPER SONG..👌   @JinoKunnumpurathu #shorts]]></title>
-        <id>https://www.youtube.com/shorts/6j6jrxGne1k</id>
-        <link href="https://www.youtube.com/shorts/6j6jrxGne1k"/>
-        <updated>2025-10-05T11:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചില വേദനകൾ   | 😇 | Rev. Aneesh P Joseph |  @JinoKunnumpurathu    #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/Y2uJjzWhmDM</id>
-        <link href="https://www.youtube.com/shorts/Y2uJjzWhmDM"/>
-        <updated>2025-10-05T10:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വേദനയിലും ഏകാന്തതയിലും ആശ്വാസമേകുന്ന ഗാനങ്ങൾ  | #christiansongs  #toptracksindia #toptrending]]></title>
-        <id>https://www.youtube.com/watch?v=N9nu7CwWgdQ</id>
-        <link href="https://www.youtube.com/watch?v=N9nu7CwWgdQ"/>
-        <updated>2025-10-05T10:30:14.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
