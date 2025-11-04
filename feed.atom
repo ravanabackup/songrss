@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T00:44:24.485Z</updated>
+    <updated>2025-11-04T02:24:17.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yesuvin Snehathin #manoramamusic #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/nFSDileHRpc</id>
+        <link href="https://www.youtube.com/shorts/nFSDileHRpc"/>
+        <updated>2025-11-04T01:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prarthana Kelkkane Mathave Ft. Shanavas Francis, Sr Julie Therese, Tojo Varghese Latest Marian Song]]></title>
         <id>https://www.youtube.com/watch?v=fj7JuCaeJqQ</id>
@@ -12313,34 +12323,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിരിച്ചോര തുള്ളികളാൽ സാന്ത്വനമേകിയ ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=umwQs85tjPU</id>
-        <link href="https://www.youtube.com/watch?v=umwQs85tjPU"/>
-        <updated>2025-10-05T13:31:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anugrahathin Adhipathiye | അനുഗ്രഹത്തിന്‍  |Malayalam Christian Song | Aji Susan |  Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/wB69oAugxq4</id>
-        <link href="https://www.youtube.com/shorts/wB69oAugxq4"/>
-        <updated>2025-10-05T13:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etho Janma - Ambient Lofi | Aelo | Paalangal | Vani Jairam | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=KdyF-HvHii4</id>
-        <link href="https://www.youtube.com/watch?v=KdyF-HvHii4"/>
-        <updated>2025-10-05T13:00:40.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
