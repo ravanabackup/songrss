@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T13:26:53.660Z</updated>
+    <updated>2025-11-04T14:09:54.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അത്യുച്ചത്തിൽ പാടി സ്തുതിക്കാം ഈ സ്തുതിഗീതങ്ങൾ | Christian Devotional Songs Malayalam | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=wQcjfqh4gI8</id>
+        <link href="https://www.youtube.com/watch?v=wQcjfqh4gI8"/>
+        <updated>2025-11-04T13:31:08.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സകലസ്തുതികൾക്കും യോഗ്യനായ ദൈവം |  | Shortsprayer | #shortsprayer    @JinoKunnumpurathu    ​]]></title>
+        <id>https://www.youtube.com/shorts/pJLWQ28qb_0</id>
+        <link href="https://www.youtube.com/shorts/pJLWQ28qb_0"/>
+        <updated>2025-11-04T13:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nenjile Murivil - Song of the day!]]></title>
+        <id>https://www.youtube.com/shorts/iBZTzTHhu-Q</id>
+        <link href="https://www.youtube.com/shorts/iBZTzTHhu-Q"/>
+        <updated>2025-11-04T13:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തിൽ സൂക്ഷിക്കും പഴയ മെലഡി ഗാനങ്ങൾ | OLD MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=MdLfyPZxa4g</id>
+        <link href="https://www.youtube.com/watch?v=MdLfyPZxa4g"/>
+        <updated>2025-11-04T13:30:23.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anivaira Kallumala | Kudamattam  Movie Song | Dileep | Manjuwarrier | Johnson | Yesudas Hits]]></title>
         <id>https://www.youtube.com/watch?v=7pxPUSEAM0s</id>
@@ -12472,15 +12510,6 @@
         <updated>2025-10-06T04:30:21.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkaraykku Yathra Cheyyum Karaoke | M S David Kodukulanji | Malayalam Christian Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=5IwYJP20SHo</id>
-        <link href="https://www.youtube.com/watch?v=5IwYJP20SHo"/>
-        <updated>2025-10-06T01:51:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
