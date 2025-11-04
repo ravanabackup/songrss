@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T18:13:56.042Z</updated>
+    <updated>2025-11-04T19:07:30.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 5 # Athiravile Prarthana 5th of November 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=OB1HARpljp8</id>
+        <link href="https://www.youtube.com/watch?v=OB1HARpljp8"/>
+        <updated>2025-11-04T19:00:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 5th November 25]]></title>
         <id>https://www.youtube.com/watch?v=Od-dkoxxiRs</id>
@@ -12454,15 +12463,6 @@
         <updated>2025-10-06T07:30:10.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmaniye Ariraro HD Video Song |  Oru Minnaaminunginte Nurungu Vettam | Johnson Hits]]></title>
-        <id>https://www.youtube.com/watch?v=BOBnud9AAcY</id>
-        <link href="https://www.youtube.com/watch?v=BOBnud9AAcY"/>
-        <updated>2025-10-06T06:34:09.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
