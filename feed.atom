@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T22:07:46.095Z</updated>
+    <updated>2025-11-04T23:08:58.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, നവംബർ: 05 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=eZ8-3OBG8ps</id>
+        <link href="https://www.youtube.com/watch?v=eZ8-3OBG8ps"/>
+        <updated>2025-11-04T22:30:08.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/lmagKt5RKfc</id>
@@ -12379,62 +12388,6 @@
         <updated>2025-10-06T11:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENNAI NENJIL | SARUVESAN | JOHN JEBARAJ |    @JinoKunnumpurathu   |     #shorts #jesus]]></title>
-        <id>https://www.youtube.com/shorts/YUVMsEnRtKY</id>
-        <link href="https://www.youtube.com/shorts/YUVMsEnRtKY"/>
-        <updated>2025-10-06T11:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=X4sQiAbUM7Q</id>
-        <link href="https://www.youtube.com/watch?v=X4sQiAbUM7Q"/>
-        <updated>2025-10-06T10:45:46.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുശവന്റെ കയ്യിലെ കളിമണ്ണ് | 😇 | Rev. Aneesh P Joseph | #jinokunnumpurath     #shorts  #motivation]]></title>
-        <id>https://www.youtube.com/shorts/YNB1Cbj7iVc</id>
-        <link href="https://www.youtube.com/shorts/YNB1Cbj7iVc"/>
-        <updated>2025-10-06T10:44:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadu Thinnor | കാട് തിന്നോർ | Pattabhiraman Movie | MJayachandran | Murugan Kattakada | Jayaram]]></title>
-        <id>https://www.youtube.com/watch?v=RgJFXW_7Pr8</id>
-        <link href="https://www.youtube.com/watch?v=RgJFXW_7Pr8"/>
-        <updated>2025-10-06T10:30:31.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തോടുചേർന്നുനീങ്ങാൻ  നമ്മെ സഹായിക്കുന്ന ഗാനങ്ങൾ  | #christiansongs  #toptracksindia #toptrending]]></title>
-        <id>https://www.youtube.com/watch?v=LGYdUgX6l40</id>
-        <link href="https://www.youtube.com/watch?v=LGYdUgX6l40"/>
-        <updated>2025-10-06T10:30:27.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyoru Janmamundenkil 4K  | Kannaki movie song  | Kaithapram Hits | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=iAFq9EECLDk</id>
-        <link href="https://www.youtube.com/watch?v=iAFq9EECLDk"/>
-        <updated>2025-10-06T10:26:29.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
