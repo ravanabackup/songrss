@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T19:07:30.835Z</updated>
+    <updated>2025-11-04T20:10:58.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12435,34 +12435,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comali - Paisa Notu Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
-        <id>https://www.youtube.com/watch?v=_AVdoHrF5S8</id>
-        <link href="https://www.youtube.com/watch?v=_AVdoHrF5S8"/>
-        <updated>2025-10-06T08:03:52.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#songoftheday #enthaavo #njandukaludenaattiloridavela #nivinpauly #justinvarghese #soorajsanthosh]]></title>
-        <id>https://www.youtube.com/shorts/ywGDM9vIiKk</id>
-        <link href="https://www.youtube.com/shorts/ywGDM9vIiKk"/>
-        <updated>2025-10-06T07:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ മനസ്സിൽ പ്രണയം മൊട്ടിട്ട ചലച്ചിത്രഗാനങ്ങൾ | ROMANTIC SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=KchwDqMM4_M</id>
-        <link href="https://www.youtube.com/watch?v=KchwDqMM4_M"/>
-        <updated>2025-10-06T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
