@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T08:13:50.661Z</updated>
+    <updated>2025-11-04T09:11:46.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandharangalellam | മന്ദാരങ്ങളെല്ലാം | Dheem Tharikida Thom | KJ Yesudas | MG Radhakrishnan Song]]></title>
+        <id>https://www.youtube.com/shorts/rFCAfcA-aWg</id>
+        <link href="https://www.youtube.com/shorts/rFCAfcA-aWg"/>
+        <updated>2025-11-04T08:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിൻ സ്നേഹമൊഴികളാൽ #christianshorts #christianmusic #jesuschrist #jesussong #christianprayer #jesus]]></title>
         <id>https://www.youtube.com/shorts/3UsK_asKPKE</id>
@@ -14,6 +24,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sita Ramam (Tamil) - Kannukkulle Video with Lyrics | Dulquer | Vishal Chandrasekhar]]></title>
+        <id>https://www.youtube.com/watch?v=E3w9GvMOcyY</id>
+        <link href="https://www.youtube.com/watch?v=E3w9GvMOcyY"/>
+        <updated>2025-11-04T08:00:19.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
     <entry>
