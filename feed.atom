@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T06:15:01.231Z</updated>
+    <updated>2025-11-04T07:09:52.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹം നൽകുന്ന ഈശോയ്ക്കുള്ള ആരാധന | Malayalam Christian Devotional Songs | Jesus Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=BC88DAdrNQI</id>
+        <link href="https://www.youtube.com/watch?v=BC88DAdrNQI"/>
+        <updated>2025-11-04T06:27:21.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee Mukilo | Live with UNTAGGED | Cover Version | Anila Rajeev | Rajesh Ramachandran | Gopi Sundar]]></title>
         <id>https://www.youtube.com/watch?v=23FPeDWWh4o</id>
@@ -12330,15 +12339,6 @@
         <link href="https://www.youtube.com/shorts/q2-DU8ZJKwI"/>
         <updated>2025-10-05T22:00:54.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന October 6 # Athiravile Prarthana 6th October 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=AN_m7Lk0arQ</id>
-        <link href="https://www.youtube.com/watch?v=AN_m7Lk0arQ"/>
-        <updated>2025-10-05T19:00:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
