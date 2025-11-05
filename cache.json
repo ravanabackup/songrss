@@ -3044,6 +3044,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Yx2_5euW1XE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yx2_5euW1XE",
+          "publishedOn": "2025-11-05T19:00:41.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന  November 6 # Athiravile Prarthana 6th of November 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sZYukC1EJho",
           "author": null,
           "description": "",
@@ -10143,16 +10153,6 @@
           "wordCount": null,
           "title": "3 - Nee Paartha Vizhigal Video with Lyrics | Dhanush, Shruti | Anirudh",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YvrBHRAXuCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YvrBHRAXuCk",
-          "publishedOn": "2025-10-07T07:00:25.000Z",
-          "wordCount": null,
-          "title": "Awaara - Nee Yadalo Naaku Video with Lyrics | Yuvanshankar | Karthi, Tamannaah",
-          "imageUrl": null
         }
       ]
     },
@@ -12609,16 +12609,6 @@
           "publishedOn": "2025-10-08T06:36:13.000Z",
           "wordCount": null,
           "title": "Karale Karalinte  | Udayananu Tharam Video Song | Mohanlal | Sreenivasan, Meena | Deepak Dev",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X31jQvVWTic",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X31jQvVWTic",
-          "publishedOn": "2025-10-07T06:57:21.000Z",
-          "wordCount": null,
-          "title": "Kathirola Thumbi | Mayaponman Movie Song| Mohan Sithara | MG Sreekumar | KS Chithra Hits",
           "imageUrl": null
         }
       ]
