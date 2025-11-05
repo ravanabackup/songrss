@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T17:09:36.454Z</updated>
+    <updated>2025-11-05T18:13:44.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th November 25]]></title>
+        <id>https://www.youtube.com/watch?v=sZYukC1EJho</id>
+        <link href="https://www.youtube.com/watch?v=sZYukC1EJho"/>
+        <updated>2025-11-05T18:01:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadha Choriyaname | നാഥാ ചൊരിയണമേ | Elizabeth S | John Philip | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=PnqSqsHN7mo</id>
@@ -12397,51 +12406,6 @@
         <updated>2025-10-07T06:57:21.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehavirunnukalode 4K Video Song | Chacko Randaman | Kalabhavan Mani | Mohini | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=M_6AKWjPLoc</id>
-        <link href="https://www.youtube.com/watch?v=M_6AKWjPLoc"/>
-        <updated>2025-10-07T06:11:52.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala Kayyileduth | Mariyan Song Malayalam | Gagul Joseph | Br.Anil Malappuram | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=AwD5byKvkfo</id>
-        <link href="https://www.youtube.com/watch?v=AwD5byKvkfo"/>
-        <updated>2025-10-07T06:01:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chembaka Poonkavanathile | ചെമ്പകപ്പൂങ്കാവനത്തിലെ പൂമരച്ചോട്ടില്‍ | Aabhijathyam | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=ZXPs7SKFsgQ</id>
-        <link href="https://www.youtube.com/watch?v=ZXPs7SKFsgQ"/>
-        <updated>2025-10-07T05:30:49.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natchathira Video Song  | Oho Enthan Baby | Rudra,Mithila Palkar| Vishnu Vishal| Raahul | Jen Martin]]></title>
-        <id>https://www.youtube.com/watch?v=USjLHTu4Xng</id>
-        <link href="https://www.youtube.com/watch?v=USjLHTu4Xng"/>
-        <updated>2025-10-07T05:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engakkum Thaayo | ഏങ്ങക്കും തായോ | Ezhu Deshangalkumagale | Vaikom Vijayalakshmi Song | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=w3lNlAJKkR0</id>
-        <link href="https://www.youtube.com/watch?v=w3lNlAJKkR0"/>
-        <updated>2025-10-07T05:15:30.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
