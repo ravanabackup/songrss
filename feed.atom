@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T22:08:50.631Z</updated>
+    <updated>2025-11-05T23:09:05.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, നവംബർ: 06 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=N342y328JLE</id>
+        <link href="https://www.youtube.com/watch?v=N342y328JLE"/>
+        <updated>2025-11-05T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/bykr_Xz7x14</id>
@@ -12312,53 +12321,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THANALEKAAN | സ്നേഹം ചൊരിയുന്ന നാഥന്റെ മനോഹര ഗാനം  |@JinoKunnumpurathu |#shorts #hits]]></title>
-        <id>https://www.youtube.com/shorts/Hb4harUeOEk</id>
-        <link href="https://www.youtube.com/shorts/Hb4harUeOEk"/>
-        <updated>2025-10-07T11:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=X_bj3L4y8u4</id>
-        <link href="https://www.youtube.com/watch?v=X_bj3L4y8u4"/>
-        <updated>2025-10-07T10:50:52.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikkaritta Bakker Video Song | On The Way | Mamukoya | Arun Alat | Sejo John | Siju Raghav]]></title>
-        <id>https://www.youtube.com/watch?v=rHYXjBS4YmE</id>
-        <link href="https://www.youtube.com/watch?v=rHYXjBS4YmE"/>
-        <updated>2025-10-07T10:40:09.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവീക പദ്ധതി | 😇 | Rev. Aneesh P Joseph | #jinokunnumpurath #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/JdktHR0g2qo</id>
-        <link href="https://www.youtube.com/shorts/JdktHR0g2qo"/>
-        <updated>2025-10-07T10:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിന്റെ കരംപിടിച്ചു കേൾക്കാം ഈ ഗാനങ്ങൾ ഗാനങ്ങൾ  | #christiansongs  #toptracksindia #toptrending]]></title>
-        <id>https://www.youtube.com/watch?v=_xt3aFHrGVU</id>
-        <link href="https://www.youtube.com/watch?v=_xt3aFHrGVU"/>
-        <updated>2025-10-07T10:30:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
