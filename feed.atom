@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T08:13:49.027Z</updated>
+    <updated>2025-11-05T09:11:24.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thilangum Thinkale HD Video Song | No. 1 Snehatheeram Bangalore North | Singer (K. J. Yesudas)]]></title>
+        <id>https://www.youtube.com/watch?v=6AktgDQGUX4</id>
+        <link href="https://www.youtube.com/watch?v=6AktgDQGUX4"/>
+        <updated>2025-11-05T09:02:54.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poomughavathilkkal | Rakkuyilin Ragasadassil Video Song | Mammootty | Suhasini | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=vcZ66xH_eqg</id>
+        <link href="https://www.youtube.com/watch?v=vcZ66xH_eqg"/>
+        <updated>2025-11-05T08:25:25.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comali - Oliyum Oliyum Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
+        <id>https://www.youtube.com/watch?v=SsmMT1at1lg</id>
+        <link href="https://www.youtube.com/watch?v=SsmMT1at1lg"/>
+        <updated>2025-11-05T08:00:39.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ ഹൃദയ വികാരങ്ങളെ തൊട്ടറിഞ്ഞ  മനം മയക്കും മെലഡി ഗാനങ്ങൾ | Malayalam Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=31lV9Ej4k0s</id>
