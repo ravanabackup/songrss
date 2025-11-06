@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T20:10:37.288Z</updated>
+    <updated>2025-11-06T21:08:11.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12287,16 +12287,6 @@
         <updated>2025-10-08T09:45:04.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaikkottum Kandittilla 🕺 #songoftheday]]></title>
-        <id>https://www.youtube.com/shorts/9KWnU9-Nemo</id>
-        <link href="https://www.youtube.com/shorts/9KWnU9-Nemo"/>
-        <updated>2025-10-08T08:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
