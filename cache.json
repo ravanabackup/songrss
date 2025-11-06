@@ -3044,6 +3044,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VniFSGJeLuY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VniFSGJeLuY",
+          "publishedOn": "2025-11-06T18:00:36.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th November 25",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rrXpOM0kcSU",
           "author": null,
           "description": "",
@@ -6843,16 +6853,6 @@
           "wordCount": 1972,
           "title": "Manikuyile | Valkannadi #yesudas #sujatha #kalabhavanmani #shortsfeed #shortsvideo #shorts #reels",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8gmC6-aYqr8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8gmC6-aYqr8",
-          "publishedOn": "2025-10-08T05:30:06.000Z",
-          "wordCount": null,
-          "title": "Baletta Baletta | Balettan |Video | M G Sreekumar | Mohanlal | Gireesh Puthenchery | M Jayachandran",
-          "imageUrl": null
         }
       ]
     },
@@ -9427,16 +9427,6 @@
           "link": "https://www.youtube.com/shorts/96O85wYFQg8",
           "publishedOn": "2025-10-08T07:30:30.000Z",
           "wordCount": 2124,
-          "title": "Hey Kulambadi Thaalam | ഹേയ് കുളമ്പടി താളം | Jackpot Movie | KS Chithra | Ilayaraja Hits | Audio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RNaI0TIydZM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RNaI0TIydZM",
-          "publishedOn": "2025-10-08T06:06:15.000Z",
-          "wordCount": null,
           "title": "Hey Kulambadi Thaalam | ഹേയ് കുളമ്പടി താളം | Jackpot Movie | KS Chithra | Ilayaraja Hits | Audio",
           "imageUrl": null
         }

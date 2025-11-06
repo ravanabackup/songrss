@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T17:10:23.437Z</updated>
+    <updated>2025-11-06T18:14:30.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th November 25]]></title>
+        <id>https://www.youtube.com/watch?v=VniFSGJeLuY</id>
+        <link href="https://www.youtube.com/watch?v=VniFSGJeLuY"/>
+        <updated>2025-11-06T18:00:36.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്താ വെള്ളത്തിൽ വച്ചൊരു പെണ്ണുകാണൽ?]]></title>
         <id>https://www.youtube.com/shorts/I96X90gxukg</id>
@@ -12335,24 +12344,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Kulambadi Thaalam | ഹേയ് കുളമ്പടി താളം | Jackpot Movie | KS Chithra | Ilayaraja Hits | Audio]]></title>
-        <id>https://www.youtube.com/watch?v=RNaI0TIydZM</id>
-        <link href="https://www.youtube.com/watch?v=RNaI0TIydZM"/>
-        <updated>2025-10-08T06:06:15.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baletta Baletta | Balettan |Video | M G Sreekumar | Mohanlal | Gireesh Puthenchery | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=8gmC6-aYqr8</id>
-        <link href="https://www.youtube.com/watch?v=8gmC6-aYqr8"/>
-        <updated>2025-10-08T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
