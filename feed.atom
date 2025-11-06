@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T09:11:00.331Z</updated>
+    <updated>2025-11-06T10:11:49.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ദുപുഷ്പം ചൂടി നിൽക്കും...| Indhupushpam Choodi Nilkkum | Vaishali |  KS Chithra | Evergreen Song]]></title>
+        <id>https://www.youtube.com/watch?v=7msj2JYPoAE</id>
+        <link href="https://www.youtube.com/watch?v=7msj2JYPoAE"/>
+        <updated>2025-11-06T10:02:23.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=bju1p_DI4x8</id>
+        <link href="https://www.youtube.com/watch?v=bju1p_DI4x8"/>
+        <updated>2025-11-06T09:40:34.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=ZdBLJWT6dmk</id>
@@ -23,6 +41,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം നെഞ്ചിൽ പകർന്നു നൽകിയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs #trending #toptrending]]></title>
+        <id>https://www.youtube.com/watch?v=2KeQm8KUlME</id>
+        <link href="https://www.youtube.com/watch?v=2KeQm8KUlME"/>
+        <updated>2025-11-06T08:41:22.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -12206,16 +12233,6 @@
         <updated>2025-10-07T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/8K7hH2q25PU</id>
-        <link href="https://www.youtube.com/shorts/8K7hH2q25PU"/>
-        <updated>2025-10-07T22:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
