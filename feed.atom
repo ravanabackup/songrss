@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T20:10:27.753Z</updated>
+    <updated>2025-11-07T21:06:01.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12289,34 +12289,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യേശുവെ സർവ്വേശസൂനുവെ #christianshorts #jesussong #jesuschrist #christianmusic #christianworshipsong]]></title>
-        <id>https://www.youtube.com/shorts/pjPLBeVXiuk</id>
-        <link href="https://www.youtube.com/shorts/pjPLBeVXiuk"/>
-        <updated>2025-10-09T09:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innee Sandhyavelayil | Dr. George Varghese | Jose Kadavil | Danniyah Susa Cheriyan | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=g1r31uFXMZw</id>
-        <link href="https://www.youtube.com/watch?v=g1r31uFXMZw"/>
-        <updated>2025-10-09T08:49:58.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദുഃഖങ്ങളെല്ലാം അകറ്റുന്ന യേശുനാഥന്റെ  ദിവ്യഗാനങ്ങൾ | Evergreen Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=KmczRKWUuEY</id>
-        <link href="https://www.youtube.com/watch?v=KmczRKWUuEY"/>
-        <updated>2025-10-09T08:39:11.000Z</updated>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
