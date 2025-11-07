@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T14:09:19.723Z</updated>
+    <updated>2025-11-07T15:09:37.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chakkarakkili | Vellinakshatram  | Cover Video |M Jayachandran |S Ramesan Nair |Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/shorts/W1I43u3Pf9I</id>
+        <link href="https://www.youtube.com/shorts/W1I43u3Pf9I"/>
+        <updated>2025-11-07T14:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivakarunayin Dhanamahathmyam #manoramamusic #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/D222Ro5uQbg</id>
+        <link href="https://www.youtube.com/shorts/D222Ro5uQbg"/>
+        <updated>2025-11-07T14:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sooryan - Song of the day!]]></title>
         <id>https://www.youtube.com/shorts/eXkiQQoHtPY</id>
