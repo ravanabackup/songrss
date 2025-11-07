@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T00:45:15.900Z</updated>
+    <updated>2025-11-07T02:23:52.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maravidamay | Chithra Arun | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/YdiIGFclQww</id>
+        <link href="https://www.youtube.com/shorts/YdiIGFclQww"/>
+        <updated>2025-11-07T01:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 7th of November 2025 Mathavinte Japamala # Dhukhathinte Rahasyangal 7th of November 2025]]></title>
         <id>https://www.youtube.com/watch?v=slYhwgbebuE</id>
@@ -12110,43 +12120,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingini Poove |  Swapnam Kondu Thulabharam | Suresh Gopi | MG Sreekumar | Sujatha Mohan Hits]]></title>
-        <id>https://www.youtube.com/watch?v=Am24s8C6c6Y</id>
-        <link href="https://www.youtube.com/watch?v=Am24s8C6c6Y"/>
-        <updated>2025-10-08T13:52:06.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaralum Asadhyam | Malayalam Christian Devotional Song | Maramon Convention song | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/qu1wHenZ2Nk</id>
-        <link href="https://www.youtube.com/shorts/qu1wHenZ2Nk"/>
-        <updated>2025-10-08T13:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്റെ അനുഗ്രഹം നേടിത്തരുന്ന മരിയൻ ഗീതങ്ങൾ | Mariyan Songs Malayalam | Kester | Japamala Masam]]></title>
-        <id>https://www.youtube.com/watch?v=KLy5rYyf2Uw</id>
-        <link href="https://www.youtube.com/watch?v=KLy5rYyf2Uw"/>
-        <updated>2025-10-08T13:30:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits of Ramesh Murali Vol 01 | Evergreen Malayalam Christian Songs | Old Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=FzI_xxKhCvA</id>
-        <link href="https://www.youtube.com/watch?v=FzI_xxKhCvA"/>
-        <updated>2025-10-08T13:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
