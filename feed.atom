@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T22:08:43.573Z</updated>
+    <updated>2025-11-07T23:08:40.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊന്തമാസം, നവംബർ: 08 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=94QXkBM2QpQ</id>
+        <link href="https://www.youtube.com/watch?v=94QXkBM2QpQ"/>
+        <updated>2025-11-07T22:30:02.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/JCCble9kkEY</id>
@@ -12223,63 +12232,6 @@
         <updated>2025-10-09T11:30:02.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARAKKATHA SNEHAM | SUBHASH KADAMPANADU | ANUPRIYA | VIJITH IDUKKI | AMBILY RAJEEV | #christiansong]]></title>
-        <id>https://www.youtube.com/shorts/AgFpqBouU94</id>
-        <link href="https://www.youtube.com/shorts/AgFpqBouU94"/>
-        <updated>2025-10-09T11:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuraginee - Video Song | Oru Vadakkan Therottam | Dhyan Sreenivasan | Binunraj | Berny & Tansen]]></title>
-        <id>https://www.youtube.com/watch?v=Sj2leSk3lgs</id>
-        <link href="https://www.youtube.com/watch?v=Sj2leSk3lgs"/>
-        <updated>2025-10-09T10:59:31.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmani Penmaniye | കൺമണി പെൺമണിയെ | Karyam Nisaram | Sujatha Mohan | Kannur Rajan | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=aNQX-7dYok8</id>
-        <link href="https://www.youtube.com/watch?v=aNQX-7dYok8"/>
-        <updated>2025-10-09T10:46:34.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#songoftheday #lailakame #ezra #prithvirajsukumaran #priyaanand #rahulraj #haricharan]]></title>
-        <id>https://www.youtube.com/shorts/ZOoyimIwW2g</id>
-        <link href="https://www.youtube.com/shorts/ZOoyimIwW2g"/>
-        <updated>2025-10-09T10:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണീർ പുഞ്ചിരിയായിമാറ്റുന്ന ഗാനങ്ങൾ #christiansongs #toptracksindia #toptrending]]></title>
-        <id>https://www.youtube.com/watch?v=kOfHsuvMQ7w</id>
-        <link href="https://www.youtube.com/watch?v=kOfHsuvMQ7w"/>
-        <updated>2025-10-09T10:30:34.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവീക അത്ഭുതം   | 😇 | Rev. Aneesh P Joseph | #jinokunnumpurath #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/l33dm0tdKZA</id>
-        <link href="https://www.youtube.com/shorts/l33dm0tdKZA"/>
-        <updated>2025-10-09T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
