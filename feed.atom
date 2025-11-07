@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T07:09:39.000Z</updated>
+    <updated>2025-11-07T08:13:40.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Naadodigal - Aadunga Da Video with Lyrics | Sasikumar, Ananya | Sundar C Babu]]></title>
+        <id>https://www.youtube.com/watch?v=jolhaRG92eU</id>
+        <link href="https://www.youtube.com/watch?v=jolhaRG92eU"/>
+        <updated>2025-11-07T08:00:56.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളി പ്രേക്ഷകർ മനസ്സ് നിറഞ്ഞു കേൾക്കാനിഷ്ടപ്പെടുന്ന സിനിമാഗാനങ്ങൾ |  EVERGREEN HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=gSXuSL3n8mI</id>
+        <link href="https://www.youtube.com/watch?v=gSXuSL3n8mI"/>
+        <updated>2025-11-07T07:30:31.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The audience has spoken — and it’s all Eko everywhere! Thank you for the overwhelming love & reviews]]></title>
+        <id>https://www.youtube.com/shorts/odaZd6Axrn8</id>
+        <link href="https://www.youtube.com/shorts/odaZd6Axrn8"/>
+        <updated>2025-11-07T07:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee Nee Neyente Jeevan | നീ നീ നീയെന്റെ ജീവൻ | Hello My Dear Wrong Number | Mohanlal Movie Song]]></title>
         <id>https://www.youtube.com/shorts/IMbgrB8kpcw</id>
