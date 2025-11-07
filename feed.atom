@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T09:10:21.567Z</updated>
+    <updated>2025-11-07T10:10:57.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thiruvathira Ravu Polum | Kudamattam Movie Songs | Kaithapram | K J Yesudas | Johnson Hits]]></title>
+        <id>https://www.youtube.com/watch?v=hwTfbOJ4NNw</id>
+        <link href="https://www.youtube.com/watch?v=hwTfbOJ4NNw"/>
+        <updated>2025-11-07T09:55:25.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അടഞ്ഞ വഴികൾ തുറക്കുന്ന അത്ഭുത ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs #trending]]></title>
+        <id>https://www.youtube.com/watch?v=sithyISICD0</id>
+        <link href="https://www.youtube.com/watch?v=sithyISICD0"/>
+        <updated>2025-11-07T09:32:05.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naadodigal - Aadunga Da Video with Lyrics | Sasikumar, Ananya | Sundar C Babu]]></title>
         <id>https://www.youtube.com/watch?v=jolhaRG92eU</id>
@@ -42,6 +60,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maayatheeram |  Sreeranjini Kodampally | Bhadra Rajin | Engandiyoor Chandrasekharan | Abhijith]]></title>
+        <id>https://www.youtube.com/watch?v=ahjId6I62HI</id>
+        <link href="https://www.youtube.com/watch?v=ahjId6I62HI"/>
+        <updated>2025-11-07T05:54:11.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -12156,16 +12183,6 @@
         <updated>2025-10-08T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/JnVaXn-1Oys</id>
-        <link href="https://www.youtube.com/shorts/JnVaXn-1Oys"/>
-        <updated>2025-10-08T22:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
