@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T02:23:52.926Z</updated>
+    <updated>2025-11-07T03:36:55.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manassilayiram #BhaskarTheRascal #Lyrical #Reel #movie #song #viral #video #viralshort]]></title>
+        <id>https://www.youtube.com/shorts/az8IbyO2yPE</id>
+        <link href="https://www.youtube.com/shorts/az8IbyO2yPE"/>
+        <updated>2025-11-07T03:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maravidamay | Chithra Arun | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/YdiIGFclQww</id>
@@ -12110,16 +12120,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#matchpointfaith #matchpointcreations #malayalamchristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/WihipbjFzfQ</id>
-        <link href="https://www.youtube.com/shorts/WihipbjFzfQ"/>
-        <updated>2025-10-08T15:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
