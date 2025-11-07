@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T17:08:18.328Z</updated>
+    <updated>2025-11-07T18:13:33.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th November 25]]></title>
+        <id>https://www.youtube.com/watch?v=5MNkysS6Rfw</id>
+        <link href="https://www.youtube.com/watch?v=5MNkysS6Rfw"/>
+        <updated>2025-11-07T18:00:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chakkarakkili | Vellinakshatram  | Cover Video |M Jayachandran |S Ramesan Nair |Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/shorts/W1I43u3Pf9I</id>
@@ -12336,33 +12345,6 @@
         <updated>2025-10-09T06:41:23.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dude - Trailer | Pradeep Ranganatha,Mamitha Baiju| Sai Abhyankkar |Keerthiswaran|Mythri Movie Makers]]></title>
-        <id>https://www.youtube.com/watch?v=x_v9XHfNYnA</id>
-        <link href="https://www.youtube.com/watch?v=x_v9XHfNYnA"/>
-        <updated>2025-10-09T05:37:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parayatharo | Cocktail | Video Song | Jayasurya | Anoop Menon | Arun Kumar Aravind | Alphons Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=oc_Pvuvbxx0</id>
-        <link href="https://www.youtube.com/watch?v=oc_Pvuvbxx0"/>
-        <updated>2025-10-09T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dheeram Promo Song | Indrajith Sukumaran | Manikandan Ayyappa |Murali Gopy |Sithara |Jithin Suresh T]]></title>
-        <id>https://www.youtube.com/watch?v=LLVH5UubxRA</id>
-        <link href="https://www.youtube.com/watch?v=LLVH5UubxRA"/>
-        <updated>2025-10-09T05:22:28.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
