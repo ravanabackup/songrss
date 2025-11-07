@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T21:06:01.105Z</updated>
+    <updated>2025-11-07T22:08:43.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/JCCble9kkEY</id>
+        <link href="https://www.youtube.com/shorts/JCCble9kkEY"/>
+        <updated>2025-11-07T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 8 # Athiravile Prarthana 8th of November 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=lqSiJjvzWfg</id>
@@ -12270,25 +12280,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൊന്‍ വീണേ എന്നുള്ളിന്‍ | Pon Veene | Thalavattam Malayalam Romantic Song | KS Chithra | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=JQcDfhoShCM</id>
-        <link href="https://www.youtube.com/watch?v=JQcDfhoShCM"/>
-        <updated>2025-10-09T09:21:59.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassil Ninnum Manassilekkoru | മനസ്സിൽ നിന്നും മനസ്സിലേക്കൊരു | Kadinjool Kalyanam | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/shorts/O8C13XsoXUU</id>
-        <link href="https://www.youtube.com/shorts/O8C13XsoXUU"/>
-        <updated>2025-10-09T09:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
