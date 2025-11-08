@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T06:12:51.919Z</updated>
+    <updated>2025-11-08T07:08:13.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ വിഷമങ്ങളും മാറും ഈ ഗാനങ്ങൾ കേട്ടാൽ | ‪@JinoKunnumpurathu | #christiansongs #trending]]></title>
+        <id>https://www.youtube.com/watch?v=2dkCq87Pwbc</id>
+        <link href="https://www.youtube.com/watch?v=2dkCq87Pwbc"/>
+        <updated>2025-11-08T06:31:41.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Khalbilulloru Pennanu | One Way Ticket | Video  | Kavya Madhavan | Rahul Raj | Prithviraj]]></title>
         <id>https://www.youtube.com/watch?v=pZzlsthT8Zo</id>
@@ -12109,15 +12118,6 @@
         <link href="https://www.youtube.com/shorts/VEW2ffVAZ9M"/>
         <updated>2025-10-09T22:00:37.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  October 10 # Athiravile Prarthana 10th of October 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=JHmB-74jFmw</id>
-        <link href="https://www.youtube.com/watch?v=JHmB-74jFmw"/>
-        <updated>2025-10-09T19:00:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
