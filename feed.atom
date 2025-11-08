@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T19:04:49.621Z</updated>
+    <updated>2025-11-08T20:08:52.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12305,34 +12305,6 @@
         <updated>2025-10-10T08:14:44.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മമ്മൂക്ക അഭിനയിച്ച സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | HITS OF MAMMOOTTY]]></title>
-        <id>https://www.youtube.com/watch?v=x7TezOOAA7o</id>
-        <link href="https://www.youtube.com/watch?v=x7TezOOAA7o"/>
-        <updated>2025-10-10T07:30:38.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amme Ne thanna Japamala...#mariyansong #sojanparakkal #christiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/ulXhQMF86zU</id>
-        <link href="https://www.youtube.com/shorts/ulXhQMF86zU"/>
-        <updated>2025-10-10T07:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amme Nee Thann Japamala | Sojan Parakkal | Mariyan Video Song Malayalam | Aayudhamam Japamala]]></title>
-        <id>https://www.youtube.com/watch?v=7-fG4xoB47E</id>
-        <link href="https://www.youtube.com/watch?v=7-fG4xoB47E"/>
-        <updated>2025-10-10T07:30:04.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
