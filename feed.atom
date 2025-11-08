@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T14:07:15.990Z</updated>
+    <updated>2025-11-08T15:08:16.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pahadi Paadu | Chakkaramuthu | Good Night Melodies #shortsvideo #shortsfeed #nightsongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/wn3zFb_uIbU</id>
+        <link href="https://www.youtube.com/shorts/wn3zFb_uIbU"/>
+        <updated>2025-11-08T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shyama Vaanil - Video Song Out Now #amozaalexander #nareshiyer #ajuvarghese]]></title>
+        <id>https://www.youtube.com/shorts/BXilbVjK6Xk</id>
+        <link href="https://www.youtube.com/shorts/BXilbVjK6Xk"/>
+        <updated>2025-11-08T14:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകമേമ്പാടും ഏറ്റുപാടിയ സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റ് ഗാനങ്ങൾ!! | #evergreenhits | #super | #hits]]></title>
         <id>https://www.youtube.com/watch?v=0SeWj2qe3G8</id>
@@ -12341,16 +12361,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devdas Sir ✨💜 #mamithabaiju #pradeepranganathan  #saiabhyankkar #dude]]></title>
-        <id>https://www.youtube.com/shorts/xv5nCPiv2kw</id>
-        <link href="https://www.youtube.com/shorts/xv5nCPiv2kw"/>
-        <updated>2025-10-10T02:58:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
