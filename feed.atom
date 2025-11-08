@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T18:11:47.295Z</updated>
+    <updated>2025-11-08T19:04:49.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 9 # Athiravile Prarthana 9th of November 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=sblhOzsOc3c</id>
+        <link href="https://www.youtube.com/watch?v=sblhOzsOc3c"/>
+        <updated>2025-11-08T19:00:49.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th November 25]]></title>
         <id>https://www.youtube.com/watch?v=RSqr4Wz4uEg</id>
@@ -12324,33 +12333,6 @@
         <updated>2025-10-10T07:30:04.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I - Pookkalae Sattru Oyivedungal Video with Lyrics | A. R. Rahman | Vikram]]></title>
-        <id>https://www.youtube.com/watch?v=Uas4Lg_xN9g</id>
-        <link href="https://www.youtube.com/watch?v=Uas4Lg_xN9g"/>
-        <updated>2025-10-10T07:00:35.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neramirulaakunnu Song | Krishnashtami | Ouseppachan | Indulekha Warrier | Abhilash Babu | Jeo Baby]]></title>
-        <id>https://www.youtube.com/watch?v=W2XIBoRxvyQ</id>
-        <link href="https://www.youtube.com/watch?v=W2XIBoRxvyQ"/>
-        <updated>2025-10-10T06:55:31.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Lord Oh God | Jijo John | Gijo Sebastian | Richin Kuzhikkad | Jerriyude Aanmakkal]]></title>
-        <id>https://www.youtube.com/watch?v=nnijLElz1m0</id>
-        <link href="https://www.youtube.com/watch?v=nnijLElz1m0"/>
-        <updated>2025-10-10T06:18:05.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
