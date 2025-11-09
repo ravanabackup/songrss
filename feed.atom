@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T17:07:10.379Z</updated>
+    <updated>2025-11-09T18:11:49.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12059,25 +12059,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naranga Muttayi | നാരങ്ങ മുട്ടായി | Keshu Ee Veedinte Naathan | Dileep | Nadirshah | Audio Song]]></title>
-        <id>https://www.youtube.com/watch?v=mr_Z3nObq18</id>
-        <link href="https://www.youtube.com/watch?v=mr_Z3nObq18"/>
-        <updated>2025-10-11T05:36:13.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dheeram Promo Song Out Now #shorts #MuraliGopy #sitharakrishnakumar #ManikandanAyyappa #indrajith]]></title>
-        <id>https://www.youtube.com/shorts/mqmZZ563ol8</id>
-        <link href="https://www.youtube.com/shorts/mqmZZ563ol8"/>
-        <updated>2025-10-11T05:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
