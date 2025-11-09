@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T14:07:04.043Z</updated>
+    <updated>2025-11-09T15:07:34.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pallathi Meena Pole ft Hanan Shaah| Pongala |Sreenath Bhasi| Ranjin Raj| A B Binil |Harinarayanan BK]]></title>
+        <id>https://www.youtube.com/watch?v=F_O09a3Ma7s</id>
+        <link href="https://www.youtube.com/watch?v=F_O09a3Ma7s"/>
+        <updated>2025-11-09T14:35:13.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അവിടുത്തെ മഹത്വപ്പെടുത്തുവിൻ. | @JinoKunnumpurathu  #shortsprayer #prayer  #shortvideo]]></title>
         <id>https://www.youtube.com/shorts/mH6wpaXNTjI</id>
