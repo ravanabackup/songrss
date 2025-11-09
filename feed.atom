@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T08:10:49.002Z</updated>
+    <updated>2025-11-09T09:08:28.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neeyallo Panchaarakarimbu Video Song | Yogi | Prabhas | Nayanthara | Vidhu Prathap | Preetha]]></title>
+        <id>https://www.youtube.com/watch?v=87dZpL1biTU</id>
+        <link href="https://www.youtube.com/watch?v=87dZpL1biTU"/>
+        <updated>2025-11-09T08:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pannaiyaarum Padminiyum - Onakkaaga Poranthaenae Video with Lyrics | Justin Prabhakaran]]></title>
         <id>https://www.youtube.com/watch?v=bMxb2cDsV6w</id>
