@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T18:11:49.607Z</updated>
+    <updated>2025-11-09T19:05:36.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12031,34 +12031,6 @@
         <updated>2025-10-11T07:30:25.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mankatha - Machi Open the Bottle Video with Lyrics | Ajith, Trisha | Yuvan]]></title>
-        <id>https://www.youtube.com/watch?v=aJjtGJORLIE</id>
-        <link href="https://www.youtube.com/watch?v=aJjtGJORLIE"/>
-        <updated>2025-10-11T07:00:01.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malarum Kiliyum | HD Video | Aattakalasam | Mohanlal | Prem Nazir | Lakshmi - Raveendran Master Hits]]></title>
-        <id>https://www.youtube.com/watch?v=gmqkqvE7xPg</id>
-        <link href="https://www.youtube.com/watch?v=gmqkqvE7xPg"/>
-        <updated>2025-10-11T06:55:37.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[கண்ணுக்குள்ள கனவிருக்க, களமிங்க காத்திருக்க #bisonkaalamadan #mariselvaraj #anupama  #dhruv]]></title>
-        <id>https://www.youtube.com/shorts/Rdb9CwPLuLU</id>
-        <link href="https://www.youtube.com/shorts/Rdb9CwPLuLU"/>
-        <updated>2025-10-11T06:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
