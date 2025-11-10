@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T20:11:22.149Z</updated>
+    <updated>2025-11-10T21:08:47.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11850,34 +11850,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadukodachu Video Song | Mattuppetti Machan | KS Chithra | MG Sreekumar | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=vub_40f8dEY</id>
-        <link href="https://www.youtube.com/watch?v=vub_40f8dEY"/>
-        <updated>2025-10-12T08:30:23.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathe Marikkurumbe | മാനത്തെ മാരിക്കുറുമ്പേ | Pulimurugan | Vani Jairam | Gopi Sundar | Mohanlal]]></title>
-        <id>https://www.youtube.com/shorts/FdyqY6xpT60</id>
-        <link href="https://www.youtube.com/shorts/FdyqY6xpT60"/>
-        <updated>2025-10-12T08:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഴയ സിനിമാപാട്ടുകൾ ❤️🎧| Old Malayalam Songs | Video Jukebox | Malayalam Songs | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7dHW99ebHLM</id>
-        <link href="https://www.youtube.com/watch?v=7dHW99ebHLM"/>
-        <updated>2025-10-12T08:30:03.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
