@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T04:17:31.087Z</updated>
+    <updated>2025-11-10T05:10:43.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11690,16 +11690,6 @@
         <updated>2025-10-11T18:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Karthavil Santhosham… #matchpointfaith #malayalamchristiandevotionalsongs #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/I_ItQxF5gpE</id>
-        <link href="https://www.youtube.com/shorts/I_ItQxF5gpE"/>
-        <updated>2025-10-11T16:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
