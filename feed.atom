@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T07:10:41.599Z</updated>
+    <updated>2025-11-11T08:13:32.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pathu Thala - Raawadi Video with Lyrics | STR | A. R Rahman | Sayyesha Saigal]]></title>
+        <id>https://www.youtube.com/watch?v=n5KjnlRj9Cw</id>
+        <link href="https://www.youtube.com/watch?v=n5KjnlRj9Cw"/>
+        <updated>2025-11-11T08:00:56.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalariyilla Karayariyilla | Kannur | Manoj.K.Jayan | Vani Viswanath | Raveendran Hits | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=Cfejvh_OoKA</id>
+        <link href="https://www.youtube.com/watch?v=Cfejvh_OoKA"/>
+        <updated>2025-11-11T07:55:39.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക്  മറക്കാനാവാത്ത  കേൾക്കാൻ കൊതി തോന്നുന്ന സുഗന്ധ പൂരിത ഗാനങ്ങൾ |Evergreen Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=iPg_QK17fsU</id>
+        <link href="https://www.youtube.com/watch?v=iPg_QK17fsU"/>
+        <updated>2025-11-11T07:30:32.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=FtqWf0lbryM</id>
+        <link href="https://www.youtube.com/watch?v=FtqWf0lbryM"/>
+        <updated>2025-11-11T07:24:10.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിലേക്ക് അലിഞ്ഞിറങ്ങുന്ന മനോഹര ഗാനങ്ങൾ  | @JinoKunnumpurathu   #christmassongs #carolsongs]]></title>
+        <id>https://www.youtube.com/watch?v=_lgHvO0GMT8</id>
+        <link href="https://www.youtube.com/watch?v=_lgHvO0GMT8"/>
+        <updated>2025-11-11T06:32:43.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balle Balle (Nee Pedaman) 4K | Mr. Marumakan  | Dileep Hits | Sanusha | Suresh Peters | Mano]]></title>
         <id>https://www.youtube.com/watch?v=UBCsmMKkJuI</id>
