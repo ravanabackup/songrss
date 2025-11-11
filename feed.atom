@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T22:09:20.332Z</updated>
+    <updated>2025-11-11T23:08:44.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 12 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=DkTmmChQlJU</id>
+        <link href="https://www.youtube.com/watch?v=DkTmmChQlJU"/>
+        <updated>2025-11-11T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/-7LUQFfIGcg</id>
@@ -11865,45 +11874,6 @@
         <updated>2025-10-13T11:19:23.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWARGASTHANAAYA | സങ്കടങ്ങൾ നിമിഷങ്ങൾക്കുള്ളിൽ മാഞ്ഞുപോകും |   @JinoKunnumpurathu  | #shorts #kester]]></title>
-        <id>https://www.youtube.com/shorts/TDSsVZCMY48</id>
-        <link href="https://www.youtube.com/shorts/TDSsVZCMY48"/>
-        <updated>2025-10-13T11:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shake off the Monday blues with some #ShokamVenda moves! 🕺🔥 #SumathiValavu #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/shorts/Tqo3-b4Suzw</id>
-        <link href="https://www.youtube.com/shorts/Tqo3-b4Suzw"/>
-        <updated>2025-10-13T10:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നിന്നെ ഉയർത്തും  | 😇 | Rev. Aneesh P Joseph | #jinokunnumpurath #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/rFj3Kw8Xst0</id>
-        <link href="https://www.youtube.com/shorts/rFj3Kw8Xst0"/>
-        <updated>2025-10-13T10:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അസാധ്യമായതെല്ലാം സാധ്യമാക്കിത്തരുന്ന ഗാനങ്ങൾ  @JinoKunnumpurathu #christiansongs #trending]]></title>
-        <id>https://www.youtube.com/watch?v=-MQz6Cn4kZM</id>
-        <link href="https://www.youtube.com/watch?v=-MQz6Cn4kZM"/>
-        <updated>2025-10-13T10:30:01.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
