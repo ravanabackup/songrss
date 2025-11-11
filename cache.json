@@ -2944,6 +2944,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pgzlLvLvT7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgzlLvLvT7Q",
+          "publishedOn": "2025-11-11T19:00:54.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന  November 12 # Athiravile Prarthana 12th of November 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WqT9RhbY8lk",
           "author": null,
           "description": "",
@@ -7074,16 +7084,6 @@
           "wordCount": 2100,
           "title": "വിശ്വം കാക്കുന്ന നാഥാ #christianshorts #jesuschristiansong  #yesudassongs #christianmusic  #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/zLkBC10UXvs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/zLkBC10UXvs",
-          "publishedOn": "2025-10-13T06:57:45.000Z",
-          "wordCount": 2300,
-          "title": "നൂറുസൂര്യനുദായമാർന്നപോലെ #jesuschrist #jesussong #christianshorts #christianmusic #prayer #short",
-          "imageUrl": null
         }
       ]
     },
@@ -9912,26 +9912,6 @@
           "publishedOn": "2025-10-14T07:00:10.000Z",
           "wordCount": null,
           "title": "Paiya - Adada Mazhaida Video with Lyrics | Karthi | Yuvan Shankar Raja",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CopPKg8u6mQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CopPKg8u6mQ",
-          "publishedOn": "2025-10-13T07:00:13.000Z",
-          "wordCount": null,
-          "title": "Bun Butter Jam - Oli Thedi Video Song | Raju | Nivas K Prasanna",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1KOCUaM-Ak0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1KOCUaM-Ak0",
-          "publishedOn": "2025-10-13T07:00:02.000Z",
-          "wordCount": null,
-          "title": "Thangamagan - Enna Solla Video with Lyrics | Anirudh Ravichander | Dhanush, Samantha",
           "imageUrl": null
         }
       ]
