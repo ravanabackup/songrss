@@ -3004,6 +3004,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/vNKZFJiQ7sQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/vNKZFJiQ7sQ",
+          "publishedOn": "2025-11-12T22:01:06.000Z",
+          "wordCount": 2381,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BRuj60uYbxQ",
           "author": null,
           "description": "",
@@ -10363,6 +10373,16 @@
           "publishedOn": "2025-10-30T10:18:42.000Z",
           "wordCount": null,
           "title": "Jeevante Jeevanaam Koottukaara |  East Coast Vijayan | M Jayachandran | Sujatha Mohan | Ormakkai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3E2ptxZ_-Oc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3E2ptxZ_-Oc",
+          "publishedOn": "2025-10-14T11:30:06.000Z",
+          "wordCount": null,
+          "title": "Ninakkai Thozhee | East Coast Vijayan | Balabhaskar | Biju Narayanan | Ninakkai | Lyrical Video",
           "imageUrl": null
         }
       ]
