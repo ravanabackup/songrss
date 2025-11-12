@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T08:13:54.162Z</updated>
+    <updated>2025-11-12T09:11:59.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Mk-qVV1sBIo</id>
+        <link href="https://www.youtube.com/watch?v=Mk-qVV1sBIo"/>
+        <updated>2025-11-12T08:42:12.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comali - Hi Sonna Podhum Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
+        <id>https://www.youtube.com/watch?v=UoKEaGpdiRw</id>
+        <link href="https://www.youtube.com/watch?v=UoKEaGpdiRw"/>
+        <updated>2025-11-12T08:00:40.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉന്നം മറന്നു തെന്നിപ്പറന്ന HD | Unnam Marannu | In Harihar Nagar | Malayalam Film Song |Siddique Lal]]></title>
         <id>https://www.youtube.com/watch?v=snPxih2-MjQ</id>
