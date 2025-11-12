@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T02:25:11.366Z</updated>
+    <updated>2025-11-12T03:38:41.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11723,35 +11723,6 @@
         <updated>2025-10-13T18:00:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Worship Songs Mashup… #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
-        <id>https://www.youtube.com/shorts/jxFdz2pZPAs</id>
-        <link href="https://www.youtube.com/shorts/jxFdz2pZPAs"/>
-        <updated>2025-10-13T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Ashwasame Ennikkere #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
-        <id>https://www.youtube.com/shorts/IBj3GD6AyvQ</id>
-        <link href="https://www.youtube.com/shorts/IBj3GD6AyvQ"/>
-        <updated>2025-10-13T14:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bison Kaalaamadan - Trailer | Dhruv, Anupama Parameswaran | Mari Selvaraj | Nivas K Prasanna]]></title>
-        <id>https://www.youtube.com/watch?v=GPwRRVdzkdc</id>
-        <link href="https://www.youtube.com/watch?v=GPwRRVdzkdc"/>
-        <updated>2025-10-13T14:30:04.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
