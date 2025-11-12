@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T20:11:02.067Z</updated>
+    <updated>2025-11-12T21:09:00.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11904,25 +11904,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninakkai Thozhee | East Coast Vijayan | Balabhaskar | Biju Narayanan | Ninakkai | Lyrical Video]]></title>
-        <id>https://www.youtube.com/watch?v=3E2ptxZ_-Oc</id>
-        <link href="https://www.youtube.com/watch?v=3E2ptxZ_-Oc"/>
-        <updated>2025-10-14T09:06:31.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poyikayil Kulir Poyikayil | പൊയ്കയിൽ കുളിർ പൊയ്കയിൽ | Rajashilpi Movie | KJ Yesudas | Raveendran]]></title>
-        <id>https://www.youtube.com/shorts/izirepgbIh8</id>
-        <link href="https://www.youtube.com/shorts/izirepgbIh8"/>
-        <updated>2025-10-14T08:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
