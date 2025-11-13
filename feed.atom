@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T04:15:37.005Z</updated>
+    <updated>2025-11-13T05:10:17.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Konnappookkal | Oro Viliyum Kathorthu | Mukesh | Suma Menon | KS Chithra | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=eHSAdVLKfTg</id>
+        <link href="https://www.youtube.com/watch?v=eHSAdVLKfTg"/>
+        <updated>2025-11-13T04:30:27.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thamarapoovilayalum | താമരപ്പൂവിലായാലും...| Swarnapakshikal | Janaki | Raveendran Master | Old Song]]></title>
         <id>https://www.youtube.com/shorts/OCU1FUjU2CU</id>
