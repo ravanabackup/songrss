@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T12:18:51.025Z</updated>
+    <updated>2025-11-13T13:25:44.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athi Bheekara Kaamukan - Sneak Peek | Lukman | Drishya | CC Nithin, Gautham Thaniyil | Bibin Ashok]]></title>
+        <id>https://www.youtube.com/watch?v=VeEZufCJ3YQ</id>
+        <link href="https://www.youtube.com/watch?v=VeEZufCJ3YQ"/>
+        <updated>2025-11-13T13:13:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolver Rita - Official Trailer | Keerthy Suresh | Radhika Sarathkumar | Sean Roldan | JK Chandru]]></title>
+        <id>https://www.youtube.com/watch?v=fN2vG0ZfCW8</id>
+        <link href="https://www.youtube.com/watch?v=fN2vG0ZfCW8"/>
+        <updated>2025-11-13T13:12:31.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannuneer Puzhayude Theerathu Song | Prithviraj | Ambili Devi | K S Chithra | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=OXGmlKVqJ_4</id>
+        <link href="https://www.youtube.com/watch?v=OXGmlKVqJ_4"/>
+        <updated>2025-11-13T13:09:17.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neer Palunkukal Video Song | Godfather | Mukesh | Kanaka | MG Sreekumar | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=8EG4_euJhxA</id>
+        <link href="https://www.youtube.com/watch?v=8EG4_euJhxA"/>
+        <updated>2025-11-13T12:37:18.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadhan Vararayi | Kester | Prathyasha Geethangal | Christian Melody Songs | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qoJ1E4tuq7s</id>
+        <link href="https://www.youtube.com/watch?v=qoJ1E4tuq7s"/>
+        <updated>2025-11-13T12:31:19.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Johny Mone Johny ABCD #shortsfeed #dulquersalmaan #gopisundar #shortsvideo #shorts]]></title>
         <id>https://www.youtube.com/shorts/Vpx0Z4Xw9tI</id>
@@ -11876,15 +11921,6 @@
         <updated>2025-10-15T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയം തകർന്നവർക്ക് ഏറെ ആശ്വാസം പകരുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Songs Malayalam | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=qhKd9_WA2zk</id>
-        <link href="https://www.youtube.com/watch?v=qhKd9_WA2zk"/>
-        <updated>2025-10-15T00:30:44.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
