@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T08:13:22.978Z</updated>
+    <updated>2025-11-13T09:11:12.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaromal Kunjurangu | ആരോമൽ കുഞ്ഞുറങ്ങ്‌...| Ente Enteth Mathram | P Susheela Song | Johnson Lullaby]]></title>
+        <id>https://www.youtube.com/shorts/k9KwFtREbXk</id>
+        <link href="https://www.youtube.com/shorts/k9KwFtREbXk"/>
+        <updated>2025-11-13T09:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mersal - Mersal Arasan Video with Lyrics | Vijay | A.R. Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=0VHZjb16aRU</id>
+        <link href="https://www.youtube.com/watch?v=0VHZjb16aRU"/>
+        <updated>2025-11-13T08:00:02.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaromal Kunjurangu | ആരോമൽ കുഞ്ഞുറങ്ങ്‌...| Ente Enteth Mathram | P Susheela Song | Johnson Lullaby]]></title>
         <id>https://www.youtube.com/watch?v=uKIulC3s_eo</id>
