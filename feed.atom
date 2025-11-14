@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T14:09:28.533Z</updated>
+    <updated>2025-11-14T15:09:35.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/55FWe7FnpB0</id>
+        <link href="https://www.youtube.com/shorts/55FWe7FnpB0"/>
+        <updated>2025-11-14T14:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niramazhayil Neelimayil Video Song 4K | One Man Show | Suresh Peters | Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=TZOaDzp1HYA</id>
+        <link href="https://www.youtube.com/watch?v=TZOaDzp1HYA"/>
+        <updated>2025-11-14T14:11:14.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cricket Song - Song of the day!]]></title>
         <id>https://www.youtube.com/shorts/jS6pNM3wAP0</id>
