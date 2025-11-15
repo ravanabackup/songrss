@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-15T22:06:26.456Z</updated>
+    <updated>2025-11-15T23:08:54.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 16 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=AdEP1_MQwt0</id>
+        <link href="https://www.youtube.com/watch?v=AdEP1_MQwt0"/>
+        <updated>2025-11-15T22:30:07.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/6Rr2PazIZtU</id>
@@ -11939,35 +11948,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nizhalay |  ഈശോയുടെ മനോഹര ക്രിസ്‌തീയ ഗാനം | @JinoKunnumpurathu | #shorts #toptrending]]></title>
-        <id>https://www.youtube.com/shorts/NwnOdwJ4EbQ</id>
-        <link href="https://www.youtube.com/shorts/NwnOdwJ4EbQ"/>
-        <updated>2025-10-17T11:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒടുവിലെ യാത്രയ്ക്കായിന്ന് | Oduvile Yathrakayinnu | Georgettans Pooram | Rajalakshmi | Gopi Sundar]]></title>
-        <id>https://www.youtube.com/watch?v=kND_t2aGOfA</id>
-        <link href="https://www.youtube.com/watch?v=kND_t2aGOfA"/>
-        <updated>2025-10-17T10:35:52.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നിനക്കായി ഇടപെടും  | 😇 | Rev. Aneesh P Joseph | #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/7YUqj7QJHtM</id>
-        <link href="https://www.youtube.com/shorts/7YUqj7QJHtM"/>
-        <updated>2025-10-17T10:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
