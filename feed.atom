@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-15T07:08:14.486Z</updated>
+    <updated>2025-11-15T08:11:17.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I - Mersalaayitten Video with Lyrics | A.R. Rahman | Vikram, Amy Jackson]]></title>
+        <id>https://www.youtube.com/watch?v=kbMYpBe2DFE</id>
+        <link href="https://www.youtube.com/watch?v=kbMYpBe2DFE"/>
+        <updated>2025-11-15T08:01:03.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാവരും ഒരേ സ്വരത്തിൽ അംഗീകരിച്ച ചിത്ര ചേച്ചിയുടെ ഏറ്റവും നല്ല ഗാനങ്ങൾ | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=lRl5AR2wHCQ</id>
+        <link href="https://www.youtube.com/watch?v=lRl5AR2wHCQ"/>
+        <updated>2025-11-15T07:30:27.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithra Madhurikkumo Premam | ഇത്ര മധുരിക്കുമോ പ്രേമം...| Five Star Hospital | KJ Yesudas | Evergreen]]></title>
+        <id>https://www.youtube.com/watch?v=KquMVtHRQxA</id>
+        <link href="https://www.youtube.com/watch?v=KquMVtHRQxA"/>
+        <updated>2025-11-15T07:19:58.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pallathi Meena Pole]]></title>
         <id>https://www.youtube.com/shorts/auYh_Ohs7uk</id>
@@ -1726,6 +1753,15 @@
         <updated>2025-11-11T04:30:01.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mindattam | Oru Wayanadan Katha |Video| Basheer K | Ameer Basheer | Rafeeq Ahammed | Pramod Sarang]]></title>
+        <id>https://www.youtube.com/watch?v=QLQiv17yphY</id>
+        <link href="https://www.youtube.com/watch?v=QLQiv17yphY"/>
+        <updated>2025-11-11T04:04:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
