@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T22:08:26.186Z</updated>
+    <updated>2025-11-16T23:08:38.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 17 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=k-AvWLoS-mU</id>
+        <link href="https://www.youtube.com/watch?v=k-AvWLoS-mU"/>
+        <updated>2025-11-16T22:30:09.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/yqMad2QXwDE</id>
+        <link href="https://www.youtube.com/shorts/yqMad2QXwDE"/>
+        <updated>2025-11-16T22:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 17 # Athiravile Prarthana 17th of November 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=6isA9525vNk</id>
@@ -11790,53 +11809,6 @@
         <updated>2025-10-18T11:08:34.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthran Thamburan |Aksa Jose |Antony Paul Keerampilly |Vineesh Issac |  @JinoKunnumpurathu#shorts]]></title>
-        <id>https://www.youtube.com/shorts/U8SYpH211dY</id>
-        <link href="https://www.youtube.com/shorts/U8SYpH211dY"/>
-        <updated>2025-10-18T11:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vara Chandralekha Video Song | Kilukil Pamparam | Gireesh Puthenchery | KJ Yesudas | SP Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=Di6ZNgO1u5U</id>
-        <link href="https://www.youtube.com/watch?v=Di6ZNgO1u5U"/>
-        <updated>2025-10-18T10:44:31.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രകാശം പരത്തുന്നവർ  | 😇 | Rev. Aneesh P Joseph | #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/dI-hFaK-534</id>
-        <link href="https://www.youtube.com/shorts/dI-hFaK-534"/>
-        <updated>2025-10-18T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സഹനങ്ങളിൽ തളരാതെ മുന്നേറാൻ ഈ ഗാനങ്ങൾ സഹായിക്കും @JinoKunnumpurathu#toptrending]]></title>
-        <id>https://www.youtube.com/watch?v=DFeAuDRJpOQ</id>
-        <link href="https://www.youtube.com/watch?v=DFeAuDRJpOQ"/>
-        <updated>2025-10-18T10:30:09.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaanada Kannu | The Pet Detective | Sharaf U Dheen | Praneesh Vijayan | Rajesh Murugesan | Vedan]]></title>
-        <id>https://www.youtube.com/watch?v=dW8E50rkLXc</id>
-        <link href="https://www.youtube.com/watch?v=dW8E50rkLXc"/>
-        <updated>2025-10-18T10:30:02.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
