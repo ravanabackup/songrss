@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T10:09:03.341Z</updated>
+    <updated>2025-11-16T11:07:13.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vanil Ninnum Daivaputhran | അതിമനോഹരമായ ക്രിസ്മസ് ഗാനം |   @JinoKunnumpurathu  | #shorts #christmas]]></title>
+        <id>https://www.youtube.com/shorts/p5ZkMAIsCZA</id>
+        <link href="https://www.youtube.com/shorts/p5ZkMAIsCZA"/>
+        <updated>2025-11-16T11:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം വിശ്വസ്തനാണ്   | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
+        <id>https://www.youtube.com/shorts/Lu0DCC_ulHw</id>
+        <link href="https://www.youtube.com/shorts/Lu0DCC_ulHw"/>
+        <updated>2025-11-16T10:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Vattam Koodi | Madhu Balakrishnan | Kester | Job Kurien | Wilson Piravom | Daleema | Radhika]]></title>
+        <id>https://www.youtube.com/watch?v=ufpdP-Tw0JI</id>
+        <link href="https://www.youtube.com/watch?v=ufpdP-Tw0JI"/>
+        <updated>2025-11-16T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വാതിൽ തുറക്കൂ നീ കാലമേ..| Vaathil Thurakkoo Nee | Five Star Hospital | KJ Yesudas | Bombay Ravi Hits]]></title>
         <id>https://www.youtube.com/shorts/g1y7tv2EwcQ</id>
@@ -510,6 +539,15 @@
         <updated>2025-11-15T05:04:05.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathira Promo Song | Dheeram | Jithin Suresh T | Manikandan Ayyappa | The Imbachi | Sruthy Sivadas]]></title>
+        <id>https://www.youtube.com/watch?v=JNcPPcI5SG4</id>
+        <link href="https://www.youtube.com/watch?v=JNcPPcI5SG4"/>
+        <updated>2025-11-15T04:35:10.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -11789,15 +11827,6 @@
         <updated>2025-10-17T23:30:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൊന്തമാസം, ഒക്‌ടോബർ: 17, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
-        <id>https://www.youtube.com/watch?v=3CbigRDoshg</id>
-        <link href="https://www.youtube.com/watch?v=3CbigRDoshg"/>
-        <updated>2025-10-17T22:30:00.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
