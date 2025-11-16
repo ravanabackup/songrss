@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T00:50:13.003Z</updated>
+    <updated>2025-11-16T02:42:08.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve Rakshadayaka | യേശുവേ രക്ഷാദായക | Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/dLjc6RVBBtI</id>
+        <link href="https://www.youtube.com/shorts/dLjc6RVBBtI"/>
+        <updated>2025-11-16T02:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yesuvin Snehathin #manoramamusic #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/FZVQNbFl-a8</id>
+        <link href="https://www.youtube.com/shorts/FZVQNbFl-a8"/>
+        <updated>2025-11-16T01:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രിയ ഗായകൻ മാർക്കോസിന്റെ സമാധാന പ്രിയ ഗാനങ്ങൾ | KG Markose | Christian Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=_MpjmqYrIY8</id>
@@ -11808,52 +11828,6 @@
         <updated>2025-10-17T14:45:07.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilaveyil - Song of the day!]]></title>
-        <id>https://www.youtube.com/shorts/A2c2d52jnkk</id>
-        <link href="https://www.youtube.com/shorts/A2c2d52jnkk"/>
-        <updated>2025-10-17T14:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nidhiyum Bhoothavum - Official Teaser | Anish G Menon, Ashwath Lal | Sajan Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=nVBGDMKESoY</id>
-        <link href="https://www.youtube.com/watch?v=nVBGDMKESoY"/>
-        <updated>2025-10-17T13:37:50.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലോകം മുഴുവൻ കാതോർത്തിരിക്കുന്ന കേൾക്കാൻ സുഖമുള്ള ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Superhit Songs]]></title>
-        <id>https://www.youtube.com/watch?v=SydJV7erRWU</id>
-        <link href="https://www.youtube.com/watch?v=SydJV7erRWU"/>
-        <updated>2025-10-17T13:30:28.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bison Kaalamaadan Team Podcast | Think Pod - Episode 7]]></title>
-        <id>https://www.youtube.com/watch?v=9iK1fQQkTis</id>
-        <link href="https://www.youtube.com/watch?v=9iK1fQQkTis"/>
-        <updated>2025-10-17T13:28:23.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sindoora Sandhye Parayoo Song | Deepasthambam Mahascharyam | Dileep | K J Yesudas | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=rAREetO0z2Y</id>
-        <link href="https://www.youtube.com/watch?v=rAREetO0z2Y"/>
-        <updated>2025-10-17T13:01:50.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
         </author>
     </entry>
 </feed>
