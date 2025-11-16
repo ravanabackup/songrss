@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T04:15:57.217Z</updated>
+    <updated>2025-11-16T05:09:08.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വാതിൽ തുറക്കൂ നീ കാലമേ..| Vaathil Thurakkoo Nee | Five Star Hospital | KJ Yesudas | Bombay Ravi Hits]]></title>
+        <id>https://www.youtube.com/watch?v=999Av_o5qKs</id>
+        <link href="https://www.youtube.com/watch?v=999Av_o5qKs"/>
+        <updated>2025-11-16T04:30:11.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yeshuve Rakshadayaka | യേശുവേ രക്ഷാദായക | Christian Devotional song malayalam | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/dLjc6RVBBtI</id>
@@ -2121,6 +2130,15 @@
         <updated>2025-11-11T04:30:01.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vadakkumala|Oru Wayanadan Katha|Baiju Ezhupunna|BasheerK|Ameer Basheer|Rafeeq Ellikkal|Pramod Sarang]]></title>
+        <id>https://www.youtube.com/watch?v=CBuD4nHsLO8</id>
+        <link href="https://www.youtube.com/watch?v=CBuD4nHsLO8"/>
+        <updated>2025-11-11T04:10:59.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
