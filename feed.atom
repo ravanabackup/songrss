@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-17T20:11:02.140Z</updated>
+    <updated>2025-11-17T21:09:01.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11815,25 +11815,6 @@
         <updated>2025-10-19T09:09:45.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payyannur Pavithram 4K Video Song | Kaalchilambu | Samvrutha Sunil| Vineeth |KS Chithra | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=tArdsVuWcOQ</id>
-        <link href="https://www.youtube.com/watch?v=tArdsVuWcOQ"/>
-        <updated>2025-10-19T08:30:34.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ayyayyayyo | അയ്യയ്യയ്യോ അയ്യയ്യയ്യോ | Kasaba Movie | Mammootty | Gayathri Suresh | Superhit Song]]></title>
-        <id>https://www.youtube.com/shorts/9GBkqRKZ00U</id>
-        <link href="https://www.youtube.com/shorts/9GBkqRKZ00U"/>
-        <updated>2025-10-19T08:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
