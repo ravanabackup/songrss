@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T22:09:05.907Z</updated>
+    <updated>2025-11-18T23:08:52.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 19 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=eGMzBoY0m0s</id>
+        <link href="https://www.youtube.com/watch?v=eGMzBoY0m0s"/>
+        <updated>2025-11-18T22:30:13.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/25xh9fzWQak</id>
@@ -11855,45 +11864,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KURISHINTE VAZHIYIL | ഈശോയുടെ മനോഹര ക്രിസ്‌തീയ ഗാനം  |  @JinoKunnumpurathu   | #shorts #hits]]></title>
-        <id>https://www.youtube.com/shorts/RCvYmQ6UgLg</id>
-        <link href="https://www.youtube.com/shorts/RCvYmQ6UgLg"/>
-        <updated>2025-10-20T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഞാൻ ഭയപ്പെടില്ല !  | 😇 | Rev. Aneesh P Joseph | #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/dvtq3xJQanM</id>
-        <link href="https://www.youtube.com/shorts/dvtq3xJQanM"/>
-        <updated>2025-10-20T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അന്നും ഇന്നും അത്ഭുതമായിമാറിയ ഗാനങ്ങൾ   @JinoKunnumpurathu  #toptrending #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=EosIxIY4_LM</id>
-        <link href="https://www.youtube.com/watch?v=EosIxIY4_LM"/>
-        <updated>2025-10-20T10:30:16.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adi satham varum munnala, Singam varum pinnala #GodMode from #Karuppu is out now the roar has begun.]]></title>
-        <id>https://www.youtube.com/shorts/-4SAjAFm4b4</id>
-        <link href="https://www.youtube.com/shorts/-4SAjAFm4b4"/>
-        <updated>2025-10-20T10:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
