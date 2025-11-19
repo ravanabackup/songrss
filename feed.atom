@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T07:10:24.181Z</updated>
+    <updated>2025-11-19T08:13:37.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സുരേഷ്‌ഗോപി ചിത്രത്തിലെ മനം കവർന്ന സിനിമാഗാനങ്ങൾ |  HITS OF SURESHGOPI]]></title>
+        <id>https://www.youtube.com/watch?v=thDLGg-ykBY</id>
+        <link href="https://www.youtube.com/watch?v=thDLGg-ykBY"/>
+        <updated>2025-11-19T07:30:37.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാനത്തെ ചന്ദിരനൊത്തൊരു | Maanathe Chandiranothoru | Chandralekha Movie Song | Mohanlal | Sreenivasan]]></title>
         <id>https://www.youtube.com/watch?v=MK1pviND2a8</id>
@@ -13,6 +22,15 @@
         <updated>2025-11-19T07:01:58.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആത്മാവിൽ മുട്ടിവിളിക്കുന്ന ഗാനങ്ങൾ @JinoKunnumpurathu  #christmassongs #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/watch?v=KHjz1EpD8aA</id>
+        <link href="https://www.youtube.com/watch?v=KHjz1EpD8aA"/>
+        <updated>2025-11-19T06:33:02.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
