@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T19:07:39.099Z</updated>
+    <updated>2025-11-19T20:09:43.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11957,24 +11957,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എപ്പോൾ കേട്ടാലും മനസിന് കുളിരു പകരുന്ന ചേതോഹരമാം സിനിമാഗാനങ്ങൾ | EVERGREEN HITS]]></title>
-        <id>https://www.youtube.com/watch?v=olYoUXKv0XM</id>
-        <link href="https://www.youtube.com/watch?v=olYoUXKv0XM"/>
-        <updated>2025-10-21T07:50:30.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സിലെന്തേ മയില്‍പ്പീലി | Manasilenthe Mayilpeeli | Kattathoru Penpoovu Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=qBCJ_9Ry2VU</id>
-        <link href="https://www.youtube.com/watch?v=qBCJ_9Ry2VU"/>
-        <updated>2025-10-21T07:17:06.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
