@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T20:09:43.012Z</updated>
+    <updated>2025-11-19T21:07:41.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11928,35 +11928,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Kurisheduthen Yeshuvine.. #matchpointfaith #malayalamchristiandevotionalsongs #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/eFlik8beD0I</id>
-        <link href="https://www.youtube.com/shorts/eFlik8beD0I"/>
-        <updated>2025-10-21T09:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=XPTldOZi4rg</id>
-        <link href="https://www.youtube.com/watch?v=XPTldOZi4rg"/>
-        <updated>2025-10-21T09:03:41.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The soulful romantic track Athishayam is trending now on YouTube! 💞🎵 #innocent]]></title>
-        <id>https://www.youtube.com/shorts/50Hvmu5IQxU</id>
-        <link href="https://www.youtube.com/shorts/50Hvmu5IQxU"/>
-        <updated>2025-10-21T08:20:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
