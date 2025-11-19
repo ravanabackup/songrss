@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T09:11:02.893Z</updated>
+    <updated>2025-11-19T10:10:57.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daivame Thriyekane | Christian Devotional Shorts #shorts]]></title>
+        <id>https://www.youtube.com/shorts/Zq6K73NIMsc</id>
+        <link href="https://www.youtube.com/shorts/Zq6K73NIMsc"/>
+        <updated>2025-11-19T10:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meghatherirangum | മേഘത്തേരിറങ്ങും | Sooryamanasam | KS Chithra | MM Keeravani | Mammootty Movie]]></title>
+        <id>https://www.youtube.com/shorts/cZjfyvOQFwI</id>
+        <link href="https://www.youtube.com/shorts/cZjfyvOQFwI"/>
+        <updated>2025-11-19T09:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nilave Nee Paadumo | നിലാവേ നീ പാടുമോ...| ATM Movie | Swetha Mohan | Antony John | Romantic Song]]></title>
         <id>https://www.youtube.com/watch?v=J9tf6Xs7vpE</id>
@@ -134,6 +154,15 @@
         <updated>2025-11-19T04:49:21.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kodamanjin | Oru Wayanadan Katha | Basheer K| Ameer Basheer| Rafeeq Ellikkal|Pramod Sarang|Bhagyaraj]]></title>
+        <id>https://www.youtube.com/watch?v=qLRvlIZ5H2I</id>
+        <link href="https://www.youtube.com/watch?v=qLRvlIZ5H2I"/>
+        <updated>2025-11-19T04:45:56.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -11860,16 +11889,6 @@
         <updated>2025-10-20T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/W8GylxhPUtM</id>
-        <link href="https://www.youtube.com/shorts/W8GylxhPUtM"/>
-        <updated>2025-10-20T22:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
