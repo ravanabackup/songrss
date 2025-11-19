@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T12:18:42.374Z</updated>
+    <updated>2025-11-19T13:24:49.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kavalakunna Sneham | Nithya Mammen | Christian Shorts #KavalakunnaSneham #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/mo1I1opR5U0</id>
+        <link href="https://www.youtube.com/shorts/mo1I1opR5U0"/>
+        <updated>2025-11-19T13:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunukku Penmaniye Video Song | Mister Butle | Innocent | Dileep | KS Chithra | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=zDfoK1d3luQ</id>
+        <link href="https://www.youtube.com/watch?v=zDfoK1d3luQ"/>
+        <updated>2025-11-19T13:02:07.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Esa Kaaththa | My Lord | Sasikumar | Chaithra J Achar | Sean Roldan | Raju Murugan]]></title>
+        <id>https://www.youtube.com/watch?v=2hGEiQg9X_g</id>
+        <link href="https://www.youtube.com/watch?v=2hGEiQg9X_g"/>
+        <updated>2025-11-19T12:36:24.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹത്തിൽ വേരൂന്നിയ ക്രിസ്തീയ ഗാനങ്ങൾ | Kester | Prathyasha Geethangal | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=rlQ80ZYIQIo</id>
+        <link href="https://www.youtube.com/watch?v=rlQ80ZYIQIo"/>
+        <updated>2025-11-19T12:31:18.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AmbalamukkileVisheshangal |Movie Teaser| Gokul Suresh | Ganapati | Jayaram Kailas | Chand Creations]]></title>
+        <id>https://www.youtube.com/watch?v=5GVgDPaXhYE</id>
+        <link href="https://www.youtube.com/watch?v=5GVgDPaXhYE"/>
+        <updated>2025-11-19T12:02:55.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melle Chiriche - Video Song | Athi Bheekara Kaamukan | Sajeer Koppam | Bibin Ashok | Lukman |Drishya]]></title>
         <id>https://www.youtube.com/watch?v=o7yZ8y8Vod8</id>
@@ -11946,16 +11992,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargapithavam Daivame | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/pnzPU24tefM</id>
-        <link href="https://www.youtube.com/shorts/pnzPU24tefM"/>
-        <updated>2025-10-21T01:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
