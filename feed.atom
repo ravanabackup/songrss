@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-20T06:14:34.153Z</updated>
+    <updated>2025-11-20T07:10:16.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cham Cham | Lyrical + Karaoke  Video | Mallu Singh | Shreya Ghoshal | K J Yesudas | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=eKvQWiZXiYk</id>
+        <link href="https://www.youtube.com/watch?v=eKvQWiZXiYk"/>
+        <updated>2025-11-20T06:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അൾത്താരയിൽ സ്നേഹ പുഷ്പാഞ്ജലി #christianshorts #christianmusic #christianworshipsong #churchmusic]]></title>
+        <id>https://www.youtube.com/shorts/rpOajpVsNqQ</id>
+        <link href="https://www.youtube.com/shorts/rpOajpVsNqQ"/>
+        <updated>2025-11-20T06:27:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravinte Ekantha Video Song| Pongala |Sreenath Bhasi, Yami Sona| Ranjin Raj| A B Binil |Rafeeq Ahamed]]></title>
+        <id>https://www.youtube.com/watch?v=YiOHNzJxMBk</id>
+        <link href="https://www.youtube.com/watch?v=YiOHNzJxMBk"/>
+        <updated>2025-11-20T06:12:03.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asmani Paani | Aami | Video | Manju Warrier | Murali Gopi |Tovino Thomas | Kamal | Shreya Ghoshal]]></title>
         <id>https://www.youtube.com/watch?v=ljeZgW1dBq0</id>
@@ -11788,25 +11816,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 22 # Athiravile Prarthana 22nd October 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=0l0xbkeRR5c</id>
-        <link href="https://www.youtube.com/watch?v=0l0xbkeRR5c"/>
-        <updated>2025-10-21T19:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 MILLION+ have witnessed the roar. 🔥 #GodMode storms in at #1 trending on YouTube! 🏇⚡️🖤]]></title>
-        <id>https://www.youtube.com/shorts/_ngbO3h4wwQ</id>
-        <link href="https://www.youtube.com/shorts/_ngbO3h4wwQ"/>
-        <updated>2025-10-21T18:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
