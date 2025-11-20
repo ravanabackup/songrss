@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-20T07:10:16.856Z</updated>
+    <updated>2025-11-20T08:14:04.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nashta Swargangale | നഷ്ടസ്വർഗങ്ങളെ...| Veenapoovu | KJ Yesudas | Sreekumaran Thampi | Old Melody]]></title>
+        <id>https://www.youtube.com/shorts/sWjnR-iZgzw</id>
+        <link href="https://www.youtube.com/shorts/sWjnR-iZgzw"/>
+        <updated>2025-11-20T08:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വീണ്ടും കേൾക്കാൻ മനസാഗ്രഹിക്കുന്ന മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=Teeh8LR6j7c</id>
+        <link href="https://www.youtube.com/watch?v=Teeh8LR6j7c"/>
+        <updated>2025-11-20T07:30:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nashta Swargangale | നഷ്ടസ്വർഗങ്ങളെ...| Veenapoovu | KJ Yesudas | Sreekumaran Thampi | Old Melody]]></title>
+        <id>https://www.youtube.com/watch?v=USr-W9BDFkk</id>
+        <link href="https://www.youtube.com/watch?v=USr-W9BDFkk"/>
+        <updated>2025-11-20T07:19:15.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cham Cham | Lyrical + Karaoke  Video | Mallu Singh | Shreya Ghoshal | K J Yesudas | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=eKvQWiZXiYk</id>
