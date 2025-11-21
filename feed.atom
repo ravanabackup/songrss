@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-21T22:08:59.919Z</updated>
+    <updated>2025-11-21T23:08:44.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നവംബർ: 22 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=AH_RLnBkTzY</id>
+        <link href="https://www.youtube.com/watch?v=AH_RLnBkTzY"/>
+        <updated>2025-11-21T22:30:05.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/aiupoTKkE88</id>
@@ -1075,6 +1084,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attumanal Payayil | Lyrical Video | Mohanalal | Joshiy | Run Baby Run | December 5 | Re Release]]></title>
+        <id>https://www.youtube.com/watch?v=uieMsToaGW8</id>
+        <link href="https://www.youtube.com/watch?v=uieMsToaGW8"/>
+        <updated>2025-11-19T10:08:51.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -11953,35 +11971,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONNUMILLAYMAYIL | ഹൃദയത്തിൽ ആഴത്തിൽ പതിഞ്ഞ ഗാനം |    @JinoKunnumpurathu | #shorts #kesterhits]]></title>
-        <id>https://www.youtube.com/shorts/0IxZUMauqek</id>
-        <link href="https://www.youtube.com/shorts/0IxZUMauqek"/>
-        <updated>2025-10-23T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തോട് ചേർന്നുനിൽക്കാൻ നമ്മെ സഹായിക്കുന്ന ഗാനങ്ങൾ ⁨@JinoKunnumpurathu⁩  #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=nROqHwsiZ70</id>
-        <link href="https://www.youtube.com/watch?v=nROqHwsiZ70"/>
-        <updated>2025-10-23T10:30:41.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മൂല്യമില്ലാത്ത ഇടങ്ങൾ  | 😇 | Rev. Aneesh P Joseph | #shorts  #motivation #trending]]></title>
-        <id>https://www.youtube.com/shorts/bHsdtKoaYQA</id>
-        <link href="https://www.youtube.com/shorts/bHsdtKoaYQA"/>
-        <updated>2025-10-23T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
