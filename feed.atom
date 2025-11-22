@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T06:13:04.336Z</updated>
+    <updated>2025-11-22T07:08:21.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mazhathullikal Video Song | Vettom | MG Sreekumar | Berny Ignatius | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=WXTqOGw_09U</id>
+        <link href="https://www.youtube.com/watch?v=WXTqOGw_09U"/>
+        <updated>2025-11-22T07:00:26.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Sannidhanam | Evugin Emmanuel #EvuginEmmanuel #manoramachristiandevotionalsongs #GeorgePeter]]></title>
+        <id>https://www.youtube.com/shorts/59sN1ho2_iw</id>
+        <link href="https://www.youtube.com/shorts/59sN1ho2_iw"/>
+        <updated>2025-11-22T06:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dil Hey Mera Dil Hey| Indrajalam | Video Song | Ft.Mohanlal | S.P.Venkitesh | S.P.Balasubramanyam]]></title>
         <id>https://www.youtube.com/watch?v=WzjqRqh-d4g</id>
@@ -11853,15 +11872,6 @@
         <link href="https://www.youtube.com/shorts/EKO-ZFl8DJs"/>
         <updated>2025-10-23T22:00:14.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 24 # Athiravile Prarthana 24th October 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=I5gZtLcEw-c</id>
-        <link href="https://www.youtube.com/watch?v=I5gZtLcEw-c"/>
-        <updated>2025-10-23T19:00:27.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
