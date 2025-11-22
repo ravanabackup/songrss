@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T05:09:12.979Z</updated>
+    <updated>2025-11-22T06:13:04.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dil Hey Mera Dil Hey| Indrajalam | Video Song | Ft.Mohanlal | S.P.Venkitesh | S.P.Balasubramanyam]]></title>
+        <id>https://www.youtube.com/watch?v=WzjqRqh-d4g</id>
+        <link href="https://www.youtube.com/watch?v=WzjqRqh-d4g"/>
+        <updated>2025-11-22T06:12:07.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chempakapoo I  Anjana S Kumar  #folksong #nadanpattukal #shortsfeed #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/cbAqz86MboQ</id>
+        <link href="https://www.youtube.com/shorts/cbAqz86MboQ"/>
+        <updated>2025-11-22T05:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=tNzBFe_BC0Y</id>
@@ -11843,15 +11862,6 @@
         <id>https://www.youtube.com/watch?v=I5gZtLcEw-c</id>
         <link href="https://www.youtube.com/watch?v=I5gZtLcEw-c"/>
         <updated>2025-10-23T19:00:27.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th October 25]]></title>
-        <id>https://www.youtube.com/watch?v=tnqJoeyv5t8</id>
-        <link href="https://www.youtube.com/watch?v=tnqJoeyv5t8"/>
-        <updated>2025-10-23T18:01:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
