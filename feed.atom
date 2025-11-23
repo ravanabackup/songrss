@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T07:09:02.098Z</updated>
+    <updated>2025-11-23T08:12:03.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nin Mounam Athiloru Gaanam | നിൻ മൗനം അതിലൊരു ഗാനം | Ente Entethu Mathram | MG Sreekumar | Karthika]]></title>
+        <id>https://www.youtube.com/shorts/qONIOr1TjGw</id>
+        <link href="https://www.youtube.com/shorts/qONIOr1TjGw"/>
+        <updated>2025-11-23T08:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vinnaithaandi Varuvaayaa - Anbil Avan Video with Lyrics | A.R. Rahman | STR, Trisha]]></title>
+        <id>https://www.youtube.com/watch?v=0AY5AXD7CcA</id>
+        <link href="https://www.youtube.com/watch?v=0AY5AXD7CcA"/>
+        <updated>2025-11-23T08:00:01.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaana Mullal | Salt N' Pepper #asifali #bijibal #shreyaghoshal #shortsfeed #shortsvideo #reels]]></title>
         <id>https://www.youtube.com/shorts/yLYrGSAIBjc</id>
