@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T20:10:57.142Z</updated>
+    <updated>2025-11-24T21:09:10.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11976,16 +11976,6 @@
         <updated>2025-10-26T09:23:07.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargangal Swapnam Kannum | Malootty | സ്വർഗ്ഗങ്ങൾ സ്വപ്നം കാണും | G Venugopal | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/shorts/FDrX7Dv0xd0</id>
-        <link href="https://www.youtube.com/shorts/FDrX7Dv0xd0"/>
-        <updated>2025-10-26T09:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
