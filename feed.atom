@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T09:13:26.942Z</updated>
+    <updated>2025-11-24T10:11:55.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Thari Kasthoori | ഒരു തരി കസ്തൂരി | Highway | Swarnalatha | Suresh Gopi |  Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=VVhn3WymJN0</id>
+        <link href="https://www.youtube.com/watch?v=VVhn3WymJN0"/>
+        <updated>2025-11-24T09:30:15.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maanathe Maanikyakkunninmel HD Video Song | Odaruthammava Aalariyam Movie Song | Janakidevi]]></title>
         <id>https://www.youtube.com/watch?v=OvKHD_ExNSc</id>
@@ -11836,16 +11845,6 @@
         <updated>2025-10-25T22:30:12.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/tjFzsAEGvTU</id>
-        <link href="https://www.youtube.com/shorts/tjFzsAEGvTU"/>
-        <updated>2025-10-25T22:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
