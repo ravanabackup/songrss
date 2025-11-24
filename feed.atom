@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T07:10:42.555Z</updated>
+    <updated>2025-11-24T08:15:00.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vanakkam Chennai - Oh Penne Video with Lyrics | Anirudh Ravichander | Shiva, Priya Anand]]></title>
+        <id>https://www.youtube.com/watch?v=RtGTJhux8c0</id>
+        <link href="https://www.youtube.com/watch?v=RtGTJhux8c0"/>
+        <updated>2025-11-24T08:00:37.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fall in love with the melody of Ravinte Ekantha — Streaming now! 💖🎶 #pongala]]></title>
+        <id>https://www.youtube.com/shorts/dMtvxkbmR-Y</id>
+        <link href="https://www.youtube.com/shorts/dMtvxkbmR-Y"/>
+        <updated>2025-11-24T07:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളാരും ഇന്നേവരെ മറക്കാത്ത കേൾക്കാൻ സുഖമുള്ള പഴയ മെലഡി ഗാനങ്ങൾ  | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=n2l814L2QrQ</id>
+        <link href="https://www.youtube.com/watch?v=n2l814L2QrQ"/>
+        <updated>2025-11-24T07:30:24.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളിമനസ്സുകൾ തിരഞ്ഞെടുത്ത മനോഹരഗാനങ്ങൾ | @JinoKunnumpurathu  #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=mOoCtOmxBtg</id>
+        <link href="https://www.youtube.com/watch?v=mOoCtOmxBtg"/>
+        <updated>2025-11-24T07:11:09.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദേവീ ശ്രീദേവീ | Devi Sridevi | Premabhshekam Movie Song | Kamal Haasan Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=3iy9mKGaB6Y</id>
+        <link href="https://www.youtube.com/watch?v=3iy9mKGaB6Y"/>
+        <updated>2025-11-24T07:10:48.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pranayakadha Paadivannu Deepasthambham Mahascharyam Video Song | Mohan Sitara | Dileep Hits]]></title>
         <id>https://www.youtube.com/watch?v=iuSNv9KHMKU</id>
