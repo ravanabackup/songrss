@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T07:11:26.293Z</updated>
+    <updated>2025-11-25T08:14:39.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yennai Arindhaal - Adhaaru Adhaaru Video with Lyrics | Ajith, Trisha | Harris Jayaraj]]></title>
+        <id>https://www.youtube.com/watch?v=Y6gaW8357sc</id>
+        <link href="https://www.youtube.com/watch?v=Y6gaW8357sc"/>
+        <updated>2025-11-25T08:00:45.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പുതുതലമുറക്ക് കേൾക്കാൻ ഇഷ്ടമുള്ള പഴയ ഹിറ്റ് സിനിമാഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=U-rGsusmF5g</id>
+        <link href="https://www.youtube.com/watch?v=U-rGsusmF5g"/>
+        <updated>2025-11-25T07:35:17.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്നെ പേരുചൊല്ലി വിളിച്ചു നീ...|  Aarum Kothikkum...| Aradhya | #remix  #christianshorts | #jesus]]></title>
+        <id>https://www.youtube.com/shorts/LQAEcM-qFJY</id>
+        <link href="https://www.youtube.com/shorts/LQAEcM-qFJY"/>
+        <updated>2025-11-25T07:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈഗാനങ്ങൾകേട്ട് രക്ഷപെട്ടത് ഒത്തിരിപേർ  | @JinoKunnumpurathu  #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=7f_yC77tSdg</id>
+        <link href="https://www.youtube.com/watch?v=7f_yC77tSdg"/>
+        <updated>2025-11-25T07:01:20.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aswasageethangal | Edakoodam Band  #manoramachristiandevotionalsongs #shorts]]></title>
         <id>https://www.youtube.com/shorts/URN26vrjvr4</id>
