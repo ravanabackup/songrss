@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T12:19:46.549Z</updated>
+    <updated>2025-11-25T13:26:32.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thottin Karakkari Song | Saavithriyude Aranjaanam | Kalabhavan Mani | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=NukxYznuzTg</id>
+        <link href="https://www.youtube.com/watch?v=NukxYznuzTg"/>
+        <updated>2025-11-25T13:00:49.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readya Maaran - Chill Trap | The Independeners | Hello Mummy | Dabzee, Zia Ul Haq, Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=sv81HjRItG8</id>
+        <link href="https://www.youtube.com/watch?v=sv81HjRItG8"/>
+        <updated>2025-11-25T12:31:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevante Jeevanam Enneshunadha....#sreyajayadeep #christiandevotionalsongs #jojijohnschristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/gmaJDPUjLjI</id>
+        <link href="https://www.youtube.com/shorts/gmaJDPUjLjI"/>
+        <updated>2025-11-25T12:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorgavaasal - Original Score | RJ Balaji | Selvaraghavan | Sidharth Vishwanath | Christo Xavier]]></title>
+        <id>https://www.youtube.com/watch?v=5ldb711F_Xw</id>
+        <link href="https://www.youtube.com/watch?v=5ldb711F_Xw"/>
+        <updated>2025-11-25T12:30:09.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevithakalam | Biju Narayanan | Kester | Wilson Piravom | Gagul Joseph | Elizabeth Raju | Anoop]]></title>
+        <id>https://www.youtube.com/watch?v=Yughunl9ou8</id>
+        <link href="https://www.youtube.com/watch?v=Yughunl9ou8"/>
+        <updated>2025-11-25T12:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muttathe Munthiri Cheppe | Maanikyan Song |  K S Chithra | Kalabavan Mani| Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=mJ_LLQASytc</id>
+        <link href="https://www.youtube.com/watch?v=mJ_LLQASytc"/>
+        <updated>2025-11-25T12:22:17.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mullapoovaniyum | മുല്ലപ്പൂവണിയും പ്രിയതേ | Kodathi | K J Yesudas | Poovachal Khader | Mammootty]]></title>
         <id>https://www.youtube.com/shorts/8wQBoTSQV14</id>
@@ -11942,16 +11997,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Dileep | Karineela Kannilenthedi #shortsvideo #shortsfeed #reels #malayalamfilmsongs]]></title>
-        <id>https://www.youtube.com/shorts/gR3CU6oEiPg</id>
-        <link href="https://www.youtube.com/shorts/gR3CU6oEiPg"/>
-        <updated>2025-10-27T00:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
