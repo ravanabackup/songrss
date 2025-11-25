@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T15:11:03.063Z</updated>
+    <updated>2025-11-25T16:12:45.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulkkoottil #nithyamammen #PulkkoottilUnni #frsajiarackal https://youtu.be/1jLpYkErlns]]></title>
+        <id>https://www.youtube.com/shorts/yB31EddnRfU</id>
+        <link href="https://www.youtube.com/shorts/yB31EddnRfU"/>
+        <updated>2025-11-25T15:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulkkoottil Unni Kanchimmunnu | Nithya Mammen #nithyamammen #PulkkoottilUnni #frsajiarackal]]></title>
         <id>https://www.youtube.com/shorts/b1rcgtLOaRA</id>
@@ -12036,15 +12046,6 @@
         <updated>2025-10-27T04:30:38.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=8YBAx84kcf8</id>
-        <link href="https://www.youtube.com/watch?v=8YBAx84kcf8"/>
-        <updated>2025-10-27T04:08:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
