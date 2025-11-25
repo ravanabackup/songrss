@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T17:11:06.449Z</updated>
+    <updated>2025-11-25T18:15:07.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th November 25]]></title>
+        <id>https://www.youtube.com/watch?v=i80-AZrriDQ</id>
+        <link href="https://www.youtube.com/watch?v=i80-AZrriDQ"/>
+        <updated>2025-11-25T18:01:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulkkoottil #nithyamammen #PulkkoottilUnni #frsajiarackal https://youtu.be/1jLpYkErlns]]></title>
         <id>https://www.youtube.com/shorts/yB31EddnRfU</id>
@@ -11991,52 +12000,6 @@
         <updated>2025-10-27T07:38:49.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennilaakkombile Video Song | Ustaad | KJ Yesudas | Sujatha Mohan | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=MmLE5LyGZ5Y</id>
-        <link href="https://www.youtube.com/watch?v=MmLE5LyGZ5Y"/>
-        <updated>2025-10-27T05:38:03.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K For Kabaradakkam - 8K Video | Guruvayoorambala Nadayil | Prithviraj | Basil | Asal Kolaar]]></title>
-        <id>https://www.youtube.com/watch?v=jwE22hnF704</id>
-        <link href="https://www.youtube.com/watch?v=jwE22hnF704"/>
-        <updated>2025-10-27T05:30:32.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Dileep | Njan Kanavil  #shortsvideo #shortsfeed #reels #malayalamfilmsongs]]></title>
-        <id>https://www.youtube.com/shorts/lOA-0MwJo08</id>
-        <link href="https://www.youtube.com/shorts/lOA-0MwJo08"/>
-        <updated>2025-10-27T05:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mele Meghangal | Rajavazhcha Movie Song | M.G. Sreekumar| Chithra | Johnson Hits | Poovachal Khadar]]></title>
-        <id>https://www.youtube.com/watch?v=ItXzCBpF4_I</id>
-        <link href="https://www.youtube.com/watch?v=ItXzCBpF4_I"/>
-        <updated>2025-10-27T05:20:39.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dBPMDip1sKY</id>
-        <link href="https://www.youtube.com/watch?v=dBPMDip1sKY"/>
-        <updated>2025-10-27T05:17:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
