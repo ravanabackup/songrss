@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-26T12:19:54.398Z</updated>
+    <updated>2025-11-26T13:27:33.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thamburu Kulirchoodiyo Video Song | Soorya Gayathri | Mohanlal | Urvashi | KJ Yesudas | KS Chitra]]></title>
+        <id>https://www.youtube.com/watch?v=d0v_FMO-KFg</id>
+        <link href="https://www.youtube.com/watch?v=d0v_FMO-KFg"/>
+        <updated>2025-11-26T13:07:21.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Puzhayum Sandhyakalum 4K Video Song | Indian Rupee | Prithviraj | Vijay Yesudas | Shahabaz Aman]]></title>
+        <id>https://www.youtube.com/watch?v=nKZN4QLVtC8</id>
+        <link href="https://www.youtube.com/watch?v=nKZN4QLVtC8"/>
+        <updated>2025-11-26T13:01:40.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thenum Vayambum - Lofi Sleep | Chris Wayne | Thenum Vayambum | Raveendran | K. J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=b1ThlOkpVGk</id>
+        <link href="https://www.youtube.com/watch?v=b1ThlOkpVGk"/>
+        <updated>2025-11-26T12:43:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മന്ത്രമെന്നാല്‍ ഒരു മന്ത്രം | Manthramennal oru Manthram |  #ayyappadevotional #ayyappaswamysongs]]></title>
+        <id>https://www.youtube.com/shorts/5qN2LcjEE9Q</id>
+        <link href="https://www.youtube.com/shorts/5qN2LcjEE9Q"/>
+        <updated>2025-11-26T12:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjinte Marayitta | മഞ്ഞിന്റെ മറയിട്ട | KS Chithra | Mazha Movie | Samyuktha Varma | Raveendran]]></title>
         <id>https://www.youtube.com/shorts/oJWCoPBoTXw</id>
@@ -14,6 +51,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rekka Rekka Video Song | Bison Kaalamaadan | Dhruv | Mari Selvaraj | Nivas K Prasanna | Arivu |Vedan]]></title>
+        <id>https://www.youtube.com/watch?v=uGa84o73EVU</id>
+        <link href="https://www.youtube.com/watch?v=uGa84o73EVU"/>
+        <updated>2025-11-26T11:56:32.000Z</updated>
+        <author>
+            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
@@ -11887,25 +11933,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Nayikkum Nalloridayan | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/7lrBTuMXh_g</id>
-        <link href="https://www.youtube.com/shorts/7lrBTuMXh_g"/>
-        <updated>2025-10-28T01:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innallenkil Nale | Marichavarude Orma Songs | Gagul Joseph | Sunny Panniyarkutty | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=1CnLaMuM94c</id>
-        <link href="https://www.youtube.com/watch?v=1CnLaMuM94c"/>
-        <updated>2025-10-28T00:30:03.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
