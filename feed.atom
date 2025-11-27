@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T12:18:47.651Z</updated>
+    <updated>2025-11-27T13:24:49.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nanmakal Erum Nadu Video Song | KJ Yesudas | Janapriyan | Jayasurya]]></title>
+        <id>https://www.youtube.com/watch?v=k40QDtI7u00</id>
+        <link href="https://www.youtube.com/watch?v=k40QDtI7u00"/>
+        <updated>2025-11-27T13:01:30.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mada Prave Vaa - Chillhop | EternaLove | Madanolsavam | K. J. Yesudas | Salil Chowdhury]]></title>
+        <id>https://www.youtube.com/watch?v=xW0ejXB_Be0</id>
+        <link href="https://www.youtube.com/watch?v=xW0ejXB_Be0"/>
+        <updated>2025-11-27T12:44:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam Vilikunnu...#christiandevotionalsongs #oldtraditionalsongs #christianmelodysongs]]></title>
+        <id>https://www.youtube.com/shorts/yOhzksp1F6g</id>
+        <link href="https://www.youtube.com/shorts/yOhzksp1F6g"/>
+        <updated>2025-11-27T12:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varthinkalal Maril Video Song | Pallavoor Devanarayanan | Raveendran | KJ Yesudas | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=SmXlpbG_ycg</id>
@@ -11906,16 +11934,6 @@
         <updated>2025-10-29T04:23:03.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Nayikkum Nalloridayan | Christian Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/UAWDff3HpOI</id>
-        <link href="https://www.youtube.com/shorts/UAWDff3HpOI"/>
-        <updated>2025-10-29T01:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
