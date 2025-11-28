@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T21:08:05.976Z</updated>
+    <updated>2025-11-28T22:08:23.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/uWXlCm_M00Y</id>
+        <link href="https://www.youtube.com/shorts/uWXlCm_M00Y"/>
+        <updated>2025-11-28T22:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന November 29 # Athiravile Prarthana 29th November 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=8hSGw4kuZEI</id>
@@ -11751,35 +11761,6 @@
         <updated>2025-10-30T10:18:42.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthikkunnu Nadha | Sheeba Thomas | Rajesh Aruvacode | Sherly Babu | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lNxc4oAwlZM</id>
-        <link href="https://www.youtube.com/watch?v=lNxc4oAwlZM"/>
-        <updated>2025-10-30T10:07:08.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunju Manasin Nobaram... #christiandevotionalsongs #newmariyanvideosong #miahkutty]]></title>
-        <id>https://www.youtube.com/shorts/skRjPQoLsPY</id>
-        <link href="https://www.youtube.com/shorts/skRjPQoLsPY"/>
-        <updated>2025-10-30T10:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moham Pole Megham | മോഹം പോലെ മേഘം | Njan Pirannanattil | KJ Yesudas | KS Chithra | Poovachal Khader]]></title>
-        <id>https://www.youtube.com/shorts/Nt9ajMfEISE</id>
-        <link href="https://www.youtube.com/shorts/Nt9ajMfEISE"/>
-        <updated>2025-10-30T09:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
