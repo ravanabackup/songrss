@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T03:38:34.328Z</updated>
+    <updated>2025-11-28T04:13:09.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Priyathame Shakunthale | Kanaka Simhasanam  #Lyrical #Reel #movie #song #viral #video #viralshort]]></title>
+        <id>https://www.youtube.com/shorts/vFjhPvuVVVI</id>
+        <link href="https://www.youtube.com/shorts/vFjhPvuVVVI"/>
+        <updated>2025-11-28T03:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinneyum Pinneyum | Christian Devotional Shorts #shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/5GV6pf92ino</id>
