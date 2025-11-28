@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T18:13:37.292Z</updated>
+    <updated>2025-11-28T19:07:10.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന November 29 # Athiravile Prarthana 29th November 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=8hSGw4kuZEI</id>
+        <link href="https://www.youtube.com/watch?v=8hSGw4kuZEI"/>
+        <updated>2025-11-28T19:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 29th November 25]]></title>
         <id>https://www.youtube.com/watch?v=VrPj2rhvv24</id>
@@ -11808,25 +11817,6 @@
         <updated>2025-10-30T07:10:41.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💕 Turn up the feels!#NeramPularave – The heart-touching vibe from Sadar Nedumangad. #outnow]]></title>
-        <id>https://www.youtube.com/shorts/P6_0tuWsZwA</id>
-        <link href="https://www.youtube.com/shorts/P6_0tuWsZwA"/>
-        <updated>2025-10-30T07:04:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nenjin Ezhuth - Video with Lyrics | Deepika Venkatachalam | Adarsh Krishnan N]]></title>
-        <id>https://www.youtube.com/watch?v=uMY4H1Dlebk</id>
-        <link href="https://www.youtube.com/watch?v=uMY4H1Dlebk"/>
-        <updated>2025-10-30T07:01:02.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
