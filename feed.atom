@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T07:10:43.859Z</updated>
+    <updated>2025-11-28T08:14:27.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yentha Vaadu Gaanie - Neekem Kaavaalo Cheppu Video Song | Ajith Kumar, Harris Jayaraj]]></title>
+        <id>https://www.youtube.com/watch?v=Zc2hWn67ZPk</id>
+        <link href="https://www.youtube.com/watch?v=Zc2hWn67ZPk"/>
+        <updated>2025-11-28T08:00:56.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിനെ വേറേതോ ലോകത്തേക്ക് കൊണ്ടുപോകുന്ന മനം കുളിരും സിനിമാഗാനങ്ങൾ |  SOULFUL SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=2gV3wwan1kg</id>
+        <link href="https://www.youtube.com/watch?v=2gV3wwan1kg"/>
+        <updated>2025-11-28T07:30:04.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chaithram Chaayam Chaalichu | ചൈത്രം ചായം ചാലിച്ചു..| Chillu Movie | Yesudas Song | ONV Hit | Melody]]></title>
         <id>https://www.youtube.com/shorts/TzTQTAPPMjQ</id>
