@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T08:14:27.411Z</updated>
+    <updated>2025-11-28T09:11:10.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 11 #shorts #malayalamsongs #feelgoodmusic]]></title>
+        <id>https://www.youtube.com/shorts/cam3yLTqj9g</id>
+        <link href="https://www.youtube.com/shorts/cam3yLTqj9g"/>
+        <updated>2025-11-28T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎼 Filled with feeling and wrapped in melody, Thaane Mounam shines as today’s Song of the Day.]]></title>
+        <id>https://www.youtube.com/shorts/c8CVam_Y_tY</id>
+        <link href="https://www.youtube.com/shorts/c8CVam_Y_tY"/>
+        <updated>2025-11-28T08:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yentha Vaadu Gaanie - Neekem Kaavaalo Cheppu Video Song | Ajith Kumar, Harris Jayaraj]]></title>
         <id>https://www.youtube.com/watch?v=Zc2hWn67ZPk</id>
