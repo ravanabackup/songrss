@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T16:11:27.453Z</updated>
+    <updated>2025-11-28T17:08:19.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11892,16 +11892,6 @@
         <updated>2025-10-30T05:21:54.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The #Singari energy just hit your screens🕺🏻#pradeepranganathan #saiabhyankkar #dude]]></title>
-        <id>https://www.youtube.com/shorts/n8X2nC1uD1I</id>
-        <link href="https://www.youtube.com/shorts/n8X2nC1uD1I"/>
-        <updated>2025-10-30T04:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
