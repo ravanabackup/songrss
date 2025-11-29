@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T19:07:04.275Z</updated>
+    <updated>2025-11-29T20:09:41.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11777,34 +11777,6 @@
         <updated>2025-10-31T09:49:00.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poovine Kandu Njan | പൂവിനെ കണ്ടു ഞാൻ | Mukundhetta Sumithra Vilikyunnu | MG Sreekumar | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=0VllZtPKxNw</id>
-        <link href="https://www.youtube.com/watch?v=0VllZtPKxNw"/>
-        <updated>2025-10-31T07:59:54.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സംഗീത പ്രേമികളായ ഓരോ മലയാളികളും എന്നും കേൾക്കാൻ ഇഷ്ട്ടപെടുന്ന ||മനോഹര ഗാനങ്ങൾ  | Evergreen Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jkEBydJDgWE</id>
-        <link href="https://www.youtube.com/watch?v=jkEBydJDgWE"/>
-        <updated>2025-10-31T07:30:35.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#christiandevotionalsongs #newmariyanvideosongs #miahkutty #jojijohnschristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/WYaV4VHUgTk</id>
-        <link href="https://www.youtube.com/shorts/WYaV4VHUgTk"/>
-        <updated>2025-10-31T07:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
