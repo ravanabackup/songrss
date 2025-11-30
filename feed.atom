@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T19:07:17.311Z</updated>
+    <updated>2025-11-30T20:10:13.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11654,34 +11654,6 @@
         <updated>2025-11-01T08:28:40.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾ ഏറെ സ്നേഹിക്കുന്ന എംജി ശ്രീകുമാറിന്റെ എക്കാലത്തെയും മികച്ച ഗാനങ്ങൾ | Hits of MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=4w9mvfWtO3I</id>
-        <link href="https://www.youtube.com/watch?v=4w9mvfWtO3I"/>
-        <updated>2025-11-01T07:30:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassum Manassum | മനസ്സും മനസ്സും | Avidathe Pole Ivideyum | KJ Yesudas | P Bhaskaran Master Song]]></title>
-        <id>https://www.youtube.com/shorts/pz6S7E9C9Iw</id>
-        <link href="https://www.youtube.com/shorts/pz6S7E9C9Iw"/>
-        <updated>2025-11-01T07:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=td1T8rHKqvc</id>
-        <link href="https://www.youtube.com/watch?v=td1T8rHKqvc"/>
-        <updated>2025-11-01T07:19:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
