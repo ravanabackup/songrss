@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T13:18:08.635Z</updated>
+    <updated>2025-11-30T14:08:17.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നമുക്ക് വേണ്ടി ഏൽപ്പിക്കപ്പെട്ട കർത്താവ് | @JinoKunnumpurathu | #shortsprayer #prayer  #shortvideo]]></title>
+        <id>https://www.youtube.com/shorts/pXkFVkFf9c0</id>
+        <link href="https://www.youtube.com/shorts/pXkFVkFf9c0"/>
+        <updated>2025-11-30T13:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മരിയ പാടി തകർത്ത ഒരു അഡാർ ക്രിസ്മസ് ഗാനം!! | #christmas | #evergreenhits | #christmassongs | #hits]]></title>
+        <id>https://www.youtube.com/watch?v=XQ1jc-cs25o</id>
+        <link href="https://www.youtube.com/watch?v=XQ1jc-cs25o"/>
+        <updated>2025-11-30T13:30:35.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echo - Song of the day!]]></title>
+        <id>https://www.youtube.com/shorts/LTQawie8bTI</id>
+        <link href="https://www.youtube.com/shorts/LTQawie8bTI"/>
+        <updated>2025-11-30T13:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pathirakkili Swapnam Kanum #manoramachristiandevotionalsongs #shorts #ChristmasSong  #NewCarol2025]]></title>
         <id>https://www.youtube.com/shorts/gcPUnPHsFqQ</id>
@@ -11641,16 +11670,6 @@
         <updated>2025-11-01T04:27:58.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathalame Maraname | Shorts #libinscaria #PathalameMaraname #manoramamusic #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/yro16HJnfz0</id>
-        <link href="https://www.youtube.com/shorts/yro16HJnfz0"/>
-        <updated>2025-11-01T01:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
