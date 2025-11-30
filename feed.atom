@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T22:08:44.049Z</updated>
+    <updated>2025-11-30T23:08:48.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡിസംബർ: 01 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
+        <id>https://www.youtube.com/watch?v=_WXi1lO7CM8</id>
+        <link href="https://www.youtube.com/watch?v=_WXi1lO7CM8"/>
+        <updated>2025-11-30T22:30:12.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/y6fWhtp18UU</id>
@@ -11588,55 +11597,6 @@
         <updated>2025-11-01T11:25:01.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OZHUKUM PUZHAYORE | മനം നിറയുന്ന ഗാനം |@JinoKunnumpurathu   | #shorts]]></title>
-        <id>https://www.youtube.com/shorts/kYfMFk5nCUo</id>
-        <link href="https://www.youtube.com/shorts/kYfMFk5nCUo"/>
-        <updated>2025-11-01T11:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful music video from Sadar Nedumangad]]></title>
-        <id>https://www.youtube.com/shorts/MRNdTLl43vU</id>
-        <link href="https://www.youtube.com/shorts/MRNdTLl43vU"/>
-        <updated>2025-11-01T10:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അറിയപ്പെടുന്ന ഒരു ദിവസം  | 😇 | Rev. Aneesh P Joseph |#motivation #trending  #shortvideo]]></title>
-        <id>https://www.youtube.com/shorts/BroZEIB08pk</id>
-        <link href="https://www.youtube.com/shorts/BroZEIB08pk"/>
-        <updated>2025-11-01T10:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneerum Dukhangalum | Biju Narayanan | Kester | Gagul Joseph | Wilson Piravom | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=mceJD4HE-r0</id>
-        <link href="https://www.youtube.com/watch?v=mceJD4HE-r0"/>
-        <updated>2025-11-01T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amoz Alexander Official Trailer Out Now #shorts #ajuvarghese #jafferidukki]]></title>
-        <id>https://www.youtube.com/shorts/2qQ-AGDFY0Q</id>
-        <link href="https://www.youtube.com/shorts/2qQ-AGDFY0Q"/>
-        <updated>2025-11-01T10:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
