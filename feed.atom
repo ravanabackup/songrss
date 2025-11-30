@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T21:08:19.595Z</updated>
+    <updated>2025-11-30T22:08:44.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/y6fWhtp18UU</id>
+        <link href="https://www.youtube.com/shorts/y6fWhtp18UU"/>
+        <updated>2025-11-30T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 1 # Athiravile Prarthana 1st December 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=fQX2nJTMVYY</id>
@@ -11627,24 +11637,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ബാഗി ജീൻസും | Baggy Jeansum | Sainyam Malayalam Movie  Superhit Song | Mammootty | Vikram]]></title>
-        <id>https://www.youtube.com/watch?v=woy8GVZlib0</id>
-        <link href="https://www.youtube.com/watch?v=woy8GVZlib0"/>
-        <updated>2025-11-01T10:01:07.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Thankathaaram HD Video Song | Nagarathil Samsaaravishayam Malayalam Movie Song | Unni Menon]]></title>
-        <id>https://www.youtube.com/watch?v=WLM8qv88yT0</id>
-        <link href="https://www.youtube.com/watch?v=WLM8qv88yT0"/>
-        <updated>2025-11-01T09:20:46.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
