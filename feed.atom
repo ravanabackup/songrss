@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T07:14:02.810Z</updated>
+    <updated>2025-12-01T08:16:22.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yentha Vaadu Gaanie - Bangaru Bangaru Video Song | Ajith Kumar, Harris Jayaraj]]></title>
+        <id>https://www.youtube.com/watch?v=mtG1I4BW1H0</id>
+        <link href="https://www.youtube.com/watch?v=mtG1I4BW1H0"/>
+        <updated>2025-12-01T08:01:06.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#songoftheday #vinnilethaarame #sadarnedumangad #karthik #shorts]]></title>
         <id>https://www.youtube.com/shorts/Ammntido3Zw</id>
@@ -14,6 +23,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആത്മാവിന്റെ ആഴങ്ങളെ തൊട്ടുണർത്തുന്നഗാനങ്ങൾ | @JinoKunnumpurathu #malayalamchristiansong #songs]]></title>
+        <id>https://www.youtube.com/watch?v=txhqLp6z9no</id>
+        <link href="https://www.youtube.com/watch?v=txhqLp6z9no"/>
+        <updated>2025-12-01T07:07:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
