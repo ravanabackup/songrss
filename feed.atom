@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T03:04:00.278Z</updated>
+    <updated>2025-12-01T04:39:51.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuliradunnu Maanath | Olangal | KJ Yesudas | Ambika | Ilaiyaraja | ONV Kurupp]]></title>
+        <id>https://www.youtube.com/watch?v=AknJ7ew3OVk</id>
+        <link href="https://www.youtube.com/watch?v=AknJ7ew3OVk"/>
+        <updated>2025-12-01T04:30:10.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulkkoottil #nithyamammen #PulkkoottilUnni #frsajiarackal]]></title>
         <id>https://www.youtube.com/shorts/HpzKmjEWG2I</id>
@@ -11496,15 +11505,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഴപോലെ പെയ്തിറങ്ങിയ ഗാനങ്ങൾ  | EVERGREEN MALAYALAM FILM HITS | K J YESUDAS]]></title>
-        <id>https://www.youtube.com/watch?v=jPD9v2igYtc</id>
-        <link href="https://www.youtube.com/watch?v=jPD9v2igYtc"/>
-        <updated>2025-11-01T15:45:03.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
