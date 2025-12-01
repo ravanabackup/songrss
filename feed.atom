@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T21:08:03.304Z</updated>
+    <updated>2025-12-01T22:08:10.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/TLjX-Gnx-OI</id>
+        <link href="https://www.youtube.com/shorts/TLjX-Gnx-OI"/>
+        <updated>2025-12-01T22:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 2 # Athiravile Prarthana 2nd December 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=iwflPUNRFSA</id>
@@ -11528,16 +11538,6 @@
         <updated>2025-11-02T10:30:11.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala pally perunnal 2025 l Parumala Thirumeni #parumalapally #parumalathirumeni]]></title>
-        <id>https://www.youtube.com/shorts/XsSeYIxaG3o</id>
-        <link href="https://www.youtube.com/shorts/XsSeYIxaG3o"/>
-        <updated>2025-11-02T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
