@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T00:47:32.903Z</updated>
+    <updated>2025-12-02T02:29:09.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pathirakkili SwapnamKanum | Christmas Carol 2025 - https://youtu.be/jjWY-F-OVtw #ChristmasSong]]></title>
+        <id>https://www.youtube.com/shorts/jeJ2Idh48UY</id>
+        <link href="https://www.youtube.com/shorts/jeJ2Idh48UY"/>
+        <updated>2025-12-02T01:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kandittum Kandittum Madhiverunnilla | കണ്ടിട്ടും കണ്ടിട്ടും മതിവരുന്നില്ല | Ayyappan Devotional Song]]></title>
         <id>https://www.youtube.com/watch?v=Ylh6jI2YFOg</id>
@@ -11439,54 +11449,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konnadi Penne - Audio Song | Nadhikalil Sundari Yamuna | Aju Varghese | Arun Muraleedharan]]></title>
-        <id>https://www.youtube.com/watch?v=8DjoDf8ADFU</id>
-        <link href="https://www.youtube.com/watch?v=8DjoDf8ADFU"/>
-        <updated>2025-11-02T14:19:43.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാലം കടന്നുപോയാലും ഈ പാട്ടിന് പഴക്കം വരില്ല 🥰]]></title>
-        <id>https://www.youtube.com/shorts/k-4Cc9zaZRU</id>
-        <link href="https://www.youtube.com/shorts/k-4Cc9zaZRU"/>
-        <updated>2025-11-02T13:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എല്ലാ മലയാളികളും  നിത്യേന കേൾക്കുന്ന പരമ്പരാഗത ക്രിസ്തീയ ഗാനങ്ങൾ |Praise And Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=PlTajtJ6_RE</id>
-        <link href="https://www.youtube.com/watch?v=PlTajtJ6_RE"/>
-        <updated>2025-11-02T13:30:32.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Kunchacko Boban #shortsfeed #shortsvideo #shorts #reels #malayalamsongs #malayalam]]></title>
-        <id>https://www.youtube.com/shorts/7yxxvNowwC4</id>
-        <link href="https://www.youtube.com/shorts/7yxxvNowwC4"/>
-        <updated>2025-11-02T13:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala pally perunnal 2025 l Parumala Thirumeni #parumalapally #parumalathirumeni]]></title>
-        <id>https://www.youtube.com/shorts/eppTe4XlbM4</id>
-        <link href="https://www.youtube.com/shorts/eppTe4XlbM4"/>
-        <updated>2025-11-02T13:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
