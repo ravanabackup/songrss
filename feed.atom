@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T16:13:21.367Z</updated>
+    <updated>2025-12-02T17:13:52.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11623,15 +11623,6 @@
         <updated>2025-11-03T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirayum Theeravum | Aval Viswasthayayirunnu | Soman | Jayabharathi | Vani Jayaram | MK Arjunan]]></title>
-        <id>https://www.youtube.com/watch?v=i-ND85jNhqw</id>
-        <link href="https://www.youtube.com/watch?v=i-ND85jNhqw"/>
-        <updated>2025-11-03T04:30:27.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
