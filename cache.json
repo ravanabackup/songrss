@@ -2764,6 +2764,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/JaiGKdvQGIU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/JaiGKdvQGIU",
+          "publishedOn": "2025-12-02T22:00:22.000Z",
+          "wordCount": 2294,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ej-GupQ5CJo",
           "author": null,
           "description": "",
@@ -8968,16 +8978,6 @@
           "publishedOn": "2025-11-04T04:30:11.000Z",
           "wordCount": null,
           "title": "Mandharangalellam | മന്ദാരങ്ങളെല്ലാം | Dheem Tharikida Thom | KJ Yesudas | MG Radhakrishnan Song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/cXGXJGSatG8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/cXGXJGSatG8",
-          "publishedOn": "2025-11-03T09:42:58.000Z",
-          "wordCount": 2200,
-          "title": "Moodal Manjumaay | മൂടൽ മഞ്ഞുമായ് | Anthichuvappu | Vani Jairam Song | AT Ummar | Evergreen Hit",
           "imageUrl": null
         }
       ]
