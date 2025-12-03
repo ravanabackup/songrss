@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T13:28:21.200Z</updated>
+    <updated>2025-12-03T14:10:36.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prathighadinsu Video Song | Shikkar | Mohanlal | Samuthirakani | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=dfv9kU__31U</id>
+        <link href="https://www.youtube.com/watch?v=dfv9kU__31U"/>
+        <updated>2025-12-03T13:59:41.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിശുദ്ധ രക്തം |    @JinoKunnumpurathu       | #shortsprayer #prayer  #shortvideo]]></title>
+        <id>https://www.youtube.com/shorts/mbDZXQ51wuM</id>
+        <link href="https://www.youtube.com/shorts/mbDZXQ51wuM"/>
+        <updated>2025-12-03T13:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദേ.. മരിയ പിന്നേയും വന്നല്ലോ ഒരു ഒന്നൊന്നര ഫീലുള്ള ക്രിസ്മസ് പാട്ടുമായി!! | #christmas | #evergreen]]></title>
+        <id>https://www.youtube.com/watch?v=H7rlwY6dx8U</id>
+        <link href="https://www.youtube.com/watch?v=H7rlwY6dx8U"/>
+        <updated>2025-12-03T13:30:18.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിലെന്നും താലോലിക്കുന്ന കേൾക്കാനിഷ്ടമുള്ള സിനിമാഗാനങ്ങൾ❤️  | OLD EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=7tzfoDUauAY</id>
+        <link href="https://www.youtube.com/watch?v=7tzfoDUauAY"/>
+        <updated>2025-12-03T13:30:14.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Panna - Video Song | Paranthu Po | Ram | Shiva | Grace Antony | Santhosh Dhayanithi]]></title>
+        <id>https://www.youtube.com/watch?v=gI4U-07Sk74</id>
+        <link href="https://www.youtube.com/watch?v=gI4U-07Sk74"/>
+        <updated>2025-12-03T13:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anjanamani Full Song ft Vaikom Vijayalakshmi | Innocent | Althaf Salim | Jay Stellar]]></title>
         <id>https://www.youtube.com/watch?v=dYd1kRNpqjA</id>
@@ -11607,16 +11653,6 @@
         <updated>2025-11-04T04:30:11.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yesuvin Snehathin #manoramamusic #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/nFSDileHRpc</id>
-        <link href="https://www.youtube.com/shorts/nFSDileHRpc"/>
-        <updated>2025-11-04T01:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
