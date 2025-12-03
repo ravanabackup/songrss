@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T16:14:05.619Z</updated>
+    <updated>2025-12-03T17:13:32.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eatho Varmukilun Video Song|Pookkalam Varavayi|Jayaram|Rekha|]]></title>
+        <id>https://www.youtube.com/watch?v=pQZUMBebUv8</id>
+        <link href="https://www.youtube.com/watch?v=pQZUMBebUv8"/>
+        <updated>2025-12-03T16:18:52.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദേ.. മരിയ പിന്നേയും വന്നല്ലോ ഒരു ഒന്നൊന്നര ഫീലുള്ള ക്രിസ്മസ് പാട്ടുമായി!! | #christmas | #shorts]]></title>
         <id>https://www.youtube.com/shorts/rbrWKeUpx7w</id>
@@ -11634,35 +11643,6 @@
         <updated>2025-11-04T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏതകലങ്ങളിൽ നീയിപ്പോൾ മഴമുകിലോടൊത്തണയുന്നൂ # Shyama_meghame_nee #evergreenhits]]></title>
-        <id>https://www.youtube.com/shorts/-Tei5AXsI0g</id>
-        <link href="https://www.youtube.com/shorts/-Tei5AXsI0g"/>
-        <updated>2025-11-04T04:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thennadu 🌱 #dhruv #mariselvaraj #bisonkaalamaadan]]></title>
-        <id>https://www.youtube.com/shorts/LrNLbqJLaio</id>
-        <link href="https://www.youtube.com/shorts/LrNLbqJLaio"/>
-        <updated>2025-11-04T04:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandharangalellam | മന്ദാരങ്ങളെല്ലാം | Dheem Tharikida Thom | KJ Yesudas | MG Radhakrishnan Song]]></title>
-        <id>https://www.youtube.com/watch?v=J_uSu56YBNc</id>
-        <link href="https://www.youtube.com/watch?v=J_uSu56YBNc"/>
-        <updated>2025-11-04T04:30:11.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
