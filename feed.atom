@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T04:18:45.409Z</updated>
+    <updated>2025-12-03T05:10:29.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MadhuraKanakku | Hareesh Peradi | Indrans | Hareesh Kanaran | Radheshyam V | Malayalam Movie Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=HHRBoZJX80c</id>
+        <link href="https://www.youtube.com/watch?v=HHRBoZJX80c"/>
+        <updated>2025-12-03T04:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Devotional Songs Live  | Prathyasha Geethangal Live Stream]]></title>
         <id>https://www.youtube.com/watch?v=bzC6iYHg8TU</id>
@@ -11454,15 +11463,6 @@
         <updated>2025-11-03T18:00:47.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rudh - Maara Makka (Promo) | Think Indie]]></title>
-        <id>https://www.youtube.com/watch?v=C0NzB_Iapfk</id>
-        <link href="https://www.youtube.com/watch?v=C0NzB_Iapfk"/>
-        <updated>2025-11-03T16:20:21.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
