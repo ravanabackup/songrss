@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T19:10:29.358Z</updated>
+    <updated>2025-12-04T20:11:08.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11711,34 +11711,6 @@
         <updated>2025-11-05T08:25:25.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comali - Oliyum Oliyum Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
-        <id>https://www.youtube.com/watch?v=SsmMT1at1lg</id>
-        <link href="https://www.youtube.com/watch?v=SsmMT1at1lg"/>
-        <updated>2025-11-05T08:00:39.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ ഹൃദയ വികാരങ്ങളെ തൊട്ടറിഞ്ഞ  മനം മയക്കും മെലഡി ഗാനങ്ങൾ | Malayalam Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=31lV9Ej4k0s</id>
-        <link href="https://www.youtube.com/watch?v=31lV9Ej4k0s"/>
-        <updated>2025-11-05T07:30:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naalenaale Ithuvare | നാളേ നാളേ ഇതുവരെ | Anthichuvappu | KJ Yesudas Song | AT Ummar | Olden Hit]]></title>
-        <id>https://www.youtube.com/shorts/0SBxDpZKBwE</id>
-        <link href="https://www.youtube.com/shorts/0SBxDpZKBwE"/>
-        <updated>2025-11-05T07:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
