@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T20:11:08.332Z</updated>
+    <updated>2025-12-04T21:09:22.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11693,24 +11693,6 @@
         <updated>2025-11-05T10:09:57.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thilangum Thinkale HD Video Song | No. 1 Snehatheeram Bangalore North | Singer (K. J. Yesudas)]]></title>
-        <id>https://www.youtube.com/watch?v=6AktgDQGUX4</id>
-        <link href="https://www.youtube.com/watch?v=6AktgDQGUX4"/>
-        <updated>2025-11-05T09:02:54.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomughavathilkkal | Rakkuyilin Ragasadassil Video Song | Mammootty | Suhasini | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=vcZ66xH_eqg</id>
-        <link href="https://www.youtube.com/watch?v=vcZ66xH_eqg"/>
-        <updated>2025-11-05T08:25:25.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
