@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T12:19:53.564Z</updated>
+    <updated>2025-12-04T13:28:58.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaisagh - Wrong Way (Music Video) | 808krshna | Think Indie]]></title>
+        <id>https://www.youtube.com/watch?v=rx8Y9s-GVwA</id>
+        <link href="https://www.youtube.com/watch?v=rx8Y9s-GVwA"/>
+        <updated>2025-12-04T13:28:07.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mullapoovin motte| Pattanathil Sundaran | Dileep | Navya Nair | Cochin Haneefa | Afsal, Rajesh Vijay]]></title>
+        <id>https://www.youtube.com/watch?v=raP0RiTxokE</id>
+        <link href="https://www.youtube.com/watch?v=raP0RiTxokE"/>
+        <updated>2025-12-04T12:42:40.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nithanaya Daivame......#christiandevotionalsongs #mgsreekumarsongs #christiansongs #jojijohns]]></title>
+        <id>https://www.youtube.com/shorts/9uLbxs-Ywsc</id>
+        <link href="https://www.youtube.com/shorts/9uLbxs-Ywsc"/>
+        <updated>2025-12-04T12:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaikom Vijayalakshmi’s divine rendition of #Anjanamani is taking the internet by storm!🔥]]></title>
         <id>https://www.youtube.com/shorts/jIcFdd3Bn_g</id>
