@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T06:16:02.195Z</updated>
+    <updated>2025-12-05T07:12:18.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maane Malaramban Valarthunna Video Song | Ayal Kadha Ezhthukayanu | Mohanlal | Sreenivasan | HD]]></title>
+        <id>https://www.youtube.com/watch?v=27_FIUbDe6M</id>
+        <link href="https://www.youtube.com/watch?v=27_FIUbDe6M"/>
+        <updated>2025-12-05T06:38:50.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💔 A song for the moments we never got closure… Ee Vazhiye is out now.]]></title>
+        <id>https://www.youtube.com/shorts/Gax0m_gx9zY</id>
+        <link href="https://www.youtube.com/shorts/Gax0m_gx9zY"/>
+        <updated>2025-12-05T06:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enguninnengu Ninneesugandam | Elavamkodu Desam Song  | Mammootty | KS Chithra | Vidyasagar Hits]]></title>
         <id>https://www.youtube.com/watch?v=3MKWMNHSq_w</id>
@@ -11626,15 +11645,6 @@
         <link href="https://www.youtube.com/shorts/bykr_Xz7x14"/>
         <updated>2025-11-05T22:00:44.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 6 # Athiravile Prarthana 6th of November 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Yx2_5euW1XE</id>
-        <link href="https://www.youtube.com/watch?v=Yx2_5euW1XE"/>
-        <updated>2025-11-05T19:00:41.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
