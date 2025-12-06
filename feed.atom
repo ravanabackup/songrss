@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T09:09:38.453Z</updated>
+    <updated>2025-12-06T10:09:05.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 14 #shorts #malayalamsongs #feelgoodmusic]]></title>
+        <id>https://www.youtube.com/shorts/dy3pngqwFAM</id>
+        <link href="https://www.youtube.com/shorts/dy3pngqwFAM"/>
+        <updated>2025-12-06T09:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧑‍🎄Sodharare Paadiduvin.. #matchpointfaith #matchpointcreations  #christmas  #malayalamsongs]]></title>
+        <id>https://www.youtube.com/shorts/xTNmUR2meEU</id>
+        <link href="https://www.youtube.com/shorts/xTNmUR2meEU"/>
+        <updated>2025-12-06T09:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧑‍🎄Kannum Kannum.. #matchpointfaith #matchpointcreations  #christmas  #malayalamsongs]]></title>
         <id>https://www.youtube.com/shorts/Pr3UsOpj5jA</id>
@@ -11728,16 +11748,6 @@
         <updated>2025-11-06T22:30:02.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/t0L2CPo8r9A</id>
-        <link href="https://www.youtube.com/shorts/t0L2CPo8r9A"/>
-        <updated>2025-11-06T22:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
