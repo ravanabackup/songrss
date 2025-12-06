@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T07:08:38.763Z</updated>
+    <updated>2025-12-06T08:12:13.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളി പ്രേക്ഷകർ ഒന്നടങ്കം ആടി പാടി ആസ്വദിച്ച സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | Superhit Songs  Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=mRbdOT1NJ9Q</id>
+        <link href="https://www.youtube.com/watch?v=mRbdOT1NJ9Q"/>
+        <updated>2025-12-06T07:37:15.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Neela Ravil - Kottayam Kunjachan (1990) - Yesudas - Chunakkara Ramankutty - Shyam - Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=JBoAWSWASCI</id>
+        <link href="https://www.youtube.com/watch?v=JBoAWSWASCI"/>
+        <updated>2025-12-06T07:33:30.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧑‍🎄Kannum Kannum.. #matchpointfaith #matchpointcreations  #christmas  #malayalamsongs]]></title>
         <id>https://www.youtube.com/shorts/btutTmAwHj0</id>
@@ -873,6 +891,15 @@
         <updated>2025-12-04T05:13:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nanmakal Aayiram | Elizabeth S. Mathew | Jose Kadavil | Mohan Pokkunnu | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=7lwjtyQUH1E</id>
+        <link href="https://www.youtube.com/watch?v=7lwjtyQUH1E"/>
+        <updated>2025-12-04T04:37:05.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
