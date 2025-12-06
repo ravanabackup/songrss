@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T04:11:11.584Z</updated>
+    <updated>2025-12-06T05:09:40.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aralippoonkaadukal Valarippulmedukal | അരളിപ്പൂങ്കാടുകൾ വളരിപ്പുൽമേടുകൾ | Ina Movie | Audio Song]]></title>
+        <id>https://www.youtube.com/watch?v=AIEKAez4pi8</id>
+        <link href="https://www.youtube.com/watch?v=AIEKAez4pi8"/>
+        <updated>2025-12-06T04:30:10.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=oL25rTI1gLY</id>
+        <link href="https://www.youtube.com/watch?v=oL25rTI1gLY"/>
+        <updated>2025-12-06T04:16:05.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun |Shorts #chithraarun #NakshathraRavil #ShineValladan #manoramamusic]]></title>
         <id>https://www.youtube.com/shorts/lShqM_GQz68</id>
