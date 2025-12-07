@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T14:08:25.212Z</updated>
+    <updated>2025-12-07T15:08:10.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈണവും വരികളും മനസ്സിൽ നിറയുമ്പോൾ | EVEGREEN MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=f4l48Lg1be4</id>
+        <link href="https://www.youtube.com/watch?v=f4l48Lg1be4"/>
+        <updated>2025-12-07T15:01:22.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧑‍🎄Paridam Mangala.. #matchpointfaith #matchpointcreations  #christmas  #malayalamsongs]]></title>
+        <id>https://www.youtube.com/shorts/gI_kYpfkArY</id>
+        <link href="https://www.youtube.com/shorts/gI_kYpfkArY"/>
+        <updated>2025-12-07T14:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നല്ലിടയനായ ദൈവം  |       @JinoKunnumpurathu           | #shortsprayer #prayer  #shortvideo]]></title>
         <id>https://www.youtube.com/shorts/hWfIO6dl1gY</id>
