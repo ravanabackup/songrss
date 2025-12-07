@@ -2775,6 +2775,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/_hIALcnacAI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/_hIALcnacAI",
+          "publishedOn": "2025-12-07T22:00:42.000Z",
+          "wordCount": 3000,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mrNjMSz4Etw",
           "author": null,
           "description": "",
@@ -6515,16 +6525,6 @@
           "wordCount": 2022,
           "title": "ആരുംകൊതിക്കും നിന്റെ സ്നേഹം | Aradhya | Aarum Kothikkum...| #remix  #christianshorts | #jesus",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N6W6gztTGPw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N6W6gztTGPw",
-          "publishedOn": "2025-11-08T09:30:21.000Z",
-          "wordCount": null,
-          "title": "Aarum Kothikkum Ninte Sneham | Aradhya | Christian Video Song |  ആരുംകൊതിക്കും നിന്റെ സ്നേഹം",
-          "imageUrl": null
         }
       ]
     },
@@ -9049,16 +9049,6 @@
           "publishedOn": "2025-11-09T02:30:13.000Z",
           "wordCount": null,
           "title": "Mounam Swaramay | മൗനം സ്വരമായ്...| Paadatha Veenayum Paadum | KJ Yesudas | Raveendran Master Songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/f_PrHihSiKw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/f_PrHihSiKw",
-          "publishedOn": "2025-11-08T09:15:05.000Z",
-          "wordCount": 2106,
-          "title": "ഇന്ദ്രനീലിമയോലും...| Indhraneelimayolum | Vaishali Movie | KS Chithra | Evergreen Romantic Hit",
           "imageUrl": null
         }
       ]
