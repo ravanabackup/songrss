@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-09T12:19:45.124Z</updated>
+    <updated>2025-12-09T13:28:45.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rakkuyil Paadi 4K Video Song | Kasthoorimaan | Kunjako Boban | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=3gJep1e94cQ</id>
+        <link href="https://www.youtube.com/watch?v=3gJep1e94cQ"/>
+        <updated>2025-12-09T13:00:09.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khana Khana Khanaaravam - Audio Song | Chovvazhcha | Ajay Bhupathi | Payal Rajput | Ajaneesh Loknath]]></title>
+        <id>https://www.youtube.com/watch?v=awxAzcYevcU</id>
+        <link href="https://www.youtube.com/watch?v=awxAzcYevcU"/>
+        <updated>2025-12-09T12:38:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyila Neram - Video Song with Lyrics | LUCA | Sooraj S Kurup | BK Hari Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=ZJLb9JAY3O0</id>
+        <link href="https://www.youtube.com/watch?v=ZJLb9JAY3O0"/>
+        <updated>2025-12-09T12:31:01.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Down Troddence - Seven (Teaser) | AYAKTIHIS | Think Originals]]></title>
+        <id>https://www.youtube.com/watch?v=h8GjhDGn1qA</id>
+        <link href="https://www.youtube.com/watch?v=h8GjhDGn1qA"/>
+        <updated>2025-12-09T12:30:02.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dude Original Score - Side B | Pradeep Ranganathan, Mamitha Baiju | @SaiAbhyankkar | Keerthiswaran]]></title>
         <id>https://www.youtube.com/watch?v=f3i58ShlZjk</id>
@@ -11969,25 +12005,6 @@
         <updated>2025-11-10T02:30:43.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enikkeshuvundee Maruvil | Maria Kolady  #manoramamusic #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/v4KJ1pacDY8</id>
-        <link href="https://www.youtube.com/shorts/v4KJ1pacDY8"/>
-        <updated>2025-11-10T00:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Morning Prayer Songs | Madhu Balakrishnan | Christian Melody Songs | Prabhatha Geethangal]]></title>
-        <id>https://www.youtube.com/watch?v=H93eDRqUbIE</id>
-        <link href="https://www.youtube.com/watch?v=H93eDRqUbIE"/>
-        <updated>2025-11-10T00:30:10.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
