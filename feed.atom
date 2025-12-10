@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T14:12:43.300Z</updated>
+    <updated>2025-12-10T15:13:06.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎅 Vishwasikale Va… #matchpointfaith #christmas #matchpointcreations]]></title>
+        <id>https://www.youtube.com/shorts/EL7kNz4Mm0Q</id>
+        <link href="https://www.youtube.com/shorts/EL7kNz4Mm0Q"/>
+        <updated>2025-12-10T15:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചങ്ക് അച്ചന്മാർ തകർത്തു പാടിയ ഒരടിപൊളി ക്രിസ്മസ് ഗാനം!! | #christmas | #evergreenhits | #shorts]]></title>
+        <id>https://www.youtube.com/shorts/83mbLNFtCAo</id>
+        <link href="https://www.youtube.com/shorts/83mbLNFtCAo"/>
+        <updated>2025-12-10T14:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.V Peter Talk Show Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/-sS4To9srTg</id>
+        <link href="https://www.youtube.com/shorts/-sS4To9srTg"/>
+        <updated>2025-12-10T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎅 Vishwasikale Va… #matchpointfaith #christmas #matchpointcreations]]></title>
         <id>https://www.youtube.com/shorts/FefKEJml304</id>
@@ -12169,15 +12199,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vasanthathin Manicheppu |  വസന്തത്തിന്‍ മണിച്ചെപ്പ് | Varthamanakalam | G Venugopal | Johnson Master]]></title>
-        <id>https://www.youtube.com/watch?v=08LRwewpCQ8</id>
-        <link href="https://www.youtube.com/watch?v=08LRwewpCQ8"/>
-        <updated>2025-11-11T02:30:00.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
