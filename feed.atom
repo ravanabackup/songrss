@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T03:49:40.978Z</updated>
+    <updated>2025-12-10T04:23:22.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -3287,6 +3287,15 @@
         <id>https://www.youtube.com/watch?v=JUtEUmxIrIk</id>
         <link href="https://www.youtube.com/watch?v=JUtEUmxIrIk"/>
         <updated>2025-12-02T06:54:44.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jingalingaling | Charles Antony | Twinkle Charles | Christmas Carols | English Carols]]></title>
+        <id>https://www.youtube.com/watch?v=wiloGYbiLQg</id>
+        <link href="https://www.youtube.com/watch?v=wiloGYbiLQg"/>
+        <updated>2025-12-02T06:53:15.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
         </author>
