@@ -2795,6 +2795,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UWCvu2KCgOY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UWCvu2KCgOY",
+          "publishedOn": "2025-12-11T19:00:36.000Z",
+          "wordCount": null,
+          "title": "രാവിലെ പ്രാര്‍ത്ഥന December 12 # Athiravile Prarthana 12th of December 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jVPEFL3rJ_A",
           "author": null,
           "description": "",
@@ -5416,16 +5426,6 @@
           "publishedOn": "2025-11-13T06:15:56.000Z",
           "wordCount": null,
           "title": "Ilam Manjin kulirumay | Ninnistham Ennishtam Evergreen Malayalam Movie Song | K.J Yesudas, S Janaki",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Z7efgjD3Eg8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z7efgjD3Eg8",
-          "publishedOn": "2025-11-12T06:19:45.000Z",
-          "wordCount": null,
-          "title": "Shyaamameghame Nee |  Adhipan Malayalam Movie Superhit Romantic  Song | Mohanlal | Parvathy",
           "imageUrl": null
         }
       ]
@@ -9308,16 +9308,6 @@
           "link": "https://www.youtube.com/shorts/AhQRCfVuIho",
           "publishedOn": "2025-11-12T07:53:51.000Z",
           "wordCount": 2127,
-          "title": "Paathirakkombil | പാതിരക്കൊമ്പിൽ...| Vidhyarambham | KJ Yesudas | Evergreen Sreenivasan Movie Song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AhstzOrctzA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AhstzOrctzA",
-          "publishedOn": "2025-11-12T06:17:07.000Z",
-          "wordCount": null,
           "title": "Paathirakkombil | പാതിരക്കൊമ്പിൽ...| Vidhyarambham | KJ Yesudas | Evergreen Sreenivasan Movie Song",
           "imageUrl": null
         }
