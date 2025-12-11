@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T09:15:06.590Z</updated>
+    <updated>2025-12-11T10:11:28.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 19 #shorts #malayalamsongs #feelgoodmusic]]></title>
+        <id>https://www.youtube.com/shorts/F4tnM2xBNTQ</id>
+        <link href="https://www.youtube.com/shorts/F4tnM2xBNTQ"/>
+        <updated>2025-12-11T09:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raagamidarunnu Nin Mazhavil | രാഗമിടറുന്നു നിൻ മഴവിൽ | Sudhinam Movie | KS Chithra | Jayaram Movie]]></title>
         <id>https://www.youtube.com/shorts/CoS-TF_F2jM</id>
@@ -35,12 +45,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mandalapooja | Vinoob Pattanathethil | Edappal Viswan | Sreeni Kaladarsan | Ayyappa Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=egbcxkszhW0</id>
+        <link href="https://www.youtube.com/watch?v=egbcxkszhW0"/>
+        <updated>2025-12-11T06:52:17.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Palkkadalil Pallikollum | Gowrishankaram |  P Jaychandran | B Arundhathi | M Jayachandran hits]]></title>
         <id>https://www.youtube.com/watch?v=OtJGunkEROY</id>
         <link href="https://www.youtube.com/watch?v=OtJGunkEROY"/>
         <updated>2025-12-11T06:33:24.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uyirakum Nee - The Love Breeze | The Ride | Sudhi Koppa, Ann Sheetal | Nitish Rambhadran]]></title>
+        <id>https://www.youtube.com/watch?v=DnjbBdEoYlI</id>
+        <link href="https://www.youtube.com/watch?v=DnjbBdEoYlI"/>
+        <updated>2025-12-11T06:29:39.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -710,6 +738,15 @@
         <link href="https://www.youtube.com/shorts/hB1iMI-tsEQ"/>
         <updated>2025-12-09T15:06:30.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Christmas Songs | ഹിറ്റ് ക്രിസ്തുമസ് പാട്ടുകൾ  | 2025 | Hit Carols | ക്രിസ്മസ്|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=kQQa4ZQbzWA</id>
+        <link href="https://www.youtube.com/watch?v=kQQa4ZQbzWA"/>
+        <updated>2025-12-09T14:49:50.000Z</updated>
         <author>
             <name>Match Point Faith</name>
         </author>
@@ -12048,16 +12085,6 @@
         <updated>2025-11-11T22:30:03.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/-7LUQFfIGcg</id>
-        <link href="https://www.youtube.com/shorts/-7LUQFfIGcg"/>
-        <updated>2025-11-11T22:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
