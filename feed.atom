@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T21:11:01.920Z</updated>
+    <updated>2025-12-11T22:09:30.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/oMiO72vr_iU</id>
+        <link href="https://www.youtube.com/shorts/oMiO72vr_iU"/>
+        <updated>2025-12-11T22:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 12 # Athiravile Prarthana 12th of December 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=UWCvu2KCgOY</id>
@@ -12119,15 +12129,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nale varamennothi Madhurakku | Krishnashtami | Ouseppachan | Vyloppilli Sreedhara Menon | Swarna]]></title>
-        <id>https://www.youtube.com/watch?v=2X6wjVWK7RQ</id>
-        <link href="https://www.youtube.com/watch?v=2X6wjVWK7RQ"/>
-        <updated>2025-11-12T09:14:00.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
