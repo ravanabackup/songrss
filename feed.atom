@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T18:15:51.174Z</updated>
+    <updated>2025-12-12T19:09:17.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  December 13 # Athiravile Prarthana 13th of December 2025 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=U6jMJsHM7bc</id>
+        <link href="https://www.youtube.com/watch?v=U6jMJsHM7bc"/>
+        <updated>2025-12-12T19:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th December 25]]></title>
         <id>https://www.youtube.com/watch?v=q1lBXUtsZS4</id>
@@ -12149,51 +12158,6 @@
         <updated>2025-11-13T07:09:54.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Page Official Trailer | Dr. Anish Urumbil | Binoj Villya | Manu Variyani | Sreedevi T | Film Trailer]]></title>
-        <id>https://www.youtube.com/watch?v=VMV-f50zMpQ</id>
-        <link href="https://www.youtube.com/watch?v=VMV-f50zMpQ"/>
-        <updated>2025-11-13T06:42:36.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നോവുന്ന ഹൃദയത്തെ തൊട്ടുണർത്തും ഗാനങ്ങൾ |  @JinoKunnumpurathu   #christmassongs #trendingsongsnew]]></title>
-        <id>https://www.youtube.com/watch?v=RR_GFJFZejI</id>
-        <link href="https://www.youtube.com/watch?v=RR_GFJFZejI"/>
-        <updated>2025-11-13T06:41:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punya Maha Sannidhe | Lyrical Video | Pappachan Olivilanu | Ouseppachan | Vaikom Vijayalakshmi]]></title>
-        <id>https://www.youtube.com/watch?v=7hkMZYBv3Hs</id>
-        <link href="https://www.youtube.com/watch?v=7hkMZYBv3Hs"/>
-        <updated>2025-11-13T06:30:06.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Pidiyaana Pidiyaana | 4K Video Song | Thuruppugulan | Mammootty | Sneha]]></title>
-        <id>https://www.youtube.com/watch?v=S4ji2meR4GE</id>
-        <link href="https://www.youtube.com/watch?v=S4ji2meR4GE"/>
-        <updated>2025-11-13T06:18:20.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilam Manjin kulirumay | Ninnistham Ennishtam Evergreen Malayalam Movie Song | K.J Yesudas, S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=2hMLDxPHUis</id>
-        <link href="https://www.youtube.com/watch?v=2hMLDxPHUis"/>
-        <updated>2025-11-13T06:15:56.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
