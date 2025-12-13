@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-13T19:07:02.365Z</updated>
+    <updated>2025-12-13T20:10:19.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12161,33 +12161,6 @@
         <updated>2025-11-14T08:43:18.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivek - Mervin - Gaandu Kannamma Video with Lyrics | Ku Karthik]]></title>
-        <id>https://www.youtube.com/watch?v=Yll-Zfizz4Y</id>
-        <link href="https://www.youtube.com/watch?v=Yll-Zfizz4Y"/>
-        <updated>2025-11-14T08:00:46.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിനെ തൊട്ട് തലോടിയ സുന്ദര ഗാനങ്ങൾ | Evergreen Malayalam Film Songs | KJ Yesudas | Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Lvyju2kRp60</id>
-        <link href="https://www.youtube.com/watch?v=Lvyju2kRp60"/>
-        <updated>2025-11-14T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanil Ninnum Daivaputhran | Biju Gopan | Jean Kavalayil | Jithu Moni #xmas #christmas #trending]]></title>
-        <id>https://www.youtube.com/watch?v=fIiwiMOndPc</id>
-        <link href="https://www.youtube.com/watch?v=fIiwiMOndPc"/>
-        <updated>2025-11-14T07:29:09.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
