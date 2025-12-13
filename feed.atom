@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-13T02:26:30.336Z</updated>
+    <updated>2025-12-13T03:41:52.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11982,44 +11982,6 @@
         <updated>2025-11-13T18:00:42.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthellam Vannalum Karthavin | Mosha Valsalam | Old Malayalam Christian Song | Music Spread |]]></title>
-        <id>https://www.youtube.com/shorts/rFJnix_TyE8</id>
-        <link href="https://www.youtube.com/shorts/rFJnix_TyE8"/>
-        <updated>2025-11-13T14:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അക്കാലത്തു ഏതു കൊച്ചുകുഞ്ഞുപോലും പാടി നടന്നിരുന്ന 80  കളിലെ ആരും മറക്കാത്ത ഗാനങ്ങൾ | Evergreen Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iP6NjtqpjpQ</id>
-        <link href="https://www.youtube.com/watch?v=iP6NjtqpjpQ"/>
-        <updated>2025-11-13T14:30:40.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.V Peter Talk Show Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/QHkmv5LafqM</id>
-        <link href="https://www.youtube.com/shorts/QHkmv5LafqM"/>
-        <updated>2025-11-13T14:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthellam Vannalum Karthavin | Mosha Valsalam | Old Malayalam Christian Song | Music Spread |]]></title>
-        <id>https://www.youtube.com/watch?v=04XLaCTXZNQ</id>
-        <link href="https://www.youtube.com/watch?v=04XLaCTXZNQ"/>
-        <updated>2025-11-13T14:30:06.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
