@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T16:15:08.894Z</updated>
+    <updated>2025-12-15T17:15:58.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12067,15 +12067,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാതിൽ തുറക്കൂ നീ കാലമേ..| Vaathil Thurakkoo Nee | Five Star Hospital | KJ Yesudas | Bombay Ravi Hits]]></title>
-        <id>https://www.youtube.com/watch?v=999Av_o5qKs</id>
-        <link href="https://www.youtube.com/watch?v=999Av_o5qKs"/>
-        <updated>2025-11-16T04:30:11.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
