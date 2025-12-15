@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T06:18:05.312Z</updated>
+    <updated>2025-12-15T07:15:29.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karale Nin Kai Pidichal Video Song | 8K Remastered | Devadoothan | K. J. Yesudas | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=j5eklzLWewU</id>
+        <link href="https://www.youtube.com/watch?v=j5eklzLWewU"/>
+        <updated>2025-12-15T06:44:24.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചിരിക്കുമ്പോള്‍ കൂടെച്ചിരിക്കാന്‍ | Chirikubol Koode Chirikkan | Kadal Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=AAS_SS_rxUc</id>
+        <link href="https://www.youtube.com/watch?v=AAS_SS_rxUc"/>
+        <updated>2025-12-15T06:30:27.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nesamana | Kutty Srank | Video Song | Mammootty | Ramesh | Bashir | Issac Thomas Kottukappally]]></title>
         <id>https://www.youtube.com/watch?v=3DrPV6BomFI</id>
@@ -11819,15 +11837,6 @@
         <link href="https://www.youtube.com/shorts/6Rr2PazIZtU"/>
         <updated>2025-11-15T22:00:05.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 16# Athiravile Prarthana 16th of November 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=1fxcKBEieKY</id>
-        <link href="https://www.youtube.com/watch?v=1fxcKBEieKY"/>
-        <updated>2025-11-15T19:00:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
