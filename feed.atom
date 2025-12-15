@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T14:14:21.957Z</updated>
+    <updated>2025-12-15T15:14:23.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve Rakshadayaka | യേശുവേ രക്ഷാദായക | Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/2BABfqTHTeE</id>
+        <link href="https://www.youtube.com/shorts/2BABfqTHTeE"/>
+        <updated>2025-12-15T14:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകം മുഴുവനും ഏറ്റുപാടി പ്രാർത്ഥിച്ച സൂപ്പർഹിറ്റ് ക്രിസ്തിയ ഗാനം!! | #evergreenhits | #shorts]]></title>
+        <id>https://www.youtube.com/shorts/F0VMffVkOsI</id>
+        <link href="https://www.youtube.com/shorts/F0VMffVkOsI"/>
+        <updated>2025-12-15T14:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസ്സിൽ ചിരി നിറച്ച എക്കാലത്തെയും പ്രിയപ്പെട്ട പാട്ടുകൾ ❤️ | BEST EVERGREEN HAPPY SONGS]]></title>
         <id>https://www.youtube.com/watch?v=nYIcjs64GR8</id>
@@ -12036,16 +12056,6 @@
         <updated>2025-11-16T04:30:11.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve Rakshadayaka | യേശുവേ രക്ഷാദായക | Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/dLjc6RVBBtI</id>
-        <link href="https://www.youtube.com/shorts/dLjc6RVBBtI"/>
-        <updated>2025-11-16T02:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
