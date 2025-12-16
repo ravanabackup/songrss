@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T10:12:01.018Z</updated>
+    <updated>2025-12-16T11:09:58.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Raavu Kondu Theernnuvo | Kannur Malayalam Video Song | K. J. Yesudas | Raveendran Hits]]></title>
+        <id>https://www.youtube.com/watch?v=HXtlVv4_-0Y</id>
+        <link href="https://www.youtube.com/watch?v=HXtlVv4_-0Y"/>
+        <updated>2025-12-16T11:05:43.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aakasha deepam | മനം കവരുന്ന കരോൾ ഗാനം |  @JinoKunnumpurathu  #shorts #christmas]]></title>
+        <id>https://www.youtube.com/shorts/UvavrElAijI</id>
+        <link href="https://www.youtube.com/shorts/UvavrElAijI"/>
+        <updated>2025-12-16T11:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jacobite Janana Yeldho Perunnal Songs | Jacobite Christmas songs I Christmas songs malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=iSlQEFgHcZ8</id>
+        <link href="https://www.youtube.com/watch?v=iSlQEFgHcZ8"/>
+        <updated>2025-12-16T10:34:26.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവസ്നേഹത്തിന്റെ ആഴം  | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
+        <id>https://www.youtube.com/shorts/T7P2ClGEk-U</id>
+        <link href="https://www.youtube.com/shorts/T7P2ClGEk-U"/>
+        <updated>2025-12-16T10:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathiravayi Neram | പാതിരാവായി നേരം | Vietnam Colony Hit Malayalam Movie Song | Minmini | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=N4ohVOds6Go</id>
+        <link href="https://www.youtube.com/watch?v=N4ohVOds6Go"/>
+        <updated>2025-12-16T10:27:56.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun | Christmas Shorts #MaanamThelinjallo #malayalamchristiansongs]]></title>
         <id>https://www.youtube.com/shorts/pM-IuCILyPo</id>
@@ -12045,15 +12092,6 @@
         <updated>2025-11-16T23:30:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നവംബർ: 17 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
-        <id>https://www.youtube.com/watch?v=k-AvWLoS-mU</id>
-        <link href="https://www.youtube.com/watch?v=k-AvWLoS-mU"/>
-        <updated>2025-11-16T22:30:09.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
