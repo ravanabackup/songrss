@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T09:15:31.185Z</updated>
+    <updated>2025-12-16T10:12:01.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun | Christmas Shorts #MaanamThelinjallo #malayalamchristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/pM-IuCILyPo</id>
+        <link href="https://www.youtube.com/shorts/pM-IuCILyPo"/>
+        <updated>2025-12-16T10:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthola Thinkal Thumbee | മുത്തോല തിങ്കൾ തുമ്പീ | Journalist Movie | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/shorts/dNLJOWOQOhI</id>
+        <link href="https://www.youtube.com/shorts/dNLJOWOQOhI"/>
+        <updated>2025-12-16T09:42:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of 2025 - Video Jukebox | Onam Mood | Neon Ride | Kondal Song | Premavathi]]></title>
+        <id>https://www.youtube.com/watch?v=-nwy7Dvie1s</id>
+        <link href="https://www.youtube.com/watch?v=-nwy7Dvie1s"/>
+        <updated>2025-12-16T09:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthola Thinkal Thumbee | മുത്തോല തിങ്കൾ തുമ്പീ | Journalist Movie | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=mU1xW4pZAFE</id>
+        <link href="https://www.youtube.com/watch?v=mU1xW4pZAFE"/>
+        <updated>2025-12-16T09:20:05.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meaghamann - Yaaro Yaaro Video with Lyrics | Arya, Hansika | SS Thaman]]></title>
         <id>https://www.youtube.com/watch?v=P7rxmszqtaw</id>
@@ -12016,16 +12054,6 @@
         <updated>2025-11-16T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/yqMad2QXwDE</id>
-        <link href="https://www.youtube.com/shorts/yqMad2QXwDE"/>
-        <updated>2025-11-16T22:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
