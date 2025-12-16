@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T20:11:46.877Z</updated>
+    <updated>2025-12-16T21:10:19.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12190,26 +12190,6 @@
         <updated>2025-11-17T09:34:33.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valakilukkam Kelkkanallo | വള കിലുക്കം കേൾക്കണല്ലോ...| Sphodanam Movie | Sukumaran | ONV Kurup Hits]]></title>
-        <id>https://www.youtube.com/shorts/VkxuDEccCIQ</id>
-        <link href="https://www.youtube.com/shorts/VkxuDEccCIQ"/>
-        <updated>2025-11-17T08:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kooduvittoduvil Njanen | Maria Kolady | Shorts  #Kooduvittoduvil #mariakolady  #PrLazarVMathew]]></title>
-        <id>https://www.youtube.com/shorts/YLkx1nNMxM8</id>
-        <link href="https://www.youtube.com/shorts/YLkx1nNMxM8"/>
-        <updated>2025-11-17T08:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
