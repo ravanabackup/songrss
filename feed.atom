@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T22:09:31.426Z</updated>
+    <updated>2025-12-17T23:10:05.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡിസംബർ: 18 , ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=UQjeKLQWmBw</id>
+        <link href="https://www.youtube.com/watch?v=UQjeKLQWmBw"/>
+        <updated>2025-12-17T22:30:07.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/bM2AWREw0GM</id>
@@ -12176,55 +12185,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലരിതളില്‍ മണിശലഭം വീണു മയങ്ങി രതിനദിയില്‍ ജലതരംഗം നീളെ മുഴങ്ങി #evergreenhits #mohanlal]]></title>
-        <id>https://www.youtube.com/shorts/P3g28Kitlwo</id>
-        <link href="https://www.youtube.com/shorts/P3g28Kitlwo"/>
-        <updated>2025-11-18T11:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanil Ninnum Daivaputhran | Biju Gopan | Jean Kavalayil | Jithu Moni #xmas #christmas |  reel -2]]></title>
-        <id>https://www.youtube.com/shorts/nJoAc8tSibY</id>
-        <link href="https://www.youtube.com/shorts/nJoAc8tSibY"/>
-        <updated>2025-11-18T11:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharalitha Ravil Mayangiyo | തരളിത രാവിൽ മയങ്ങിയോ... | Sooryamanasam | KJ Yesudas | Mammootty Movie]]></title>
-        <id>https://www.youtube.com/shorts/BulbZY69MyY</id>
-        <link href="https://www.youtube.com/shorts/BulbZY69MyY"/>
-        <updated>2025-11-18T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിന്റെ മുഖമുള്ള മനുഷ്യർ | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/VGdQt3SWqUU</id>
-        <link href="https://www.youtube.com/shorts/VGdQt3SWqUU"/>
-        <updated>2025-11-18T10:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=J1eJeKQ4F4U</id>
-        <link href="https://www.youtube.com/watch?v=J1eJeKQ4F4U"/>
-        <updated>2025-11-18T10:18:45.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
