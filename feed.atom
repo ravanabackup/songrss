@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T12:19:42.811Z</updated>
+    <updated>2025-12-18T13:29:10.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Madurai Souljour x Wild Wild Women - Wild Soul (Music Video) | Think Indie]]></title>
+        <id>https://www.youtube.com/watch?v=s5y7CE9uqrI</id>
+        <link href="https://www.youtube.com/watch?v=s5y7CE9uqrI"/>
+        <updated>2025-12-18T13:28:07.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വീണ്ടും വീണ്ടും കേൾക്കാൻ തോന്നുന്ന ഗാനങ്ങൾ | Old Malayalam Songs | Video Jukebox | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Yz5abZBn3cA</id>
+        <link href="https://www.youtube.com/watch?v=Yz5abZBn3cA"/>
+        <updated>2025-12-18T12:30:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chanchala Druthapada Thalam Video Song | Remastered | Ishtam | Mohan Sithara | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=ba7Ryjty34w</id>
