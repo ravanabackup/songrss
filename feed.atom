@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T10:11:15.915Z</updated>
+    <updated>2025-12-18T11:09:48.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulkkoottil Unni Kanchimmunnu | Nithya Mammen #nithyamammen #PulkkoottilUnni #frsajiarackal]]></title>
+        <id>https://www.youtube.com/shorts/qbErwHOBHT0</id>
+        <link href="https://www.youtube.com/shorts/qbErwHOBHT0"/>
+        <updated>2025-12-18T11:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വാതിലുകൾ അടയ്ക്കപ്പെടുമ്പോൾ | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
+        <id>https://www.youtube.com/shorts/7MNTW6gJyGE</id>
+        <link href="https://www.youtube.com/shorts/7MNTW6gJyGE"/>
+        <updated>2025-12-18T10:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EN JEEVANADHAM |സ്നേഹസ്വരൂപനായ യേശുവിന്റെ ഗാനം |        @JinoKunnumpurathu #shorts]]></title>
+        <id>https://www.youtube.com/shorts/ziCAOiNiJwM</id>
+        <link href="https://www.youtube.com/shorts/ziCAOiNiJwM"/>
+        <updated>2025-12-18T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One track. Endless moves. Unlimited vibe. 🔥Grooving today with #MachaMacha from #Pattaapakal 💃]]></title>
+        <id>https://www.youtube.com/shorts/bXPDUymXIA8</id>
+        <link href="https://www.youtube.com/shorts/bXPDUymXIA8"/>
+        <updated>2025-12-18T10:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Allithaamara HD Video Song | Pappan Priyappetta Pappan Malayalam Movie Song | P. Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=gz6oZqHvA6c</id>
@@ -58,6 +98,15 @@
         <link href="https://www.youtube.com/shorts/fSbTzABxGnA"/>
         <updated>2025-12-18T07:00:41.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mannil Santhosham | New Christmas Carol | Thomas Lukose | Leni Thomas | Malayalam Christmas Songs]]></title>
+        <id>https://www.youtube.com/watch?v=V7uH7sf2kAM</id>
+        <link href="https://www.youtube.com/watch?v=V7uH7sf2kAM"/>
+        <updated>2025-12-18T06:46:38.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
         </author>
@@ -12194,15 +12243,6 @@
         <updated>2025-11-18T23:30:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നവംബർ: 19 ,ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!]]></title>
-        <id>https://www.youtube.com/watch?v=eGMzBoY0m0s</id>
-        <link href="https://www.youtube.com/watch?v=eGMzBoY0m0s"/>
-        <updated>2025-11-18T22:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
