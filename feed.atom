@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T12:19:05.180Z</updated>
+    <updated>2025-12-19T13:26:38.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The moment where the film peaked! 📈📈 The climax track that gave us all goosebumps 🔥]]></title>
+        <id>https://www.youtube.com/shorts/TVH4Egfh8VM</id>
+        <link href="https://www.youtube.com/shorts/TVH4Egfh8VM"/>
+        <updated>2025-12-19T12:43:52.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chiraku Thedumee Swaram Video Song | Manthramothiram | Dileep | Nedumudi Venu |G Venugopal | Johnson]]></title>
         <id>https://www.youtube.com/watch?v=KkWfNsbwSjA</id>
@@ -12414,25 +12423,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravil Tharakangal - https://youtu.be/eGJ2AyWeYjY #RavilTharakangal #ChristmasSong #RoseJoe]]></title>
-        <id>https://www.youtube.com/shorts/g38u9oXtOx4</id>
-        <link href="https://www.youtube.com/shorts/g38u9oXtOx4"/>
-        <updated>2025-11-20T01:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunje nee]]></title>
-        <id>https://www.youtube.com/watch?v=dwkuYgBKAww</id>
-        <link href="https://www.youtube.com/watch?v=dwkuYgBKAww"/>
-        <updated>2025-11-20T00:30:41.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
