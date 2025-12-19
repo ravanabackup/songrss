@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T02:45:57.422Z</updated>
+    <updated>2025-12-19T03:51:52.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A song full of beauty 🎶✨, with one lullaby moment that stays forever 👩‍👧🤍 #ithaleponnithale]]></title>
+        <id>https://www.youtube.com/shorts/pl6y3spcswg</id>
+        <link href="https://www.youtube.com/shorts/pl6y3spcswg"/>
+        <updated>2025-12-19T03:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Devotional Songs Live  | Prathyasha Geethangal Live Stream]]></title>
         <id>https://www.youtube.com/watch?v=GSTRbSBcvNM</id>
@@ -233,6 +243,15 @@
         <updated>2025-12-18T12:30:00.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joy to the World | Kids Animation Videos | Christmas Carol Videos | Christmas Song Videos]]></title>
+        <id>https://www.youtube.com/watch?v=1HJUtmMdLAM</id>
+        <link href="https://www.youtube.com/watch?v=1HJUtmMdLAM"/>
+        <updated>2025-12-18T11:58:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
