@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T03:51:52.000Z</updated>
+    <updated>2025-12-19T04:24:24.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Joy to the World | Animation Videos | Christmas Carol Videos | Christmas Songs]]></title>
+        <id>https://www.youtube.com/watch?v=NF3sM7lKx_w</id>
+        <link href="https://www.youtube.com/watch?v=NF3sM7lKx_w"/>
+        <updated>2025-12-19T04:07:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jingle Bells | Animation Videos | Usha Uthup | Christmas Carol Videos | Christmas Song Videos]]></title>
+        <id>https://www.youtube.com/watch?v=emnCAlSTOfk</id>
+        <link href="https://www.youtube.com/watch?v=emnCAlSTOfk"/>
+        <updated>2025-12-19T03:58:07.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A song full of beauty 🎶✨, with one lullaby moment that stays forever 👩‍👧🤍 #ithaleponnithale]]></title>
         <id>https://www.youtube.com/shorts/pl6y3spcswg</id>
