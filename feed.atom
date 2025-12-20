@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T02:26:19.820Z</updated>
+    <updated>2025-12-20T03:42:11.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enthellam Vannalum Karthavin | Mosha Valsalam | Old Malayalam Christian Song | Music Spread |]]></title>
+        <id>https://www.youtube.com/shorts/qDQUGN5qhro</id>
+        <link href="https://www.youtube.com/shorts/qDQUGN5qhro"/>
+        <updated>2025-12-20T02:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maanam Thelinjallo | Maria Kolady | Christmas Shorts #MaanamThelinjallo #malayalamchristiansongs]]></title>
         <id>https://www.youtube.com/shorts/gyQNHRhNZVU</id>
@@ -12252,15 +12262,6 @@
         <updated>2025-11-20T18:01:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 22 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith|]]></title>
-        <id>https://www.youtube.com/watch?v=Rxj_IZ7i84c</id>
-        <link href="https://www.youtube.com/watch?v=Rxj_IZ7i84c"/>
-        <updated>2025-11-20T15:00:07.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
