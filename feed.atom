@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T21:08:06.671Z</updated>
+    <updated>2025-12-20T22:08:29.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/wgbpuy3GKz4</id>
+        <link href="https://www.youtube.com/shorts/wgbpuy3GKz4"/>
+        <updated>2025-12-20T22:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 21 # Athiravile Prarthana 21st of December 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=rZTe9B744q8</id>
@@ -12383,24 +12393,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിശ്വസിച്ചു പ്രാർത്ഥിച്ചവർക്കു ആശ്വാസം നേടിക്കൊടുത്ത ഗാനങ്ങൾ |@JinoKunnumpurathu#jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=M7MJzVA4ubM</id>
-        <link href="https://www.youtube.com/watch?v=M7MJzVA4ubM"/>
-        <updated>2025-11-21T10:02:26.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Koottam | Ambalamukkile Visheshangal | Video | Gokul Suresh | Jayaram Kailas | Ranjin Raj]]></title>
-        <id>https://www.youtube.com/watch?v=9mji-M1hy04</id>
-        <link href="https://www.youtube.com/watch?v=9mji-M1hy04"/>
-        <updated>2025-11-21T09:25:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
