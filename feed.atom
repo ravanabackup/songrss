@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T15:08:41.154Z</updated>
+    <updated>2025-12-20T16:10:33.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jana Perunnal songs l Yeldo Perunnal songs l christmas songs]]></title>
+        <id>https://www.youtube.com/shorts/O6dCspHoFXE</id>
+        <link href="https://www.youtube.com/shorts/O6dCspHoFXE"/>
+        <updated>2025-12-20T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Christian Devotional Songs Malayalam || Vol. 24 || ക്രിസ്തിയ ഭക്തി ഗാനങ്ങൾ || Match Point Faith|]]></title>
+        <id>https://www.youtube.com/watch?v=ofRrNCHhfUM</id>
+        <link href="https://www.youtube.com/watch?v=ofRrNCHhfUM"/>
+        <updated>2025-12-20T15:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഓരോ കേൾവിയിലും പുതുമയോടെ ഹൃദയത്തിൽ നിറയുന്ന ഈ ഗാനങ്ങൾ | Evergreen Malayalam Hits]]></title>
+        <id>https://www.youtube.com/watch?v=2yKbokVUhoA</id>
+        <link href="https://www.youtube.com/watch?v=2yKbokVUhoA"/>
+        <updated>2025-12-20T15:30:02.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏതോ സ്വപ്നം പൂവണിഞ്ഞതോ കയ്യിൽ വന്ന സാമ്രാജ്യം.. Karakaana Kadalala mele | Nadodikattu | Sreenivasan]]></title>
         <id>https://www.youtube.com/shorts/b-mCkFjyo8k</id>
@@ -12486,25 +12514,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തകർച്ചയുടെ ആഴങ്ങളിൽനിന്നും താങ്ങിയെടുക്കുന്ന ഗാനങ്ങൾ  @JinoKunnumpurathu #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=G5PguN3V23o</id>
-        <link href="https://www.youtube.com/watch?v=G5PguN3V23o"/>
-        <updated>2025-11-21T03:50:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marannuvo Poomakale | Chakkaramuthu #Lyrical #Reel #movie #song #viral #video #viralshort]]></title>
-        <id>https://www.youtube.com/shorts/R792cYoHMq4</id>
-        <link href="https://www.youtube.com/shorts/R792cYoHMq4"/>
-        <updated>2025-11-21T03:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
