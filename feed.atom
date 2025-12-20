@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T20:09:45.894Z</updated>
+    <updated>2025-12-20T21:08:06.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12401,25 +12401,6 @@
         <updated>2025-11-21T09:25:09.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 04 #shorts #malayalamsongs #feelgoodmusic]]></title>
-        <id>https://www.youtube.com/shorts/cblGqvGK65s</id>
-        <link href="https://www.youtube.com/shorts/cblGqvGK65s"/>
-        <updated>2025-11-21T08:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eden Poove HD Video Song | Daivathinte Makan Malayalam Movie Song | P. Jayachandran | K. S. Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=ExmZ_KOBf84</id>
-        <link href="https://www.youtube.com/watch?v=ExmZ_KOBf84"/>
-        <updated>2025-11-21T08:23:57.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
