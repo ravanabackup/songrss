@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-21T21:08:30.787Z</updated>
+    <updated>2025-12-21T22:09:13.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/6dKBI56pyQA</id>
+        <link href="https://www.youtube.com/shorts/6dKBI56pyQA"/>
+        <updated>2025-12-21T22:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 22 # Athiravile Prarthana 22nd of December 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=ijEyHSJSQm0</id>
@@ -12299,15 +12309,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Udayagiri Irangi Varum | ഉദയഗിരി ഇറങ്ങി വരും...| Elanjipookkal | KS Chithra | Meena Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=E0v9mcsLtsY</id>
-        <link href="https://www.youtube.com/watch?v=E0v9mcsLtsY"/>
-        <updated>2025-11-22T10:01:53.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
