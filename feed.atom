@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-22T20:10:54.090Z</updated>
+    <updated>2025-12-22T21:08:45.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12383,16 +12383,6 @@
         <updated>2025-11-23T10:12:11.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 06 #shorts #malayalamsongs #feelgoodmusic]]></title>
-        <id>https://www.youtube.com/shorts/dfWNLHYcKhQ</id>
-        <link href="https://www.youtube.com/shorts/dfWNLHYcKhQ"/>
-        <updated>2025-11-23T08:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
