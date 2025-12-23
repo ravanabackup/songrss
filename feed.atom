@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T12:19:54.909Z</updated>
+    <updated>2025-12-23T13:28:33.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Christmas Carol Songs 2025 # Christmas Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=rTQIbvy2bRM</id>
+        <link href="https://www.youtube.com/watch?v=rTQIbvy2bRM"/>
+        <updated>2025-12-23T12:31:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Last Dance - Malayalam Party Jukebox | Premavathi | Kokkedelic | Neon Ride | Varika Varika]]></title>
+        <id>https://www.youtube.com/watch?v=wWAm4X248cc</id>
+        <link href="https://www.youtube.com/watch?v=wWAm4X248cc"/>
+        <updated>2025-12-23T12:19:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ooru Sanam 4K Video Song | Meleparambil Aanveedu | Jayaram | Shobana |KJ Yesudas | Minmini | Johnson]]></title>
         <id>https://www.youtube.com/watch?v=CUeKDvoVa5w</id>
@@ -12463,35 +12481,6 @@
         <updated>2025-11-24T01:47:21.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Praise And Worship Songs Live | Prathyasha Geethangal Live Stream]]></title>
-        <id>https://www.youtube.com/watch?v=OQFYBGwNAzo</id>
-        <link href="https://www.youtube.com/watch?v=OQFYBGwNAzo"/>
-        <updated>2025-11-24T01:19:32.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravil Tharakangal | Christmas Songs Shorts | Rose Joe #RavilTharakangal #ChristmasSong #RoseJoe]]></title>
-        <id>https://www.youtube.com/shorts/vldkoaSx5zc</id>
-        <link href="https://www.youtube.com/shorts/vldkoaSx5zc"/>
-        <updated>2025-11-24T01:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinneyum Pinneyum | Christian Devotional Shorts #shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/NOxaKlgQgTk</id>
-        <link href="https://www.youtube.com/shorts/NOxaKlgQgTk"/>
-        <updated>2025-11-24T01:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
