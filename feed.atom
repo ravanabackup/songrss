@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T17:11:18.591Z</updated>
+    <updated>2025-12-23T18:15:21.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th December 25]]></title>
+        <id>https://www.youtube.com/watch?v=X9FasBVLxfY</id>
+        <link href="https://www.youtube.com/watch?v=X9FasBVLxfY"/>
+        <updated>2025-12-23T18:00:48.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23 December 2025]]></title>
         <id>https://www.youtube.com/shorts/HlRfacJ0_PM</id>
@@ -5737,6 +5746,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടിനൊപ്പം ഉറക്കത്തിലേക്ക് | Malayalam Sleep Melodies | M. G. Sreekumar| K. S. Chithra| KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=37mzvfRPyTs</id>
+        <link href="https://www.youtube.com/watch?v=37mzvfRPyTs"/>
+        <updated>2025-12-10T14:00:06.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -12552,24 +12570,6 @@
         <updated>2025-11-24T07:10:48.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranayakadha Paadivannu Deepasthambham Mahascharyam Video Song | Mohan Sitara | Dileep Hits]]></title>
-        <id>https://www.youtube.com/watch?v=iuSNv9KHMKU</id>
-        <link href="https://www.youtube.com/watch?v=iuSNv9KHMKU"/>
-        <updated>2025-11-24T05:43:26.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arumayam Pournami | Uthram Nakshathram | K J Yesudas | K.Jayakumar | Sunny Stephen]]></title>
-        <id>https://www.youtube.com/watch?v=yWcUXa73j6M</id>
-        <link href="https://www.youtube.com/watch?v=yWcUXa73j6M"/>
-        <updated>2025-11-24T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
