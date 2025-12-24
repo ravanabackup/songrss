@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T12:19:12.712Z</updated>
+    <updated>2025-12-24T13:25:14.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Magic Mushrooms | Official Teaser | Nadirshah | Vishnu Unnikrishnan | Akshaya | Abin Bino]]></title>
+        <id>https://www.youtube.com/watch?v=vAdPrG6pv1k</id>
+        <link href="https://www.youtube.com/watch?v=vAdPrG6pv1k"/>
+        <updated>2025-12-24T13:00:07.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost Of Tundra | ekō - Original Soundtrack | Mujeeb Majeed]]></title>
+        <id>https://www.youtube.com/watch?v=n_bnafEcbRw</id>
+        <link href="https://www.youtube.com/watch?v=n_bnafEcbRw"/>
+        <updated>2025-12-24T12:31:26.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy christmas]]></title>
+        <id>https://www.youtube.com/shorts/BOZqA8Rg5GQ</id>
+        <link href="https://www.youtube.com/shorts/BOZqA8Rg5GQ"/>
+        <updated>2025-12-24T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Lokam - Audio Song | Philip's | Hesham Abdul Wahab | Job Kurian | Mukesh | Alfred Kurian]]></title>
+        <id>https://www.youtube.com/watch?v=ALmvN_bYO7c</id>
+        <link href="https://www.youtube.com/watch?v=ALmvN_bYO7c"/>
+        <updated>2025-12-24T12:30:18.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aakasha Thamara Pole 4K Video Song | Ayal Kadha Ezhuthukayanu | Mohanlal | KJ Yesudas | Mano]]></title>
         <id>https://www.youtube.com/watch?v=sD1RnDE_YPY</id>
@@ -12673,26 +12710,6 @@
         <updated>2025-11-25T05:30:04.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathirakkili SwapnamKanum | Christmas Carol 2025 - https://youtu.be/jjWY-F-OVtw #ChristmasSong]]></title>
-        <id>https://www.youtube.com/shorts/AjyFHJzOCxk</id>
-        <link href="https://www.youtube.com/shorts/AjyFHJzOCxk"/>
-        <updated>2025-11-25T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame Thriyekane | Christian Devotional Shorts #shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/NGud22H7HUE</id>
-        <link href="https://www.youtube.com/shorts/NGud22H7HUE"/>
-        <updated>2025-11-25T01:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
