@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T09:14:18.428Z</updated>
+    <updated>2025-12-24T10:11:13.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവപുത്രനെ വരവേൽക്കാനുള്ള ക്രിസ്തുമസ് ഗാനങ്ങൾ | X' Mas Songs 2025 | Christian Songs | Carol Songs]]></title>
+        <id>https://www.youtube.com/watch?v=o8lFnjb1JRQ</id>
+        <link href="https://www.youtube.com/watch?v=o8lFnjb1JRQ"/>
+        <updated>2025-12-24T09:50:38.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas | Manorama Music #merrychristmas2025]]></title>
+        <id>https://www.youtube.com/shorts/wDq0VQ_lPL0</id>
+        <link href="https://www.youtube.com/shorts/wDq0VQ_lPL0"/>
+        <updated>2025-12-24T09:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ponnambal Poomani | പൊന്നാമ്പൽ പൂമണി...| Aakashathekoru Kilivathil | MG Sreekumar | KS Chithra]]></title>
         <id>https://www.youtube.com/shorts/duxced55Fc8</id>
@@ -12586,16 +12605,6 @@
         <updated>2025-11-24T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/IjMm9OlA0B4</id>
-        <link href="https://www.youtube.com/shorts/IjMm9OlA0B4"/>
-        <updated>2025-11-24T22:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
