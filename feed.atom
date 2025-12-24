@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T14:10:11.131Z</updated>
+    <updated>2025-12-24T15:10:36.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jana Perunnal songs l Yeldo Perunnal songs l christmas songs]]></title>
+        <id>https://www.youtube.com/shorts/whGir9YtdW8</id>
+        <link href="https://www.youtube.com/shorts/whGir9YtdW8"/>
+        <updated>2025-12-24T14:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paithalam Yesuve | പൈതലാം യേശുവേ...| Christmas Special Song 2025 | Devotional Hit Song | New Song]]></title>
         <id>https://www.youtube.com/shorts/w1JeNzoFYJk</id>
