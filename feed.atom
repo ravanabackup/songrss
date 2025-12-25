@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T22:09:19.456Z</updated>
+    <updated>2025-12-25T23:09:22.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡിസംബർ: 26, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=ZDWGbz3JDUE</id>
+        <link href="https://www.youtube.com/watch?v=ZDWGbz3JDUE"/>
+        <updated>2025-12-25T22:30:14.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/acGl4Q3Wlsw</id>
@@ -12669,53 +12678,6 @@
         <updated>2025-11-26T11:30:24.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thakkudu Kutta  | Pattanathil Sundaran Video Song | Dileep | MG Sreekumar| Mohan Sithara Hits]]></title>
-        <id>https://www.youtube.com/watch?v=Y8_mRTDi3Uw</id>
-        <link href="https://www.youtube.com/watch?v=Y8_mRTDi3Uw"/>
-        <updated>2025-11-26T11:08:33.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉള്ള് അറിയുന്നവൻ    | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/A9N0FXyZpS4</id>
-        <link href="https://www.youtube.com/shorts/A9N0FXyZpS4"/>
-        <updated>2025-11-26T11:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മേഘ്‌നക്കുട്ടി പാടിയ ഒരടിപൊളി ഗാനം | ALTHARAYIL |     @JinoKunnumpurathu  | #shorts #hits]]></title>
-        <id>https://www.youtube.com/shorts/b1gFkr4-hug</id>
-        <link href="https://www.youtube.com/shorts/b1gFkr4-hug"/>
-        <updated>2025-11-26T11:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയത്തിൽ വേരൂന്നിയ ക്രിസ്തീയഗാനങ്ങൾ  #jinokunnumpurath  #trendingvideo#malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=kXGUCcRluzo</id>
-        <link href="https://www.youtube.com/watch?v=kXGUCcRluzo"/>
-        <updated>2025-11-26T10:56:14.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thudarchayay Kelkkenda Ganangal | Anuradha Sriram | Kester | Wilswaraj | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=gtzDux2s3lg</id>
-        <link href="https://www.youtube.com/watch?v=gtzDux2s3lg"/>
-        <updated>2025-11-26T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
