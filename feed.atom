@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T02:48:12.430Z</updated>
+    <updated>2025-12-25T03:54:17.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas Dance Party - Video Jukebox | Kondal Vedan Song | Onam Mood | Neela Nilave]]></title>
+        <id>https://www.youtube.com/watch?v=SuYl7SEoUEc</id>
+        <link href="https://www.youtube.com/watch?v=SuYl7SEoUEc"/>
+        <updated>2025-12-25T03:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjin Thooval  #Lyrical #Video #Aviyal #KSChitra$ #UnniMenon #Sharreth]]></title>
+        <id>https://www.youtube.com/shorts/axAi7mcOjso</id>
+        <link href="https://www.youtube.com/shorts/axAi7mcOjso"/>
+        <updated>2025-12-25T03:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aakasha Veedhikalil | Christmas Shorts]]></title>
         <id>https://www.youtube.com/shorts/IMm3T9tBncQ</id>
@@ -12590,26 +12609,6 @@
         <updated>2025-11-25T18:01:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulkkoottil #nithyamammen #PulkkoottilUnni #frsajiarackal https://youtu.be/1jLpYkErlns]]></title>
-        <id>https://www.youtube.com/shorts/yB31EddnRfU</id>
-        <link href="https://www.youtube.com/shorts/yB31EddnRfU"/>
-        <updated>2025-11-25T15:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulkkoottil Unni Kanchimmunnu | Nithya Mammen #nithyamammen #PulkkoottilUnni #frsajiarackal]]></title>
-        <id>https://www.youtube.com/shorts/b1rcgtLOaRA</id>
-        <link href="https://www.youtube.com/shorts/b1rcgtLOaRA"/>
-        <updated>2025-11-25T15:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
