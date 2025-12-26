@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T12:19:02.266Z</updated>
+    <updated>2025-12-26T13:25:47.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Niraye - Audio Song | Philip's | Hesham Abdul Wahab | Mukesh Madhavan | Alfred Kurian]]></title>
+        <id>https://www.youtube.com/watch?v=bcd3GCvsO0s</id>
+        <link href="https://www.youtube.com/watch?v=bcd3GCvsO0s"/>
+        <updated>2025-12-26T12:30:55.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakshithavine Kanka | രക്ഷിതാവിനെ കാണ്കപാപീ | Malayalam Christian Song| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/JDY-sOTI8sQ</id>
+        <link href="https://www.youtube.com/shorts/JDY-sOTI8sQ"/>
+        <updated>2025-12-26T12:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wall Of Frame | ekō - Original Soundtrack | Mujeeb Majeed]]></title>
+        <id>https://www.youtube.com/watch?v=CXNtifDb1v0</id>
+        <link href="https://www.youtube.com/watch?v=CXNtifDb1v0"/>
+        <updated>2025-12-26T12:30:17.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poove Ponpoove 4K Video Song | Poovinnu Puthiya Poonthennal | Mammootty | Nadhiya | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=3axk9g5PJxo</id>
@@ -12817,35 +12845,6 @@
         <updated>2025-11-27T01:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravil Tharakangal - https://youtu.be/eGJ2AyWeYjY #RavilTharakangal #ChristmasSong #RoseJoe]]></title>
-        <id>https://www.youtube.com/shorts/hBrPPXF7Sfc</id>
-        <link href="https://www.youtube.com/shorts/hBrPPXF7Sfc"/>
-        <updated>2025-11-27T01:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=aiSFxrkvg1E</id>
-        <link href="https://www.youtube.com/watch?v=aiSFxrkvg1E"/>
-        <updated>2025-11-27T01:13:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulkkoottil Unni Kanchimmunnu #nithyamammen #PulkkoottilUnni #frsajiarackal]]></title>
-        <id>https://www.youtube.com/shorts/SbD5Wdep6PA</id>
-        <link href="https://www.youtube.com/shorts/SbD5Wdep6PA"/>
-        <updated>2025-11-27T01:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
