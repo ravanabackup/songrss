@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T07:13:00.274Z</updated>
+    <updated>2025-12-26T08:14:35.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thani Oruvan - Theemai Dhaan Vellum Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
+        <id>https://www.youtube.com/watch?v=m2F5Fplk6Mk</id>
+        <link href="https://www.youtube.com/watch?v=m2F5Fplk6Mk"/>
+        <updated>2025-12-26T08:00:56.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas 🎅 #matchpointfaith #christmas #malayalamchristiansongs #matchpointcreations]]></title>
+        <id>https://www.youtube.com/shorts/49ncQS-UK3Q</id>
+        <link href="https://www.youtube.com/shorts/49ncQS-UK3Q"/>
+        <updated>2025-12-26T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളക്കര നെഞ്ചേറ്റിയ ഗാനങ്ങൾ 💖✨ | ALL TIME MALAYALAM SUPER HITS | #nisarichithrageetham]]></title>
+        <id>https://www.youtube.com/watch?v=WNGdvXNxW7o</id>
+        <link href="https://www.youtube.com/watch?v=WNGdvXNxW7o"/>
+        <updated>2025-12-26T07:30:26.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas 🎅 #matchpointfaith #christmas #malayalamchristiansongs #matchpointcreations]]></title>
         <id>https://www.youtube.com/shorts/NEmcjqYkH94</id>
