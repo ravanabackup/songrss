@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T08:14:35.383Z</updated>
+    <updated>2025-12-26T09:11:56.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaalamthullum | താളംതുള്ളും...| Athikaram | KJ Yesudas | Sathyan Anthikad | Seema | Sukumaran]]></title>
+        <id>https://www.youtube.com/shorts/7zbmBJh5gZw</id>
+        <link href="https://www.youtube.com/shorts/7zbmBJh5gZw"/>
+        <updated>2025-12-26T09:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas 🎅 #matchpointfaith #christmas #malayalamchristiansongs #matchpointcreations]]></title>
+        <id>https://www.youtube.com/shorts/6aShL01aawQ</id>
+        <link href="https://www.youtube.com/shorts/6aShL01aawQ"/>
+        <updated>2025-12-26T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Thulli Pala Thulli | Sreekrishnapurathe Nakshathrathilakkam Malayalam Movie Song | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=9svoFEVEKDc</id>
+        <link href="https://www.youtube.com/watch?v=9svoFEVEKDc"/>
+        <updated>2025-12-26T08:21:50.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thani Oruvan - Theemai Dhaan Vellum Video with Lyrics | Jayam Ravi | Hiphop Tamizha]]></title>
         <id>https://www.youtube.com/watch?v=m2F5Fplk6Mk</id>
