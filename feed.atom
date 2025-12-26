@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T19:07:36.859Z</updated>
+    <updated>2025-12-26T20:10:07.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12898,24 +12898,6 @@
         <updated>2025-11-27T08:22:17.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suraa - Thanjavoor Jilla Kaari Video with Lyrics | Vijay | Mani Sharma]]></title>
-        <id>https://www.youtube.com/watch?v=cRfNw82JmwE</id>
-        <link href="https://www.youtube.com/watch?v=cRfNw82JmwE"/>
-        <updated>2025-11-27T08:00:55.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളിപ്രേക്ഷകരുടെ ഹൃദയം തൊടുന്ന മോഹൻ സിത്താരയുടെ അമൂല്യ ഗാനങ്ങൾ | HITS OF MOHAN SITHARA]]></title>
-        <id>https://www.youtube.com/watch?v=MRcju9BsoPo</id>
-        <link href="https://www.youtube.com/watch?v=MRcju9BsoPo"/>
-        <updated>2025-11-27T07:30:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
