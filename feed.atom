@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T09:10:19.780Z</updated>
+    <updated>2025-12-27T10:09:53.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neeyen Priya Thozhan | നീയെൻ പ്രിയ തോഴൻ #jesus #christianshorts #jesuslove #jesusshorts #prayersong]]></title>
+        <id>https://www.youtube.com/shorts/IRe726rz-Tk</id>
+        <link href="https://www.youtube.com/shorts/IRe726rz-Tk"/>
+        <updated>2025-12-27T09:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Mezhuthiriyude | ഒരു മെഴുതിരിയുടെ...| Vishudhan Movie | Shahabaz Aman | Mridula Warrior]]></title>
         <id>https://www.youtube.com/shorts/ac44e0c82ak</id>
@@ -12793,16 +12803,6 @@
         <updated>2025-11-27T22:30:28.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/PguWkDmtDc0</id>
-        <link href="https://www.youtube.com/shorts/PguWkDmtDc0"/>
-        <updated>2025-11-27T22:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
