@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T19:07:03.263Z</updated>
+    <updated>2025-12-27T20:10:41.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12910,34 +12910,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎼 Filled with feeling and wrapped in melody, Thaane Mounam shines as today’s Song of the Day.]]></title>
-        <id>https://www.youtube.com/shorts/c8CVam_Y_tY</id>
-        <link href="https://www.youtube.com/shorts/c8CVam_Y_tY"/>
-        <updated>2025-11-28T08:07:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yentha Vaadu Gaanie - Neekem Kaavaalo Cheppu Video Song | Ajith Kumar, Harris Jayaraj]]></title>
-        <id>https://www.youtube.com/watch?v=Zc2hWn67ZPk</id>
-        <link href="https://www.youtube.com/watch?v=Zc2hWn67ZPk"/>
-        <updated>2025-11-28T08:00:56.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിനെ വേറേതോ ലോകത്തേക്ക് കൊണ്ടുപോകുന്ന മനം കുളിരും സിനിമാഗാനങ്ങൾ |  SOULFUL SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=2gV3wwan1kg</id>
-        <link href="https://www.youtube.com/watch?v=2gV3wwan1kg"/>
-        <updated>2025-11-28T07:30:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
