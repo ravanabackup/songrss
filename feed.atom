@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T06:14:56.830Z</updated>
+    <updated>2025-12-27T07:10:06.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Mezhuthiriyude | ഒരു മെഴുതിരിയുടെ...| Vishudhan Movie | Shahabaz Aman | Mridula Warrior]]></title>
+        <id>https://www.youtube.com/watch?v=NCOQc6bDR4g</id>
+        <link href="https://www.youtube.com/watch?v=NCOQc6bDR4g"/>
+        <updated>2025-12-27T06:43:51.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Sathvika | Entry No: 9 | Biju Paulose | Roy Kanjirathanam]]></title>
         <id>https://www.youtube.com/watch?v=oM1naDPrcRc</id>
@@ -12755,15 +12764,6 @@
         <link href="https://www.youtube.com/shorts/PguWkDmtDc0"/>
         <updated>2025-11-27T22:00:35.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന November 28 # Athiravile Prarthana 28th November 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lDYHuxUFcLY</id>
-        <link href="https://www.youtube.com/watch?v=lDYHuxUFcLY"/>
-        <updated>2025-11-27T19:00:52.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
