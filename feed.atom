@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-29T04:09:54.306Z</updated>
+    <updated>2025-12-29T05:19:54.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thanks Giving Songs | Happy New Year 2026 #manoramachristiansongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/h8k219tgMP4</id>
+        <link href="https://www.youtube.com/shorts/h8k219tgMP4"/>
+        <updated>2025-12-29T05:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിത്യഹരിത ഗാനങ്ങൾ | Old is Gold | Malayalam Evergreen Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=YftNMERTFGk</id>
+        <link href="https://www.youtube.com/watch?v=YftNMERTFGk"/>
+        <updated>2025-12-29T04:28:42.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Priyan Yeshurajan | Christian Shorts]]></title>
         <id>https://www.youtube.com/shorts/i2FfMkpCMno</id>
@@ -12623,15 +12642,6 @@
         <updated>2025-11-29T18:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilaiyaraaja, Malaysia Vasudevan - Naan Paasamalar (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=_TAWhzjLB_I</id>
-        <link href="https://www.youtube.com/watch?v=_TAWhzjLB_I"/>
-        <updated>2025-11-29T16:39:52.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
