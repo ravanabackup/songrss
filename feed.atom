@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-29T22:09:54.205Z</updated>
+    <updated>2025-12-29T23:09:20.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡിസംബർ: 30, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=MKczbNUi9jU</id>
+        <link href="https://www.youtube.com/watch?v=MKczbNUi9jU"/>
+        <updated>2025-12-29T22:30:07.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/LIZXtK2qgbU</id>
@@ -12838,53 +12847,6 @@
         <updated>2025-11-30T11:30:19.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉള്ളുരുകി പ്രാർത്ഥിക്കാം ഈ ഗാനങ്ങളിലൂടെ |  @JinoKunnumpurathu  | #christiansongs | #trending]]></title>
-        <id>https://www.youtube.com/watch?v=TWWk561cn1Y</id>
-        <link href="https://www.youtube.com/watch?v=TWWk561cn1Y"/>
-        <updated>2025-11-30T10:41:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | @KSChithra | Biju Paulose | Roy Kanjirathanam  reel - 3]]></title>
-        <id>https://www.youtube.com/shorts/bVr5O3MAdu8</id>
-        <link href="https://www.youtube.com/shorts/bVr5O3MAdu8"/>
-        <updated>2025-11-30T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits of Sudheep Kumar Vol 02 | Super Hit Christian Devotional Songs | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=IxdzD3vupRw</id>
-        <link href="https://www.youtube.com/watch?v=IxdzD3vupRw"/>
-        <updated>2025-11-30T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സഹിക്കാൻ കഴിയാത്ത നൊമ്പരങ്ങൾ | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/-kVdy6Ky9JM</id>
-        <link href="https://www.youtube.com/shorts/-kVdy6Ky9JM"/>
-        <updated>2025-11-30T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dheeram Official Trailer | Indrajith Sukumaran | Jithin Suresh T | Manikandan Ayyappa]]></title>
-        <id>https://www.youtube.com/watch?v=zmZqP1zYV4I</id>
-        <link href="https://www.youtube.com/watch?v=zmZqP1zYV4I"/>
-        <updated>2025-11-30T10:17:09.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
