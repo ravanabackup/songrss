@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T08:15:05.580Z</updated>
+    <updated>2025-12-30T09:14:38.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aalila manjalil neeyadumbol | Sooryagayathri | ONV | Raveendran | KS Chithra | Mohanlal | Urvashi]]></title>
+        <id>https://www.youtube.com/watch?v=07vRFOxEpLE</id>
+        <link href="https://www.youtube.com/watch?v=07vRFOxEpLE"/>
+        <updated>2025-12-30T08:55:35.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandhanakkuriyumaayi | ചന്ദനക്കുറിയുമായ്...| Oru Nokku Kaanan Movie | Unni Menon | KS Chithra Song]]></title>
+        <id>https://www.youtube.com/shorts/zdqwjVR9OX8</id>
+        <link href="https://www.youtube.com/shorts/zdqwjVR9OX8"/>
+        <updated>2025-12-30T08:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തുമ്പപ്പൂ മുണ്ട് തുന്നിയിരിക്കുന്ന | Thumbha poomund | Mandhrika Kuthira | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/shorts/nvGL5V8DqKI</id>
+        <link href="https://www.youtube.com/shorts/nvGL5V8DqKI"/>
+        <updated>2025-12-30T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kiss - A Kiss Across Time Video | Kavin | Preethi Asrani | Jen Martin]]></title>
         <id>https://www.youtube.com/watch?v=gc53fH8RU1M</id>
