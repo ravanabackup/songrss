@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T07:13:58.718Z</updated>
+    <updated>2025-12-30T08:15:05.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kiss - A Kiss Across Time Video | Kavin | Preethi Asrani | Jen Martin]]></title>
+        <id>https://www.youtube.com/watch?v=gc53fH8RU1M</id>
+        <link href="https://www.youtube.com/watch?v=gc53fH8RU1M"/>
+        <updated>2025-12-30T08:00:54.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേട്ട് കേട്ട് മതിമറന്നുപോയ മലയാളസിനിമയിലെ DUET ഗാനങ്ങൾ ✨| SUPERHIT DUET SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=Zs1Yf_vFzBA</id>
+        <link href="https://www.youtube.com/watch?v=Zs1Yf_vFzBA"/>
+        <updated>2025-12-30T07:30:18.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Sneha | Entry No: 12 | Biju Paulose | Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=O80MMluj7TU</id>
+        <link href="https://www.youtube.com/watch?v=O80MMluj7TU"/>
+        <updated>2025-12-30T07:28:46.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Priya | Entry No: 11 | Biju Paulose | Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=GU6zYUwDGG4</id>
+        <link href="https://www.youtube.com/watch?v=GU6zYUwDGG4"/>
+        <updated>2025-12-30T07:23:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pandimelam Video Song | 4K Remastered | Rajamanikyam | Mammootty | Gireesh Puthenchery | Rahman]]></title>
         <id>https://www.youtube.com/watch?v=dsdsdcIXPCU</id>
