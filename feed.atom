@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T21:09:23.410Z</updated>
+    <updated>2025-12-30T22:09:46.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/TUARCOovDv0</id>
+        <link href="https://www.youtube.com/shorts/TUARCOovDv0"/>
+        <updated>2025-12-30T22:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 31 # Athiravile Prarthana 31st of December 2025 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=JGoaKlM7Kho</id>
@@ -13128,16 +13138,6 @@
         <updated>2025-12-01T10:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyonnu Paadu Hridayame | ഇനിയൊന്നു പാടൂ ഹൃദയമേ | Golaantharavartha | KJ Yesudas | Shobhana Movie]]></title>
-        <id>https://www.youtube.com/shorts/BBJJkUT_IDo</id>
-        <link href="https://www.youtube.com/shorts/BBJJkUT_IDo"/>
-        <updated>2025-12-01T09:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
