@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T19:08:04.674Z</updated>
+    <updated>2025-12-31T20:10:39.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13429,24 +13429,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannum Kannum Kathirunnu | CMC Sisters, Vimala Province | Titus Mathew | Super Hit Christmas Carol]]></title>
-        <id>https://www.youtube.com/watch?v=4JMe13XZvs8</id>
-        <link href="https://www.youtube.com/watch?v=4JMe13XZvs8"/>
-        <updated>2025-12-02T08:06:33.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yentha Vaadu Gaanie - Nanu Gelichey Magavaadu Video Song | Ajith Kumar, Harris Jayaraj]]></title>
-        <id>https://www.youtube.com/watch?v=81RWnWoL_bQ</id>
-        <link href="https://www.youtube.com/watch?v=81RWnWoL_bQ"/>
-        <updated>2025-12-02T08:00:09.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
