@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T09:14:24.693Z</updated>
+    <updated>2026-01-01T10:11:27.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Rose Maria| Entry No: 18 |Biju Paulose |Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=I1FPeYsJSco</id>
+        <link href="https://www.youtube.com/watch?v=I1FPeYsJSco"/>
+        <updated>2026-01-01T09:18:16.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Rosini | Entry No: 17 | Biju Paulose | Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=znMLtDUJt3I</id>
+        <link href="https://www.youtube.com/watch?v=znMLtDUJt3I"/>
+        <updated>2026-01-01T09:12:24.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Jinu | Entry No: 16 | Biju Paulose | Roy Kanjirathanam]]></title>
         <id>https://www.youtube.com/watch?v=lZfmj9QfGos</id>
@@ -694,6 +712,15 @@
         <updated>2025-12-31T06:35:53.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEGHAMAYI NEE Video Song | Ranjith Meleppatt | Karthika Kumar | ABDT Short Film]]></title>
+        <id>https://www.youtube.com/watch?v=Ik1UuIfoqzw</id>
+        <link href="https://www.youtube.com/watch?v=Ik1UuIfoqzw"/>
+        <updated>2025-12-31T05:53:31.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -13383,16 +13410,6 @@
         <updated>2025-12-02T22:30:13.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/JaiGKdvQGIU</id>
-        <link href="https://www.youtube.com/shorts/JaiGKdvQGIU"/>
-        <updated>2025-12-02T22:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
