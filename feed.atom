@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T17:10:32.530Z</updated>
+    <updated>2026-01-01T18:14:57.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd January 2026]]></title>
+        <id>https://www.youtube.com/watch?v=ok33gZeJUBY</id>
+        <link href="https://www.youtube.com/watch?v=ok33gZeJUBY"/>
+        <updated>2026-01-01T18:00:51.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ 𝓗𝓪𝓹𝓹𝔂 𝓝𝓮𝔀 𝓨𝓮𝓪𝓻 ✨  #matchpointfaith #matchpointcreations #HappyNewYear #newyear2026]]></title>
         <id>https://www.youtube.com/shorts/gbb-Vzuf0rw</id>
@@ -13566,33 +13575,6 @@
         <updated>2025-12-03T06:17:17.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Paattinu Chirakukal | എൻ പാട്ടിനു ചിറകുകൾ | Grihalakshmi Movie | KJ Yesudas | Srividhya | Madhu]]></title>
-        <id>https://www.youtube.com/watch?v=Pkh9RRbwnFE</id>
-        <link href="https://www.youtube.com/watch?v=Pkh9RRbwnFE"/>
-        <updated>2025-12-03T06:02:30.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oduvil | Thirakkatha | Video Song | Prithviraj | Ranjith | Rafeeq Ahamed | Sharreth | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=zsJnI4fA8SI</id>
-        <link href="https://www.youtube.com/watch?v=zsJnI4fA8SI"/>
-        <updated>2025-12-03T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vilkkanundo Swapnangal  |Indrajalam Movie Song |Mohanlal| O.N.V.Krurp |S.P.Venkitesh | M.G.Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=6jmkXPBckKM</id>
-        <link href="https://www.youtube.com/watch?v=6jmkXPBckKM"/>
-        <updated>2025-12-03T05:17:35.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>

@@ -3795,6 +3795,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ok33gZeJUBY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ok33gZeJUBY",
+          "publishedOn": "2026-01-01T18:00:51.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd January 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nqD8CEhf5-c",
           "author": null,
           "description": "",
@@ -7424,16 +7434,6 @@
           "wordCount": 2016,
           "title": "Nakshathra Ravil | Chithra Arun |Shorts #chithraarun #NakshathraRavil #ShineValladan #manoramamusic",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zsJnI4fA8SI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zsJnI4fA8SI",
-          "publishedOn": "2025-12-03T05:30:06.000Z",
-          "wordCount": null,
-          "title": "Oduvil | Thirakkatha | Video Song | Prithviraj | Ranjith | Rafeeq Ahamed | Sharreth | K S Chithra",
-          "imageUrl": null
         }
       ]
     },
@@ -10518,16 +10518,6 @@
           "link": "https://www.youtube.com/shorts/fQzcF7WV0VE",
           "publishedOn": "2025-12-03T08:00:54.000Z",
           "wordCount": 2142,
-          "title": "En Paattinu Chirakukal | എൻ പാട്ടിനു ചിറകുകൾ | Grihalakshmi Movie | KJ Yesudas | Srividhya | Madhu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pkh9RRbwnFE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pkh9RRbwnFE",
-          "publishedOn": "2025-12-03T06:02:30.000Z",
-          "wordCount": null,
           "title": "En Paattinu Chirakukal | എൻ പാട്ടിനു ചിറകുകൾ | Grihalakshmi Movie | KJ Yesudas | Srividhya | Madhu",
           "imageUrl": null
         }
@@ -13712,16 +13702,6 @@
           "publishedOn": "2025-12-03T08:26:41.000Z",
           "wordCount": null,
           "title": "Andhakaram 4K | Padheyam Movie Song | Bombay Ravi | K J Yesudas | Kaithapram",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6jmkXPBckKM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6jmkXPBckKM",
-          "publishedOn": "2025-12-03T05:17:35.000Z",
-          "wordCount": null,
-          "title": "Vilkkanundo Swapnangal  |Indrajalam Movie Song |Mohanlal| O.N.V.Krurp |S.P.Venkitesh | M.G.Sreekumar",
           "imageUrl": null
         }
       ]
