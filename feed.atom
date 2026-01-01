@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T08:14:55.655Z</updated>
+    <updated>2026-01-01T09:14:24.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Jinu | Entry No: 16 | Biju Paulose | Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=lZfmj9QfGos</id>
+        <link href="https://www.youtube.com/watch?v=lZfmj9QfGos"/>
+        <updated>2026-01-01T09:06:37.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacha Mulaku Aracha | പച്ച മുളക് അരച്ച...| Rakshakan Movie |Afsal | Kalabhavan Mani Movie]]></title>
+        <id>https://www.youtube.com/shorts/HUfkUqzsiTE</id>
+        <link href="https://www.youtube.com/shorts/HUfkUqzsiTE"/>
+        <updated>2026-01-01T08:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brahmastra (Tamil) - Theethiriyaai Video with Lyrics |Ranbir | Alia | Pritam | Sid Sriram]]></title>
         <id>https://www.youtube.com/watch?v=6VTRQUQOD1A</id>
