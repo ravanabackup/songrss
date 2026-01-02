@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T10:10:36.461Z</updated>
+    <updated>2026-01-02T11:09:23.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തോടുള്ള പ്രാർത്ഥന | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
+        <id>https://www.youtube.com/shorts/FqlP6AOVsok</id>
+        <link href="https://www.youtube.com/shorts/FqlP6AOVsok"/>
+        <updated>2026-01-02T10:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manam Kalangidumbol | മനോഹരമായ ഗാനം | @JinoKunnumpurathu   | #shorts #toptrending]]></title>
+        <id>https://www.youtube.com/shorts/TV-tja_C5CE</id>
+        <link href="https://www.youtube.com/shorts/TV-tja_C5CE"/>
+        <updated>2026-01-02T10:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thechi Poove | തെച്ചിപ്പൂവേ തെങ്കാശിപ്പൂവേ | Radholsavam Movie Hit Song | K J Yesudas | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=FIqRtooyXcI</id>
+        <link href="https://www.youtube.com/watch?v=FIqRtooyXcI"/>
+        <updated>2026-01-02T10:16:03.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennu Kanum Njan | Cover Video Song | Radhika Sethumadhavan | Ayal Njanalla | Fahad Fazil]]></title>
         <id>https://www.youtube.com/shorts/XmvDr8xgdwY</id>
@@ -13553,15 +13582,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിസംബർ: 04, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
-        <id>https://www.youtube.com/watch?v=HD_8AoRS06c</id>
-        <link href="https://www.youtube.com/watch?v=HD_8AoRS06c"/>
-        <updated>2025-12-03T22:30:04.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
