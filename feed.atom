@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T09:14:04.718Z</updated>
+    <updated>2026-01-02T10:10:36.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ennu Kanum Njan | Cover Video Song | Radhika Sethumadhavan | Ayal Njanalla | Fahad Fazil]]></title>
+        <id>https://www.youtube.com/shorts/XmvDr8xgdwY</id>
+        <link href="https://www.youtube.com/shorts/XmvDr8xgdwY"/>
+        <updated>2026-01-02T09:36:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Adhilakshmi |Entry No:21 |Biju Paulose |Roy Kanjirathanam]]></title>
         <id>https://www.youtube.com/watch?v=HOduqYpbJDc</id>
@@ -87,6 +97,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premanairashyam (Official Music Video) - Ramakrishnan Hareesh | Aromal R V| Six Minus One Short Film]]></title>
+        <id>https://www.youtube.com/watch?v=uSzuAX0TWYo</id>
+        <link href="https://www.youtube.com/watch?v=uSzuAX0TWYo"/>
+        <updated>2026-01-02T05:57:05.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -13543,16 +13562,6 @@
         <updated>2025-12-03T22:30:04.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/lJrJuE2GQfs</id>
-        <link href="https://www.youtube.com/shorts/lJrJuE2GQfs"/>
-        <updated>2025-12-03T22:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
