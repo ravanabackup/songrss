@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T19:06:12.624Z</updated>
+    <updated>2026-01-02T20:10:34.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13541,42 +13541,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Call Him OG (Kannada) - Hungry Cheetah Video Song | Pawan Kalyan | Thaman S]]></title>
-        <id>https://www.youtube.com/watch?v=W0gbLB7dn4c</id>
-        <link href="https://www.youtube.com/watch?v=W0gbLB7dn4c"/>
-        <updated>2025-12-04T08:00:42.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allikalil | Malayalam Video Song | Praja Malayalam Movie Song | M. G. Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=gWPOq4tZ73w</id>
-        <link href="https://www.youtube.com/watch?v=gWPOq4tZ73w"/>
-        <updated>2025-12-04T08:00:06.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാരണവന്മാർ പാടിത്തന്ന പഴയ ക്രിസ്തീയ ഗാനങ്ങൾ | Morning Prayer and Worship Songs | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=GVRav8kKIbI</id>
-        <link href="https://www.youtube.com/watch?v=GVRav8kKIbI"/>
-        <updated>2025-12-04T07:47:31.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഗാനഗന്ധർവ്വൻ യേശുദാസ് ആലപിച്ച മനം കവരും സിനിമാഗാനങ്ങൾ | KJ YESUDAS HITS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=OqC17l0Tewg</id>
-        <link href="https://www.youtube.com/watch?v=OqC17l0Tewg"/>
-        <updated>2025-12-04T07:30:13.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
