@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T07:15:05.882Z</updated>
+    <updated>2026-01-02T08:14:55.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Master - Andha Kanna Paathaakaa Video with Lyrics | Vijay | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=8O662s74kM8</id>
+        <link href="https://www.youtube.com/watch?v=8O662s74kM8"/>
+        <updated>2026-01-02T08:00:11.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നടരാജ മണ്ടപം തുറന്നു l Semi-Classical Malayalam Film Songs l Nisari Music]]></title>
+        <id>https://www.youtube.com/watch?v=RS_VoDRJTgs</id>
+        <link href="https://www.youtube.com/watch?v=RS_VoDRJTgs"/>
+        <updated>2026-01-02T07:30:30.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Cassettes Live Stream]]></title>
+        <id>https://www.youtube.com/watch?v=ohT9EcrLLTo</id>
+        <link href="https://www.youtube.com/watch?v=ohT9EcrLLTo"/>
+        <updated>2026-01-02T07:16:46.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വിശ്വം കാക്കുന്ന നാഥാ | Idayan Kaivitta Kunjadukal |Hit Christian Devotional Song | #christianshorts]]></title>
         <id>https://www.youtube.com/shorts/U28D89_2rjA</id>
