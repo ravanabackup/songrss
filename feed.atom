@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T12:18:59.640Z</updated>
+    <updated>2026-01-02T13:25:32.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2 January 2026]]></title>
+        <id>https://www.youtube.com/shorts/cePlsx2gfCM</id>
+        <link href="https://www.youtube.com/shorts/cePlsx2gfCM"/>
+        <updated>2026-01-02T13:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khajuraho Dreams - Full Album | Gopi Sunder | Manoj Vasudev]]></title>
+        <id>https://www.youtube.com/watch?v=5AswEEZ32U0</id>
+        <link href="https://www.youtube.com/watch?v=5AswEEZ32U0"/>
+        <updated>2026-01-02T12:32:49.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poomaaname Video Song| Pongala | Sreenath Bhasi | Minmini |Ranjin Raj| BK Hari Narayanan | A B Binil]]></title>
+        <id>https://www.youtube.com/watch?v=aIyfXOpeWuU</id>
+        <link href="https://www.youtube.com/watch?v=aIyfXOpeWuU"/>
+        <updated>2026-01-02T12:30:01.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poothumbi Poonkazhuthil Video Song | Malayogam | Balagopalan Thampi | Kaithapram | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=4qDaigdoFoM</id>
@@ -13553,44 +13581,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[( LIVE ) Music Shack Christian Devotional | Music Shack Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6jw1FWwrZgo</id>
-        <link href="https://www.youtube.com/watch?v=6jw1FWwrZgo"/>
-        <updated>2025-12-04T01:16:12.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun | Shorts #chithraarun #NakshathraRavil #ShineValladan #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/ONBwA1A92vg</id>
-        <link href="https://www.youtube.com/shorts/ONBwA1A92vg"/>
-        <updated>2025-12-04T01:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annoru Naalil Bethalahemil | Carol Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/6yXlDhhxDig</id>
-        <link href="https://www.youtube.com/shorts/6yXlDhhxDig"/>
-        <updated>2025-12-04T01:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maamala vazhunna | മാമല വാഴുന്ന | Ayyappan Devotional Song | Bhajana Priyane Shasthave | Sabarimala]]></title>
-        <id>https://www.youtube.com/watch?v=nismm6CzLdk</id>
-        <link href="https://www.youtube.com/watch?v=nismm6CzLdk"/>
-        <updated>2025-12-04T00:30:47.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
