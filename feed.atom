@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T20:10:44.380Z</updated>
+    <updated>2026-01-03T21:08:24.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13599,16 +13599,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattavum Pattumulla | ആട്ടവും പാട്ടുമുള്ള | Innathe Programe Movie | MG Sreekumar | Johnson Mater]]></title>
-        <id>https://www.youtube.com/shorts/Vw4S6Mar0O4</id>
-        <link href="https://www.youtube.com/shorts/Vw4S6Mar0O4"/>
-        <updated>2025-12-05T08:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
