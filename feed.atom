@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T02:43:04.560Z</updated>
+    <updated>2026-01-03T03:49:07.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13405,15 +13405,6 @@
         <updated>2025-12-04T18:01:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hit Christmas Songs 2025 | Hit Carols | ക്രിസ്മസ് | | Match Point Faith|]]></title>
-        <id>https://www.youtube.com/watch?v=j0XAG2aIQPI</id>
-        <link href="https://www.youtube.com/watch?v=j0XAG2aIQPI"/>
-        <updated>2025-12-04T15:45:07.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
