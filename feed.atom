@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T12:17:37.490Z</updated>
+    <updated>2026-01-03T13:21:53.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aakashamarikil | Karaoke | Aghosham |Goutham Vincent|Sony Mohan| Amal K Joby| Lizy K Fernandez]]></title>
+        <id>https://www.youtube.com/watch?v=A7C2R1shAKI</id>
+        <link href="https://www.youtube.com/watch?v=A7C2R1shAKI"/>
+        <updated>2026-01-03T12:57:14.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guarded, Yet Bound | ekō - Original Soundtrack | Mujeeb Majeed]]></title>
+        <id>https://www.youtube.com/watch?v=YlbkM3MWF40</id>
+        <link href="https://www.youtube.com/watch?v=YlbkM3MWF40"/>
+        <updated>2026-01-03T12:30:54.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swargarajyam.....#pjayachandranhits #christiandevotionalsongs #jojijohnschristiansongs #christian]]></title>
+        <id>https://www.youtube.com/shorts/SAwo2-NUjN0</id>
+        <link href="https://www.youtube.com/shorts/SAwo2-NUjN0"/>
+        <updated>2026-01-03T12:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shaaru In Town - Video Song | Super Sharanya | Anaswara Rajan | Justin Varghese | Girish AD]]></title>
         <id>https://www.youtube.com/watch?v=mP6gPD7tF60</id>
@@ -13598,26 +13626,6 @@
         <updated>2025-12-05T01:39:13.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulkkoottil Unni Kanchimmunnu | New Carol #nithyamammen #PulkkoottilUnni #frsajiarackal]]></title>
-        <id>https://www.youtube.com/shorts/R5VY-ie1hZw</id>
-        <link href="https://www.youtube.com/shorts/R5VY-ie1hZw"/>
-        <updated>2025-12-05T01:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethlahemile | Ouseppachan | Suja George | Carol Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/1jj7-n6nW9c</id>
-        <link href="https://www.youtube.com/shorts/1jj7-n6nW9c"/>
-        <updated>2025-12-05T01:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
