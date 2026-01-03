@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T07:10:29.367Z</updated>
+    <updated>2026-01-03T08:13:25.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരു പിടി ഓർമ്മകൾ l 90s Nostalgia | Selected Malayalam Film Songs l Nisari Music]]></title>
+        <id>https://www.youtube.com/watch?v=cCvCuDo38rI</id>
+        <link href="https://www.youtube.com/watch?v=cCvCuDo38rI"/>
+        <updated>2026-01-03T07:41:38.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Ayushree | Entry No:27 | Biju Paulose | Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=7BDgUPbQi98</id>
+        <link href="https://www.youtube.com/watch?v=7BDgUPbQi98"/>
+        <updated>2026-01-03T07:12:08.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Saniya | Entry No:26 | Biju Paulose | Roy Kanjirathanam]]></title>
+        <id>https://www.youtube.com/watch?v=gSzokpAI60k</id>
+        <link href="https://www.youtube.com/watch?v=gSzokpAI60k"/>
+        <updated>2026-01-03T07:04:29.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Threasiamma | Entry No:25|Biju Paulose |Roy Kanjirathanam]]></title>
         <id>https://www.youtube.com/watch?v=oT0qWPA_tdg</id>
