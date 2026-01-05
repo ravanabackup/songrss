@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T07:19:27.542Z</updated>
+    <updated>2026-01-05T08:17:14.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാരികുളിരിൻ രാഗാദേവനും പോലെ | Evergreen Malayalam Film Songs l Nisari Music]]></title>
+        <id>https://www.youtube.com/watch?v=3UyvViEF5yw</id>
+        <link href="https://www.youtube.com/watch?v=3UyvViEF5yw"/>
+        <updated>2026-01-05T07:30:09.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orukili Pattu Moolave 4K Video Song | Gireesh Puthenchery | Raveendran |KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=cKQG1MOOAOg</id>
+        <link href="https://www.youtube.com/watch?v=cKQG1MOOAOg"/>
+        <updated>2026-01-05T07:29:16.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandille Saayippe | കണ്ടില്ലേ സായിപ്പേ...| Mandanmar Londonil Movie | KJ Yesudas | Nedumudi Venu]]></title>
+        <id>https://www.youtube.com/watch?v=z2a56wr-FOs</id>
+        <link href="https://www.youtube.com/watch?v=z2a56wr-FOs"/>
+        <updated>2026-01-05T07:26:52.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kadalum kadangalum | 4K Video |  Uthaman | Palakkadu KL Sreeram | Kaithapram | Johnson Hits]]></title>
         <id>https://www.youtube.com/watch?v=XK6dJ8ceS4I</id>
