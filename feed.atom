@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T21:10:10.502Z</updated>
+    <updated>2026-01-05T22:10:08.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13374,25 +13374,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethlehemile Karaoke I Christmas Song | Aghosham | Stephen Devassy | Amal K Joby | Lizy K Fernandes]]></title>
-        <id>https://www.youtube.com/watch?v=BKAbN66wURs</id>
-        <link href="https://www.youtube.com/watch?v=BKAbN66wURs"/>
-        <updated>2025-12-07T09:44:43.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 15 #shorts #malayalamsongs #feelgoodmusic]]></title>
-        <id>https://www.youtube.com/shorts/8QmvJX8Z5sw</id>
-        <link href="https://www.youtube.com/shorts/8QmvJX8Z5sw"/>
-        <updated>2025-12-07T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[ඔබ ප්‍රිය කරන වීඩියෝ සහ සංගීතය රස විඳින්න, මුල් අන්තර්ගතය උඩුගත කරන්න සහ මිතුරන්, පවුලේ අය සහ YouTube මත ලෝකයා සමග ඒ සියල්ල බෙදා ගන්න.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
