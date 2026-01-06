@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T11:09:36.074Z</updated>
+    <updated>2026-01-06T12:20:18.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 6th January 2026]]></title>
+        <id>https://www.youtube.com/watch?v=hHXemUquM6Y</id>
+        <link href="https://www.youtube.com/watch?v=hHXemUquM6Y"/>
+        <updated>2026-01-06T11:30:47.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vayala Varambil | വയൽ വരമ്പിൽ ചിലമ്പ് തുള്ളി...| Kalpavriksham | KJ Yesudas | V Dakshinamooerthy]]></title>
+        <id>https://www.youtube.com/watch?v=1rrxrxMQFHQ</id>
+        <link href="https://www.youtube.com/watch?v=1rrxrxMQFHQ"/>
+        <updated>2026-01-06T11:30:05.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനുഷ്യരെ ചേർത്ത് പിടിക്കുക | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
         <id>https://www.youtube.com/shorts/0Yvm_vxLKxk</id>
@@ -13361,43 +13379,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 8th of December 2025 Mathavinte Japamala # Santhoshathinte Rahasyangal 8th of December 25]]></title>
-        <id>https://www.youtube.com/watch?v=yIXgGeDP9Js</id>
-        <link href="https://www.youtube.com/watch?v=yIXgGeDP9Js"/>
-        <updated>2025-12-07T23:30:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thenilum Madhuram | Prathyasha Geethangal | Kuttiyachan | Christian Worship Songs | old Is Gold]]></title>
-        <id>https://www.youtube.com/watch?v=rLJOKECtCn8</id>
-        <link href="https://www.youtube.com/watch?v=rLJOKECtCn8"/>
-        <updated>2025-12-07T23:30:18.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanumasa Vicharangal December 8]]></title>
-        <id>https://www.youtube.com/shorts/Bvy7Ws1OQb0</id>
-        <link href="https://www.youtube.com/shorts/Bvy7Ws1OQb0"/>
-        <updated>2025-12-07T23:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരതാരിൽ കരുതുന്ന കർത്താവിൻ ഗീതങ്ങൾ | Best Morning Prayer Songs For Protection | Sanoop Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=45n9VzP3_PE</id>
-        <link href="https://www.youtube.com/watch?v=45n9VzP3_PE"/>
-        <updated>2025-12-07T23:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
