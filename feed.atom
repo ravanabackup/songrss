@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T00:51:23.586Z</updated>
+    <updated>2026-01-06T02:51:01.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjil Moodum Ravil | Prem Nair | Najim Arshad #romanticvideoalbum #lovesong #premnair #summayya]]></title>
+        <id>https://www.youtube.com/shorts/gAwPG4gycFE</id>
+        <link href="https://www.youtube.com/shorts/gAwPG4gycFE"/>
+        <updated>2026-01-06T01:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Nallavan Avan Vallabhan | Christian Shorts]]></title>
+        <id>https://www.youtube.com/shorts/Fb1wYxLm4F0</id>
+        <link href="https://www.youtube.com/shorts/Fb1wYxLm4F0"/>
+        <updated>2026-01-06T01:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന |Christian Devotional song Malayalam| Music Spread]]></title>
         <id>https://www.youtube.com/shorts/n98HFPJr23s</id>
@@ -13276,45 +13296,6 @@
         <updated>2025-12-07T15:01:22.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧑‍🎄Paridam Mangala.. #matchpointfaith #matchpointcreations  #christmas  #malayalamsongs]]></title>
-        <id>https://www.youtube.com/shorts/gI_kYpfkArY</id>
-        <link href="https://www.youtube.com/shorts/gI_kYpfkArY"/>
-        <updated>2025-12-07T14:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നല്ലിടയനായ ദൈവം  |       @JinoKunnumpurathu           | #shortsprayer #prayer  #shortvideo]]></title>
-        <id>https://www.youtube.com/shorts/hWfIO6dl1gY</id>
-        <link href="https://www.youtube.com/shorts/hWfIO6dl1gY"/>
-        <updated>2025-12-07T13:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjin Nilavil | Carol Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/WqZ3jB97Eog</id>
-        <link href="https://www.youtube.com/shorts/WqZ3jB97Eog"/>
-        <updated>2025-12-07T13:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyeyulloo Ennumen - Audio Song | Chovvazhcha | Ajmal,Ajay Bhupathi| Payal Rajput| Ajaneesh Loknath]]></title>
-        <id>https://www.youtube.com/watch?v=xs4bEs-EIAg</id>
-        <link href="https://www.youtube.com/watch?v=xs4bEs-EIAg"/>
-        <updated>2025-12-07T13:00:19.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
