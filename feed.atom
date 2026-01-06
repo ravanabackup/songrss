@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T13:30:03.657Z</updated>
+    <updated>2026-01-06T14:12:26.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vayala Varambil | വയൽ വരമ്പിൽ ചിലമ്പ് തുള്ളി...| Kalpavriksham | KJ Yesudas | V Dakshinamooerthy]]></title>
+        <id>https://www.youtube.com/shorts/H_E6NKTpLfw</id>
+        <link href="https://www.youtube.com/shorts/H_E6NKTpLfw"/>
+        <updated>2026-01-06T14:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മധുരഗീതങ്ങളുടെ സ്വർണ്ണയുഗം | Malayalam Classics | Gireesh Puthenchery | M. G. Sreekumar | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=LXfV3dW6LxY</id>
+        <link href="https://www.youtube.com/watch?v=LXfV3dW6LxY"/>
+        <updated>2026-01-06T14:00:06.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melody, magic & Isai Puyal ✨ #Cholappenne from #Malayankunju | Song of the Day]]></title>
+        <id>https://www.youtube.com/shorts/q70oYE2jVqg</id>
+        <link href="https://www.youtube.com/shorts/q70oYE2jVqg"/>
+        <updated>2026-01-06T13:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മറക്കാൻ കഴിയുമോ ഈ ഹിറ്റ് ഗാനങ്ങളെ!! | Heart Touching Songs |#kester | Top Hits | #evergreen]]></title>
+        <id>https://www.youtube.com/watch?v=_8pM7o59_Lg</id>
+        <link href="https://www.youtube.com/watch?v=_8pM7o59_Lg"/>
+        <updated>2026-01-06T13:30:48.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തെ കാത്തിരിക്കുക  |     @JinoKunnumpurathu                |#shortsprayer #prayer #shortvideo]]></title>
+        <id>https://www.youtube.com/shorts/KcpoVSIGjas</id>
+        <link href="https://www.youtube.com/shorts/KcpoVSIGjas"/>
+        <updated>2026-01-06T13:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 January 2026]]></title>
         <id>https://www.youtube.com/shorts/Ir3remGaEO8</id>
@@ -13417,15 +13465,6 @@
         <updated>2025-12-08T04:42:28.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉണ്ണിയെ താരാട്ടുപാടാൻ Ft. Fr. Joshy Kannukaden CMI ,Sajith Peechi ,Elizabeth Raju  Christmas Song]]></title>
-        <id>https://www.youtube.com/watch?v=MMfkxNOolX4</id>
-        <link href="https://www.youtube.com/watch?v=MMfkxNOolX4"/>
-        <updated>2025-12-08T01:40:48.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
