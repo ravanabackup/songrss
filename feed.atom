@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T07:16:33.228Z</updated>
+    <updated>2026-01-06T08:15:37.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Remo - Sirikkadhey Video with Lyrics | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=LsZatFaV1Ws</id>
+        <link href="https://www.youtube.com/watch?v=LsZatFaV1Ws"/>
+        <updated>2026-01-06T08:00:25.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാടിൻ ആഘോഷം | നാടൻ താളമുള്ള സിനിമാഗാനങ്ങൾ l   Selected Malayalam Film Songs l Nisari Music]]></title>
+        <id>https://www.youtube.com/watch?v=ATNOGxBA1Fk</id>
+        <link href="https://www.youtube.com/watch?v=ATNOGxBA1Fk"/>
+        <updated>2026-01-06T07:58:34.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾ നെഞ്ചിലേറ്റിയ ഗാനം🔥  #shorts #arannearanne #nadirshah #vishnuunnikrishnan #althafsalim]]></title>
         <id>https://www.youtube.com/shorts/-DNLMyL1vyQ</id>
