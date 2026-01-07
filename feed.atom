@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T04:34:05.103Z</updated>
+    <updated>2026-01-07T05:16:30.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13250,26 +13250,6 @@
         <updated>2025-12-08T18:00:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎅 Sodharare Paadiduvin.. #matchpointfaith  #christmas  #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/fIzd1hPPnQA</id>
-        <link href="https://www.youtube.com/shorts/fIzd1hPPnQA"/>
-        <updated>2025-12-08T16:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤶 Annorunal Bethlehemil.. #matchpointfaith  #christmas  #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/PerriURAgV4</id>
-        <link href="https://www.youtube.com/shorts/PerriURAgV4"/>
-        <updated>2025-12-08T16:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
