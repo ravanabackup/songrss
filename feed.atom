@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T07:16:19.391Z</updated>
+    <updated>2026-01-07T08:15:24.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amritha Kalayayi Nee | അമൃത കലയായി നീ...| Oothikachiya Ponnu | KJ Yesudas | Poovachal Khader]]></title>
+        <id>https://www.youtube.com/watch?v=UOjGsb2-N4M</id>
+        <link href="https://www.youtube.com/watch?v=UOjGsb2-N4M"/>
+        <updated>2026-01-07T08:00:29.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanah Moidutty - Marudaani Video with Lyrics | Cover by Sanah Moidutty | ‪A.R. Rahman‬]]></title>
+        <id>https://www.youtube.com/watch?v=V14RWSZwZHs</id>
+        <link href="https://www.youtube.com/watch?v=V14RWSZwZHs"/>
+        <updated>2026-01-07T08:00:29.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചിത്ര ഗാനങ്ങൾ | K S Chithra l Selected Super Hits Malayalam Film Songs l Nisari Music l]]></title>
+        <id>https://www.youtube.com/watch?v=hoihkkQVfVc</id>
+        <link href="https://www.youtube.com/watch?v=hoihkkQVfVc"/>
+        <updated>2026-01-07T07:30:24.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manimuttathavani Panthal 4K Video Song | Meena | Suresh Gopi | Gireesh Puthenchery | Vidyasagar]]></title>
         <id>https://www.youtube.com/watch?v=67nt_yavAcw</id>
