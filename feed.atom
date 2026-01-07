@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T08:15:24.290Z</updated>
+    <updated>2026-01-07T09:17:42.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amritha Kalayayi Nee | അമൃത കലയായി നീ...| Oothikachiya Ponnu | KJ Yesudas | Poovachal Khader]]></title>
+        <id>https://www.youtube.com/shorts/DsVigjHhaqA</id>
+        <link href="https://www.youtube.com/shorts/DsVigjHhaqA"/>
+        <updated>2026-01-07T09:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost in the blue calm of Neelambalin One listen turns into a loop, and suddenly the day feels softer]]></title>
+        <id>https://www.youtube.com/shorts/pdc3me7SWeE</id>
+        <link href="https://www.youtube.com/shorts/pdc3me7SWeE"/>
+        <updated>2026-01-07T09:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amritha Kalayayi Nee | അമൃത കലയായി നീ...| Oothikachiya Ponnu | KJ Yesudas | Poovachal Khader]]></title>
         <id>https://www.youtube.com/watch?v=UOjGsb2-N4M</id>
