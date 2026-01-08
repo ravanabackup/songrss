@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T21:10:30.343Z</updated>
+    <updated>2026-01-08T22:10:48.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/xp-dE5Eiv78</id>
+        <link href="https://www.youtube.com/shorts/xp-dE5Eiv78"/>
+        <updated>2026-01-08T22:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 9 # Athiravile Prarthana 9th January 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=-Zl6m5gcaxI</id>
@@ -13373,16 +13383,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 18 #shorts #malayalamsongs #feelgoodmusic]]></title>
-        <id>https://www.youtube.com/shorts/WCyM4irGmlM</id>
-        <link href="https://www.youtube.com/shorts/WCyM4irGmlM"/>
-        <updated>2025-12-10T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
