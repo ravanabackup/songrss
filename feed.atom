@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T16:14:57.648Z</updated>
+    <updated>2026-01-08T17:17:44.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Baptism of Jesus Christ, Denaha Perunnal]]></title>
+        <id>https://www.youtube.com/shorts/22igYIsbZJE</id>
+        <link href="https://www.youtube.com/shorts/22igYIsbZJE"/>
+        <updated>2026-01-08T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[denaha perunnal, Baptism of Jesus Christ]]></title>
+        <id>https://www.youtube.com/shorts/3ssfvXm42xc</id>
+        <link href="https://www.youtube.com/shorts/3ssfvXm42xc"/>
+        <updated>2026-01-08T16:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Priyane | Nammal Thammil #sujatha #prithvirajsukumaran #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/shorts/yzg7XRi8AAU</id>
@@ -13439,24 +13459,6 @@
         <updated>2025-12-10T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fly Carpe Diem | Album Video | William Francis | Arshad Rahim | Tony Augustine | Godfy Xavier Babu]]></title>
-        <id>https://www.youtube.com/watch?v=7ARl3d9hKXc</id>
-        <link href="https://www.youtube.com/watch?v=7ARl3d9hKXc"/>
-        <updated>2025-12-10T04:39:28.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nrithyadhi Nrithyadhi Jeevaprapancham | നൃത്യതി നൃത്യതി ജീവപ്രപഞ്ചം | Radha Mdhavam | Jayaram Movie]]></title>
-        <id>https://www.youtube.com/watch?v=6oIhAOd--ew</id>
-        <link href="https://www.youtube.com/watch?v=6oIhAOd--ew"/>
-        <updated>2025-12-10T04:30:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
