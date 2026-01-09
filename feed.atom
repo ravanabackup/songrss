@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T14:13:27.328Z</updated>
+    <updated>2026-01-09T15:11:31.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paadidam Sthothra Sangeetham | പാടിടാം സ്തോത്ര സംഗീതം | Malayalam Christian Song | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=Ne39A6m5XJk</id>
+        <link href="https://www.youtube.com/watch?v=Ne39A6m5XJk"/>
+        <updated>2026-01-09T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hanan Shah’s voice in Magic Mushrooms 🍄 | Thaloadi Marayuvathevide Nee… 🎵 #hananshaah]]></title>
+        <id>https://www.youtube.com/shorts/IHP0TzlhF_w</id>
+        <link href="https://www.youtube.com/shorts/IHP0TzlhF_w"/>
+        <updated>2026-01-09T14:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manthrikochamma Varunnunde 4K Video Song | Godfather | Bichu Thirumala | KG Markose]]></title>
+        <id>https://www.youtube.com/watch?v=Zi40m-uJCXw</id>
+        <link href="https://www.youtube.com/watch?v=Zi40m-uJCXw"/>
+        <updated>2026-01-09T14:34:35.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Night Prayer | Peaceful Bedtime Prayer | Evening Prayer for Family & Sleep]]></title>
         <id>https://www.youtube.com/shorts/FsnuaxMT0z8</id>
@@ -13253,15 +13281,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Hit Malayalam Christian Songs | NonStop Worship Songs | Praise and Worship | Malayalam Gospel]]></title>
-        <id>https://www.youtube.com/watch?v=NJt67nnf_LE</id>
-        <link href="https://www.youtube.com/watch?v=NJt67nnf_LE"/>
-        <updated>2025-12-11T02:19:29.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
