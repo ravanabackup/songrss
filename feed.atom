@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T10:11:43.041Z</updated>
+    <updated>2026-01-09T11:10:01.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[POPULAR CHRISTIAN SONGS | @Jinokunnumpurath | #christiansongs | #live]]></title>
+        <id>https://www.youtube.com/watch?v=BboAYOy5fZA</id>
+        <link href="https://www.youtube.com/watch?v=BboAYOy5fZA"/>
+        <updated>2026-01-09T10:36:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
+        <id>https://www.youtube.com/watch?v=6qreDqpc4cs</id>
+        <link href="https://www.youtube.com/watch?v=6qreDqpc4cs"/>
+        <updated>2026-01-09T10:30:57.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇഷ്ടപ്പെട്ട പാട്ട് കേൾക്കാം  l Selected Malayalam Film Songs l Nisari Music l]]></title>
         <id>https://www.youtube.com/watch?v=2Y9j7ml5xyU</id>
@@ -40,6 +58,15 @@
         <updated>2026-01-09T09:11:06.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Komala Thaamara - Lyrical | Masthishka Maranam | Rajisha Vijayan | Varkey | Pranavam Sasi]]></title>
+        <id>https://www.youtube.com/watch?v=ZkLiQZSVTz8</id>
+        <link href="https://www.youtube.com/watch?v=ZkLiQZSVTz8"/>
+        <updated>2026-01-09T08:32:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -13197,15 +13224,6 @@
         <updated>2025-12-10T23:30:01.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിസംബർ: 11, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
-        <id>https://www.youtube.com/watch?v=kZmVZPc05RE</id>
-        <link href="https://www.youtube.com/watch?v=kZmVZPc05RE"/>
-        <updated>2025-12-10T22:30:25.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
