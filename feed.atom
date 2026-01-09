@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T22:10:11.751Z</updated>
+    <updated>2026-01-09T23:10:09.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജനുവരി: 10, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=OljyWkQOt6o</id>
+        <link href="https://www.youtube.com/watch?v=OljyWkQOt6o"/>
+        <updated>2026-01-09T22:30:11.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/YUwykPTJC84</id>
@@ -13188,35 +13197,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mullappoovinte | സ്നേഹം നിറയ്ക്കുന്ന ഈശോയുടെ ഗാനം |  @JinoKunnumpurathu  | #shorts]]></title>
-        <id>https://www.youtube.com/shorts/_AXUJ3a685E</id>
-        <link href="https://www.youtube.com/shorts/_AXUJ3a685E"/>
-        <updated>2025-12-11T11:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjaninja Maamalakal |Yesudas| Kottayam Kunjachan |Evergreen Malayalam Film Songs | Shyam,]]></title>
-        <id>https://www.youtube.com/watch?v=R-NcB9jPXUU</id>
-        <link href="https://www.youtube.com/watch?v=R-NcB9jPXUU"/>
-        <updated>2025-12-11T10:36:10.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജീവിതത്തിന് പുതിയ വെളിച്ചം | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
-        <id>https://www.youtube.com/shorts/2hVhufUEU4w</id>
-        <link href="https://www.youtube.com/shorts/2hVhufUEU4w"/>
-        <updated>2025-12-11T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
