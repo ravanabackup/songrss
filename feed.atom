@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T21:08:32.929Z</updated>
+    <updated>2026-01-10T22:09:16.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/Xl2J2DenTZ4</id>
+        <link href="https://www.youtube.com/shorts/Xl2J2DenTZ4"/>
+        <updated>2026-01-10T22:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 11 # Athiravile Prarthana 11th January 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=WkT-lsqdR-4</id>
@@ -13198,25 +13208,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathare En Kaathare | കാതരേ എൻ കാതരേ | Ottayalpattalam Movie | G VEnugopal | Sarath Music | Melody]]></title>
-        <id>https://www.youtube.com/watch?v=_NnE6TyPFOk</id>
-        <link href="https://www.youtube.com/watch?v=_NnE6TyPFOk"/>
-        <updated>2025-12-12T10:01:43.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 20 #shorts #malayalamsongs #feelgoodmusic]]></title>
-        <id>https://www.youtube.com/shorts/2BsUf_FwJL4</id>
-        <link href="https://www.youtube.com/shorts/2BsUf_FwJL4"/>
-        <updated>2025-12-12T09:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
