@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T02:45:19.710Z</updated>
+    <updated>2026-01-10T03:50:49.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poo Kumkumappoo | Happy Birthday KJ Yesudas #yesudas #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/2QCOFSJK36o</id>
+        <link href="https://www.youtube.com/shorts/2QCOFSJK36o"/>
+        <updated>2026-01-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer | Pray this before you start your day | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/PCvMmA-7Puw</id>
@@ -13147,15 +13157,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priye Priye Vasanthamayi | 4K | Addeham Enna Iddeham | Siddique | Sonia - Johnson Hits]]></title>
-        <id>https://www.youtube.com/watch?v=bkRuYZuoA00</id>
-        <link href="https://www.youtube.com/watch?v=bkRuYZuoA00"/>
-        <updated>2025-12-11T14:46:53.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
