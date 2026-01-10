@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T19:07:16.104Z</updated>
+    <updated>2026-01-10T20:10:24.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13217,43 +13217,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Call Him OG (Kannada) - Firestorm Video Song | Pawan Kalyan | Thaman S]]></title>
-        <id>https://www.youtube.com/watch?v=UbHVrdyxtPs</id>
-        <link href="https://www.youtube.com/watch?v=UbHVrdyxtPs"/>
-        <updated>2025-12-12T08:00:45.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orikkal Niranjum | ഒരിക്കൽ നിറഞ്ഞും...| Mrugaya Movie | KJ Yesudas | Sreekumaran Thampi | Evergreen]]></title>
-        <id>https://www.youtube.com/shorts/uTl5Z6WCJjk</id>
-        <link href="https://www.youtube.com/shorts/uTl5Z6WCJjk"/>
-        <updated>2025-12-12T07:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അവധി ദിവസത്തെ പ്രധാന വിനോദം❤️ | 90-കളിലെ ആ നിമിഷങ്ങൾ ഓർത്തെടുക്കാൻ ഈ ഗാനങ്ങൾ✨ Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Qlwa3WwOYSU</id>
-        <link href="https://www.youtube.com/watch?v=Qlwa3WwOYSU"/>
-        <updated>2025-12-12T07:30:24.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരഞ്ഞുതളർന്ന മനസ്സുകൾക്ക് ആശ്വാസമേകുന്ന ഗാനങ്ങൾ | @JinoKunnumpurathu  #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=0wF2-w_gHbs</id>
-        <link href="https://www.youtube.com/watch?v=0wF2-w_gHbs"/>
-        <updated>2025-12-12T07:24:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
