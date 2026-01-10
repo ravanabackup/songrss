@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T08:12:51.823Z</updated>
+    <updated>2026-01-10T09:10:04.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Confusion Theerkkaname 4K Video Song | Jayaram | Vidyasagar | Gireesh Puthenchery | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=hU8xiSIHDNQ</id>
+        <link href="https://www.youtube.com/watch?v=hU8xiSIHDNQ"/>
+        <updated>2026-01-10T08:50:26.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhoore Maamalayil | ദൂരെ മാമലയിൽ...| Veendum Movie | KJ Yesudas Song | Ouseppachan | Mammootty]]></title>
+        <id>https://www.youtube.com/shorts/ZxnODrE_adg</id>
+        <link href="https://www.youtube.com/shorts/ZxnODrE_adg"/>
+        <updated>2026-01-10T08:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ താമരമിഴികൾ | Nisari Music l Evergreen Selected Malayalam Film Songs l]]></title>
+        <id>https://www.youtube.com/watch?v=mOF2Q-yVNBs</id>
+        <link href="https://www.youtube.com/watch?v=mOF2Q-yVNBs"/>
+        <updated>2026-01-10T08:20:50.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U Turn - The Karma Theme Video with Lyrics | Samantha | Anirudh Ravichander]]></title>
         <id>https://www.youtube.com/watch?v=AoDgGqyBe-Q</id>
