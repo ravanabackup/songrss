@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-11T12:18:41.148Z</updated>
+    <updated>2026-01-11T13:22:41.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Party Mode: ON - Audio Jukebox | Aadharanjali | Rakka Rakka | Neela Nilave | Halaballoo]]></title>
+        <id>https://www.youtube.com/watch?v=lGklfwWdnf8</id>
+        <link href="https://www.youtube.com/watch?v=lGklfwWdnf8"/>
+        <updated>2026-01-11T12:31:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആശ്വസിപ്പിക്കാം | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
+        <id>https://www.youtube.com/shorts/GHTOwJxkW2Q</id>
+        <link href="https://www.youtube.com/shorts/GHTOwJxkW2Q"/>
+        <updated>2026-01-11T12:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chenthengin Ponnilaneer Video Song | Pokkiri Raja | Mammootty | Prithviraj | Jassie Gift| Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=PN6tHpncWUg</id>
@@ -13072,45 +13091,6 @@
         <updated>2025-12-13T01:26:32.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun |Shorts #chithraarun #NakshathraRavil #ShineValladan #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/xIz3Ki6ARm8</id>
-        <link href="https://www.youtube.com/shorts/xIz3Ki6ARm8"/>
-        <updated>2025-12-13T01:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethlahemile | Ouseppachan | Suja George | Carol Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/fsxcikbXE0g</id>
-        <link href="https://www.youtube.com/shorts/fsxcikbXE0g"/>
-        <updated>2025-12-13T01:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun |Shorts #chithraarun #NakshathraRavil #ShineValladan #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/Lzub6FOs7nc</id>
-        <link href="https://www.youtube.com/shorts/Lzub6FOs7nc"/>
-        <updated>2025-12-13T01:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divya Tharam | Kester | K.G Markose | Wilson Piravom | Kuttiyachan | Celin Jose | Sreya Jayadeep]]></title>
-        <id>https://www.youtube.com/watch?v=9gaKezXXE4k</id>
-        <link href="https://www.youtube.com/watch?v=9gaKezXXE4k"/>
-        <updated>2025-12-13T00:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
