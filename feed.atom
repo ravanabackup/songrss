@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T13:34:44.974Z</updated>
+    <updated>2026-01-12T14:14:46.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mavinchottile  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/PARpntj1RoU</id>
+        <link href="https://www.youtube.com/shorts/PARpntj1RoU"/>
+        <updated>2026-01-12T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivide Igane | ഇവിടെ ഇങ്ങനെ അവിടെ എങ്ങനെ...| Varum Varunnu Vannu | KJ Yesudas | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/shorts/FuwoFWDEEQU</id>
+        <link href="https://www.youtube.com/shorts/FuwoFWDEEQU"/>
+        <updated>2026-01-12T14:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pazham Thamizh Pattizhayum | Manichitrathazhu | Mohanlal | KJ Yesudas | MG Radhakrishnan]]></title>
         <id>https://www.youtube.com/shorts/kNW1f0UDiwc</id>
@@ -13060,16 +13080,6 @@
         <updated>2025-12-14T04:30:25.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nakshathra Ravil | Chithra Arun |Shorts #chithraarun #NakshathraRavil #ShineValladan #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/Valcbp-9P5o</id>
-        <link href="https://www.youtube.com/shorts/Valcbp-9P5o"/>
-        <updated>2025-12-14T02:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
