@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T09:20:45.163Z</updated>
+    <updated>2026-01-12T10:14:17.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raakilikal Chekkeri Varum Video Song | Suvarna Simhasanam | KJ Yesudas | Ouseppachan | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=hmNNwlSNfNE</id>
+        <link href="https://www.youtube.com/watch?v=hmNNwlSNfNE"/>
+        <updated>2026-01-12T10:11:49.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let the day bloom with the soothing charm of #Hemanthamen from #Kohinoor. pure melody, pure magic 💛🎧]]></title>
+        <id>https://www.youtube.com/shorts/oOqmJ-9ECMM</id>
+        <link href="https://www.youtube.com/shorts/oOqmJ-9ECMM"/>
+        <updated>2026-01-12T09:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyen Koode Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=Vl3o3qDHTPg</id>
+        <link href="https://www.youtube.com/watch?v=Vl3o3qDHTPg"/>
+        <updated>2026-01-12T09:43:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cholamala Kaattadikkanu | ചോലമലങ്കാറ്റടിക്കണു ജാതിമരം പൂത്തിരിക്കണു..| Shradha | Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/shorts/KVEhcIf0t4s</id>
@@ -69,6 +97,15 @@
         <updated>2026-01-12T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീയെൻ കൂടെ  NEEYEN KOODE Ft. Febin Sebastian, Kiran Raphael, Kannan T Unni, Amal Sha, Dr Chandini]]></title>
+        <id>https://www.youtube.com/watch?v=tRmrsm5dnk0</id>
+        <link href="https://www.youtube.com/watch?v=tRmrsm5dnk0"/>
+        <updated>2026-01-12T02:32:43.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12938,16 +12975,6 @@
         <updated>2025-12-13T22:30:07.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/guPSmRB5rsI</id>
-        <link href="https://www.youtube.com/shorts/guPSmRB5rsI"/>
-        <updated>2025-12-13T22:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
