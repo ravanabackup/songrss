@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-13T20:12:20.141Z</updated>
+    <updated>2026-01-13T21:10:54.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13136,26 +13136,6 @@
         <updated>2025-12-15T10:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഞ്ഞുകണങ്ങൾ പൊഴിയും രാത്രി #christianshorts #jesusbirth #christianmusic #jesussong #carolsongs]]></title>
-        <id>https://www.youtube.com/shorts/ddyQWDXuekc</id>
-        <link href="https://www.youtube.com/shorts/ddyQWDXuekc"/>
-        <updated>2025-12-15T08:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jingle Bells Animation Video | Usha Uthup #carol #ushauthup #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/gscR5blnmFk</id>
-        <link href="https://www.youtube.com/shorts/gscR5blnmFk"/>
-        <updated>2025-12-15T08:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
