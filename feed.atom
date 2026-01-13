@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-13T06:17:27.609Z</updated>
+    <updated>2026-01-13T07:16:02.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thattum Muttum Thalam 4K Video Song | Puthiya Mukham | Deepak Dev | Kaithapram | Jassie Gift]]></title>
+        <id>https://www.youtube.com/watch?v=xQuH1pRQf24</id>
+        <link href="https://www.youtube.com/watch?v=xQuH1pRQf24"/>
+        <updated>2026-01-13T06:42:56.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divyakarunyame Snehame #christianshorts #christianinspirationalvideo #jesus #jesusdevotionalsong]]></title>
+        <id>https://www.youtube.com/shorts/IukEOrMGSvA</id>
+        <link href="https://www.youtube.com/shorts/IukEOrMGSvA"/>
+        <updated>2026-01-13T06:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sivakumarin Sabadham - Original Score | Hiphop Tamizha, Madhuri | Sathya Jyothi Films | Indie Rebels]]></title>
         <id>https://www.youtube.com/watch?v=0noZIiFmQGs</id>
@@ -13040,25 +13059,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 15 # Athiravile Prarthana 15th of December 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=8SAO488i060</id>
-        <link href="https://www.youtube.com/watch?v=8SAO488i060"/>
-        <updated>2025-12-14T19:00:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 23 #shorts #malayalamsongs #feelgoodmusic]]></title>
-        <id>https://www.youtube.com/shorts/IlQ9TGKjWeU</id>
-        <link href="https://www.youtube.com/shorts/IlQ9TGKjWeU"/>
-        <updated>2025-12-14T18:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
