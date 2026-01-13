@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T23:08:31.600Z</updated>
+    <updated>2026-01-13T00:45:54.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന |Christian Devotional song Malayalam| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/i_urukf_3iw</id>
+        <link href="https://www.youtube.com/shorts/i_urukf_3iw"/>
+        <updated>2026-01-13T00:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 13th of January 26 # Mathavinte Japamala Dhukhathinte Rahasyangal 13th of January 26]]></title>
+        <id>https://www.youtube.com/watch?v=qWiV0hDSE8Y</id>
+        <link href="https://www.youtube.com/watch?v=qWiV0hDSE8Y"/>
+        <updated>2026-01-12T23:30:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രത്യാശ നൽകുന്നഗാനങ്ങൾ | Prathyasha Geethangal | Best Morning Prayer Songs | Kester | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ZWvT4h7CfAo</id>
+        <link href="https://www.youtube.com/watch?v=ZWvT4h7CfAo"/>
+        <updated>2026-01-12T23:30:15.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജനുവരി: 13, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
         <id>https://www.youtube.com/watch?v=ULbwpxKgr0k</id>
@@ -13014,34 +13042,6 @@
         <updated>2025-12-14T13:04:29.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethlehemile Vachanavilaku Fr Vineeth Ajimon Joseph Day 14]]></title>
-        <id>https://www.youtube.com/shorts/xDmcks5sXjo</id>
-        <link href="https://www.youtube.com/shorts/xDmcks5sXjo"/>
-        <updated>2025-12-14T11:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 14th of December 2025]]></title>
-        <id>https://www.youtube.com/watch?v=kZff1n4xraQ</id>
-        <link href="https://www.youtube.com/watch?v=kZff1n4xraQ"/>
-        <updated>2025-12-14T11:30:48.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heavenly Mother | Kester | Wilson Piravom | Elizabath Raju | Anju Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=pW5htlu5IUk</id>
-        <link href="https://www.youtube.com/watch?v=pW5htlu5IUk"/>
-        <updated>2025-12-14T11:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
