@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T11:11:40.993Z</updated>
+    <updated>2026-01-14T12:20:23.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thirakumbol Udakkuna 4K Video Song | Angel John | Mohanlal | Shanthanu | Franco | Hariharan]]></title>
+        <id>https://www.youtube.com/watch?v=2YHJnkXt3ks</id>
+        <link href="https://www.youtube.com/watch?v=2YHJnkXt3ks"/>
+        <updated>2026-01-14T12:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appolum Paranjille | അപ്പോളും പറഞ്ഞില്ലേ പോരണ്ടാ പോരണ്ടാന്ന്...| Kadamba | Thikkodiyan | Evergreen]]></title>
+        <id>https://www.youtube.com/watch?v=zMta4acxpWU</id>
+        <link href="https://www.youtube.com/watch?v=zMta4acxpWU"/>
+        <updated>2026-01-14T11:32:22.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 14th January 2026]]></title>
+        <id>https://www.youtube.com/watch?v=tcEhG1XdfIU</id>
+        <link href="https://www.youtube.com/watch?v=tcEhG1XdfIU"/>
+        <updated>2026-01-14T11:30:52.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yeshunadhan Innen | #jinokunnumpurath #shorts]]></title>
         <id>https://www.youtube.com/shorts/XEuF4fibVk4</id>
@@ -89,6 +116,15 @@
         <updated>2026-01-14T08:01:17.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Mushrooms | Official Trailer | Nadirshah | Vishnu Unnikrishnan | Akshaya | Abin Bino]]></title>
+        <id>https://www.youtube.com/watch?v=qmDf8Ly8wqE</id>
+        <link href="https://www.youtube.com/watch?v=qmDf8Ly8wqE"/>
+        <updated>2026-01-14T07:48:25.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -13068,34 +13104,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്തൊരനന്ദം ഈ ക്രിസ്തീയ ഗാനങ്ങൾ കേൾക്കുമ്പോൾ | Prathyasha Geethangal | Old Christian Songs | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=qqCaenhj61M</id>
-        <link href="https://www.youtube.com/watch?v=qqCaenhj61M"/>
-        <updated>2025-12-15T23:30:31.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 16th of December 25 # Mathavinte Japamala Dhukhathinte Rahasyangal 16th of December 25]]></title>
-        <id>https://www.youtube.com/watch?v=yqYX85LtTig</id>
-        <link href="https://www.youtube.com/watch?v=yqYX85LtTig"/>
-        <updated>2025-12-15T23:30:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanumasa Vicharangal December 16]]></title>
-        <id>https://www.youtube.com/shorts/f9iw0fzDeIQ</id>
-        <link href="https://www.youtube.com/shorts/f9iw0fzDeIQ"/>
-        <updated>2025-12-15T23:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
