@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T05:14:53.894Z</updated>
+    <updated>2026-01-14T06:17:41.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hridhayavaniyile Gaayikayo Video Song | Kottayam Kunjachan | Mammooty | KJ Yesudas | Sindhu Devi]]></title>
+        <id>https://www.youtube.com/watch?v=FKt3HOEQrek</id>
+        <link href="https://www.youtube.com/watch?v=FKt3HOEQrek"/>
+        <updated>2026-01-14T05:58:59.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eeran Marum | Uncle | Mammootty | Shreya Ghoshal | Rafeeque Ahammed | Bijibal | Girish Damodar]]></title>
+        <id>https://www.youtube.com/watch?v=jI2a7hLH_3U</id>
+        <link href="https://www.youtube.com/watch?v=jI2a7hLH_3U"/>
+        <updated>2026-01-14T05:30:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nin Mandhiram Ee Kalmandhiram | നിൻ മന്ദിരം... ഈ കൽമന്ദിരം... | Isakkinte Ithihasam | Gopi Sundar]]></title>
         <id>https://www.youtube.com/watch?v=9FcxQUzLOjc</id>
@@ -286,6 +304,15 @@
         <updated>2026-01-13T11:26:54.000Z</updated>
         <author>
             <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valathu Vashathe Kallan – Official Trailer | Biju Menon | Joju George | Jeethu Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=xg2vjQ5rSzI</id>
+        <link href="https://www.youtube.com/watch?v=xg2vjQ5rSzI"/>
+        <updated>2026-01-13T11:18:21.000Z</updated>
+        <author>
+            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
     <entry>
@@ -12990,15 +13017,6 @@
         <id>https://www.youtube.com/watch?v=FP1tR5S4GII</id>
         <link href="https://www.youtube.com/watch?v=FP1tR5S4GII"/>
         <updated>2025-12-15T19:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 16th December 25]]></title>
-        <id>https://www.youtube.com/watch?v=BrjZUjWxv7k</id>
-        <link href="https://www.youtube.com/watch?v=BrjZUjWxv7k"/>
-        <updated>2025-12-15T18:00:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
