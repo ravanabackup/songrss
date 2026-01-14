@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T09:18:08.022Z</updated>
+    <updated>2026-01-14T10:13:22.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maravidamay | Shorts #manoramachristiansongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/shorts/HWRqNODEDsU</id>
+        <link href="https://www.youtube.com/shorts/HWRqNODEDsU"/>
+        <updated>2026-01-14T09:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Srappikale Kandeshaya | സ്രാപ്പികളെ കണ്ടേശായാ | Orthodox Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=w4rdINAUZ7A</id>
+        <link href="https://www.youtube.com/watch?v=w4rdINAUZ7A"/>
+        <updated>2026-01-14T09:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സ്നേഹഗായകർ l Nisari Music l Timeless Evergreen Film Songs |]]></title>
         <id>https://www.youtube.com/watch?v=VXQmfNH7Cj0</id>
@@ -13076,16 +13095,6 @@
         <updated>2025-12-15T22:30:00.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/QSALrGvkRTw</id>
-        <link href="https://www.youtube.com/shorts/QSALrGvkRTw"/>
-        <updated>2025-12-15T22:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
