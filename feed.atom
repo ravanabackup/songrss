@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-14T14:14:43.876Z</updated>
+    <updated>2026-01-14T15:14:35.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പിരിയാൻ വയ്യാ പക്ഷികളായ് നാം ❤️🥺🫂  #dileep #kavyamadavan]]></title>
+        <id>https://www.youtube.com/shorts/zfhjtqMZtwc</id>
+        <link href="https://www.youtube.com/shorts/zfhjtqMZtwc"/>
+        <updated>2026-01-14T14:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appolum Paranjille | അപ്പോളും പറഞ്ഞില്ലേ പോരണ്ടാ പോരണ്ടാന്ന്...| Kadamba | Thikkodiyan | Evergreen]]></title>
         <id>https://www.youtube.com/shorts/rPUZTpBGmXI</id>
@@ -13209,16 +13219,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Yeshuve En Jeevane | Evugin Immanuel | Shorts #manoramamusic #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/3A5StTF3WsQ</id>
-        <link href="https://www.youtube.com/shorts/3A5StTF3WsQ"/>
-        <updated>2025-12-16T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
