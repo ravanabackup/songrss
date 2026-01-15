@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T11:10:23.741Z</updated>
+    <updated>2026-01-15T12:20:58.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അത്തിപ്പഴത്തിന്നിൻ  | Nakshathrakoodaaram Evergreen Malayalam Film Song | Suresh Gopi | Shweta Menon]]></title>
+        <id>https://www.youtube.com/watch?v=Ddd-e25JOAc</id>
+        <link href="https://www.youtube.com/watch?v=Ddd-e25JOAc"/>
+        <updated>2026-01-15T12:15:33.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aalapanam Video Song | Ente Sooryaputhrikku | Srividya | Amala | KJ Yesudas |KS Chithra | P Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=razI0rBbafg</id>
+        <link href="https://www.youtube.com/watch?v=razI0rBbafg"/>
+        <updated>2026-01-15T12:01:45.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനമുരുകുംനേരം സാന്ദ്വനമേകുന്ന ഗാനങ്ങൾ #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=XahfnmaWgpc</id>
+        <link href="https://www.youtube.com/watch?v=XahfnmaWgpc"/>
+        <updated>2026-01-15T11:43:34.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th January 2026]]></title>
+        <id>https://www.youtube.com/watch?v=eJeyRsHsYBM</id>
+        <link href="https://www.youtube.com/watch?v=eJeyRsHsYBM"/>
+        <updated>2026-01-15T11:30:45.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akkare Ikkare | അക്കരെ ഇക്കരെ...| Ithiri Neram Othiri Karyam | KJ Yesudas | Johnson Mater Hit]]></title>
+        <id>https://www.youtube.com/watch?v=ZCPr5O9Cusw</id>
+        <link href="https://www.youtube.com/watch?v=ZCPr5O9Cusw"/>
+        <updated>2026-01-15T11:30:29.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swargasthanaya Pithave | #jinokunnumpurath #shorts]]></title>
         <id>https://www.youtube.com/shorts/I5NJ0S9kSs0</id>
@@ -13020,35 +13065,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethlahemile | Bharath Sajikumar | Punya Pradeep | Shorts #shorts  #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/GxVGYfKfqxU</id>
-        <link href="https://www.youtube.com/shorts/GxVGYfKfqxU"/>
-        <updated>2025-12-17T00:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 17th of December 2025 # Mathavinte Japamala  Mahimayude Rahasyangal 17th of December 2025]]></title>
-        <id>https://www.youtube.com/watch?v=fPROHOzTO4o</id>
-        <link href="https://www.youtube.com/watch?v=fPROHOzTO4o"/>
-        <updated>2025-12-16T23:30:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanumasa Vicharangal December 17]]></title>
-        <id>https://www.youtube.com/shorts/Q3nQu92zNHU</id>
-        <link href="https://www.youtube.com/shorts/Q3nQu92zNHU"/>
-        <updated>2025-12-16T23:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
