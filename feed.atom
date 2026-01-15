@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T03:59:10.132Z</updated>
+    <updated>2026-01-15T04:38:52.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daivame Thriyekane | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/lrdw8oQnerA</id>
+        <link href="https://www.youtube.com/shorts/lrdw8oQnerA"/>
+        <updated>2026-01-15T04:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
         <id>https://www.youtube.com/watch?v=CfOkukvzhZ4</id>
@@ -12943,15 +12953,6 @@
         <updated>2025-12-16T18:01:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Stop Christmas Carols | ക്രിസ്തുമസ് ഗാനങ്ങൾ | Malayalam & English | Mashup | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=lXDSTyGK0dA</id>
-        <link href="https://www.youtube.com/watch?v=lXDSTyGK0dA"/>
-        <updated>2025-12-16T16:15:21.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
