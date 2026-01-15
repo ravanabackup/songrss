@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T07:16:01.751Z</updated>
+    <updated>2026-01-15T08:15:50.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leo - Thamarai Poovukum Video with Lyrics | Leo Version | Vijay | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=ETvaDGwZHgg</id>
+        <link href="https://www.youtube.com/watch?v=ETvaDGwZHgg"/>
+        <updated>2026-01-15T08:00:19.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maragadha Naanayam 2 - Promo | Aadhi, Sathyaraj, Priya Bhavani | ARK SARAVAN | DHIBU NINAN THOMAS]]></title>
+        <id>https://www.youtube.com/watch?v=YVXy3Z3iWMc</id>
+        <link href="https://www.youtube.com/watch?v=YVXy3Z3iWMc"/>
+        <updated>2026-01-15T07:35:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peru Chollam Kathil | 4K video | Agninakshathra| | Biju Menon | Indraja | Chithra | Raveendran Hits]]></title>
         <id>https://www.youtube.com/watch?v=ZSYcM5Gh8Zs</id>
