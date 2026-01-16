@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T06:17:43.488Z</updated>
+    <updated>2026-01-16T07:15:07.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gujarathi Kalathala 4K Video Song | Pulivalkalyanam | Kavya Madhavan | Jayasurya]]></title>
+        <id>https://www.youtube.com/watch?v=I7XNptmS80k</id>
+        <link href="https://www.youtube.com/watch?v=I7XNptmS80k"/>
+        <updated>2026-01-16T06:31:53.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thumbi Nin Moham Video Song | Neelagiri | KS Chithra | Mammootty | Madhoo | PK Gopi |  MM Keeravani]]></title>
         <id>https://www.youtube.com/watch?v=iww2BHjtmps</id>
@@ -12916,15 +12925,6 @@
         <link href="https://www.youtube.com/shorts/bM2AWREw0GM"/>
         <updated>2025-12-17T22:00:44.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 18 # Athiravile Prarthana 18th of December 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dRwP-3UTpVc</id>
-        <link href="https://www.youtube.com/watch?v=dRwP-3UTpVc"/>
-        <updated>2025-12-17T19:00:42.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
