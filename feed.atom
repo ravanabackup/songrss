@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T20:11:01.839Z</updated>
+    <updated>2026-01-16T21:10:01.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12987,43 +12987,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lokamam Gambheera Varidhiyil | ലോകമാം ഗംഭീര വാരിധിയിൽ | Binoy Chacko | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=Aml_JBpYlC0</id>
-        <link href="https://www.youtube.com/watch?v=Aml_JBpYlC0"/>
-        <updated>2025-12-18T09:06:52.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allithaamara HD Video Song | Pappan Priyappetta Pappan Malayalam Movie Song | P. Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=gz6oZqHvA6c</id>
-        <link href="https://www.youtube.com/watch?v=gz6oZqHvA6c"/>
-        <updated>2025-12-18T09:04:28.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[താളം ശ്രുതിലയ...| Thaalam Sruṭhilaya | Karyam Nisaram Movie | KJ Yesudas | S Janaki | Evergreen Hits]]></title>
-        <id>https://www.youtube.com/shorts/s7VJOakA7ag</id>
-        <link href="https://www.youtube.com/shorts/s7VJOakA7ag"/>
-        <updated>2025-12-18T08:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kumkuma Malrithale Song | Bhoopathi | Sureshgopi | Kanaka | K J Yesudas | Sujatha | S P Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=asqW9_HbjMA</id>
-        <link href="https://www.youtube.com/watch?v=asqW9_HbjMA"/>
-        <updated>2025-12-18T08:19:44.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
