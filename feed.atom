@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T11:09:59.234Z</updated>
+    <updated>2026-01-16T12:20:23.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sagarangale Paadi Unarthiya | Panjagni Classic Malayalam Movie Song | Mohanlal | Geetha | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=nyr3mDYRm5Y</id>
+        <link href="https://www.youtube.com/watch?v=nyr3mDYRm5Y"/>
+        <updated>2026-01-16T12:09:37.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വരുവിൻ യേശുവിൻ അരികിൽ IVaruvin Yeshuvin Arikil |Christian Devotional song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=MaCh0vovw0s</id>
+        <link href="https://www.youtube.com/watch?v=MaCh0vovw0s"/>
+        <updated>2026-01-16T11:42:15.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 16th January 2026]]></title>
+        <id>https://www.youtube.com/watch?v=JzugDKA02ps</id>
+        <link href="https://www.youtube.com/watch?v=JzugDKA02ps"/>
+        <updated>2026-01-16T11:30:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masthishka Maranam - Official Teaser | Rajisha Vijayan | Niranj Maniyanpilla Raju | Krishand |Varkey]]></title>
+        <id>https://www.youtube.com/watch?v=TYi8fldhRKg</id>
+        <link href="https://www.youtube.com/watch?v=TYi8fldhRKg"/>
+        <updated>2026-01-16T11:28:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്രീ സിനിമാ HIT ഗാനങ്ങൾl Nisari Music l Best of MG Sreekumar | Evergreen Malayalam Film Hits]]></title>
         <id>https://www.youtube.com/watch?v=ybFI_iEdcNQ</id>
@@ -346,6 +382,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sathyamanala Sundarane | സത്യമണാളാ സുന്ദരനെ | P. G. Abraham | T. Georgekutty | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=_z50ljB49BE</id>
+        <link href="https://www.youtube.com/watch?v=_z50ljB49BE"/>
+        <updated>2026-01-15T13:23:59.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -13001,25 +13046,6 @@
         <updated>2025-12-18T01:48:42.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 18th of December 25 # Mathavinte Japamala Prakashathinte Rahasyangal 18th of December 25]]></title>
-        <id>https://www.youtube.com/watch?v=vZdUm19s_VM</id>
-        <link href="https://www.youtube.com/watch?v=vZdUm19s_VM"/>
-        <updated>2025-12-17T23:30:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanumasa Vicharangal December 18]]></title>
-        <id>https://www.youtube.com/shorts/-_JUxKs-VYY</id>
-        <link href="https://www.youtube.com/shorts/-_JUxKs-VYY"/>
-        <updated>2025-12-17T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
