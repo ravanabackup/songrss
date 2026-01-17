@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T21:08:22.296Z</updated>
+    <updated>2026-01-17T22:09:12.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/XC3jPFaxgY8</id>
+        <link href="https://www.youtube.com/shorts/XC3jPFaxgY8"/>
+        <updated>2026-01-17T22:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank You All 🙏 🙏❤️]]></title>
         <id>https://www.youtube.com/shorts/RJTFSHKlOyg</id>
@@ -12865,25 +12875,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thekkannam Paari Nadanne | HD Video | Nanma Niranjavan Sreenivasan | Jayaram l MG Sreekumar |]]></title>
-        <id>https://www.youtube.com/watch?v=R-IJcSnt7Hc</id>
-        <link href="https://www.youtube.com/watch?v=R-IJcSnt7Hc"/>
-        <updated>2025-12-19T09:49:24.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jubile Mahamaham... #christmassongs2025 #shibuantony #christmassongs]]></title>
-        <id>https://www.youtube.com/shorts/CYGAOneAkPs</id>
-        <link href="https://www.youtube.com/shorts/CYGAOneAkPs"/>
-        <updated>2025-12-19T09:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
