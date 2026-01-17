@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T16:10:42.077Z</updated>
+    <updated>2026-01-17T17:08:13.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12940,34 +12940,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൊഞ്ചി കരയല്ലേ മിഴികള്‍ നനയല്ലേ...| Konchi Karayalle | Poomukhapadiyil Ninneyum Kaathu | Ilayaraja]]></title>
-        <id>https://www.youtube.com/watch?v=lvKXGJQ8tJU</id>
-        <link href="https://www.youtube.com/watch?v=lvKXGJQ8tJU"/>
-        <updated>2025-12-19T05:06:29.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Yeshu Aarilum… #matchpointfaith #matchpointcreations #malayalamchristiansongs #binoychacko]]></title>
-        <id>https://www.youtube.com/shorts/S7ycXh54dqw</id>
-        <link href="https://www.youtube.com/shorts/S7ycXh54dqw"/>
-        <updated>2025-12-19T04:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiru Thiru Thiruvananthapurathu - Video Song | Kaapa | Prithiviraj | Jakes Bejoy | Subhash Babu]]></title>
-        <id>https://www.youtube.com/watch?v=YNZQh4P9X5s</id>
-        <link href="https://www.youtube.com/watch?v=YNZQh4P9X5s"/>
-        <updated>2025-12-19T04:30:24.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
