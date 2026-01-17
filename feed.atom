@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T08:13:12.217Z</updated>
+    <updated>2026-01-17T09:09:56.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയ നൊമ്പരം l Nisari Music l Selected Malayalam Film Songs l]]></title>
+        <id>https://www.youtube.com/watch?v=SI-kGgRTafo</id>
+        <link href="https://www.youtube.com/watch?v=SI-kGgRTafo"/>
+        <updated>2026-01-17T08:57:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moovanthipparambiloode | മൂവന്തി പറമ്പിലൂടെ...| Aambalpoovu Movie | KJ Yesudas | V Dakshina Moorthy]]></title>
+        <id>https://www.youtube.com/shorts/_f_BGH_Ax3A</id>
+        <link href="https://www.youtube.com/shorts/_f_BGH_Ax3A"/>
+        <updated>2026-01-17T08:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[യുട്യൂബിൽകേട്ട  കിടിലൻ ക്രിസ്തീയഗാനങ്ങൾ @JinoKunnumpurathu    #jinokunnumpurath #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=GPdDMB7Qitk</id>
+        <link href="https://www.youtube.com/watch?v=GPdDMB7Qitk"/>
+        <updated>2026-01-17T08:15:33.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liger (Telugu) - Aafat Video with Lyrics | Video | Vijay Deverakonda, Ananya Panday]]></title>
         <id>https://www.youtube.com/watch?v=YRUMo11Fsjk</id>
