@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T18:13:46.349Z</updated>
+    <updated>2026-01-18T19:07:05.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 19 # Athiravile Prarthana 19th January 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Cb5yfK07PFo</id>
+        <link href="https://www.youtube.com/watch?v=Cb5yfK07PFo"/>
+        <updated>2026-01-18T19:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 19th January 26]]></title>
         <id>https://www.youtube.com/watch?v=GuQCiPFaDQI</id>
@@ -12727,35 +12736,6 @@
         <updated>2025-12-20T07:24:23.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethlahemile | Bharath Sajikumar | Punya Pradeep | Shorts #shorts  #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/bhlSLssOj00</id>
-        <link href="https://www.youtube.com/shorts/bhlSLssOj00"/>
-        <updated>2025-12-20T07:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masiha Aaya Hai | Hindi Carol]]></title>
-        <id>https://www.youtube.com/shorts/8bFxpePOcBU</id>
-        <link href="https://www.youtube.com/shorts/8bFxpePOcBU"/>
-        <updated>2025-12-20T06:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thooval Vinnin Maaril | തൂവൽ വിണ്ണിൻ മാറിൽ...| Thalayana Manthram Movie | Sreenivasan | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=cIPpiK-3EPE</id>
-        <link href="https://www.youtube.com/watch?v=cIPpiK-3EPE"/>
-        <updated>2025-12-20T06:29:32.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
