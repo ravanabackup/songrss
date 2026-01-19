@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T14:17:02.425Z</updated>
+    <updated>2026-01-19T15:14:51.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അടവിതരുക്കളിനിടയിൽ| Adavi Tharukalin Idayil| Annamma Mammen| Malayalam Christian Song| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/MUd9CIATWkU</id>
+        <link href="https://www.youtube.com/shorts/MUd9CIATWkU"/>
+        <updated>2026-01-19T14:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകം മുഴവൻ ഏറ്റുപാടുന്ന വി.സെബാസ്ത്യാനോസ് പുണ്യാളന്റെ അത്ഭുതഗാനം | #feastday | 2026 | #stsebastian]]></title>
         <id>https://www.youtube.com/shorts/FqhgjHPYupc</id>
@@ -2155,6 +2165,15 @@
         <link href="https://www.youtube.com/shorts/2LG2Q511osk"/>
         <updated>2026-01-14T08:57:39.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu En Pakshamai | യേശു എൻ പക്ഷമായ് തീർന്നതിനാൽ | Sruthy Joy | P. P. Mathew | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=MVAmbTOEwlE</id>
+        <link href="https://www.youtube.com/watch?v=MVAmbTOEwlE"/>
+        <updated>2026-01-14T08:31:50.000Z</updated>
         <author>
             <name>Match Point Faith</name>
         </author>
@@ -12776,16 +12795,6 @@
         <updated>2025-12-21T04:30:08.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meimaranthen 😇 #susantika #pranavmuniraj #thinkspecials]]></title>
-        <id>https://www.youtube.com/shorts/CK9nwq3836E</id>
-        <link href="https://www.youtube.com/shorts/CK9nwq3836E"/>
-        <updated>2025-12-21T03:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
