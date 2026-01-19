@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T08:17:49.986Z</updated>
+    <updated>2026-01-19T09:22:43.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannil Virinju Moham | കണ്ണിൽ വിരിഞ്ഞു മോഹം...| Parayanum Vayya Parayathirikkanum Vayya | KS Chithra]]></title>
+        <id>https://www.youtube.com/shorts/FSFx-wRW51Q</id>
+        <link href="https://www.youtube.com/shorts/FSFx-wRW51Q"/>
+        <updated>2026-01-19T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some melodies don’t fade, they linger 💕The magical #Kamini from #AnugraheethanAntony is today’s SOD]]></title>
+        <id>https://www.youtube.com/shorts/7DMYd2-F1xQ</id>
+        <link href="https://www.youtube.com/shorts/7DMYd2-F1xQ"/>
+        <updated>2026-01-19T08:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liger (Telugu) - Akdi Pakdi Video with Lyrics | Video | Vijay Deverakonda, Ananya Panday]]></title>
         <id>https://www.youtube.com/watch?v=I60KMCug5oA</id>
