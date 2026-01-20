@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-20T22:11:41.912Z</updated>
+    <updated>2026-01-20T23:10:51.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21 January 2026]]></title>
+        <id>https://www.youtube.com/shorts/2MrUkKwOG4s</id>
+        <link href="https://www.youtube.com/shorts/2MrUkKwOG4s"/>
+        <updated>2026-01-20T22:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/NM8oGQMUXzM</id>
@@ -12661,72 +12671,6 @@
         <updated>2025-12-22T11:15:12.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalambana - Video Song | Pushpaka Vimanam | Rahul Raj | Siju Wilson | Balu Varghese | Ullas Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=zPEwExgDNPQ</id>
-        <link href="https://www.youtube.com/watch?v=zPEwExgDNPQ"/>
-        <updated>2025-12-22T11:01:54.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevante Vriksham | Deepankuran Kaithapram | Jomit Johny | #newchristiansong #shorts - REEL 1]]></title>
-        <id>https://www.youtube.com/shorts/qIrAoKn7ADs</id>
-        <link href="https://www.youtube.com/shorts/qIrAoKn7ADs"/>
-        <updated>2025-12-22T11:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjil Moodum Ravil | Prem Nair | Najim Arshad #romanticvideoalbum #lovesong #premnair #summayya]]></title>
-        <id>https://www.youtube.com/shorts/iRZC8LpIH64</id>
-        <link href="https://www.youtube.com/shorts/iRZC8LpIH64"/>
-        <updated>2025-12-22T11:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രീനിവാസൻ, മമ്മൂട്ടി, മോഹൻലാൽ ഒരു അപൂർവ്വ  സംഗമം | Tribute to Sreenivasan]]></title>
-        <id>https://www.youtube.com/watch?v=IwDr8O4GCB8</id>
-        <link href="https://www.youtube.com/watch?v=IwDr8O4GCB8"/>
-        <updated>2025-12-22T10:57:53.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | ‪Aswathy | Entry No: 5 | Biju Paulose | Roy Kanjirathanam]]></title>
-        <id>https://www.youtube.com/watch?v=HIuplLNsWWA</id>
-        <link href="https://www.youtube.com/watch?v=HIuplLNsWWA"/>
-        <updated>2025-12-22T10:50:10.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നമ്മോടുകൂടെ  | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
-        <id>https://www.youtube.com/shorts/AfW4bCO5VDI</id>
-        <link href="https://www.youtube.com/shorts/AfW4bCO5VDI"/>
-        <updated>2025-12-22T10:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When A Child is Born | Usha Uthup | Kids Animation Videos | Christmas Songs | World Famous Carols]]></title>
-        <id>https://www.youtube.com/watch?v=G_YKT6FjoMA</id>
-        <link href="https://www.youtube.com/watch?v=G_YKT6FjoMA"/>
-        <updated>2025-12-22T10:15:31.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
