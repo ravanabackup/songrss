@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T15:18:56.048Z</updated>
+    <updated>2026-01-21T16:22:13.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sathyamanala Sundarane | സത്യമണാളാ സുന്ദരനെ |]]></title>
+        <id>https://www.youtube.com/shorts/GZul2s6Zdxc</id>
+        <link href="https://www.youtube.com/shorts/GZul2s6Zdxc"/>
+        <updated>2026-01-21T16:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/CI2iId2qDrc</id>
+        <link href="https://www.youtube.com/shorts/CI2iId2qDrc"/>
+        <updated>2026-01-21T15:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/Uw_gvn-cKY0</id>
@@ -12725,24 +12745,6 @@
         <updated>2025-12-23T04:41:34.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When A Child is Born | Kids Animation Video | Usha Uthup | Christmas Carol Videos | Christmas Song]]></title>
-        <id>https://www.youtube.com/watch?v=5zTNYBiaxOs</id>
-        <link href="https://www.youtube.com/watch?v=5zTNYBiaxOs"/>
-        <updated>2025-12-23T03:43:51.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിങ്ങൾക്കിഷ്ടപെട്ട പുതുപുത്തൻ ക്രിസ്മസ് ഗാനങ്ങൾ | Latest Christmas Songs 2025 | Christmas Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Pu5q52gV7sY</id>
-        <link href="https://www.youtube.com/watch?v=Pu5q52gV7sY"/>
-        <updated>2025-12-23T03:23:34.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
