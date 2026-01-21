@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T12:22:35.846Z</updated>
+    <updated>2026-01-21T13:36:48.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lords prayer Malayalam | പ്രഭാത പ്രാർത്ഥന | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/WizeJ81oYBE</id>
+        <link href="https://www.youtube.com/shorts/WizeJ81oYBE"/>
+        <updated>2026-01-21T13:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoovenpraavukal | തൂവെൺ പ്രാവുകൾ....| Aaghosham | KJ Yesudas | Radhika Thilak | Evergreen]]></title>
+        <id>https://www.youtube.com/shorts/UyaIGUj1MV0</id>
+        <link href="https://www.youtube.com/shorts/UyaIGUj1MV0"/>
+        <updated>2026-01-21T13:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[യുട്യൂബിലെ ഇപ്പോഴത്തേ ട്രെൻഡിങ് ക്രിസ്തിയ ഗാനങ്ങൾ!! | Peter Cheranelloor | Top Hits | #evergreen]]></title>
+        <id>https://www.youtube.com/watch?v=3QNFK24Ucw4</id>
+        <link href="https://www.youtube.com/watch?v=3QNFK24Ucw4"/>
+        <updated>2026-01-21T13:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh January Video Song | Big B | Mammootty | Sayanora Philip | Alphonse Joseph | Joffy Tharakan]]></title>
+        <id>https://www.youtube.com/watch?v=MV74g-BAftA</id>
+        <link href="https://www.youtube.com/watch?v=MV74g-BAftA"/>
+        <updated>2026-01-21T12:49:10.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kari Mukilinu - Video Song with Lyrics | Charlie | Gopi Sundar | Rafeeq Ahamed | Vijay Prakash]]></title>
+        <id>https://www.youtube.com/watch?v=npapg7AZB_Y</id>
+        <link href="https://www.youtube.com/watch?v=npapg7AZB_Y"/>
+        <updated>2026-01-21T12:31:10.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mookilla Rajyathu Malayalam Movie Song | കാശിത്തുമ്പ കാവയി |  Mukesh, Siddique, Thilakan, Jagathi]]></title>
         <id>https://www.youtube.com/watch?v=UK5pBIH52RE</id>
@@ -12686,24 +12733,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=74GbiKSlEz0</id>
-        <link href="https://www.youtube.com/watch?v=74GbiKSlEz0"/>
-        <updated>2025-12-23T01:24:24.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയത്തിന് സൗഖ്യം പകരുന്ന പഴയ ക്രിസ്തീയ ഗാനങ്ങൾ | Best Morning Prayer Songs | Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=u-qa8qZmAvY</id>
-        <link href="https://www.youtube.com/watch?v=u-qa8qZmAvY"/>
-        <updated>2025-12-23T00:30:57.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
