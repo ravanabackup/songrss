@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T14:19:10.819Z</updated>
+    <updated>2026-01-21T15:18:56.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/Uw_gvn-cKY0</id>
+        <link href="https://www.youtube.com/shorts/Uw_gvn-cKY0"/>
+        <updated>2026-01-21T14:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു മറ്റവളെയും വിശ്വസിക്കരുത്...!! #magicmushroomsmovie Coming Soon #shorts]]></title>
+        <id>https://www.youtube.com/shorts/MM0I-UFeHA0</id>
+        <link href="https://www.youtube.com/shorts/MM0I-UFeHA0"/>
+        <updated>2026-01-21T14:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lords prayer Malayalam | പ്രഭാത പ്രാർത്ഥന | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/WizeJ81oYBE</id>
