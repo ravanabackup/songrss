@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T06:18:22.323Z</updated>
+    <updated>2026-01-22T07:18:04.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maama Malayali Mama | Malayaali Maamanu Vanakkam | Jayaram | Roja - Suresh Peters Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=IUuCXz_6A-M</id>
+        <link href="https://www.youtube.com/watch?v=IUuCXz_6A-M"/>
+        <updated>2026-01-22T06:51:10.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാഥ നിന്നെ എന്നും വാഴ്ത്തീടാം | Aarum Kothikkum | Aradhya #remix  #christiandevotionalsong #jesus]]></title>
+        <id>https://www.youtube.com/shorts/Rs4JXLCJ2No</id>
+        <link href="https://www.youtube.com/shorts/Rs4JXLCJ2No"/>
+        <updated>2026-01-22T06:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambarathambili | Lyrical Video | Offroad | Jassie Gift | Sarath Appani | Subhash Mohanraj]]></title>
+        <id>https://www.youtube.com/watch?v=0bmX0qYSeNc</id>
+        <link href="https://www.youtube.com/watch?v=0bmX0qYSeNc"/>
+        <updated>2026-01-22T06:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാല്‍നുരയായ് നറുപരിഭവമായ്..| Paalnurayaay Naru Paribhavamay | Aakahathekkoru Kilivathil | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=40f_mCOX7Jw</id>
@@ -12499,25 +12527,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 24 # Athiravile Prarthana 24th of December 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=juy775hVmIU</id>
-        <link href="https://www.youtube.com/watch?v=juy775hVmIU"/>
-        <updated>2025-12-23T19:00:50.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinnil Udhichoru Tharakam | Carol Shorts]]></title>
-        <id>https://www.youtube.com/shorts/PVVVLEz6VSY</id>
-        <link href="https://www.youtube.com/shorts/PVVVLEz6VSY"/>
-        <updated>2025-12-23T18:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
