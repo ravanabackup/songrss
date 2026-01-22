@@ -7111,6 +7111,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXQ1x1oyK0ArXXjoJYEmu4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/DlZZEHnAYfc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/DlZZEHnAYfc",
+          "publishedOn": "2026-01-22T04:17:14.000Z",
+          "wordCount": 2035,
+          "title": "Rajadhirajan Yeshu | Christian Shorts  #manoramachristiansongs  #manoramamusic #kestersongs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/ubXN-Hxd4WY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -8442,16 +8452,6 @@
           "publishedOn": "2025-12-24T16:17:08.000Z",
           "wordCount": 2002,
           "title": "24 December 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/HlRfacJ0_PM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/HlRfacJ0_PM",
-          "publishedOn": "2025-12-23T16:47:08.000Z",
-          "wordCount": 2014,
-          "title": "23 December 2025",
           "imageUrl": null
         }
       ]
@@ -10586,6 +10586,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7HxL02mm_QSBvrykXTzMew",
       "siteUrl": "https://www.youtube.com/channel/UC7HxL02mm_QSBvrykXTzMew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gjO9JVs9ScA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gjO9JVs9ScA",
+          "publishedOn": "2026-01-22T04:30:23.000Z",
+          "wordCount": null,
+          "title": "Chandhanam Valarum | Pravaham | MK Arjunan | KJ Yesudas | Sreekumaran Thampi | Sasikumar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hu7edcp48ww",
           "author": null,
