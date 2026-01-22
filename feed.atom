@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T09:21:46.789Z</updated>
+    <updated>2026-01-22T10:15:37.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വഴിയരികിൽ പഥികനായി | Vazhiyarikil Padhikanayi |#jesussongs #christiansongs #shorts #jesus]]></title>
+        <id>https://www.youtube.com/shorts/FBXjyxZXFx8</id>
+        <link href="https://www.youtube.com/shorts/FBXjyxZXFx8"/>
+        <updated>2026-01-22T09:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevante Margame | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/W45wuTdxH0Q</id>
+        <link href="https://www.youtube.com/shorts/W45wuTdxH0Q"/>
+        <updated>2026-01-22T09:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നൂറുവട്ടംകേട്ടാലും മടുക്കാത്ത ഗാനങ്ങൾ | #jinokunnumpurath #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/watch?v=eRQGvD7ERoQ</id>
+        <link href="https://www.youtube.com/watch?v=eRQGvD7ERoQ"/>
+        <updated>2026-01-22T09:12:20.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാല്‍നുരയായ് നറുപരിഭവമായ്..| Paalnurayaay Naru Paribhavamay | Aakahathekkoru Kilivathil | KS Chithra]]></title>
         <id>https://www.youtube.com/shorts/eGtjruX0zoc</id>
@@ -63,6 +92,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raavil Nee Music Video | Vamesh Vasudev | Ayraan | Midhu Ajith | Kala Rajan | Shabin Sha | Vaishnavi]]></title>
+        <id>https://www.youtube.com/watch?v=CKEWuL1Cvp0</id>
+        <link href="https://www.youtube.com/watch?v=CKEWuL1Cvp0"/>
+        <updated>2026-01-22T05:49:53.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Etho Paattin | Unplugged Melody Cover #malayalamcover #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/shorts/9JWBUL4_xtY</id>
         <link href="https://www.youtube.com/shorts/9JWBUL4_xtY"/>
@@ -70,6 +108,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orey Nila | Gandhi Talks | Vijay Sethupathi | Arvind Swamy | Aditi Rao Hydari | A.R. Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=OulTwD36gTk</id>
+        <link href="https://www.youtube.com/watch?v=OulTwD36gTk"/>
+        <updated>2026-01-22T04:52:51.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12536,16 +12583,6 @@
         <updated>2025-12-23T22:30:15.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/c9GaTTFm2Gw</id>
-        <link href="https://www.youtube.com/shorts/c9GaTTFm2Gw"/>
-        <updated>2025-12-23T22:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
