@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T19:15:54.220Z</updated>
+    <updated>2026-01-23T20:12:35.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -485,6 +485,15 @@
         <updated>2026-01-22T12:48:45.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maharaja Hostel - Official Teaser | Akhil NRD | Akhil Shah | Charu Wakan | Aswin Ram]]></title>
+        <id>https://www.youtube.com/watch?v=WeBIZL2E6NU</id>
+        <link href="https://www.youtube.com/watch?v=WeBIZL2E6NU"/>
+        <updated>2026-01-22T12:37:58.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12374,42 +12383,6 @@
         <updated>2025-12-25T08:30:16.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Today (Telugu) - Pranam Pothunna Video with Lyrics | Pradeep Ranganathan | Yuvan]]></title>
-        <id>https://www.youtube.com/watch?v=kF9opmsUyxU</id>
-        <link href="https://www.youtube.com/watch?v=kF9opmsUyxU"/>
-        <updated>2025-12-25T08:00:58.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സെലിബ്രേഷൻ ഗാനങ്ങൾ⚡💃🏻  | ADIPOLI DANCE SONGS MALAYALAM | CELEBRATION SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=cAR6z0XkxG8</id>
-        <link href="https://www.youtube.com/watch?v=cAR6z0XkxG8"/>
-        <updated>2025-12-25T07:30:32.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡ്യൂയറ്റുകളിലെ രാജാവും രാജ്ഞിയും | YESUDAS & KS CHITHRA DUET HITS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=juNwSfbITeo</id>
-        <link href="https://www.youtube.com/watch?v=juNwSfbITeo"/>
-        <updated>2025-12-25T07:30:22.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹാപ്പി ക്രിസ്മസ് | Christmas Special Songs | Madhu Balakrishnan | Joji Johns | Christmas Carol Songs]]></title>
-        <id>https://www.youtube.com/watch?v=1zijMzOupu4</id>
-        <link href="https://www.youtube.com/watch?v=1zijMzOupu4"/>
-        <updated>2025-12-25T07:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
