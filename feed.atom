@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T07:11:25.595Z</updated>
+    <updated>2026-01-24T08:13:16.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[weekend songs]]></title>
+        <id>https://www.youtube.com/watch?v=AW-mXUFsqFM</id>
+        <link href="https://www.youtube.com/watch?v=AW-mXUFsqFM"/>
+        <updated>2026-01-24T08:00:10.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേൾക്കാൻ കൊതിച്ച മമ്മുക്കയുടെ ഇഷ്ട ഗാനങ്ങൾ ❤️ HITS OF MAMMOOTTY]]></title>
+        <id>https://www.youtube.com/watch?v=NHxqrO_jUHs</id>
+        <link href="https://www.youtube.com/watch?v=NHxqrO_jUHs"/>
+        <updated>2026-01-24T07:30:25.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayavi Kadhakal | Animation Story #animation #mayavi #balarama #cartoon #shortsfeed #shortsvideo]]></title>
         <id>https://www.youtube.com/shorts/44mWegXMBiY</id>
