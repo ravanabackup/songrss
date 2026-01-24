@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T12:17:54.800Z</updated>
+    <updated>2026-01-24T13:23:45.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24 January 2026]]></title>
+        <id>https://www.youtube.com/shorts/Uw1zQi2nNJk</id>
+        <link href="https://www.youtube.com/shorts/Uw1zQi2nNJk"/>
+        <updated>2026-01-24T13:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാജഹംസമേ | Raajahamsame | Chamayam Evergreen Malayalam Film Song | K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=R9zk-KUwKVQ</id>
+        <link href="https://www.youtube.com/watch?v=R9zk-KUwKVQ"/>
+        <updated>2026-01-24T12:34:30.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanan Desam Thedi....#christiandevotionalsongsmalayalam #kgmarkose #jojijohnschristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/63-ziRqUAxc</id>
+        <link href="https://www.youtube.com/shorts/63-ziRqUAxc"/>
+        <updated>2026-01-24T12:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Down Troddence - Seven (Lyric Video) | AYAKTIHIS | A.J.Blend | Think Originals]]></title>
+        <id>https://www.youtube.com/watch?v=EqrQ_rTLsK0</id>
+        <link href="https://www.youtube.com/watch?v=EqrQ_rTLsK0"/>
+        <updated>2026-01-24T12:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 24th January 2026]]></title>
         <id>https://www.youtube.com/watch?v=HFaMEbsKRN8</id>
@@ -12378,16 +12416,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Christmas 🎅 #matchpointfaith #christmas #malayalamchristiansongs #matchpointcreations #song]]></title>
-        <id>https://www.youtube.com/shorts/TTHUMNHsGDo</id>
-        <link href="https://www.youtube.com/shorts/TTHUMNHsGDo"/>
-        <updated>2025-12-26T00:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
