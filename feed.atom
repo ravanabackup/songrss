@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T08:13:43.934Z</updated>
+    <updated>2026-01-25T09:11:13.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaavalam Kiliye Video Song | Saamoohya Paadam | Dileep | KS Chithra | SP Venkitesh]]></title>
+        <id>https://www.youtube.com/watch?v=tpJdqam-gT4</id>
+        <link href="https://www.youtube.com/watch?v=tpJdqam-gT4"/>
+        <updated>2026-01-25T09:01:17.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maamazhakkaade Poomarakkoode | മാമഴകാടെ പൂമരകൂടെ...| Adiverukal Movie | KS Chithra | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/shorts/fbjC8Il2dOw</id>
+        <link href="https://www.youtube.com/shorts/fbjC8Il2dOw"/>
+        <updated>2026-01-25T08:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premame Neeyengupoi #shortsfeed #shortsvideo #reels #malayalamalbumsongs #shorts | Ranjith Jayaraman]]></title>
         <id>https://www.youtube.com/shorts/Ryb52AvGiqM</id>
