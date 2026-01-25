@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T18:14:34.382Z</updated>
+    <updated>2026-01-25T19:08:23.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[76th Republic Day on January 26, 2026, 150 years of Vande Matram]]></title>
+        <id>https://www.youtube.com/shorts/n1w8mAZBzHw</id>
+        <link href="https://www.youtube.com/shorts/n1w8mAZBzHw"/>
+        <updated>2026-01-25T18:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[76th Republic Day on January 26, 2026, 150 years of Vande Matram | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/r_o0rgxR0b8</id>
@@ -12137,24 +12147,6 @@
         <updated>2025-12-27T07:41:09.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Mezhuthiriyude | ഒരു മെഴുതിരിയുടെ...| Vishudhan Movie | Shahabaz Aman | Mridula Warrior]]></title>
-        <id>https://www.youtube.com/watch?v=NCOQc6bDR4g</id>
-        <link href="https://www.youtube.com/watch?v=NCOQc6bDR4g"/>
-        <updated>2025-12-27T06:43:51.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thamburu Kulir Choodiyo  | Soorya Gayathri | Mohanlal | Urvashi | Anu Anand - Raveendran Hits]]></title>
-        <id>https://www.youtube.com/watch?v=eMLKNz8CZFs</id>
-        <link href="https://www.youtube.com/watch?v=eMLKNz8CZFs"/>
-        <updated>2025-12-27T06:16:11.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
