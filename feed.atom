@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T19:08:23.637Z</updated>
+    <updated>2026-01-25T20:11:20.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 26 # Athiravile Prarthana 26th January 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=w_9Ib-LINfU</id>
+        <link href="https://www.youtube.com/watch?v=w_9Ib-LINfU"/>
+        <updated>2026-01-25T19:00:56.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[76th Republic Day on January 26, 2026, 150 years of Vande Matram]]></title>
         <id>https://www.youtube.com/shorts/n1w8mAZBzHw</id>
@@ -12129,24 +12138,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadaikutty Singam - Sandakkaari Video with Lyrics | Karthi, Sayyeshaa | D. Imman]]></title>
-        <id>https://www.youtube.com/watch?v=weQw8WW3gyY</id>
-        <link href="https://www.youtube.com/watch?v=weQw8WW3gyY"/>
-        <updated>2025-12-27T08:01:11.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തൊണ്ണൂറുകളിലെ മൺമറഞ്ഞുപോയ ഗാനവിസ്മയങ്ങൾ ✨| 90s Malayalam Hidden Gem Songs]]></title>
-        <id>https://www.youtube.com/watch?v=1EzsYrOZ4gU</id>
-        <link href="https://www.youtube.com/watch?v=1EzsYrOZ4gU"/>
-        <updated>2025-12-27T07:41:09.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
