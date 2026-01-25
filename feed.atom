@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T22:09:57.682Z</updated>
+    <updated>2026-01-25T23:10:10.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജനുവരി: 26, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=-iUYpx54bfI</id>
+        <link href="https://www.youtube.com/watch?v=-iUYpx54bfI"/>
+        <updated>2026-01-25T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/eAaj7nvr32c</id>
@@ -12088,36 +12097,6 @@
         <updated>2025-12-27T11:30:42.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruvathazha Neram | Jacques C Thachoth | Tinto Parappally |    @JinoKunnumpurathu | #christiansong]]></title>
-        <id>https://www.youtube.com/shorts/hy4PyQFdXV0</id>
-        <link href="https://www.youtube.com/shorts/hy4PyQFdXV0"/>
-        <updated>2025-12-27T11:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹസമ്മാനം | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
-        <id>https://www.youtube.com/shorts/qBcbssQ9qnI</id>
-        <link href="https://www.youtube.com/shorts/qBcbssQ9qnI"/>
-        <updated>2025-12-27T10:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Duppattawaali — butterflies in every beat 🦋💛 #rewind2025 #okck]]></title>
-        <id>https://www.youtube.com/shorts/fZEJ3Jpt2Wg</id>
-        <link href="https://www.youtube.com/shorts/fZEJ3Jpt2Wg"/>
-        <updated>2025-12-27T10:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
