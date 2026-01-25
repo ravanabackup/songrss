@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T21:08:53.667Z</updated>
+    <updated>2026-01-25T22:09:57.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/eAaj7nvr32c</id>
+        <link href="https://www.youtube.com/shorts/eAaj7nvr32c"/>
+        <updated>2026-01-25T22:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 26 # Athiravile Prarthana 26th January 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=w_9Ib-LINfU</id>
@@ -12108,26 +12118,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhayamo Iniyennil | Shorts]]></title>
-        <id>https://www.youtube.com/shorts/w5i4m0Onarg</id>
-        <link href="https://www.youtube.com/shorts/w5i4m0Onarg"/>
-        <updated>2025-12-27T10:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyen Priya Thozhan | നീയെൻ പ്രിയ തോഴൻ #jesus #christianshorts #jesuslove #jesusshorts #prayersong]]></title>
-        <id>https://www.youtube.com/shorts/IRe726rz-Tk</id>
-        <link href="https://www.youtube.com/shorts/IRe726rz-Tk"/>
-        <updated>2025-12-27T09:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
