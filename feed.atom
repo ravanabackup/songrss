@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T22:11:50.680Z</updated>
+    <updated>2026-01-27T23:10:52.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12082,26 +12082,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevante Vriksham | Deepankuran Kaithapram | Jomit Johny | #newchristiansong #shorts - REEL -3]]></title>
-        <id>https://www.youtube.com/shorts/22CUehmescI</id>
-        <link href="https://www.youtube.com/shorts/22CUehmescI"/>
-        <updated>2025-12-29T11:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വേദനകളെ പുഞ്ചിരിയാക്കിയ ദൈവം | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
-        <id>https://www.youtube.com/shorts/JVIbyM1aMNo</id>
-        <link href="https://www.youtube.com/shorts/JVIbyM1aMNo"/>
-        <updated>2025-12-29T10:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
