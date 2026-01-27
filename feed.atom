@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T04:06:55.685Z</updated>
+    <updated>2026-01-27T05:18:27.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11968,25 +11968,6 @@
         <updated>2025-12-28T18:00:24.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box office-in thozha 💥 #nivinpauly #vineethsreenivasan]]></title>
-        <id>https://www.youtube.com/shorts/lgu8BcZdj_U</id>
-        <link href="https://www.youtube.com/shorts/lgu8BcZdj_U"/>
-        <updated>2025-12-28T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asthamayam Asthamayam | Asthamayam Movie | KJ Yesudas | Sreekumaran Thampi | Olden Hits]]></title>
-        <id>https://www.youtube.com/watch?v=vdt4WMpizos</id>
-        <link href="https://www.youtube.com/watch?v=vdt4WMpizos"/>
-        <updated>2025-12-28T16:30:25.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
