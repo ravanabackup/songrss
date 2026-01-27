@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T06:18:24.459Z</updated>
+    <updated>2026-01-27T07:18:34.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaattodum kannippaadam | KJ Yesudas | KS Chithra | Suresh Gopi | Lissy | Mindaappoochaykku Kalyaanam]]></title>
+        <id>https://www.youtube.com/watch?v=CAeINbntQLc</id>
+        <link href="https://www.youtube.com/watch?v=CAeINbntQLc"/>
+        <updated>2026-01-27T07:01:22.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dheem Thaka Thaka Thom HD Video Song | Maratha Nadu]]></title>
+        <id>https://www.youtube.com/watch?v=vlr62LCFm_4</id>
+        <link href="https://www.youtube.com/watch?v=vlr62LCFm_4"/>
+        <updated>2026-01-27T06:24:20.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചന്ദനക്കുറിയുമായ് സുകൃത വനിയില്‍ | Oru Nokku Kaanan Classic Malayalam Movie Song | Menaka | Shankar]]></title>
+        <id>https://www.youtube.com/watch?v=nrhYQyNv2uc</id>
+        <link href="https://www.youtube.com/watch?v=nrhYQyNv2uc"/>
+        <updated>2026-01-27T06:23:20.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Vinnil Vidarum | എന്റെ വിണ്ണിൽ വിടരും...| KJ Yesudas | KS Chithra | Mammootty | Revathi Song]]></title>
         <id>https://www.youtube.com/watch?v=uqyYC503QGA</id>
@@ -11967,15 +11994,6 @@
         <link href="https://www.youtube.com/shorts/AtQO-Mk6vR4"/>
         <updated>2025-12-28T22:00:11.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 29 # Athiravile Prarthana 29th of December 2025 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ooRHtf6f9Vs</id>
-        <link href="https://www.youtube.com/watch?v=ooRHtf6f9Vs"/>
-        <updated>2025-12-28T19:00:46.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
