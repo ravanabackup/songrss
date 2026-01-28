@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T22:15:09.871Z</updated>
+    <updated>2026-01-28T23:16:05.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജനുവരി: 29, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=eIc2EWC85BY</id>
+        <link href="https://www.youtube.com/watch?v=eIc2EWC85BY"/>
+        <updated>2026-01-28T22:30:08.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/c-DqObBQLy4</id>
@@ -11889,55 +11898,6 @@
         <updated>2025-12-30T11:30:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELLAM NANMAKKAYI  | മനസ്സ് നിറയ്ക്കുന്ന മനോഹര ക്രിസ്‌തീയ ഗാനം |  @JinoKunnumpurathu  | #shorts]]></title>
-        <id>https://www.youtube.com/shorts/6rZ7FYhHHQQ</id>
-        <link href="https://www.youtube.com/shorts/6rZ7FYhHHQQ"/>
-        <updated>2025-12-30T11:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയത്തിൽ ആനന്ദംനിറയ്ക്കുന്ന മന്ദ്രികഗാനങ്ങൾ | ‪#JinoKunnumpurathu‬#malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=4oZU-Bzs6uA</id>
-        <link href="https://www.youtube.com/watch?v=4oZU-Bzs6uA"/>
-        <updated>2025-12-30T10:49:44.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ 𝓗𝓪𝓹𝓹𝔂 𝓝𝓮𝔀 𝓨𝓮𝓪𝓻 ✨  #matchpointfaith #matchpointcreations #HappyNewYear #newyear2026]]></title>
-        <id>https://www.youtube.com/shorts/re3S3Vq8ZfQ</id>
-        <link href="https://www.youtube.com/shorts/re3S3Vq8ZfQ"/>
-        <updated>2025-12-30T10:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks Giving Songs | Happy New Year 2026 #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/F37eTFhLTwk</id>
-        <link href="https://www.youtube.com/shorts/F37eTFhLTwk"/>
-        <updated>2025-12-30T10:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നന്ദി ദൈവമേ  | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts #christmas]]></title>
-        <id>https://www.youtube.com/shorts/KMIzsOhuEo4</id>
-        <link href="https://www.youtube.com/shorts/KMIzsOhuEo4"/>
-        <updated>2025-12-30T10:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
