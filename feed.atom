@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T09:22:45.364Z</updated>
+    <updated>2026-01-28T10:16:29.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരു മെഴുതിരിയുടെ നെറുകയിലെരിയാൻ പ്രണയമേ അരികിൽ വന്നു നീ #evergreenhits #trending]]></title>
+        <id>https://www.youtube.com/shorts/j47FUXGgsq8</id>
+        <link href="https://www.youtube.com/shorts/j47FUXGgsq8"/>
+        <updated>2026-01-28T10:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കലക്കൻ ക്രിസ്തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu #jinokunnumpurath #zionclassics #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=SkY75cqADKU</id>
+        <link href="https://www.youtube.com/watch?v=SkY75cqADKU"/>
+        <updated>2026-01-28T09:56:48.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Edhan Thottam Poothulanjatho | ഏദൻ തോട്ടം പൂത്തുലഞ്ഞതോ...| Vishudhan Movie | Miya | Gopi Sundar]]></title>
         <id>https://www.youtube.com/shorts/SdGSPCM7X8s</id>
@@ -322,6 +341,33 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karthavin Karamenne | Maria Kolady | Johnson P. Samuel | New Malayalam Christian Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=2tLhwEUxK5I</id>
+        <link href="https://www.youtube.com/watch?v=2tLhwEUxK5I"/>
+        <updated>2026-01-27T11:54:21.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devadhi Devasuthan | Elizabeth S. Mathew | George Peter Chittur | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=0pPaAsU4vPI</id>
+        <link href="https://www.youtube.com/watch?v=0pPaAsU4vPI"/>
+        <updated>2026-01-27T11:53:35.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanaya Ninnude | Urukiyozhukum | Malayalam Christian Songs | Mashup | Old Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qOQeZCSj3mQ</id>
+        <link href="https://www.youtube.com/watch?v=qOQeZCSj3mQ"/>
+        <updated>2026-01-27T11:53:07.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11943,16 +11989,6 @@
         <updated>2025-12-29T22:30:07.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/LIZXtK2qgbU</id>
-        <link href="https://www.youtube.com/shorts/LIZXtK2qgbU"/>
-        <updated>2025-12-29T22:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
