@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T10:16:29.970Z</updated>
+    <updated>2026-01-28T11:14:09.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thalarunnu Njan Nadha | Biju Narayanan | #jinokunnumpurath #shorts]]></title>
+        <id>https://www.youtube.com/shorts/dHDVKRXEIzQ</id>
+        <link href="https://www.youtube.com/shorts/dHDVKRXEIzQ"/>
+        <updated>2026-01-28T10:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maranaradham video song is OUT NOW! #pongala #sreenathbhasi #ranjinraj]]></title>
+        <id>https://www.youtube.com/shorts/nZgqjdoqMoY</id>
+        <link href="https://www.youtube.com/shorts/nZgqjdoqMoY"/>
+        <updated>2026-01-28T10:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരു മെഴുതിരിയുടെ നെറുകയിലെരിയാൻ പ്രണയമേ അരികിൽ വന്നു നീ #evergreenhits #trending]]></title>
         <id>https://www.youtube.com/shorts/j47FUXGgsq8</id>
@@ -87,6 +107,15 @@
         <updated>2026-01-28T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hridayam Nurungidumbol | G. Ashish | Joji Samuel | Thomas Mathew | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=PoXa-KPURK0</id>
+        <link href="https://www.youtube.com/watch?v=PoXa-KPURK0"/>
+        <updated>2026-01-28T04:44:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11980,15 +12009,6 @@
         <updated>2025-12-29T23:30:04.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിസംബർ: 30, ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
-        <id>https://www.youtube.com/watch?v=MKczbNUi9jU</id>
-        <link href="https://www.youtube.com/watch?v=MKczbNUi9jU"/>
-        <updated>2025-12-29T22:30:07.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
