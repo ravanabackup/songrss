@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T18:21:39.388Z</updated>
+    <updated>2026-01-28T19:17:21.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 29 # Athiravile Prarthana 29th January 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=EB0XiNvKhpw</id>
+        <link href="https://www.youtube.com/watch?v=EB0XiNvKhpw"/>
+        <updated>2026-01-28T19:00:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonu nombu geethangal, Nineveh Nombu gaanangal, 3 day lent songs 2026]]></title>
         <id>https://www.youtube.com/shorts/jmDvRaFUAD4</id>
@@ -12004,25 +12013,6 @@
         <updated>2025-12-30T07:23:31.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandimelam Video Song | 4K Remastered | Rajamanikyam | Mammootty | Gireesh Puthenchery | Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=dsdsdcIXPCU</id>
-        <link href="https://www.youtube.com/watch?v=dsdsdcIXPCU"/>
-        <updated>2025-12-30T06:35:42.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ 𝓗𝓪𝓹𝓹𝔂 𝓝𝓮𝔀 𝓨𝓮𝓪𝓻 ✨  #matchpointfaith #matchpointcreations #HappyNewYear #newyear2026]]></title>
-        <id>https://www.youtube.com/shorts/GSOE9S4polQ</id>
-        <link href="https://www.youtube.com/shorts/GSOE9S4polQ"/>
-        <updated>2025-12-30T06:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
