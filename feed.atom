@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T07:32:12.740Z</updated>
+    <updated>2026-01-29T08:24:48.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സ്വരസൗന്ദര്യം l Nisari Music  l Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=l8TAks5y26E</id>
+        <link href="https://www.youtube.com/watch?v=l8TAks5y26E"/>
+        <updated>2026-01-29T08:06:43.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vettaikaaran - Karigalan Video with Lyrics | Vijay, Anushka | Vijay Antony]]></title>
+        <id>https://www.youtube.com/watch?v=tP1Q4Vn2Pyo</id>
+        <link href="https://www.youtube.com/watch?v=tP1Q4Vn2Pyo"/>
+        <updated>2026-01-29T08:01:04.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരു വല്ലം പൊന്നും പൂവും | Oru vallam Ponnum Poovum | Minnaram | Shobhana | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=V4qvArekgL0</id>
