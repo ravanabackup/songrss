@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T19:22:47.960Z</updated>
+    <updated>2026-01-30T20:15:26.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11501,24 +11501,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brahmastra (Tamil) - Theethiriyaai Video with Lyrics |Ranbir | Alia | Pritam | Sid Sriram]]></title>
-        <id>https://www.youtube.com/watch?v=6VTRQUQOD1A</id>
-        <link href="https://www.youtube.com/watch?v=6VTRQUQOD1A"/>
-        <updated>2026-01-01T08:00:15.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുതുവർഷത്തിലും പുതുമ നഷ്ടപ്പെടാത്ത ഇഷ്ട ഗാനങ്ങൾ l Nisari  Music l  Selected Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=JNjIlgmsq8o</id>
-        <link href="https://www.youtube.com/watch?v=JNjIlgmsq8o"/>
-        <updated>2026-01-01T07:30:09.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
