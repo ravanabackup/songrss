@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T15:11:21.777Z</updated>
+    <updated>2026-01-31T16:13:29.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണുകളെ ഈറനാക്കുന്ന ഓർമ്മകൾ | EVERGREEN MAAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=4qPAkNzEdx0</id>
+        <link href="https://www.youtube.com/watch?v=4qPAkNzEdx0"/>
+        <updated>2026-01-31T16:00:12.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kudamulla Kaavile | Karipuranda Jeevithangal | Jayan | Jayabharathi | P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=LTCZLqIIDxQ</id>
+        <link href="https://www.youtube.com/watch?v=LTCZLqIIDxQ"/>
+        <updated>2026-01-31T15:34:33.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | #shortsmalayalam]]></title>
+        <id>https://www.youtube.com/shorts/kxhs7HEDvm4</id>
+        <link href="https://www.youtube.com/shorts/kxhs7HEDvm4"/>
+        <updated>2026-01-31T15:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
         <id>https://www.youtube.com/shorts/fPBWbcIGZBQ</id>
