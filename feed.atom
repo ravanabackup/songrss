@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T14:13:56.639Z</updated>
+    <updated>2026-01-31T15:11:21.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/fPBWbcIGZBQ</id>
+        <link href="https://www.youtube.com/shorts/fPBWbcIGZBQ"/>
+        <updated>2026-01-31T14:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chanchalakshi | Paalattu Kunjikkannan | G Devarajan | Yusufali Kecheri | KJ Yesudas | Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=oQpBs7sL_u0</id>
@@ -11525,15 +11535,6 @@
         <updated>2026-01-02T04:30:29.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[റാന്തലിൻ നാളമായ് St. Chavara Kurikose Elias latest Song Ft. Fr Joshy, Fr Linston, Libin, Anjana]]></title>
-        <id>https://www.youtube.com/watch?v=7xZwAdD5ez0</id>
-        <link href="https://www.youtube.com/watch?v=7xZwAdD5ez0"/>
-        <updated>2026-01-02T02:29:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
