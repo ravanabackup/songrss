@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T11:10:34.456Z</updated>
+    <updated>2026-01-31T12:20:40.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദിവ്യകാരുണ്യ നാഥൻ്റെ മുൻപിൽ #sreya_jayadeep #christiandevotionalsong #christianmusic #jesusshorts]]></title>
+        <id>https://www.youtube.com/shorts/AXdMzKpWir0</id>
+        <link href="https://www.youtube.com/shorts/AXdMzKpWir0"/>
+        <updated>2026-01-31T12:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 31st January 2026]]></title>
+        <id>https://www.youtube.com/watch?v=TNg4gM_2Ymw</id>
+        <link href="https://www.youtube.com/watch?v=TNg4gM_2Ymw"/>
+        <updated>2026-01-31T11:30:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thekku Dhikkile | INLAND Movie | Studio Version | Sreejith Lal | Jassie Gift | Manikandan Ayyappa]]></title>
+        <id>https://www.youtube.com/watch?v=CGnfVkLPsIk</id>
+        <link href="https://www.youtube.com/watch?v=CGnfVkLPsIk"/>
+        <updated>2026-01-31T11:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karimizhiyaale Oru Kadha 4K Video Song | Snehithan | Sujatha Mohan | Mohan Sithara| Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=ZpYx87VILPA</id>
+        <link href="https://www.youtube.com/watch?v=ZpYx87VILPA"/>
+        <updated>2026-01-31T11:29:57.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theepori - Music Video | Street Academics | NyX LopeZ]]></title>
+        <id>https://www.youtube.com/watch?v=2DAxBJP3Woc</id>
+        <link href="https://www.youtube.com/watch?v=2DAxBJP3Woc"/>
+        <updated>2026-01-31T11:29:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Most popular Christian Devotional Songs | #jinokunnumpurath #christiansongs]]></title>
         <id>https://www.youtube.com/watch?v=0MfV5bkFIbY</id>
@@ -11339,33 +11385,6 @@
         <updated>2026-01-02T00:30:23.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുതുവര്ഷാരംഭത്തിൽത്തന്നെ മനസ്സിൽ പതിഞ്ഞ കേൾക്കാൻ സുഖമുള്ള ക്രിസ്തീയ ഗാനങ്ങൾ | New Year Special Songs]]></title>
-        <id>https://www.youtube.com/watch?v=QZilC22f3Qc</id>
-        <link href="https://www.youtube.com/watch?v=QZilC22f3Qc"/>
-        <updated>2026-01-01T23:30:18.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 2nd of January 2026 Mathavinte Japamala # Dhukhathinte Rahasyangal 2nd of January 26]]></title>
-        <id>https://www.youtube.com/watch?v=dfoglUzAR1w</id>
-        <link href="https://www.youtube.com/watch?v=dfoglUzAR1w"/>
-        <updated>2026-01-01T23:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeyon Yathrayathil | Prathyasha Geethagal | Smitha | Praise and Worship Songs | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=KTTmcWK2TPE</id>
-        <link href="https://www.youtube.com/watch?v=KTTmcWK2TPE"/>
-        <updated>2026-01-01T23:30:06.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
