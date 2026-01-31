@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T16:13:29.837Z</updated>
+    <updated>2026-01-31T17:13:48.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11525,44 +11525,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeyenne Thedivannu | Christian Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/d3TcgheXNIQ</id>
-        <link href="https://www.youtube.com/shorts/d3TcgheXNIQ"/>
-        <updated>2026-01-02T05:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakalin Chithayilen  | Ee Snehatheerath(Samam)| Kunchacko Boban| Uma Shankari| MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=Wcnrq8i_uZ4</id>
-        <link href="https://www.youtube.com/watch?v=Wcnrq8i_uZ4"/>
-        <updated>2026-01-02T05:00:43.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kangal edho 😇 #karthikavaidyanathan #pradeepkumar #dhibuninanthomas]]></title>
-        <id>https://www.youtube.com/shorts/f2g9Tx4z04k</id>
-        <link href="https://www.youtube.com/shorts/f2g9Tx4z04k"/>
-        <updated>2026-01-02T04:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kadaleevanavum Kaavum | കദളീ വനവും കാവും...| Thirakkil Alpa Samayam | KJ Yesudas | Mammootty Movie]]></title>
-        <id>https://www.youtube.com/watch?v=QG9qjx-oDps</id>
-        <link href="https://www.youtube.com/watch?v=QG9qjx-oDps"/>
-        <updated>2026-01-02T04:30:29.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
