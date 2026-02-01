@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T16:14:14.910Z</updated>
+    <updated>2026-02-01T17:15:04.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjinikkara Perunnal l Moran Mor Ignathios Elias III Jacobite Syrian Church]]></title>
+        <id>https://www.youtube.com/shorts/EcuJYtlmU_o</id>
+        <link href="https://www.youtube.com/shorts/EcuJYtlmU_o"/>
+        <updated>2026-02-01T16:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjinikkara Perunnal  Moran Mor Ignathios Elias III Jacobite Syrian Church #jacobite_syrian_church]]></title>
         <id>https://www.youtube.com/shorts/v6mAONEWBCw</id>
@@ -11412,24 +11422,6 @@
         <updated>2026-01-03T05:18:51.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming soon...]]></title>
-        <id>https://www.youtube.com/watch?v=x9kfiTbvcMI</id>
-        <link href="https://www.youtube.com/watch?v=x9kfiTbvcMI"/>
-        <updated>2026-01-03T05:11:11.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=apjf2ABiZf4</id>
-        <link href="https://www.youtube.com/watch?v=apjf2ABiZf4"/>
-        <updated>2026-01-03T04:26:10.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
