@@ -2,15 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-02T04:10:44.569Z</updated>
+    <updated>2026-02-02T05:55:19.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലരിതളില്‍ മണിശലഭം വീണു മയങ്ങി രതിനദിയില്‍ ജലതരംഗം നീളെ മുഴങ്ങി #evergreenhits #mohanlal]]></title>
+        <id>https://www.youtube.com/shorts/ybPnDO7JKVI</id>
+        <link href="https://www.youtube.com/shorts/ybPnDO7JKVI"/>
+        <updated>2026-02-02T05:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarezhuthiyaavo 4K Video Song | Spanish Masala | Vidyasagar | Karthik | Shreya Ghoshal]]></title>
+        <id>https://www.youtube.com/watch?v=zjBsT_J3pEE</id>
+        <link href="https://www.youtube.com/watch?v=zjBsT_J3pEE"/>
+        <updated>2026-02-02T05:43:10.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pennoruthi Chembarathi |Lyrical + Karaoke Video| Ellam Settanu | Vineeth Sreenivasan | P S Jayhari]]></title>
+        <id>https://www.youtube.com/watch?v=F0_2s7AANtQ</id>
+        <link href="https://www.youtube.com/watch?v=F0_2s7AANtQ"/>
+        <updated>2026-02-02T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POC Audio Bible | St. John | Chapter 7 | Malayalam  Audio Bible | Thiruvachanam | New Testament]]></title>
         <id>https://www.youtube.com/watch?v=6R3cdj2rcdE</id>
         <link href="https://www.youtube.com/watch?v=6R3cdj2rcdE"/>
         <updated>2026-02-02T03:45:36.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POC Audio Bible | St. John | Chapter 15 | Malayalam  Audio Bible | Thiruvachanam | New Testament]]></title>
+        <id>https://www.youtube.com/watch?v=cJZcmD3kp6g</id>
+        <link href="https://www.youtube.com/watch?v=cJZcmD3kp6g"/>
+        <updated>2026-02-02T02:37:56.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
         </author>
