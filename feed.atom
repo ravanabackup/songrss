@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T21:22:36.619Z</updated>
+    <updated>2026-02-03T22:17:51.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/Lq0n9zCrxoE</id>
+        <link href="https://www.youtube.com/shorts/Lq0n9zCrxoE"/>
+        <updated>2026-02-03T22:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 4th of February # Athiravile Prarthana 4th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=HF7uzOttk2Y</id>
@@ -11462,33 +11472,6 @@
         <link href="https://www.youtube.com/shorts/gkCRfhtrl4c"/>
         <updated>2026-01-05T10:30:36.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Aneesha | Entry No: 29 | Biju Paulose | Roy Kanjirathanam]]></title>
-        <id>https://www.youtube.com/watch?v=qTvAUzPsQqI</id>
-        <link href="https://www.youtube.com/watch?v=qTvAUzPsQqI"/>
-        <updated>2026-01-05T10:15:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Vinmeghatheril Vannu | Muthe Vavavo | Talia | Entry No: 28 | Biju Paulose | Roy Kanjirathanam]]></title>
-        <id>https://www.youtube.com/watch?v=rS_itFBPQ80</id>
-        <link href="https://www.youtube.com/watch?v=rS_itFBPQ80"/>
-        <updated>2026-01-05T10:04:30.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnay Oru Manamode | Fr. Rony Peter | Lesina Reji | #newchristiansong #trending]]></title>
-        <id>https://www.youtube.com/watch?v=MLOTA75qCRM</id>
-        <link href="https://www.youtube.com/watch?v=MLOTA75qCRM"/>
-        <updated>2026-01-05T09:41:43.000Z</updated>
         <author>
             <name>ZionClassics</name>
         </author>
