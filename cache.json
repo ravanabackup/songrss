@@ -2125,6 +2125,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HF7uzOttk2Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HF7uzOttk2Y",
+          "publishedOn": "2026-02-03T19:00:15.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന 4th of February # Athiravile Prarthana 4th February 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4P2z4fhGyKo",
           "author": null,
           "description": "",
@@ -5521,16 +5531,6 @@
           "wordCount": null,
           "title": "നാടിൻ ആഘോഷം | നാടൻ താളമുള്ള സിനിമാഗാനങ്ങൾ l   Selected Malayalam Film Songs l Nisari Music",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3UyvViEF5yw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3UyvViEF5yw",
-          "publishedOn": "2026-01-05T07:30:09.000Z",
-          "wordCount": null,
-          "title": "മാരികുളിരിൻ രാഗാദേവനും പോലെ | Evergreen Malayalam Film Songs l Nisari Music",
-          "imageUrl": null
         }
       ]
     },
@@ -8218,16 +8218,6 @@
           "link": "https://www.youtube.com/shorts/pXKic3jYcks",
           "publishedOn": "2026-01-05T08:30:34.000Z",
           "wordCount": 2145,
-          "title": "Kandille Saayippe | കണ്ടില്ലേ സായിപ്പേ...| Mandanmar Londonil Movie | KJ Yesudas | Nedumudi Venu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=z2a56wr-FOs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=z2a56wr-FOs",
-          "publishedOn": "2026-01-05T07:26:52.000Z",
-          "wordCount": null,
           "title": "Kandille Saayippe | കണ്ടില്ലേ സായിപ്പേ...| Mandanmar Londonil Movie | KJ Yesudas | Nedumudi Venu",
           "imageUrl": null
         }
@@ -11052,16 +11042,6 @@
           "publishedOn": "2026-01-05T10:37:58.000Z",
           "wordCount": null,
           "title": "Sooryanay Thazhuki...(HD) - Sathyam Sivam Sundaram Malayalam Movie Song | Kunjako Boban",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cKQG1MOOAOg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cKQG1MOOAOg",
-          "publishedOn": "2026-01-05T07:29:16.000Z",
-          "wordCount": null,
-          "title": "Orukili Pattu Moolave 4K Video Song | Gireesh Puthenchery | Raveendran |KJ Yesudas | KS Chithra",
           "imageUrl": null
         }
       ]
