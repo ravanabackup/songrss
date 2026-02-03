@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T14:36:15.857Z</updated>
+    <updated>2026-02-03T15:37:10.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/X9jKk3nrFqg</id>
+        <link href="https://www.youtube.com/shorts/X9jKk3nrFqg"/>
+        <updated>2026-02-03T15:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/9OGc73-Zi_I</id>
+        <link href="https://www.youtube.com/shorts/9OGc73-Zi_I"/>
+        <updated>2026-02-03T15:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yadhukulamaurali 4K Video Song | Puthiya Mukham | Prithviraj | Meera Nandan | Kaithapram| Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=6RXK5UYkP9c</id>
+        <link href="https://www.youtube.com/watch?v=6RXK5UYkP9c"/>
+        <updated>2026-02-03T15:01:31.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶Ha Manoharam Yahe | ഹാ മനോഹരം യാഹേ… #matchpointfaith #matchpointcreations #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/shorts/sZLDAosvibc</id>
+        <link href="https://www.youtube.com/shorts/sZLDAosvibc"/>
+        <updated>2026-02-03T14:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S P Venkitesh Malayalam Hits Video Songs | SP Venkatesh Malayalam Songs | SP Venkatesh Songs | HD |]]></title>
         <id>https://www.youtube.com/watch?v=-CXoU4xRH-E</id>
