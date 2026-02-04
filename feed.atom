@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T07:36:10.525Z</updated>
+    <updated>2026-02-04T08:26:30.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doctor - So Baby Video with Lyrics | Sivakarthikeyan | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=_rPCgxYaJXg</id>
+        <link href="https://www.youtube.com/watch?v=_rPCgxYaJXg"/>
+        <updated>2026-02-04T08:00:41.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Asif Ali | Mele Vaanile  | Bicycle Thieves  #asifali #shortsfeed #shorts #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/V9BmoPoHwgo</id>
+        <link href="https://www.youtube.com/shorts/V9BmoPoHwgo"/>
+        <updated>2026-02-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ee Ravil Maayum | Eliza Movie Video Song | Athul Ranganath | Millennium Audios]]></title>
         <id>https://www.youtube.com/shorts/wzP-CwARU6Y</id>
