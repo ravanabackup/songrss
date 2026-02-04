@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T21:22:00.625Z</updated>
+    <updated>2026-02-04T22:14:10.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/ZX_2x4Jcrw4</id>
+        <link href="https://www.youtube.com/shorts/ZX_2x4Jcrw4"/>
+        <updated>2026-02-04T22:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 5th of February # Athiravile Prarthana 5th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Y_PPhYuPWgs</id>
@@ -11419,34 +11429,6 @@
         <updated>2026-01-06T10:35:52.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഴന്തമിഴ് പാട്ടിഴയും | Pazhamthamizh | Manichithrathazhu Movie Hit  Songs | Mohanlal | Shobana]]></title>
-        <id>https://www.youtube.com/watch?v=1ksxkI2C3wA</id>
-        <link href="https://www.youtube.com/watch?v=1ksxkI2C3wA"/>
-        <updated>2026-01-06T09:40:59.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരിക്കലും മറക്കുവാൻ കഴിയാതേ #christianshorts #jesussong #jesusshorts #jesusalbumsong #jesuslove]]></title>
-        <id>https://www.youtube.com/shorts/lF0FiIQhDOM</id>
-        <link href="https://www.youtube.com/shorts/lF0FiIQhDOM"/>
-        <updated>2026-01-06T09:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannin Aanandam Eesho | Meghna Sumesh |Fr. Jaison Kudiyirickal |Joy Payyappilly | New Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=fMN-ugmsWUU</id>
-        <link href="https://www.youtube.com/watch?v=fMN-ugmsWUU"/>
-        <updated>2026-01-06T09:26:46.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
