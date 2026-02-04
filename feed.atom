@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T03:29:57.724Z</updated>
+    <updated>2026-02-04T05:03:28.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prakambanam - Jukebox | Ganapathi | Sagar Surya | Bibin Ashok | Vijesh Panathur]]></title>
+        <id>https://www.youtube.com/watch?v=Mo2c6248VfA</id>
+        <link href="https://www.youtube.com/watch?v=Mo2c6248VfA"/>
+        <updated>2026-02-04T04:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Asif Ali | Kaana Mullal | Salt N' Pepper  #asifali #shortsfeed #shorts #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/FEJiv3ACBvI</id>
+        <link href="https://www.youtube.com/shorts/FEJiv3ACBvI"/>
+        <updated>2026-02-04T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
         <id>https://www.youtube.com/watch?v=5pU4HjRnOds</id>
