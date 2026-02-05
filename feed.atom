@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T22:14:50.518Z</updated>
+    <updated>2026-02-05T23:14:13.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 06, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!!]]></title>
+        <id>https://www.youtube.com/watch?v=AY7rx2Bn0XE</id>
+        <link href="https://www.youtube.com/watch?v=AY7rx2Bn0XE"/>
+        <updated>2026-02-05T22:30:04.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/iZsWRH-AQYI</id>
@@ -11357,54 +11366,6 @@
         <updated>2026-01-07T11:29:28.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാനത്തെ മാരിക്കുറുമ്പേ | Manathe Marikurumbe | Pulimurugan Malayalam Song | Mohanlal | GopiSundar]]></title>
-        <id>https://www.youtube.com/watch?v=vffNG5zXyME</id>
-        <link href="https://www.youtube.com/watch?v=vffNG5zXyME"/>
-        <updated>2026-01-07T11:07:52.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണുനീർമാറി സന്തോഷം ഏകുന്ന ഗാനങ്ങൾ | ‪#jinokunnumpurath #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=bBdpv3-j7l8</id>
-        <link href="https://www.youtube.com/watch?v=bBdpv3-j7l8"/>
-        <updated>2026-01-07T10:49:24.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viswam Kaakkunna Naadhaa | Akalaathe Akalunnu Snehambaram #christianshorts #superhitchristiansong]]></title>
-        <id>https://www.youtube.com/shorts/-OaEfJofMok</id>
-        <link href="https://www.youtube.com/shorts/-OaEfJofMok"/>
-        <updated>2026-01-07T10:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നമ്മുടെ ദുഃഖം അകറ്റും | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/SlFW5vgyJ8Y</id>
-        <link href="https://www.youtube.com/shorts/SlFW5vgyJ8Y"/>
-        <updated>2026-01-07T10:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEERUNNA  | മനസ്സിന് ആശ്വാസമേകുന്ന ഗാനം  |    @JinoKunnumpurathu       #shorts]]></title>
-        <id>https://www.youtube.com/shorts/Nuk6a3iedOU</id>
-        <link href="https://www.youtube.com/shorts/Nuk6a3iedOU"/>
-        <updated>2026-01-07T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
