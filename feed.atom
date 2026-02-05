@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T09:32:04.611Z</updated>
+    <updated>2026-02-05T10:29:12.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ അലിഞ്ഞുചേർന്ന ഗാനങ്ങൾ @JinoKunnumpurathu #kesterhits]]></title>
+        <id>https://www.youtube.com/watch?v=beuBUPq696A</id>
+        <link href="https://www.youtube.com/watch?v=beuBUPq696A"/>
+        <updated>2026-02-05T10:21:19.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vettam Thattum Vattakkayal | വെട്ടം തട്ടും വട്ടക്കായൽ...| P Jayachandran | KS Chithra | Nadirsha]]></title>
+        <id>https://www.youtube.com/shorts/BQ0LJZdGUyY</id>
+        <link href="https://www.youtube.com/shorts/BQ0LJZdGUyY"/>
+        <updated>2026-02-05T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vettam Thattum Vattakkayal | വെട്ടം തട്ടും വട്ടക്കായൽ...| P Jayachandran | KS Chithra | Nadirsha]]></title>
+        <id>https://www.youtube.com/watch?v=Ghb8HOxBY6I</id>
+        <link href="https://www.youtube.com/watch?v=Ghb8HOxBY6I"/>
+        <updated>2026-02-05T09:39:22.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bogan - Senthoora Video with Lyrics | Jayam Ravi, Hansika | D. Imman]]></title>
         <id>https://www.youtube.com/watch?v=QfIcr9XebSU</id>
@@ -11353,16 +11381,6 @@
         <updated>2026-01-06T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/Dy2idpdup7s</id>
-        <link href="https://www.youtube.com/shorts/Dy2idpdup7s"/>
-        <updated>2026-01-06T22:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
