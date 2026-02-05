@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T04:02:27.482Z</updated>
+    <updated>2026-02-05T05:45:38.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum  | P Jayachandran | M S വിശ്വനാഥൻ   ദൈവത്തിൻ്റെ വരദാനം  | പാടിയും പറഞ്ഞും]]></title>
+        <id>https://www.youtube.com/watch?v=otTq7pnJLvE</id>
+        <link href="https://www.youtube.com/watch?v=otTq7pnJLvE"/>
+        <updated>2026-02-05T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuttanadan Kaayalil Video Song | Suvarna Simhaasanam | MG Sreekumar | Sujatha Mohan | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=kKpEOk2pn6Y</id>
+        <link href="https://www.youtube.com/watch?v=kKpEOk2pn6Y"/>
+        <updated>2026-02-05T05:23:14.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pennum Porattum Teaser - Out Now #newmovie #comedymovies #shorts #teaser]]></title>
+        <id>https://www.youtube.com/shorts/QDxcLQ4W9MA</id>
+        <link href="https://www.youtube.com/shorts/QDxcLQ4W9MA"/>
+        <updated>2026-02-05T04:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കരുണ നിറഞ്ഞ നിലപാടുകൾ  | 😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
         <id>https://www.youtube.com/shorts/Q7QMZyK6yKA</id>
@@ -1443,6 +1471,16 @@
         <updated>2026-02-01T11:30:34.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Years of Celebration in Music Production & Distribution |Ep.27 @ZionClassics Kannuneer(Vayal)]]></title>
+        <id>https://www.youtube.com/shorts/b5tBwWhBPdU</id>
+        <link href="https://www.youtube.com/shorts/b5tBwWhBPdU"/>
+        <updated>2026-02-01T11:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -11305,15 +11343,6 @@
         <updated>2026-01-06T18:00:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേട്ട് മതിവരാത്ത എന്നെന്നും കേൾക്കുന്ന മനോഹര ഗാനങ്ങൾ💖 | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=gGK0pWOGSI8</id>
-        <link href="https://www.youtube.com/watch?v=gGK0pWOGSI8"/>
-        <updated>2026-01-06T17:38:13.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
