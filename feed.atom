@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T09:31:05.381Z</updated>
+    <updated>2026-02-06T10:27:28.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ee Shishirakaalam 🥰 Song Of The Day 🎶]]></title>
+        <id>https://www.youtube.com/shorts/2lVNz0sHSvw</id>
+        <link href="https://www.youtube.com/shorts/2lVNz0sHSvw"/>
+        <updated>2026-02-06T10:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ee Vazhiyil Pulari | ഈ വഴിയിൽ പുലരി പൂക്കുന്നിതാ...| Achuthante Awasana Swasam Movie | Harisankar KS]]></title>
         <id>https://www.youtube.com/shorts/EzoMgVdXOpw</id>
@@ -11274,16 +11284,6 @@
         <updated>2026-01-07T22:30:08.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/KQAFjP0fSxw</id>
-        <link href="https://www.youtube.com/shorts/KQAFjP0fSxw"/>
-        <updated>2026-01-07T22:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
