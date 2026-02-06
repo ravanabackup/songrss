@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T16:30:04.648Z</updated>
+    <updated>2026-02-06T17:32:00.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11390,24 +11390,6 @@
         <updated>2026-01-08T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classical Moments | Vol 2 | P Jayachandran | Jukebox | Carnatic Classical Krithis by P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=-na87PYv7Vc</id>
-        <link href="https://www.youtube.com/watch?v=-na87PYv7Vc"/>
-        <updated>2026-01-08T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nillu Nillu Ente Neelakkuyile Video Song | Rain Rain Come Again | Jassie Gift | Malayalam Dance Hits]]></title>
-        <id>https://www.youtube.com/watch?v=ygPO701tEL4</id>
-        <link href="https://www.youtube.com/watch?v=ygPO701tEL4"/>
-        <updated>2026-01-08T05:27:12.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
