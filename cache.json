@@ -2055,6 +2055,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UbD-Ot9_IP8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UbD-Ot9_IP8",
+          "publishedOn": "2026-02-07T18:00:30.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th February 26",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9Ce2Pu7e_VU",
           "author": null,
           "description": "",
@@ -9035,18 +9045,7 @@
       "title": "East Coast",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7wr_pLs8KVXkkXWZxHLR0A",
       "siteUrl": "https://www.youtube.com/channel/UC7wr_pLs8KVXkkXWZxHLR0A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/shorts/Hekp5pIOy_s",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Hekp5pIOy_s",
-          "publishedOn": "2026-01-09T05:30:21.000Z",
-          "wordCount": 2259,
-          "title": "Bhishmar Movie | Behind the Scenes | East Coast Vijayan | Dhyan Sreenivasan | Vishnu Unnikrishnan",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Millennium Audios",
