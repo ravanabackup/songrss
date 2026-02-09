@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-09T08:36:04.013Z</updated>
+    <updated>2026-02-09T09:45:54.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിന്റെ വേദനകളെല്ലാം അകറ്റുന്ന യേശുനാഥന്റെ ദിവ്യഗാനങ്ങൾ | Jesus Healing Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=zXZF53K9DeA</id>
+        <link href="https://www.youtube.com/watch?v=zXZF53K9DeA"/>
+        <updated>2026-02-09T09:22:41.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaalangal Punyam Thedum | താളങ്ങൾ പുണ്യം തേടും..| Grihalakshmi Movie | P Jayachandran | Vani Jairam]]></title>
+        <id>https://www.youtube.com/watch?v=L4_T2RN37JE</id>
+        <link href="https://www.youtube.com/watch?v=L4_T2RN37JE"/>
+        <updated>2026-02-09T09:20:10.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thalaivaa - Yaar Indha Saalai Oram Video with Lyrics | Vijay | G.V. Prakash Kumar]]></title>
         <id>https://www.youtube.com/watch?v=aGygBD2qUNw</id>
@@ -132,6 +150,15 @@
         <updated>2026-02-09T05:07:28.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Daivalayam | Sreya Jayadeep | Fr. Shyjan Kuriakose | Shijo Baby | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Pw9276hXoRM</id>
+        <link href="https://www.youtube.com/watch?v=Pw9276hXoRM"/>
+        <updated>2026-02-09T04:26:15.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
