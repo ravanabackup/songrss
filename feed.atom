@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T18:49:37.169Z</updated>
+    <updated>2026-02-10T19:52:41.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 11th of February # Athiravile Prarthana 11th February 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=pAnjTmDm5uA</id>
+        <link href="https://www.youtube.com/watch?v=pAnjTmDm5uA"/>
+        <updated>2026-02-10T19:00:48.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th February 26]]></title>
         <id>https://www.youtube.com/watch?v=ANha5fSKRQY</id>
@@ -11498,33 +11507,6 @@
         <updated>2026-01-12T08:24:37.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cholamala Kaattadikkanu | ചോലമലങ്കാറ്റടിക്കണു ജാതിമരം പൂത്തിരിക്കണു..| Shradha | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=-LUCCSZmk2o</id>
-        <link href="https://www.youtube.com/watch?v=-LUCCSZmk2o"/>
-        <updated>2026-01-12T07:42:24.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഗാനഗന്ധർവ്വന്റെ രാഗലോകം | Nisari Music l Best of K. J. Yesudas | Malayalam Selected Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=9WnUolNMlxM</id>
-        <link href="https://www.youtube.com/watch?v=9WnUolNMlxM"/>
-        <updated>2026-01-12T07:30:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രിസ്തീയ ഗാനങ്ങളിൽ ചരിത്രംസൃഷ്ട്ടിച്ച കെസ്റ്റർഗാനങ്ങൾ |@JinoKunnumpurathu#malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=HMeZbu7lmx0</id>
-        <link href="https://www.youtube.com/watch?v=HMeZbu7lmx0"/>
-        <updated>2026-01-12T07:05:46.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
