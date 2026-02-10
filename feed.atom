@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T04:21:41.721Z</updated>
+    <updated>2026-02-10T06:03:53.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അഴകേ കണ്മണിയേ | Azhake Kanmaniye | Kasthuriman Malayalam Evergreen Film Song | Kunchacko Boban]]></title>
+        <id>https://www.youtube.com/watch?v=54GuG8aU72s</id>
+        <link href="https://www.youtube.com/watch?v=54GuG8aU72s"/>
+        <updated>2026-02-10T05:50:09.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembaka Vallikalil|Oru Marubhoomi Kadha #shortsfeed #shortsvideo  #filmsongs #shrots #mohanlal]]></title>
+        <id>https://www.youtube.com/shorts/rISuj3rn2b8</id>
+        <link href="https://www.youtube.com/shorts/rISuj3rn2b8"/>
+        <updated>2026-02-10T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjin Thazhvaravum | Indriyam | Boban Alummoodan | Lena | Vijay Yesudas | Yadhukrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=v8pm6SGVzSE</id>
+        <link href="https://www.youtube.com/watch?v=v8pm6SGVzSE"/>
+        <updated>2026-02-10T04:30:29.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rajadhirajan Yeshu | Christian Shorts  #manoramachristiansongs  #manoramamusic #kestersongs]]></title>
         <id>https://www.youtube.com/shorts/pYesqU5fy0Y</id>
