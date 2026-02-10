@@ -3573,26 +3573,6 @@
           "wordCount": 2143,
           "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tDdZNkBj6AE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tDdZNkBj6AE",
-          "publishedOn": "2026-01-11T19:01:01.000Z",
-          "wordCount": null,
-          "title": "പ്രഭാത പ്രാര്‍ത്ഥന January 12 # Athiravile Prarthana 12th January 2026 Morning Prayer & Songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RbQk2jFCV-o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RbQk2jFCV-o",
-          "publishedOn": "2026-01-11T18:00:35.000Z",
-          "wordCount": null,
-          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 12th January 26",
-          "imageUrl": null
         }
       ]
     },
@@ -9055,13 +9035,34 @@
       "title": "East Coast",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7wr_pLs8KVXkkXWZxHLR0A",
       "siteUrl": "https://www.youtube.com/channel/UC7wr_pLs8KVXkkXWZxHLR0A",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ihIVnJuThHM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ihIVnJuThHM",
+          "publishedOn": "2026-02-10T05:23:04.000Z",
+          "wordCount": null,
+          "title": "Pranayapoorvam | Evergreen Romantic Hits of East Coast Vijayan | K J Yesudas | P Jayachandran",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Millennium Audios",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvANYBOSmq2IasMM-djF-cQ",
       "siteUrl": "https://www.youtube.com/channel/UCvANYBOSmq2IasMM-djF-cQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/BE64gLYr-5c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/BE64gLYr-5c",
+          "publishedOn": "2026-02-10T05:41:34.000Z",
+          "wordCount": 2238,
+          "title": "Rarithathe | Iniyum|  Ashaa Nair | Kailash | Mohan Sithara | Sruthi Benny #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/wzP-CwARU6Y",
           "author": null,
