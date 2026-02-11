@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T21:23:45.619Z</updated>
+    <updated>2026-02-11T22:18:11.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/Bd7BQ7yqaVI</id>
+        <link href="https://www.youtube.com/shorts/Bd7BQ7yqaVI"/>
+        <updated>2026-02-11T22:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 12th of February # Athiravile Prarthana 12th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=LIXGCmMw9m0</id>
@@ -2197,6 +2207,15 @@
         <updated>2026-02-06T07:16:43.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priyathame | Kanaka Simhasanam | Lyrical + Karaoke Video | K J Yesudas | K S Chitra | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=mvwEdnmVYzo</id>
+        <link href="https://www.youtube.com/watch?v=mvwEdnmVYzo"/>
+        <updated>2026-02-06T06:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -11445,15 +11464,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiranam | Gandhi Talks | Arvind Swamy | Vijay Sethupathi | Aditi Rao Hydari | A.R. Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=j3l1HKkeMrU</id>
-        <link href="https://www.youtube.com/watch?v=j3l1HKkeMrU"/>
-        <updated>2026-01-13T09:43:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
