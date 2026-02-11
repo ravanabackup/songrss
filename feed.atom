@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T19:47:36.171Z</updated>
+    <updated>2026-02-11T20:26:35.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11473,34 +11473,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vettaikaaran - Chinna Thamarai Video with Lyrics | Vijay, Anushka | Vijay Antony]]></title>
-        <id>https://www.youtube.com/watch?v=ykV3FokuXaw</id>
-        <link href="https://www.youtube.com/watch?v=ykV3FokuXaw"/>
-        <updated>2026-01-13T08:01:30.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കാൻ എപ്പോഴും ഇഷ്ടം തോന്നുന്ന ഗാനങ്ങൾ l Evergreen Malayalam Film Songs l Nisari Music l]]></title>
-        <id>https://www.youtube.com/watch?v=eo3RWPEZA5Y</id>
-        <link href="https://www.youtube.com/watch?v=eo3RWPEZA5Y"/>
-        <updated>2026-01-13T07:57:33.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A song that feels like a gentle smile from the heart 💖Today’s mood: #Ivalaro 🎶]]></title>
-        <id>https://www.youtube.com/shorts/nMGOP3Mk_gA</id>
-        <link href="https://www.youtube.com/shorts/nMGOP3Mk_gA"/>
-        <updated>2026-01-13T07:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
