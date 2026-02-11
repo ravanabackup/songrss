@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-11T15:46:49.030Z</updated>
+    <updated>2026-02-11T16:50:20.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തിൽ പ്രണയം നിറയ്ക്കുന്ന ലാലേട്ടൻ മാജിക്." | EVERGREEN MOHANLAL HITS]]></title>
+        <id>https://www.youtube.com/watch?v=C3W96AMSxDQ</id>
+        <link href="https://www.youtube.com/watch?v=C3W96AMSxDQ"/>
+        <updated>2026-02-11T16:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjinikkara Perunnal 2026 l Moran Mor Ignathios Elias III Jacobite Syrian Church | മഞ്ഞിനിക്കര ബാവ]]></title>
+        <id>https://www.youtube.com/shorts/JWv7SXwF5c0</id>
+        <link href="https://www.youtube.com/shorts/JWv7SXwF5c0"/>
+        <updated>2026-02-11T16:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maramon Convention 2026 | 131st Maramon Convention | Mar Thoma church  | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/JfFFiMtud44</id>
+        <link href="https://www.youtube.com/shorts/JfFFiMtud44"/>
+        <updated>2026-02-11T16:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maramon Convention 2026 | 131st Maramon Convention | Mar Thoma church]]></title>
         <id>https://www.youtube.com/shorts/pbnUVhOiwYM</id>
@@ -11536,25 +11565,6 @@
         <updated>2026-01-13T05:14:53.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaromal Poove Video Song Out Now | Dheeram #shorts #malayalamsongs #vijayyesudas #indrajith]]></title>
-        <id>https://www.youtube.com/shorts/-g7ATm1rah0</id>
-        <link href="https://www.youtube.com/shorts/-g7ATm1rah0"/>
-        <updated>2026-01-13T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhagyame Suvisesha Bhagyame | Ranjith Jayaraman | Catherine Alphonsa | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=qdfLJ_f6tJQ</id>
-        <link href="https://www.youtube.com/watch?v=qdfLJ_f6tJQ"/>
-        <updated>2026-01-13T04:06:56.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
