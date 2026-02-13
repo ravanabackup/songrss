@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T07:40:43.949Z</updated>
+    <updated>2026-02-13T08:29:33.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Punchiri Thanchum |Bicycle Thieves|Lyrical + Karaoke Video| Shankar Mahadevan | Asif Ali |Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=3Aa7AdTqfTs</id>
+        <link href="https://www.youtube.com/watch?v=3Aa7AdTqfTs"/>
+        <updated>2026-02-13T06:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vennakkal Kottara Vathil | Ammakilikoodu | Prithviraj | Navya Nair | Raveendran | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=iofERYphrhE</id>
+        <link href="https://www.youtube.com/watch?v=iofERYphrhE"/>
+        <updated>2026-02-13T06:15:03.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panchavarnna Painkili 4K Video Song | Sallapam | Dileep | Manju Warrier | Johnson | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=bMVC3NPCgUQ</id>
+        <link href="https://www.youtube.com/watch?v=bMVC3NPCgUQ"/>
+        <updated>2026-02-13T06:09:03.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maagha Maasam Mallikappoo | മാഘ മാസം മല്ലികപ്പൂ...| Ente Thamburan | KJ Yesudas | Lekha R Nair]]></title>
         <id>https://www.youtube.com/watch?v=j_PHno99YWM</id>
@@ -11341,24 +11368,6 @@
         <link href="https://www.youtube.com/shorts/UccZSQ2COfE"/>
         <updated>2026-01-14T22:00:40.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 15 # Athiravile Prarthana 15th January 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=eusTQSBzJtQ</id>
-        <link href="https://www.youtube.com/watch?v=eusTQSBzJtQ"/>
-        <updated>2026-01-14T19:00:43.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th January 26]]></title>
-        <id>https://www.youtube.com/watch?v=-vnhVZYtsf8</id>
-        <link href="https://www.youtube.com/watch?v=-vnhVZYtsf8"/>
-        <updated>2026-01-14T18:00:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
