@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T09:32:04.182Z</updated>
+    <updated>2026-02-13T10:28:17.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vennilavo | Kalyanapuranam Shortfilm Song | Manu Rajendran | Aidithzen | Haripriya K | Vijil Joy]]></title>
+        <id>https://www.youtube.com/watch?v=jsZAB3NqZkI</id>
+        <link href="https://www.youtube.com/watch?v=jsZAB3NqZkI"/>
+        <updated>2026-02-13T09:30:05.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K G  മാർക്കോസിന്റെ ഹിറ്റ് ഗാനങ്ങൾ | @JinoKunnumpurathu #zionclassics #malayalamchristiansong]]></title>
         <id>https://www.youtube.com/watch?v=O_wJfK2uzb8</id>
@@ -11379,16 +11388,6 @@
         <updated>2026-01-14T22:30:17.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/UccZSQ2COfE</id>
-        <link href="https://www.youtube.com/shorts/UccZSQ2COfE"/>
-        <updated>2026-01-14T22:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
