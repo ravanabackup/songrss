@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T21:23:57.424Z</updated>
+    <updated>2026-02-13T22:20:46.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/cI8zjednVKU</id>
+        <link href="https://www.youtube.com/shorts/cI8zjednVKU"/>
+        <updated>2026-02-13T22:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 14th of February # Athiravile Prarthana 14th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=9C1KbsAqYx0</id>
@@ -11497,35 +11507,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള രാഗമാല l Nisari Music  | Evergreen Selected Malayalam Film Songs l]]></title>
-        <id>https://www.youtube.com/watch?v=BH236Pd25f0</id>
-        <link href="https://www.youtube.com/watch?v=BH236Pd25f0"/>
-        <updated>2026-01-15T10:10:58.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Nimisham | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/OGkBTt0NpKY</id>
-        <link href="https://www.youtube.com/shorts/OGkBTt0NpKY"/>
-        <updated>2026-01-15T09:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadathiya Vidhangal Orthal | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/T7_BAth58oo</id>
-        <link href="https://www.youtube.com/shorts/T7_BAth58oo"/>
-        <updated>2026-01-15T09:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
