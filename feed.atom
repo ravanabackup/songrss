@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T19:14:37.124Z</updated>
+    <updated>2026-02-14T20:12:27.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11658,34 +11658,6 @@
         <updated>2026-01-16T09:07:30.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kumki - Soi Soi Video with Lyrics | Vikram Prabhu, Lakshmi Menon | D. Imman]]></title>
-        <id>https://www.youtube.com/watch?v=tNW4bYHdPTQ</id>
-        <link href="https://www.youtube.com/watch?v=tNW4bYHdPTQ"/>
-        <updated>2026-01-16T08:01:12.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanyaka Mariyamme | #mothermarysong #mariyanprayer #christianshorts #christiandevotionalsong #jesus]]></title>
-        <id>https://www.youtube.com/shorts/wQJuz0wwkGA</id>
-        <link href="https://www.youtube.com/shorts/wQJuz0wwkGA"/>
-        <updated>2026-01-16T07:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punya Nilaaven Ayyan | Madhu Balakrishnan | Nitheesh Alukaran | Dhayalsing | Hindu Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=sA69If65I4c</id>
-        <link href="https://www.youtube.com/watch?v=sA69If65I4c"/>
-        <updated>2026-01-16T07:16:01.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
