@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T01:01:13.666Z</updated>
+    <updated>2026-02-14T03:58:13.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
+        <id>https://www.youtube.com/watch?v=jaksXbLVkyM</id>
+        <link href="https://www.youtube.com/watch?v=jaksXbLVkyM"/>
+        <updated>2026-02-14T02:22:34.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neeyam Thanalinu | Cocktail  | Valentine's Day Special #shortsfeed #fahadhfaasil #shortvideo #shorts]]></title>
         <id>https://www.youtube.com/shorts/J04nFAHzEvc</id>
@@ -11379,16 +11388,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[കൊട്ടും ഞാന്‍ കേട്ടില്ല | Thacholi Othenan | MS Baburaj | Vintage Malayalam Song #shorts]]></title>
-        <id>https://www.youtube.com/shorts/Vs5nFxD4SQ8</id>
-        <link href="https://www.youtube.com/shorts/Vs5nFxD4SQ8"/>
-        <updated>2026-01-15T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Christian Night Prayer E | Peaceful Bedtime Prayer | Evening Prayer for Family & Sleep]]></title>
         <id>https://www.youtube.com/shorts/l_E7Ydvj7S8</id>
         <link href="https://www.youtube.com/shorts/l_E7Ydvj7S8"/>
@@ -11396,16 +11395,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkare Ikkare | അക്കരെ ഇക്കരെ...| Ithiri Neram Othiri Karyam | KJ Yesudas | Johnson Mater Hit]]></title>
-        <id>https://www.youtube.com/shorts/dfRLJgxttKs</id>
-        <link href="https://www.youtube.com/shorts/dfRLJgxttKs"/>
-        <updated>2026-01-15T14:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
     <entry>
