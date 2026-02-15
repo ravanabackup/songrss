@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-15T04:09:45.433Z</updated>
+    <updated>2026-02-15T05:46:46.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Innoree Mazhayil | Malarvadi Arts Club #vineethsreenivasan #shortsvideo #shortsfeed #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/5wI24uFTBuo</id>
+        <link href="https://www.youtube.com/shorts/5wI24uFTBuo"/>
+        <updated>2026-02-15T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kangal Randum | Iniyum Video Song | Ashkar Saudhan | Kailash | Devan | Riyas khan | Rahul Madhav]]></title>
+        <id>https://www.youtube.com/watch?v=nvbY7BaGQKI</id>
+        <link href="https://www.youtube.com/watch?v=nvbY7BaGQKI"/>
+        <updated>2026-02-15T04:39:20.000Z</updated>
+        <author>
+            <name>Millennium Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevante Jeevanayi | ജീവന്റെ ജീവനായ്...| Kallamoola Movie | Vineeth Sreenivasan Song | New Song]]></title>
+        <id>https://www.youtube.com/watch?v=eksp41wNH30</id>
+        <link href="https://www.youtube.com/watch?v=eksp41wNH30"/>
+        <updated>2026-02-15T04:30:32.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthimanam Pootha | Chukkan | Sureshgopi | Gouthami | KJ Yesudas | KS Chithra | S P Venkitesh]]></title>
+        <id>https://www.youtube.com/watch?v=1jvPQFmYRA8</id>
+        <link href="https://www.youtube.com/watch?v=1jvPQFmYRA8"/>
+        <updated>2026-02-15T04:30:00.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ithiri Chodhichal | Shorts #manoramachristiansongs #manoramamusic]]></title>
         <id>https://www.youtube.com/shorts/sn-R0rncqnY</id>
@@ -11486,16 +11523,6 @@
         <updated>2026-01-16T18:00:56.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Sathyamanala Sundarane… #matchpointfaith #matchpointcreations #christiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/XN9MoTMwIyM</id>
-        <link href="https://www.youtube.com/shorts/XN9MoTMwIyM"/>
-        <updated>2026-01-16T16:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
