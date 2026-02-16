@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T10:37:02.897Z</updated>
+    <updated>2026-02-16T11:31:07.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 16th of February 2026]]></title>
+        <id>https://www.youtube.com/watch?v=dBLd5zEy7P0</id>
+        <link href="https://www.youtube.com/watch?v=dBLd5zEy7P0"/>
+        <updated>2026-02-16T11:30:36.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിഭൂതി തിരുനാൾ | Ash Monday status | Kurisinte Nizhalil |  @JinoKunnumpurathu   #shorts #lent]]></title>
+        <id>https://www.youtube.com/shorts/USbHVXzk9us</id>
+        <link href="https://www.youtube.com/shorts/USbHVXzk9us"/>
+        <updated>2026-02-16T11:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 നോമ്പ് ആരംഭ ഗാനങ്ങൾ |  #JinoKunnumpurathu    #zionclassics #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/watch?v=gY2USd5NuoM</id>
+        <link href="https://www.youtube.com/watch?v=gY2USd5NuoM"/>
+        <updated>2026-02-16T11:05:19.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഞാൻ വന്നിലായിരുന്നെങ്കിൽ അതെനിക്ക് ഏറ്റവും വലിയ നഷ്ടമായേനേ | #shorts #rajeshmadhavan #sijusunny]]></title>
         <id>https://www.youtube.com/shorts/oaS0og8Uk8I</id>
@@ -11423,33 +11451,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 18th of January 2026 # Mathavinte Japamala Mahimayude Rahasyangal 18th of January 2026]]></title>
-        <id>https://www.youtube.com/watch?v=y1CkM-pG3lg</id>
-        <link href="https://www.youtube.com/watch?v=y1CkM-pG3lg"/>
-        <updated>2026-01-17T23:30:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മണി മുഴങ്ങുമ്പോൾ മനസിലുയരുംഗാനങ്ങൾ | Morning Prayer Songs | Jomon Moonjely | Holy Mass Songs]]></title>
-        <id>https://www.youtube.com/watch?v=sKj7dYGQhuY</id>
-        <link href="https://www.youtube.com/watch?v=sKj7dYGQhuY"/>
-        <updated>2026-01-17T23:30:18.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpa Kalam Mathram | Binoy Chacko | Prathyasha Geethangal | Christian Morning Prayer Songs]]></title>
-        <id>https://www.youtube.com/watch?v=LDXexgGTiGk</id>
-        <link href="https://www.youtube.com/watch?v=LDXexgGTiGk"/>
-        <updated>2026-01-17T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
