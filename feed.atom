@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T21:17:51.405Z</updated>
+    <updated>2026-02-16T22:15:54.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/zgIRz3-rLAE</id>
+        <link href="https://www.youtube.com/shorts/zgIRz3-rLAE"/>
+        <updated>2026-02-16T22:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 17th of February # Athiravile Prarthana 17th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=AYwHInqRi-U</id>
@@ -11477,16 +11487,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athirukalillatha Sneham | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/_Hyl2aIRhVo</id>
-        <link href="https://www.youtube.com/shorts/_Hyl2aIRhVo"/>
-        <updated>2026-01-18T09:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
