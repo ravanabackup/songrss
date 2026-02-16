@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-16T08:32:34.916Z</updated>
+    <updated>2026-02-16T09:39:31.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spa - Sneak Peek | Abrid Shine | Ishaan Chhabra]]></title>
+        <id>https://www.youtube.com/watch?v=oNnot5HC5Vc</id>
+        <link href="https://www.youtube.com/watch?v=oNnot5HC5Vc"/>
+        <updated>2026-02-16T09:30:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കടലിലെ പൊന്മീനോ | Chandrahasam Malayalam Film Song | KJ Yesudas | Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=ueG_WzU1_2I</id>
+        <link href="https://www.youtube.com/watch?v=ueG_WzU1_2I"/>
+        <updated>2026-02-16T09:26:13.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sree Sivasudha Padhakamala | ശ്രീ ശിവസുതപദകമല...| Ente Sooryaputhrikku Movie | P Leela | Ilayaraja]]></title>
         <id>https://www.youtube.com/shorts/HjZlfka1904</id>
@@ -143,6 +161,15 @@
         <updated>2026-02-15T18:00:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gospel According to Mathew Chapter 4 | Holy Bible Reading | New Testament | Malayalam Audio Bible]]></title>
+        <id>https://www.youtube.com/watch?v=pSBjs0--m0Q</id>
+        <link href="https://www.youtube.com/watch?v=pSBjs0--m0Q"/>
+        <updated>2026-02-15T16:59:30.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -1162,6 +1189,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golgotha Malayil | Kester | Babu Malayil | Malayalam Christian Devotional Songs | Lent Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ysieuoZbpjw</id>
+        <link href="https://www.youtube.com/watch?v=ysieuoZbpjw"/>
+        <updated>2026-02-13T11:47:52.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
