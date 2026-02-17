@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T19:38:39.366Z</updated>
+    <updated>2026-02-17T20:23:34.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11619,25 +11619,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some melodies don’t fade, they linger 💕The magical #Kamini from #AnugraheethanAntony is today’s SOD]]></title>
-        <id>https://www.youtube.com/shorts/7DMYd2-F1xQ</id>
-        <link href="https://www.youtube.com/shorts/7DMYd2-F1xQ"/>
-        <updated>2026-01-19T08:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liger (Telugu) - Akdi Pakdi Video with Lyrics | Video | Vijay Deverakonda, Ananya Panday]]></title>
-        <id>https://www.youtube.com/watch?v=I60KMCug5oA</id>
-        <link href="https://www.youtube.com/watch?v=I60KMCug5oA"/>
-        <updated>2026-01-19T08:00:17.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
