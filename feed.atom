@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T08:31:09.988Z</updated>
+    <updated>2026-02-17T09:35:19.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Not just a song…A gentle push to chase your goals and never give up.🎶 Unarukayaano | Song Of The Day]]></title>
+        <id>https://www.youtube.com/shorts/V89TNace5Lw</id>
+        <link href="https://www.youtube.com/shorts/V89TNace5Lw"/>
+        <updated>2026-02-17T08:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manathe Vellitheru Malayalam Movie Song Anthimaanachoppu | Shobhana, Vineeth | K. S.  Chithra]]></title>
         <id>https://www.youtube.com/watch?v=geIa8kVaGfQ</id>
@@ -391,6 +401,15 @@
         <updated>2026-02-16T06:27:58.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethethan Kanenn Song | Krishnashtami | Ouseppachan | Charlie Behrain | Abhilash Babu]]></title>
+        <id>https://www.youtube.com/watch?v=Menwmdn9HdU</id>
+        <link href="https://www.youtube.com/watch?v=Menwmdn9HdU"/>
+        <updated>2026-02-16T05:54:55.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
