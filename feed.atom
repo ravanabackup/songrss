@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T22:17:53.243Z</updated>
+    <updated>2026-02-17T23:17:32.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 18, വിഭൂതി തിരുനാൾ, വലിയ നോമ്പ് ആരംഭം, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=gTTmdrA7iMw</id>
+        <link href="https://www.youtube.com/watch?v=gTTmdrA7iMw"/>
+        <updated>2026-02-17T22:30:17.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/7L7n2cdpCH8</id>
@@ -11580,26 +11589,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanambadi Padumpolennullam | വാനമ്പാടി പാടുമ്പോലെന്നുള്ളം #christianmusic #jesus #jesusprayers]]></title>
-        <id>https://www.youtube.com/shorts/AsOiFpSxLUk</id>
-        <link href="https://www.youtube.com/shorts/AsOiFpSxLUk"/>
-        <updated>2026-01-19T11:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Divya karunyame | #jinokunnumpurath | #shorts]]></title>
-        <id>https://www.youtube.com/shorts/-CkrORGw-gs</id>
-        <link href="https://www.youtube.com/shorts/-CkrORGw-gs"/>
-        <updated>2026-01-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
