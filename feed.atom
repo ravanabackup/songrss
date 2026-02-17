@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T16:42:35.833Z</updated>
+    <updated>2026-02-17T17:45:12.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11648,25 +11648,6 @@
         <updated>2026-01-19T05:50:57.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവില്‍ പൂന്തേന്‍ തേടും പൂങ്കാറ്റേ #romanticsong #trending]]></title>
-        <id>https://www.youtube.com/shorts/1DeqyP5HM8w</id>
-        <link href="https://www.youtube.com/shorts/1DeqyP5HM8w"/>
-        <updated>2026-01-19T05:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arikil En Arikil | Kadha paranja Kadha | Siddharth Menon | Dr.Lakshmi Gupthan | Jaison J.Nair]]></title>
-        <id>https://www.youtube.com/watch?v=Q3OQbPU1vjs</id>
-        <link href="https://www.youtube.com/watch?v=Q3OQbPU1vjs"/>
-        <updated>2026-01-19T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
