@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T14:41:59.219Z</updated>
+    <updated>2026-02-17T15:39:16.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇവിടെ മുഴുവൻ ഇരുട്ടാണല്ലോ??]]></title>
+        <id>https://www.youtube.com/shorts/FLE2bvSMB_k</id>
+        <link href="https://www.youtube.com/shorts/FLE2bvSMB_k"/>
+        <updated>2026-02-17T15:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psalms for Lent | Psalms 91 |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/-cZydV95WdU</id>
+        <link href="https://www.youtube.com/shorts/-cZydV95WdU"/>
+        <updated>2026-02-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bhoojathikale Vannethi  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
         <id>https://www.youtube.com/shorts/xFXx1vrDzzk</id>
