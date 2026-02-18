@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T16:47:17.481Z</updated>
+    <updated>2026-02-18T17:44:21.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mar Thoma Shayana Namaskaram | ഞങ്ങള്‍ക്കുള്ള കര്‍ത്താവെ | Njangalkulla Karthave | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/YbTgR8DgcDg</id>
+        <link href="https://www.youtube.com/shorts/YbTgR8DgcDg"/>
+        <updated>2026-02-18T17:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psalms for Lent | Psalms 91 |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/mGGUoIccLqU</id>
+        <link href="https://www.youtube.com/shorts/mGGUoIccLqU"/>
+        <updated>2026-02-18T17:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18 February 2026]]></title>
         <id>https://www.youtube.com/shorts/JTDBcgIc9kQ</id>
@@ -11652,25 +11672,6 @@
         <updated>2026-01-20T06:22:39.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassu Mayakki | Oru Marubhoomi Kadha #mohanlal #shortsfeed #shortsvideo #reels #filmsongs #shrots]]></title>
-        <id>https://www.youtube.com/shorts/EpNUR_otCzU</id>
-        <link href="https://www.youtube.com/shorts/EpNUR_otCzU"/>
-        <updated>2026-01-20T05:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മിഴിയില്‍ മീന്‍ പിടഞ്ഞൂ | Sandhyakku Virinja Poovu Movie Classic Hit Song | Mammootty | Seema]]></title>
-        <id>https://www.youtube.com/watch?v=0zY2rtYKKLI</id>
-        <link href="https://www.youtube.com/watch?v=0zY2rtYKKLI"/>
-        <updated>2026-01-20T05:24:31.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
