@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T14:00:21.120Z</updated>
+    <updated>2026-02-19T14:49:50.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/pUKrPtiwCEE</id>
+        <link href="https://www.youtube.com/shorts/pUKrPtiwCEE"/>
+        <updated>2026-02-19T14:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
+        <id>https://www.youtube.com/shorts/iStMoLGJIE8</id>
+        <link href="https://www.youtube.com/shorts/iStMoLGJIE8"/>
+        <updated>2026-02-19T14:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakshakan Uracheythan | രക്ഷകൻ ഉരചെയ്താൻ | Orthodox Qurbana Song | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=D_4qVW479fE</id>
+        <link href="https://www.youtube.com/watch?v=D_4qVW479fE"/>
+        <updated>2026-02-19T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാട് കറുത്ത കാട്… 🌿 | നീലപൊന്മാൻ മലയാളം സിനിമാഗാനം]]></title>
         <id>https://www.youtube.com/shorts/1RmnA4xTlaQ</id>
@@ -14,6 +43,16 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhaneer Thullikal  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/shorts/MeDQf91twfk</id>
+        <link href="https://www.youtube.com/shorts/MeDQf91twfk"/>
+        <updated>2026-02-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
