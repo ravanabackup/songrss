@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T08:29:31.742Z</updated>
+    <updated>2026-02-19T09:32:54.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Krushithane Udhithane | ക്രൂശിതനെ ഉത്ഥിതനെ #lentseason #christianmusic #christianshorts #valiyanombu]]></title>
+        <id>https://www.youtube.com/shorts/eQJK_2nKlmQ</id>
+        <link href="https://www.youtube.com/shorts/eQJK_2nKlmQ"/>
+        <updated>2026-02-19T09:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dingiri Dingiri Dingiri Pattalam #song #dancehits]]></title>
+        <id>https://www.youtube.com/shorts/tEQk_jsROFg</id>
+        <link href="https://www.youtube.com/shorts/tEQk_jsROFg"/>
+        <updated>2026-02-19T08:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anjaan - Ek Do Teen Video with Lyrics | Suriya, Samantha | Yuvanshankar Raja]]></title>
         <id>https://www.youtube.com/watch?v=8OZTxQSHB08</id>
