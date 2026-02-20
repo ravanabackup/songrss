@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T04:02:50.135Z</updated>
+    <updated>2026-02-20T05:43:48.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bhoomi Pennin Poomey | ഭൂമിപ്പെണ്ണിൻ പൂമെയ്... | Oru Kudakeezhil | K J Yesudas | Vani Jairam]]></title>
+        <id>https://www.youtube.com/watch?v=p-32jcAvsUw</id>
+        <link href="https://www.youtube.com/watch?v=p-32jcAvsUw"/>
+        <updated>2026-02-20T05:24:12.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
+        <id>https://www.youtube.com/watch?v=PHRp9WqW9K0</id>
+        <link href="https://www.youtube.com/watch?v=PHRp9WqW9K0"/>
+        <updated>2026-02-20T05:22:08.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moothore Song - Out Now #newmovie #pennumporattum #shorts #videosong]]></title>
+        <id>https://www.youtube.com/shorts/cG4vG3P8oAw</id>
+        <link href="https://www.youtube.com/shorts/cG4vG3P8oAw"/>
+        <updated>2026-02-20T04:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
         <id>https://www.youtube.com/watch?v=4Wu-aS2dHEc</id>
@@ -11565,25 +11593,6 @@
         <updated>2026-01-21T18:01:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assal Cinema - Lyrical | Seetha Payanam (Malayalam) | Niranjan, Aishwarya | Arjun | Anup Rubens]]></title>
-        <id>https://www.youtube.com/watch?v=18K6upfkpMI</id>
-        <link href="https://www.youtube.com/watch?v=18K6upfkpMI"/>
-        <updated>2026-01-21T16:35:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyamanala Sundarane | സത്യമണാളാ സുന്ദരനെ |]]></title>
-        <id>https://www.youtube.com/shorts/GZul2s6Zdxc</id>
-        <link href="https://www.youtube.com/shorts/GZul2s6Zdxc"/>
-        <updated>2026-01-21T16:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
