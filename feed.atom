@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T01:00:41.851Z</updated>
+    <updated>2026-02-20T04:02:50.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
+        <id>https://www.youtube.com/watch?v=4Wu-aS2dHEc</id>
+        <link href="https://www.youtube.com/watch?v=4Wu-aS2dHEc"/>
+        <updated>2026-02-20T03:26:32.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കേൾക്കു അനുഗ്രഹം നേടൂ | Christian Video Songs Malayalam | Kester | Sreya Jayadeep | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=vIz0tmzVZj4</id>
@@ -11575,65 +11584,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/CI2iId2qDrc</id>
-        <link href="https://www.youtube.com/shorts/CI2iId2qDrc"/>
-        <updated>2026-01-21T15:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/Uw_gvn-cKY0</id>
-        <link href="https://www.youtube.com/shorts/Uw_gvn-cKY0"/>
-        <updated>2026-01-21T14:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു മറ്റവളെയും വിശ്വസിക്കരുത്...!! #magicmushroomsmovie Coming Soon #shorts]]></title>
-        <id>https://www.youtube.com/shorts/MM0I-UFeHA0</id>
-        <link href="https://www.youtube.com/shorts/MM0I-UFeHA0"/>
-        <updated>2026-01-21T14:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lords prayer Malayalam | പ്രഭാത പ്രാർത്ഥന | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/WizeJ81oYBE</id>
-        <link href="https://www.youtube.com/shorts/WizeJ81oYBE"/>
-        <updated>2026-01-21T13:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoovenpraavukal | തൂവെൺ പ്രാവുകൾ....| Aaghosham | KJ Yesudas | Radhika Thilak | Evergreen]]></title>
-        <id>https://www.youtube.com/shorts/UyaIGUj1MV0</id>
-        <link href="https://www.youtube.com/shorts/UyaIGUj1MV0"/>
-        <updated>2026-01-21T13:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യുട്യൂബിലെ ഇപ്പോഴത്തേ ട്രെൻഡിങ് ക്രിസ്തിയ ഗാനങ്ങൾ!! | Peter Cheranelloor | Top Hits | #evergreen]]></title>
-        <id>https://www.youtube.com/watch?v=3QNFK24Ucw4</id>
-        <link href="https://www.youtube.com/watch?v=3QNFK24Ucw4"/>
-        <updated>2026-01-21T13:30:03.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
