@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-21T15:13:28.862Z</updated>
+    <updated>2026-02-21T16:14:11.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Second Sunday of Great Lent | Garbo Sunday | ഗർബോ ഞായർ | Orthodox songs | Valiya Nombu]]></title>
+        <id>https://www.youtube.com/shorts/4Ha3MKxHUrs</id>
+        <link href="https://www.youtube.com/shorts/4Ha3MKxHUrs"/>
+        <updated>2026-02-21T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | #shorts]]></title>
+        <id>https://www.youtube.com/shorts/fjDV8D6h49E</id>
+        <link href="https://www.youtube.com/shorts/fjDV8D6h49E"/>
+        <updated>2026-02-21T15:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second Sunday of Great Lent | Garbo Sunday | ഗർബോ ഞായർ | Orthodox songs | Valiya Nombu]]></title>
         <id>https://www.youtube.com/shorts/uHNWI5u3KPU</id>
@@ -11780,25 +11800,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=OUicAKx7vt8</id>
-        <link href="https://www.youtube.com/watch?v=OUicAKx7vt8"/>
-        <updated>2026-01-23T04:07:27.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marannuvo Poomakale | Chakkaramuthu #Lyrical #Reel #movie #song #viral #video #viralshort]]></title>
-        <id>https://www.youtube.com/shorts/u7DUW2yIsjk</id>
-        <link href="https://www.youtube.com/shorts/u7DUW2yIsjk"/>
-        <updated>2026-01-23T03:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
