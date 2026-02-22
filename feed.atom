@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T22:12:10.735Z</updated>
+    <updated>2026-02-22T23:14:03.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 23, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=sveAHI1r2nI</id>
+        <link href="https://www.youtube.com/watch?v=sveAHI1r2nI"/>
+        <updated>2026-02-22T22:30:22.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/xTn0FCQss3o</id>
@@ -11652,44 +11661,6 @@
         <updated>2026-01-24T11:30:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kodiyuduthum Mudimadividarthum HD Video Song | Alancheri Thamprakkal | Singer (G Venugopal)]]></title>
-        <id>https://www.youtube.com/watch?v=1CfAe7AOcAk</id>
-        <link href="https://www.youtube.com/watch?v=1CfAe7AOcAk"/>
-        <updated>2026-01-24T10:51:24.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Aaradhikunnu Njangal Nin…ആരാധിക്കുന്നു ഞങ്ങള്‍… #matchpointfaith #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/NlAqfeEp2do</id>
-        <link href="https://www.youtube.com/shorts/NlAqfeEp2do"/>
-        <updated>2026-01-24T10:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthran Thamburan | Aksa Jose | #jinokunnumpurath #shorts]]></title>
-        <id>https://www.youtube.com/shorts/qcUXpOZuDHs</id>
-        <link href="https://www.youtube.com/shorts/qcUXpOZuDHs"/>
-        <updated>2026-01-24T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kulir Peytha | കുളിർ പെയ്ത മാമഴയിൽ...| MG Sreekumar | KS Chithra | Adivaaram Movie | Johnson Master]]></title>
-        <id>https://www.youtube.com/watch?v=Lob2bk7Ps6Q</id>
-        <link href="https://www.youtube.com/watch?v=Lob2bk7Ps6Q"/>
-        <updated>2026-01-24T10:30:14.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
