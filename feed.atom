@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T17:15:44.378Z</updated>
+    <updated>2026-02-22T18:18:28.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd February 26]]></title>
+        <id>https://www.youtube.com/watch?v=j3xe7_0HXEM</id>
+        <link href="https://www.youtube.com/watch?v=j3xe7_0HXEM"/>
+        <updated>2026-02-22T18:00:45.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Loke Njan En… #matchpointfaith #matchpointcreations #binoychacko #christiandevotionalsongs]]></title>
         <id>https://www.youtube.com/shorts/pH9pmtz0qwo</id>
@@ -11698,25 +11707,6 @@
         <updated>2026-01-24T07:30:25.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayavi Kadhakal | Animation Story #animation #mayavi #balarama #cartoon #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/44mWegXMBiY</id>
-        <link href="https://www.youtube.com/shorts/44mWegXMBiY"/>
-        <updated>2026-01-24T05:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudumbasthan - Original Score | Manikandan | Saanve Megghana | Vaisagh | Rajeshwar Kalisamy]]></title>
-        <id>https://www.youtube.com/watch?v=pYvuoFLRhVc</id>
-        <link href="https://www.youtube.com/watch?v=pYvuoFLRhVc"/>
-        <updated>2026-01-24T05:30:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
