@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T15:13:40.891Z</updated>
+    <updated>2026-02-22T16:14:41.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎶Loke Njan En… #matchpointfaith #matchpointcreations #binoychacko #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/pH9pmtz0qwo</id>
+        <link href="https://www.youtube.com/shorts/pH9pmtz0qwo"/>
+        <updated>2026-02-22T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✝️Great Lent Songs… #matchpointfaith]]></title>
+        <id>https://www.youtube.com/shorts/coaO3sVZ-Hc</id>
+        <link href="https://www.youtube.com/shorts/coaO3sVZ-Hc"/>
+        <updated>2026-02-22T15:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
         <id>https://www.youtube.com/shorts/jkQP57QHtkQ</id>
