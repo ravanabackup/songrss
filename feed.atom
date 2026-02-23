@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T21:32:31.105Z</updated>
+    <updated>2026-02-23T22:29:09.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/r0O9QJt1o-w</id>
+        <link href="https://www.youtube.com/shorts/r0O9QJt1o-w"/>
+        <updated>2026-02-23T22:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 24th of February # Athiravile Prarthana 24th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=518WgpM1ZoY</id>
@@ -11703,15 +11713,6 @@
         <link href="https://www.youtube.com/shorts/kisGJZHhQPA"/>
         <updated>2026-01-25T10:30:35.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remix മനം നിറയ്ക്കുന്ന ക്രിസ്തീയഗാനങ്ങൾ |  #JinoKunnumpurathu  #jinokunnumpurath #malayalamsong]]></title>
-        <id>https://www.youtube.com/watch?v=AP9WF0C7-nU</id>
-        <link href="https://www.youtube.com/watch?v=AP9WF0C7-nU"/>
-        <updated>2026-01-25T10:28:52.000Z</updated>
         <author>
             <name>ZionClassics</name>
         </author>
