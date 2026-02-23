@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T12:34:34.677Z</updated>
+    <updated>2026-02-23T13:59:23.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jathikale Modhipin | ജാതികളെ മോദിപ്പിൻ | ഈസ്റ്റർ ശുശ്രൂഷ ഗാനങ്ങൾ | Sreya Joseph | Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=I1SBgPfGT_I</id>
+        <link href="https://www.youtube.com/watch?v=I1SBgPfGT_I"/>
+        <updated>2026-02-23T13:08:11.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kasthoori Manakkunnallo Video Song | Picnic | Prem Nazir | Lakshmi | KJ Yesudas | MK Arjunan]]></title>
+        <id>https://www.youtube.com/watch?v=tK27l1RPIoE</id>
+        <link href="https://www.youtube.com/watch?v=tK27l1RPIoE"/>
+        <updated>2026-02-23T12:34:35.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KANNORAM Lyrical Video | Butterfly Girl 85 Movie | Sithara Krishnakumar]]></title>
         <id>https://www.youtube.com/watch?v=t7dFuc5jn90</id>
@@ -22,6 +40,16 @@
         <updated>2026-02-23T12:31:04.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathodennum Njan | ദൈവത്തോടെന്നും ഞാൻ... | Prema Vrinthavanam Album Song | Shafi Kollam]]></title>
+        <id>https://www.youtube.com/shorts/kZkilyPdHpQ</id>
+        <link href="https://www.youtube.com/shorts/kZkilyPdHpQ"/>
+        <updated>2026-02-23T12:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
     <entry>
