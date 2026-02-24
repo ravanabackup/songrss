@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-24T16:52:11.756Z</updated>
+    <updated>2026-02-24T17:48:38.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11822,33 +11822,6 @@
         <updated>2026-01-26T06:30:03.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezham Naalu 4K Video Song | Vismayam | S Ramesan Nair | K J Yesudas | Johnson | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=gj2GeeIMVHU</id>
-        <link href="https://www.youtube.com/watch?v=gj2GeeIMVHU"/>
-        <updated>2026-01-26T05:41:00.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uyir Pathikaama | Vaa Vaathiyaar | Karthi, Krithi Shetty | Santhosh Narayanan | Nalan Kumarasamy]]></title>
-        <id>https://www.youtube.com/watch?v=Umd-UgJ80V4</id>
-        <link href="https://www.youtube.com/watch?v=Umd-UgJ80V4"/>
-        <updated>2026-01-26T05:30:14.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneer Meghangal | Sachin  | Video Song | Shaan Rahman | Manu Manjith  | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=Ab76a4UblVU</id>
-        <link href="https://www.youtube.com/watch?v=Ab76a4UblVU"/>
-        <updated>2026-01-26T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
