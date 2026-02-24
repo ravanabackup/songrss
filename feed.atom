@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-24T21:22:57.208Z</updated>
+    <updated>2026-02-24T22:20:28.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/G8427sfCxA8</id>
+        <link href="https://www.youtube.com/shorts/G8427sfCxA8"/>
+        <updated>2026-02-24T22:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 25th of February # Athiravile Prarthana 25th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=AsL8Zba9p1k</id>
@@ -11764,25 +11774,6 @@
         <link href="https://www.youtube.com/shorts/Uyqa4A4Oc14"/>
         <updated>2026-01-26T10:42:34.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sagaratheeram | Kester | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/-5q7DVT6_z8</id>
-        <link href="https://www.youtube.com/shorts/-5q7DVT6_z8"/>
-        <updated>2026-01-26T09:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സമാധാനം നിറയ്ക്കുന്ന ക്രിസ്തീയഗാനങ്ങൾ | @JinoKunnumpurathu #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=AMwzul_-olI</id>
-        <link href="https://www.youtube.com/watch?v=AMwzul_-olI"/>
-        <updated>2026-01-26T09:23:45.000Z</updated>
         <author>
             <name>ZionClassics</name>
         </author>
