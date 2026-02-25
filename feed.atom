@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T22:19:14.481Z</updated>
+    <updated>2026-02-25T23:18:45.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 26, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=Phn4jZT0apk</id>
+        <link href="https://www.youtube.com/watch?v=Phn4jZT0apk"/>
+        <updated>2026-02-25T22:30:08.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/MNJd3HltJE8</id>
@@ -11896,36 +11905,6 @@
         <updated>2026-01-27T11:27:46.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KESSU PAATTIN ISHALU MOOLUM I EANI FILM SONG I VISHNU NELLAYA I P. UNNIKRISHNAN #trending]]></title>
-        <id>https://www.youtube.com/shorts/JXcAia_vwyI</id>
-        <link href="https://www.youtube.com/shorts/JXcAia_vwyI"/>
-        <updated>2026-01-27T10:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THIKKUM THIRAKKUM | വാത്സല്യം തുളുമ്പുന്ന മനോഹര ക്രിസ്‌തീയ ഗാനം | #jinokunnumpurath #shorts]]></title>
-        <id>https://www.youtube.com/shorts/rl1k7WiHYes</id>
-        <link href="https://www.youtube.com/shorts/rl1k7WiHYes"/>
-        <updated>2026-01-27T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാഗിണിയാം യുവരാധയിതാ രാസോല്ലസിതം പാടുകയായ്‌ #trending #evergreenhits]]></title>
-        <id>https://www.youtube.com/shorts/3d-Y7Z58hVY</id>
-        <link href="https://www.youtube.com/shorts/3d-Y7Z58hVY"/>
-        <updated>2026-01-27T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
