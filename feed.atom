@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T19:42:55.514Z</updated>
+    <updated>2026-02-25T20:22:50.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11956,25 +11956,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യേശുനാഥന്റെ മനോഹര ഗാനങ്ങൾ | Malayalam Christian Devotional Songs | Jesus Album Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=crvHYrMJSnY</id>
-        <link href="https://www.youtube.com/watch?v=crvHYrMJSnY"/>
-        <updated>2026-01-27T08:19:11.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every note carries warmth, care, and unconditional love, Aarorum from Am Ah is today’s SOD.]]></title>
-        <id>https://www.youtube.com/shorts/0Uyg95zZptU</id>
-        <link href="https://www.youtube.com/shorts/0Uyg95zZptU"/>
-        <updated>2026-01-27T07:51:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
