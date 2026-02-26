@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T11:30:43.442Z</updated>
+    <updated>2026-02-26T12:35:14.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Amma Ente Appan | Meghna Sumesh | Joffi Tharakan | Joy Payyappilly |]]></title>
+        <id>https://www.youtube.com/watch?v=dQJALLVs4Xw</id>
+        <link href="https://www.youtube.com/watch?v=dQJALLVs4Xw"/>
+        <updated>2026-02-26T12:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla Chediye - Video Song | Vaazha 2 | Rajat Prakash | Vipin Das | Savin Sa | Hashir]]></title>
+        <id>https://www.youtube.com/watch?v=mZvTWtDY340</id>
+        <link href="https://www.youtube.com/watch?v=mZvTWtDY340"/>
+        <updated>2026-02-26T12:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉച്ചമാം വെയിലിൽ  | കുരിശിന്റെവഴി | #jinokunnumpurath | #madhubalakrishnan #shorts | #lent #jesus]]></title>
+        <id>https://www.youtube.com/shorts/tL59O9vPMms</id>
+        <link href="https://www.youtube.com/shorts/tL59O9vPMms"/>
+        <updated>2026-02-26T12:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26th of February 2026]]></title>
+        <id>https://www.youtube.com/watch?v=uwjhqK84iQc</id>
+        <link href="https://www.youtube.com/watch?v=uwjhqK84iQc"/>
+        <updated>2026-02-26T11:30:47.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കഷ്ടാനുഭവ ആഴ്ചയിലെ ആരാധനാ ഗീതങ്ങൾ | പീഡാനുഭവവാര ഗീതങ്ങൾ | Passion week songs |Music Spread]]></title>
         <id>https://www.youtube.com/shorts/-oVDYi1iNms</id>
@@ -910,6 +947,15 @@
         <updated>2026-02-24T10:43:59.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valiya Nombu Ganangal | വലിയ നോമ്പ് ഗീതങ്ങൾ | Traditional Christian Songs | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=ubZNMCneTn4</id>
+        <link href="https://www.youtube.com/watch?v=ubZNMCneTn4"/>
+        <updated>2026-02-24T10:43:07.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -11859,16 +11905,6 @@
         <updated>2026-01-28T01:23:17.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്ഷമയോടെ കാത്തിരിക്കാം |  Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/D17VcUD2zQw</id>
-        <link href="https://www.youtube.com/shorts/D17VcUD2zQw"/>
-        <updated>2026-01-28T00:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
