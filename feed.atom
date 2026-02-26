@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T04:04:26.285Z</updated>
+    <updated>2026-02-26T05:48:39.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plavila Pon Thalikayil | Pavithram #song #love]]></title>
+        <id>https://www.youtube.com/shorts/VBXo5hJ22I8</id>
+        <link href="https://www.youtube.com/shorts/VBXo5hJ22I8"/>
+        <updated>2026-02-26T05:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
         <id>https://www.youtube.com/watch?v=qSewEBtapWM</id>
