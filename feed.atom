@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T21:22:12.609Z</updated>
+    <updated>2026-02-26T22:21:02.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/yfCVnNNT56Y</id>
+        <link href="https://www.youtube.com/shorts/yfCVnNNT56Y"/>
+        <updated>2026-02-26T22:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 27th of February # Athiravile Prarthana 27th February 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=caslFPmA94c</id>
@@ -10750,6 +10760,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SHE | JOB KURIAN | SHYAM KRISHNA | AISWARYA S | ANILA RAJEEV  | LENA]]></title>
+        <id>https://www.youtube.com/watch?v=BzxJb6DNXAI</id>
+        <link href="https://www.youtube.com/watch?v=BzxJb6DNXAI"/>
+        <updated>2026-01-31T11:30:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHE | JOB KURIAN | SHYAM KRISHNA | AISWARYA S | ANILA RAJEEV  | LENA]]></title>
+        <id>https://www.youtube.com/watch?v=OyrCuJyreWg</id>
+        <link href="https://www.youtube.com/watch?v=OyrCuJyreWg"/>
+        <updated>2026-01-31T11:30:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Thekku Dhikkile | INLAND Movie | Studio Version | Sreejith Lal | Jassie Gift | Manikandan Ayyappa]]></title>
         <id>https://www.youtube.com/watch?v=CGnfVkLPsIk</id>
         <link href="https://www.youtube.com/watch?v=CGnfVkLPsIk"/>
@@ -11874,35 +11902,6 @@
         <link href="https://www.youtube.com/shorts/dHDVKRXEIzQ"/>
         <updated>2026-01-28T10:30:24.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maranaradham video song is OUT NOW! #pongala #sreenathbhasi #ranjinraj]]></title>
-        <id>https://www.youtube.com/shorts/nZgqjdoqMoY</id>
-        <link href="https://www.youtube.com/shorts/nZgqjdoqMoY"/>
-        <updated>2026-01-28T10:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു മെഴുതിരിയുടെ നെറുകയിലെരിയാൻ പ്രണയമേ അരികിൽ വന്നു നീ #evergreenhits #trending]]></title>
-        <id>https://www.youtube.com/shorts/j47FUXGgsq8</id>
-        <link href="https://www.youtube.com/shorts/j47FUXGgsq8"/>
-        <updated>2026-01-28T10:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കലക്കൻ ക്രിസ്തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu #jinokunnumpurath #zionclassics #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=SkY75cqADKU</id>
-        <link href="https://www.youtube.com/watch?v=SkY75cqADKU"/>
-        <updated>2026-01-28T09:56:48.000Z</updated>
         <author>
             <name>ZionClassics</name>
         </author>
