@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T22:21:02.987Z</updated>
+    <updated>2026-02-26T23:18:50.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഫെബ്രുവരി: 27, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=6qGR_HXGQQQ</id>
+        <link href="https://www.youtube.com/watch?v=6qGR_HXGQQQ"/>
+        <updated>2026-02-26T22:30:03.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/yfCVnNNT56Y</id>
@@ -11884,26 +11893,6 @@
         <updated>2026-01-28T11:30:03.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രേയ ഘോഷാലിനൊപ്പം ഹനാൻ ഷാ, പാടിയ അടിപൊളി ഒരു മെലഡി song #hananshaah #sreyaghosal #shorts]]></title>
-        <id>https://www.youtube.com/shorts/c0aTVUrH4Io</id>
-        <link href="https://www.youtube.com/shorts/c0aTVUrH4Io"/>
-        <updated>2026-01-28T11:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalarunnu Njan Nadha | Biju Narayanan | #jinokunnumpurath #shorts]]></title>
-        <id>https://www.youtube.com/shorts/dHDVKRXEIzQ</id>
-        <link href="https://www.youtube.com/shorts/dHDVKRXEIzQ"/>
-        <updated>2026-01-28T10:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
