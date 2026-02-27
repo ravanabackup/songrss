@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-27T07:37:21.374Z</updated>
+    <updated>2026-02-27T08:28:02.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanthaswamy - Meow Meow Video with Lyrics | Vikram, Shreya | Devi Sri Prasad]]></title>
+        <id>https://www.youtube.com/watch?v=H92uTGDLk3c</id>
+        <link href="https://www.youtube.com/watch?v=H92uTGDLk3c"/>
+        <updated>2026-02-27T08:00:19.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ee Vazhiyil | Pallimani |Lyrical Video| Vineeth Sreenivasan |Sreejith Ravi | Shwetha Menon | Kailash]]></title>
         <id>https://www.youtube.com/watch?v=wiRB6l5eu-I</id>
@@ -13,6 +22,24 @@
         <updated>2026-02-27T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaru Paranju 4K Video Song | Jayasurya | Kavya | P Jayachandran | KS Chithra | Berny Ignatius]]></title>
+        <id>https://www.youtube.com/watch?v=RiWU_ssxcwg</id>
+        <link href="https://www.youtube.com/watch?v=RiWU_ssxcwg"/>
+        <updated>2026-02-27T06:17:27.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേട്ടാൽ നെഞ്ചുപൊട്ടിപോകുന്ന നോമ്പുഗാനങ്ങൾ | @JinoKunnumpurathu  #malayalamchristian #zionclassics]]></title>
+        <id>https://www.youtube.com/watch?v=S2jnnQnx8Jc</id>
+        <link href="https://www.youtube.com/watch?v=S2jnnQnx8Jc"/>
+        <updated>2026-02-27T06:13:46.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +76,15 @@
         <updated>2026-02-27T04:36:52.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kainiraye Kadam Tharumo  | Manjupolori Penkutty | Aswathy | Karthik | Sujatha | Alphonse Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=-nCxYF7CjY0</id>
+        <link href="https://www.youtube.com/watch?v=-nCxYF7CjY0"/>
+        <updated>2026-02-27T04:30:00.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
     <entry>
@@ -11802,15 +11838,6 @@
         <link href="https://www.youtube.com/shorts/c-DqObBQLy4"/>
         <updated>2026-01-28T22:00:30.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 29 # Athiravile Prarthana 29th January 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=EB0XiNvKhpw</id>
-        <link href="https://www.youtube.com/watch?v=EB0XiNvKhpw"/>
-        <updated>2026-01-28T19:00:26.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
