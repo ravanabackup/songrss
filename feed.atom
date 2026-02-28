@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T17:10:05.917Z</updated>
+    <updated>2026-02-28T18:15:57.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 1st March 26]]></title>
+        <id>https://www.youtube.com/watch?v=Erm8Iv75q9c</id>
+        <link href="https://www.youtube.com/watch?v=Erm8Iv75q9c"/>
+        <updated>2026-02-28T18:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Yeshu Aarilum  #matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSong]]></title>
         <id>https://www.youtube.com/shorts/IvUI4jJ_rVM</id>
@@ -12093,34 +12102,6 @@
         <updated>2026-01-30T07:05:29.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnanaam Kunnimmel 4K | Mayilppeelikkaavu | Kunchacko Boban | Jomol | KJ Yesudas, KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=oRKvbHtLO50</id>
-        <link href="https://www.youtube.com/watch?v=oRKvbHtLO50"/>
-        <updated>2026-01-30T06:14:24.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mukil Mudi Thidambil Video Song | Dubai | MG Sreekumar | Vidyasagar | Gireesh Puthenchery | Joshiy]]></title>
-        <id>https://www.youtube.com/watch?v=xoi9xu6OUxs</id>
-        <link href="https://www.youtube.com/watch?v=xoi9xu6OUxs"/>
-        <updated>2026-01-30T06:04:27.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midu Midu Midukkan | Rajadhi Raja #mammootty #shortsfeed #shortsvideo  #rimitomy #madhubalakrishnan]]></title>
-        <id>https://www.youtube.com/shorts/onTGe91ubcY</id>
-        <link href="https://www.youtube.com/shorts/onTGe91ubcY"/>
-        <updated>2026-01-30T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
