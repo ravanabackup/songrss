@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T06:31:23.672Z</updated>
+    <updated>2026-03-01T07:24:54.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11941,26 +11941,6 @@
         <updated>2026-01-30T15:30:06.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread |maramon convention songs]]></title>
-        <id>https://www.youtube.com/shorts/AsMLOazzbLI</id>
-        <link href="https://www.youtube.com/shorts/AsMLOazzbLI"/>
-        <updated>2026-01-30T15:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/CSHZ-81UGAk</id>
-        <link href="https://www.youtube.com/shorts/CSHZ-81UGAk"/>
-        <updated>2026-01-30T14:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
     <entry>
