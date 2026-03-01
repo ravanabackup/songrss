@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T14:14:09.267Z</updated>
+    <updated>2026-03-01T15:11:50.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mar Thoma Shayana Namaskaram | ഞങ്ങള്‍ക്കുള്ള കര്‍ത്താവെ | Njangalkulla Karthave | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/zxD3qVlJE8o</id>
+        <link href="https://www.youtube.com/shorts/zxD3qVlJE8o"/>
+        <updated>2026-03-01T15:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeyone Mashihaye | സീയോനെ മശീഹായേ  | Good Friday Song | Maria Kolady | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=UcDpymAcc04</id>
+        <link href="https://www.youtube.com/watch?v=UcDpymAcc04"/>
+        <updated>2026-03-01T15:00:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhoojathikale Vannethi  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/shorts/n9SfhagiPRQ</id>
+        <link href="https://www.youtube.com/shorts/n9SfhagiPRQ"/>
+        <updated>2026-03-01T14:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/X0BXkjgodNM</id>
+        <link href="https://www.youtube.com/shorts/X0BXkjgodNM"/>
+        <updated>2026-03-01T14:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒത്തൊരുമയോടെ ദൈവസന്നിധിയിൽ നമുക്കു പ്രാർത്ഥിക്കാം..]]></title>
+        <id>https://www.youtube.com/watch?v=pynVynFK5gI</id>
+        <link href="https://www.youtube.com/watch?v=pynVynFK5gI"/>
+        <updated>2026-03-01T14:21:36.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarloka Pourajaname | Elizabeth S. Mathew | T K Samuel | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=fTagfme0opI</id>
+        <link href="https://www.youtube.com/watch?v=fTagfme0opI"/>
+        <updated>2026-03-01T14:15:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meesha Trance - Audio | Meesha | Sooraj S. Kurup | Kathir, Hakim Shah, Shine Tom Chacko]]></title>
         <id>https://www.youtube.com/watch?v=iHMKKvGntk4</id>
