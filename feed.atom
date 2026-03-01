@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T20:13:06.808Z</updated>
+    <updated>2026-03-01T21:12:00.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12001,34 +12001,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalvarikkurishin Chuvattil | Sahanathin Vazhiye | Kester | Moly Vakkachan | #newchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=FeasnhkHa_g</id>
-        <link href="https://www.youtube.com/watch?v=FeasnhkHa_g"/>
-        <updated>2026-01-31T09:02:27.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കെസ്റ്റർ ആലപിച്ച മികച്ച 10 ഗാനങ്ങൾ | @JinoKunnumpurathu #malayalamchristiansong #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=xSB2ahXNVpo</id>
-        <link href="https://www.youtube.com/watch?v=xSB2ahXNVpo"/>
-        <updated>2026-01-31T08:57:46.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരിനീല മേഘങ്ങൾ കളിയാടും യാമങ്ങൾ...| Karineela Meghangal | Aval Kathirunnu Avanum | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/shorts/93rIefOBFjA</id>
-        <link href="https://www.youtube.com/shorts/93rIefOBFjA"/>
-        <updated>2026-01-31T08:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
