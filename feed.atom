@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T21:21:55.042Z</updated>
+    <updated>2026-03-02T22:16:36.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/IFaJ5Lw2C0Q</id>
+        <link href="https://www.youtube.com/shorts/IFaJ5Lw2C0Q"/>
+        <updated>2026-03-02T22:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 3rd of March # Athiravile Prarthana 3rd March 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=v8zQnGh49lg</id>
@@ -11898,16 +11908,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevante Margame | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/JVQN1by-mGM</id>
-        <link href="https://www.youtube.com/shorts/JVQN1by-mGM"/>
-        <updated>2026-02-01T09:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
