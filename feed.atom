@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T06:41:08.249Z</updated>
+    <updated>2026-03-02T07:40:41.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശാന്തമായ നിമിഷങ്ങളിൽ മനസ്സിനെ തൊടുന്ന ഗാനങ്ങൾ l Nisari Music l | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Mb4u0QCrG8k</id>
+        <link href="https://www.youtube.com/watch?v=Mb4u0QCrG8k"/>
+        <updated>2026-03-02T07:30:17.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അനുദിനബലി Anudhina Bali Ft. JohnBritto Augustin, Meera Sagin Christian devotional Song Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=jZ5zOW22UDw</id>
@@ -13,6 +22,25 @@
         <updated>2026-03-02T06:33:27.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിദ്യാജിയുടെ മാജിക്കൽ മെലഡീസ് | Magical Melodies | Vidyasagar Melody Songs | Malayalam Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yuv90L5r0kc</id>
+        <link href="https://www.youtube.com/watch?v=yuv90L5r0kc"/>
+        <updated>2026-03-02T06:32:27.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kangal Randum | Iniyum #shorts #iniyum #officialtrailer #trailer]]></title>
+        <id>https://www.youtube.com/shorts/od3szKSpB6g</id>
+        <link href="https://www.youtube.com/shorts/od3szKSpB6g"/>
+        <updated>2026-03-02T06:10:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Millennium Audios</name>
         </author>
     </entry>
     <entry>
@@ -11745,15 +11773,6 @@
         <link href="https://www.youtube.com/shorts/nV8nOv9Nld4"/>
         <updated>2026-01-31T22:00:49.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 1st February # Athiravile Prarthana 1st February 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=RKGGlgWBJFw</id>
-        <link href="https://www.youtube.com/watch?v=RKGGlgWBJFw"/>
-        <updated>2026-01-31T19:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
