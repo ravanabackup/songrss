@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T12:29:56.373Z</updated>
+    <updated>2026-03-02T13:50:54.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minnum Minna Minni Song | No. 1 Snehatheeram Bangalore North Malayalam Movie Song | K. S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=WQ3EKNdfwYI</id>
+        <link href="https://www.youtube.com/watch?v=WQ3EKNdfwYI"/>
+        <updated>2026-03-02T13:50:31.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aararivumthane | ആരറിവും താനേ ഏഴു സ്വരങ്ങളാക്കി |CID Unnikrishnan BA B.ed | Yesudas | P Jayachandran]]></title>
+        <id>https://www.youtube.com/shorts/SfktfaT1f-c</id>
+        <link href="https://www.youtube.com/shorts/SfktfaT1f-c"/>
+        <updated>2026-03-02T13:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zuper Kanmani - Video Song | Masthishka Maranam | Rajisha Vijayan | Varkey |Lillys Thaddeus|Krishand]]></title>
+        <id>https://www.youtube.com/watch?v=4cE0PcRshe0</id>
+        <link href="https://www.youtube.com/watch?v=4cE0PcRshe0"/>
+        <updated>2026-03-02T12:38:28.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Drive Romance - Love Jukebox | Best Malayalam Romantic Songs 💖]]></title>
+        <id>https://www.youtube.com/watch?v=LvzLbqqwEqU</id>
+        <link href="https://www.youtube.com/watch?v=LvzLbqqwEqU"/>
+        <updated>2026-03-02T12:30:28.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നാഥന്റെ തിരുമേനി  |  കുരിശിന്റെവഴി | #jinokunnumpurath | #madhubalakrishnan #shorts | #lent #jesus]]></title>
         <id>https://www.youtube.com/shorts/Ak7Eh5oE3vw</id>
@@ -11850,26 +11887,6 @@
         <updated>2026-02-01T04:30:09.000Z</updated>
         <author>
             <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu Ennadisthanam | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/DADRFnSToqo</id>
-        <link href="https://www.youtube.com/shorts/DADRFnSToqo"/>
-        <updated>2026-02-01T01:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനുഗ്രഹത്തിന്റെ വാതിൽ തുറക്കും | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/6nuOSFKOrtU</id>
-        <link href="https://www.youtube.com/shorts/6nuOSFKOrtU"/>
-        <updated>2026-02-01T00:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
