@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T10:32:56.442Z</updated>
+    <updated>2026-03-02T11:24:44.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aararivumthane | ആരറിവും താനേ ഏഴു സ്വരങ്ങളാക്കി |CID Unnikrishnan BA B.ed | Yesudas | P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=Uxu0nCd-soI</id>
+        <link href="https://www.youtube.com/watch?v=Uxu0nCd-soI"/>
+        <updated>2026-03-02T11:23:26.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വേദനയെ നെഞ്ചോട് ചേർത്തവൻ   |😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/9r-QYC_i-G0</id>
+        <link href="https://www.youtube.com/shorts/9r-QYC_i-G0"/>
+        <updated>2026-03-02T11:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kilippenne Nilaavin | 1080p | Dosth | Dileep | Kavya Madhavan | Anju Aravind]]></title>
+        <id>https://www.youtube.com/shorts/0g1vfS1LUMU</id>
+        <link href="https://www.youtube.com/shorts/0g1vfS1LUMU"/>
+        <updated>2026-03-02T10:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Panjaara Paatupadaum | പഞ്ചാര പാട്ടുപാടും...| Chalakudikkaran Changathi Movie | P Jayachandran]]></title>
         <id>https://www.youtube.com/shorts/c_TAgv0XOVM</id>
