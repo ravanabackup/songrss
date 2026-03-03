@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T22:16:33.576Z</updated>
+    <updated>2026-03-03T23:14:31.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാർച്ച്: 04, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=yP-hJP0kJzE</id>
+        <link href="https://www.youtube.com/watch?v=yP-hJP0kJzE"/>
+        <updated>2026-03-03T22:30:17.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/LdpwoBEe4EU</id>
@@ -11915,43 +11924,6 @@
         <updated>2026-02-02T11:19:25.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Ulludukkum Kotti | Deepasthambham Mahaashcharyam | Yusufali Kecheri | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=2mOvF_ES1fI</id>
-        <link href="https://www.youtube.com/watch?v=2mOvF_ES1fI"/>
-        <updated>2026-02-02T11:07:28.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELLA STHUTHIKALKKUM | ഹൃദയ സ്പർശിയായ ഗാനം | #jinokunnumpurath #shorts]]></title>
-        <id>https://www.youtube.com/shorts/MEKecwmuTts</id>
-        <link href="https://www.youtube.com/shorts/MEKecwmuTts"/>
-        <updated>2026-02-02T10:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samarpita Soonangale | Merin Mary Jimmy | Sr.Bincy Jose CM | Mejo Joseph | #newchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=ZcFKP0vsvmE</id>
-        <link href="https://www.youtube.com/watch?v=ZcFKP0vsvmE"/>
-        <updated>2026-02-02T10:34:47.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gandhi Talks (Malayalam) - Full Album | Vijay Sethupathi | Arvind Swamy | A.R. Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=CEaZ5DKepXU</id>
-        <link href="https://www.youtube.com/watch?v=CEaZ5DKepXU"/>
-        <updated>2026-02-02T10:30:10.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
