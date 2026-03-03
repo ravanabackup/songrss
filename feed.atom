@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T14:34:34.765Z</updated>
+    <updated>2026-03-03T15:36:10.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Shankar Mahadevan | Dayana | Ring Master #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/botDUSVLnS8</id>
+        <link href="https://www.youtube.com/shorts/botDUSVLnS8"/>
+        <updated>2026-03-03T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
         <id>https://www.youtube.com/shorts/La98tk-ZvZo</id>
@@ -11986,24 +11996,6 @@
         <id>https://www.youtube.com/watch?v=6R3cdj2rcdE</id>
         <link href="https://www.youtube.com/watch?v=6R3cdj2rcdE"/>
         <updated>2026-02-02T03:45:36.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POC Audio Bible | St. John | Chapter 15 | Malayalam  Audio Bible | Thiruvachanam | New Testament]]></title>
-        <id>https://www.youtube.com/watch?v=cJZcmD3kp6g</id>
-        <link href="https://www.youtube.com/watch?v=cJZcmD3kp6g"/>
-        <updated>2026-02-02T02:37:56.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POC Audio Bible | St. John | Chapter 14 | Malayalam  Audio Bible | Thiruvachanam | New Testament]]></title>
-        <id>https://www.youtube.com/watch?v=BnEkrwtQx6Y</id>
-        <link href="https://www.youtube.com/watch?v=BnEkrwtQx6Y"/>
-        <updated>2026-02-02T02:35:08.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
         </author>
