@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-04T14:29:45.196Z</updated>
+    <updated>2026-03-04T15:28:10.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mar Thoma Shayana Namaskaram | ഞങ്ങള്‍ക്കുള്ള കര്‍ത്താവെ | Njangalkulla Karthave | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/rKicULc3jrs</id>
+        <link href="https://www.youtube.com/shorts/rKicULc3jrs"/>
+        <updated>2026-03-04T15:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaathe Kaalam - Audio Song | Meesha | Sooraj S. Kurup | Kathir, Hakim Shah, Shine Tom Chacko]]></title>
+        <id>https://www.youtube.com/watch?v=ziYdnHLAqMU</id>
+        <link href="https://www.youtube.com/watch?v=ziYdnHLAqMU"/>
+        <updated>2026-03-04T14:31:45.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhoojathikale Vannethi  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/shorts/f2ifDKNeQi4</id>
+        <link href="https://www.youtube.com/shorts/f2ifDKNeQi4"/>
+        <updated>2026-03-04T14:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Mariyame Njan | ഓ മറിയാമേ | ഈസ്റ്റർ ശുശ്രൂഷ ഗാനങ്ങൾ | Sreya Anna Joseph | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=mizAScq5CQI</id>
+        <link href="https://www.youtube.com/watch?v=mizAScq5CQI"/>
+        <updated>2026-03-04T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നോമ്പുകാല ഗാനങ്ങൾ | Lent Season Songs | #evergreenhits | #lent]]></title>
         <id>https://www.youtube.com/watch?v=NilgkgGIIl8</id>
@@ -891,6 +929,15 @@
         <updated>2026-03-02T11:44:16.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manujathvam Manasakaikondu |Great Lent song 2026 |കഷ്ടാനുഭവ ആഴ്ചയിലെ  ഗീതങ്ങൾ | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/watch?v=aP5H8jzhnhI</id>
+        <link href="https://www.youtube.com/watch?v=aP5H8jzhnhI"/>
+        <updated>2026-03-02T11:30:24.000Z</updated>
+        <author>
+            <name>Music Spread</name>
         </author>
     </entry>
     <entry>
