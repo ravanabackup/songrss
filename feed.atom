@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T12:32:28.475Z</updated>
+    <updated>2026-03-05T13:53:04.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[@SaiAbhyankkar - Pavazha Malli (Music Video ) | Kayadu Lohar | Thejo Bharathwaj | Think Indie]]></title>
+        <id>https://www.youtube.com/watch?v=b68HETiNO98</id>
+        <link href="https://www.youtube.com/watch?v=b68HETiNO98"/>
+        <updated>2026-03-05T13:38:57.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ ചിരപ്രതിഷ്ഠ നേടിയ മലയാളസിനിമയിലെ സുവർണ്ണ ഗാനങ്ങൾ ❤️‍🩹 | OLD GOOD SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=cdv94gbhup8</id>
+        <link href="https://www.youtube.com/watch?v=cdv94gbhup8"/>
+        <updated>2026-03-05T13:30:41.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOURTH SUNDAY OF LENT]]></title>
+        <id>https://www.youtube.com/shorts/P9jcDtL48Dk</id>
+        <link href="https://www.youtube.com/shorts/P9jcDtL48Dk"/>
+        <updated>2026-03-05T13:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pennil Pennaayi | പെണ്ണിൽ പെണ്ണായി...|  Ponnaranjanam Movie | KJ Yesudas | Audio Song]]></title>
+        <id>https://www.youtube.com/shorts/pj71Ed_wqa4</id>
+        <link href="https://www.youtube.com/shorts/pj71Ed_wqa4"/>
+        <updated>2026-03-05T13:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nodi Music Video | Sreekanth Hariharan | Shainu RS | SK Purushothaman]]></title>
         <id>https://www.youtube.com/watch?v=wfYe_TesoAM</id>
@@ -11937,25 +11975,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=5pU4HjRnOds</id>
-        <link href="https://www.youtube.com/watch?v=5pU4HjRnOds"/>
-        <updated>2026-02-04T01:44:07.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin Idayanam Yeshuve | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/i_a_l6O6JAg</id>
-        <link href="https://www.youtube.com/shorts/i_a_l6O6JAg"/>
-        <updated>2026-02-04T01:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
