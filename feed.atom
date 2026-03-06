@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T06:32:40.330Z</updated>
+    <updated>2026-03-06T07:30:36.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enniyenni Chakkakkuru | Vaamanapuram Bus Route | Gireesh Puthenchery | Mohanlal | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=8yQf14l1PZI</id>
+        <link href="https://www.youtube.com/watch?v=8yQf14l1PZI"/>
+        <updated>2026-03-06T06:43:15.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ona Veyil Olangalil| Bombay March 12 | Lyrical+Karaoke Video| M.G.Sreekumar|Afzal Yusuff | Mammootty]]></title>
         <id>https://www.youtube.com/watch?v=eURYcDG1d1c</id>
@@ -11831,15 +11840,6 @@
         <link href="https://www.youtube.com/shorts/ZX_2x4Jcrw4"/>
         <updated>2026-02-04T22:00:43.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 5th of February # Athiravile Prarthana 5th February 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Y_PPhYuPWgs</id>
-        <link href="https://www.youtube.com/watch?v=Y_PPhYuPWgs"/>
-        <updated>2026-02-04T19:00:38.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
