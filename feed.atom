@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T15:25:07.474Z</updated>
+    <updated>2026-03-06T16:24:49.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[𝐊𝐧𝐚𝐧𝐚𝐢𝐭𝐡𝐨 𝐒𝐮𝐧𝐝𝐚𝐲| ക്നാനൊയ്ത്തോ ഞായറാഴ്ച |Fourth Sunday of Great Lent |4th Sunday of Great Lent]]></title>
+        <id>https://www.youtube.com/shorts/gN8JXZrdFgM</id>
+        <link href="https://www.youtube.com/shorts/gN8JXZrdFgM"/>
+        <updated>2026-03-06T15:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devesha Mashiha |Great Lent song 2026 | കഷ്ടാനുഭവ ആഴ്ചയിലെ ആരാധനാ ഗീതങ്ങൾ |Hasha Azcha Geethangal]]></title>
+        <id>https://www.youtube.com/watch?v=KlDqgiA1Y1c</id>
+        <link href="https://www.youtube.com/watch?v=KlDqgiA1Y1c"/>
+        <updated>2026-03-06T15:30:15.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
         <id>https://www.youtube.com/shorts/GEROtkoZnm8</id>
