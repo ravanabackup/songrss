@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T19:25:45.101Z</updated>
+    <updated>2026-03-06T20:18:18.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12003,34 +12003,6 @@
         <updated>2026-02-05T09:39:22.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bogan - Senthoora Video with Lyrics | Jayam Ravi, Hansika | D. Imman]]></title>
-        <id>https://www.youtube.com/watch?v=QfIcr9XebSU</id>
-        <link href="https://www.youtube.com/watch?v=QfIcr9XebSU"/>
-        <updated>2026-02-05T08:00:23.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മറക്കാനാവാത്ത ചലച്ചിത്രഗാനങ്ങൾ l Nisari Music l Yesudas | MG Sreekumar | Unnimenon | Chithra | SPB]]></title>
-        <id>https://www.youtube.com/watch?v=hqGFzZjthfI</id>
-        <link href="https://www.youtube.com/watch?v=hqGFzZjthfI"/>
-        <updated>2026-02-05T07:51:42.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raavu Maayave 🎵🥰]]></title>
-        <id>https://www.youtube.com/shorts/_GvAL4koQMw</id>
-        <link href="https://www.youtube.com/shorts/_GvAL4koQMw"/>
-        <updated>2026-02-05T07:34:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
