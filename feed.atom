@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T14:27:21.822Z</updated>
+    <updated>2026-03-06T15:25:07.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
+        <id>https://www.youtube.com/shorts/GEROtkoZnm8</id>
+        <link href="https://www.youtube.com/shorts/GEROtkoZnm8"/>
+        <updated>2026-03-06T14:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undenikkayoru Mokhshaveedu | ഉണ്ടെനിക്കായൊരു മോക്ഷവീട് |  Parvathy Jageesh | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=4DFkqtAlWWE</id>
+        <link href="https://www.youtube.com/watch?v=4DFkqtAlWWE"/>
+        <updated>2026-03-06T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunjattin Thirurakthathaal   Malayalam Christian Devotional Songs| Malayalam worship songs |]]></title>
         <id>https://www.youtube.com/shorts/zedY6m9cq7E</id>
