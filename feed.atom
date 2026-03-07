@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T19:12:43.455Z</updated>
+    <updated>2026-03-07T20:11:33.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12137,33 +12137,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iru Mugan - Kannai Vittu Video with Lyrics | Vikram, Nayanthara | Harris Jayaraj]]></title>
-        <id>https://www.youtube.com/watch?v=bU7Uxq0ny18</id>
-        <link href="https://www.youtube.com/watch?v=bU7Uxq0ny18"/>
-        <updated>2026-02-06T08:00:49.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇഷ്ടമാണ്… ഈ ഗാനങ്ങൾ കേട്ടാൽ വീണ്ടും വീണ്ടും കേൾക്കാൻ  l Nisari Musicl Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ZSfjDQlVM4k</id>
-        <link href="https://www.youtube.com/watch?v=ZSfjDQlVM4k"/>
-        <updated>2026-02-06T08:00:47.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tik Tik Tik Tik  | Sarkar Dada Video Song | Navaya Nair | Jayaram | MG Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=bul48ww2-5E</id>
-        <link href="https://www.youtube.com/watch?v=bul48ww2-5E"/>
-        <updated>2026-02-06T07:16:43.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
