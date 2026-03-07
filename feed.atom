@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-07T09:17:35.894Z</updated>
+    <updated>2026-03-07T10:12:03.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരിക്കലും മറക്കുവാൻ കഴിയാതെ...| Super Hit  Christian Devotional Song  | Orikkalum Marakkuvan | Jesus]]></title>
+        <id>https://www.youtube.com/watch?v=pDKz0_iboHk</id>
+        <link href="https://www.youtube.com/watch?v=pDKz0_iboHk"/>
+        <updated>2026-03-07T10:01:11.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sehiyon Shalayil | സെഹിയോൻ ശാലയിൽ #christianshorts #lentspecial #christianmusic #jesusshorts #kester]]></title>
+        <id>https://www.youtube.com/shorts/xbkaBvQ1gK4</id>
+        <link href="https://www.youtube.com/shorts/xbkaBvQ1gK4"/>
+        <updated>2026-03-07T09:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poonilaamazha Peythirangiya | Manathe Kottaram | MG Sreekumar | KS Chithra | Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/shorts/sWq1zz58iHQ</id>
@@ -11952,16 +11971,6 @@
         <updated>2026-02-05T22:30:04.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/iZsWRH-AQYI</id>
-        <link href="https://www.youtube.com/shorts/iZsWRH-AQYI"/>
-        <updated>2026-02-05T22:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
