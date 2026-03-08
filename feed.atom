@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T15:12:37.308Z</updated>
+    <updated>2026-03-08T16:14:11.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/bIZJj-ZWkpo</id>
+        <link href="https://www.youtube.com/shorts/bIZJj-ZWkpo"/>
+        <updated>2026-03-08T15:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid Lent 2026 songs | പാതിനോമ്പ് | Paathi Nombu | Great Lent songs | Orthodox Songs | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/BOohrbu6ktw</id>
+        <link href="https://www.youtube.com/shorts/BOohrbu6ktw"/>
+        <updated>2026-03-08T15:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadha Nin Mruthi | നാഥാ നിൻ മൃതി | Orthodox Qurbana Song|Roy Puthur & Maria Kolady|Match Point Faith]]></title>
         <id>https://www.youtube.com/watch?v=SODIgcQl2Es</id>
