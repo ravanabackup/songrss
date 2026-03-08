@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T16:14:11.255Z</updated>
+    <updated>2026-03-08T17:13:42.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mid Lent 2026 songs | പാതിനോമ്പ് | Paathi Nombu | Great Lent songs | Orthodox Songs | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/LEUi9Yv7Tgs</id>
+        <link href="https://www.youtube.com/shorts/LEUi9Yv7Tgs"/>
+        <updated>2026-03-08T16:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Devotional song malayalam | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/bIZJj-ZWkpo</id>
@@ -12112,16 +12122,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roses for love. Music for the soul. 🌹❤️Celebrating #RoseDay with our special Valentine vibe 🎵✨]]></title>
-        <id>https://www.youtube.com/shorts/wtxi4yJNYQ4</id>
-        <link href="https://www.youtube.com/shorts/wtxi4yJNYQ4"/>
-        <updated>2026-02-07T04:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
