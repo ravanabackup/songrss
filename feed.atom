@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T12:22:16.085Z</updated>
+    <updated>2026-03-08T13:32:25.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mid Lent 2026 songs | പാതിനോമ്പ് | Paathi Nombu | Great Lent songs | Orthodox Songs | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/kPBJfFPeLxY</id>
+        <link href="https://www.youtube.com/shorts/kPBJfFPeLxY"/>
+        <updated>2026-03-08T13:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elamalakaadinullil X Mandarappoove | Pathaam Valavu | Kumari | Ranjin Raj | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=VWxtyH6kSbE</id>
+        <link href="https://www.youtube.com/watch?v=VWxtyH6kSbE"/>
+        <updated>2026-03-08T12:30:41.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid Lent 2026 songs | പാതിനോമ്പ് | Paathi Nombu | Great Lent songs | Orthodox songs | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/EZqlO9RTZLQ</id>
+        <link href="https://www.youtube.com/shorts/EZqlO9RTZLQ"/>
+        <updated>2026-03-08T12:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 8th of March 2026]]></title>
         <id>https://www.youtube.com/watch?v=yO3gyLmHUXI</id>
@@ -12053,25 +12082,6 @@
         <updated>2026-02-07T02:40:21.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithiri Chodhichal | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/jJnZj9nEAkA</id>
-        <link href="https://www.youtube.com/shorts/jJnZj9nEAkA"/>
-        <updated>2026-02-07T01:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശാന്തമാവുക Christian Bhajans Ft. Ramesh Murali, Fr Thomas Edayal, Samji Arattupuzha, Fr Saiju]]></title>
-        <id>https://www.youtube.com/watch?v=-aCqwdvNAlw</id>
-        <link href="https://www.youtube.com/watch?v=-aCqwdvNAlw"/>
-        <updated>2026-02-07T00:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
