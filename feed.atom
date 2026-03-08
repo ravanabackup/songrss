@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T13:32:25.645Z</updated>
+    <updated>2026-03-08T14:14:29.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devesha Yeshupara | ദേവേശാ യേശുപരാ | Old Malayalam Christian Song | Mercy Shaju | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/qRjMMJdN0do</id>
+        <link href="https://www.youtube.com/shorts/qRjMMJdN0do"/>
+        <updated>2026-03-08T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mid Lent 2026 songs | പാതിനോമ്പ് | Paathi Nombu | Great Lent songs | Orthodox Songs | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/kPBJfFPeLxY</id>
