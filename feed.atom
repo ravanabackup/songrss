@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-09T13:56:39.175Z</updated>
+    <updated>2026-03-09T14:42:01.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
+        <id>https://www.youtube.com/shorts/Ip2lM-ediCo</id>
+        <link href="https://www.youtube.com/shorts/Ip2lM-ediCo"/>
+        <updated>2026-03-09T14:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs Mashup | Old Malayalam Christian Songs| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/nyH-FibMaxU</id>
+        <link href="https://www.youtube.com/shorts/nyH-FibMaxU"/>
+        <updated>2026-03-09T14:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unnai Thuthikka Paadinen | Dr. Maria Oommen | Kripa Balasubramanian | Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=YpUPm1y3iXU</id>
