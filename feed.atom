@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T19:29:42.392Z</updated>
+    <updated>2026-03-10T20:20:22.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12175,34 +12175,6 @@
         <updated>2026-02-09T09:20:10.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalaivaa - Yaar Indha Saalai Oram Video with Lyrics | Vijay | G.V. Prakash Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=aGygBD2qUNw</id>
-        <link href="https://www.youtube.com/watch?v=aGygBD2qUNw"/>
-        <updated>2026-02-09T08:00:00.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expectation:Chocolate Day = Sharing 🍫❤️Reality: Aval kazhikkum… nammal nokkum 🤤🥲Happy Chocolate Day.]]></title>
-        <id>https://www.youtube.com/shorts/kz_ecuHA7Mc</id>
-        <link href="https://www.youtube.com/shorts/kz_ecuHA7Mc"/>
-        <updated>2026-02-09T07:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹരാഗങ്ങളിൽ ഒഴുകുന്ന ദാസേട്ടനും ചിത്രചേച്ചിയുടെയും ഗാനങ്ങൾl Nisari Music l Malayalam Film Songs l]]></title>
-        <id>https://www.youtube.com/watch?v=rZxyu2UMxv8</id>
-        <link href="https://www.youtube.com/watch?v=rZxyu2UMxv8"/>
-        <updated>2026-02-09T07:45:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
