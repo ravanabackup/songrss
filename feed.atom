@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T15:35:32.336Z</updated>
+    <updated>2026-03-11T16:37:48.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12236,15 +12236,6 @@
         <updated>2026-02-10T05:23:04.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjin Thazhvaravum | Indriyam | Boban Alummoodan | Lena | Vijay Yesudas | Yadhukrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=v8pm6SGVzSE</id>
-        <link href="https://www.youtube.com/watch?v=v8pm6SGVzSE"/>
-        <updated>2026-02-10T04:30:29.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
