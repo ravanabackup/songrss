@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T18:36:20.938Z</updated>
+    <updated>2026-03-12T19:33:41.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer 13th of March # Athiravile Prarthana 13th March 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=OWqUv8UIfGo</id>
+        <link href="https://www.youtube.com/watch?v=OWqUv8UIfGo"/>
+        <updated>2026-03-12T19:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 13th March 26]]></title>
         <id>https://www.youtube.com/watch?v=b3Kt7uwDGAg</id>
@@ -12182,26 +12191,6 @@
         <updated>2026-02-11T07:45:07.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayam Nurungidumbol | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/oQ5FeGj25Vk</id>
-        <link href="https://www.youtube.com/shorts/oQ5FeGj25Vk"/>
-        <updated>2026-02-11T07:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pennum Porattum Trailer - Out Now #newmovie #comedymovies #shorts #trailer]]></title>
-        <id>https://www.youtube.com/shorts/RD1sf1yScbM</id>
-        <link href="https://www.youtube.com/shorts/RD1sf1yScbM"/>
-        <updated>2026-02-11T07:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
