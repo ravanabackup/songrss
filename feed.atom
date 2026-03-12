@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T09:31:16.555Z</updated>
+    <updated>2026-03-12T10:27:20.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thachiledathu Chundan - Kallan Chakkettu | Raveendran | Mammootty, Vani Viswanath]]></title>
+        <id>https://www.youtube.com/watch?v=r_BpB8A8GuE</id>
+        <link href="https://www.youtube.com/watch?v=r_BpB8A8GuE"/>
+        <updated>2026-03-12T10:09:46.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Shreya Ghoshal | Kannoram |  Rathinirvedam  #shreyaghoshal #shortsfeed #shortsvideo]]></title>
+        <id>https://www.youtube.com/shorts/BgiUJXBzL_k</id>
+        <link href="https://www.youtube.com/shorts/BgiUJXBzL_k"/>
+        <updated>2026-03-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee En Sarga Soundaryame | നീ എൻ സർഗ്ഗ സൗന്ദര്യമേ...| Flask Movie | Shaiju Kurup Movie Song]]></title>
         <id>https://www.youtube.com/shorts/6HfxHINZFfs</id>
@@ -12026,16 +12045,6 @@
         <updated>2026-02-10T22:30:09.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/PB_7Qyef7vU</id>
-        <link href="https://www.youtube.com/shorts/PB_7Qyef7vU"/>
-        <updated>2026-02-10T22:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
