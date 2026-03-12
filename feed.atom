@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T00:55:46.824Z</updated>
+    <updated>2026-03-12T03:26:52.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enne Ariyunnavan | Christian Devotional Shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/bO0njqrnrGs</id>
+        <link href="https://www.youtube.com/shorts/bO0njqrnrGs"/>
+        <updated>2026-03-12T01:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Birthday Shreya Ghoshal | Pranayamayi Radha | Aami #shreyaghoshal #shortsfeed #shortsvideo]]></title>
         <id>https://www.youtube.com/shorts/G1Ttre2rsfk</id>
@@ -12001,36 +12011,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maramon Convention 2026 | 131st Maramon Convention | Marthoma Syrian Church]]></title>
-        <id>https://www.youtube.com/shorts/9UjgGWglOTQ</id>
-        <link href="https://www.youtube.com/shorts/9UjgGWglOTQ"/>
-        <updated>2026-02-10T15:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 February 2026]]></title>
-        <id>https://www.youtube.com/shorts/PdQF5RWi3Qk</id>
-        <link href="https://www.youtube.com/shorts/PdQF5RWi3Qk"/>
-        <updated>2026-02-10T14:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം | Maramon Convention song | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/_oC8wtajlCk</id>
-        <link href="https://www.youtube.com/shorts/_oC8wtajlCk"/>
-        <updated>2026-02-10T14:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pranav Muniraj - Sattaiyila Button Illa (Teaser) | Think Indie]]></title>
         <id>https://www.youtube.com/watch?v=1IXiP_OWwLI</id>
         <link href="https://www.youtube.com/watch?v=1IXiP_OWwLI"/>
@@ -12050,41 +12030,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[നീ എവിടെയെങ്കിലും ഒന്ന് പോയി ഒളിക്ക് !!]]></title>
-        <id>https://www.youtube.com/shorts/5jj0rCSJgyg</id>
-        <link href="https://www.youtube.com/shorts/5jj0rCSJgyg"/>
-        <updated>2026-02-10T13:54:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maramon Convention 2026 | 131st Maramon Convention | Mar Thoma church]]></title>
-        <id>https://www.youtube.com/shorts/m-GJLEXOibU</id>
-        <link href="https://www.youtube.com/shorts/m-GJLEXOibU"/>
-        <updated>2026-02-10T13:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[മലയാളികൾക്ക് കേൾക്കാനിഷ്ടമുള്ള പഴയ മനോഹര ഗാനങ്ങൾ💞 | OLD MALAYALAM SONGS @MovieWorldMusic]]></title>
         <id>https://www.youtube.com/watch?v=OsY-bHrO1GY</id>
         <link href="https://www.youtube.com/watch?v=OsY-bHrO1GY"/>
         <updated>2026-02-10T13:30:33.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basavanna - Lyrical | Seetha Payanam (Malayalam) | Dhruva Sarja | Niranjan | Aishwarya Arjun | Arjun]]></title>
-        <id>https://www.youtube.com/watch?v=XoReCd844rY</id>
-        <link href="https://www.youtube.com/watch?v=XoReCd844rY"/>
-        <updated>2026-02-10T13:26:42.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
