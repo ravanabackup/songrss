@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T13:50:42.505Z</updated>
+    <updated>2026-03-13T14:33:50.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manujathvam  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/shorts/tmmBI9OUjrw</id>
+        <link href="https://www.youtube.com/shorts/tmmBI9OUjrw"/>
+        <updated>2026-03-13T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halleluy Halleluya | ഹാലേലൂയ് | Orthodox Qurbana Song | Roy Puthur & Maria Kolady| Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=4Q062iCsyI0</id>
+        <link href="https://www.youtube.com/watch?v=4Q062iCsyI0"/>
+        <updated>2026-03-13T14:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathinte Ekaputhran | Anil Adoor | Shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/_ZlGY8JSNqk</id>
+        <link href="https://www.youtube.com/shorts/_ZlGY8JSNqk"/>
+        <updated>2026-03-13T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sadhu Kochukunj Upadeshi Songs Mashup | Old Malayalam Christian Songs| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/UGRIRV90jbw</id>
+        <link href="https://www.youtube.com/shorts/UGRIRV90jbw"/>
+        <updated>2026-03-13T14:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aalolamakame  | Faces #gopisundar #bkharinarayanan #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/GBx_3mXVEL0</id>
+        <link href="https://www.youtube.com/shorts/GBx_3mXVEL0"/>
+        <updated>2026-03-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunjupavaykkinnallo #dancehits #song|Mohanlal]]></title>
         <id>https://www.youtube.com/shorts/_GXpeMnCywc</id>
@@ -12205,15 +12254,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=uEltH9METGg</id>
-        <link href="https://www.youtube.com/watch?v=uEltH9METGg"/>
-        <updated>2026-02-12T02:32:44.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
