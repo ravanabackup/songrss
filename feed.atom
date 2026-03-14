@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T16:16:25.345Z</updated>
+    <updated>2026-03-14T17:16:06.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/bl1RiadQ-ho</id>
+        <link href="https://www.youtube.com/shorts/bl1RiadQ-ho"/>
+        <updated>2026-03-14T16:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✝️Oh Mariyame Njan..  #matchpointfaith #matchpointcreations #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/Jd5sjVMHuVo</id>
+        <link href="https://www.youtube.com/shorts/Jd5sjVMHuVo"/>
+        <updated>2026-03-14T16:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manujathvam  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
         <id>https://www.youtube.com/shorts/i24BCD87orY</id>
@@ -12295,33 +12315,6 @@
         <updated>2026-02-13T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Video Songs Malayalam | Sreya Jayadeep | Kester | Joji Johns | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=KVm1N1V0OUY</id>
-        <link href="https://www.youtube.com/watch?v=KVm1N1V0OUY"/>
-        <updated>2026-02-13T05:10:33.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ru Ru Ru Ru Song | Pennum Porattum |Rajesh Madhavan |Santhosh T Kuruvilla |Murali Gopi |Dawn Vincent]]></title>
-        <id>https://www.youtube.com/watch?v=PyCuttu7qOI</id>
-        <link href="https://www.youtube.com/watch?v=PyCuttu7qOI"/>
-        <updated>2026-02-13T05:09:00.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innenthe - Video Song | Prakambanam | Ganapathi | Sagar Surya | Bibin Ashok | Vijesh Panathur]]></title>
-        <id>https://www.youtube.com/watch?v=7h_FLA_jXwg</id>
-        <link href="https://www.youtube.com/watch?v=7h_FLA_jXwg"/>
-        <updated>2026-02-13T04:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
