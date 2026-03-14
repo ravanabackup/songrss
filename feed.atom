@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T14:17:18.542Z</updated>
+    <updated>2026-03-14T15:16:30.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manujathvam  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/shorts/i24BCD87orY</id>
+        <link href="https://www.youtube.com/shorts/i24BCD87orY"/>
+        <updated>2026-03-14T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devesha Yeshupara | ദേവേശാ യേശുപരാ | Old Malayalam Christian Song | Mercy Shaju | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/iHPbCH9IS-I</id>
@@ -12312,42 +12322,6 @@
         <updated>2026-02-13T04:30:03.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhivilakkukal Ft. John Britto Augustin, Meera Sagin Christian devotional song]]></title>
-        <id>https://www.youtube.com/watch?v=bcelPN7e3oA</id>
-        <link href="https://www.youtube.com/watch?v=bcelPN7e3oA"/>
-        <updated>2026-02-13T02:38:40.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=aCBjdTFaPnA</id>
-        <link href="https://www.youtube.com/watch?v=aCBjdTFaPnA"/>
-        <updated>2026-02-13T02:30:09.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=QQJS5RfwUGQ</id>
-        <link href="https://www.youtube.com/watch?v=QQJS5RfwUGQ"/>
-        <updated>2026-02-13T02:28:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=oPo3_fVlu38</id>
-        <link href="https://www.youtube.com/watch?v=oPo3_fVlu38"/>
-        <updated>2026-02-13T02:26:41.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
