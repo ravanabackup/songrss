@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T01:00:48.528Z</updated>
+    <updated>2026-03-14T03:59:10.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12169,15 +12169,6 @@
         <updated>2026-02-12T13:30:06.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranav Muniraj - Sattaiyila Button Illa (Music Video) | Acharya Devadeth | Think Indie]]></title>
-        <id>https://www.youtube.com/watch?v=x1pp3fDa7j4</id>
-        <link href="https://www.youtube.com/watch?v=x1pp3fDa7j4"/>
-        <updated>2026-02-12T13:28:07.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
