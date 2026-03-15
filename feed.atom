@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-15T21:16:51.693Z</updated>
+    <updated>2026-03-15T22:15:14.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/UOxZrfyYkxo</id>
+        <link href="https://www.youtube.com/shorts/UOxZrfyYkxo"/>
+        <updated>2026-03-15T22:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novakalum Nombukalam Day 29]]></title>
         <id>https://www.youtube.com/shorts/RpdecfimrM0</id>
@@ -12043,16 +12053,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pennum Porattum - പിന്നാമ്പുറകഥകൾ - Video Out Now #shorts #rajeshmadhavan #sijusunny]]></title>
-        <id>https://www.youtube.com/shorts/Q-DD8Dnr5iE</id>
-        <link href="https://www.youtube.com/shorts/Q-DD8Dnr5iE"/>
-        <updated>2026-02-14T09:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
