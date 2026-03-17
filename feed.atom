@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-17T18:43:17.507Z</updated>
+    <updated>2026-03-17T19:45:38.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer 18th of March # Athiravile Prarthana 18th March 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=BqArUoYDtaU</id>
+        <link href="https://www.youtube.com/watch?v=BqArUoYDtaU"/>
+        <updated>2026-03-17T19:00:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 18th March 26]]></title>
         <id>https://www.youtube.com/watch?v=UjJWe0jGzzs</id>
@@ -11661,6 +11670,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ethethan Kanenn Song | Krishnashtami | Ouseppachan | Charlie Behrain | Abhilash Babu]]></title>
+        <id>https://www.youtube.com/watch?v=Menwmdn9HdU</id>
+        <link href="https://www.youtube.com/watch?v=Menwmdn9HdU"/>
+        <updated>2026-02-17T11:00:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[നോമ്പ്  ക്രൂശിതനോടൊപ്പമുള്ള യാത്രയാണ്   |  😇 | Rev. Aneesh P Joseph |#motivation #trending #shorts]]></title>
         <id>https://www.youtube.com/shorts/xye4RPkjS1U</id>
         <link href="https://www.youtube.com/shorts/xye4RPkjS1U"/>
@@ -12093,15 +12111,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Josh Jawani - Lyrical 4K | Peter (Tamil) | Abhishek Raghavan | Ritvik Muralidhar | Sukesh Shetty]]></title>
-        <id>https://www.youtube.com/watch?v=PXt4g1zhR-I</id>
-        <link href="https://www.youtube.com/watch?v=PXt4g1zhR-I"/>
-        <updated>2026-02-16T07:42:41.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
