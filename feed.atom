@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T14:12:51.071Z</updated>
+    <updated>2026-03-18T15:58:07.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കഷ്ടാനുഭവ ആഴ്ചയിലെ ആരാധനാ ഗീതങ്ങൾ | പീഡാനുഭവവാര ഗീതങ്ങൾ | Passion week songs |Music Spread]]></title>
+        <id>https://www.youtube.com/watch?v=VFjBEQF6X28</id>
+        <link href="https://www.youtube.com/watch?v=VFjBEQF6X28"/>
+        <updated>2026-03-18T15:00:06.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athirukalillathe Uyarunna | അതിരുകളില്ലാത്ത | Malayalam Christian Song | Kester | Match Point Faith|]]></title>
+        <id>https://www.youtube.com/watch?v=wFvE3mQAFqI</id>
+        <link href="https://www.youtube.com/watch?v=wFvE3mQAFqI"/>
+        <updated>2026-03-18T14:45:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലോകം മുഴവൻ ഏറ്റുപാടുന്ന വി.യൗസേപ്പിതാവിന്റെ അത്ഭുതഗാനം, നിയോഗങ്ങളെല്ലാം സമർപ്പിക്കാം #stjoseph]]></title>
+        <id>https://www.youtube.com/shorts/NXe5F_TP-nQ</id>
+        <link href="https://www.youtube.com/shorts/NXe5F_TP-nQ"/>
+        <updated>2026-03-18T14:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vrukshathinmel | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal]]></title>
+        <id>https://www.youtube.com/shorts/uSTiRdmUcz8</id>
+        <link href="https://www.youtube.com/shorts/uSTiRdmUcz8"/>
+        <updated>2026-03-18T14:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunjattin Thirurakthathaal   Malayalam Christian Devotional Songs| Malayalam worship songs |]]></title>
         <id>https://www.youtube.com/shorts/jGIkbaQT3dM</id>
