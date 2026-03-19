@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T19:38:20.819Z</updated>
+    <updated>2026-03-19T20:24:43.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12266,25 +12266,6 @@
         <updated>2026-02-18T09:02:48.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chirakkaala Kamitha | ചിരകാല കാമിത... | Manoradham Movie | Vanijairam | V Dakshinamoorthy Hit Song]]></title>
-        <id>https://www.youtube.com/shorts/VUoksHzZ09E</id>
-        <link href="https://www.youtube.com/shorts/VUoksHzZ09E"/>
-        <updated>2026-02-18T08:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethir Neechal - Local Boys Video with Lyrics | Dhanush, Sivakarthikeyan | Anirudh]]></title>
-        <id>https://www.youtube.com/watch?v=9p-pcV2Xff4</id>
-        <link href="https://www.youtube.com/watch?v=9p-pcV2Xff4"/>
-        <updated>2026-02-18T08:00:11.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
