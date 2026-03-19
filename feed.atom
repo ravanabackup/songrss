@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T16:43:28.326Z</updated>
+    <updated>2026-03-19T17:45:06.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12286,42 +12286,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathalle Pathalle | Ringtone |Video | Jassie Gift| Shaan | Anitha Shaiq | Bala | Megha Nair |Sandhya]]></title>
-        <id>https://www.youtube.com/watch?v=XbgA1eghCmg</id>
-        <link href="https://www.youtube.com/watch?v=XbgA1eghCmg"/>
-        <updated>2026-02-18T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avesa Chuvadukal - Video Song | Ee Thaniniram | Anoop Menon | Pranavam Sasi | Himna Hilari]]></title>
-        <id>https://www.youtube.com/watch?v=c635z43HD1E</id>
-        <link href="https://www.youtube.com/watch?v=c635z43HD1E"/>
-        <updated>2026-02-18T05:28:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandimelam 4K Video Song UHD Remastered | Rajamanikyam | Mammootty | Rahman | Padmapriya]]></title>
-        <id>https://www.youtube.com/watch?v=g807v3NPtZk</id>
-        <link href="https://www.youtube.com/watch?v=g807v3NPtZk"/>
-        <updated>2026-02-18T05:20:57.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chirakkaala Kamitha | ചിരകാല കാമിത... | Manoradham Movie | Vanijairam | V Dakshinamoorthy Hit Song]]></title>
-        <id>https://www.youtube.com/watch?v=8ow-Md-oB2w</id>
-        <link href="https://www.youtube.com/watch?v=8ow-Md-oB2w"/>
-        <updated>2026-02-18T05:16:28.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
