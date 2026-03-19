@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T10:27:58.243Z</updated>
+    <updated>2026-03-19T11:25:43.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ക്രിസ്തുവിന്റെ മുഖം  |😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/CvSiQEK-200</id>
+        <link href="https://www.youtube.com/shorts/CvSiQEK-200"/>
+        <updated>2026-03-19T10:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 30 #shorts #malayalamsongs #feelgoodmusic]]></title>
         <id>https://www.youtube.com/shorts/yQxJI_ep3ak</id>
@@ -421,6 +431,15 @@
         <updated>2026-03-18T12:30:02.000Z</updated>
         <author>
             <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnetic Kannane - Lyrical | Maharaja Hostel | Sajin Cherukayil, Akhil NRD | Aswin Ram]]></title>
+        <id>https://www.youtube.com/watch?v=UoYeE-N5doA</id>
+        <link href="https://www.youtube.com/watch?v=UoYeE-N5doA"/>
+        <updated>2026-03-18T12:04:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12129,15 +12148,6 @@
         <updated>2026-02-17T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഫെബ്രുവരി: 18, വിഭൂതി തിരുനാൾ, വലിയ നോമ്പ് ആരംഭം, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=gTTmdrA7iMw</id>
-        <link href="https://www.youtube.com/watch?v=gTTmdrA7iMw"/>
-        <updated>2026-02-17T22:30:17.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
