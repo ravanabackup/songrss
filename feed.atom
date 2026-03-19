@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T08:28:31.129Z</updated>
+    <updated>2026-03-19T09:31:22.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paadi Thodiyiletho Video Song | Gireesh Puthenchery | Raveendran | KS Chithra | Aaraam Thampuraan]]></title>
+        <id>https://www.youtube.com/watch?v=s9lA5dY0p1M</id>
+        <link href="https://www.youtube.com/watch?v=s9lA5dY0p1M"/>
+        <updated>2026-03-19T08:49:03.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthima Pesaha | Shorts #manoramachristiansongs #christainshorts]]></title>
+        <id>https://www.youtube.com/shorts/kCwsRr4BpBw</id>
+        <link href="https://www.youtube.com/shorts/kCwsRr4BpBw"/>
+        <updated>2026-03-19T08:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മൈലാഞ്ചി വിതറിടും പൊൻപുലരി...| Manath Naranga Chulapole | Pernnalkili | Album Song]]></title>
+        <id>https://www.youtube.com/shorts/KZH9g9qdyyA</id>
+        <link href="https://www.youtube.com/shorts/KZH9g9qdyyA"/>
+        <updated>2026-03-19T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾ ഏറ്റെടുത്ത ക്രിസ്തീയ ഗാനങ്ങൾ | @JinoKunnumpurathu #malayalamchristiansong #lent]]></title>
+        <id>https://www.youtube.com/watch?v=KLdJMp-RQNc</id>
+        <link href="https://www.youtube.com/watch?v=KLdJMp-RQNc"/>
+        <updated>2026-03-19T07:43:44.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Irulil Oru Kaithiri 4K Video Song | Spanish Masala | Udit Narayan | Karthik | Vidyasagar | Dileep]]></title>
         <id>https://www.youtube.com/watch?v=ywUjjlTqrlo</id>
@@ -126,6 +164,15 @@
         <updated>2026-03-19T00:15:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gospel According to Mathew Chapter 1 | Malayalam Audio Bible POC | Thiruvachanam | New Testament]]></title>
+        <id>https://www.youtube.com/watch?v=y-6nPK46CdE</id>
+        <link href="https://www.youtube.com/watch?v=y-6nPK46CdE"/>
+        <updated>2026-03-19T00:13:56.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
