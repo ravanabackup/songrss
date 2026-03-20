@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T10:25:45.855Z</updated>
+    <updated>2026-03-20T11:21:33.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അവനെ ക്രൂശിക്കുക  | 😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/ZrCn2_B62JY</id>
+        <link href="https://www.youtube.com/shorts/ZrCn2_B62JY"/>
+        <updated>2026-03-20T10:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udhayanitha | Indrajith M Raj VNR | Sruthy Sivadas | RAK | Sogar S]]></title>
+        <id>https://www.youtube.com/watch?v=RAlBIH9TBs8</id>
+        <link href="https://www.youtube.com/watch?v=RAlBIH9TBs8"/>
+        <updated>2026-03-20T10:30:20.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuyil Paattil Oonjal 4K Enhanced  | Aparichithan | Mammootty | Sujatha Mohan | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=0cpuImXZgc8</id>
+        <link href="https://www.youtube.com/watch?v=0cpuImXZgc8"/>
+        <updated>2026-03-20T10:30:01.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 31 #shorts #malayalamsongs #feelgoodmusic]]></title>
         <id>https://www.youtube.com/shorts/qepvMfDsMpg</id>
@@ -12180,15 +12208,6 @@
         <updated>2026-02-18T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഫെബ്രുവരി: 19, വിഭൂതി തിരുനാൾ, വലിയ നോമ്പ് ആരംഭം, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=jzUlqKuik4w</id>
-        <link href="https://www.youtube.com/watch?v=jzUlqKuik4w"/>
-        <updated>2026-02-18T22:30:12.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
