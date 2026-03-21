@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T10:14:41.827Z</updated>
+    <updated>2026-03-21T11:13:31.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഭീഷ്മർക്ക് ഗംഭീര വരവേൽപ്പ്  | Bhishmar Resposne | East Coast Vijayan | Dhyan , Vishnu]]></title>
+        <id>https://www.youtube.com/shorts/GT6BV3yBlnw</id>
+        <link href="https://www.youtube.com/shorts/GT6BV3yBlnw"/>
+        <updated>2026-03-21T11:03:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജന ഹൃദയം കീഴടക്കി ഭീഷ്മർ  | Bhishmar Resposne | East Coast Vijayan | Dhyan , Vishnu]]></title>
+        <id>https://www.youtube.com/shorts/278t8pvVVmo</id>
+        <link href="https://www.youtube.com/shorts/278t8pvVVmo"/>
+        <updated>2026-03-21T10:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചതിക്കുന്ന ചങ്ങാതി  |😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/Tzvk96DCXK8</id>
+        <link href="https://www.youtube.com/shorts/Tzvk96DCXK8"/>
+        <updated>2026-03-21T10:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രേക്ഷകരെ കാണാൻ  ഭീഷ്മർ  ടീം എത്തിയപ്പോൾ | Bhishmar Resposne | East Coast Vijayan | Dhyan ,Vishnu]]></title>
+        <id>https://www.youtube.com/shorts/um7PSzj48rs</id>
+        <link href="https://www.youtube.com/shorts/um7PSzj48rs"/>
+        <updated>2026-03-21T10:25:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 32 #shorts #malayalamsongs #feelgoodmusic]]></title>
         <id>https://www.youtube.com/shorts/t7HNNKEv5Dw</id>
@@ -12253,15 +12293,6 @@
         <updated>2026-02-19T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഫെബ്രുവരി: 20, വിഭൂതി തിരുനാൾ, വലിയ നോമ്പ് ആരംഭം, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=8RrzgbPqZBs</id>
-        <link href="https://www.youtube.com/watch?v=8RrzgbPqZBs"/>
-        <updated>2026-02-19T22:30:02.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
