@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T08:20:11.137Z</updated>
+    <updated>2026-03-22T09:20:43.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രണ്ടാം ദിനവും വിജയകുതിപ്പ് തുടർന്ന് ഭീഷ്മർ | Bhishmar Resposne | East Coast Vijayan | Dhyan , Vishnu]]></title>
+        <id>https://www.youtube.com/shorts/x6GaJMImVQk</id>
+        <link href="https://www.youtube.com/shorts/x6GaJMImVQk"/>
+        <updated>2026-03-22T09:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാലക്കാടൻ മണ്ണിൽ ഭീഷ്മർ  വിജയാഘോഷം | Bhishmar Resposne | East Coast Vijayan | Dhyan , Vishnu]]></title>
+        <id>https://www.youtube.com/shorts/aavoUU-QtQY</id>
+        <link href="https://www.youtube.com/shorts/aavoUU-QtQY"/>
+        <updated>2026-03-22T08:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Muraleedhara Mukundha | മുരളീധരാ മുകുന്ദാ...| Aparadhi | S Janaki Song | Sheela Movie | Olden Hit]]></title>
         <id>https://www.youtube.com/shorts/rNtj6nsxubQ</id>
