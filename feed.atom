@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T21:15:15.138Z</updated>
+    <updated>2026-03-22T22:12:56.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/zuOhzoEK4MA</id>
+        <link href="https://www.youtube.com/shorts/zuOhzoEK4MA"/>
+        <updated>2026-03-22T22:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 23rd of March # Athiravile Prarthana 23rd March 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=hrFbplvJexs</id>
@@ -12481,33 +12491,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gardhabha Vahanane | ഓശാന ഗീതങ്ങൾ |  Hosanna / Palm Sunday Song | Sreya Joseph | Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=ZZDxYHZPJK4</id>
-        <link href="https://www.youtube.com/watch?v=ZZDxYHZPJK4"/>
-        <updated>2026-02-21T10:10:41.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njangalkayi Nee Ettoru Peeda | ഞങ്ങള്‍ക്കായി നീ ഏറ്റൊരു |ഹാശാ ഗീതങ്ങൾ|Maria Kolady|Match Point Faith]]></title>
-        <id>https://www.youtube.com/watch?v=RE_OMsMJ54g</id>
-        <link href="https://www.youtube.com/watch?v=RE_OMsMJ54g"/>
-        <updated>2026-02-21T10:00:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sakalam Mochicha | സകലം മോചിച്ച | ഹാശാ ഗീതങ്ങൾ | Maria Kolady | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=O-fyBq2q8yE</id>
-        <link href="https://www.youtube.com/watch?v=O-fyBq2q8yE"/>
-        <updated>2026-02-21T09:58:08.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
