@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T16:42:51.479Z</updated>
+    <updated>2026-03-23T17:41:01.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12554,16 +12554,6 @@
         <updated>2026-02-22T08:00:01.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balarama Kadhakal | Animation Story #animation #balarama #cartoon #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/QDuMcJhcVoM</id>
-        <link href="https://www.youtube.com/shorts/QDuMcJhcVoM"/>
-        <updated>2026-02-22T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
