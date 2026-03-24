@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T18:44:19.703Z</updated>
+    <updated>2026-03-24T19:44:46.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer 25th of March # Athiravile Prarthana 25th March 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=r6_t27d4Gv0</id>
+        <link href="https://www.youtube.com/watch?v=r6_t27d4Gv0"/>
+        <updated>2026-03-24T19:00:48.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 25th March 26]]></title>
         <id>https://www.youtube.com/watch?v=JXmfk7r9qr8</id>
@@ -12749,24 +12758,6 @@
         <updated>2026-02-23T08:08:29.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 നോമ്പിൽ കേൾക്കാം ഈ ഗാനങ്ങൾ |  @JinoKunnumpurathu   #malayalamchristiansong #lent]]></title>
-        <id>https://www.youtube.com/watch?v=-CshcFHLX9E</id>
-        <link href="https://www.youtube.com/watch?v=-CshcFHLX9E"/>
-        <updated>2026-02-23T07:03:00.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakke Kakke Kavathikkakke | കക്ക കക്ക കാവതിക്കാക്കേ..| Diavtheyorthu Movie | MG Sreekumar | Urvashi]]></title>
-        <id>https://www.youtube.com/watch?v=vhFUfoP4kCs</id>
-        <link href="https://www.youtube.com/watch?v=vhFUfoP4kCs"/>
-        <updated>2026-02-23T06:51:58.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
