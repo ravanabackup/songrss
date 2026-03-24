@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T17:45:11.932Z</updated>
+    <updated>2026-03-24T18:44:19.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 25th March 26]]></title>
+        <id>https://www.youtube.com/watch?v=JXmfk7r9qr8</id>
+        <link href="https://www.youtube.com/watch?v=JXmfk7r9qr8"/>
+        <updated>2026-03-24T18:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നാല്‌പതാം വെള്ളി | Passion Week Songs | 40th Friday Song | My Lord]]></title>
         <id>https://www.youtube.com/shorts/WioPBhoBD1w</id>
@@ -12758,25 +12767,6 @@
         <updated>2026-02-23T06:51:58.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulluvan Paattu 🐍]]></title>
-        <id>https://www.youtube.com/shorts/1zEuPL0Vz3U</id>
-        <link href="https://www.youtube.com/shorts/1zEuPL0Vz3U"/>
-        <updated>2026-02-23T06:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayavaniyile Gaayikayo Video Song | Kottayam Kunjachan | KJ Yesudas | Sindhu Devi | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=Gr0mdLh6w0U</id>
-        <link href="https://www.youtube.com/watch?v=Gr0mdLh6w0U"/>
-        <updated>2026-02-23T05:51:48.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
