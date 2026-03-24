@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T01:00:04.860Z</updated>
+    <updated>2026-03-24T03:34:34.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mundiri Paadam | Kochi Rajavu  #Video #Dileep #KavyaMadhavan #UditNarayan #Sujatha #Vidyasagar]]></title>
+        <id>https://www.youtube.com/shorts/QVonp7Dq58U</id>
+        <link href="https://www.youtube.com/shorts/QVonp7Dq58U"/>
+        <updated>2026-03-24T03:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just another glimpse from the #PavazhaMalli sets 🎶✨ #SaiAbhyankkar #KayaduLohar #ThinkIndie]]></title>
+        <id>https://www.youtube.com/shorts/P1o2GmQfiZQ</id>
+        <link href="https://www.youtube.com/shorts/P1o2GmQfiZQ"/>
+        <updated>2026-03-24T02:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karthave Kripa | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
+        <id>https://www.youtube.com/shorts/UDutFVPSD50</id>
+        <link href="https://www.youtube.com/shorts/UDutFVPSD50"/>
+        <updated>2026-03-24T01:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 24th of March 2026 # Mathavinte Japamala # Dhukhathinte Rahasyangal 24th of March 2026]]></title>
         <id>https://www.youtube.com/watch?v=noHHyP9BIZg</id>
@@ -12479,42 +12509,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Varuvin Priyarae | വരുവിൻ പ്രിയരേ | Passion Week Songs | Good Friday Song]]></title>
-        <id>https://www.youtube.com/shorts/jkQP57QHtkQ</id>
-        <link href="https://www.youtube.com/shorts/jkQP57QHtkQ"/>
-        <updated>2026-02-22T14:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22 February 2026]]></title>
-        <id>https://www.youtube.com/shorts/-1UJGYk7BRo</id>
-        <link href="https://www.youtube.com/shorts/-1UJGYk7BRo"/>
-        <updated>2026-02-22T14:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vishwasikal Njangalkku | വിശ്വാസികൾ ഞങ്ങൾക്ക | Good Friday Song | Maria Kolady | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=-XN62nrKg18</id>
         <link href="https://www.youtube.com/watch?v=-XN62nrKg18"/>
         <updated>2026-02-22T13:45:06.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innu Pakal Muzhuvan | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/5TL4fTvTW6k</id>
-        <link href="https://www.youtube.com/shorts/5TL4fTvTW6k"/>
-        <updated>2026-02-22T13:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
