@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-25T16:56:00.330Z</updated>
+    <updated>2026-03-25T17:49:15.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12921,55 +12921,6 @@
         <updated>2026-02-24T08:16:37.000Z</updated>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's vibe to #JoshJawani 🎶✨ #Peter (Malayalam) #RitvikMuralidhar]]></title>
-        <id>https://www.youtube.com/shorts/el6Szn2-bS8</id>
-        <link href="https://www.youtube.com/shorts/el6Szn2-bS8"/>
-        <updated>2026-02-24T05:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's vibe to #JoshJawani 🎶✨ #Peter (Tamil) #RitvikMuralidhar]]></title>
-        <id>https://www.youtube.com/shorts/d91HQdxZmvs</id>
-        <link href="https://www.youtube.com/shorts/d91HQdxZmvs"/>
-        <updated>2026-02-24T05:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalolam | Sujatha | Rathrimazha #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/iIFDWDVARLQ</id>
-        <link href="https://www.youtube.com/shorts/iIFDWDVARLQ"/>
-        <updated>2026-02-24T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennakallil NinneKothi |  Pattalam #dancehits]]></title>
-        <id>https://www.youtube.com/shorts/FaKM3pgh3Bs</id>
-        <link href="https://www.youtube.com/shorts/FaKM3pgh3Bs"/>
-        <updated>2026-02-24T05:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raka Raka Raka Song | Pennum Porattum | Rajesh Madhavan | STK | Binu George | Dawn Vincent]]></title>
-        <id>https://www.youtube.com/watch?v=uTIXD1rRBMk</id>
-        <link href="https://www.youtube.com/watch?v=uTIXD1rRBMk"/>
-        <updated>2026-02-24T04:58:26.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
