@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-25T15:57:15.532Z</updated>
+    <updated>2026-03-25T16:56:00.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/rC10p8yPtR8</id>
+        <link href="https://www.youtube.com/shorts/rC10p8yPtR8"/>
+        <updated>2026-03-25T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nombum Praarthanayum  | Passion Week Songs | 40th Friday Song | My Lord]]></title>
         <id>https://www.youtube.com/shorts/pJXq3NPnkBE</id>
@@ -12960,25 +12970,6 @@
         <updated>2026-02-24T04:58:26.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അമ്പലപ്പുഴെ ഉണ്ണിക്കണ്ണനോട് നീ | Adhwaytham | K. S.Chithra, M.G Sreekumar]]></title>
-        <id>https://www.youtube.com/shorts/HCEdzqFD7Mo</id>
-        <link href="https://www.youtube.com/shorts/HCEdzqFD7Mo"/>
-        <updated>2026-02-24T04:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Kaatham akaleyanegilum | ആയിരം കാതമകലെയാണെങ്കിലും...| Harshabashpam Movie | KJ Yesudas Song]]></title>
-        <id>https://www.youtube.com/watch?v=kg9W2sScVLw</id>
-        <link href="https://www.youtube.com/watch?v=kg9W2sScVLw"/>
-        <updated>2026-02-24T04:25:43.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
