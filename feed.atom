@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T08:40:02.793Z</updated>
+    <updated>2026-03-26T09:50:01.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 37 #shorts #malayalamsongs #feelgoodmusic]]></title>
+        <id>https://www.youtube.com/shorts/kvKB0QMV7AE</id>
+        <link href="https://www.youtube.com/shorts/kvKB0QMV7AE"/>
+        <updated>2026-03-26T09:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premamennalenthu | പ്രേമമെന്നാലെന്ത്...| Ice Cream Movie | Sharath | Johnson Master Hits]]></title>
         <id>https://www.youtube.com/shorts/yCtG8pFP6QU</id>
@@ -100,6 +110,15 @@
         <updated>2026-03-26T05:59:36.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeyone Mashihaye | Maria Kolady | Sreya Anna Joseph | Malayalam Christian Songs | Hasha Songs]]></title>
+        <id>https://www.youtube.com/watch?v=67mFHLtuqrQ</id>
+        <link href="https://www.youtube.com/watch?v=67mFHLtuqrQ"/>
+        <updated>2026-03-26T05:53:47.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
