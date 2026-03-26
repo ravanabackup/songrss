@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T10:40:29.697Z</updated>
+    <updated>2026-03-26T11:39:34.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mashiha Skeepa Mruthi | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
+        <id>https://www.youtube.com/shorts/pqYe-0AS3uA</id>
+        <link href="https://www.youtube.com/shorts/pqYe-0AS3uA"/>
+        <updated>2026-03-26T11:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manju Koottikal | മഞ്ഞു കൂട്ടികൾ...| Welcome To Kodaikanal | MG Sreekumar Song | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=iUMBgrQOjIE</id>
+        <link href="https://www.youtube.com/watch?v=iUMBgrQOjIE"/>
+        <updated>2026-03-26T11:30:41.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 26th of March 2026]]></title>
+        <id>https://www.youtube.com/watch?v=CGj0DytzVJE</id>
+        <link href="https://www.youtube.com/watch?v=CGj0DytzVJE"/>
+        <updated>2026-03-26T11:30:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pesaha Vyazham |Pesaha song|  |Maundy Thursday song| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/gUrpEEznsbE</id>
+        <link href="https://www.youtube.com/shorts/gUrpEEznsbE"/>
+        <updated>2026-03-26T11:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മുള്ളുകൾ  | 😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
         <id>https://www.youtube.com/shorts/sNJo_VKhqGU</id>
@@ -12726,43 +12764,6 @@
         <updated>2026-02-25T01:01:46.000Z</updated>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുരിശിന്റെ വഴിയിലെ കരുണഗീതങ്ങൾ | Manoj Christy | Lent Songs Malayalam | Joji Johns | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=p_uBXjP2WVY</id>
-        <link href="https://www.youtube.com/watch?v=p_uBXjP2WVY"/>
-        <updated>2026-02-24T23:30:30.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 25th of February 2026 # Mathavinte Japamala #mahimayuderahasyangal 25th of February 2026]]></title>
-        <id>https://www.youtube.com/watch?v=zzZ3etMbeHs</id>
-        <link href="https://www.youtube.com/watch?v=zzZ3etMbeHs"/>
-        <updated>2026-02-24T23:30:24.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novakalum Nombukalam Day 10]]></title>
-        <id>https://www.youtube.com/shorts/30UR4SomGM0</id>
-        <link href="https://www.youtube.com/shorts/30UR4SomGM0"/>
-        <updated>2026-02-24T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karthave Nin Thirusannidhi | Prathyasha Geethangal | Kester | Praise and Worship Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=5xNV2t4J4jI</id>
-        <link href="https://www.youtube.com/watch?v=5xNV2t4J4jI"/>
-        <updated>2026-02-24T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
