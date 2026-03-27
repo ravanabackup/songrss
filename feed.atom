@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-27T22:19:17.540Z</updated>
+    <updated>2026-03-27T23:20:28.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാർച്ച്: 28, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=NfA0dvzUZPk</id>
+        <link href="https://www.youtube.com/watch?v=NfA0dvzUZPk"/>
+        <updated>2026-03-27T22:30:05.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/yukBsB8FgTE</id>
@@ -12991,34 +13000,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Popular Lent Season Songs | #JinoKunnumpurathu #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=lsrpF3CPNBU</id>
-        <link href="https://www.youtube.com/watch?v=lsrpF3CPNBU"/>
-        <updated>2026-02-26T11:12:54.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുരിശിലെ സ്നേഹം   |😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/Rkb1HEplrQc</id>
-        <link href="https://www.youtube.com/shorts/Rkb1HEplrQc"/>
-        <updated>2026-02-26T10:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spa - Official Trailer | Abrid Shine | Ishaan Chhabra]]></title>
-        <id>https://www.youtube.com/watch?v=2zf8PYcU3g0</id>
-        <link href="https://www.youtube.com/watch?v=2zf8PYcU3g0"/>
-        <updated>2026-02-26T10:30:02.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
