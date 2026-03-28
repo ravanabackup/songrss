@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T09:25:01.042Z</updated>
+    <updated>2026-03-28T10:19:50.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs that are literally "സമാധാനം" 🌸☺️ Day 39 #shorts #malayalamsongs #feelgoodmusic]]></title>
+        <id>https://www.youtube.com/shorts/i0z5BA2iLaA</id>
+        <link href="https://www.youtube.com/shorts/i0z5BA2iLaA"/>
+        <updated>2026-03-28T10:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വലിയാഴ്ച ഗാനങ്ങൾ | @JinoKunnumpurathu #malayalamchristiansong #zionclassics #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=MCM_mUWTmMU</id>
+        <link href="https://www.youtube.com/watch?v=MCM_mUWTmMU"/>
+        <updated>2026-03-28T09:08:59.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chirimani Mulle #dancehits #movie #love #dancemusic]]></title>
         <id>https://www.youtube.com/shorts/LC4qBKfPz90</id>
@@ -12970,16 +12989,6 @@
         <updated>2026-02-26T22:30:03.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/yfCVnNNT56Y</id>
-        <link href="https://www.youtube.com/shorts/yfCVnNNT56Y"/>
-        <updated>2026-02-26T22:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
