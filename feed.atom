@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T20:16:15.650Z</updated>
+    <updated>2026-03-28T21:18:54.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13217,44 +13217,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faces | Official Movie Trailer | Neelesh E K | Kalesh Ramanand | Gopi Sundar | Sri Angalamman Films]]></title>
-        <id>https://www.youtube.com/watch?v=gJNRNT8a5EA</id>
-        <link href="https://www.youtube.com/watch?v=gJNRNT8a5EA"/>
-        <updated>2026-02-27T09:08:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golgotha Malayil | Christian Devotional Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/x0iV6gX_gwU</id>
-        <link href="https://www.youtube.com/shorts/x0iV6gX_gwU"/>
-        <updated>2026-02-27T09:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചലചിത്രഗീതങ്ങൾ | Nisari Music l  മനസ്സിൽ പതിഞ്ഞ മനോഹര ഗാനങ്ങൾ l Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=x_x80aSZtaw</id>
-        <link href="https://www.youtube.com/watch?v=x_x80aSZtaw"/>
-        <updated>2026-02-27T08:45:05.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pottividaran Thudangunnu | പൊട്ടിവിടരാൻ തുടങ്ങുന്നു...| Hrudhayathil Nee Mathram | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/shorts/FaI6fouQEAo</id>
-        <link href="https://www.youtube.com/shorts/FaI6fouQEAo"/>
-        <updated>2026-02-27T08:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
