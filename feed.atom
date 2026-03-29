@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T11:18:29.082Z</updated>
+    <updated>2026-03-29T12:27:54.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sleeba Tholinmel   | Passion Week Songs | Good Friday Song Malayalam | My Lord]]></title>
+        <id>https://www.youtube.com/shorts/iULglWGWlaU</id>
+        <link href="https://www.youtube.com/shorts/iULglWGWlaU"/>
+        <updated>2026-03-29T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 29th of March 2026]]></title>
+        <id>https://www.youtube.com/watch?v=cpawZFz0cs0</id>
+        <link href="https://www.youtube.com/watch?v=cpawZFz0cs0"/>
+        <updated>2026-03-29T11:30:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Years of Celebration in Music Production & Distribution Ep:51 @ZionClassics  Udanjupoyoru]]></title>
+        <id>https://www.youtube.com/shorts/dHI_8gbmud8</id>
+        <link href="https://www.youtube.com/shorts/dHI_8gbmud8"/>
+        <updated>2026-03-29T11:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mashiha Skeepa Mruthi | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
+        <id>https://www.youtube.com/shorts/AVkj66HulaQ</id>
+        <link href="https://www.youtube.com/shorts/AVkj66HulaQ"/>
+        <updated>2026-03-29T11:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pesaha Vyazham |Pesaha song|  |Maundy Thursday song| Music Spread]]></title>
         <id>https://www.youtube.com/shorts/VD6ADeouA6Q</id>
@@ -13268,33 +13307,6 @@
         <updated>2026-02-28T00:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel According to Mathew Chapter 7 | Holy Bible Reading | New Testament | Malayalam Audio Bible]]></title>
-        <id>https://www.youtube.com/watch?v=WV1SCqQo1UA</id>
-        <link href="https://www.youtube.com/watch?v=WV1SCqQo1UA"/>
-        <updated>2026-02-28T00:15:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 28th of February 2026 # Mathavinte Japamala #Santhoshathinterahasyangal 28th of February 26]]></title>
-        <id>https://www.youtube.com/watch?v=rMAaXY17PDs</id>
-        <link href="https://www.youtube.com/watch?v=rMAaXY17PDs"/>
-        <updated>2026-02-27T23:30:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയം നിറക്കുന്ന പ്രത്യാശ ഗീതങ്ങൾ | Prathyasha Geethangal | MG Sreekumar | Christian Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=INAape3wwxA</id>
-        <link href="https://www.youtube.com/watch?v=INAape3wwxA"/>
-        <updated>2026-02-27T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
