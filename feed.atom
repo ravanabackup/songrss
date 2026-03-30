@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T16:50:10.641Z</updated>
+    <updated>2026-03-30T17:41:58.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pesaha Vyazham |Pesaha song|  |Maundy Thursday song| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/UMwqOlXgi9Y</id>
+        <link href="https://www.youtube.com/shorts/UMwqOlXgi9Y"/>
+        <updated>2026-03-30T17:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പെസഹ ശുശ്രൂഷ ഗീതങ്ങൾ | Orthodox Pesaha / Maundy Thursday Songs | |വലിയ നോമ്പ് | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/ylcj75kjBfU</id>
@@ -13683,25 +13693,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adakachakko | Ayyappanum Kossiyum #djremix #shortsfeed #shortsvideo #reels #filmsongs #shorts #remix]]></title>
-        <id>https://www.youtube.com/shorts/IE5xABn4Ilw</id>
-        <link href="https://www.youtube.com/shorts/IE5xABn4Ilw"/>
-        <updated>2026-03-01T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മറക്കിലൊരിക്കലും ഈ ഗാനങ്ങൾ | Nisari Music | Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dD0Lps89aaU</id>
-        <link href="https://www.youtube.com/watch?v=dD0Lps89aaU"/>
-        <updated>2026-03-01T05:15:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
