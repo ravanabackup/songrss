@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T21:31:07.198Z</updated>
+    <updated>2026-04-01T22:24:48.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/tXiMHBauEtU</id>
+        <link href="https://www.youtube.com/shorts/tXiMHBauEtU"/>
+        <updated>2026-04-01T22:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 2 # Athiravile Prarthana 2nd April 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=oo4AxOgaRS8</id>
@@ -14187,35 +14197,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുണുക്കുപെണ്മണിയെ | Kunuku Penmaniye| Mr.Butler Malayalam Movie Song| Innocent | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=Vu5p18qfbPg</id>
-        <link href="https://www.youtube.com/watch?v=Vu5p18qfbPg"/>
-        <updated>2026-03-03T10:13:05.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanuka Neeyee Karunyavane | Christian Devotional Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/ciutLY4K7w8</id>
-        <link href="https://www.youtube.com/shorts/ciutLY4K7w8"/>
-        <updated>2026-03-03T10:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rikshawala Ooh Rikshawala | Chirikudukka Movie | P Jayachandran | P Susheela Song]]></title>
-        <id>https://www.youtube.com/shorts/ozurNEoAmiM</id>
-        <link href="https://www.youtube.com/shorts/ozurNEoAmiM"/>
-        <updated>2026-03-03T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
