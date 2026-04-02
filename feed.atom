@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T19:39:38.001Z</updated>
+    <updated>2026-04-02T20:22:54.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14518,25 +14518,6 @@
         <updated>2026-03-04T08:36:03.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punyangal Pookkunna Parishudha Maasam | പുണ്യങ്ങൾ പൂക്കുന്ന...| Perunnalkkili Album | Shafi Kollam]]></title>
-        <id>https://www.youtube.com/shorts/P7XnTPfAeMU</id>
-        <link href="https://www.youtube.com/shorts/P7XnTPfAeMU"/>
-        <updated>2026-03-04T08:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fantasia Men - Ayyayyo Video with Lyrics | Shanmukh Jaswanth | Vinay Shanmukh]]></title>
-        <id>https://www.youtube.com/watch?v=Jy-FOqpbU94</id>
-        <link href="https://www.youtube.com/watch?v=Jy-FOqpbU94"/>
-        <updated>2026-03-04T08:00:31.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
