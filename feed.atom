@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T08:45:28.787Z</updated>
+    <updated>2026-04-02T09:48:49.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[✝️Good Friday Bible Reading🎙️Fr. Sony V Mani #matchpointfaith #matchpointcreations]]></title>
+        <id>https://www.youtube.com/shorts/IRWUaG9x_3s</id>
+        <link href="https://www.youtube.com/shorts/IRWUaG9x_3s"/>
+        <updated>2026-04-02T09:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ishtamalle Ishtamalle 4K Video Song | Chocolate | Shahabaz Aman | Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=rXX8B4TOjuA</id>
+        <link href="https://www.youtube.com/watch?v=rXX8B4TOjuA"/>
+        <updated>2026-04-02T09:30:00.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inakkamo Pinakkamo | ഇണക്കമോ പിണക്കമോ...| Lisa Movie | KJ Yesudas | Prem Nazir Movie | Olden Hit]]></title>
         <id>https://www.youtube.com/shorts/DjQc7EcKQKM</id>
