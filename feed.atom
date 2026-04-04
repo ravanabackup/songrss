@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T17:20:10.788Z</updated>
+    <updated>2026-04-04T18:24:03.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14873,33 +14873,6 @@
         <updated>2026-03-06T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yo Baddie - Lyrical Music Video | Jeffin Jestin | MC Mushti]]></title>
-        <id>https://www.youtube.com/watch?v=8JThc9Rk7C4</id>
-        <link href="https://www.youtube.com/watch?v=8JThc9Rk7C4"/>
-        <updated>2026-03-06T05:58:59.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Mama Chandamama | Lyrical + Karaoke Video | Rock N Roll | Anitha  | Girish Puthenchery | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=YsA7rOMS9yM</id>
-        <link href="https://www.youtube.com/watch?v=YsA7rOMS9yM"/>
-        <updated>2026-03-06T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഗാനവിസ്മയം l മനസ്സിന്റെ നിത്യഹരിത ഗാനങ്ങൾ l  Evergreen Malayalam Film Songs l Nisari Music]]></title>
-        <id>https://www.youtube.com/watch?v=271_xI1ce2U</id>
-        <link href="https://www.youtube.com/watch?v=271_xI1ce2U"/>
-        <updated>2026-03-06T05:30:00.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
