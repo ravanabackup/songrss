@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T21:19:37.783Z</updated>
+    <updated>2026-04-04T22:16:06.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hridaya  Kavadam |  Happy Easter | #jinokunnumpurath #easter #shorts]]></title>
+        <id>https://www.youtube.com/shorts/33lVZN1KUrA</id>
+        <link href="https://www.youtube.com/shorts/33lVZN1KUrA"/>
+        <updated>2026-04-04T21:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alivodu Nadha അലിവോട് നാഥാ Ft. John Britto Augustin, Anil Bhaskar, Shine Christian devotional songs]]></title>
+        <id>https://www.youtube.com/watch?v=_H20dpN4_QY</id>
+        <link href="https://www.youtube.com/watch?v=_H20dpN4_QY"/>
+        <updated>2026-04-04T21:26:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 5 # Athiravile Prarthana 5th of April 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=9zpT5Src6mU</id>
@@ -14790,15 +14809,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു മുറൈ വന്തു പാർത്തായാ | Oru Murai Vanthu | Manichithrathazhu | Shobana | Mohanlal | Suresh Gopi]]></title>
-        <id>https://www.youtube.com/watch?v=_yuEu-naAa0</id>
-        <link href="https://www.youtube.com/watch?v=_yuEu-naAa0"/>
-        <updated>2026-03-06T10:05:22.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
