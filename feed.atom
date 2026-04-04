@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T10:21:24.302Z</updated>
+    <updated>2026-04-04T11:18:34.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vote 4K Video Song | Classmates | MG Sreekumar | Pradeep| Prithviraj | Jayasurya | Kavya | Indrajith]]></title>
+        <id>https://www.youtube.com/watch?v=LgAdC2LrfnU</id>
+        <link href="https://www.youtube.com/watch?v=LgAdC2LrfnU"/>
+        <updated>2026-04-04T10:38:03.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സന്തോഷിക്കാം ഈ ഈസ്റ്റർ ഗാനങ്ങൾ കേട്ടുകൊണ്ട് | @JinoKunnumpurathu | #easter #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=JYB53VbzVDg</id>
+        <link href="https://www.youtube.com/watch?v=JYB53VbzVDg"/>
+        <updated>2026-04-04T10:30:11.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈസ്റ്റർ ദിനത്തിൽ കേൾക്കാൻ പറ്റിയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #easter #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=pzYgrdBxT7I</id>
+        <link href="https://www.youtube.com/watch?v=pzYgrdBxT7I"/>
+        <updated>2026-04-04T09:49:40.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈസ്റ്റർ ദിന ഗാനങ്ങൾ | 2026 Easter Special Songs | ഉയിർപ്പുദിന ഗാനങ്ങൾ | Jesus Resurrection Songs]]></title>
         <id>https://www.youtube.com/watch?v=CI-4UHf4830</id>
@@ -530,6 +557,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O Je Maane Naa Maana - Video Song | Spa | Abrid Shine | Ishaan Chhabra]]></title>
+        <id>https://www.youtube.com/watch?v=7YZQYX7AD6U</id>
+        <link href="https://www.youtube.com/watch?v=7YZQYX7AD6U"/>
+        <updated>2026-04-03T08:55:44.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -14641,15 +14677,6 @@
         <updated>2026-03-05T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 06, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=pBP8ICEmh3w</id>
-        <link href="https://www.youtube.com/watch?v=pBP8ICEmh3w"/>
-        <updated>2026-03-05T22:30:14.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
