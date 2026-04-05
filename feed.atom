@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-05T10:21:08.115Z</updated>
+    <updated>2026-04-05T11:19:27.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉയിപ്പ് തിരുന്നാൾ  |   😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/vic-rwTDTsI</id>
+        <link href="https://www.youtube.com/shorts/vic-rwTDTsI"/>
+        <updated>2026-04-05T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thudarchayaay | Biju Narayanan | Kester | Christian Devotional Songs | Praise and Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kbQYZk_yV8w</id>
+        <link href="https://www.youtube.com/watch?v=kbQYZk_yV8w"/>
+        <updated>2026-04-05T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chocolate Poleyulla 4K Video Song | Chocolate | Prithviraj Sukumaran| Roma |MG Sreekumar | Rimi Tomy]]></title>
         <id>https://www.youtube.com/watch?v=3R6MIhkITyQ</id>
@@ -14769,25 +14788,6 @@
         <updated>2026-03-06T23:30:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novakalum Nombukalam Day 20]]></title>
-        <id>https://www.youtube.com/shorts/hHgJ6r9xt6I</id>
-        <link href="https://www.youtube.com/shorts/hHgJ6r9xt6I"/>
-        <updated>2026-03-06T22:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 07, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=6t1VjC-m1KY</id>
-        <link href="https://www.youtube.com/watch?v=6t1VjC-m1KY"/>
-        <updated>2026-03-06T22:30:03.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
