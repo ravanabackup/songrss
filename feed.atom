@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-06T08:15:19.284Z</updated>
+    <updated>2026-04-06T09:57:49.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ ഇടംനേടിയ ക്രിസ്തീയ ഗാനങ്ങൾ  | @JinoKunnumpurathu #malayalamchristiansong #zionclassics]]></title>
+        <id>https://www.youtube.com/watch?v=v3XI4aXx95E</id>
+        <link href="https://www.youtube.com/watch?v=v3XI4aXx95E"/>
+        <updated>2026-04-06T09:15:48.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunjilam Chundil | കുഞ്ഞിളം ചുണ്ടിൽ..| Gayathri Devi Ente Amma Movie | P Susheela | Sathyan Anthikad]]></title>
+        <id>https://www.youtube.com/shorts/hgUBOZ_VjEQ</id>
+        <link href="https://www.youtube.com/shorts/hgUBOZ_VjEQ"/>
+        <updated>2026-04-06T08:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇനിയൊന്നു പാടൂ ഹൃദയമേ | Heart Touching Malayalam Film Songs | Feel the Music l]]></title>
         <id>https://www.youtube.com/watch?v=PqqafwsccH8</id>
