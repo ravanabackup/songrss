@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T22:25:53.474Z</updated>
+    <updated>2026-04-07T23:27:08.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/KeWmQaMzxGs</id>
+        <link href="https://www.youtube.com/shorts/KeWmQaMzxGs"/>
+        <updated>2026-04-07T23:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ 08, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=UCqOwrLwuxs</id>
+        <link href="https://www.youtube.com/watch?v=UCqOwrLwuxs"/>
+        <updated>2026-04-07T22:30:15.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 8 # Athiravile Prarthana 8th of April 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=KgIZJF2KnI8</id>
@@ -14687,36 +14706,6 @@
         <updated>2026-03-09T11:30:10.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambalakula Kadavil #dancehits#folksong #kalabhavanmanisong]]></title>
-        <id>https://www.youtube.com/shorts/YgredndvAYE</id>
-        <link href="https://www.youtube.com/shorts/YgredndvAYE"/>
-        <updated>2026-03-09T11:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈശോ തൻ തിരുമേനി   | കുരിശിന്റെവഴി | #jinokunnumpurath |  #shorts | #lent #jesus]]></title>
-        <id>https://www.youtube.com/shorts/z05WBev0elU</id>
-        <link href="https://www.youtube.com/shorts/z05WBev0elU"/>
-        <updated>2026-03-09T11:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹത്തിന്റെ പ്രാതൽ   |😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/zf9rNjKsRnQ</id>
-        <link href="https://www.youtube.com/shorts/zf9rNjKsRnQ"/>
-        <updated>2026-03-09T10:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
