@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T12:54:04.714Z</updated>
+    <updated>2026-04-09T14:47:19.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അടവിതരുക്കളിനിടയിൽ| Adavi Tharukalin Idayil| Annamma Mammen| Malayalam Christian Song| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/czdjI4Qv8tM</id>
+        <link href="https://www.youtube.com/shorts/czdjI4Qv8tM"/>
+        <updated>2026-04-09T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhoomarashmithan | Kasavuthattam | P. B. Sreenivas | Vayalar Ramavarma | Malayalam Classic Song]]></title>
+        <id>https://www.youtube.com/shorts/uzfy1837S2Q</id>
+        <link href="https://www.youtube.com/shorts/uzfy1837S2Q"/>
+        <updated>2026-04-09T14:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manimuttathavani Panthal 4K Enhanced | Dreams | Suresh Gopi | Meena - Vidyasagar Hit Song]]></title>
         <id>https://www.youtube.com/watch?v=BJ_vVePajhU</id>
@@ -14644,25 +14664,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elohim Chayim | Steven Samuel | Shorts #ElohimChayim #stevensamueldevassy #JijoCJohn]]></title>
-        <id>https://www.youtube.com/shorts/b5UJBUVAtps</id>
-        <link href="https://www.youtube.com/shorts/b5UJBUVAtps"/>
-        <updated>2026-03-11T01:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=b6c5tUzcuCg</id>
-        <link href="https://www.youtube.com/watch?v=b6c5tUzcuCg"/>
-        <updated>2026-03-11T01:25:14.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
