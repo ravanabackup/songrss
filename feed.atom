@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T10:00:46.440Z</updated>
+    <updated>2026-04-09T11:42:34.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vishu Drop - Lyrical Video | Saarika Gopinath | SanDy | Suveesh Viswa]]></title>
+        <id>https://www.youtube.com/watch?v=MUWPQbV58as</id>
+        <link href="https://www.youtube.com/watch?v=MUWPQbV58as"/>
+        <updated>2026-04-09T11:28:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam Cheytha Nanmakalkkellam | Keys Band | The Bhajan Vibe | Malayalam Christian Songs | Bhajans]]></title>
+        <id>https://www.youtube.com/watch?v=t40UuY2hOV8</id>
+        <link href="https://www.youtube.com/watch?v=t40UuY2hOV8"/>
+        <updated>2026-04-09T10:52:55.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രിയപ്പെട്ടവർക്കായി  | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/CtGEzsgYb3g</id>
+        <link href="https://www.youtube.com/shorts/CtGEzsgYb3g"/>
+        <updated>2026-04-09T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#pakalpooram  #dancehits #love #song]]></title>
         <id>https://www.youtube.com/shorts/CXJTTQXE8pc</id>
@@ -14587,52 +14615,6 @@
         <updated>2026-03-11T00:15:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉയിരിന് ഉയിർപ്പേകും ഗാനങ്ങൾ | Christian Lent Songs Malayalam | Kester | Joji Johns | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=z-FQQUuq6gk</id>
-        <link href="https://www.youtube.com/watch?v=z-FQQUuq6gk"/>
-        <updated>2026-03-10T23:30:32.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 11th of March 26 # Mathavinte Japamala Mahimayude Rahasyangal 11th of March 26]]></title>
-        <id>https://www.youtube.com/watch?v=tdz2xlACQ0E</id>
-        <link href="https://www.youtube.com/watch?v=tdz2xlACQ0E"/>
-        <updated>2026-03-10T23:30:19.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Chorayal....#christiandevotionalsongsmalayalam #lentsongsmalayalam #malayalam]]></title>
-        <id>https://www.youtube.com/shorts/aC8lnZM8-UA</id>
-        <link href="https://www.youtube.com/shorts/aC8lnZM8-UA"/>
-        <updated>2026-03-10T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennulilennum | Radhika Thilak | Prathyasha Geethangal | Christian Worship Songs | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bgH0J1l8ehA</id>
-        <link href="https://www.youtube.com/watch?v=bgH0J1l8ehA"/>
-        <updated>2026-03-10T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 11, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=HQGtJx2OLR8</id>
-        <link href="https://www.youtube.com/watch?v=HQGtJx2OLR8"/>
-        <updated>2026-03-10T22:30:05.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
