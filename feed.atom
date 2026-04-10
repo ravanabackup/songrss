@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T16:37:47.363Z</updated>
+    <updated>2026-04-10T17:38:56.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14640,34 +14640,6 @@
         <updated>2026-03-12T06:40:22.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bison Kaalamaadan - Original Score | Dhruv Vikram | Anupama | Mari Selvaraj | Nivas K Prasanna]]></title>
-        <id>https://www.youtube.com/watch?v=BFgtldKDK18</id>
-        <link href="https://www.youtube.com/watch?v=BFgtldKDK18"/>
-        <updated>2026-03-12T05:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Shreya Ghoshal | Naattumaviloru Maina | 916  #shreyaghoshal #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/PLS7y2MDd3Y</id>
-        <link href="https://www.youtube.com/shorts/PLS7y2MDd3Y"/>
-        <updated>2026-03-12T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=MM-YkF3hXlU</id>
-        <link href="https://www.youtube.com/watch?v=MM-YkF3hXlU"/>
-        <updated>2026-03-12T04:38:42.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
