@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T18:36:44.120Z</updated>
+    <updated>2026-04-10T19:34:50.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=aVl_iyXK04M</id>
+        <link href="https://www.youtube.com/watch?v=aVl_iyXK04M"/>
+        <updated>2026-04-10T19:00:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Lyricists and composers needed  Whatsapp 9380245748 for details]]></title>
         <id>https://www.youtube.com/shorts/HzhSsxymBS4</id>
@@ -14613,33 +14622,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സഹൃദയം Hits l NISARI MUSIC l Selected Malayalam Film Songs l Yesudas l M G Sreekumar l Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=fNZSbt9mVCw</id>
-        <link href="https://www.youtube.com/watch?v=fNZSbt9mVCw"/>
-        <updated>2026-03-12T07:00:40.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sita Ramam (Tamil) - Hey Sita Video with Lyrics | Dulquer Salman, Mrunal Thakur | Vishal]]></title>
-        <id>https://www.youtube.com/watch?v=RBCJY_UzaNI</id>
-        <link href="https://www.youtube.com/watch?v=RBCJY_UzaNI"/>
-        <updated>2026-03-12T07:00:30.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee En Sarga Soundaryame | നീ എൻ സർഗ്ഗ സൗന്ദര്യമേ...| Flask Movie | Shaiju Kurup Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=I-DDS74FZ6k</id>
-        <link href="https://www.youtube.com/watch?v=I-DDS74FZ6k"/>
-        <updated>2026-03-12T06:40:22.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
