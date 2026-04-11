@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T22:18:09.572Z</updated>
+    <updated>2026-04-11T23:21:02.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/G56FcLSKgbU</id>
+        <link href="https://www.youtube.com/shorts/G56FcLSKgbU"/>
+        <updated>2026-04-11T23:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവകരുണയുടെ തിരുനാൾ ഗാനങ്ങൾ 2026 | Divine Mercy Sunday]]></title>
+        <id>https://www.youtube.com/watch?v=R8P6Ih2srnI</id>
+        <link href="https://www.youtube.com/watch?v=R8P6Ih2srnI"/>
+        <updated>2026-04-11T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 12 # Athiravile Prarthana 12th of April 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=w5VERjhvO7Y</id>
@@ -14436,44 +14455,6 @@
         <updated>2026-03-13T11:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നൊമ്പരയാത്ര  |   😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/j_pk7R69k-I</id>
-        <link href="https://www.youtube.com/shorts/j_pk7R69k-I"/>
-        <updated>2026-03-13T10:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tour Song | Hanan Shah| Derby | Adam Sabiq | Ameen | Hari | Rish NK | Anu | Jasnya | Gopi Sundar]]></title>
-        <id>https://www.youtube.com/watch?v=3wpggooK0AI</id>
-        <link href="https://www.youtube.com/watch?v=3wpggooK0AI"/>
-        <updated>2026-03-13T10:45:00.000Z</updated>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njanum Neeyum ❤️🎵]]></title>
-        <id>https://www.youtube.com/shorts/6hogQS1F0GI</id>
-        <link href="https://www.youtube.com/shorts/6hogQS1F0GI"/>
-        <updated>2026-03-13T10:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psalms 2 | സങ്കീർത്തനങ്ങൾ-2 | Sangeerthanagal-2 | Psalms Malayalam | Roji | Audio bible Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=ZAP3HoLKbaM</id>
-        <link href="https://www.youtube.com/watch?v=ZAP3HoLKbaM"/>
-        <updated>2026-03-13T10:43:09.000Z</updated>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
