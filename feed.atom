@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T17:21:33.823Z</updated>
+    <updated>2026-04-11T18:26:04.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14522,25 +14522,6 @@
         <updated>2026-03-13T06:30:00.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaamangal Melle Chollum 4k Video Song | Cover Story | Suresh Gopi | KS Chithra | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=zZotMEh-mr8</id>
-        <link href="https://www.youtube.com/watch?v=zZotMEh-mr8"/>
-        <updated>2026-03-13T06:22:43.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurathipattu | Folk Song | Sathkala Vijayan #naadanpaattu #malayalamfolksong #shortsfeed #shorts]]></title>
-        <id>https://www.youtube.com/shorts/_OCc5OHrcuo</id>
-        <link href="https://www.youtube.com/shorts/_OCc5OHrcuo"/>
-        <updated>2026-03-13T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
