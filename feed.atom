@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T10:22:04.580Z</updated>
+    <updated>2026-04-11T11:20:02.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിന്നെ ദൈവം തിരസ്കരിക്കില്ല  | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/mKVvym0mGEQ</id>
+        <link href="https://www.youtube.com/shorts/mKVvym0mGEQ"/>
+        <updated>2026-04-11T10:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hits of Kester | Vol 11 | Malayalam Christian Devotional Songs | Praise and Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=MP-OVhs9PZQ</id>
+        <link href="https://www.youtube.com/watch?v=MP-OVhs9PZQ"/>
+        <updated>2026-04-11T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസ്സിൽ തൊടുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | #jinokunnumpurath      #malayalamchristiansong #zionclassics]]></title>
         <id>https://www.youtube.com/watch?v=3uU-SEEUOrk</id>
@@ -14446,15 +14465,6 @@
         <updated>2026-03-12T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 13, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=6z-ib0424ZE</id>
-        <link href="https://www.youtube.com/watch?v=6z-ib0424ZE"/>
-        <updated>2026-03-12T22:30:04.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
