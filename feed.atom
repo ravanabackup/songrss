@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T21:21:19.571Z</updated>
+    <updated>2026-04-11T22:18:09.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14474,16 +14474,6 @@
         <updated>2026-03-13T10:43:09.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urangaathe  #love #song #dancehits#kavyamadavan]]></title>
-        <id>https://www.youtube.com/shorts/jlRxTulPKrw</id>
-        <link href="https://www.youtube.com/shorts/jlRxTulPKrw"/>
-        <updated>2026-03-13T10:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
