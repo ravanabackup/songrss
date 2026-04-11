@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T06:45:11.894Z</updated>
+    <updated>2026-04-11T07:41:26.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Groove to the beats of #RarePieceVanjaram #Thamizh #ThinkIndie]]></title>
+        <id>https://www.youtube.com/shorts/c9HGLbAnx1Q</id>
+        <link href="https://www.youtube.com/shorts/c9HGLbAnx1Q"/>
+        <updated>2026-04-11T07:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Reddy - Pranam Kanna Video with Lyrics | Anjan, Shravani | Prince Henry]]></title>
+        <id>https://www.youtube.com/watch?v=UHChooJeG08</id>
+        <link href="https://www.youtube.com/watch?v=UHChooJeG08"/>
+        <updated>2026-04-11T07:00:00.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alakalile Paralmeen | അലകളിലെ പരൽമീൻ...| Athiraathram Movie | KJ Yesudas | Mohanlal Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=_7zVQis4LO4</id>
@@ -14396,24 +14415,6 @@
         <link href="https://www.youtube.com/shorts/Q1HsNVgMEz8"/>
         <updated>2026-03-12T22:00:24.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 13th of March # Athiravile Prarthana 13th March 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=OWqUv8UIfGo</id>
-        <link href="https://www.youtube.com/watch?v=OWqUv8UIfGo"/>
-        <updated>2026-03-12T19:00:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 13th March 26]]></title>
-        <id>https://www.youtube.com/watch?v=b3Kt7uwDGAg</id>
-        <link href="https://www.youtube.com/watch?v=b3Kt7uwDGAg"/>
-        <updated>2026-03-12T18:00:44.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
