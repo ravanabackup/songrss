@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T18:30:11.246Z</updated>
+    <updated>2026-04-12T19:30:54.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=ZEjaIFYLDmU</id>
+        <link href="https://www.youtube.com/watch?v=ZEjaIFYLDmU"/>
+        <updated>2026-04-12T19:00:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jakes Bejoy, Sanjith Hegde, Vinayak Sasikumar - Apna Friday Aayega (From "Mollywood Times")]]></title>
         <id>https://www.youtube.com/watch?v=0TgJsPIq6Sw</id>
@@ -14294,52 +14303,6 @@
         <updated>2026-03-14T07:30:51.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chirakodinja Shalabhamaay | ചിറകൊടിഞ്ഞ ശലഭമായി...| Math Movie | Sithara Krishnakumar | Tini Tom Film]]></title>
-        <id>https://www.youtube.com/watch?v=0PWOhcLK2vE</id>
-        <link href="https://www.youtube.com/watch?v=0PWOhcLK2vE"/>
-        <updated>2026-03-14T07:29:21.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angopangam Swara | 4K | Devasuram | Mohanlal | Revathi | Nedumudi Venu | Innocent - Chithra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=Ifivi01IAIA</id>
-        <link href="https://www.youtube.com/watch?v=Ifivi01IAIA"/>
-        <updated>2026-03-14T07:10:01.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthu Paatu - Nethu Oruthara Oruthara Video with Lyrics | Vadivelu | Fahad Faasil]]></title>
-        <id>https://www.youtube.com/watch?v=0Os4J4UbMPg</id>
-        <link href="https://www.youtube.com/watch?v=0Os4J4UbMPg"/>
-        <updated>2026-03-14T07:00:00.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalvari Balivedi | കാൽവരി ബലിവേദി #greatlent #christianshorts #christianalbumsong #valiyanombu]]></title>
-        <id>https://www.youtube.com/shorts/-3EiM4rZjy0</id>
-        <link href="https://www.youtube.com/shorts/-3EiM4rZjy0"/>
-        <updated>2026-03-14T06:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basavanna - Video | Seetha Payanam (Malayalam) | Dhruva Sarja | Niranjan | Aishwarya Arjun | Arjun]]></title>
-        <id>https://www.youtube.com/watch?v=Bq4xVCEHhp0</id>
-        <link href="https://www.youtube.com/watch?v=Bq4xVCEHhp0"/>
-        <updated>2026-03-14T06:30:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
