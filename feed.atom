@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T16:24:27.959Z</updated>
+    <updated>2026-04-12T17:24:41.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jakes Bejoy, Sanjith Hegde, Vinayak Sasikumar - Apna Friday Aayega (From "Mollywood Times")]]></title>
+        <id>https://www.youtube.com/watch?v=0TgJsPIq6Sw</id>
+        <link href="https://www.youtube.com/watch?v=0TgJsPIq6Sw"/>
+        <updated>2026-04-12T16:46:35.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Maramon Convention song | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/Hjt3NHq3_lI</id>
@@ -14350,34 +14359,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=ndmKi1DfEjg</id>
-        <link href="https://www.youtube.com/watch?v=ndmKi1DfEjg"/>
-        <updated>2026-03-14T05:13:59.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koode varo | Vidhooram Movie Song |Remesh V R |Rakesh V R | Felix Joffrey |#shorts #millenniumaudios]]></title>
-        <id>https://www.youtube.com/shorts/I6a_CzxsTlE</id>
-        <link href="https://www.youtube.com/shorts/I6a_CzxsTlE"/>
-        <updated>2026-03-14T05:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharanamayyappaa Swamee]]></title>
-        <id>https://www.youtube.com/watch?v=QgLnS1woIr0</id>
-        <link href="https://www.youtube.com/watch?v=QgLnS1woIr0"/>
-        <updated>2026-03-14T04:43:30.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
