@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T17:24:41.715Z</updated>
+    <updated>2026-04-12T18:30:11.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14340,25 +14340,6 @@
         <updated>2026-03-14T06:30:11.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90s രാഗ തരംഗം  | Nisari Music | Nostalgic Evergreen Film Hits l  Yesudas l Chithra l Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=pd4n-u03oSI</id>
-        <link href="https://www.youtube.com/watch?v=pd4n-u03oSI"/>
-        <updated>2026-03-14T05:45:07.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaayangal  | Faces #gopisundar #bkharinarayanan #shortsfeed #shortsvideo #reels #shorts]]></title>
-        <id>https://www.youtube.com/shorts/M3O7cWf09yU</id>
-        <link href="https://www.youtube.com/shorts/M3O7cWf09yU"/>
-        <updated>2026-03-14T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
