@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T19:30:54.529Z</updated>
+    <updated>2026-04-12T20:21:21.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 13 # Athiravile Prarthana 13th of April 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=lclLqXBmugM</id>
+        <link href="https://www.youtube.com/watch?v=lclLqXBmugM"/>
+        <updated>2026-04-12T20:00:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th April 2026]]></title>
         <id>https://www.youtube.com/watch?v=ZEjaIFYLDmU</id>
@@ -14267,42 +14276,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Mariyame Njan | ഓ മറിയാമേ | Easter Worship Song | Merin Gregory | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=K3fmK6lE_L0</id>
-        <link href="https://www.youtube.com/watch?v=K3fmK6lE_L0"/>
-        <updated>2026-03-14T07:45:18.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SULTHAAN Video Song | Shaan Rahman | Vinayakan | Midhun Manuel Thomas |Vijay Babu & Venu Kunnappilly]]></title>
-        <id>https://www.youtube.com/watch?v=55KzMQB6b18</id>
-        <link href="https://www.youtube.com/watch?v=55KzMQB6b18"/>
-        <updated>2026-03-14T07:35:25.000Z</updated>
-        <author>
-            <name>Friday Music Company</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 നോമ്പ് ഗാനങ്ങൾ | LENT SONGS |@JinoKunnumpurathu #jinokunnumpurath #zionclassics #christiansong]]></title>
-        <id>https://www.youtube.com/watch?v=n51S-9HqjXc</id>
-        <link href="https://www.youtube.com/watch?v=n51S-9HqjXc"/>
-        <updated>2026-03-14T07:33:28.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhishmar Official Trailer | East Coast Vijayan | Dhyan Sreenivasan| Vishnu Unnikrishnan|Divya Pillai]]></title>
-        <id>https://www.youtube.com/watch?v=t5pkwVCNfnE</id>
-        <link href="https://www.youtube.com/watch?v=t5pkwVCNfnE"/>
-        <updated>2026-03-14T07:30:51.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
