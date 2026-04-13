@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-13T12:55:51.562Z</updated>
+    <updated>2026-04-13T14:26:40.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PLUTO First Glimpse 👽🛸]]></title>
+        <id>https://www.youtube.com/shorts/sazQEcMKjCU</id>
+        <link href="https://www.youtube.com/shorts/sazQEcMKjCU"/>
+        <updated>2026-04-13T13:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadivaaram 🎵 Song Of The Day #manjuwarrier]]></title>
+        <id>https://www.youtube.com/shorts/PCbpRIkrH7Y</id>
+        <link href="https://www.youtube.com/shorts/PCbpRIkrH7Y"/>
+        <updated>2026-04-13T13:06:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Mummyfied - Audio | Hello Mummy | Adhri Joe | Aswin Ram | Sharaf U Dheen, Aishwarya Lekshmi]]></title>
         <id>https://www.youtube.com/watch?v=CsIOIZJWEhw</id>
@@ -14258,25 +14278,6 @@
         <updated>2026-03-15T04:00:47.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elohim Chayim | Steven Samuel | Shorts #ElohimChayim #stevensamueldevassy #JijoCJohn]]></title>
-        <id>https://www.youtube.com/shorts/J421_7fYiYo</id>
-        <link href="https://www.youtube.com/shorts/J421_7fYiYo"/>
-        <updated>2026-03-15T01:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Itha Samayamay Ft. Rev. Fr Joshy Pottackal O.Carm, Fr Vineeth Ajimon, Ninoy Varghese]]></title>
-        <id>https://www.youtube.com/watch?v=zkoHryTw2RY</id>
-        <link href="https://www.youtube.com/watch?v=zkoHryTw2RY"/>
-        <updated>2026-03-15T01:22:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
