@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T08:19:47.795Z</updated>
+    <updated>2026-04-15T10:05:13.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#Pavithram #Thalamayanju #mohanalal  #song #love]]></title>
+        <id>https://www.youtube.com/shorts/VRtPm83WEmA</id>
+        <link href="https://www.youtube.com/shorts/VRtPm83WEmA"/>
+        <updated>2026-04-15T08:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanikonnakal | കണിക്കൊന്നകൾ....| Oru Abhibhashakante Case Diary Movie | Sujatha Mohan | Raveendran]]></title>
+        <id>https://www.youtube.com/shorts/QaMk9xQRopA</id>
+        <link href="https://www.youtube.com/shorts/QaMk9xQRopA"/>
+        <updated>2026-04-15T08:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaalinmel poovum #song#vishuspecial #love #mohanlal]]></title>
         <id>https://www.youtube.com/shorts/E0EUgFuYiv0</id>
@@ -8286,6 +8306,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ഓർമ്മകളിലെ പ്രണയഗാനങ്ങൾ | Malayalam Evergreen Romantic Hits | Vidyasagar | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=jDdU-19iI5E</id>
+        <link href="https://www.youtube.com/watch?v=jDdU-19iI5E"/>
+        <updated>2026-03-28T14:00:06.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ഓശാന ഗീതങ്ങൾ | Hosanna/Palm Sunday Collections | Great Lent | Passion/Holy Week| Music Spread]]></title>
         <id>https://www.youtube.com/shorts/WvZOEkjqTn8</id>
         <link href="https://www.youtube.com/shorts/WvZOEkjqTn8"/>
@@ -14250,16 +14279,6 @@
         <updated>2026-03-16T22:30:20.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/5nT-YRjssU0</id>
-        <link href="https://www.youtube.com/shorts/5nT-YRjssU0"/>
-        <updated>2026-03-16T22:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
