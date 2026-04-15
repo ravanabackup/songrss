@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T17:56:54.631Z</updated>
+    <updated>2026-04-15T19:03:23.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14320,33 +14320,6 @@
         <updated>2026-03-17T07:28:21.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Dassan - Aararo Video with Lyrics |Tamil Pop Songs | Tamil Folk Songs]]></title>
-        <id>https://www.youtube.com/watch?v=UOKPXWqVgTw</id>
-        <link href="https://www.youtube.com/watch?v=UOKPXWqVgTw"/>
-        <updated>2026-03-17T07:00:24.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഗാനഗന്ധർവന്റെ അനശ്വര ഗാനസമാഹാരം l Nisari Music l Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=8iV86xE8ID4</id>
-        <link href="https://www.youtube.com/watch?v=8iV86xE8ID4"/>
-        <updated>2026-03-17T06:45:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palnila Punchiri Lyrical  | East Coast Vijayan | Dhyan Sreenivasan | Ranjin Raj | Dana Razik]]></title>
-        <id>https://www.youtube.com/watch?v=n-cmMyJ--M8</id>
-        <link href="https://www.youtube.com/watch?v=n-cmMyJ--M8"/>
-        <updated>2026-03-17T06:30:06.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
