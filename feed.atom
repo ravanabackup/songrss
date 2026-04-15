@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T11:44:20.151Z</updated>
+    <updated>2026-04-15T12:54:24.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[K For Krishna | Guruvayoorambala Nadayil | Prithviraj | Basil |Anaswara | Ankit Menon]]></title>
+        <id>https://www.youtube.com/watch?v=JgdZC3ayb0E</id>
+        <link href="https://www.youtube.com/watch?v=JgdZC3ayb0E"/>
+        <updated>2026-04-15T12:30:33.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neelachurul mudikett | നീലച്ചുരുൾ മുടികെട്ട്... | Madhubalakrishnan Song | Ellam Enikkente Kannan]]></title>
+        <id>https://www.youtube.com/shorts/KS0eP1OBAh4</id>
+        <link href="https://www.youtube.com/shorts/KS0eP1OBAh4"/>
+        <updated>2026-04-15T12:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th of April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=5s9hwsAdSRo</id>
+        <link href="https://www.youtube.com/watch?v=5s9hwsAdSRo"/>
+        <updated>2026-04-15T12:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandi Yeralam - Video Song | My Lord | Sasikumar, Chaithra J Achar | Sean Roldan | Raju Murugan]]></title>
+        <id>https://www.youtube.com/watch?v=ZaLufRmK1GA</id>
+        <link href="https://www.youtube.com/watch?v=ZaLufRmK1GA"/>
+        <updated>2026-04-15T12:30:03.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engane Marakkum | Sathkala Vijayan | Folk Song Video #shortsfeed #shortsvideo #shorts #reels #folk]]></title>
+        <id>https://www.youtube.com/shorts/Fh8b2sOIndY</id>
+        <link href="https://www.youtube.com/shorts/Fh8b2sOIndY"/>
+        <updated>2026-04-15T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neelachurul mudikett | നീലച്ചുരുൾ മുടികെട്ട്... | Madhubalakrishnan Song | Ellam Enikkente Kannan]]></title>
         <id>https://www.youtube.com/watch?v=jA-k1sUcVJ8</id>
