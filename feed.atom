@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T18:00:43.315Z</updated>
+    <updated>2026-04-16T19:54:36.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 17th April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=FT0pbs5X_Xs</id>
+        <link href="https://www.youtube.com/watch?v=FT0pbs5X_Xs"/>
+        <updated>2026-04-16T19:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അടവിതരുക്കളിനിടയിൽ| Adavi Tharukalin Idayil| Annamma Mammen| Malayalam Christian Song| Music Spread]]></title>
         <id>https://www.youtube.com/shorts/mrj4HJGOxtg</id>
@@ -14224,53 +14233,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pazhayoru Paattile | Nair Saab |Suresh Gopi | Sumalatha | SP Venkitesh | MG Sreekumar, Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=rjtNfClaICs</id>
-        <link href="https://www.youtube.com/watch?v=rjtNfClaICs"/>
-        <updated>2026-03-18T07:32:55.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baby - Deva Raaja Video with Lyrics | Vijai Bulganin | Anand Deverakonda]]></title>
-        <id>https://www.youtube.com/watch?v=mFim3wOCQRk</id>
-        <link href="https://www.youtube.com/watch?v=mFim3wOCQRk"/>
-        <updated>2026-03-18T07:00:49.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേവേശാ യേശുപരാ | Devesha Yeshupara | Shorts #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/K92nUb4arA0</id>
-        <link href="https://www.youtube.com/shorts/K92nUb4arA0"/>
-        <updated>2026-03-18T07:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuvin Snehathal | Shorts #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/BEpIKL67bmg</id>
-        <link href="https://www.youtube.com/shorts/BEpIKL67bmg"/>
-        <updated>2026-03-18T07:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സുതൊടുന്ന കേൾക്കാൻ കൊതിക്കുന്ന ഗാനങ്ങൾ  | Nisari Music | Evergreen Malayalam Film Hits]]></title>
-        <id>https://www.youtube.com/watch?v=WOMTEBxYZE8</id>
-        <link href="https://www.youtube.com/watch?v=WOMTEBxYZE8"/>
-        <updated>2026-03-18T06:30:14.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
