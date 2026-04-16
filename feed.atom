@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T16:14:11.010Z</updated>
+    <updated>2026-04-16T18:00:43.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -14271,24 +14271,6 @@
         <updated>2026-03-18T06:30:14.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asarmulla Manam Veeshum | അസര്‍മുല്ല മണം വീശും...| Eranholi Moosa  | Superhit Song]]></title>
-        <id>https://www.youtube.com/watch?v=bdEJRF5qaF0</id>
-        <link href="https://www.youtube.com/watch?v=bdEJRF5qaF0"/>
-        <updated>2026-03-18T05:46:36.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panjara Keniyil | Uthram Nakshathram | K G Markose | K.Jayakumar | Sunny Stephen]]></title>
-        <id>https://www.youtube.com/watch?v=fXwrhEIj2VM</id>
-        <link href="https://www.youtube.com/watch?v=fXwrhEIj2VM"/>
-        <updated>2026-03-18T05:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
