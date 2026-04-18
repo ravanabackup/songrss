@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T12:33:30.195Z</updated>
+    <updated>2026-04-18T13:53:26.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിലെ മനം കവരും മെലഡി ഗാനങ്ങൾ  | OLD MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=zW96LL1rkvM</id>
+        <link href="https://www.youtube.com/watch?v=zW96LL1rkvM"/>
+        <updated>2026-04-18T13:31:10.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Ronaldo Chithram - Audio Jukebox | Aswin, Chaithania | Deepak Revi]]></title>
+        <id>https://www.youtube.com/watch?v=KlHUIEaAYG8</id>
+        <link href="https://www.youtube.com/watch?v=KlHUIEaAYG8"/>
+        <updated>2026-04-18T13:21:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavilladum Video Song | Thudarkadha | Maathu | KS Chithra | SP Venkitesh | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=8clK9I8joms</id>
+        <link href="https://www.youtube.com/watch?v=8clK9I8joms"/>
+        <updated>2026-04-18T13:17:27.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Happy Nammal Happy | ഹാപ്പി ഹാപ്പി നമ്മൾ ഹാപ്പി | Dhamaka | Sithara Krishnakumar | Afsal]]></title>
         <id>https://www.youtube.com/shorts/omizCg3FYHA</id>
@@ -13980,36 +14007,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njangalkai Nee  | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal   My Lord]]></title>
-        <id>https://www.youtube.com/shorts/_TgtaXC_qtw</id>
-        <link href="https://www.youtube.com/shorts/_TgtaXC_qtw"/>
-        <updated>2026-03-20T01:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurishil | Kester | Shorts #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/ZofFoJN8P9Q</id>
-        <link href="https://www.youtube.com/shorts/ZofFoJN8P9Q"/>
-        <updated>2026-03-20T01:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daiva Darsanam | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/HiQr5X07mFI</id>
-        <link href="https://www.youtube.com/shorts/HiQr5X07mFI"/>
-        <updated>2026-03-20T01:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
