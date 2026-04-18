@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T18:29:50.684Z</updated>
+    <updated>2026-04-18T19:32:11.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 19th April 2026]]></title>
+        <id>https://www.youtube.com/watch?v=c_HaJopjMJg</id>
+        <link href="https://www.youtube.com/watch?v=c_HaJopjMJg"/>
+        <updated>2026-04-18T19:00:39.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18 April 2026]]></title>
         <id>https://www.youtube.com/shorts/L6MWGIATBuM</id>
@@ -13972,53 +13981,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Shane27 Glimpse | Shane Nigam | Sagar Udagandla | Sam CS | Suresh Kumar | Madev Movies]]></title>
-        <id>https://www.youtube.com/watch?v=6rY_uM2OtH4</id>
-        <link href="https://www.youtube.com/watch?v=6rY_uM2OtH4"/>
-        <updated>2026-03-20T07:03:31.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദേവേശാ യേശുപരാ | Devesha Yeshupara | Shorts #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/mTkRqdg3sOQ</id>
-        <link href="https://www.youtube.com/shorts/mTkRqdg3sOQ"/>
-        <updated>2026-03-20T07:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jagame Thandhiram - Nethu Video with Lyrics | Dhanush | Santhosh Narayanan | Aishwarya]]></title>
-        <id>https://www.youtube.com/watch?v=EKJ3ImFUg7w</id>
-        <link href="https://www.youtube.com/watch?v=EKJ3ImFUg7w"/>
-        <updated>2026-03-20T07:00:21.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambalappuzha Vela Kandoo Njan | അമ്പലപ്പുഴവേലകണ്ടൂ ഞാന്‍...| Kakkathamburatti | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/shorts/JnxVdrS6zSk</id>
-        <link href="https://www.youtube.com/shorts/JnxVdrS6zSk"/>
-        <updated>2026-03-20T07:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parayaathe Parayunnathellam | Iyer in Arabia |Lyrical Video| K S Chithra | Shahabaz Aman |M A Nishad]]></title>
-        <id>https://www.youtube.com/watch?v=kIiAi4IBUqs</id>
-        <link href="https://www.youtube.com/watch?v=kIiAi4IBUqs"/>
-        <updated>2026-03-20T06:30:06.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
