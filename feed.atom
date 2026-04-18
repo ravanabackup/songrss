@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T16:24:58.242Z</updated>
+    <updated>2026-04-18T17:26:48.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18 April 2026]]></title>
+        <id>https://www.youtube.com/shorts/L6MWGIATBuM</id>
+        <link href="https://www.youtube.com/shorts/L6MWGIATBuM"/>
+        <updated>2026-04-18T17:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nirantharam Njan Vazhtheedume | നിരന്തരം ഞാൻ വാഴ്ത്തീടുമേ]]></title>
+        <id>https://www.youtube.com/shorts/THtpb3lAvXY</id>
+        <link href="https://www.youtube.com/shorts/THtpb3lAvXY"/>
+        <updated>2026-04-18T16:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶En Yeshu Allathillenikku…. #matchpointfaith #christianmusic #matchpointcreations]]></title>
         <id>https://www.youtube.com/shorts/C1jVGjUiye4</id>
@@ -13999,24 +14019,6 @@
         <updated>2026-03-20T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu Nallavan Avan Vallabhan | Vrinda | Malayalam Christian Songs | Christian Worship Songs |Gospel]]></title>
-        <id>https://www.youtube.com/watch?v=CjTSBTssP5o</id>
-        <link href="https://www.youtube.com/watch?v=CjTSBTssP5o"/>
-        <updated>2026-03-20T05:18:56.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambalappuzha Vela Kandoo Njan | അമ്പലപ്പുഴവേലകണ്ടൂ ഞാന്‍...| Kakkathamburatti | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=yKonhfMLxxo</id>
-        <link href="https://www.youtube.com/watch?v=yKonhfMLxxo"/>
-        <updated>2026-03-20T04:30:43.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
