@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T11:25:35.140Z</updated>
+    <updated>2026-04-19T12:32:52.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25 Years of Celebration in Music Production & Distribution | Ep: 60 Oru Kodi  @ZionClassics]]></title>
+        <id>https://www.youtube.com/shorts/kSYxBcIzKL4</id>
+        <link href="https://www.youtube.com/shorts/kSYxBcIzKL4"/>
+        <updated>2026-04-19T11:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസ്സിന് സമാധാനമേകുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ  |    @JinoKunnumpurathu    #malayalamchristiansong]]></title>
         <id>https://www.youtube.com/watch?v=x9hZ93r-9zU</id>
@@ -13759,33 +13769,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel According to Mathew Chapter 17 | Holy Bible Reading | New Testament | Malayalam Audio Bible]]></title>
-        <id>https://www.youtube.com/watch?v=YVFHYmzC0Dg</id>
-        <link href="https://www.youtube.com/watch?v=YVFHYmzC0Dg"/>
-        <updated>2026-03-21T00:15:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 21st of March 2026 # Mathavinte Japamala Santhoshathinte Rahasyangal 21st of March 26]]></title>
-        <id>https://www.youtube.com/watch?v=9an9sUEsI-M</id>
-        <link href="https://www.youtube.com/watch?v=9an9sUEsI-M"/>
-        <updated>2026-03-20T23:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിശ്വസ്ഥനായ ദൈവത്തെ പാടി സ്തുതിക്കാം | Prathyasha Geethangal | Christian Worship Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=j7q1LFojVSY</id>
-        <link href="https://www.youtube.com/watch?v=j7q1LFojVSY"/>
-        <updated>2026-03-20T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
