@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T10:28:49.322Z</updated>
+    <updated>2026-04-19T11:25:35.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിന് സമാധാനമേകുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ  |    @JinoKunnumpurathu    #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/watch?v=x9hZ93r-9zU</id>
+        <link href="https://www.youtube.com/watch?v=x9hZ93r-9zU"/>
+        <updated>2026-04-19T10:39:19.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇതുവരെകാണാത്ത അത്ഭുതത്തിനു നീ സാക്ഷിയാകും | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/OVrcWDvlPCY</id>
+        <link href="https://www.youtube.com/shorts/OVrcWDvlPCY"/>
+        <updated>2026-04-19T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irul Moodunna Vazhiyil Prathyasha Pakarunna Ganangal | Kester | Markose | Wilson | Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=gELCisOAg7U</id>
+        <link href="https://www.youtube.com/watch?v=gELCisOAg7U"/>
+        <updated>2026-04-19T10:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Aaradhikunnu Njangal…]]></title>
         <id>https://www.youtube.com/shorts/csFUtpNDTJk</id>
@@ -13758,15 +13786,6 @@
         <updated>2026-03-20T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 21, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=4Dj9GzSwPjQ</id>
-        <link href="https://www.youtube.com/watch?v=4Dj9GzSwPjQ"/>
-        <updated>2026-03-20T22:30:01.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
