@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T09:29:42.625Z</updated>
+    <updated>2026-04-20T11:08:52.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സർവ്വ ദുഖങ്ങളും മറക്കും ഈ ഗാനങ്ങൾ കേട്ടാൽ | @JinoKunnumpurathu #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/watch?v=u8Yi_xsiEFU</id>
+        <link href="https://www.youtube.com/watch?v=u8Yi_xsiEFU"/>
+        <updated>2026-04-20T11:06:36.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം നിന്നെ ശാക്തീകരിക്കും  | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
+        <id>https://www.youtube.com/shorts/Q-aDm5G6K8c</id>
+        <link href="https://www.youtube.com/shorts/Q-aDm5G6K8c"/>
+        <updated>2026-04-20T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaattil Kodum Kaattil | കാട്ടിൽ കൊടും കാട്ടിൽ...| Arante Mulla Kochu Mulla Movie  | KJ Yesudas Song]]></title>
         <id>https://www.youtube.com/shorts/vYy-8rzg3w4</id>
@@ -13425,25 +13444,6 @@
         <updated>2026-03-21T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാർച്ച്: 22, വലിയ നോമ്പ്, ഈ ദിനങ്ങളിൽ മനസ്സുരുകി നമുക്കു പ്രാർത്ഥിക്കാം!!]]></title>
-        <id>https://www.youtube.com/watch?v=D2J6NgWg2kA</id>
-        <link href="https://www.youtube.com/watch?v=D2J6NgWg2kA"/>
-        <updated>2026-03-21T22:30:05.000Z</updated>
-        <author>
-            <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/wpHcGLkqSL8</id>
-        <link href="https://www.youtube.com/shorts/wpHcGLkqSL8"/>
-        <updated>2026-03-21T22:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
