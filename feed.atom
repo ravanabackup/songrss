@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T13:00:22.772Z</updated>
+    <updated>2026-04-20T15:06:33.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/Y8x7Vfhwk2U</id>
+        <link href="https://www.youtube.com/shorts/Y8x7Vfhwk2U"/>
+        <updated>2026-04-20T14:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninmukham Watch Now Reel]]></title>
+        <id>https://www.youtube.com/shorts/Z2nWfibtt-I</id>
+        <link href="https://www.youtube.com/shorts/Z2nWfibtt-I"/>
+        <updated>2026-04-20T14:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alakapuriyil Video Song | Thudarkadha | MG Sreekumar | KS Chithra | SP Venkitesh | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=HEHINEI5fhw</id>
+        <link href="https://www.youtube.com/watch?v=HEHINEI5fhw"/>
+        <updated>2026-04-20T13:19:12.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karam - Full Album | Vineeth | Noble | Ivan | Shaan | Visakh | Merryland]]></title>
         <id>https://www.youtube.com/watch?v=E5sLHIpr68c</id>
@@ -13490,26 +13519,6 @@
         <updated>2026-03-22T04:30:19.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivathinte Eka Puthran | Shorts #manoramachristiandevotionalsongs #shortsviral]]></title>
-        <id>https://www.youtube.com/shorts/3PDhJixGlqI</id>
-        <link href="https://www.youtube.com/shorts/3PDhJixGlqI"/>
-        <updated>2026-03-22T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karthave Kripa | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
-        <id>https://www.youtube.com/shorts/RqscGTee5oQ</id>
-        <link href="https://www.youtube.com/shorts/RqscGTee5oQ"/>
-        <updated>2026-03-22T01:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
