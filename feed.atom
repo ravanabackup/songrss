@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T16:51:13.170Z</updated>
+    <updated>2026-04-20T17:47:22.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13503,26 +13503,6 @@
         <updated>2026-03-22T07:00:04.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catholicate Day | Orthodox Syrian Church | H.H. Baselios Marthoma Mathews III Jai Jai Catholicose]]></title>
-        <id>https://www.youtube.com/shorts/Lk2lK9a8uVQ</id>
-        <link href="https://www.youtube.com/shorts/Lk2lK9a8uVQ"/>
-        <updated>2026-03-22T05:33:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annara Kanna Vaa  | Gayathri Veena by Vaikom Vijaya Lakshmi #shortsfeed #shortsvideo #shorts]]></title>
-        <id>https://www.youtube.com/shorts/CGr8L2c_zh0</id>
-        <link href="https://www.youtube.com/shorts/CGr8L2c_zh0"/>
-        <updated>2026-03-22T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
