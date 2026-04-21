@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-21T16:01:22.966Z</updated>
+    <updated>2026-04-21T17:48:54.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13353,43 +13353,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇഷ്ട്ടമേറുന്ന ക്രിസ്തീയഗാനങ്ങൾ |@JinoKunnumpurathu #zionclassics #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=1AoqXDizTs8</id>
-        <link href="https://www.youtube.com/watch?v=1AoqXDizTs8"/>
-        <updated>2026-03-23T05:43:42.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Vijay Yesudas | Anaadhi Yugangallai| Lavender  #vijayyesudas #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/rwW2bv4DzCI</id>
-        <link href="https://www.youtube.com/shorts/rwW2bv4DzCI"/>
-        <updated>2026-03-23T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non Stop മലയാളം പാട്ടുകൾ | Malayalam Evergreen Songs | Gireesh Puthenchery | Kaithapram | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=jZmLwP-zKmM</id>
-        <link href="https://www.youtube.com/watch?v=jZmLwP-zKmM"/>
-        <updated>2026-03-23T05:18:44.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HARINAKSHI | Classical Padam Video | Maharaja Swathi Thirunal | Sreevalsan J Menon | Jai |  Kalki]]></title>
-        <id>https://www.youtube.com/watch?v=l0PZjOguNqs</id>
-        <link href="https://www.youtube.com/watch?v=l0PZjOguNqs"/>
-        <updated>2026-03-23T04:32:13.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
