@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T12:55:18.772Z</updated>
+    <updated>2026-04-22T14:28:07.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dr Bennat Official Teaser Out Now | #shorts #newmovie]]></title>
+        <id>https://www.youtube.com/shorts/OiAOSNZcfF4</id>
+        <link href="https://www.youtube.com/shorts/OiAOSNZcfF4"/>
+        <updated>2026-04-22T14:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakalonnu Maanja 4K Video Song| Neelathamara | Archana Kavi| Vidyasagar | Balram Iyer| Vijay Prakash]]></title>
+        <id>https://www.youtube.com/watch?v=GdJj_LTs7kg</id>
+        <link href="https://www.youtube.com/watch?v=GdJj_LTs7kg"/>
+        <updated>2026-04-22T13:57:31.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Thari Velicham | ഒരു തരി വെളിച്ചം | Varthamanakalam Movie Song | M G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=SRHhOjtMb7s</id>
+        <link href="https://www.youtube.com/watch?v=SRHhOjtMb7s"/>
+        <updated>2026-04-22T13:09:46.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mannayi Theernnu | Madhurame Jeevitham | Vaikom Vijayalakshmi | Siddique | Vinaya Prasad]]></title>
+        <id>https://www.youtube.com/watch?v=t0NdM_GKeEk</id>
+        <link href="https://www.youtube.com/watch?v=t0NdM_GKeEk"/>
+        <updated>2026-04-22T13:08:19.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manakkala Thathe | മനയ്‌ക്കലെ തത്തേ...| Rasaleela Movie | KJ Yesudas Song |  Kamala Haasan]]></title>
         <id>https://www.youtube.com/shorts/eZrpk0Lkfa0</id>
@@ -13242,26 +13279,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanuka Neeyee Karunyavane | Shorts #manoramachristiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/FGWrn8haKg8</id>
-        <link href="https://www.youtube.com/shorts/FGWrn8haKg8"/>
-        <updated>2026-03-24T01:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karthave Kripa | Passion Week Songs | Good Friday Song Malayalam | Hasha Geethangal My Lord]]></title>
-        <id>https://www.youtube.com/shorts/UDutFVPSD50</id>
-        <link href="https://www.youtube.com/shorts/UDutFVPSD50"/>
-        <updated>2026-03-24T01:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
