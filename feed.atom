@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T15:59:28.423Z</updated>
+    <updated>2026-04-22T16:59:00.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13260,15 +13260,6 @@
         <updated>2026-03-24T05:30:00.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkare Ikkare Ninnal | Itha oru theeram | Soman | Jayabarathi | അക്കരെ ഇക്കരെ നിന്നാൽ]]></title>
-        <id>https://www.youtube.com/watch?v=EGk6u8cU4po</id>
-        <link href="https://www.youtube.com/watch?v=EGk6u8cU4po"/>
-        <updated>2026-03-24T04:30:11.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
