@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T22:32:12.297Z</updated>
+    <updated>2026-04-23T23:34:14.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lokathin Nadha | Prathyasha Geethangal | Manoj Christy | praise and Worship Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=Z4_xN_ydBhQ</id>
+        <link href="https://www.youtube.com/watch?v=Z4_xN_ydBhQ"/>
+        <updated>2026-04-23T23:30:00.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/dnLxsGbqLfM</id>
+        <link href="https://www.youtube.com/shorts/dnLxsGbqLfM"/>
+        <updated>2026-04-23T23:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ 24, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=O59HEXC0Ebw</id>
+        <link href="https://www.youtube.com/watch?v=O59HEXC0Ebw"/>
+        <updated>2026-04-23T22:30:07.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 24 # Athiravile Prarthana 24th of April 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=PHRAfN4kveI</id>
@@ -13055,53 +13083,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paathira Thanuppu Venam | പാതിരാ തണുപ്പു വീണു...| Bhoomidevi Pushpiniyayi | P Susheela | G Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=uyb2ygmInTA</id>
-        <link href="https://www.youtube.com/watch?v=uyb2ygmInTA"/>
-        <updated>2026-03-25T11:30:49.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viswasikal Njangalku  | Passion Week Songs | Good Friday Song Malayalam | My Lord]]></title>
-        <id>https://www.youtube.com/shorts/e0DVRVCv8TU</id>
-        <link href="https://www.youtube.com/shorts/e0DVRVCv8TU"/>
-        <updated>2026-03-25T11:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 25th of March 2026]]></title>
-        <id>https://www.youtube.com/watch?v=GYCXV81xVxo</id>
-        <link href="https://www.youtube.com/watch?v=GYCXV81xVxo"/>
-        <updated>2026-03-25T11:30:22.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive Waves | Sleep Time Music | Jukebox | Malayalam Movie Songs #malayalamfilmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=hyZmbc60F8c</id>
-        <link href="https://www.youtube.com/watch?v=hyZmbc60F8c"/>
-        <updated>2026-03-25T11:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalvary kunnile | ഉള്ള് വിങ്ങുന്ന  ഗാനം | #jinokunnumpurath #shorts #lent #jesus]]></title>
-        <id>https://www.youtube.com/shorts/_5dSgYsaCaA</id>
-        <link href="https://www.youtube.com/shorts/_5dSgYsaCaA"/>
-        <updated>2026-03-25T11:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
