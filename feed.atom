@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T23:36:17.107Z</updated>
+    <updated>2026-04-23T01:21:56.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13073,15 +13073,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome To Lenarco - Audio | Karam | KS Harisankar | Vineeth | Noble | Shaan | Visakh | Merryland]]></title>
-        <id>https://www.youtube.com/watch?v=OmcAeNJcGB4</id>
-        <link href="https://www.youtube.com/watch?v=OmcAeNJcGB4"/>
-        <updated>2026-03-24T12:30:40.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chora Varkkum....#christiandevotionalsongsmalayalam #manojchristy #jojijohnschristiansongs]]></title>
         <id>https://www.youtube.com/shorts/EcNKpsQkKQY</id>
         <link href="https://www.youtube.com/shorts/EcNKpsQkKQY"/>
@@ -13125,15 +13116,6 @@
         <updated>2026-03-24T11:30:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daiva Sneham Nirayunna Ganangal | Kester | Wilson Piravom | K.G. Markose | Peter Cheranelloor]]></title>
-        <id>https://www.youtube.com/watch?v=VMzooGK64mg</id>
-        <link href="https://www.youtube.com/watch?v=VMzooGK64mg"/>
-        <updated>2026-03-24T11:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
     <entry>
