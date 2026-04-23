@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T01:21:56.124Z</updated>
+    <updated>2026-04-23T04:40:24.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Haal (Original Score) - Volume 1 | Shane Nigam | Sakshi Vaidya | Veeraa | Nandhagopan V]]></title>
+        <id>https://www.youtube.com/watch?v=Dxi4gDfqCNQ</id>
+        <link href="https://www.youtube.com/watch?v=Dxi4gDfqCNQ"/>
+        <updated>2026-04-23T04:30:34.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പഴയകാലത്തെ ഓർമിപ്പിക്കുന്ന പ്രിയപ്പെട്ട ഗായകരുടെ ഗാനങ്ങൾ | Prathyasha Geethangal | P Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=7EYySSI4WtY</id>
@@ -13050,26 +13059,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Movie 🎥 Three Emotions ✨ #RajeshDhruva #RitvikMuralidhar #PeterMovie #WorldOfPeter #SukeshShetty]]></title>
-        <id>https://www.youtube.com/shorts/wTkk2r2biDs</id>
-        <link href="https://www.youtube.com/shorts/wTkk2r2biDs"/>
-        <updated>2026-03-24T12:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Movie 🎥 Three Emotions ✨ #RajeshDhruva #RitvikMuralidhar #PeterMovie #WorldOfPeter #SukeshShetty]]></title>
-        <id>https://www.youtube.com/shorts/WFW_iX8o-uI</id>
-        <link href="https://www.youtube.com/shorts/WFW_iX8o-uI"/>
-        <updated>2026-03-24T12:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
