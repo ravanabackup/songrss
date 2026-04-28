@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T21:49:07.876Z</updated>
+    <updated>2026-04-28T22:43:45.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏപ്രിൽ 29, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=zqiOiN2PBzY</id>
+        <link href="https://www.youtube.com/watch?v=zqiOiN2PBzY"/>
+        <updated>2026-04-28T22:30:14.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 29 # Athiravile Prarthana 29th of April 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=F4vY9Ox-pV8</id>
@@ -12150,35 +12159,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവഹിതം  |  😇 | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/du0Qwh-s52Q</id>
-        <link href="https://www.youtube.com/shorts/du0Qwh-s52Q"/>
-        <updated>2026-03-30T10:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neram Poyi | George Peter | C J Kuttappan | Dolly | Folk Fusion Songs | Folk Songs Video | Pop Rock]]></title>
-        <id>https://www.youtube.com/watch?v=HenvaPogh20</id>
-        <link href="https://www.youtube.com/watch?v=HenvaPogh20"/>
-        <updated>2026-03-30T10:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannoram Chingaram | Vrinda Menon | Rathinirvedam #shorts #VrindaMenon #manoramamusic #rathinirvedam]]></title>
-        <id>https://www.youtube.com/shorts/9zlDJhhE1Ao</id>
-        <link href="https://www.youtube.com/shorts/9zlDJhhE1Ao"/>
-        <updated>2026-03-30T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
