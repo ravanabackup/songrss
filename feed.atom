@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T07:59:08.215Z</updated>
+    <updated>2026-04-30T10:04:18.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പഴമയും പുതുമയും ഇടകലർന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | @ZionClassics #jinokunnumpurath  #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=pzoSji3YsmM</id>
+        <link href="https://www.youtube.com/watch?v=pzoSji3YsmM"/>
+        <updated>2026-04-30T09:09:05.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആദിയിൽ ദൈവമെ | ദിവ്യസ്നേഹം ചൊരിയുന്ന ക്രിസ്ത്യൻ ഭക്തിഗാനങ്ങൾ | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=OxWI4FFy4z4</id>
+        <link href="https://www.youtube.com/watch?v=OxWI4FFy4z4"/>
+        <updated>2026-04-30T08:49:26.000Z</updated>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chingamasam 4K Video Song | Meesa Madhavan | Dileep | Jyothirmayi | Rimi Tomy | Shankar Mahadevan]]></title>
+        <id>https://www.youtube.com/watch?v=DB-puPP7C7k</id>
+        <link href="https://www.youtube.com/watch?v=DB-puPP7C7k"/>
+        <updated>2026-04-30T08:43:43.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ullam Minni VallamThenni | ഉള്ളം മിന്നി വള്ളം തെന്നി...| Daivatheyorthu | MG Sreekumar Song]]></title>
+        <id>https://www.youtube.com/shorts/Ilwv-9FKgKE</id>
+        <link href="https://www.youtube.com/shorts/Ilwv-9FKgKE"/>
+        <updated>2026-04-30T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സംഗീതമേളങ്ങൾ l Celebration Songs | Evergreen Malayalam Film Hits l Nisari Music]]></title>
         <id>https://www.youtube.com/watch?v=0Cm_8NU8O2Q</id>
@@ -11698,16 +11735,6 @@
         <updated>2026-03-31T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/Z8jiqlvvrww</id>
-        <link href="https://www.youtube.com/shorts/Z8jiqlvvrww"/>
-        <updated>2026-03-31T22:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
