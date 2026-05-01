@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T16:41:33.281Z</updated>
+    <updated>2026-05-01T17:45:44.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11515,54 +11515,6 @@
         <updated>2026-04-02T05:59:12.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayil Oru Dhukhavelli | Elizabeth Raju | Jimmy Malavana | Dr. Kiran George | #goodfriday]]></title>
-        <id>https://www.youtube.com/watch?v=vR2NnKl-MS4</id>
-        <link href="https://www.youtube.com/watch?v=vR2NnKl-MS4"/>
-        <updated>2026-04-02T05:44:51.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninnil Nizhalay Tharattu Moolum | Police |Video | Prithviraj | Indrajith | Ouseppachan | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=guAtkNXOMLs</id>
-        <link href="https://www.youtube.com/watch?v=guAtkNXOMLs"/>
-        <updated>2026-04-02T05:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novakalum Nombukalam day 46]]></title>
-        <id>https://www.youtube.com/shorts/ife_HUZ7l64</id>
-        <link href="https://www.youtube.com/shorts/ife_HUZ7l64"/>
-        <updated>2026-04-02T05:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✝️Pesaha Worship Song..#matchpointfaith #matchpointcreations #greatlentsongs #valiyanombu]]></title>
-        <id>https://www.youtube.com/shorts/wul9EHGvhUw</id>
-        <link href="https://www.youtube.com/shorts/wul9EHGvhUw"/>
-        <updated>2026-04-02T05:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✝️Pesaha Worship Song.. #matchpointfaith #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/K-pqHLhzMsA</id>
-        <link href="https://www.youtube.com/shorts/K-pqHLhzMsA"/>
-        <updated>2026-04-02T05:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
 </feed>
