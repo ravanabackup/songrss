@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T07:57:20.977Z</updated>
+    <updated>2026-05-01T09:27:16.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kolakuzhal Vili Ketto 4K Video Song | Nivedyam | Vinu Mohan | Bhama | Shweta Mohan | Vijay Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=LoS3nNBrCfk</id>
+        <link href="https://www.youtube.com/watch?v=LoS3nNBrCfk"/>
+        <updated>2026-05-01T09:19:51.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arike Ennakilum Ethra Dooram | അരികെ എന്നാകിലും...| Dooram Arike | KJ Yesudas | Ilayaraja Song]]></title>
+        <id>https://www.youtube.com/shorts/yFcv2i37Egw</id>
+        <link href="https://www.youtube.com/shorts/yFcv2i37Egw"/>
+        <updated>2026-05-01T08:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tharapadham Chethoharam Video Song | Anaswaram Movie Song | SP Balasubramaniam | REMASTERED AUDIO |]]></title>
         <id>https://www.youtube.com/watch?v=AWvhSoBagdE</id>
