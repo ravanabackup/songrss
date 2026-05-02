@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T16:33:59.676Z</updated>
+    <updated>2026-05-02T17:34:45.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11174,35 +11174,6 @@
         <updated>2026-04-03T07:00:00.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Hariharan | Amruthamayi Abhayamayi | Snehaveedu #hariharan #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/5bOAtePN5pE</id>
-        <link href="https://www.youtube.com/shorts/5bOAtePN5pE"/>
-        <updated>2026-04-03T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദുഃഖവെള്ളി ഗാനങ്ങൾ |  @JinoKunnumpurathu  #malayalamchristiansong #zionclassics #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=gNGZWBVn2YY</id>
-        <link href="https://www.youtube.com/watch?v=gNGZWBVn2YY"/>
-        <updated>2026-04-03T05:08:45.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurishil | Shorts #manoramachristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/uOuTpSSZBBc</id>
-        <link href="https://www.youtube.com/shorts/uOuTpSSZBBc"/>
-        <updated>2026-04-03T05:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
