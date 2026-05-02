@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T10:39:29.109Z</updated>
+    <updated>2026-05-02T11:35:25.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Bhajans Malayalam | ക്രിസ്തീയ ഭജൻ | Christian Devotional Songs | Match Point Faith |]]></title>
+        <id>https://www.youtube.com/watch?v=czx4l7YQR4Q</id>
+        <link href="https://www.youtube.com/watch?v=czx4l7YQR4Q"/>
+        <updated>2026-05-02T11:30:06.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maan Kidave | മാൻ കിടാവേ...| Dooram Arike Movie | P Jayachandran Song | Ilayaraja]]></title>
+        <id>https://www.youtube.com/watch?v=G0L3uL0dC6Y</id>
+        <link href="https://www.youtube.com/watch?v=G0L3uL0dC6Y"/>
+        <updated>2026-05-02T11:29:36.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOSE | Official Trailer | Siju Wilson, Aswin K Kumar | Abhilash R Nair | Gopi Sundar | Shanto Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=_ZlWpPcMlig</id>
+        <link href="https://www.youtube.com/watch?v=_ZlWpPcMlig"/>
+        <updated>2026-05-02T10:51:54.000Z</updated>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premamadhu Thedum 4K Video Song | Snehithan | Kunchacko Boban | Preetha | KJ Yesudas | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=w0kMubMp53k</id>
@@ -11088,43 +11115,6 @@
         <updated>2026-04-03T00:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദുഃഖ ശനി ഗീതങ്ങൾ | Holy Week Songs 2026 | Lent Songs | Gagul Joseph | Joji Johns | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dqQLe8JDKsw</id>
-        <link href="https://www.youtube.com/watch?v=dqQLe8JDKsw"/>
-        <updated>2026-04-02T23:30:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Friday Songs Malayalam # Dhukha Velliyazhcha Ganangal #goodfridaysongs Malayalam Christian]]></title>
-        <id>https://www.youtube.com/watch?v=5PZ__Gbbsxk</id>
-        <link href="https://www.youtube.com/watch?v=5PZ__Gbbsxk"/>
-        <updated>2026-04-02T23:30:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Friday Song Malayalam # Dhukha Velliyazhcha Ganangal #goodfridaysong Malayalam Christian]]></title>
-        <id>https://www.youtube.com/shorts/1BWDonv6pvM</id>
-        <link href="https://www.youtube.com/shorts/1BWDonv6pvM"/>
-        <updated>2026-04-02T23:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarunna Thiramalakalkkppuram | Kester | Prathyasha Geethangal | Praise and Worship Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=fERitFx2mbU</id>
-        <link href="https://www.youtube.com/watch?v=fERitFx2mbU"/>
-        <updated>2026-04-02T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
