@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T21:30:24.857Z</updated>
+    <updated>2026-05-03T22:28:06.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10903,15 +10903,6 @@
         <id>https://www.youtube.com/watch?v=JYB53VbzVDg</id>
         <link href="https://www.youtube.com/watch?v=JYB53VbzVDg"/>
         <updated>2026-04-04T10:30:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈസ്റ്റർ ദിനത്തിൽ കേൾക്കാൻ പറ്റിയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #easter #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=pzYgrdBxT7I</id>
-        <link href="https://www.youtube.com/watch?v=pzYgrdBxT7I"/>
-        <updated>2026-04-04T09:49:40.000Z</updated>
         <author>
             <name>ZionClassics</name>
         </author>
