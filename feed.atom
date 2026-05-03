@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T17:36:49.079Z</updated>
+    <updated>2026-05-03T18:39:45.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10924,24 +10924,6 @@
         <updated>2026-04-04T07:00:00.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalabathil Munghivarum | കളഭത്തിൽ മുങ്ങിവരും | Ayodhya Movie | Yesudas | P Madhuri | Everegreen Hit]]></title>
-        <id>https://www.youtube.com/watch?v=Oy4qn7SvkBs</id>
-        <link href="https://www.youtube.com/watch?v=Oy4qn7SvkBs"/>
-        <updated>2026-04-04T06:33:58.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.ഓർമ്മയിലെ ചലച്ചിത്രഗാനങ്ങൾ l Nisari Musioc l  Nostalgic Malayalam Film 78-90S   Songs]]></title>
-        <id>https://www.youtube.com/watch?v=PkQM2ctZIzg</id>
-        <link href="https://www.youtube.com/watch?v=PkQM2ctZIzg"/>
-        <updated>2026-04-04T06:30:26.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
