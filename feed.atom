@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T22:40:47.952Z</updated>
+    <updated>2026-05-06T23:38:36.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11024,16 +11024,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tour Song | Hanan Shah | Derby | Adam Sabiq | Ameen #hananshah #gopisundar #shorts]]></title>
-        <id>https://www.youtube.com/shorts/o1jU1uHRLWw</id>
-        <link href="https://www.youtube.com/shorts/o1jU1uHRLWw"/>
-        <updated>2026-04-07T11:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[25 Years of Celebration in Music Production & Distribution | Ep:55 | Part 1 | Neeyariyathe]]></title>
         <id>https://www.youtube.com/shorts/_DBX_StwR9A</id>
         <link href="https://www.youtube.com/shorts/_DBX_StwR9A"/>
@@ -11041,33 +11031,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambuli Rock - Video Song | Leader | Legend Saravanan | R. S. Durai Senthilkumar | Ghibran Vaibodha]]></title>
-        <id>https://www.youtube.com/watch?v=3g1IJBuI7k8</id>
-        <link href="https://www.youtube.com/watch?v=3g1IJBuI7k8"/>
-        <updated>2026-04-07T11:30:03.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചെമ്പകത്തൈകള്‍ പൂത്ത മാനത്ത് പൊന്നമ്പിളി | Chembakathaikal pootha | Kathirunna Nimisham | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=-hIQFlyyyXw</id>
-        <link href="https://www.youtube.com/watch?v=-hIQFlyyyXw"/>
-        <updated>2026-04-07T11:30:00.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paranju Theeratha Dhanangal | Abhijith Kollam | Sam Alex | Senu Thomas | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=raq9X0TFKBs</id>
-        <link href="https://www.youtube.com/watch?v=raq9X0TFKBs"/>
-        <updated>2026-04-07T11:14:25.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
