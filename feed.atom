@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T22:42:22.697Z</updated>
+    <updated>2026-05-08T23:43:09.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവകൃപയുടെ തണലിൽ | Prathyasha Geethangal | Praise and Worship Songs | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Ms-TT5B-lmw</id>
+        <link href="https://www.youtube.com/watch?v=Ms-TT5B-lmw"/>
+        <updated>2026-05-08T23:30:11.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/1rsBihc7wBM</id>
+        <link href="https://www.youtube.com/shorts/1rsBihc7wBM"/>
+        <updated>2026-05-08T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മെയ് 09, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=rEdvH-vo7ZI</id>
+        <link href="https://www.youtube.com/watch?v=rEdvH-vo7ZI"/>
+        <updated>2026-05-08T22:30:26.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 9 # Athiravile Prarthana 9th of May 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=rKietYU97k8</id>
@@ -11184,34 +11212,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിന്റെ കരസ്പർശം തന്ന ഗാനം | Mriduvam Karangal |  #jinokunnumpurath #shorts #lent #osana]]></title>
-        <id>https://www.youtube.com/shorts/22htKheGJfs</id>
-        <link href="https://www.youtube.com/shorts/22htKheGJfs"/>
-        <updated>2026-04-09T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vishu Drop - Lyrical Video | Saarika Gopinath | SanDy | Suveesh Viswa]]></title>
-        <id>https://www.youtube.com/watch?v=MUWPQbV58as</id>
-        <link href="https://www.youtube.com/watch?v=MUWPQbV58as"/>
-        <updated>2026-04-09T11:28:06.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivam Cheytha Nanmakalkkellam | Keys Band | The Bhajan Vibe | Malayalam Christian Songs | Bhajans]]></title>
-        <id>https://www.youtube.com/watch?v=t40UuY2hOV8</id>
-        <link href="https://www.youtube.com/watch?v=t40UuY2hOV8"/>
-        <updated>2026-04-09T10:52:55.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
