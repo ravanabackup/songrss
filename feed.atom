@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T20:01:23.001Z</updated>
+    <updated>2026-05-08T21:45:53.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 9 # Athiravile Prarthana 9th of May 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=rKietYU97k8</id>
+        <link href="https://www.youtube.com/watch?v=rKietYU97k8"/>
+        <updated>2026-05-08T20:00:39.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th of May 2026]]></title>
         <id>https://www.youtube.com/watch?v=RtaqIVTT-R8</id>
@@ -11213,16 +11222,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#pakalpooram  #dancehits #love #song]]></title>
-        <id>https://www.youtube.com/shorts/CXJTTQXE8pc</id>
-        <link href="https://www.youtube.com/shorts/CXJTTQXE8pc"/>
-        <updated>2026-04-09T08:24:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
