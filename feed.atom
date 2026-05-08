@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T10:13:33.605Z</updated>
+    <updated>2026-05-08T12:02:22.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Naanga Naalu Peru - Live Performance| Suriya's Karuppu | RJ Balaji | @SaiAbhyankkar | Asal Kolaar]]></title>
+        <id>https://www.youtube.com/watch?v=GFGBPTz8Yqg</id>
+        <link href="https://www.youtube.com/watch?v=GFGBPTz8Yqg"/>
+        <updated>2026-05-08T11:32:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thacholiyomana | തച്ചോളിയോമന...| Kadathanadan Ambadi | KJ Yesudas | P Bhaskaran Master]]></title>
+        <id>https://www.youtube.com/watch?v=XAONt6TA1Lg</id>
+        <link href="https://www.youtube.com/watch?v=XAONt6TA1Lg"/>
+        <updated>2026-05-08T11:30:33.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Years of Celebration in Music Production & Distribution | Ep: 69 @ZionClassics]]></title>
+        <id>https://www.youtube.com/shorts/O4RN6X8f7fU</id>
+        <link href="https://www.youtube.com/shorts/O4RN6X8f7fU"/>
+        <updated>2026-05-08T11:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuzhaloothum (Unplugged Melody Cover) | Video Song | Sangeetha Sreekanth | Prasobh Ramachandran]]></title>
+        <id>https://www.youtube.com/watch?v=R4HO2U9q1GU</id>
+        <link href="https://www.youtube.com/watch?v=R4HO2U9q1GU"/>
+        <updated>2026-05-08T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhagyame Suvisesha Bhagyame | Shorts #manoramachristiansongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/shorts/tTTO1YzkBsI</id>
+        <link href="https://www.youtube.com/shorts/tTTO1YzkBsI"/>
+        <updated>2026-05-08T11:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam Cheytha | Namo Namo | Keys Band | Shorts | Bhajans #bhajans #shortsfeed]]></title>
+        <id>https://www.youtube.com/shorts/fhpmbaTjw0Y</id>
+        <link href="https://www.youtube.com/shorts/fhpmbaTjw0Y"/>
+        <updated>2026-05-08T11:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീ നിന്റെ വില കുറയ്ക്കരുത് |  Rev. Aneesh P Joseph | #motivation  #trending #shortsyoutube]]></title>
+        <id>https://www.youtube.com/shorts/EHbmsEYw8Dg</id>
+        <link href="https://www.youtube.com/shorts/EHbmsEYw8Dg"/>
+        <updated>2026-05-08T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaaram Thaaram HD Video Song | Sreekrishnapurathe Nakshathrathilakkam | Singer (K. J. Yesudas)]]></title>
+        <id>https://www.youtube.com/watch?v=XpY0tobn-qU</id>
+        <link href="https://www.youtube.com/watch?v=XpY0tobn-qU"/>
+        <updated>2026-05-08T10:16:43.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parayathe Ariyathe | Video Song | Udayananu Tharam | Mohanlal | Meena]]></title>
         <id>https://www.youtube.com/watch?v=9gNxZEHX8vo</id>
@@ -11056,43 +11132,6 @@
         <updated>2026-04-09T00:30:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nirashayakatti Santhosham Nalkunna Ganangal | M.G Sreekumar | Kester |  Celin Jose | Jyotsna]]></title>
-        <id>https://www.youtube.com/watch?v=KmoZo3Gbjpo</id>
-        <link href="https://www.youtube.com/watch?v=KmoZo3Gbjpo"/>
-        <updated>2026-04-09T00:00:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിനെ പഴയകാലത്തേക്ക് കൂട്ടിക്കൊണ്ടുപോകുന്നഗാനങ്ങൾ | Prathyasha Geethangal | Kester | Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ucKY9N9qyow</id>
-        <link href="https://www.youtube.com/watch?v=ucKY9N9qyow"/>
-        <updated>2026-04-08T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/5N4Xdms9bXI</id>
-        <link href="https://www.youtube.com/shorts/5N4Xdms9bXI"/>
-        <updated>2026-04-08T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏപ്രിൽ 09, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=qPxty8bLJ4s</id>
-        <link href="https://www.youtube.com/watch?v=qPxty8bLJ4s"/>
-        <updated>2026-04-08T22:30:12.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
