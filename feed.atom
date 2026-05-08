@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T16:06:38.075Z</updated>
+    <updated>2026-05-08T18:02:06.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11259,35 +11259,6 @@
         <updated>2026-04-09T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kizhakkumala Kammalitta | Kadha Thudarunnu #ilayaraja #shortsfeed #shortsvideo #reels #filmsongs]]></title>
-        <id>https://www.youtube.com/shorts/G0opCX6AAME</id>
-        <link href="https://www.youtube.com/shorts/G0opCX6AAME"/>
-        <updated>2026-04-09T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibe to #PavazhaMalli 🎶✨ #SaiAbhyankkar #Keerthu #Harshitha #ThinkIndie]]></title>
-        <id>https://www.youtube.com/shorts/vAEKTJEPnbs</id>
-        <link href="https://www.youtube.com/shorts/vAEKTJEPnbs"/>
-        <updated>2026-04-09T04:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandhana Shilakalil | ചന്ദനശിലകളിൽ അമ്പിളി...| Sakthi Movie | P Susheela | P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=4i2zuEOwoIE</id>
-        <link href="https://www.youtube.com/watch?v=4i2zuEOwoIE"/>
-        <updated>2026-04-09T04:30:06.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
