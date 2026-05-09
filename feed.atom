@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T21:31:54.503Z</updated>
+    <updated>2026-05-09T22:30:29.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മെയ് 10, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=3Au3J0NTGyA</id>
+        <link href="https://www.youtube.com/watch?v=3Au3J0NTGyA"/>
+        <updated>2026-05-09T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 10 # Athiravile Prarthana 10th of May 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Ii0WmN6AlUo</id>
@@ -11272,43 +11281,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉള്ളിലെ കനലുകൾ അറിയുന്ന ദൈവം  | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/Ccy7JEDRllI</id>
-        <link href="https://www.youtube.com/shorts/Ccy7JEDRllI"/>
-        <updated>2026-04-10T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സിലെ സംഗീതം | Nisari Music | Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6KkiNCXeeUk</id>
-        <link href="https://www.youtube.com/watch?v=6KkiNCXeeUk"/>
-        <updated>2026-04-10T10:00:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nirantharam Njan Vazhtheedume | നിരന്തരം ഞാൻ വാഴ്ത്തീടുമേ | Binoy Chacko | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=HcIntRdIs5g</id>
-        <link href="https://www.youtube.com/watch?v=HcIntRdIs5g"/>
-        <updated>2026-04-10T09:44:21.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayil Oru Dhukhavelli | Elizabeth Raju | Biju Narayanan | Jimmy Malavana | Dr. Kiran George]]></title>
-        <id>https://www.youtube.com/watch?v=ZaLGMdsPnew</id>
-        <link href="https://www.youtube.com/watch?v=ZaLGMdsPnew"/>
-        <updated>2026-04-10T09:39:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
