@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T20:32:04.341Z</updated>
+    <updated>2026-05-09T21:31:54.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11309,16 +11309,6 @@
         <updated>2026-04-10T09:39:11.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Friday, time to go full power with Ndaakkippaattu from Thallumaala 🔥🕺 🥁]]></title>
-        <id>https://www.youtube.com/shorts/ROQx2ePXKZM</id>
-        <link href="https://www.youtube.com/shorts/ROQx2ePXKZM"/>
-        <updated>2026-04-10T09:03:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
