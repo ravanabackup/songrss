@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T23:43:09.642Z</updated>
+    <updated>2026-05-09T01:44:29.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന |Christian Devotional song Malayalam| Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/SSH893TtXY0</id>
+        <link href="https://www.youtube.com/shorts/SSH893TtXY0"/>
+        <updated>2026-05-09T01:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവകൃപയുടെ തണലിൽ | Prathyasha Geethangal | Praise and Worship Songs | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=Ms-TT5B-lmw</id>
@@ -11174,16 +11184,6 @@
         <updated>2026-04-09T12:48:55.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chankinakathoru Novunde......#christiandevotionalsongsmalayalam #rajkumarradhakrishnan]]></title>
-        <id>https://www.youtube.com/shorts/pP3tOz4BqiU</id>
-        <link href="https://www.youtube.com/shorts/pP3tOz4BqiU"/>
-        <updated>2026-04-09T12:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
