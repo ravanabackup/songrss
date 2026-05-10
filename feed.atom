@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T16:39:31.343Z</updated>
+    <updated>2026-05-10T17:40:08.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 May 2026]]></title>
+        <id>https://www.youtube.com/shorts/O_FDQMsIDHE</id>
+        <link href="https://www.youtube.com/shorts/O_FDQMsIDHE"/>
+        <updated>2026-05-10T17:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karuppu (Tamil) - Trailer | Suriya | RJ Balaji | Trisha |  @SaiAbhyankkar | Dream Warrior | May 14]]></title>
         <id>https://www.youtube.com/watch?v=JpVl_-1YgIo</id>
@@ -11244,44 +11254,6 @@
         <updated>2026-04-11T05:45:50.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhavettanennum | Oru marubhoomi kadha #shortsfeed #shortsvideo #reels #filmsongs #shrots]]></title>
-        <id>https://www.youtube.com/shorts/YMDahRxQvVI</id>
-        <link href="https://www.youtube.com/shorts/YMDahRxQvVI"/>
-        <updated>2026-04-11T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Derby - Friendship Song | Adam Sabiq, Ameen, Hari Sivaram, Anu, Jasnya | Sajil Mampad | Gopi Sundar]]></title>
-        <id>https://www.youtube.com/shorts/peEeDPv6tes</id>
-        <link href="https://www.youtube.com/shorts/peEeDPv6tes"/>
-        <updated>2026-04-11T05:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കനകാനിലാവിലെ തുമ്പി പെണ്ണെ വാവ l Nisari Music l 🌟 Golden Malayalam Film Hits | Evergreen Classics]]></title>
-        <id>https://www.youtube.com/watch?v=hVGOD_G3ReU</id>
-        <link href="https://www.youtube.com/watch?v=hVGOD_G3ReU"/>
-        <updated>2026-04-11T05:00:46.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehaswaroopa | M G Sreekumar | Karthik | Celin Shoji | Malayalam Christian Songs | Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=DAIsFVl3pNw</id>
-        <link href="https://www.youtube.com/watch?v=DAIsFVl3pNw"/>
-        <updated>2026-04-11T04:58:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
