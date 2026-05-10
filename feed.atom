@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T10:51:47.957Z</updated>
+    <updated>2026-05-10T11:39:32.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25 Years of Celebration in Music Production & Distribution Ep: 70 Ushakala (Mariyam)@ZionClassics]]></title>
+        <id>https://www.youtube.com/shorts/1TvRdvbkndg</id>
+        <link href="https://www.youtube.com/shorts/1TvRdvbkndg"/>
+        <updated>2026-05-10T11:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാത്തിരിക്കാനുള്ള മനസ്സ് |  Rev. Aneesh P Joseph | #motivation  #trending]]></title>
         <id>https://www.youtube.com/shorts/Qy-d-vMFpYQ</id>
@@ -11261,25 +11271,6 @@
         <id>https://www.youtube.com/watch?v=HiVhgXt7kho</id>
         <link href="https://www.youtube.com/watch?v=HiVhgXt7kho"/>
         <updated>2026-04-11T00:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാത്രിയിൽ മനസിന് കുളിർമയേകാൻ ഈ പ്രാർത്ഥനാ ഗാനങ്ങൾ | Prathyasha Geethangal | Christian Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=hZ9rLHcjW3o</id>
-        <link href="https://www.youtube.com/watch?v=hZ9rLHcjW3o"/>
-        <updated>2026-04-10T23:30:00.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/aj7ivgHnIUk</id>
-        <link href="https://www.youtube.com/shorts/aj7ivgHnIUk"/>
-        <updated>2026-04-10T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
