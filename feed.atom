@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T01:45:16.350Z</updated>
+    <updated>2026-05-10T05:25:54.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nee Yamini | നീ യാമിനീ...| Thalasthanam Movie | MG Sreekumar | KS Chithra | Johnson | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=AegIacRzKv8</id>
+        <link href="https://www.youtube.com/watch?v=AegIacRzKv8"/>
+        <updated>2026-05-10T04:30:05.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konchi Karayalle | Rahman | Rohini | Poomukhappadiyil Ninneyum Kaathu | ilaiyaraja | Kj Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=l30Vf97LsDw</id>
+        <link href="https://www.youtube.com/watch?v=l30Vf97LsDw"/>
+        <updated>2026-05-10T04:28:17.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Nallavan | Vrinda | Shorts #bhajans #shorts]]></title>
+        <id>https://www.youtube.com/shorts/4L1XfYzBXKI</id>
+        <link href="https://www.youtube.com/shorts/4L1XfYzBXKI"/>
+        <updated>2026-05-10T02:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന |Christian Devotional song Malayalam| Music Spread]]></title>
         <id>https://www.youtube.com/shorts/yxz44SKO3jQ</id>
