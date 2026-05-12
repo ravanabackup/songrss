@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T20:22:44.994Z</updated>
+    <updated>2026-05-12T22:00:12.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11291,34 +11291,6 @@
         <updated>2026-04-13T10:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninmukham | Music Video | Pranayalahala | Ajmal Shah | Hanees Shaji | Anandha Gopan]]></title>
-        <id>https://www.youtube.com/watch?v=xYvTfVKxee8</id>
-        <link href="https://www.youtube.com/watch?v=xYvTfVKxee8"/>
-        <updated>2026-04-13T09:36:15.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abhaya Deepame Theliyu | അഭയ ദീപമേ തെളിയൂ... | Amruthavahini Movie | S Janaki evergreen Song]]></title>
-        <id>https://www.youtube.com/shorts/gawZn9rLp6I</id>
-        <link href="https://www.youtube.com/shorts/gawZn9rLp6I"/>
-        <updated>2026-04-13T08:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90-കളിലെ മലയാള സിനിമയുടെ മാന്ത്രികത നിറഞ്ഞ പാട്ടുകൾ Nisari music l Evergreen Malayalam Film Songs |]]></title>
-        <id>https://www.youtube.com/watch?v=YwejZBmGP7k</id>
-        <link href="https://www.youtube.com/watch?v=YwejZBmGP7k"/>
-        <updated>2026-04-13T08:30:17.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
