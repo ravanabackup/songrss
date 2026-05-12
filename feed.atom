@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T16:09:31.080Z</updated>
+    <updated>2026-05-12T18:28:25.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athiradi - Official Trailer | Tovino Thomas | Basil Joseph | Arun Anirudhan | Vishnu Vijay]]></title>
+        <id>https://www.youtube.com/watch?v=syBtRf69q6s</id>
+        <link href="https://www.youtube.com/watch?v=syBtRf69q6s"/>
+        <updated>2026-05-12T18:10:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parumala Thirumeni Madhyastha Prarthana | Intercessory Prayer | പരുമല തിരുമേനി മധ്യസ്ഥ പ്രാർത്ഥന]]></title>
         <id>https://www.youtube.com/shorts/HFStHuDrqZs</id>
@@ -11301,81 +11310,6 @@
         <updated>2026-04-13T06:47:40.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninnil Mungi Thorneedam Kannaa | Madhurame Jeevitham | Mathew Skaria | Siddique | Vinaya Prasad]]></title>
-        <id>https://www.youtube.com/watch?v=laeRc3-bXgY</id>
-        <link href="https://www.youtube.com/watch?v=laeRc3-bXgY"/>
-        <updated>2026-04-13T06:22:23.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amruthamayi Abhayamai | Sneha Veedu |Video| Mohanlal |Sathyan Anthikkad|Rafeeq Ahammed | Ilaiyaraaja]]></title>
-        <id>https://www.youtube.com/watch?v=07v-SgbxRTs</id>
-        <link href="https://www.youtube.com/watch?v=07v-SgbxRTs"/>
-        <updated>2026-04-13T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alayum Kaattin#emotional #mammootty #song]]></title>
-        <id>https://www.youtube.com/shorts/eqLsIyucQto</id>
-        <link href="https://www.youtube.com/shorts/eqLsIyucQto"/>
-        <updated>2026-04-13T05:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadeeram | Vrinda Menon | Eldridge Isaacs | Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/hMSNXL0GKXc</id>
-        <link href="https://www.youtube.com/shorts/hMSNXL0GKXc"/>
-        <updated>2026-04-13T05:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadeeram | Vrinda Menon | Eldridge Isaacs | Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/FC8l3YQz7J8</id>
-        <link href="https://www.youtube.com/shorts/FC8l3YQz7J8"/>
-        <updated>2026-04-13T05:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abhaya Deepame Theliyu | അഭയ ദീപമേ തെളിയൂ... | Amruthavahini Movie | S Janaki evergreen Song]]></title>
-        <id>https://www.youtube.com/watch?v=uQKyyqgbejY</id>
-        <link href="https://www.youtube.com/watch?v=uQKyyqgbejY"/>
-        <updated>2026-04-13T05:05:54.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chellakkatte Mulla | Ingane Oru Nilapakshi | Kunchacko Boban | Sneha | MG Sreekumar | Anil Babu]]></title>
-        <id>https://www.youtube.com/watch?v=RNx8FlDG2O0</id>
-        <link href="https://www.youtube.com/watch?v=RNx8FlDG2O0"/>
-        <updated>2026-04-13T04:30:14.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirusneha Sangeetham | M G Sreekumar | Kester | Celin Shoji | Malayalam Christian Songs | Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=WbhXGEX6-Jc</id>
-        <link href="https://www.youtube.com/watch?v=WbhXGEX6-Jc"/>
-        <updated>2026-04-13T04:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
