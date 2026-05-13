@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T18:51:24.224Z</updated>
+    <updated>2026-05-13T20:25:26.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 14 # Athiravile Prarthana 14th of May 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=FBSNCBKPIAg</id>
+        <link href="https://www.youtube.com/watch?v=FBSNCBKPIAg"/>
+        <updated>2026-05-13T20:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th of May 2026]]></title>
+        <id>https://www.youtube.com/watch?v=-_HPZ5kAURM</id>
+        <link href="https://www.youtube.com/watch?v=-_HPZ5kAURM"/>
+        <updated>2026-05-13T19:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Night Prayer | Peaceful Bedtime Prayer | Evening Prayer for Family & Sleep]]></title>
         <id>https://www.youtube.com/shorts/K9PbQ1iydpY</id>
@@ -11337,33 +11355,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിസരിഗീതങ്ങൾ | Nisari Music l   Evergreen Malayalam Film Golden Collection l]]></title>
-        <id>https://www.youtube.com/watch?v=pyQHPI5TbRo</id>
-        <link href="https://www.youtube.com/watch?v=pyQHPI5TbRo"/>
-        <updated>2026-04-14T07:30:22.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalamayanaju 4K Enhanced | Pavithram Movie Song | Evergreen Super Hit Movie Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=xznbsJmjhSk</id>
-        <link href="https://www.youtube.com/watch?v=xznbsJmjhSk"/>
-        <updated>2026-04-14T07:19:42.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaarkuzhalee Thenkuruvi Bass Boosted | Meera Jasmine, Kunchacko Boban - Kasthooriman]]></title>
-        <id>https://www.youtube.com/watch?v=b23NabMhjUQ</id>
-        <link href="https://www.youtube.com/watch?v=b23NabMhjUQ"/>
-        <updated>2026-04-14T07:11:05.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
         </author>
     </entry>
 </feed>
