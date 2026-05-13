@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T20:25:26.039Z</updated>
+    <updated>2026-05-13T22:02:44.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11315,46 +11315,6 @@
         <updated>2026-04-14T10:30:06.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninnil Mungi Thorneedam - Out Now #shorts #hanafathim #song #newmovie #movie]]></title>
-        <id>https://www.youtube.com/shorts/oHeB7zbDKog</id>
-        <link href="https://www.youtube.com/shorts/oHeB7zbDKog"/>
-        <updated>2026-04-14T09:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadeeram | Vrinda Menon | Eldridge Isaacs | Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/Apa4MLX9Pys</id>
-        <link href="https://www.youtube.com/shorts/Apa4MLX9Pys"/>
-        <updated>2026-04-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#song #thalamayanju #sadsongstatus  #song #pavithram #mohanlal]]></title>
-        <id>https://www.youtube.com/shorts/9aKjl3aOTFg</id>
-        <link href="https://www.youtube.com/shorts/9aKjl3aOTFg"/>
-        <updated>2026-04-14T08:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanikanum Neram | കണികാണും നേരം |  Vrinda Menon | HD 4k #vishu2026 #vishukkani #vishu]]></title>
-        <id>https://www.youtube.com/shorts/ZVeO0Ik4ACM</id>
-        <link href="https://www.youtube.com/shorts/ZVeO0Ik4ACM"/>
-        <updated>2026-04-14T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Wilson Video Songs</name>
         </author>
     </entry>
 </feed>
