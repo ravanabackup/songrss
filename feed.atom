@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T21:37:22.443Z</updated>
+    <updated>2026-05-16T22:33:45.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11447,34 +11447,6 @@
         <updated>2026-04-17T11:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിന്റെ കരംപിടിച്ചു മുന്നോട്ടുനീങ്ങുക  | Rev. Aneesh P Joseph | #trending #shorts #motivation]]></title>
-        <id>https://www.youtube.com/shorts/olck3UTYm1A</id>
-        <link href="https://www.youtube.com/shorts/olck3UTYm1A"/>
-        <updated>2026-04-17T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Udayam Chamarangal 4K Enhanced | Sakshyam  | K. J. Yesudas | K.S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=lweAfeLrZqQ</id>
-        <link href="https://www.youtube.com/watch?v=lweAfeLrZqQ"/>
-        <updated>2026-04-17T10:22:31.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keli Vipinam HD Video Song | Maanthrikam Malayalam Movie Song | Mohanlal Song, Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=xFIXwLaolOU</id>
-        <link href="https://www.youtube.com/watch?v=xFIXwLaolOU"/>
-        <updated>2026-04-17T10:20:28.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
