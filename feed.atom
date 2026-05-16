@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T10:52:37.126Z</updated>
+    <updated>2026-05-16T11:41:10.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ormayil Oru Dhukhavelli | Biju Narayanan |  @JinoKunnumpurathu   | #bijunarayanansongs  Reel 2]]></title>
+        <id>https://www.youtube.com/shorts/fGtdh40mKLU</id>
+        <link href="https://www.youtube.com/shorts/fGtdh40mKLU"/>
+        <updated>2026-05-16T11:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Rajamalli 4K Video Song | Aniyathipraavu | Kunchacko Boban | Shalini |MG Sreekumar |Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=Jc-8ErXo2E0</id>
+        <link href="https://www.youtube.com/watch?v=Jc-8ErXo2E0"/>
+        <updated>2026-05-16T11:30:26.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalike Sreekalike | കലികേ ശ്രീ കലികേ....|  Agrajan Movie | KJ Yesudas | ONV Kurup | Manoj K Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=G0YozwO8900</id>
+        <link href="https://www.youtube.com/watch?v=G0YozwO8900"/>
+        <updated>2026-05-16T11:30:10.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പരിശുദ്ധാത്മാവേ എന്നിൽ നിറയണമേ #christianalbumsong #christiandevotionalsong #christianprayer #shorts]]></title>
         <id>https://www.youtube.com/shorts/dh71nwEMKl0</id>
@@ -11462,16 +11490,6 @@
         <id>https://www.youtube.com/watch?v=_-pH-bx4epk</id>
         <link href="https://www.youtube.com/watch?v=_-pH-bx4epk"/>
         <updated>2026-04-17T00:30:35.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/M9Y-QRFzhvQ</id>
-        <link href="https://www.youtube.com/shorts/M9Y-QRFzhvQ"/>
-        <updated>2026-04-16T23:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
