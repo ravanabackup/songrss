@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T11:51:49.463Z</updated>
+    <updated>2026-05-17T12:50:06.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 17th of May 2026]]></title>
+        <id>https://www.youtube.com/watch?v=4f3-DwOFvTY</id>
+        <link href="https://www.youtube.com/watch?v=4f3-DwOFvTY"/>
+        <updated>2026-05-17T12:30:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast - Trailer | Arjun, Preity Mukundhan, Abhirami | Ravi Basrur | Subash K Raj | AGS Entertainment]]></title>
+        <id>https://www.youtube.com/watch?v=CSAad4PmfCg</id>
+        <link href="https://www.youtube.com/watch?v=CSAad4PmfCg"/>
+        <updated>2026-05-17T12:30:04.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഓർമ്മകളുടെ ഒരു മനോഹര തീരം... 25 വർഷത്തെ സംഗീത യാത്ര! 🎧 Ep:72 Ammakkorumma Part 2@ZionClassics]]></title>
         <id>https://www.youtube.com/shorts/I9MoBD_GmrI</id>
@@ -11496,15 +11514,6 @@
         <updated>2026-04-18T01:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്നീ പ്രഭാതം Christian Morning Prayer song Ft. Samji Arattupuzha, Chithra Arun, Koombara Baby]]></title>
-        <id>https://www.youtube.com/watch?v=me2uOqu5AkA</id>
-        <link href="https://www.youtube.com/watch?v=me2uOqu5AkA"/>
-        <updated>2026-04-18T00:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
