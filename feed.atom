@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T08:05:48.090Z</updated>
+    <updated>2026-05-17T10:15:26.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enikkothasha Varum Parvatham | Christian Devotional Shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/pvbosxlRbTw</id>
+        <link href="https://www.youtube.com/shorts/pvbosxlRbTw"/>
+        <updated>2026-05-17T09:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaru Paranju 4K Video Song | Pulival Kalyanam| Kavya Madhavan| Jayasurya |KS Chithra |P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=qT3ZPS5LGnE</id>
+        <link href="https://www.youtube.com/watch?v=qT3ZPS5LGnE"/>
+        <updated>2026-05-17T08:30:21.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aromale En Vedhana | ആരോമലേ എൻ വേദന...| Kulapathi | KJ Yesudas | Minmini | Mohan Sithara Song]]></title>
+        <id>https://www.youtube.com/shorts/9ntQTgY3Ceg</id>
+        <link href="https://www.youtube.com/shorts/9ntQTgY3Ceg"/>
+        <updated>2026-05-17T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evideyo Kandathalle 🎵]]></title>
         <id>https://www.youtube.com/shorts/ethGx0fJPI0</id>
