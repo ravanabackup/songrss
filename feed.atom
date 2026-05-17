@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T01:50:38.546Z</updated>
+    <updated>2026-05-17T05:37:59.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nesamana | Kutty Srank #mammootty  #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/shorts/NKwMpVesakY</id>
+        <link href="https://www.youtube.com/shorts/NKwMpVesakY"/>
+        <updated>2026-05-17T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶Vandhanam Yeshupara… #matchpointfaith #matchpointcreations]]></title>
+        <id>https://www.youtube.com/shorts/oCYEae7COPE</id>
+        <link href="https://www.youtube.com/shorts/oCYEae7COPE"/>
+        <updated>2026-05-17T03:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Sthuthi Ninakke | Christian Devotional Shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/BYEM5kn0jvo</id>
+        <link href="https://www.youtube.com/shorts/BYEM5kn0jvo"/>
+        <updated>2026-05-17T02:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന |Christian Devotional song Malayalam| Music Spread]]></title>
         <id>https://www.youtube.com/shorts/R6ugk8pi9kk</id>
@@ -379,6 +409,16 @@
         <updated>2026-05-16T05:30:00.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singa vaayila thala kudukkadhe 🦁🔥 #suriya #rjbalaji #karuppu]]></title>
+        <id>https://www.youtube.com/shorts/ZQ_0Iu5mSZA</id>
+        <link href="https://www.youtube.com/shorts/ZQ_0Iu5mSZA"/>
+        <updated>2026-05-16T03:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
         </author>
     </entry>
     <entry>
@@ -11388,26 +11428,6 @@
         <updated>2026-04-17T19:00:35.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Kanam Enniku Ente… #matchpointfaith #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/BlEmVxS5H9E</id>
-        <link href="https://www.youtube.com/shorts/BlEmVxS5H9E"/>
-        <updated>2026-04-17T14:56:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivam Kanivayi | ദൈവം കനിവായ് | Maramon Convention song| Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/wDLoONz_BCU</id>
-        <link href="https://www.youtube.com/shorts/wDLoONz_BCU"/>
-        <updated>2026-04-17T14:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
