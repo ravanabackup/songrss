@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T19:10:13.694Z</updated>
+    <updated>2026-05-20T21:27:43.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 21 # Athiravile Prarthana 21st of May 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_iOP4cZSQ54</id>
+        <link href="https://www.youtube.com/watch?v=_iOP4cZSQ54"/>
+        <updated>2026-05-20T20:00:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 21st of May 2026]]></title>
         <id>https://www.youtube.com/watch?v=OOYJkUFCPVg</id>
@@ -11588,35 +11597,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Sadhu Kochukunju Upadeshi songs Mashup… #matchpointfaith #christianmusic #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/4HP5bSvMI1w</id>
-        <link href="https://www.youtube.com/shorts/4HP5bSvMI1w"/>
-        <updated>2026-04-21T09:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthukuda Choodi Nee | മുത്തുക്കുട ചൂടി നീ വാ...| Onnanam Kunnil Oradi Kunnil Movie | Old Hit Song]]></title>
-        <id>https://www.youtube.com/shorts/GOKHow3r_9w</id>
-        <link href="https://www.youtube.com/shorts/GOKHow3r_9w"/>
-        <updated>2026-04-21T08:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാഗ സോപാനം | Nisari Music l Evergreen Malayalam Film Songs | Feel Good Hits l]]></title>
-        <id>https://www.youtube.com/watch?v=L0Nij4IR-j0</id>
-        <link href="https://www.youtube.com/watch?v=L0Nij4IR-j0"/>
-        <updated>2026-04-21T07:45:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
