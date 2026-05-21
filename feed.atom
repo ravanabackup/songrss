@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T20:27:49.137Z</updated>
+    <updated>2026-05-21T22:08:07.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11686,26 +11686,6 @@
         <updated>2026-04-22T10:30:06.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ Let the magic of Kandu Kandu melt your heart today 💫 Song of the Day 🎵]]></title>
-        <id>https://www.youtube.com/shorts/NCO2ZoIy73Q</id>
-        <link href="https://www.youtube.com/shorts/NCO2ZoIy73Q"/>
-        <updated>2026-04-22T08:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kumkuma Kuriyaninju | കുങ്കുമക്കുറി അണിഞ്ഞു ആടി വാ...| Onnanam Kunnil Oradi Kunnil | Yesudas Song]]></title>
-        <id>https://www.youtube.com/shorts/qOVUp1WYNKI</id>
-        <link href="https://www.youtube.com/shorts/qOVUp1WYNKI"/>
-        <updated>2026-04-22T08:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
