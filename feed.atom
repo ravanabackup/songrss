@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T18:49:34.515Z</updated>
+    <updated>2026-05-21T20:27:49.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 22 # Athiravile Prarthana 22nd of May 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=6Ore2rstf5s</id>
+        <link href="https://www.youtube.com/watch?v=6Ore2rstf5s"/>
+        <updated>2026-05-21T20:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd of May 2026]]></title>
+        <id>https://www.youtube.com/watch?v=-RPJnWFvD8M</id>
+        <link href="https://www.youtube.com/watch?v=-RPJnWFvD8M"/>
+        <updated>2026-05-21T19:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21 May 2026]]></title>
         <id>https://www.youtube.com/shorts/qRljBao-EV8</id>
@@ -11688,33 +11706,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varuvin Yeshuvin | വരുവിൻ യേശുവിന്നരികിൽ | M. E. Cherian | Maria Kolady | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=0ij75CDvf-k</id>
-        <link href="https://www.youtube.com/watch?v=0ij75CDvf-k"/>
-        <updated>2026-04-22T08:00:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വീണ്ടും വീണ്ടും കേൾവിയിലും ഹൃദയത്തിലും l Nisari Music | Evergreen Malayalam Hits]]></title>
-        <id>https://www.youtube.com/watch?v=LH8gYXOdGYA</id>
-        <link href="https://www.youtube.com/watch?v=LH8gYXOdGYA"/>
-        <updated>2026-04-22T07:30:25.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithu Kathirvelan Kadhal - Anbe Anbe Video With Lyrics | Harris Jayaraj | Udhayanidhi Stalin]]></title>
-        <id>https://www.youtube.com/watch?v=AOQ-R5zja7w</id>
-        <link href="https://www.youtube.com/watch?v=AOQ-R5zja7w"/>
-        <updated>2026-04-22T07:00:08.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
