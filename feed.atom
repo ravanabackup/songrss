@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T01:58:44.506Z</updated>
+    <updated>2026-05-21T06:07:48.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Mohanlal #mohanlal #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/4Fa-pmM6CDA</id>
+        <link href="https://www.youtube.com/shorts/4Fa-pmM6CDA"/>
+        <updated>2026-05-21T04:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gospel of St. Mark - Chapter 6 | Malayalam Audio Bible | Thiruvachanam | Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=bmdViGYx8PE</id>
+        <link href="https://www.youtube.com/watch?v=bmdViGYx8PE"/>
+        <updated>2026-05-21T01:30:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karthavil Santhosham | Christian Devotional Shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/o0HtAsYouV0</id>
+        <link href="https://www.youtube.com/shorts/o0HtAsYouV0"/>
+        <updated>2026-05-21T01:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yahe Angennumen | Shorts #shorts]]></title>
+        <id>https://www.youtube.com/shorts/a0akwSLJYY4</id>
+        <link href="https://www.youtube.com/shorts/a0akwSLJYY4"/>
+        <updated>2026-05-21T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Mohanlal #mohanlal #shortsfeed #shortsvideo #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/zFfXjeofLtg</id>
+        <link href="https://www.youtube.com/shorts/zFfXjeofLtg"/>
+        <updated>2026-05-21T00:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് ശാന്തി നൽകുന്ന പ്രത്യാശ ഗീതങ്ങൾ | Kester | Prathyasha Geethangal | Praise and Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=KoQwdZgTjdI</id>
+        <link href="https://www.youtube.com/watch?v=KoQwdZgTjdI"/>
+        <updated>2026-05-20T23:30:08.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/shorts/ZruiG0Sf-gM</id>
@@ -284,6 +342,15 @@
         <updated>2026-05-20T04:14:53.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalvari Krooshil | Emmanuel KB | Bincy Manayath Alias | Sijo Mathew Jacob | Christian Worship Song]]></title>
+        <id>https://www.youtube.com/watch?v=3ue8at7kLxU</id>
+        <link href="https://www.youtube.com/watch?v=3ue8at7kLxU"/>
+        <updated>2026-05-20T03:59:04.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11441,15 +11508,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neeyo - Audio Song | Hello Mummy | Reyan | Jakes Bejoy | Sharaf U Dheen, Aishwarya Lekshmi]]></title>
-        <id>https://www.youtube.com/watch?v=CjuI7UBz3EM</id>
-        <link href="https://www.youtube.com/watch?v=CjuI7UBz3EM"/>
-        <updated>2026-04-21T15:02:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dhoomarashmithan | Kasavuthattam | P. B. Sreenivas | Vayalar Ramavarma | Malayalam Classic Song]]></title>
         <id>https://www.youtube.com/watch?v=E-o3nyeU-Lk</id>
         <link href="https://www.youtube.com/watch?v=E-o3nyeU-Lk"/>
@@ -11513,15 +11571,6 @@
         <updated>2026-04-21T11:56:48.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Elavathoor 4K Video Song | Meesa Madhavan | Vidyasagar | P Madhuri | Arumughan Vengidangu]]></title>
-        <id>https://www.youtube.com/watch?v=sUbZHkaiY2A</id>
-        <link href="https://www.youtube.com/watch?v=sUbZHkaiY2A"/>
-        <updated>2026-04-21T11:46:21.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
     <entry>
