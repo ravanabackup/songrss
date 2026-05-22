@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T16:11:55.157Z</updated>
+    <updated>2026-05-22T18:26:20.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11770,52 +11770,6 @@
         <updated>2026-04-23T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാതിൽ തുറക്കൂ നീ കാലമേ | Super Hit Malayalam Film Christian Devotional Song | K.J.Yesudas Hit Song]]></title>
-        <id>https://www.youtube.com/watch?v=QfHbfjzyJAU</id>
-        <link href="https://www.youtube.com/watch?v=QfHbfjzyJAU"/>
-        <updated>2026-04-23T06:10:34.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thulli Thulli | Madhuchandralekha #mjayachandran  #vijayyesudas #shortsfeed #shortsvideo #shorts]]></title>
-        <id>https://www.youtube.com/shorts/68B6f8yQzzs</id>
-        <link href="https://www.youtube.com/shorts/68B6f8yQzzs"/>
-        <updated>2026-04-23T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chingapennin | ചിങ്ങപ്പെണ്ണിന്...| Avadharam Movie | S Jankiamma Evergreen Song | AT Ummar]]></title>
-        <id>https://www.youtube.com/watch?v=MiGOzCOAaRk</id>
-        <link href="https://www.youtube.com/watch?v=MiGOzCOAaRk"/>
-        <updated>2026-04-23T05:02:47.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haal (Original Score) - Volume 1 | Shane Nigam | Sakshi Vaidya | Veeraa | Nandhagopan V]]></title>
-        <id>https://www.youtube.com/watch?v=Dxi4gDfqCNQ</id>
-        <link href="https://www.youtube.com/watch?v=Dxi4gDfqCNQ"/>
-        <updated>2026-04-23T04:30:34.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loke Njanen Karaoke | Malayalam Christian Songs Karaoke | Christian Worship Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=uz3Wuzy00dg</id>
-        <link href="https://www.youtube.com/watch?v=uz3Wuzy00dg"/>
-        <updated>2026-04-23T04:17:26.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
