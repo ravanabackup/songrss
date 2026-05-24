@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-24T11:56:36.296Z</updated>
+    <updated>2026-05-24T13:01:55.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zuper Kanmani - Audio Song | Masthishka Maranam | Rajisha Vijayan | Varkey |Lillys Thaddeus|Krishand]]></title>
+        <id>https://www.youtube.com/watch?v=1Sgu4i23vf8</id>
+        <link href="https://www.youtube.com/watch?v=1Sgu4i23vf8"/>
+        <updated>2026-05-24T12:46:14.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 24th of May 2026]]></title>
+        <id>https://www.youtube.com/watch?v=SSAy4kJK17Q</id>
+        <link href="https://www.youtube.com/watch?v=SSAy4kJK17Q"/>
+        <updated>2026-05-24T12:30:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rage #preitymukundhan #arjun #blast]]></title>
+        <id>https://www.youtube.com/shorts/IdeS-ZACUvM</id>
+        <link href="https://www.youtube.com/shorts/IdeS-ZACUvM"/>
+        <updated>2026-05-24T12:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhishmar Streaming Now on Amazon Prime & Sun NXT]]></title>
+        <id>https://www.youtube.com/shorts/rLYgSK5TwjE</id>
+        <link href="https://www.youtube.com/shorts/rLYgSK5TwjE"/>
+        <updated>2026-05-24T12:18:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["പാട്ടുകളിലൂടെ ലോകത്തെ തൊട്ടറിഞ്ഞ ദൈവസ്നേഹം..." 🎤🕊️@ZionClassics  Ep 75 | Parudeesa | Part 1]]></title>
         <id>https://www.youtube.com/shorts/ef-vAmaAMSg</id>
@@ -11633,15 +11671,6 @@
         <updated>2026-04-25T01:50:25.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 25th of April 2026 # Mathavinte Japamala Santhoshathinte Rahasyangal 25th of April 26]]></title>
-        <id>https://www.youtube.com/watch?v=ViQPLNKP0eo</id>
-        <link href="https://www.youtube.com/watch?v=ViQPLNKP0eo"/>
-        <updated>2026-04-25T00:30:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
