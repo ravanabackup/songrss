@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T21:58:42.854Z</updated>
+    <updated>2026-05-25T22:57:36.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മെയ് 26, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=SCEXBEGOlZY</id>
+        <link href="https://www.youtube.com/watch?v=SCEXBEGOlZY"/>
+        <updated>2026-05-25T22:30:18.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 26 # Athiravile Prarthana 26th of May 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=u0-ZIlPvsUw</id>
@@ -11667,16 +11676,6 @@
         <id>https://www.youtube.com/shorts/RsT1Nni6Qow</id>
         <link href="https://www.youtube.com/shorts/RsT1Nni6Qow"/>
         <updated>2026-04-26T11:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നല്ല ഒരു കേൾവിക്കാരനാവുക    |  😇 | Rev. Aneesh P Joseph | #motivation  #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/6QLOG7CUTTs</id>
-        <link href="https://www.youtube.com/shorts/6QLOG7CUTTs"/>
-        <updated>2026-04-26T10:30:08.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
