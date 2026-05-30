@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-30T03:33:27.158Z</updated>
+    <updated>2026-05-30T06:38:36.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Want Everything - Lyric Video | Blast | Arjun | Ravi Basrur | Subash K Raj | AGS Entertainment]]></title>
+        <id>https://www.youtube.com/watch?v=hRL5LkQST_M</id>
+        <link href="https://www.youtube.com/watch?v=hRL5LkQST_M"/>
+        <updated>2026-05-30T06:32:40.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aathi Raasathi - Video Song | Suriya's Karuppu | RJ Balaji | @SaiAbhyankkar| Dream Warrior Pictures]]></title>
+        <id>https://www.youtube.com/watch?v=KBxQHlqrZRc</id>
+        <link href="https://www.youtube.com/watch?v=KBxQHlqrZRc"/>
+        <updated>2026-05-30T05:30:06.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aattinkarayorathe | Rasathanthram | Lyrical + Karaoke Video | Mohanlal  | Ilayaraja | Manjari]]></title>
+        <id>https://www.youtube.com/watch?v=qkkQtDCe9GU</id>
+        <link href="https://www.youtube.com/watch?v=qkkQtDCe9GU"/>
+        <updated>2026-05-30T05:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaalkkannezhuthiya | Paithrukam | Sureshgopi | Jayaram | KJ Yesudas | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=UPOStkHCTik</id>
+        <link href="https://www.youtube.com/watch?v=UPOStkHCTik"/>
+        <updated>2026-05-30T05:15:27.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnaminnikkum | മിന്നാമിന്നിക്കും | Kattappanayile Ritwik Roshan Movie Song | Shankar Mahadevan]]></title>
+        <id>https://www.youtube.com/watch?v=XrFHRSRSjf4</id>
+        <link href="https://www.youtube.com/watch?v=XrFHRSRSjf4"/>
+        <updated>2026-05-30T04:33:03.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Meyyil | എന്റെ മെയ്യില്‍ യൗവ്വന...| Alakadalinakkare Movie | Vani Jairam | Evergreen Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=1B2HNwEL_0w</id>
+        <link href="https://www.youtube.com/watch?v=1B2HNwEL_0w"/>
+        <updated>2026-05-30T04:30:23.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
         <id>https://www.youtube.com/watch?v=umeUAz-hmpI</id>
@@ -11601,15 +11655,6 @@
         <updated>2026-04-30T19:00:19.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആവണി പൂവിൻ | Avani Poovin | CID Unnikrishnan B.A B.Ed Movie Song  | P Jayachandran | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=w5bEVfXaw6M</id>
-        <link href="https://www.youtube.com/watch?v=w5bEVfXaw6M"/>
-        <updated>2026-04-30T17:26:58.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
