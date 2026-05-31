@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-31T15:08:10.055Z</updated>
+    <updated>2026-05-31T16:52:51.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Night Prayer | Peaceful Bedtime Prayer | Evening Prayer for Family & Sleep]]></title>
+        <id>https://www.youtube.com/shorts/SajX-7Yp3Wo</id>
+        <link href="https://www.youtube.com/shorts/SajX-7Yp3Wo"/>
+        <updated>2026-05-31T16:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
         <id>https://www.youtube.com/shorts/vjDl6sklav4</id>
@@ -11732,15 +11742,6 @@
         <updated>2026-05-02T04:54:38.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevante Appam ജീവൻ്റെ അപ്പം Ft. John Britto Augustin Christian devotional songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=nKPTb6BcC68</id>
-        <link href="https://www.youtube.com/watch?v=nKPTb6BcC68"/>
-        <updated>2026-05-02T04:48:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
