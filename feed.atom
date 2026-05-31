@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-31T18:58:49.828Z</updated>
+    <updated>2026-05-31T20:05:02.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st June 2026]]></title>
+        <id>https://www.youtube.com/watch?v=nPqcm-vmIXM</id>
+        <link href="https://www.youtube.com/watch?v=nPqcm-vmIXM"/>
+        <updated>2026-05-31T19:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Night Prayer | Peaceful Bedtime Prayer | Evening Prayer for Family & Sleep]]></title>
         <id>https://www.youtube.com/shorts/SajX-7Yp3Wo</id>
@@ -11643,15 +11652,6 @@
         <updated>2026-05-02T08:27:27.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിനെയും ആത്മാവിനെയും തൊടുന്ന മനോഹരമായ സിനിമാഗാനങ്ങൾl Nisari Music l Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=mkzcTzDic8s</id>
-        <link href="https://www.youtube.com/watch?v=mkzcTzDic8s"/>
-        <updated>2026-05-02T07:30:33.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
