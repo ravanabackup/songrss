@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T00:03:28.634Z</updated>
+    <updated>2026-06-02T05:19:02.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sandhatha Sakhiye - Lofi | Sahasam | K. S. Harisankar | Bibin Ashok | Joyal MJ]]></title>
+        <id>https://www.youtube.com/watch?v=jO1ef9KpD8c</id>
+        <link href="https://www.youtube.com/watch?v=jO1ef9KpD8c"/>
+        <updated>2026-06-02T05:12:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gospel of Luke - Chapter 8 | Bible Reading | New Testament Malayalam | Malayalam Audio Bible]]></title>
         <id>https://www.youtube.com/watch?v=iB1i0mEjQ4g</id>
@@ -11506,16 +11515,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎶Varuvin Yeshuvin…  #matchpointfaith #christianmusic #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/9hLLDdtNpyY</id>
-        <link href="https://www.youtube.com/shorts/9hLLDdtNpyY"/>
-        <updated>2026-05-03T15:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[വിശുദ്ധ ഗീവർഗീസ് സഹദായുടെ പെരുന്നാൾ| St. George Prayers & Songs | Geevarghese sahada perunal 2026]]></title>
         <id>https://www.youtube.com/shorts/70866tUwfu0</id>
         <link href="https://www.youtube.com/shorts/70866tUwfu0"/>
@@ -11523,16 +11522,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Sarva Srishtikalum…#matchpointfaith #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/nHbDDcxLXdg</id>
-        <link href="https://www.youtube.com/shorts/nHbDDcxLXdg"/>
-        <updated>2026-05-03T15:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
