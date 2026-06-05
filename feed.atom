@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T21:14:14.464Z</updated>
+    <updated>2026-06-05T22:54:52.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11643,26 +11643,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ധീരമായി തിരികേ നടക്കണം  Rev. Aneesh P Joseph | #motivation  #trending #shorts]]></title>
-        <id>https://www.youtube.com/shorts/dYEWMdxUQEs</id>
-        <link href="https://www.youtube.com/shorts/dYEWMdxUQEs"/>
-        <updated>2026-05-07T10:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shorts #song #love #dancehits#viral]]></title>
-        <id>https://www.youtube.com/shorts/EEsiG_rvyf8</id>
-        <link href="https://www.youtube.com/shorts/EEsiG_rvyf8"/>
-        <updated>2026-05-07T10:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
