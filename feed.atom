@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T22:58:28.148Z</updated>
+    <updated>2026-06-05T00:02:58.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gospel of Luca - Chapter 1 | Malayalam Audio Bible | Thiruvachanam | POC Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=udqb1x82r-0</id>
+        <link href="https://www.youtube.com/watch?v=udqb1x82r-0"/>
+        <updated>2026-06-05T00:00:27.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs Malayalam | Alenia | Babu Chalakkudy]]></title>
+        <id>https://www.youtube.com/watch?v=OYx9GUAFAfU</id>
+        <link href="https://www.youtube.com/watch?v=OYx9GUAFAfU"/>
+        <updated>2026-06-04T23:30:28.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala  5th of June  2026 # Mathavinte Japamala # Dhukhathinte Rahasyangal 5th of June 2026]]></title>
+        <id>https://www.youtube.com/watch?v=17Hxo-np-4g</id>
+        <link href="https://www.youtube.com/watch?v=17Hxo-np-4g"/>
+        <updated>2026-06-04T23:30:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Priyan Yeshurajan | Prathyashas Geethangal | Christian Worship Songs Malayalam | Old Songs]]></title>
+        <id>https://www.youtube.com/watch?v=z_n_fO9y47Y</id>
+        <link href="https://www.youtube.com/watch?v=z_n_fO9y47Y"/>
+        <updated>2026-06-04T23:30:02.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/fG0HLNy98bI</id>
+        <link href="https://www.youtube.com/shorts/fG0HLNy98bI"/>
+        <updated>2026-06-04T23:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജൂൺ: 05, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=YmSFcKnElPw</id>
@@ -11570,34 +11616,6 @@
         <updated>2026-05-06T12:20:31.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnumillaymayil  | ഒന്നുമില്ലായ്മയിൽ  നിന്നുമെന്നേ  | Kester | #jinokunnumpurath #shorts]]></title>
-        <id>https://www.youtube.com/shorts/ngv6b8-3fWM</id>
-        <link href="https://www.youtube.com/shorts/ngv6b8-3fWM"/>
-        <updated>2026-05-06T11:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalla Muthassiyamma | നല്ല മുത്തശ്ശിയമ്മ | Oru Muthassikatha | MG Sreekumar | Sujatha | P Leela Song]]></title>
-        <id>https://www.youtube.com/watch?v=HBuZKxYJKxQ</id>
-        <link href="https://www.youtube.com/watch?v=HBuZKxYJKxQ"/>
-        <updated>2026-05-06T11:30:11.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maskara Song | Angam Attahasam |  Madhav Suresh | Saiju Kurup | Indravathy Chauhan | Sujith S Nair]]></title>
-        <id>https://www.youtube.com/watch?v=CjgCY8ncLvQ</id>
-        <link href="https://www.youtube.com/watch?v=CjgCY8ncLvQ"/>
-        <updated>2026-05-06T11:16:07.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
