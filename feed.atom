@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T13:14:51.283Z</updated>
+    <updated>2026-06-07T15:15:53.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/oDvdDapWOQo</id>
+        <link href="https://www.youtube.com/shorts/oDvdDapWOQo"/>
+        <updated>2026-06-07T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
+        <id>https://www.youtube.com/shorts/_B7dH699Zrs</id>
+        <link href="https://www.youtube.com/shorts/_B7dH699Zrs"/>
+        <updated>2026-06-07T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maarivil Kavaadam - Audio Song | Masthishka Maranam | Rajisha Vijayan | Varkey | Sooraj Santhosh]]></title>
         <id>https://www.youtube.com/watch?v=yv04jPb11HA</id>
@@ -11548,26 +11568,6 @@
         <updated>2026-05-09T03:21:45.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevane En Jeevane Namo Namo | Keys Band | Shorts | Bhajans #bhajans #shortsfeed]]></title>
-        <id>https://www.youtube.com/shorts/sD51wm3skDA</id>
-        <link href="https://www.youtube.com/shorts/sD51wm3skDA"/>
-        <updated>2026-05-09T02:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Malayalam | പ്രഭാത പ്രാർത്ഥന |Christian Devotional song Malayalam| Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/SSH893TtXY0</id>
-        <link href="https://www.youtube.com/shorts/SSH893TtXY0"/>
-        <updated>2026-05-09T01:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
