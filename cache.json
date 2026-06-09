@@ -2074,6 +2074,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZJxl89jq3M4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZJxl89jq3M4",
+          "publishedOn": "2026-06-09T20:00:13.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന June 10 # Athiravile Prarthana 10th of June 2025 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=270SruTyNPQ",
           "author": null,
           "description": "",
@@ -8678,16 +8688,6 @@
           "publishedOn": "2026-05-11T11:28:04.000Z",
           "wordCount": null,
           "title": "Chithirathoniyil | ചിത്തിരത്തോണിയിൽ...| Kaayalum Kayarum | KJ Yesudas | Poovachal Khader Song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/WDAL1kwokvM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/WDAL1kwokvM",
-          "publishedOn": "2026-05-11T08:30:14.000Z",
-          "wordCount": 2150,
-          "title": "Kadakanniloru Kadal Knadu | കടക്കണ്ണിലൊരു കടൽ കണ്ടൂ...| Kaayalum Kayarum Movie  | Vani Jairam Song",
           "imageUrl": null
         }
       ]
