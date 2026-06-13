@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T20:59:01.395Z</updated>
+    <updated>2026-06-13T22:01:44.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thiruhrudhaya Chooduthedi day 14]]></title>
+        <id>https://www.youtube.com/shorts/7mcyOQbTdoA</id>
+        <link href="https://www.youtube.com/shorts/7mcyOQbTdoA"/>
+        <updated>2026-06-13T20:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 14 # Athiravile Prarthana 14th of June 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=TIUWTyXYLlg</id>
@@ -11935,26 +11945,6 @@
         <updated>2026-05-15T10:05:34.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yahe Angennumen | Shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/I8NPE6uHoRw</id>
-        <link href="https://www.youtube.com/shorts/I8NPE6uHoRw"/>
-        <updated>2026-05-15T09:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akhilathin Nadhan | Peter Xavier | Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/jNj2pHcgp0g</id>
-        <link href="https://www.youtube.com/shorts/jNj2pHcgp0g"/>
-        <updated>2026-05-15T09:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
