@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T19:03:45.847Z</updated>
+    <updated>2026-06-13T20:59:01.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 14 # Athiravile Prarthana 14th of June 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=TIUWTyXYLlg</id>
+        <link href="https://www.youtube.com/watch?v=TIUWTyXYLlg"/>
+        <updated>2026-06-13T20:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th June 2026]]></title>
+        <id>https://www.youtube.com/watch?v=_n4y1x71B-w</id>
+        <link href="https://www.youtube.com/watch?v=_n4y1x71B-w"/>
+        <updated>2026-06-13T19:00:36.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Cup Fan Song–Argentina #worldcup #football #argentinafootball  #shortsfeed #shortsvideo #reels]]></title>
         <id>https://www.youtube.com/shorts/s4zeKnlfC6I</id>
@@ -11937,25 +11955,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Devotional Hits Of Merin Gregory || ഹിറ്റ് ക്രിസ്തിയ ഗാനങ്ങൾ || Match Point Faith ||]]></title>
-        <id>https://www.youtube.com/watch?v=_moBChDz3S8</id>
-        <link href="https://www.youtube.com/watch?v=_moBChDz3S8"/>
-        <updated>2026-05-15T08:30:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marikolunthe Manakkanath | മാരിക്കൊളുന്ത്‌ മണക്കണതെന്ത്‌ | Kanninum Kannadikkum | Kalabhavan Mani]]></title>
-        <id>https://www.youtube.com/shorts/5Uy2Ox8dGSg</id>
-        <link href="https://www.youtube.com/shorts/5Uy2Ox8dGSg"/>
-        <updated>2026-05-15T08:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
