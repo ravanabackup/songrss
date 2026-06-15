@@ -2074,6 +2074,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gtd-Evfrm9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gtd-Evfrm9A",
+          "publishedOn": "2026-06-15T20:00:28.000Z",
+          "wordCount": null,
+          "title": "രാവിലെ പ്രാര്‍ത്ഥന June 16 # Athiravile Prarthana 16th of June 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xXLiG77x7eg",
           "author": null,
           "description": "",
@@ -4750,16 +4760,6 @@
           "wordCount": null,
           "title": "Makara Nilavil 4K Video Song | Snehithan | Kunchacko Boban | KJ Yesudas | Mohan Sithara",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qT3ZPS5LGnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qT3ZPS5LGnE",
-          "publishedOn": "2026-05-17T08:30:21.000Z",
-          "wordCount": null,
-          "title": "Aaru Paranju 4K Video Song | Pulival Kalyanam| Kavya Madhavan| Jayasurya |KS Chithra |P Jayachandran",
-          "imageUrl": null
         }
       ]
     },
@@ -6919,16 +6919,6 @@
           "wordCount": 2093,
           "title": "Rajadhirajan Yeshu | Christian Shorts  #manoramachristiansongs  #manoramamusic #kestersongs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pvbosxlRbTw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pvbosxlRbTw",
-          "publishedOn": "2026-05-17T09:01:05.000Z",
-          "wordCount": 2060,
-          "title": "Enikkothasha Varum Parvatham | Christian Devotional Shorts #manoramachristiansongs",
-          "imageUrl": null
         }
       ]
     },
@@ -8669,16 +8659,6 @@
           "publishedOn": "2026-05-18T09:01:31.000Z",
           "wordCount": 2154,
           "title": "Orikkal Mathram | ഒരിക്കൽ മാത്രം...| Dhriksaakshi Movie | KJ Yesudas | Sreekumaran Thampi Song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/9ntQTgY3Ceg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/9ntQTgY3Ceg",
-          "publishedOn": "2026-05-17T08:30:04.000Z",
-          "wordCount": 2384,
-          "title": "Aromale En Vedhana | ആരോമലേ എൻ വേദന...| Kulapathi | KJ Yesudas | Minmini | Mohan Sithara Song",
           "imageUrl": null
         }
       ]
