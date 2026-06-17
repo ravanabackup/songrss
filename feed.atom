@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T22:11:09.068Z</updated>
+    <updated>2026-06-17T00:06:20.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gospel of St. Luca 7 | Malayalam Audio Bible | Thiruvachanam | POC Bible Reading]]></title>
+        <id>https://www.youtube.com/watch?v=N6WEmgFTFfM</id>
+        <link href="https://www.youtube.com/watch?v=N6WEmgFTFfM"/>
+        <updated>2026-06-17T00:00:06.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala  17th of June  2026 # Mathavinte Japamala # Mahimayude Rahasyangal 17th of June  2026]]></title>
+        <id>https://www.youtube.com/watch?v=RStjbPrNv7c</id>
+        <link href="https://www.youtube.com/watch?v=RStjbPrNv7c"/>
+        <updated>2026-06-16T23:30:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/EH9XTSvVgsw</id>
+        <link href="https://www.youtube.com/shorts/EH9XTSvVgsw"/>
+        <updated>2026-06-16T23:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂൺ: 17, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=V-_qPgdNuWg</id>
+        <link href="https://www.youtube.com/watch?v=V-_qPgdNuWg"/>
+        <updated>2026-06-16T22:30:30.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 17 # Athiravile Prarthana 17th of June 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=0tOkjY9jKb8</id>
@@ -11835,54 +11872,6 @@
         <updated>2026-05-18T12:19:24.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#kavyamadhavan#dileep#meeshamadhavansongs#bassboostedsongs]]></title>
-        <id>https://www.youtube.com/shorts/CrXvvprXQXg</id>
-        <link href="https://www.youtube.com/shorts/CrXvvprXQXg"/>
-        <updated>2026-05-18T11:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mattuvin Chattangale | മാറ്റുവിൻ ചട്ടങ്ങളെ...| Mattoly Movie | KJ Yesudas | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=pa7lWwC-Qpw</id>
-        <link href="https://www.youtube.com/watch?v=pa7lWwC-Qpw"/>
-        <updated>2026-05-18T11:30:46.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayil Oru Dhukhavelli | Biju Narayanan |   @JinoKunnumpurathu   | #bijunarayanansongs  Reel 3]]></title>
-        <id>https://www.youtube.com/shorts/swJcfIu7Ods</id>
-        <link href="https://www.youtube.com/shorts/swJcfIu7Ods"/>
-        <updated>2026-05-18T11:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണുനീരിനെ തുരുത്തിയിലാക്കുന്ന ദൈവം | @JinoKunnumpurathu | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/XqQSK1W9Lzk</id>
-        <link href="https://www.youtube.com/shorts/XqQSK1W9Lzk"/>
-        <updated>2026-05-18T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വലിയ ഹിറ്റായി മാറിയ ക്രിസ്തീയ ഗാനങ്ങൾ  | @ZionClassics #christiansongs #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=AbAUDQKpksk</id>
-        <link href="https://www.youtube.com/watch?v=AbAUDQKpksk"/>
-        <updated>2026-05-18T10:30:06.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
