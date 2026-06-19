@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T20:58:28.355Z</updated>
+    <updated>2026-06-19T22:01:09.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11935,35 +11935,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday Mohanlal #mohanlal #shortsfeed #shortsvideo #reels #shorts]]></title>
-        <id>https://www.youtube.com/shorts/EE6v6CBrx9o</id>
-        <link href="https://www.youtube.com/shorts/EE6v6CBrx9o"/>
-        <updated>2026-05-21T09:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ORU GREESHMA RATHRIYIL | ഒരു ഗ്രീഷ്മ രാത്രിയിൽ | NITHYA MAMMEN | LYRICAL VIDEO #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=4-764auEWws</id>
-        <link href="https://www.youtube.com/watch?v=4-764auEWws"/>
-        <updated>2026-05-21T09:22:34.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ധന്യനാണവൻ എന്നും ഉന്നതൻ | Ennum Enikkavanaasrayamaayi | #jesusshorts | #christianshorts]]></title>
-        <id>https://www.youtube.com/shorts/9952ognFwB4</id>
-        <link href="https://www.youtube.com/shorts/9952ognFwB4"/>
-        <updated>2026-05-21T09:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
