@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T06:52:02.455Z</updated>
+    <updated>2026-06-20T09:55:28.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abrahamin Theekshanathayode | Pradeep Palluruthy |  Dixon Kandakkadavu | Clement Robert | #newsong]]></title>
+        <id>https://www.youtube.com/watch?v=2eolLACZfx4</id>
+        <link href="https://www.youtube.com/watch?v=2eolLACZfx4"/>
+        <updated>2026-06-20T09:04:48.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Mounamaayi HD Video Song | Pavam I. A. Ivachan | Singer (K. J. Yesudas)]]></title>
+        <id>https://www.youtube.com/watch?v=nEbMaFmh0LI</id>
+        <link href="https://www.youtube.com/watch?v=nEbMaFmh0LI"/>
+        <updated>2026-06-20T08:38:56.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അനശ്വര രാഗങ്ങൾ  l Nisari l വീണ്ടും വീണ്ടും കേൾക്കാൻ തോന്നുന്ന മലയാള ചലച്ചിത്ര ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=tR3TRhhKtnE</id>
+        <link href="https://www.youtube.com/watch?v=tR3TRhhKtnE"/>
+        <updated>2026-06-20T07:30:26.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFO Mode 🛸 First single from PLUTO out!]]></title>
+        <id>https://www.youtube.com/shorts/07AvK55ADSI</id>
+        <link href="https://www.youtube.com/shorts/07AvK55ADSI"/>
+        <updated>2026-06-20T07:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maan Karate - Un Vizhigalil Video With Lyrics | Sivakarthikeyan | Anirudh]]></title>
+        <id>https://www.youtube.com/watch?v=-iUXQtpANgk</id>
+        <link href="https://www.youtube.com/watch?v=-iUXQtpANgk"/>
+        <updated>2026-06-20T07:00:04.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നാരങ്ങാ മുട്ടായി.. | Naaranga Muttaayi.. | Keshu Ee Veedinte Naadhan | Dilieep | Nadirshah | Anusree]]></title>
         <id>https://www.youtube.com/watch?v=Y8BjVnszYDA</id>
@@ -11774,24 +11820,6 @@
         <updated>2026-05-21T22:30:03.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 22 # Athiravile Prarthana 22nd of May 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6Ore2rstf5s</id>
-        <link href="https://www.youtube.com/watch?v=6Ore2rstf5s"/>
-        <updated>2026-05-21T20:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd of May 2026]]></title>
-        <id>https://www.youtube.com/watch?v=-RPJnWFvD8M</id>
-        <link href="https://www.youtube.com/watch?v=-RPJnWFvD8M"/>
-        <updated>2026-05-21T19:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
