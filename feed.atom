@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T19:02:28.400Z</updated>
+    <updated>2026-06-23T21:20:52.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 24 # Athiravile Prarthana 24th of June 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=f9dTRMwW0vY</id>
+        <link href="https://www.youtube.com/watch?v=f9dTRMwW0vY"/>
+        <updated>2026-06-23T20:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th June 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Ii1CmqWa6L0</id>
+        <link href="https://www.youtube.com/watch?v=Ii1CmqWa6L0"/>
+        <updated>2026-06-23T19:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Kannuneer Ennu Marumo #matchpointfaith #matchpointcreations #music]]></title>
         <id>https://www.youtube.com/shorts/J1nheONeA8Q</id>
@@ -11759,45 +11777,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanthen Mizhikalil | മാന്‍തേന്‍മിഴികളില്‍ പുഞ്ചിരി...| Aambalpoovu | Usha Ravi | Dakshinamoorthy]]></title>
-        <id>https://www.youtube.com/shorts/yoeSKnrrtBo</id>
-        <link href="https://www.youtube.com/shorts/yoeSKnrrtBo"/>
-        <updated>2026-05-25T08:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Thirumeni Madhyastha Prarthana | Intercessory Prayer | പരുമല തിരുമേനി മധ്യസ്ഥ പ്രാർത്ഥന]]></title>
-        <id>https://www.youtube.com/shorts/5Do8krAjgIU</id>
-        <link href="https://www.youtube.com/shorts/5Do8krAjgIU"/>
-        <updated>2026-05-25T08:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാത്രിയെ മനോഹരമാക്കുന്ന മലയാള സിനിമ ഗാനങ്ങൾ l Nisari Music l Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=0fytSJ8ax0s</id>
-        <link href="https://www.youtube.com/watch?v=0fytSJ8ax0s"/>
-        <updated>2026-05-25T07:57:45.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday M G Sreekumar #mgsreekumar #shortsfeed #shortsvideo #reels #shorts]]></title>
-        <id>https://www.youtube.com/shorts/3ZNbsozhcm8</id>
-        <link href="https://www.youtube.com/shorts/3ZNbsozhcm8"/>
-        <updated>2026-05-25T07:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
