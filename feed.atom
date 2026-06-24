@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T18:25:06.364Z</updated>
+    <updated>2026-06-24T20:24:51.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 25 # Athiravile Prarthana 25th of June 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Z1fGZ4Kvld0</id>
+        <link href="https://www.youtube.com/watch?v=Z1fGZ4Kvld0"/>
+        <updated>2026-06-24T20:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th June 2026]]></title>
+        <id>https://www.youtube.com/watch?v=z_OGvq6_rL0</id>
+        <link href="https://www.youtube.com/watch?v=z_OGvq6_rL0"/>
+        <updated>2026-06-24T19:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാടിടും സ്തുതിഗീതമെന്നും |  Hit Malayalam Christian song | Music Spread |]]></title>
         <id>https://www.youtube.com/shorts/RYGsYkAu54o</id>
@@ -11753,45 +11771,6 @@
         <updated>2026-05-26T10:30:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandhan Mayammadhinadham  | മന്തൻ മയമ്മദിനന്തം | Akkuvinte Padachon | Parthiv Viswanath | Movie Song]]></title>
-        <id>https://www.youtube.com/shorts/HJsEDVq8l4k</id>
-        <link href="https://www.youtube.com/shorts/HJsEDVq8l4k"/>
-        <updated>2026-05-26T08:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Thirumeni Madhyastha Prarthana | Intercessory Prayer | പരുമല തിരുമേനി മധ്യസ്ഥ പ്രാർത്ഥന]]></title>
-        <id>https://www.youtube.com/shorts/fctoe0P7p4E</id>
-        <link href="https://www.youtube.com/shorts/fctoe0P7p4E"/>
-        <updated>2026-05-26T08:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaaranam Aayiram - Adiyae Kolluthey Video With Lyrics | Harris Jayaraj | Suriya | Sameera]]></title>
-        <id>https://www.youtube.com/watch?v=HJ_LL4eHHPQ</id>
-        <link href="https://www.youtube.com/watch?v=HJ_LL4eHHPQ"/>
-        <updated>2026-05-26T07:00:09.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The raw soul of Angamaly packed into one electrifying track 🎺🔥]]></title>
-        <id>https://www.youtube.com/shorts/7jcfwOExrsU</id>
-        <link href="https://www.youtube.com/shorts/7jcfwOExrsU"/>
-        <updated>2026-05-26T06:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
