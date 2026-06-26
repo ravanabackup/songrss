@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T16:04:48.255Z</updated>
+    <updated>2026-06-26T18:20:12.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11898,44 +11898,6 @@
         <updated>2026-05-28T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chembakapoo | Rathinirvedam #mjayachandran #shortsvideo #shortsfeed #reels #shorts #romantic]]></title>
-        <id>https://www.youtube.com/shorts/dCelkbZLUFA</id>
-        <link href="https://www.youtube.com/shorts/dCelkbZLUFA"/>
-        <updated>2026-05-28T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiladiya Hiladiya | Kids Christian Songs | Hindi Christian Songs | Hindi Christian Action Songs]]></title>
-        <id>https://www.youtube.com/watch?v=KKr5JjQPjNM</id>
-        <link href="https://www.youtube.com/watch?v=KKr5JjQPjNM"/>
-        <updated>2026-05-28T04:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paaduvan Marannupoi | പാടുവാൻ മറന്നുപോയ് | Anakha | KJ Yesudas | Parvathi | Nedumudi Venu Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=esFx0o627bQ</id>
-        <link href="https://www.youtube.com/watch?v=esFx0o627bQ"/>
-        <updated>2026-05-28T04:30:01.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athu Thalore 🎶✨ #Karuppu #Suriya #Indrans #RJBalaji #SaiAbhyankkar #AnaghaRavi]]></title>
-        <id>https://www.youtube.com/shorts/94ILw4HRZu4</id>
-        <link href="https://www.youtube.com/shorts/94ILw4HRZu4"/>
-        <updated>2026-05-28T04:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
