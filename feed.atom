@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T13:08:43.281Z</updated>
+    <updated>2026-06-28T15:08:49.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎶Karuthunavan Njanalleyo… #matchpointfaith #matchpointcreations #malayalamchristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/shorts/ISWTvAOVNwI</id>
+        <link href="https://www.youtube.com/shorts/ISWTvAOVNwI"/>
+        <updated>2026-06-28T15:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/2DY1PMAVvDM</id>
+        <link href="https://www.youtube.com/shorts/2DY1PMAVvDM"/>
+        <updated>2026-06-28T14:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthellam Vannalum Karthavin | Mosha Valsalam | Old Malayalam Christian Song | Music Spread |]]></title>
+        <id>https://www.youtube.com/shorts/WhZEOekaOBg</id>
+        <link href="https://www.youtube.com/shorts/WhZEOekaOBg"/>
+        <updated>2026-06-28T13:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amma Amma Dhaan - Video Song | Nooru Sami | Vijay Antony | Sreekanth Hariharan | Balaji Sriram|Sasi]]></title>
+        <id>https://www.youtube.com/watch?v=Senm_54uxs4</id>
+        <link href="https://www.youtube.com/watch?v=Senm_54uxs4"/>
+        <updated>2026-06-28T13:30:05.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maarivil Kavaadam Instrumental - Audio | Masthishka Maranam | Niranj Maniyanpilla Raju | Varkey]]></title>
         <id>https://www.youtube.com/watch?v=c8YD4OoYLJg</id>
@@ -11945,35 +11984,6 @@
         <updated>2026-05-30T04:30:23.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=umeUAz-hmpI</id>
-        <link href="https://www.youtube.com/watch?v=umeUAz-hmpI"/>
-        <updated>2026-05-30T02:06:22.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhum Njanen Rakshithavin | Christian Devotional Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/Jew3nZkZg-E</id>
-        <link href="https://www.youtube.com/shorts/Jew3nZkZg-E"/>
-        <updated>2026-05-30T01:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Va Va Yeshunadha | Shorts #christiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/5Z89fCftBp0</id>
-        <link href="https://www.youtube.com/shorts/5Z89fCftBp0"/>
-        <updated>2026-05-30T01:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
