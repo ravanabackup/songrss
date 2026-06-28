@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T16:54:52.456Z</updated>
+    <updated>2026-06-28T17:57:04.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11949,33 +11949,6 @@
         <updated>2026-05-30T06:32:40.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aathi Raasathi - Video Song | Suriya's Karuppu | RJ Balaji | @SaiAbhyankkar| Dream Warrior Pictures]]></title>
-        <id>https://www.youtube.com/watch?v=KBxQHlqrZRc</id>
-        <link href="https://www.youtube.com/watch?v=KBxQHlqrZRc"/>
-        <updated>2026-05-30T05:30:06.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aattinkarayorathe | Rasathanthram | Lyrical + Karaoke Video | Mohanlal  | Ilayaraja | Manjari]]></title>
-        <id>https://www.youtube.com/watch?v=qkkQtDCe9GU</id>
-        <link href="https://www.youtube.com/watch?v=qkkQtDCe9GU"/>
-        <updated>2026-05-30T05:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaalkkannezhuthiya | Paithrukam | Sureshgopi | Jayaram | KJ Yesudas | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=UPOStkHCTik</id>
-        <link href="https://www.youtube.com/watch?v=UPOStkHCTik"/>
-        <updated>2026-05-30T05:15:27.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
