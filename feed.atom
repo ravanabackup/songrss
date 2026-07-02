@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T22:56:05.242Z</updated>
+    <updated>2026-07-02T23:54:53.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minnithilangum | Daleema | Prathyasha Geethangal | Christian Worship Song Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=7VjgzguCHuQ</id>
+        <link href="https://www.youtube.com/watch?v=7VjgzguCHuQ"/>
+        <updated>2026-07-02T23:30:37.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിരാശകളെ നിർവീര്യമാക്കും ഗാനങ്ങൾ | Christian Video Songs Malayalam | Kester | Sreya Jayadeep]]></title>
+        <id>https://www.youtube.com/watch?v=gRweRHZS-3w</id>
+        <link href="https://www.youtube.com/watch?v=gRweRHZS-3w"/>
+        <updated>2026-07-02T23:30:18.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/shorts/rYpHa-qJIPw</id>
+        <link href="https://www.youtube.com/shorts/rYpHa-qJIPw"/>
+        <updated>2026-07-02T23:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജൂലൈ: 03 , ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=k6Ofjk99POA</id>
@@ -11939,25 +11967,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thevimala Katte | തേവിമല കാറ്റേ...| Alakkadalinakkare Movie | P Madhuri Song | Poovachal Khader]]></title>
-        <id>https://www.youtube.com/watch?v=A-tmIbSZfZU</id>
-        <link href="https://www.youtube.com/watch?v=A-tmIbSZfZU"/>
-        <updated>2026-06-03T11:30:26.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalambaheenarkashwasamekum  | ആലംബഹീനർക്കാശ്വാസമേകും  Wilson Piravom @JinoKunnumpurathu     Reel 2]]></title>
-        <id>https://www.youtube.com/shorts/cOf5NaP_ZzU</id>
-        <link href="https://www.youtube.com/shorts/cOf5NaP_ZzU"/>
-        <updated>2026-06-03T11:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
