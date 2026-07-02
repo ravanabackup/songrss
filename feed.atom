@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T21:56:14.665Z</updated>
+    <updated>2026-07-02T22:56:05.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജൂലൈ: 03 , ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=k6Ofjk99POA</id>
+        <link href="https://www.youtube.com/watch?v=k6Ofjk99POA"/>
+        <updated>2026-07-02T22:30:01.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 3 # Athiravile Prarthana 3rd of July 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=_3ds3ujcs2k</id>
@@ -11947,35 +11956,6 @@
         <link href="https://www.youtube.com/shorts/cOf5NaP_ZzU"/>
         <updated>2026-06-03T11:30:24.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎧 Tha Na Na ❤️ What's the one college memory this song brings back? 💃✨👇🏻]]></title>
-        <id>https://www.youtube.com/shorts/FMyVcOra_Vw</id>
-        <link href="https://www.youtube.com/shorts/FMyVcOra_Vw"/>
-        <updated>2026-06-03T10:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിങ്ങളുടെ കയ്യിൽ എന്തുണ്ട്  | @JinoKunnumpurathu    #shorts  #motivationalvideo  #christiansongs]]></title>
-        <id>https://www.youtube.com/shorts/Btguja-e6Sc</id>
-        <link href="https://www.youtube.com/shorts/Btguja-e6Sc"/>
-        <updated>2026-06-03T10:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണുനീർ തുടയ്ക്കുന്ന പ്രാർത്ഥന ഗാനങ്ങൾ | @ZionClassics        #christiansongs #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=YhOfnKTtXbI</id>
-        <link href="https://www.youtube.com/watch?v=YhOfnKTtXbI"/>
-        <updated>2026-06-03T09:56:31.000Z</updated>
         <author>
             <name>ZionClassics</name>
         </author>
