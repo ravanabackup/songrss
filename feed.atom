@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T13:28:49.504Z</updated>
+    <updated>2026-07-03T15:46:34.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[World Cup Fan Song–Argentina #worldcup #football #argentinafootball  #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/shorts/fNgIBRkppjg</id>
+        <link href="https://www.youtube.com/shorts/fNgIBRkppjg"/>
+        <updated>2026-07-03T14:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/qP2W5T0IFdw</id>
+        <link href="https://www.youtube.com/shorts/qP2W5T0IFdw"/>
+        <updated>2026-07-03T14:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthe Innum Vanneela | Gramaphone | Murali | Oduvil Unnikrishnan | Salim Kumar]]></title>
+        <id>https://www.youtube.com/shorts/Mqey5jjRmQ4</id>
+        <link href="https://www.youtube.com/shorts/Mqey5jjRmQ4"/>
+        <updated>2026-07-03T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chanchala Chanchala Video Song | P. Leela & Kaviyoor C.K. Revamma | Mudiyanaya Puthran |Baburaj Hits]]></title>
+        <id>https://www.youtube.com/watch?v=RkUhZFMd1vo</id>
+        <link href="https://www.youtube.com/watch?v=RkUhZFMd1vo"/>
+        <updated>2026-07-03T14:00:13.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivam Kanivayi | ദൈവം കനിവായ് | Christian Devotional Song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/LgLWcJQmRw4</id>
+        <link href="https://www.youtube.com/shorts/LgLWcJQmRw4"/>
+        <updated>2026-07-03T13:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinna Chinna Aasai - Success Teaser | Indrans | Madhubala | Govind Vasantha | Abhijith | Varsha]]></title>
+        <id>https://www.youtube.com/watch?v=P_8svh2UtMY</id>
+        <link href="https://www.youtube.com/watch?v=P_8svh2UtMY"/>
+        <updated>2026-07-03T13:30:01.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthipoomanam Ponnil Kulichu 4K Video Song|Jayaram|Divya Unni|]]></title>
         <id>https://www.youtube.com/watch?v=DhLFyav_rgc</id>
@@ -12040,26 +12098,6 @@
         <updated>2026-06-04T04:25:05.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Sthuthi Ninakke | Shorts #christiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/QlMuXC37GBM</id>
-        <link href="https://www.youtube.com/shorts/QlMuXC37GBM"/>
-        <updated>2026-06-04T01:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhanya Dhanya Mere Prabhu | Hindi Christian Songs #Shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/12EurYvQJ88</id>
-        <link href="https://www.youtube.com/shorts/12EurYvQJ88"/>
-        <updated>2026-06-04T01:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
