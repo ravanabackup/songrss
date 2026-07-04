@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T15:53:35.763Z</updated>
+    <updated>2026-07-04T16:49:34.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആത്മാവിൽ അലിയുന്ന സംഗീതങ്ങൾ | Evergreen Malayalam Romantic Songs]]></title>
+        <id>https://www.youtube.com/watch?v=foMLDuHDchg</id>
+        <link href="https://www.youtube.com/watch?v=foMLDuHDchg"/>
+        <updated>2026-07-04T16:00:29.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neelavaana Cholayil 4K Video Song|Premabhishekam|Kamal Hassan|Sridevi|]]></title>
         <id>https://www.youtube.com/watch?v=gDUloYr1IiM</id>
@@ -12116,24 +12125,6 @@
         <updated>2026-06-05T05:06:02.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aashakal - Audio Song | Masthishka Maranam | Rajisha Vijayan | Varkey | Krishand]]></title>
-        <id>https://www.youtube.com/watch?v=p6keRuHV10g</id>
-        <link href="https://www.youtube.com/watch?v=p6keRuHV10g"/>
-        <updated>2026-06-05T04:22:24.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhum Njanen Karaoke | Malayalam Christian Songs Karaoke | Worship Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=4o27t7cBhfU</id>
-        <link href="https://www.youtube.com/watch?v=4o27t7cBhfU"/>
-        <updated>2026-06-05T04:16:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
