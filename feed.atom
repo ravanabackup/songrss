@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T08:18:07.935Z</updated>
+    <updated>2026-07-04T10:46:41.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തരംഗം സൃഷ്‌ടിച്ച ക്രിസ്തീയ ഗാനങ്ങൾ |  @ZionClassics    #christiansongs #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=8ySAleo_CPc</id>
+        <link href="https://www.youtube.com/watch?v=8ySAleo_CPc"/>
+        <updated>2026-07-04T10:39:36.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandhanakkuriyumay | ചന്ദനക്കുറിയുമായ് | Oru Nokku Kaanan Movie Song | Unnimenon | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=qLp3fz1d5VI</id>
+        <link href="https://www.youtube.com/watch?v=qLp3fz1d5VI"/>
+        <updated>2026-07-04T10:35:30.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassinte Nombarangalellam Maykkunna Ganangal | Kester | Wilson Piravom | Chitra Arun]]></title>
+        <id>https://www.youtube.com/watch?v=HfC76TUHnwk</id>
+        <link href="https://www.youtube.com/watch?v=HfC76TUHnwk"/>
+        <updated>2026-07-04T10:30:27.000Z</updated>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ പരിശ്രമത്തിന്റെ ഫലം  | @JinoKunnumpurathu   | Rev. Aneesh P Joseph | #motivation]]></title>
+        <id>https://www.youtube.com/shorts/VTyXt22f7k0</id>
+        <link href="https://www.youtube.com/shorts/VTyXt22f7k0"/>
+        <updated>2026-07-04T10:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuvinte Nirmmala Snehathin | Ente Jeevananeesho | Dixon Kandakkadavu | Shaji Xavier Chirammel]]></title>
+        <id>https://www.youtube.com/watch?v=b7Nm_gE0sQI</id>
+        <link href="https://www.youtube.com/watch?v=b7Nm_gE0sQI"/>
+        <updated>2026-07-04T10:30:06.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhayum Paattum Chernnal... Ormmakal Ozhukum..l Nisari l   മഴയും പാട്ടും ചേർന്നാൽ..ഓർമ്മകൾ ഒഴുകും..]]></title>
         <id>https://www.youtube.com/watch?v=UDhJGntpC1o</id>
@@ -11965,15 +12011,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂൺ: 05, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=YmSFcKnElPw</id>
-        <link href="https://www.youtube.com/watch?v=YmSFcKnElPw"/>
-        <updated>2026-06-04T22:30:31.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
