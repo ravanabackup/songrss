@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-05T14:23:04.315Z</updated>
+    <updated>2026-07-05T15:58:22.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Team Idhayam Murali LIVE | Atharvaa, Fahadh Faasil, Preity, Kayadu, Thaman | Aakash Baskaran]]></title>
+        <id>https://www.youtube.com/watch?v=OlQka5ZrBy0</id>
+        <link href="https://www.youtube.com/watch?v=OlQka5ZrBy0"/>
+        <updated>2026-07-05T14:59:53.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview | Talk Show | Elizabeth S. Mathew & Rev. Dr. Mothy Varkey |  Music Spread |]]></title>
+        <id>https://www.youtube.com/shorts/qKrNahpk11g</id>
+        <link href="https://www.youtube.com/shorts/qKrNahpk11g"/>
+        <updated>2026-07-05T14:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/t4xULNCR3NI</id>
+        <link href="https://www.youtube.com/shorts/t4xULNCR3NI"/>
+        <updated>2026-07-05T14:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകമേമ്പാടും സൂപ്പർ ഡ്യൂപ്പർ ഹിറ്റായ ഗാനം 😍 "അൾത്താര മുന്നിൽ " | #worship | #power | #super |#shorts]]></title>
         <id>https://www.youtube.com/shorts/XJkHQS6szRg</id>
@@ -11925,26 +11954,6 @@
         <updated>2026-06-06T04:40:15.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാലത്തിനപ്പുറം  | @JinoKunnumpurathu     | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/K3_DonqBc0s</id>
-        <link href="https://www.youtube.com/shorts/K3_DonqBc0s"/>
-        <updated>2026-06-06T03:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌸 Beauty, grace, and talent personified. Wishing Bhavana a wonderful birthday! 🎂#HBDBhavana]]></title>
-        <id>https://www.youtube.com/shorts/xgIqDMR3hxo</id>
-        <link href="https://www.youtube.com/shorts/xgIqDMR3hxo"/>
-        <updated>2026-06-06T03:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
