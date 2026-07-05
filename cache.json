@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCvOUtcz7gP8f_5pb7VBHjWQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/J1xS2tKJOlQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/J1xS2tKJOlQ",
+          "publishedOn": "2026-07-05T10:30:35.000Z",
+          "wordCount": 2312,
+          "title": "ഒരിക്കലും കൈവിടാത്ത ദൈവം  | @JinoKunnumpurathu  | Rev. Aneesh P Joseph | #motivation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/xtTETEagYfc",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -4212,16 +4222,6 @@
           "wordCount": 2278,
           "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/szVmaVNPT78",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/szVmaVNPT78",
-          "publishedOn": "2026-06-05T20:41:08.000Z",
-          "wordCount": 2051,
-          "title": "Thiruhrudhaya Chooduthedi Day 6",
-          "imageUrl": null
         }
       ]
     },
@@ -7967,7 +7967,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/gwtQlRq_fjk",
           "publishedOn": "2026-07-05T08:30:20.000Z",
-          "wordCount": 2179,
+          "wordCount": 2168,
           "title": "Aaro Innen | ആരോ ഇന്നെൻ കാമുകൻ...| Mainakam Movie | Raveendran Master Evergreen Hits | Menaka",
           "imageUrl": null
         },
