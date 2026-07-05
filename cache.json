@@ -2304,6 +2304,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CHTPiCacrzg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CHTPiCacrzg",
+          "publishedOn": "2026-07-05T19:00:36.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th July 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sRC8hut3KgU",
           "author": null,
           "description": "",
@@ -7640,7 +7650,7 @@
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
           "link": "https://www.youtube.com/shorts/7OOjG4dhcqQ",
           "publishedOn": "2026-07-05T17:06:26.000Z",
-          "wordCount": 2114,
+          "wordCount": 2010,
           "title": "5 July 2026",
           "imageUrl": null
         },
@@ -9333,16 +9343,6 @@
           "publishedOn": "2026-06-07T07:00:36.000Z",
           "wordCount": null,
           "title": "Awaara - Yedho Video With Lyrics | Karthi, Tamannaah | Yuvan Shankar Raja",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PttFfopRu88",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PttFfopRu88",
-          "publishedOn": "2026-06-06T07:00:03.000Z",
-          "wordCount": null,
-          "title": "Paakaadhae Paakaadhae Video With Lyrics | Sivakarthikeyan | D. Imman",
           "imageUrl": null
         }
       ]
@@ -12909,16 +12909,6 @@
           "publishedOn": "2026-06-06T12:30:10.000Z",
           "wordCount": 2215,
           "title": "Maname Chanchalmenthinay | Bhajan | Christian devotional songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yLa7ELrspFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yLa7ELrspFs",
-          "publishedOn": "2026-06-06T08:00:06.000Z",
-          "wordCount": null,
-          "title": "Kantha Thamasam | Christian Bhajan | Christian Devotional Song Malayalam",
           "imageUrl": null
         }
       ]
