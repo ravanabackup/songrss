@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T20:42:43.462Z</updated>
+    <updated>2026-07-07T22:02:27.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11791,25 +11791,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aakasham Mele Nakshathra Thoppil | Magic Moment Movie Song]]></title>
-        <id>https://www.youtube.com/shorts/_hzYXE5rM2Y</id>
-        <link href="https://www.youtube.com/shorts/_hzYXE5rM2Y"/>
-        <updated>2026-06-08T09:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഴയിൽ ഒഴുകുന്ന സംഗീതം l Nisari Music l Evergreen Nostalgia Film Songs l]]></title>
-        <id>https://www.youtube.com/watch?v=Sc1L4TLD85A</id>
-        <link href="https://www.youtube.com/watch?v=Sc1L4TLD85A"/>
-        <updated>2026-06-08T08:49:06.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
