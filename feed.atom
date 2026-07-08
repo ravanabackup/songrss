@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T19:01:32.484Z</updated>
+    <updated>2026-07-08T20:52:55.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 9 # Athiravile Prarthana 9th of July 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ZXpIAFYZXOE</id>
+        <link href="https://www.youtube.com/watch?v=ZXpIAFYZXOE"/>
+        <updated>2026-07-08T20:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th July 2026]]></title>
+        <id>https://www.youtube.com/watch?v=nvgE0fo9t7U</id>
+        <link href="https://www.youtube.com/watch?v=nvgE0fo9t7U"/>
+        <updated>2026-07-08T19:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
         <id>https://www.youtube.com/shorts/AUaFlX7HDEI</id>
@@ -11806,44 +11824,6 @@
         <updated>2026-06-09T09:19:48.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mindandikku Vimittam Muttanu | മിണ്ടാണ്ടക്ക് വിമ്മിട്ടം മുട്ടണ്‌...| Kalabhavan Mani Sper Hit Song]]></title>
-        <id>https://www.youtube.com/shorts/YUhCgeqT2kY</id>
-        <link href="https://www.youtube.com/shorts/YUhCgeqT2kY"/>
-        <updated>2026-06-09T08:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Thirumeni Madhyastha Prarthana | Intercessory Prayer | പരുമല തിരുമേനി മധ്യസ്ഥ പ്രാർത്ഥന]]></title>
-        <id>https://www.youtube.com/shorts/I1_0IFeMem4</id>
-        <link href="https://www.youtube.com/shorts/I1_0IFeMem4"/>
-        <updated>2026-06-09T08:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കാൻ ഇഷ്ടമുള്ള മലയാള സ്വരരാഗങ്ങൾ| Nisari Music Evergreen Malayalam Film Songs Feel the Nostalgia]]></title>
-        <id>https://www.youtube.com/watch?v=wLXlG5G4twk</id>
-        <link href="https://www.youtube.com/watch?v=wLXlG5G4twk"/>
-        <updated>2026-06-09T07:45:06.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Fan Song – Brazil | Video | Zia Ul Haq | Sujesh Hari | Rhithwik S.Chand]]></title>
-        <id>https://www.youtube.com/watch?v=8Bt3XCo9dZc</id>
-        <link href="https://www.youtube.com/watch?v=8Bt3XCo9dZc"/>
-        <updated>2026-06-09T07:17:03.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
