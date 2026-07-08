@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T15:05:35.132Z</updated>
+    <updated>2026-07-08T17:15:28.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/AUaFlX7HDEI</id>
+        <link href="https://www.youtube.com/shorts/AUaFlX7HDEI"/>
+        <updated>2026-07-08T15:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathiruna Pennale Video Song |  HD | Classmates Movie Song | Prithviraj | Kavya Madhavan | 1080p HD]]></title>
+        <id>https://www.youtube.com/watch?v=HABR1Qw7ft0</id>
+        <link href="https://www.youtube.com/watch?v=HABR1Qw7ft0"/>
+        <updated>2026-07-08T15:05:32.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നക്ഷത്രദീപങ്ങൾ തിളങ്ങി...| Nakshathradeepangal Thilangi | Nirakudam | KJ Yesudas | Bichu Thirumala]]></title>
         <id>https://www.youtube.com/shorts/-FdjgBsZVVE</id>
@@ -11862,26 +11881,6 @@
         <updated>2026-06-09T05:27:39.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aviduthe Vazhthuvan | Maria Kolady | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/iJNab0sINXU</id>
-        <link href="https://www.youtube.com/shorts/iJNab0sINXU"/>
-        <updated>2026-06-09T05:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idhayam ❤️ #Shivathmika #oncemore]]></title>
-        <id>https://www.youtube.com/shorts/DtbMCRuRN-8</id>
-        <link href="https://www.youtube.com/shorts/DtbMCRuRN-8"/>
-        <updated>2026-06-09T03:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
