@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T18:14:22.505Z</updated>
+    <updated>2026-07-10T20:11:02.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th July 2026]]></title>
+        <id>https://www.youtube.com/watch?v=UwdEqZHRzgU</id>
+        <link href="https://www.youtube.com/watch?v=UwdEqZHRzgU"/>
+        <updated>2026-07-10T19:00:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 July 2026]]></title>
         <id>https://www.youtube.com/shorts/yJTsulRbQhU</id>
@@ -11838,72 +11847,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള സ്വരമാധുരി l Nisari Music l വീണ്ടും വീണ്ടും കേൾക്കാൻ തോന്നുന്ന മലയാള സിനിമ ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=nOIG9ejI-uI</id>
-        <link href="https://www.youtube.com/watch?v=nOIG9ejI-uI"/>
-        <updated>2026-06-11T08:06:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parumala Thirumeni Madhyastha Prarthana | Intercessory Prayer | പരുമല തിരുമേനി മധ്യസ്ഥ പ്രാർത്ഥന]]></title>
-        <id>https://www.youtube.com/shorts/gW2KTWKPeCI</id>
-        <link href="https://www.youtube.com/shorts/gW2KTWKPeCI"/>
-        <updated>2026-06-11T08:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്തുതി ഗീതങ്ങൾ | Vol. 7 | Praise & Worship Songs Malayalam | Video Songs | Match Point Faith |]]></title>
-        <id>https://www.youtube.com/watch?v=4VK8sSi-FAc</id>
-        <link href="https://www.youtube.com/watch?v=4VK8sSi-FAc"/>
-        <updated>2026-06-11T08:00:06.000Z</updated>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paathira Mullakal Video Song | Premkrishnan | Yadukrishnan | Sony Varghese Varanadu]]></title>
-        <id>https://www.youtube.com/watch?v=jzLsZzRu3Ig</id>
-        <link href="https://www.youtube.com/watch?v=jzLsZzRu3Ig"/>
-        <updated>2026-06-11T07:02:00.000Z</updated>
-        <author>
-            <name>Saina Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rayudu - Karukkuchoopu Kurraada Video With Lyrics | Vishal | D. Imman]]></title>
-        <id>https://www.youtube.com/watch?v=ehBT5GxXtwQ</id>
-        <link href="https://www.youtube.com/watch?v=ehBT5GxXtwQ"/>
-        <updated>2026-06-11T07:00:05.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒറ്റയ്ക്കിരിക്കുമ്പൊ പറ്റയ്ക്കിരുന്നോള് #hijabosong #justinvarghese #shorts #lovesong]]></title>
-        <id>https://www.youtube.com/shorts/4740NX-JmwE</id>
-        <link href="https://www.youtube.com/shorts/4740NX-JmwE"/>
-        <updated>2026-06-11T06:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of Mathew | Christian Shorts #shorts #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/eKwDFVFZ4Io</id>
-        <link href="https://www.youtube.com/shorts/eKwDFVFZ4Io"/>
-        <updated>2026-06-11T06:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
