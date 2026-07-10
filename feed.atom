@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T16:11:17.465Z</updated>
+    <updated>2026-07-10T18:14:22.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11904,52 +11904,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salim Kumar Hits | Salim Kumar Malayalam Film Songs |Salim Kumar Hit Songs | Video Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=TbQKQU-MBYw</id>
-        <link href="https://www.youtube.com/watch?v=TbQKQU-MBYw"/>
-        <updated>2026-06-11T06:13:47.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sudha Sundhari | സുധാ സുന്ദരി | Sahapadi 1975 Movie | Afsal | Meera Vasudevan | Vineeth Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=mS3BkUxU7IQ</id>
-        <link href="https://www.youtube.com/watch?v=mS3BkUxU7IQ"/>
-        <updated>2026-06-11T05:53:24.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharalitha Ravil Mayangiyo | തരളിത രാവിൽ മയങ്ങിയോ  | Soorya Manasam Movie Song | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=qoe8M7Z08Kw</id>
-        <link href="https://www.youtube.com/watch?v=qoe8M7Z08Kw"/>
-        <updated>2026-06-11T05:37:32.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Fan Song – Brazil  #worldcup #football #brazilianfootball #shortsfeed #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/shorts/Yeg9HmU3bcc</id>
-        <link href="https://www.youtube.com/shorts/Yeg9HmU3bcc"/>
-        <updated>2026-06-11T05:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utsavamelam Malayalam Movie Song || Amme Gange Mandaakini | | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=h-YkVUGY9e0</id>
-        <link href="https://www.youtube.com/watch?v=h-YkVUGY9e0"/>
-        <updated>2026-06-11T05:05:53.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
