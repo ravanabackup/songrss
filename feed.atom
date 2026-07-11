@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-11T16:39:25.439Z</updated>
+    <updated>2026-07-11T17:43:39.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11954,52 +11954,6 @@
         <updated>2026-06-12T06:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തെന്നലാടും പൂമരത്തിൻ | Thennalaadum Poomarathin | Kandu Kandarinju Movie Song | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=CmdYPM-Zt5c</id>
-        <link href="https://www.youtube.com/watch?v=CmdYPM-Zt5c"/>
-        <updated>2026-06-12T05:29:29.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ini Yathra Vida | Chukkan | Sureshgopi | Gouthami | KJ Yesudas | S P Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=uzNWJ0r6_50</id>
-        <link href="https://www.youtube.com/watch?v=uzNWJ0r6_50"/>
-        <updated>2026-06-12T05:06:29.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maaya kanavo 💭 #swasika #vijayantony #noorusami]]></title>
-        <id>https://www.youtube.com/shorts/sTeEQ-XixEI</id>
-        <link href="https://www.youtube.com/shorts/sTeEQ-XixEI"/>
-        <updated>2026-06-12T05:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thudu Thude Thudikunna | തുടുതുടെ തുടിക്കുന്നു....| Sambavami Yuge Yuge Movie | P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=4v518ypwicw</id>
-        <link href="https://www.youtube.com/watch?v=4v518ypwicw"/>
-        <updated>2026-06-12T05:02:09.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official Trailer | Sathyathil Sambhavichathu | Prasanth Mohan |Akash Menon |Dilshana | Movie Trailer]]></title>
-        <id>https://www.youtube.com/watch?v=_rO-Fw0TBos</id>
-        <link href="https://www.youtube.com/watch?v=_rO-Fw0TBos"/>
-        <updated>2026-06-12T04:57:51.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
