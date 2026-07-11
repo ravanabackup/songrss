@@ -2394,6 +2394,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bVXSgh7IpmQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bVXSgh7IpmQ",
+          "publishedOn": "2026-07-11T20:00:05.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന  July 12 # Athiravile Prarthana 12th of July 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JXA0TRBRiiQ",
           "author": null,
           "description": "",
@@ -8920,16 +8930,6 @@
           "wordCount": null,
           "title": "Njan Kudikkana Kanjilenthine | ഞാൻ കുടിക്കണ കഞ്ഞീലെന്തിനു | Kalabhava Mani Folk Song",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/WcSUdxF6xDw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/WcSUdxF6xDw",
-          "publishedOn": "2026-06-12T08:30:23.000Z",
-          "wordCount": 2242,
-          "title": "Thudu Thude Thudikunna | തുടുതുടെ തുടിക്കുന്ന ....| Sambavami Yuge Yuge Movie | P Jayachandran",
-          "imageUrl": null
         }
       ]
     },
@@ -12889,16 +12889,6 @@
           "publishedOn": "2026-06-12T12:30:00.000Z",
           "wordCount": 2244,
           "title": "Kantha Thamasam | Christian Bhajan | Christian Devotional Song Malayalam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/A4ZzIw4J6XI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/A4ZzIw4J6XI",
-          "publishedOn": "2026-06-12T08:00:26.000Z",
-          "wordCount": 2330,
-          "title": "Parumala Thirumeni Madhyastha Prarthana | Intercessory Prayer | പരുമല തിരുമേനി മധ്യസ്ഥ പ്രാർത്ഥന",
           "imageUrl": null
         }
       ]
