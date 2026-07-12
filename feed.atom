@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T21:36:39.337Z</updated>
+    <updated>2026-07-12T22:35:09.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11796,34 +11796,6 @@
         <updated>2026-06-13T11:30:22.000Z</updated>
         <author>
             <name>GOODWILL ENTERTAINMENTS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pongala Original Soundtrack | Ranjin Raj | Sreenath Bhasi, Baburaj | A B Binil]]></title>
-        <id>https://www.youtube.com/watch?v=_EEfnZT3mIU</id>
-        <link href="https://www.youtube.com/watch?v=_EEfnZT3mIU"/>
-        <updated>2026-06-13T10:30:16.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avo Mere Dosthom | Kids Christian Songs | Hindi Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=JoR-RW8Hu8U</id>
-        <link href="https://www.youtube.com/watch?v=JoR-RW8Hu8U"/>
-        <updated>2026-06-13T10:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉരുകുന്ന മെഴുകുതിരി    | @JinoKunnumpurathu  | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/8hgO8XrUPKc</id>
-        <link href="https://www.youtube.com/shorts/8hgO8XrUPKc"/>
-        <updated>2026-06-13T10:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
