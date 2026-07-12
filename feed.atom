@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T16:41:29.464Z</updated>
+    <updated>2026-07-12T17:47:50.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11871,35 +11871,6 @@
         <updated>2026-06-13T07:00:26.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Derby -  Himashila uruki | Adam Sabiq, jasnya, hari Sivaram, Suparna s| Sajil Mampad | Gopi Sundar]]></title>
-        <id>https://www.youtube.com/shorts/jduz0OhaaRE</id>
-        <link href="https://www.youtube.com/shorts/jduz0OhaaRE"/>
-        <updated>2026-06-13T05:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#kalabhavanmani #folksongs #nadanpattukalmalayalam  1 #song #viral #ambalappuzhakkdavil]]></title>
-        <id>https://www.youtube.com/shorts/pWEn0oTaz6g</id>
-        <link href="https://www.youtube.com/shorts/pWEn0oTaz6g"/>
-        <updated>2026-06-13T05:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നൊമ്പരങ്ങൾ ഇല്ലാതാക്കുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ  | @ZionClassics #christiansongs #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=bX4mTa9V1R0</id>
-        <link href="https://www.youtube.com/watch?v=bX4mTa9V1R0"/>
-        <updated>2026-06-13T04:49:58.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
