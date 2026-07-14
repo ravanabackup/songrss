@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T21:43:25.167Z</updated>
+    <updated>2026-07-14T22:43:22.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജൂലൈ: 15, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=nNjBGMkzQu8</id>
+        <link href="https://www.youtube.com/watch?v=nNjBGMkzQu8"/>
+        <updated>2026-07-14T22:30:13.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 15 # Athiravile Prarthana 15th of July 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=h8X0jhGoq3I</id>
@@ -11889,36 +11898,6 @@
         <updated>2026-06-15T11:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When love feels sweeter than honey, Thean Puthu Thean is the melody you need on repeat. 🎶✨ SOD]]></title>
-        <id>https://www.youtube.com/shorts/wHjst_eqQBc</id>
-        <link href="https://www.youtube.com/shorts/wHjst_eqQBc"/>
-        <updated>2026-06-15T10:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണുനീരോടെ വിതയ്ക്കുന്നവർ | @JinoKunnumpurathu | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/BgRJ2c8ygrw</id>
-        <link href="https://www.youtube.com/shorts/BgRJ2c8ygrw"/>
-        <updated>2026-06-15T10:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാപം മാറ്റുവാൻ #christianalbumsong #christiandevotionalsong #christianshorts #jesuschrist #faith]]></title>
-        <id>https://www.youtube.com/shorts/hxjnccnaY3o</id>
-        <link href="https://www.youtube.com/shorts/hxjnccnaY3o"/>
-        <updated>2026-06-15T09:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Jesus</name>
         </author>
     </entry>
 </feed>
