@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T21:54:14.258Z</updated>
+    <updated>2026-07-15T22:45:00.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കർമ്മലമാതാവിന്റെ തിരുനാൾ ഗാനങ്ങൾ 2026 | Our Lady Of Carmel | Feast Day Songs | Evergreen Hits]]></title>
+        <id>https://www.youtube.com/watch?v=DZWfVGqQ6l8</id>
+        <link href="https://www.youtube.com/watch?v=DZWfVGqQ6l8"/>
+        <updated>2026-07-15T22:30:08.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 16 # Athiravile Prarthana 16th of July 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=bBTyfoYvCYE</id>
@@ -11918,43 +11927,6 @@
         <updated>2026-06-16T11:30:01.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നിന്നെ അനുഗ്രഹിക്കട്ടെ |  @JinoKunnumpurathu  | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/BWFqkmrn18k</id>
-        <link href="https://www.youtube.com/shorts/BWFqkmrn18k"/>
-        <updated>2026-06-16T10:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Jeevananeesho | Anugraha Roy | Dixon Kandakkadavu | Halma Shaji |  #newsong]]></title>
-        <id>https://www.youtube.com/watch?v=FymWjvVmZBg</id>
-        <link href="https://www.youtube.com/watch?v=FymWjvVmZBg"/>
-        <updated>2026-06-16T10:30:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hum Prabhu Ki Santhan He | Kids Christian Songs | Hindi Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lOm2aFSIAog</id>
-        <link href="https://www.youtube.com/watch?v=lOm2aFSIAog"/>
-        <updated>2026-06-16T10:30:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannukal Ariyathe Niranju Pokum Ee Ganangal Kelkkumbol | Biju Narayanan | Kester | Sudheep Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=4FxkiwE7hAw</id>
-        <link href="https://www.youtube.com/watch?v=4FxkiwE7hAw"/>
-        <updated>2026-06-16T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
