@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T20:42:01.644Z</updated>
+    <updated>2026-07-16T21:52:49.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11968,15 +11968,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മുത്ത് മണിതൂവൽ തരാം   ചിന്നുകുട്ടി ഉറങ്ങിയില്ലേ | ഹൃദയത്തിലെ ഇഷ്ട ഗാനങ്ങൾ | Nisari Music]]></title>
-        <id>https://www.youtube.com/watch?v=s36d_Rnw5yQ</id>
-        <link href="https://www.youtube.com/watch?v=s36d_Rnw5yQ"/>
-        <updated>2026-06-17T09:00:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
