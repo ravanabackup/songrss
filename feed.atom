@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T07:07:30.884Z</updated>
+    <updated>2026-07-17T09:43:01.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[100 വട്ടം കേട്ടാലും മടുക്കാത്ത ഗാനങ്ങൾ  | @ZionClassics   #christiansongs #jinokunnumpurath]]></title>
+        <id>https://www.youtube.com/watch?v=XowNdPE4xv4</id>
+        <link href="https://www.youtube.com/watch?v=XowNdPE4xv4"/>
+        <updated>2026-07-17T09:20:15.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mungi Mungi Muthupongi | മുങ്ങിമുങ്ങി മുത്തു പൊങ്ങി...| Jackpot Movie | KS Chithra | Ilayaraja Song]]></title>
+        <id>https://www.youtube.com/shorts/tZleWWAVv7A</id>
+        <link href="https://www.youtube.com/shorts/tZleWWAVv7A"/>
+        <updated>2026-07-17T08:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sayyaave | Christian Brothers | Sankar Mahadevan | Swetha Mohan | Deepak Dev | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=67r_8d6cs8g</id>
@@ -106,6 +125,15 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nalla Devane Njangal Ellavareyum | Malayalam Christian Songs | Evergreen Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=tbckZmLDu0k</id>
+        <link href="https://www.youtube.com/watch?v=tbckZmLDu0k"/>
+        <updated>2026-07-17T03:59:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11941,15 +11969,6 @@
         <link href="https://www.youtube.com/shorts/ToASsvWRdvI"/>
         <updated>2026-06-17T22:28:20.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 18 # Athiravile Prarthana 18th of June 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ljicTBAv7EA</id>
-        <link href="https://www.youtube.com/watch?v=ljicTBAv7EA"/>
-        <updated>2026-06-17T20:00:21.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
