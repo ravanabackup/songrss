@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T21:39:12.306Z</updated>
+    <updated>2026-07-17T22:36:33.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12004,34 +12004,6 @@
         <updated>2026-06-18T11:30:01.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONNUMILLAYMAYIL NINNUMENNE | LYRICAL VIDEO | KESTER | @JinoKunnumpurathu]]></title>
-        <id>https://www.youtube.com/watch?v=PJnSGYkGZ5w</id>
-        <link href="https://www.youtube.com/watch?v=PJnSGYkGZ5w"/>
-        <updated>2026-06-18T10:35:53.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിന്നിലേക്ക്‌ വരുന്നവൻ  |   @JinoKunnumpurathu    | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/54gspiHkEL8</id>
-        <link href="https://www.youtube.com/shorts/54gspiHkEL8"/>
-        <updated>2026-06-18T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayam Nurungi Karayunna Neerathu Aswasamakunna Ganangal | Kester | K.G.Markose | Sudeep Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=LSaNjI5aVyo</id>
-        <link href="https://www.youtube.com/watch?v=LSaNjI5aVyo"/>
-        <updated>2026-06-18T10:30:06.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
