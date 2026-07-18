@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T22:35:33.397Z</updated>
+    <updated>2026-07-18T23:39:42.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഞായറാഴ്ച കേൾക്കേണ്ട കുര്ബാനഗീതങ്ങൾ |Catholic Morning Prayer Songs | Wilson Piravom | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=sV9AChpAGa4</id>
+        <link href="https://www.youtube.com/watch?v=sV9AChpAGa4"/>
+        <updated>2026-07-18T23:30:14.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parama Pithavin | Binoy Chacko | Christian Video Song | Prathaysha Geethangal | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Lxkg1XoHnFk</id>
+        <link href="https://www.youtube.com/watch?v=Lxkg1XoHnFk"/>
+        <updated>2026-07-18T23:30:04.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജൂലൈ: 19, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=psSspCRhE2U</id>
+        <link href="https://www.youtube.com/watch?v=psSspCRhE2U"/>
+        <updated>2026-07-18T22:30:39.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 19 # Athiravile Prarthana 19th of July 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=gT-h8QL1LEM</id>
@@ -11953,52 +11980,6 @@
         <updated>2026-06-19T12:29:37.000Z</updated>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IYKYK - Video | Athiradi | Tovino Thomas | Basil Joseph | Riya Shibu | Vishnu Vijay | Fejo, Poornima]]></title>
-        <id>https://www.youtube.com/watch?v=vKzEu5yHiP8</id>
-        <link href="https://www.youtube.com/watch?v=vKzEu5yHiP8"/>
-        <updated>2026-06-19T11:30:33.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രിസ്മസ് കാലത്തെ ഓർമ്മകളിലേക്ക് നമ്മെ കൂട്ടിക്കൊണ്ടുപോകുന്ന വരികൾ...Ep 86 @ZionClassics]]></title>
-        <id>https://www.youtube.com/shorts/L2HaCVp-GhU</id>
-        <link href="https://www.youtube.com/shorts/L2HaCVp-GhU"/>
-        <updated>2026-06-19T11:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanavaanath Video Song - Chinna Chinna Aasai | Indrans | Madhubala | Govind Vasantha|Chinmayi|Varsha]]></title>
-        <id>https://www.youtube.com/watch?v=g_1ljzqFBJs</id>
-        <link href="https://www.youtube.com/watch?v=g_1ljzqFBJs"/>
-        <updated>2026-06-19T11:30:09.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh My Julie|Beat Route A Musical Journey|Amal Jose|Christina Alex| Murugan Kattakkada|M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=PyQyrTZIHSc</id>
-        <link href="https://www.youtube.com/watch?v=PyQyrTZIHSc"/>
-        <updated>2026-06-19T11:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilavinte Chumbanamettu | നിലാവിന്റെ ചുംബനമേറ്റ്...|  Avadharam | KJ Yesudas | Sukumaran Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=UCP8ekQ_VMQ</id>
-        <link href="https://www.youtube.com/watch?v=UCP8ekQ_VMQ"/>
-        <updated>2026-06-19T11:27:00.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
