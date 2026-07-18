@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-18T21:37:48.558Z</updated>
+    <updated>2026-07-18T22:35:33.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11999,35 +11999,6 @@
         <updated>2026-06-19T11:27:00.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എപ്പോഴും പ്രാർത്ഥിപ്പിൻ  |    @JinoKunnumpurathu    | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/CuewJLbJsEs</id>
-        <link href="https://www.youtube.com/shorts/CuewJLbJsEs"/>
-        <updated>2026-06-19T10:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾക്ക് ഏറെ ഇഷ്ട്ടപെടുന്ന ഗാനങ്ങൾ |  @ZionClassics #christiansongs #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=KYs5p5ewSl0</id>
-        <link href="https://www.youtube.com/watch?v=KYs5p5ewSl0"/>
-        <updated>2026-06-19T10:30:06.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരളേ നീ വരാൻ  Karale Nee Varaan#mammootty #viral #chronicbachelor]]></title>
-        <id>https://www.youtube.com/shorts/_L4_xTCJcRs</id>
-        <link href="https://www.youtube.com/shorts/_L4_xTCJcRs"/>
-        <updated>2026-06-19T09:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
