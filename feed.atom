@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T20:00:04.321Z</updated>
+    <updated>2026-07-19T20:48:07.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 20 # Athiravile Prarthana 20th of July 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=4Disg0-RJ2M</id>
+        <link href="https://www.youtube.com/watch?v=4Disg0-RJ2M"/>
+        <updated>2026-07-19T20:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 July 2026]]></title>
         <id>https://www.youtube.com/shorts/40YrD-9mNO8</id>
@@ -11932,15 +11941,6 @@
         <updated>2026-06-20T08:54:06.000Z</updated>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Mounamaayi HD Video Song | Pavam I. A. Ivachan | Singer (K. J. Yesudas)]]></title>
-        <id>https://www.youtube.com/watch?v=nEbMaFmh0LI</id>
-        <link href="https://www.youtube.com/watch?v=nEbMaFmh0LI"/>
-        <updated>2026-06-20T08:38:56.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
