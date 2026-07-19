@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T17:45:13.592Z</updated>
+    <updated>2026-07-19T18:44:41.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11959,15 +11959,6 @@
         <updated>2026-06-20T06:51:07.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vadakumcheri Kuruppathappan | വടക്കുംച്ചേരി കുറുപ്പത്തപ്പൻ...| Klaabhavan Mani Folk Song]]></title>
-        <id>https://www.youtube.com/watch?v=apvE64d3pUE</id>
-        <link href="https://www.youtube.com/watch?v=apvE64d3pUE"/>
-        <updated>2026-06-20T06:41:04.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
