@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T07:23:37.809Z</updated>
+    <updated>2026-07-19T09:41:16.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kokkarakozhi Koovanu 4K Video Song | Aandavan | Kalabhavan Mani | Alex Paul | Bappu Velliparamba]]></title>
+        <id>https://www.youtube.com/watch?v=xPdDNQtn6wk</id>
+        <link href="https://www.youtube.com/watch?v=xPdDNQtn6wk"/>
+        <updated>2026-07-19T08:30:26.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maari Maari Poomari | മാരി മാരി പൂമാരി...| Sphodanam Movie | S Janakiamma Evergreen Song | ONV Kurup]]></title>
+        <id>https://www.youtube.com/shorts/hUQAdDg3uhE</id>
+        <link href="https://www.youtube.com/shorts/hUQAdDg3uhE"/>
+        <updated>2026-07-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ini Njan Mathram | Uyir Malayalam Movie #shorts #shortsfeed #shortsvideo #reels #malayalamsongs]]></title>
+        <id>https://www.youtube.com/shorts/zqnlb6--LCY</id>
+        <link href="https://www.youtube.com/shorts/zqnlb6--LCY"/>
+        <updated>2026-07-19T07:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baby - Chanti Pillala Audio With Lyrics | Anand Deverakonda | Vijai Bulganin]]></title>
         <id>https://www.youtube.com/watch?v=iuJL9xAXYSo</id>
@@ -11886,15 +11915,6 @@
         <updated>2026-06-19T22:30:06.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 20 # Athiravile Prarthana 20th of June 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=g8XKfDEqq0w</id>
-        <link href="https://www.youtube.com/watch?v=g8XKfDEqq0w"/>
-        <updated>2026-06-19T20:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
