@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T21:55:52.970Z</updated>
+    <updated>2026-07-20T22:44:17.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11979,26 +11979,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇനി നിന്റെ അവസ്ഥ മാറും  |   @JinoKunnumpurathu    | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/VUw-QEIJePo</id>
-        <link href="https://www.youtube.com/shorts/VUw-QEIJePo"/>
-        <updated>2026-06-21T10:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Fan Song – Spain  #worldcup #football #spain #shortsfeed #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/shorts/-C0emu0EHOk</id>
-        <link href="https://www.youtube.com/shorts/-C0emu0EHOk"/>
-        <updated>2026-06-21T10:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
