@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T16:12:12.627Z</updated>
+    <updated>2026-07-21T18:06:07.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21 July 2026]]></title>
+        <id>https://www.youtube.com/shorts/5CmLUKULrA0</id>
+        <link href="https://www.youtube.com/shorts/5CmLUKULrA0"/>
+        <updated>2026-07-21T16:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innente Khalbile Panineer | ഇന്നെന്റെ ഖൽ‌ബിലെ | Kootinilamkili | Unni Menon Song | Mammootty Movie]]></title>
         <id>https://www.youtube.com/shorts/6zxu_K9veZU</id>
@@ -12163,34 +12173,6 @@
         <updated>2026-06-22T06:14:46.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Aaro | David & Goliath | Vijay Yesudas | Anoop Menon | Ratheesh Vegha | Rajeev Nath]]></title>
-        <id>https://www.youtube.com/watch?v=uKa1bBmAMio</id>
-        <link href="https://www.youtube.com/watch?v=uKa1bBmAMio"/>
-        <updated>2026-06-22T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moham Moham | മോഹം ചിറകു വിടര്‍ത്തി...| Avatharam Movie | KJ Yesudas | Sathyan Anthikad Song]]></title>
-        <id>https://www.youtube.com/watch?v=xbfN4d7BbEY</id>
-        <link href="https://www.youtube.com/watch?v=xbfN4d7BbEY"/>
-        <updated>2026-06-22T05:15:47.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanavaanathu 🎶✨ #ChinnaChinnaAasai #Indrans #Madhoo #GovindVasantha]]></title>
-        <id>https://www.youtube.com/shorts/H48fb50AQg0</id>
-        <link href="https://www.youtube.com/shorts/H48fb50AQg0"/>
-        <updated>2026-06-22T04:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
