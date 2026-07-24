@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T07:26:13.868Z</updated>
+    <updated>2026-07-24T10:03:53.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Njanennum Sthuthikkum | Christian Shorts #shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/_TRXSPx-4d0</id>
+        <link href="https://www.youtube.com/shorts/_TRXSPx-4d0"/>
+        <updated>2026-07-24T09:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Njanennum Sthuthikkum | Christian Shorts #shorts #manoramachristiansongs]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyoohame Chakravyoohame | വ്യൂഹമേ ചക്രവ്യൂഹമേ...| Thirakkil Alpa Samayam | KJ Yesudas Song | Madhu]]></title>
+        <id>https://www.youtube.com/shorts/8CrzFlG376E</id>
+        <link href="https://www.youtube.com/shorts/8CrzFlG376E"/>
+        <updated>2026-07-24T08:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Vyoohame Chakravyoohame | വ്യൂഹമേ ചക്രവ്യൂഹമേ...| Thirakkil Alpa Samayam | KJ Yesudas Song | Madhu #malayalammoviesongs #oldmoviesong #evergreenhits #yesudas...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gospel of St. John | Shorts #pocbible #shorts]]></title>
+        <id>https://www.youtube.com/shorts/IXAhE7xeHhk</id>
+        <link href="https://www.youtube.com/shorts/IXAhE7xeHhk"/>
+        <updated>2026-07-24T08:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Gospel of St. John | Shorts #pocbible #shorts Chapter 1 Verse 01 18 Ai Reel 01]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gospel of John | Christian Shorts #shorts #manoramamusic #biblereading]]></title>
+        <id>https://www.youtube.com/shorts/60M4Aw9vV3k</id>
+        <link href="https://www.youtube.com/shorts/60M4Aw9vV3k"/>
+        <updated>2026-07-24T07:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Gospel of John | Christian Shorts #shorts #manoramamusic #biblereading യോഹന്നാൻ എഴുതിയ സുവിശേഷം Chapter 3 Verse 22 36 Ai Reel 02]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaattinte Kalla Nombaram | Best of Malayalam Film Songs l Yesudas l Nisari Music]]></title>
         <id>https://www.youtube.com/watch?v=adOWYvE-67g</id>
@@ -11956,15 +11996,6 @@
         <updated>2026-06-24T22:30:17.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 25 # Athiravile Prarthana 25th of June 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Z1fGZ4Kvld0</id>
-        <link href="https://www.youtube.com/watch?v=Z1fGZ4Kvld0"/>
-        <updated>2026-06-24T20:00:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
