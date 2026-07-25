@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T10:59:04.891Z</updated>
+    <updated>2026-07-25T12:02:08.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dum Dum Dum Dooreyetho 4K Video Song | Rakkilipattu | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=zB9W5qHYf6Q</id>
+        <link href="https://www.youtube.com/watch?v=zB9W5qHYf6Q"/>
+        <updated>2026-07-25T11:45:57.000Z</updated>
+        <author>
+            <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandhyamanimuzhangum Neram | Ente Jeevananeesho | Alit Safaniya| Dixon Kandakkadavu  Reel 3]]></title>
+        <id>https://www.youtube.com/shorts/-J_T12oHup0</id>
+        <link href="https://www.youtube.com/shorts/-J_T12oHup0"/>
+        <updated>2026-07-25T11:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've Got the Joy, Joy | Traditional Christian Hymn | Praise & Worship | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=lvtA6mKMDA0</id>
+        <link href="https://www.youtube.com/watch?v=lvtA6mKMDA0"/>
+        <updated>2026-07-25T11:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എല്ലാം ദൈവത്തിനു വിട്ടുകൊടുക്കുക  |@JinoKunnumpurathu  | Rev. Aneesh P Joseph | #motivation]]></title>
         <id>https://www.youtube.com/shorts/b9QwLMjfDz0</id>
@@ -11941,52 +11969,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of Luke - Chapter 20 | Bible Reading | New Testament Malayalam | Malayalam Audio Bible]]></title>
-        <id>https://www.youtube.com/watch?v=dKBB1d942aI</id>
-        <link href="https://www.youtube.com/watch?v=dKBB1d942aI"/>
-        <updated>2026-06-26T00:00:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala  26th of June  2026 # Mathavinte Japamala # Dhukhathinte Rahasyangal 26th of June  2026]]></title>
-        <id>https://www.youtube.com/watch?v=zvxGhLvs8vo</id>
-        <link href="https://www.youtube.com/watch?v=zvxGhLvs8vo"/>
-        <updated>2026-06-25T23:30:37.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാനാൻ ദേശം ഒരുക്കും വിശ്വാസ ഗീതങ്ങൾ | Christian Video Songs | KG Markose | Kester | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=KBI_5K1QKSk</id>
-        <link href="https://www.youtube.com/watch?v=KBI_5K1QKSk"/>
-        <updated>2026-06-25T23:30:27.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandhanam En Aathmavil | KG Markose | Prathyasha Geethangal | Praise and Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lmH6UeaeDcs</id>
-        <link href="https://www.youtube.com/watch?v=lmH6UeaeDcs"/>
-        <updated>2026-06-25T23:30:12.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/s-4ccJbI1Sk</id>
-        <link href="https://www.youtube.com/shorts/s-4ccJbI1Sk"/>
-        <updated>2026-06-25T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
