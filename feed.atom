@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-26T11:52:21.779Z</updated>
+    <updated>2026-07-26T12:52:04.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26th of July 2026]]></title>
+        <id>https://www.youtube.com/watch?v=MU7Idoh1hYw</id>
+        <link href="https://www.youtube.com/watch?v=MU7Idoh1hYw"/>
+        <updated>2026-07-26T12:30:27.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹൃദയത്തിൽ അലിഞ്ഞുചേർന്ന ക്രിസ്തീയഗാനങ്ങൾ |  @JinoKunnumpurathu  #christiansongs #zionclassics]]></title>
         <id>https://www.youtube.com/watch?v=idwzmyRkKOw</id>
@@ -11878,15 +11887,6 @@
         <updated>2026-06-27T01:00:06.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 27th June 2026 # Novena to the Sacred Heart of Jesus 27th June 2026]]></title>
-        <id>https://www.youtube.com/watch?v=GpQulq8g53s</id>
-        <link href="https://www.youtube.com/watch?v=GpQulq8g53s"/>
-        <updated>2026-06-27T00:30:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
