@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-27T20:58:35.324Z</updated>
+    <updated>2026-07-27T22:03:00.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11823,15 +11823,6 @@
         <updated>2026-06-28T10:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Udicha Chandirante 4K Video Song | Punjabi House | Dileep | Lal | Mohini | MG Sreekumar | Mano]]></title>
-        <id>https://www.youtube.com/watch?v=oMheuv4bVKE</id>
-        <link href="https://www.youtube.com/watch?v=oMheuv4bVKE"/>
-        <updated>2026-06-28T09:30:30.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
