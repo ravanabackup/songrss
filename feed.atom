@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T20:55:27.553Z</updated>
+    <updated>2026-07-28T21:53:27.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11875,25 +11875,6 @@
         <link href="https://www.youtube.com/shorts/VvM19O4r9yI"/>
         <updated>2026-06-29T10:30:02.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saamaja Sanjarini | സാമജസഞ്ചാരിണീ...| Parinayam Movie | Yesudas Evergreen Classic Song | Bombay Ravi]]></title>
-        <id>https://www.youtube.com/shorts/PEjuK8kUEf0</id>
-        <link href="https://www.youtube.com/shorts/PEjuK8kUEf0"/>
-        <updated>2026-06-29T09:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Football Fan Songs |Video Jukebox #fifa2026 #fansong #worldcup #football #worldcupfootball]]></title>
-        <id>https://www.youtube.com/watch?v=w13DR1Fa43M</id>
-        <link href="https://www.youtube.com/watch?v=w13DR1Fa43M"/>
-        <updated>2026-06-29T09:08:38.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
