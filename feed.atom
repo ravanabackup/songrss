@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T07:29:03.192Z</updated>
+    <updated>2026-07-28T10:19:17.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/s1ukfXwXpnQ</id>
+        <link href="https://www.youtube.com/shorts/s1ukfXwXpnQ"/>
+        <updated>2026-07-28T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Aaro | Sri Sri (Malayalam) | Dulquer Salmaan | Pooja Hegde | GV Prakash Kumar | Ravi Nelakuditi]]></title>
+        <id>https://www.youtube.com/watch?v=RNDsHh8HgIg</id>
+        <link href="https://www.youtube.com/watch?v=RNDsHh8HgIg"/>
+        <updated>2026-07-28T07:52:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy birthday DQ #dulquersalmaan #shortvideo #shortsfeed #music #reels #shorts]]></title>
+        <id>https://www.youtube.com/shorts/i_kEI8u4NFU</id>
+        <link href="https://www.youtube.com/shorts/i_kEI8u4NFU"/>
+        <updated>2026-07-28T07:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമലോത്ഭവേ മാതാവേ | Mother Mary Divine Songs | Christian Devotional Songs | Super Hit Maryan Songs]]></title>
         <id>https://www.youtube.com/watch?v=Z5tkfEOfoyU</id>
@@ -22,6 +51,15 @@
         <updated>2026-07-28T07:00:00.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photographer Love Story | Nishad Kappad | Prasoon Narayan | Nihara Harsh | Amitha Sherin]]></title>
+        <id>https://www.youtube.com/watch?v=vYlw6A1MGjY</id>
+        <link href="https://www.youtube.com/watch?v=vYlw6A1MGjY"/>
+        <updated>2026-07-28T06:15:05.000Z</updated>
+        <author>
+            <name>Saina Audios</name>
         </author>
     </entry>
     <entry>
@@ -11830,15 +11868,6 @@
         <updated>2026-06-28T22:30:31.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാർത്ഥന June 29 # Athiravile Prarthana 29th of June 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=orJOVvIMSo4</id>
-        <link href="https://www.youtube.com/watch?v=orJOVvIMSo4"/>
-        <updated>2026-06-28T20:00:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
