@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T01:18:42.105Z</updated>
+    <updated>2026-07-28T04:50:29.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മന്ത്രം പോലെ മൗനമുടഞ്ഞൊരു | Manthram Pole | Manassinte Theerthayathra | KJ Yesudas | Olden Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=9NEVjD2GNtY</id>
+        <link href="https://www.youtube.com/watch?v=9NEVjD2GNtY"/>
+        <updated>2026-07-28T04:49:19.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/9NFUl6Gd2P4</id>
