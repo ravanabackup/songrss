@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-29T15:02:06.406Z</updated>
+    <updated>2026-07-29T17:01:00.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/ANjhc6R07AQ</id>
+        <link href="https://www.youtube.com/shorts/ANjhc6R07AQ"/>
+        <updated>2026-07-29T15:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/dYDe6O9KNIg</id>
+        <link href="https://www.youtube.com/shorts/dYDe6O9KNIg"/>
+        <updated>2026-07-29T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിശാകുടീരം...| Nisha kudeeram | Manassinte Theerthayathra | S Janakiamma Melody Song | ONV Kurup]]></title>
         <id>https://www.youtube.com/watch?v=SPcSq0hHpto</id>
@@ -11878,54 +11898,6 @@
         <updated>2026-06-30T05:30:01.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargeeya Pithave | Vrinda | Christian Song Shorts #manoramachristiansongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/8hQ62uHjobM</id>
-        <link href="https://www.youtube.com/shorts/8hQ62uHjobM"/>
-        <updated>2026-06-30T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadhal Yaathiriye 🎶✨ #Rudh #Vibha #ThinkIndie]]></title>
-        <id>https://www.youtube.com/shorts/cj2QIupjFyk</id>
-        <link href="https://www.youtube.com/shorts/cj2QIupjFyk"/>
-        <updated>2026-06-30T04:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kahalanadam Kelkkaray | Maria Kolady | Malayalam Christian Songs | Evergreen Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lNJPnEcCXmM</id>
-        <link href="https://www.youtube.com/watch?v=lNJPnEcCXmM"/>
-        <updated>2026-06-30T04:00:25.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enni Enni Sthuthikkuvan | Shorts #christiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/xEg90QRmx78</id>
-        <link href="https://www.youtube.com/shorts/xEg90QRmx78"/>
-        <updated>2026-06-30T04:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonstop Malayalam Christian Songs | Rev. Dr. Grimbald Lanthaparambil]]></title>
-        <id>https://www.youtube.com/watch?v=EDMEV0zwif8</id>
-        <link href="https://www.youtube.com/watch?v=EDMEV0zwif8"/>
-        <updated>2026-06-30T03:25:01.000Z</updated>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
