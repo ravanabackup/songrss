@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-29T07:35:46.972Z</updated>
+    <updated>2026-07-29T10:24:59.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ലോകമെങ്ങും ഹിറ്റായ ക്രിസ്‌തീയ ഗാനങ്ങൾ | @ZionClassics  | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=vQg2zFtNGLg</id>
+        <link href="https://www.youtube.com/watch?v=vQg2zFtNGLg"/>
+        <updated>2026-07-29T09:43:39.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achanum Ammakkum | അച്‌ഛനും അമ്മയ്ക്കും സ്വകാര്യം| Omanikkan Ormavaikkan |Vani Jairam Olden Hit Song]]></title>
+        <id>https://www.youtube.com/shorts/XgPb_9qcYmY</id>
+        <link href="https://www.youtube.com/shorts/XgPb_9qcYmY"/>
+        <updated>2026-07-29T08:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Achanum Ammakkum | അച്‌ഛനും അമ്മയ്ക്കും സ്വകാര്യം| Omanikkan Ormavaikkan |Vani Jairam Olden Hit Song#evergreensongs #malayalamfilmsongs #oldemoviesong #vanij...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orthodox St. Mary's songs  | Mother Mary Songs | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/xejvp6Dnda4</id>
+        <link href="https://www.youtube.com/shorts/xejvp6Dnda4"/>
+        <updated>2026-07-29T08:00:09.000Z</updated>
+        <summary type="html"><![CDATA[St Mary's songs |Shonoyoo lent | Shonoyoo nomb വാങ്ങിപ്പ് പെരുന്നാൾ | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ  | Sibin Chowalloor | Music Spread | Ettu Nomb songs | എട്...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[கட்டா குஸ்தி 2 - சம்பவக்காரி தமிழ் பாடல்வரிகள் | ஷான் ரோல்டன்]]></title>
         <id>https://www.youtube.com/watch?v=Pci5JnELL2A</id>
@@ -11809,15 +11838,6 @@
         <updated>2026-06-29T22:30:34.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 30 # Athiravile Prarthana 30th of June 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=3oH47zzCQvw</id>
-        <link href="https://www.youtube.com/watch?v=3oH47zzCQvw"/>
-        <updated>2026-06-29T20:00:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
