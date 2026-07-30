@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-30T07:24:53.546Z</updated>
+    <updated>2026-07-30T10:08:12.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalaavathi - Ghazal Version | K.S. Chithra | Ravindran | Akash Justin]]></title>
+        <id>https://www.youtube.com/watch?v=3E_Z057YedQ</id>
+        <link href="https://www.youtube.com/watch?v=3E_Z057YedQ"/>
+        <updated>2026-07-30T09:25:35.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/WXnSg3x1D2Y</id>
+        <link href="https://www.youtube.com/shorts/WXnSg3x1D2Y"/>
+        <updated>2026-07-30T08:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nazarethile Nandavanam | നസ്രത്തിലെ നന്ദാവനം #christiandevotionalsong #jesusshorts #christianmusic]]></title>
         <id>https://www.youtube.com/shorts/nkEayJR1fxA</id>
@@ -11728,15 +11747,6 @@
         <updated>2026-06-30T22:30:37.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 1 # Athiravile Prarthana 1st of July 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=A8UfSn-MlHQ</id>
-        <link href="https://www.youtube.com/watch?v=A8UfSn-MlHQ"/>
-        <updated>2026-06-30T20:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
