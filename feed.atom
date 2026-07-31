@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T19:03:10.653Z</updated>
+    <updated>2026-07-31T20:49:46.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 1 # Athiravile Prarthana 1st of August 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=1m-ML7yrDXA</id>
+        <link href="https://www.youtube.com/watch?v=1m-ML7yrDXA"/>
+        <updated>2026-07-31T20:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st August 2026]]></title>
+        <id>https://www.youtube.com/watch?v=OIrgWLy-Mt0</id>
+        <link href="https://www.youtube.com/watch?v=OIrgWLy-Mt0"/>
+        <updated>2026-07-31T19:00:38.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
         <id>https://www.youtube.com/shorts/64IIg0jZxEo</id>
@@ -11837,34 +11855,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kankuliruvathellam | കൺകുളിരുവതെല്ലാം....| Oormayilennum Movie | KS Chithra Evergreen Hits]]></title>
-        <id>https://www.youtube.com/shorts/jkCAYtMVjNg</id>
-        <link href="https://www.youtube.com/shorts/jkCAYtMVjNg"/>
-        <updated>2026-07-02T08:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Poove Paalappoove Video Song | Devadoothan | Mohanlal | KS Chithra| P Jayachandran| Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=oVgcJhMVDL4</id>
-        <link href="https://www.youtube.com/watch?v=oVgcJhMVDL4"/>
-        <updated>2026-07-02T08:10:07.000Z</updated>
-        <author>
-            <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manju Peyyana Video Song | S Ramesan Nair | Vidyasagar | Sujatha Mohan | Kavya Madhavan | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=o10oERMd8lQ</id>
-        <link href="https://www.youtube.com/watch?v=o10oERMd8lQ"/>
-        <updated>2026-07-02T08:05:02.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
         </author>
     </entry>
 </feed>
