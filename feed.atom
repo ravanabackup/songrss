@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T09:53:06.118Z</updated>
+    <updated>2026-08-01T11:08:38.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സമയം മാറ്റിവയ്ക്കാം  | Rev. Aneesh P Joseph | #motivation # #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/shorts/BGZ2dLDasNk</id>
+        <link href="https://www.youtube.com/shorts/BGZ2dLDasNk"/>
+        <updated>2026-08-01T10:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navyabhavamode | Shorts #christiandevotionalsongs #shortsyoutube]]></title>
+        <id>https://www.youtube.com/shorts/PBT1bZjCH_M</id>
+        <link href="https://www.youtube.com/shorts/PBT1bZjCH_M"/>
+        <updated>2026-08-01T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Navyabhavamode | Shorts #christiandevotionalsongs #shorts]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zombie Zombie Yes Papa Video Song |PLUTO|Neeraj Madhav, Althaf Salim| Arcado|Adithyan Chandrashekar]]></title>
         <id>https://www.youtube.com/watch?v=___8GwVtWvI</id>
@@ -11804,25 +11824,6 @@
         <updated>2026-07-02T23:30:18.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/rYpHa-qJIPw</id>
-        <link href="https://www.youtube.com/shorts/rYpHa-qJIPw"/>
-        <updated>2026-07-02T23:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 03 , ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=k6Ofjk99POA</id>
-        <link href="https://www.youtube.com/watch?v=k6Ofjk99POA"/>
-        <updated>2026-07-02T22:30:01.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
