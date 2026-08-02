@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T11:09:37.285Z</updated>
+    <updated>2026-08-02T12:51:57.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 2nd of August 2026]]></title>
+        <id>https://www.youtube.com/watch?v=QXDZSFpiWxw</id>
+        <link href="https://www.youtube.com/watch?v=QXDZSFpiWxw"/>
+        <updated>2026-08-02T12:30:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിജയ് യേശുദാസിന്റെ മനോഹരമായ ഒരു ക്രിസ്തീയ ഗാനം.. | #jinokunnumpurath #shortvideo #ai]]></title>
+        <id>https://www.youtube.com/shorts/J7Pc1uOO-ms</id>
+        <link href="https://www.youtube.com/shorts/J7Pc1uOO-ms"/>
+        <updated>2026-08-02T12:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇതും കടന്നുപോകും | Rev. Aneesh P Joseph | #motivation # #malayalamchristiansong]]></title>
         <id>https://www.youtube.com/shorts/C2zAI8i262w</id>
@@ -433,6 +452,16 @@
         <updated>2026-08-01T11:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കെ. ജി. മാർക്കോസിന്റെ മനോഹര ശബ്ദത്തിൽ 'സാന്ത്വനം' ആൽബത്തിലെ ഈ ആത്മീയ ഗാനം! EP 104 @ZionClassics]]></title>
+        <id>https://www.youtube.com/shorts/R0sSa_G7Tco</id>
+        <link href="https://www.youtube.com/shorts/R0sSa_G7Tco"/>
+        <updated>2026-08-01T10:24:19.000Z</updated>
+        <summary type="html"><![CDATA[കെ. ജി. മാർക്കോസിന്റെ മനോഹര ശബ്ദത്തിൽ 'സാന്ത്വനം' ആൽബത്തിലെ ഈ ആത്മീയ ഗാനം! @ZionClassics Album : SanthwanamSong : AthyunnathangalilListen & Enjoy Our Super H...]]></summary>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -11812,33 +11841,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 4th of July 2026 # Mathavinte Japamala # Santhoshathinte Rahasyangal 4th of July 2026]]></title>
-        <id>https://www.youtube.com/watch?v=e90aulO2WuY</id>
-        <link href="https://www.youtube.com/watch?v=e90aulO2WuY"/>
-        <updated>2026-07-04T00:30:36.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of Luke - Chapter 24 | Bible Reading | New Testament Malayalam | Malayalam Audio Bible]]></title>
-        <id>https://www.youtube.com/watch?v=2wKUY1yZYXc</id>
-        <link href="https://www.youtube.com/watch?v=2wKUY1yZYXc"/>
-        <updated>2026-07-04T00:00:06.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വർഗീയ ജീവിതം നൽകും ക്രിസ്തീയ ഗാനങ്ങൾ | Prathyasha Geethangal | KG Markose | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=mbHljhU92s8</id>
-        <link href="https://www.youtube.com/watch?v=mbHljhU92s8"/>
-        <updated>2026-07-03T23:30:34.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
         </author>
     </entry>
 </feed>
