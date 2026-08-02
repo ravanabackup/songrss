@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T01:25:41.960Z</updated>
+    <updated>2026-08-02T05:14:52.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നെറ്റിയിൽ പൂവുള്ള സ്വർണ്ണ | Nettiyil Poovulla | Manivathoorile Aayiram Sivarathrikal |Chithra Melody]]></title>
+        <id>https://www.youtube.com/watch?v=TbF6gwu4qlo</id>
+        <link href="https://www.youtube.com/watch?v=TbF6gwu4qlo"/>
+        <updated>2026-08-02T04:30:19.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mic Check - Audio Song | Athiradi | Tovino Thomas | Basil Joseph | Vineeth Sreenivasan |Vishnu Vijay]]></title>
+        <id>https://www.youtube.com/watch?v=lweYCMaJjIs</id>
+        <link href="https://www.youtube.com/watch?v=lweYCMaJjIs"/>
+        <updated>2026-08-02T04:24:04.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nithyasahaya Mathave | Shorts #christiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/lOG0kbOvpnY</id>
+        <link href="https://www.youtube.com/shorts/lOG0kbOvpnY"/>
+        <updated>2026-08-02T01:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Nithyasahaya Mathave | Shorts #christiandevotionalsongs #shorts]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/N3IL6QqU4YU</id>
@@ -11769,74 +11797,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Ha Manoharam… #matchpointfaith #matchpointcreations #music]]></title>
-        <id>https://www.youtube.com/shorts/6j2CkiRzwQ4</id>
-        <link href="https://www.youtube.com/shorts/6j2CkiRzwQ4"/>
-        <updated>2026-07-03T16:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Cup Fan Song–Argentina #worldcup #football #argentinafootball  #shortsfeed #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/shorts/fNgIBRkppjg</id>
-        <link href="https://www.youtube.com/shorts/fNgIBRkppjg"/>
-        <updated>2026-07-03T14:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhangal Thedunna Daivam |ആഴങ്ങൾ തേടുന്ന ദൈവം | Malayalam Christian Devotional Song |Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/qP2W5T0IFdw</id>
-        <link href="https://www.youtube.com/shorts/qP2W5T0IFdw"/>
-        <updated>2026-07-03T14:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthe Innum Vanneela | Gramaphone | Murali | Oduvil Unnikrishnan | Salim Kumar]]></title>
-        <id>https://www.youtube.com/shorts/Mqey5jjRmQ4</id>
-        <link href="https://www.youtube.com/shorts/Mqey5jjRmQ4"/>
-        <updated>2026-07-03T14:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chanchala Chanchala Video Song | P. Leela & Kaviyoor C.K. Revamma | Mudiyanaya Puthran |Baburaj Hits]]></title>
-        <id>https://www.youtube.com/watch?v=RkUhZFMd1vo</id>
-        <link href="https://www.youtube.com/watch?v=RkUhZFMd1vo"/>
-        <updated>2026-07-03T14:00:13.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivam Kanivayi | ദൈവം കനിവായ് | Christian Devotional Song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/LgLWcJQmRw4</id>
-        <link href="https://www.youtube.com/shorts/LgLWcJQmRw4"/>
-        <updated>2026-07-03T13:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinna Chinna Aasai - Success Teaser | Indrans | Madhubala | Govind Vasantha | Abhijith | Varsha]]></title>
-        <id>https://www.youtube.com/watch?v=P_8svh2UtMY</id>
-        <link href="https://www.youtube.com/watch?v=P_8svh2UtMY"/>
-        <updated>2026-07-03T13:30:01.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
