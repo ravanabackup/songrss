@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T07:59:44.356Z</updated>
+    <updated>2026-08-02T09:55:51.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/ksG5ztWsb_k</id>
+        <link href="https://www.youtube.com/shorts/ksG5ztWsb_k"/>
+        <updated>2026-08-02T08:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Friendship Day!❤️]]></title>
+        <id>https://www.youtube.com/shorts/jIGYSHzYeHM</id>
+        <link href="https://www.youtube.com/shorts/jIGYSHzYeHM"/>
+        <updated>2026-08-02T08:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Muzik247</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/WLac7P2M05I</id>
+        <link href="https://www.youtube.com/shorts/WLac7P2M05I"/>
+        <updated>2026-08-02T08:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[வித் லவ் - மறந்து போச்சே தமிழ் பாடல்வரிகள் | ஷான் ரோல்டன்]]></title>
         <id>https://www.youtube.com/watch?v=j4HVyifUQrI</id>
@@ -11808,15 +11838,6 @@
         <updated>2026-07-03T22:30:01.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 4 # Athiravile Prarthana 4th of July 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=zF34vv5gMRI</id>
-        <link href="https://www.youtube.com/watch?v=zF34vv5gMRI"/>
-        <updated>2026-07-03T20:00:32.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
