@@ -2835,6 +2835,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LJ1NHA2PyEA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LJ1NHA2PyEA",
+          "publishedOn": "2026-08-02T20:00:05.000Z",
+          "wordCount": null,
+          "title": "രാവിലെ പ്രാര്‍ത്ഥന August 3 # Athiravile Prarthana 3rd of August 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rPZnJH400hs",
           "author": null,
           "description": "",
@@ -6121,16 +6131,6 @@
           "publishedOn": "2026-07-05T07:00:25.000Z",
           "wordCount": null,
           "title": "Sangeetham... Ekanthathayude Koottukaran | Nisari Music l സംഗീതം… ഏകാന്തതയുടെ കൂട്ടുകാരൻ |",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UDhJGntpC1o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UDhJGntpC1o",
-          "publishedOn": "2026-07-04T08:05:58.000Z",
-          "wordCount": null,
-          "title": "Mazhayum Paattum Chernnal... Ormmakal Ozhukum..l Nisari l   മഴയും പാട്ടും ചേർന്നാൽ..ഓർമ്മകൾ ഒഴുകും..",
           "imageUrl": null
         }
       ]
