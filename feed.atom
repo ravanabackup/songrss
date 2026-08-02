@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T15:49:52.309Z</updated>
+    <updated>2026-08-02T16:43:03.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/TvXY7PA9vOM</id>
+        <link href="https://www.youtube.com/shorts/TvXY7PA9vOM"/>
+        <updated>2026-08-02T16:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Nanbana pol yaarum ila 🥳 Happy Friendship Day #friendshipday #hiphoptamizha #natpethunai]]></title>
         <id>https://www.youtube.com/shorts/qosDIAnGqzU</id>
@@ -11882,15 +11892,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unarunaroo | ഉണരുണരൂ...| Oormayilennum Movie | KJ Yesudas | Jerry Amaldev | Evergreen Song]]></title>
-        <id>https://www.youtube.com/watch?v=b0HXZBQKIAI</id>
-        <link href="https://www.youtube.com/watch?v=b0HXZBQKIAI"/>
-        <updated>2026-07-04T04:30:34.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
