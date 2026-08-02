@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T16:43:03.288Z</updated>
+    <updated>2026-08-02T17:49:47.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11864,34 +11864,6 @@
         <updated>2026-07-04T07:00:05.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forever Favourites Vol 1 |Video Jukebox|Unplugged Malayalam Film Song|സൂപ്പർഹിറ്റ് സിനിമ കവർ സോങ്‌സ്]]></title>
-        <id>https://www.youtube.com/watch?v=efyCRnGSwfE</id>
-        <link href="https://www.youtube.com/watch?v=efyCRnGSwfE"/>
-        <updated>2026-07-04T05:30:13.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaba Shaba Video Song | Minnara Ponnalle | Runway Movie Song | Dileep , Kavya Madhavan]]></title>
-        <id>https://www.youtube.com/watch?v=h_x7wZ3bGU4</id>
-        <link href="https://www.youtube.com/watch?v=h_x7wZ3bGU4"/>
-        <updated>2026-07-04T05:26:47.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of St  Mark | Chapter 1 | Shorts #pocbible #shorts]]></title>
-        <id>https://www.youtube.com/shorts/mifHZoSdULE</id>
-        <link href="https://www.youtube.com/shorts/mifHZoSdULE"/>
-        <updated>2026-07-04T05:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
