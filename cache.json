@@ -2825,6 +2825,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OfKKR19Y6h8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OfKKR19Y6h8",
+          "publishedOn": "2026-08-03T19:00:19.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 4th August 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xLmsgI7WdnE",
           "author": null,
           "description": "",
@@ -6101,16 +6111,6 @@
           "publishedOn": "2026-07-06T10:30:10.000Z",
           "wordCount": null,
           "title": "Hridayaveenapole… Manassinte Sangeetham | Nisari Music | ഹൃദയവീണപോലെ… മനസ്സിന്റെ സംഗീതം | Evergreen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fYKUVUEK7_s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fYKUVUEK7_s",
-          "publishedOn": "2026-07-05T07:00:25.000Z",
-          "wordCount": null,
-          "title": "Sangeetham... Ekanthathayude Koottukaran | Nisari Music l സംഗീതം… ഏകാന്തതയുടെ കൂട്ടുകാരൻ |",
           "imageUrl": null
         }
       ]
@@ -9644,16 +9644,6 @@
           "publishedOn": "2026-07-06T07:00:30.000Z",
           "wordCount": null,
           "title": "Aarya-2 - Uppenantha Audio With Lyrics | Allu Arjun | Devi Sri Prasad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H9r4Rk-rODI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H9r4Rk-rODI",
-          "publishedOn": "2026-07-05T07:00:12.000Z",
-          "wordCount": null,
-          "title": "Aarya-2 - My Love is Gone Audio With Lyrics | Allu Arjun | Devi Sri Prasad",
           "imageUrl": null
         }
       ]
