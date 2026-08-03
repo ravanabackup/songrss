@@ -2825,6 +2825,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y60nY5vQZHA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y60nY5vQZHA",
+          "publishedOn": "2026-08-03T20:00:20.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന August 4 # Athiravile Prarthana 4th of August 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OfKKR19Y6h8",
           "author": null,
           "description": "",
@@ -9080,16 +9090,6 @@
           "publishedOn": "2026-07-06T05:02:19.000Z",
           "wordCount": null,
           "title": "Poovine Kandu Njan | പൂവിനെ കണ്ടു ഞാൻ ചോദിച്ചു...| Mukundhetta Sumithra Vilikunnu | Evergreen Song",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/gwtQlRq_fjk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/gwtQlRq_fjk",
-          "publishedOn": "2026-07-05T08:30:20.000Z",
-          "wordCount": 2160,
-          "title": "Aaro Innen | ആരോ ഇന്നെൻ കാമുകൻ...| Mainakam Movie | Raveendran Master Evergreen Hits | Menaka",
           "imageUrl": null
         }
       ]
