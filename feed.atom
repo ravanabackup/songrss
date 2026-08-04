@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T15:13:35.246Z</updated>
+    <updated>2026-08-04T17:26:41.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/HBvvHp74DtE</id>
+        <link href="https://www.youtube.com/shorts/HBvvHp74DtE"/>
+        <updated>2026-08-04T16:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎶Nalla Devane.... #matchpointfaith #matchpointcreations #matchpointcatholichymns]]></title>
+        <id>https://www.youtube.com/shorts/rQKfmBNIru0</id>
+        <link href="https://www.youtube.com/shorts/rQKfmBNIru0"/>
+        <updated>2026-08-04T15:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 August 2026]]></title>
+        <id>https://www.youtube.com/shorts/TaT751G8wIo</id>
+        <link href="https://www.youtube.com/shorts/TaT751G8wIo"/>
+        <updated>2026-08-04T15:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/KR3dm9j_I9w</id>
+        <link href="https://www.youtube.com/shorts/KR3dm9j_I9w"/>
+        <updated>2026-08-04T15:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Medaponnodam | മേടപ്പൊന്നോടം കൈയ്യെത്തുന്നേടം | Kireedam | Balagopalan Thampi | Kaithapram Song]]></title>
         <id>https://www.youtube.com/shorts/ZV-UuMsocjk</id>
@@ -12022,25 +12062,6 @@
         <updated>2026-07-06T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poovine Kandu Njan | പൂവിനെ കണ്ടു ഞാൻ ചോദിച്ചു...| Mukundhetta Sumithra Vilikunnu | Evergreen Song]]></title>
-        <id>https://www.youtube.com/watch?v=ijpCcOAEjrA</id>
-        <link href="https://www.youtube.com/watch?v=ijpCcOAEjrA"/>
-        <updated>2026-07-06T05:02:19.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of St  Mark | Chapter 1 | Shorts #pocbible #shorts]]></title>
-        <id>https://www.youtube.com/shorts/_zj8z9BgSX8</id>
-        <link href="https://www.youtube.com/shorts/_zj8z9BgSX8"/>
-        <updated>2026-07-06T05:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
