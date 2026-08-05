@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T07:29:34.808Z</updated>
+    <updated>2026-08-05T10:21:03.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ee Paradevanaho | Francis Xavier | Instrumental Shorts #EeParadevanaho #shorts #francisxavier]]></title>
+        <id>https://www.youtube.com/shorts/v90RIj8y-Wc</id>
+        <link href="https://www.youtube.com/shorts/v90RIj8y-Wc"/>
+        <updated>2026-08-05T10:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Ee Paradevanaho - Violin by Francis Xavier Content Owner: Manorama Music#manoramachristiansongs #shortsvideo #francisxavier]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yesuvanente Nayakan | Shorts #christiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/n1gSR_zgSsQ</id>
+        <link href="https://www.youtube.com/shorts/n1gSR_zgSsQ"/>
+        <updated>2026-08-05T10:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Yesuvanente Nayakan | Shorts #christiandevotionalsongs #shorts]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omanakkutta Ennuvilichu | Shorts #christiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/shorts/yFk-0kJEB-k</id>
+        <link href="https://www.youtube.com/shorts/yFk-0kJEB-k"/>
+        <updated>2026-08-05T10:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Omanakkutta Ennuvilichu | Shorts #christiandevotionalsongs #shorts]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanneeru Kaanunna | കണ്ണീരു കാണുന്ന കന്യാംബികേ #mariyansongs #mariyanprayer #christiandevotional]]></title>
+        <id>https://www.youtube.com/shorts/ODt2i_OfMwA</id>
+        <link href="https://www.youtube.com/shorts/ODt2i_OfMwA"/>
+        <updated>2026-08-05T09:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Watch Kanneeru Kaanunna | കണ്ണീരു കാണുന്ന കന്യാംബികേ #mariyansongs #mariyanprayer #christiandevotional #christianinspirationalvideo #faith Song : Kanneeru Ka...]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/JQT7E2yEcLQ</id>
+        <link href="https://www.youtube.com/shorts/JQT7E2yEcLQ"/>
+        <updated>2026-08-05T08:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/-1IgxuHibb0</id>
+        <link href="https://www.youtube.com/shorts/-1IgxuHibb0"/>
+        <updated>2026-08-05T08:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരിക്കലും മടുക്കാത്ത മനോഹര ക്രിസ്തീയ ഗാനം #christiansongs]]></title>
         <id>https://www.youtube.com/shorts/o9sVd1nfSow</id>
@@ -11917,15 +11977,6 @@
         <updated>2026-07-06T22:30:23.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 7 # Athiravile Prarthana 7th of July 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=yt68WHcT0Xc</id>
-        <link href="https://www.youtube.com/watch?v=yt68WHcT0Xc"/>
-        <updated>2026-07-06T20:00:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
