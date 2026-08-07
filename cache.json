@@ -2785,6 +2785,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kgX8iUaaCPY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kgX8iUaaCPY",
+          "publishedOn": "2026-08-07T19:00:34.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th August 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vShXSWvc4Lo",
           "author": null,
           "description": "",
@@ -6236,16 +6246,6 @@
           "wordCount": 2097,
           "title": "Thazhukane Nadha | തഴുകണേ നാഥാ #christiandevotionalsong #christianpraiseandworship #christianshorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IkW1-NGK3pg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IkW1-NGK3pg",
-          "publishedOn": "2026-07-09T07:31:39.000Z",
-          "wordCount": null,
-          "title": "Thazhukane Nadha | തഴുകണേ നാഥാ | Super Hit Malayalam Christian Devotional Songs | Audio Jukebox",
-          "imageUrl": null
         }
       ]
     },
@@ -9694,16 +9694,6 @@
           "publishedOn": "2026-07-10T07:00:11.000Z",
           "wordCount": null,
           "title": "3 - Nee Paartha Vizhigal Audio With Lyrics | Dhanush | Anirudh Ravichander",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N5NT6qvD5hU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N5NT6qvD5hU",
-          "publishedOn": "2026-07-09T07:00:23.000Z",
-          "wordCount": null,
-          "title": "7 Aum Arivu - Yamma Yamma Audio With Lyrics | Suriya, Shruti Haasan | Harris Jayaraj",
           "imageUrl": null
         }
       ]

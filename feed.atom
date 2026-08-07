@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T18:35:37.995Z</updated>
+    <updated>2026-08-07T19:41:29.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th August 2026]]></title>
+        <id>https://www.youtube.com/watch?v=kgX8iUaaCPY</id>
+        <link href="https://www.youtube.com/watch?v=kgX8iUaaCPY"/>
+        <updated>2026-08-07T19:00:34.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
         <id>https://www.youtube.com/shorts/Webh5eHk2Mw</id>
@@ -12047,24 +12056,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thazhukane Nadha | തഴുകണേ നാഥാ | Super Hit Malayalam Christian Devotional Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=IkW1-NGK3pg</id>
-        <link href="https://www.youtube.com/watch?v=IkW1-NGK3pg"/>
-        <updated>2026-07-09T07:31:39.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Aum Arivu - Yamma Yamma Audio With Lyrics | Suriya, Shruti Haasan | Harris Jayaraj]]></title>
-        <id>https://www.youtube.com/watch?v=N5NT6qvD5hU</id>
-        <link href="https://www.youtube.com/watch?v=N5NT6qvD5hU"/>
-        <updated>2026-07-09T07:00:23.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
