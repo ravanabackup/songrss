@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T10:18:42.068Z</updated>
+    <updated>2026-08-08T11:17:35.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nakhakshathangal - Audio Jukebox | Monisha | Saleema | Vineeth | Bombay Ravi]]></title>
+        <id>https://www.youtube.com/watch?v=2-9rVPf2lnM</id>
+        <link href="https://www.youtube.com/watch?v=2-9rVPf2lnM"/>
+        <updated>2026-08-08T10:59:55.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവ കരങ്ങളിൽ സമർപ്പിക്കാം  | Rev. Aneesh P Joseph | #motivation # #malayalamchristiansong]]></title>
+        <id>https://www.youtube.com/shorts/2HsSQmpZAYY</id>
+        <link href="https://www.youtube.com/shorts/2HsSQmpZAYY"/>
+        <updated>2026-08-08T10:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔ദൈവ കരങ്ങളിൽ സമർപ്പിക്കാം #Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday FaFa #fahadhfaasil #shorts #shortsfeed #malayalammoviesongs #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/shorts/QFOFa7t8BYg</id>
+        <link href="https://www.youtube.com/shorts/QFOFa7t8BYg"/>
+        <updated>2026-08-08T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yesuve Nin Ponmukham | Shorts #christiandevotionalsongs #shortsyoutube]]></title>
         <id>https://www.youtube.com/shorts/jJvEAjTopec</id>
@@ -11959,25 +11988,6 @@
         <updated>2026-07-09T23:30:25.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/aCA3KlBHpIA</id>
-        <link href="https://www.youtube.com/shorts/aCA3KlBHpIA"/>
-        <updated>2026-07-09T23:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 10, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=4oNX7UQqkKM</id>
-        <link href="https://www.youtube.com/watch?v=4oNX7UQqkKM"/>
-        <updated>2026-07-09T22:30:36.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
