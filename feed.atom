@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T22:15:06.140Z</updated>
+    <updated>2026-08-08T23:15:56.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആഗസ്റ്റ്: 09, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=MYFj4T4M9q0</id>
+        <link href="https://www.youtube.com/watch?v=MYFj4T4M9q0"/>
+        <updated>2026-08-08T22:30:28.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 9 # Athiravile Prarthana 9th of August 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=HkcjEqC8mwc</id>
@@ -11987,26 +11996,6 @@
         <updated>2026-07-10T11:30:06.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിൽ ആശ്രയിക്കുവിൻ |  @JinoKunnumpurathu       | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/nLd3tl9ceZQ</id>
-        <link href="https://www.youtube.com/shorts/nLd3tl9ceZQ"/>
-        <updated>2026-07-10T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shorts #love #viral #viralhits #yesudas #yesudassadsongs]]></title>
-        <id>https://www.youtube.com/shorts/kGJ1AsYMHCo</id>
-        <link href="https://www.youtube.com/shorts/kGJ1AsYMHCo"/>
-        <updated>2026-07-10T10:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Hits</name>
         </author>
     </entry>
 </feed>
