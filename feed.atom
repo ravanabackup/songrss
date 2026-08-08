@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T09:25:00.029Z</updated>
+    <updated>2026-08-08T10:18:42.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yesuve Nin Ponmukham | Shorts #christiandevotionalsongs #shortsyoutube]]></title>
+        <id>https://www.youtube.com/shorts/jJvEAjTopec</id>
+        <link href="https://www.youtube.com/shorts/jJvEAjTopec"/>
+        <updated>2026-08-08T10:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Yesuve Nin Ponmukham | Shorts #christiandevotionalsongs #shortsyoutube]]></summary>
+        <author>
+            <name>Miraculous Melodies Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പൊരുന്നിരിക്കും ചൂടിൽ വിരിഞ്ഞവരേ | Sarvakalasala | MG Radhakrishnan | Lathika | Latha Raju Song]]></title>
         <id>https://www.youtube.com/shorts/E3hmkktA_RU</id>
