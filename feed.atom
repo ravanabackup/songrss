@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T11:17:35.077Z</updated>
+    <updated>2026-08-08T12:20:36.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒറ്റക്കായി പോകുന്ന നേരങ്ങളിൽ ആശ്വാസത്തിനായി ഇതാ ഒരു ഗാനം " നിന്റെ നോവിന്റെ യാമങ്ങളിൽ"]]></title>
+        <id>https://www.youtube.com/shorts/Qxx73rxRPwU</id>
+        <link href="https://www.youtube.com/shorts/Qxx73rxRPwU"/>
+        <updated>2026-08-08T12:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ബലിയായ്തീർന്ന കർത്താവായ യേശുവിന്റെ അതിമനോഹര ഗാനം | Thirubaliyakumaltharayil | @JinoKunnumpurathu]]></title>
+        <id>https://www.youtube.com/shorts/eFzc0NRs23w</id>
+        <link href="https://www.youtube.com/shorts/eFzc0NRs23w"/>
+        <updated>2026-08-08T11:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nakhakshathangal - Audio Jukebox | Monisha | Saleema | Vineeth | Bombay Ravi]]></title>
         <id>https://www.youtube.com/watch?v=2-9rVPf2lnM</id>
@@ -11970,24 +11990,6 @@
         <updated>2026-07-10T00:30:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Rakaha En Daivame | Prathyasha Geethangal | Mathew John | Praise and Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=1QSDiGjSxdk</id>
-        <link href="https://www.youtube.com/watch?v=1QSDiGjSxdk"/>
-        <updated>2026-07-09T23:30:29.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karthavennidayn]]></title>
-        <id>https://www.youtube.com/watch?v=pmaK4IqHva0</id>
-        <link href="https://www.youtube.com/watch?v=pmaK4IqHva0"/>
-        <updated>2026-07-09T23:30:25.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
