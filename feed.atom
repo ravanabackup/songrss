@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T13:39:26.100Z</updated>
+    <updated>2026-08-09T14:22:04.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannuneer Kaanunna Ente | കണ്ണുനീർ കാണുന്ന |Malayalam Christian Devotional song |]]></title>
+        <id>https://www.youtube.com/shorts/-VarQi467O4</id>
+        <link href="https://www.youtube.com/shorts/-VarQi467O4"/>
+        <updated>2026-08-09T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kannuneer Kaanunna Ente Daivam, കണ്ണുനീർ കാണുന്ന എൻ്റെ ദൈവം | Christian Devotional song Malyalam | Malayalam Songs | | Latest malayalam Christian Devotional ...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
         <id>https://www.youtube.com/shorts/dDPK6hrhInY</id>
@@ -647,6 +657,15 @@
         <updated>2026-08-08T04:30:32.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanyaka Mariame | കന്യക മറിയമേ | New St. Mary Song | Mother Mary Song|Maria Kolady|Match Point Faith]]></title>
+        <id>https://www.youtube.com/watch?v=4hLeTmfypS4</id>
+        <link href="https://www.youtube.com/watch?v=4hLeTmfypS4"/>
+        <updated>2026-08-08T04:00:22.000Z</updated>
+        <author>
+            <name>Match Point Faith</name>
         </author>
     </entry>
     <entry>
@@ -11918,25 +11937,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=43__5-uhrqA</id>
-        <link href="https://www.youtube.com/watch?v=43__5-uhrqA"/>
-        <updated>2026-07-11T02:09:45.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramapithavinu Sthuthi Padam | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/0ztSK8XN78U</id>
-        <link href="https://www.youtube.com/shorts/0ztSK8XN78U"/>
-        <updated>2026-07-11T02:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
