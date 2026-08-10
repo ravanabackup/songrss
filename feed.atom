@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T10:54:18.444Z</updated>
+    <updated>2026-08-10T11:39:33.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ya Allah Tamil Video Song | 7 Star Boys | Antony Varghese | Nikhil Premraj | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=K92sz5-e500</id>
+        <link href="https://www.youtube.com/watch?v=K92sz5-e500"/>
+        <updated>2026-08-10T11:30:23.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aswasthamakum Eeyulakil | Evugin Emmanuel | Sunil Pathanapuram | New Malayalam Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=Uyk3Lb7nyi0</id>
@@ -11821,34 +11830,6 @@
         <id>https://www.youtube.com/watch?v=ecgg-t4XM2o</id>
         <link href="https://www.youtube.com/watch?v=ecgg-t4XM2o"/>
         <updated>2026-07-12T00:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഞായറാഴ്ച മാത്രം കേൾക്കുന്ന വിസ്മയ ഗാനങ്ങൾ | Best Morning Prayer Songs | Wilson Piravom | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=n-9OqdzBKTA</id>
-        <link href="https://www.youtube.com/watch?v=n-9OqdzBKTA"/>
-        <updated>2026-07-11T23:30:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhaktharin Viswasam | Kottayam Joy | Prathyasha Geethangal | Praise and Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=x5_TsoeNN3M</id>
-        <link href="https://www.youtube.com/watch?v=x5_TsoeNN3M"/>
-        <updated>2026-07-11T23:30:18.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/shorts/teQXYRmRya0</id>
-        <link href="https://www.youtube.com/shorts/teQXYRmRya0"/>
-        <updated>2026-07-11T23:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
