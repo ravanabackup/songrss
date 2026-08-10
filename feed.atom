@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T16:39:42.714Z</updated>
+    <updated>2026-08-10T17:41:01.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11976,24 +11976,6 @@
         <link href="https://www.youtube.com/shorts/6mb3LEcSyq8"/>
         <updated>2026-07-12T05:45:35.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaadaniyum Kalchilambe | കാടണിയും കാൽച്ചിലമ്പേ | Pulimurugan Movie Song | K J Yesudas | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=yKDZdR5WUsg</id>
-        <link href="https://www.youtube.com/watch?v=yKDZdR5WUsg"/>
-        <updated>2026-07-12T05:30:23.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koumarame Song | Bolagolam | Junaise Kappu | Gopi Sundar | Hisham Angadippuram]]></title>
-        <id>https://www.youtube.com/watch?v=Makq5_F-3_c</id>
-        <link href="https://www.youtube.com/watch?v=Makq5_F-3_c"/>
-        <updated>2026-07-12T05:30:20.000Z</updated>
         <author>
             <name>123Musix</name>
         </author>
