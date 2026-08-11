@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T09:51:54.107Z</updated>
+    <updated>2026-08-11T10:39:19.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജീവിതം ലെളിതമാകും  |  Rev. Aneesh P Joseph | #motivationalshorts #shorts]]></title>
+        <id>https://www.youtube.com/shorts/eTXMwaadKjk</id>
+        <link href="https://www.youtube.com/shorts/eTXMwaadKjk"/>
+        <updated>2026-08-11T10:35:04.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔ജീവിതം ലെളിതമാകും#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#tre...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thalamayanju Ganamapoornam | താളമയഞ്ഞു ഗാനമപൂർണം | Pavithram Movie Song | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=9rtL59lV3Mk</id>
+        <link href="https://www.youtube.com/watch?v=9rtL59lV3Mk"/>
+        <updated>2026-08-11T10:18:24.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നീലരാവിലിന്നു നിന്റെ താരഹാരമിളകി | Neelaraavil | Kudumbasametham | Yesudas & Minmini Evergreen Song]]></title>
         <id>https://www.youtube.com/shorts/6yhtCx64DM0</id>
@@ -11842,15 +11861,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 13, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=WDfJvOzUj4g</id>
-        <link href="https://www.youtube.com/watch?v=WDfJvOzUj4g"/>
-        <updated>2026-07-12T22:30:27.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
