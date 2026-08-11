@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T17:45:28.108Z</updated>
+    <updated>2026-08-11T18:42:20.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11942,25 +11942,6 @@
         <updated>2026-07-13T06:47:19.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asha Nirashayay | Nithya Mammen | Chittoor Gopi | Fr. Sinto Chirammal | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_Gc3p9JxV5Y</id>
-        <link href="https://www.youtube.com/watch?v=_Gc3p9JxV5Y"/>
-        <updated>2026-07-13T06:22:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of St Mark | Shorts #pocbible #shorts]]></title>
-        <id>https://www.youtube.com/shorts/NVdxMCkvXgk</id>
-        <link href="https://www.youtube.com/shorts/NVdxMCkvXgk"/>
-        <updated>2026-07-13T06:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
         </author>
     </entry>
 </feed>
