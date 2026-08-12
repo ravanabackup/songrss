@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T20:29:31.887Z</updated>
+    <updated>2026-08-12T21:31:54.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11901,25 +11901,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swapnamayi Thonniya Sangeetham | Nisari | Evergreen Malayalam Film Songs l സ്വപ്നമായി തോന്നിയ സംഗീതം]]></title>
-        <id>https://www.youtube.com/watch?v=3sQKH7cBHkA</id>
-        <link href="https://www.youtube.com/watch?v=3sQKH7cBHkA"/>
-        <updated>2026-07-14T08:30:55.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valathum Idathumayi | വലതും ഇടതുമായി | Jackpot | Unni Menon | Mammootty | Ilayaraja Evergreen song]]></title>
-        <id>https://www.youtube.com/shorts/4CJYeHDHsEM</id>
-        <link href="https://www.youtube.com/shorts/4CJYeHDHsEM"/>
-        <updated>2026-07-14T08:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
