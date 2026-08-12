@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T22:27:08.389Z</updated>
+    <updated>2026-08-12T23:27:10.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആഗസ്റ്റ്: 13, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=dr2HnP4MuEc</id>
+        <link href="https://www.youtube.com/watch?v=dr2HnP4MuEc"/>
+        <updated>2026-08-12T22:30:04.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 13 # Athiravile Prarthana 13th of August 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=iApP1qzN068</id>
@@ -11878,26 +11887,6 @@
         <id>https://www.youtube.com/shorts/TKDUQXRId2Y</id>
         <link href="https://www.youtube.com/shorts/TKDUQXRId2Y"/>
         <updated>2026-07-14T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asha Nirashayay | Nithya Mammen | Chittoor Gopi | Fr. Sinto #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/uBhZfpHmQmk</id>
-        <link href="https://www.youtube.com/shorts/uBhZfpHmQmk"/>
-        <updated>2026-07-14T11:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിന് അസാധ്യമായി ഒന്നുമില്ല |   @JinoKunnumpurathu      | Rev. Aneesh P Joseph | #motivation]]></title>
-        <id>https://www.youtube.com/shorts/PVPcIfuOQxM</id>
-        <link href="https://www.youtube.com/shorts/PVPcIfuOQxM"/>
-        <updated>2026-07-14T10:39:21.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>ZionClassics</name>
