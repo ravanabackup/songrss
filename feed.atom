@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T15:46:58.150Z</updated>
+    <updated>2026-08-12T16:42:56.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Rakshaka En Daivame…#matchpointfaith #matchpointcreations #MalayalamChristianDevotionalSongs]]></title>
+        <id>https://www.youtube.com/shorts/cBez2WxAlBw</id>
+        <link href="https://www.youtube.com/shorts/cBez2WxAlBw"/>
+        <updated>2026-08-12T16:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timeless melody from Vaagai Sooda Vaa #ghibran #Sarasarasarakathu #8k #thinkmusic #chinmayee]]></title>
+        <id>https://www.youtube.com/shorts/A4h4d31Cpq0</id>
+        <link href="https://www.youtube.com/shorts/A4h4d31Cpq0"/>
+        <updated>2026-08-12T16:14:04.000Z</updated>
+        <summary type="html"><![CDATA[Lose yourself in the mesmerizing voice of Chinmayi and the soulful, breezy rural beats by Ghibran! 🎶 This timeless melody from Vaagai Sooda Vaa never fails ...]]></summary>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LAST OUT BULL]]></title>
         <id>https://www.youtube.com/watch?v=ngFarE-IxTQ</id>
@@ -11969,24 +11989,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Millennium Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valathum Idathumayi | വലതും ഇടതുമായി | Jackpot | Unni Menon | Mammootty | Ilayaraja Evergreen song]]></title>
-        <id>https://www.youtube.com/watch?v=S3TecGIXV04</id>
-        <link href="https://www.youtube.com/watch?v=S3TecGIXV04"/>
-        <updated>2026-07-14T04:34:46.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akalunnu Melle | Video | Ithiri Neram | Roshan | Zarin | Basil CJ | Sooraj Santhosh | Chithra Arun]]></title>
-        <id>https://www.youtube.com/watch?v=CniQ-lic2JU</id>
-        <link href="https://www.youtube.com/watch?v=CniQ-lic2JU"/>
-        <updated>2026-07-14T04:30:17.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
