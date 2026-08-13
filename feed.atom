@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T17:46:59.556Z</updated>
+    <updated>2026-08-13T18:44:03.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11949,34 +11949,6 @@
         <updated>2026-07-15T07:00:05.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Mounaraagaminnu | Kottaram Veettile Appoottan | Jayaram | Shruthi]]></title>
-        <id>https://www.youtube.com/watch?v=AJV0WNlNFLI</id>
-        <link href="https://www.youtube.com/watch?v=AJV0WNlNFLI"/>
-        <updated>2026-07-15T06:27:53.000Z</updated>
-        <author>
-            <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreeyeshunamam | Keys Band | Shorts #christiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/l1sx0vtKWZY</id>
-        <link href="https://www.youtube.com/shorts/l1sx0vtKWZY"/>
-        <updated>2026-07-15T05:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manju Peyyunna Rathriyil | മഞ്ഞു പെയ്യുന്ന രാത്രിയില്‍ | Purapadu Movie Song | M G Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=15ZXKuCgXfE</id>
-        <link href="https://www.youtube.com/watch?v=15ZXKuCgXfE"/>
-        <updated>2026-07-15T05:47:40.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
