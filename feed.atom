@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T07:06:51.983Z</updated>
+    <updated>2026-08-13T08:59:22.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/YDagU09UmtQ</id>
+        <link href="https://www.youtube.com/shorts/YDagU09UmtQ"/>
+        <updated>2026-08-13T08:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/TWPmgRUlMpY</id>
+        <link href="https://www.youtube.com/shorts/TWPmgRUlMpY"/>
+        <updated>2026-08-13T08:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഗോകുലം തന്നിൽ വസിച്ചീടുന്ന...| Gokulam Thannil | Kudumbasametham | P Madhuri Song | Johnson Master]]></title>
+        <id>https://www.youtube.com/watch?v=1I2SsfRsNR4</id>
+        <link href="https://www.youtube.com/watch?v=1I2SsfRsNR4"/>
+        <updated>2026-08-13T07:26:23.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaatinoppam Ozhukum Snehagaanangal…l Nostalgic Malayalam Film Songs l]]></title>
         <id>https://www.youtube.com/watch?v=dxsQgp69z-0</id>
@@ -11784,15 +11813,6 @@
         <updated>2026-07-14T22:30:13.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  July 15 # Athiravile Prarthana 15th of July 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=h8X0jhGoq3I</id>
-        <link href="https://www.youtube.com/watch?v=h8X0jhGoq3I"/>
-        <updated>2026-07-14T20:00:37.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
