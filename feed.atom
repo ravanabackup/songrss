@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T16:09:11.657Z</updated>
+    <updated>2026-08-15T17:09:43.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -13,6 +13,16 @@
         <updated>2026-08-15T16:00:33.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 August 2026]]></title>
+        <id>https://www.youtube.com/shorts/BK5T92zMdAM</id>
+        <link href="https://www.youtube.com/shorts/BK5T92zMdAM"/>
+        <updated>2026-08-15T15:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
     <entry>
@@ -12190,25 +12200,6 @@
         <updated>2026-07-17T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of St Mark | Shorts #pocbible #shorts]]></title>
-        <id>https://www.youtube.com/shorts/Jwbqtu0j1rY</id>
-        <link href="https://www.youtube.com/shorts/Jwbqtu0j1rY"/>
-        <updated>2026-07-17T05:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mungi Mungi Muthupongi | മുങ്ങിമുങ്ങി മുത്തു പൊങ്ങി...| Jackpot Movie | KS Chithra | Ilayaraja Song]]></title>
-        <id>https://www.youtube.com/watch?v=3l43gKWdGVA</id>
-        <link href="https://www.youtube.com/watch?v=3l43gKWdGVA"/>
-        <updated>2026-07-17T04:30:12.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
