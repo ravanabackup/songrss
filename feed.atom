@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T14:10:02.110Z</updated>
+    <updated>2026-08-15T15:08:19.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orthodox St. Mary's songs  | Mother Mary Songs | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/6j5AQtaoW3M</id>
+        <link href="https://www.youtube.com/shorts/6j5AQtaoW3M"/>
+        <updated>2026-08-15T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[St Mary's songs |Shonoyoo lent | Shonoyoo nomb വാങ്ങിപ്പ് പെരുന്നാൾ | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ  | Sibin Chowalloor | Music Spread | Ettu Nomb songs | എട്...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnam Ragam Paadi 4K Video Song | Thoovanathumbikal | Mohanlal | Parvathy | KS Chithra | G Venugopal]]></title>
+        <id>https://www.youtube.com/watch?v=72qU-dk9GfM</id>
+        <link href="https://www.youtube.com/watch?v=72qU-dk9GfM"/>
+        <updated>2026-08-15T14:51:56.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചെമ്പരത്തി പൂവേ ചൊല്ല് | Shorts | Shyama | Nadiya Moidu | Mammootty | KS Chithra #evergreenhits]]></title>
+        <id>https://www.youtube.com/shorts/NSzu7vaMpZ8</id>
+        <link href="https://www.youtube.com/shorts/NSzu7vaMpZ8"/>
+        <updated>2026-08-15T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Presenting  Chembarathi Poove Chollu Video Song From the Malayalam Movie Shyama.Movie Director : JoshiyLyrics : Shibu ChakravarthyMusic : Raghu KumarSingers ...]]></summary>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview | Talk show |Rev Dr. Mothy Varkey | J.V.Peter |Nirmala Peter |Sankey Peter]]></title>
+        <id>https://www.youtube.com/shorts/EdhGFRhGChU</id>
+        <link href="https://www.youtube.com/shorts/EdhGFRhGChU"/>
+        <updated>2026-08-15T14:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Do you know who wrote these famous songs Thirukarathal Vahichu Enne, Enni Enni Sthuthikkuvan, pilardamam paraye ??In this Talk show and Christian Interview R...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanakangi Swaravahini | കനകാംഗി | Sreeragam Movie | KJ Yesudas | Kanjangad Ramachandran Classic Song]]></title>
+        <id>https://www.youtube.com/watch?v=ucV7qKIo0jo</id>
+        <link href="https://www.youtube.com/watch?v=ucV7qKIo0jo"/>
+        <updated>2026-08-15T14:30:02.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaattodum Malayoram | K. J. Yesudas & P. Susheela | Durga | Evergreen Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=7Vn0OgOphjc</id>
+        <link href="https://www.youtube.com/watch?v=7Vn0OgOphjc"/>
+        <updated>2026-08-15T14:00:02.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yoodaya Veedhiyil | Christian Video Song | Liya Ray Isen | Lijosh Vezhappilly | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=1PeGISNhruY</id>
@@ -12132,15 +12189,6 @@
         <updated>2026-07-17T03:59:31.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=nun1gS-Nf0s</id>
-        <link href="https://www.youtube.com/watch?v=nun1gS-Nf0s"/>
-        <updated>2026-07-17T02:15:18.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
