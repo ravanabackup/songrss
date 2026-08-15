@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T15:08:19.667Z</updated>
+    <updated>2026-08-15T16:09:11.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സ് നിറയ്ക്കുന്ന 90കളിലെ നിത്യഹരിത ഹിറ്റുകൾ | Evergreen Malayalam Film songs]]></title>
+        <id>https://www.youtube.com/watch?v=3yLNMbW8AU8</id>
+        <link href="https://www.youtube.com/watch?v=3yLNMbW8AU8"/>
+        <updated>2026-08-15T16:00:33.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/C6aoIMg7pTg</id>
+        <link href="https://www.youtube.com/shorts/C6aoIMg7pTg"/>
+        <updated>2026-08-15T15:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎥BTS of our few projects with the Super Talented and Immensely Blessed Achens🙏🏼]]></title>
+        <id>https://www.youtube.com/shorts/MD3Nu45Uixc</id>
+        <link href="https://www.youtube.com/shorts/MD3Nu45Uixc"/>
+        <updated>2026-08-15T15:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/I7_9vP5-_Yo</id>
+        <link href="https://www.youtube.com/shorts/I7_9vP5-_Yo"/>
+        <updated>2026-08-15T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orthodox St. Mary's songs  | Mother Mary Songs | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/6j5AQtaoW3M</id>
@@ -12170,25 +12209,6 @@
         <updated>2026-07-17T04:30:12.000Z</updated>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Nee Aaro #urumisong #KJYesudas #shwetamohan #Kaithapram #deepakdev #Prithviraj #lyrical]]></title>
-        <id>https://www.youtube.com/shorts/v5A-Hx6uH0I</id>
-        <link href="https://www.youtube.com/shorts/v5A-Hx6uH0I"/>
-        <updated>2026-07-17T04:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalla Devane Njangal Ellavareyum | Malayalam Christian Songs | Evergreen Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=tbckZmLDu0k</id>
-        <link href="https://www.youtube.com/watch?v=tbckZmLDu0k"/>
-        <updated>2026-07-17T03:59:31.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
