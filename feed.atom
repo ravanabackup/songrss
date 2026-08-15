@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T09:14:10.053Z</updated>
+    <updated>2026-08-15T10:09:53.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prarthana Kelkkaname | Christian Shorts #shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/8EuPlnOX9BY</id>
+        <link href="https://www.youtube.com/shorts/8EuPlnOX9BY"/>
+        <updated>2026-08-15T10:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Prarthana Kelkkaname | Christian Shorts #shorts #manoramachristiansongs]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravinte Nizhalayi | രാവിന്‍റെ നിഴലായ്‌ മാറുന്ന സന്ധ്യേ...| Sreeragam Movie | KS Chithra | Kaithapram]]></title>
+        <id>https://www.youtube.com/shorts/UpUlcBeKGPs</id>
+        <link href="https://www.youtube.com/shorts/UpUlcBeKGPs"/>
+        <updated>2026-08-15T09:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Ravinte Nizhalayi | രാവിന്‍റെ നിഴലായ്‌ മാറുന്ന സന്ധ്യേ...| Sreeragam Movie | KS Chithra | Kaithapram#malayalmfilmssong #oldmoviesongs #kaithapramhits #kschit...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onakampany | K. S. Harishankar | Sooraj S. Kurup | Parvathy Babu | Mithun Jai Sankar | Nahas Nazar]]></title>
+        <id>https://www.youtube.com/watch?v=sj1jLNga8ic</id>
+        <link href="https://www.youtube.com/watch?v=sj1jLNga8ic"/>
+        <updated>2026-08-15T09:28:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orthodox St. Mary's songs  | Mother Mary Songs | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/6YNkaD4IoFc</id>
