@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T10:10:30.446Z</updated>
+    <updated>2026-08-16T11:08:49.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവംനിന്റെ ഉള്ളിലെ കനലറിയുന്നവൻ  |  Rev. Aneesh P Joseph | #motivationalshorts #shorts]]></title>
+        <id>https://www.youtube.com/shorts/kYjVtd4tEpM</id>
+        <link href="https://www.youtube.com/shorts/kYjVtd4tEpM"/>
+        <updated>2026-08-16T10:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔ദൈവംനിന്റെ ഉള്ളിലെ കനലറിയുന്നവൻ#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubesho...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Dinam Video Song 8K|Mohanlal|Sarjano Khalid|Deepak Dev|]]></title>
         <id>https://www.youtube.com/watch?v=Km4PEFwxMPc</id>
@@ -11990,15 +12000,6 @@
         <updated>2026-07-17T23:30:00.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 18, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=bkqdNKmOJ_o</id>
-        <link href="https://www.youtube.com/watch?v=bkqdNKmOJ_o"/>
-        <updated>2026-07-17T22:30:10.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
