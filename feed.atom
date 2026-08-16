@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T21:08:22.521Z</updated>
+    <updated>2026-08-16T22:07:58.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12053,15 +12053,6 @@
         <updated>2026-07-18T10:18:41.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾക്ക് ഏറെ ഇഷ്ട്ടമുള്ള 10 ഗാനങ്ങൾ |    @ZionClassics  #christiansongs #jinokunnumpurath]]></title>
-        <id>https://www.youtube.com/watch?v=ti1sqGWtJO0</id>
-        <link href="https://www.youtube.com/watch?v=ti1sqGWtJO0"/>
-        <updated>2026-07-18T09:50:37.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
