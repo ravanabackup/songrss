@@ -7784,16 +7784,6 @@
           "wordCount": 1992,
           "title": "20 July 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pGQKC8b1QaM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pGQKC8b1QaM",
-          "publishedOn": "2026-07-17T16:58:42.000Z",
-          "wordCount": 3201,
-          "title": "17 July 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -7802,6 +7792,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3xXyPhpXFVctN02xJTyh_g",
       "siteUrl": "https://www.youtube.com/channel/UC3xXyPhpXFVctN02xJTyh_g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VzSg8Dqq3Y4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VzSg8Dqq3Y4",
+          "publishedOn": "2026-08-16T04:30:27.000Z",
+          "wordCount": null,
+          "title": "Kolakuruvi Oru Sandhesham | Parambara | KS Chithra  Evergreen Song | Mammootty Movie",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ucV7qKIo0jo",
           "author": null,
