@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T14:10:45.287Z</updated>
+    <updated>2026-08-16T15:09:12.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Daivam Ariyathe | Christian Shorts #shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/9b3fSnUuvNQ</id>
+        <link href="https://www.youtube.com/shorts/9b3fSnUuvNQ"/>
+        <updated>2026-08-16T15:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Ente Daivam Ariyathe | Christian Shorts #shorts #manoramachristiansongs]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ | Malayalam Christian Devotional Song | Music Spread |]]></title>
+        <id>https://www.youtube.com/shorts/KYFEMcVViBY</id>
+        <link href="https://www.youtube.com/shorts/KYFEMcVViBY"/>
+        <updated>2026-08-16T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ |Malayalam Christian Devotional song | Music SpreadTitle : Loke Njan En, ലോകെ ഞാനെൻSinger: Dr. Anjali B. ChandranLyrics : Pr. P. P....]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devesha Yeshupara | ദേവേശാ യേശുപരാ | Old Malayalam Christian Song | Mercy Shaju | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/reN9DG3MHJY</id>
+        <link href="https://www.youtube.com/shorts/reN9DG3MHJY"/>
+        <updated>2026-08-16T14:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Presenting old Malayalam Christian Devotional Song Devesha Yeshupara "ദേവേശാ യേശുപരാ"#malayalamchristiandevotionalsongs #newchristiansongs #malayalamchristia...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaattodum Malayoram | K. J. Yesudas & P. Susheela | Durga | Evergreen Malayalam Film Song]]></title>
         <id>https://www.youtube.com/shorts/6eSOQot_zus</id>
