@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T23:07:58.971Z</updated>
+    <updated>2026-08-17T00:30:22.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കദനഭാരങ്ങൾ ഇറക്കി വെക്കും ഗാനങ്ങൾ | Catholic Morning Prayer Songs | Kester | Joji Johns Songs]]></title>
+        <id>https://www.youtube.com/watch?v=3ajXRU5WMRc</id>
+        <link href="https://www.youtube.com/watch?v=3ajXRU5WMRc"/>
+        <updated>2026-08-16T23:30:25.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevitha Sagarathil | Kuttiyachan | Prathyasha Geethangal | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=2vF7yIFLWCw</id>
+        <link href="https://www.youtube.com/watch?v=2vF7yIFLWCw"/>
+        <updated>2026-08-16T23:30:23.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആഗസ്റ്റ്: 17, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=0XdtB8pz6ok</id>
@@ -12005,44 +12023,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panjara Girl | Music Video| Sidhik Nazar Niza| Sibu Sukumaran| Nikhil Anil Kumar| Bity Kairali Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=BBFsrEYqrH4</id>
-        <link href="https://www.youtube.com/watch?v=BBFsrEYqrH4"/>
-        <updated>2026-07-18T12:30:09.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enikkayi ente daivam | ക്രൂശിലെ ആ ത്യാഗം, എനിക്കു വേണ്ടിയായിരുന്നു... 🛐❤️🥺🙏#shortvideo #ai]]></title>
-        <id>https://www.youtube.com/shorts/RiThY2OBo0Q</id>
-        <link href="https://www.youtube.com/shorts/RiThY2OBo0Q"/>
-        <updated>2026-07-18T12:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Best Songs |   @JinoKunnumpurathu  #top10christiansongs #top10 #lentseason]]></title>
-        <id>https://www.youtube.com/watch?v=j_dnUuuTP84</id>
-        <link href="https://www.youtube.com/watch?v=j_dnUuuTP84"/>
-        <updated>2026-07-18T11:36:06.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abrahamin Theekshanathayode | Ente Jeevananeesho | Anugraha Roy | Dixon Kandakkadavu  Reel 3]]></title>
-        <id>https://www.youtube.com/shorts/6IfCsCtpFbE</id>
-        <link href="https://www.youtube.com/shorts/6IfCsCtpFbE"/>
-        <updated>2026-07-18T11:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
