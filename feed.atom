@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T02:11:22.073Z</updated>
+    <updated>2026-08-17T03:38:02.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Panchavarna Kilivalan 4K Enhanced Video Song | Kannappanunni | Sheela | Yesudas | Prem Nazeer]]></title>
+        <id>https://www.youtube.com/watch?v=WBh2HuMUpfk</id>
+        <link href="https://www.youtube.com/watch?v=WBh2HuMUpfk"/>
+        <updated>2026-08-17T03:00:01.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samarppanam | Christian Shorts #shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/XbBksxMwb8s</id>
@@ -2087,6 +2096,15 @@
         <updated>2026-08-12T11:30:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Chey Maname | Evugin Emmanuel | M E Cherian | Malayalam Christian Songs | Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=V63-z1guw_o</id>
+        <link href="https://www.youtube.com/watch?v=V63-z1guw_o"/>
+        <updated>2026-08-12T11:15:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -11890,35 +11908,6 @@
         <updated>2026-07-18T16:30:33.000Z</updated>
         <author>
             <name>Malayalam Hits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karkuzhalil Poovuchoodiya | കാർകുഴലിൽ പൂവു ചൂടിയ | Sphodanam | KJ Yesudas | ഒരു പഴയകാല പ്രണയഗാനം]]></title>
-        <id>https://www.youtube.com/shorts/hBzTEoioUw4</id>
-        <link href="https://www.youtube.com/shorts/hBzTEoioUw4"/>
-        <updated>2026-07-18T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ | Malayalam Christian Devotional Song | Music Spread |]]></title>
-        <id>https://www.youtube.com/shorts/apwge1wpDbk</id>
-        <link href="https://www.youtube.com/shorts/apwge1wpDbk"/>
-        <updated>2026-07-18T14:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karkuzhalil Poovuchoodiya | കാർകുഴലിൽ പൂവു ചൂടിയ | Sphodanam | KJ Yesudas | ഒരു പഴയകാല പ്രണയഗാനം]]></title>
-        <id>https://www.youtube.com/watch?v=XI7FAyoN2dU</id>
-        <link href="https://www.youtube.com/watch?v=XI7FAyoN2dU"/>
-        <updated>2026-07-18T14:30:19.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
