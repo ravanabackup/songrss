@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T08:28:15.657Z</updated>
+    <updated>2026-08-17T09:27:26.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ikkollam Nammakku Onallyadi | ഇക്കൊല്ലം നമ്മക്ക് ഓണെല്ല്യടി...| Kalabhavan Mani | Onam Folk Song]]></title>
+        <id>https://www.youtube.com/shorts/Wcmg-32R2mw</id>
+        <link href="https://www.youtube.com/shorts/Wcmg-32R2mw"/>
+        <updated>2026-08-17T08:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Ikkollam Nammakku Onallyadi | ഇക്കൊല്ലം നമ്മക്ക് ഓണെല്ല്യടി...| Kalabhavan Mani | Onam Folk Song #kalabhavanmanisong #manichettan #folksong #nadanpattukalmal...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sugandhamayi Peyyunna Pazhaya Pattukal | Evergreen Malayalam Film Songs l Nisari Music]]></title>
         <id>https://www.youtube.com/watch?v=up7q7vPB5TU</id>
@@ -106,6 +116,15 @@
         <updated>2026-08-17T04:45:40.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ormmathiruvonam | Sreerag Bharathan | Nandan Kakkur | P K Gopi | Benni Vazhappillil | Onam Song 2026]]></title>
+        <id>https://www.youtube.com/watch?v=Q6b35f6-OGM</id>
+        <link href="https://www.youtube.com/watch?v=Q6b35f6-OGM"/>
+        <updated>2026-08-17T04:08:42.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
