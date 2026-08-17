@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T05:24:01.737Z</updated>
+    <updated>2026-08-17T06:27:59.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ikkollam Nammakku Onallyadi | ഇക്കൊല്ലം നമ്മക്ക് ഓണെല്ല്യടി...| Kalabhavan Mani | Onam Folk Song]]></title>
+        <id>https://www.youtube.com/watch?v=l6xPhKdqSGg</id>
+        <link href="https://www.youtube.com/watch?v=l6xPhKdqSGg"/>
+        <updated>2026-08-17T06:06:29.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uthrada Pooviliyil - https://youtu.be/j-M8d2eAVSQ #shorts #onamsongs #albumsongs]]></title>
+        <id>https://www.youtube.com/shorts/iqCV5xVV4fU</id>
+        <link href="https://www.youtube.com/shorts/iqCV5xVV4fU"/>
+        <updated>2026-08-17T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Album Songs | Uthrada Pooviliyil - https://youtu.be/j-M8d2eAVSQ #shorts #onamsongs #albumsongs]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megham Poothuthudangi | മേഘം പൂത്തു തുടങ്ങി | Thoovanathumbikal Movie Song | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=kmwmDsRqEm0</id>
+        <link href="https://www.youtube.com/watch?v=kmwmDsRqEm0"/>
+        <updated>2026-08-17T05:42:04.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thiruvathirakali Pattukal Vol 4 | Audio Jukebox | Kanipayyur Kaikottikali Sangham | Malathy G Menon]]></title>
+        <id>https://www.youtube.com/watch?v=ugkZLxLJoeM</id>
+        <link href="https://www.youtube.com/watch?v=ugkZLxLJoeM"/>
+        <updated>2026-08-17T05:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Vazhi Adanjal | Christian Shorts #shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/zxUkrtrbjBc</id>
@@ -11926,16 +11963,6 @@
         <updated>2026-07-18T19:00:33.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naya Pramanagalile Kalpanakalil.... #christianmelodysongs #kgmarkosehitchristian_devotionalsongs]]></title>
-        <id>https://www.youtube.com/shorts/xHuMw9c0Z1s</id>
-        <link href="https://www.youtube.com/shorts/xHuMw9c0Z1s"/>
-        <updated>2026-07-18T17:45:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
