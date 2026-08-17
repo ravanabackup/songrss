@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T14:15:24.747Z</updated>
+    <updated>2026-08-17T15:13:26.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17 August 2026]]></title>
+        <id>https://www.youtube.com/shorts/jBYyBYnZs_s</id>
+        <link href="https://www.youtube.com/shorts/jBYyBYnZs_s"/>
+        <updated>2026-08-17T15:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മേഘത്തേരിറങ്ങും സഞ്ചാരീ | Meghatherirangum | Sooryamanasam | KS Chithra | MM Keeravani | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=mgVXcFf5Nj4</id>
+        <link href="https://www.youtube.com/watch?v=mgVXcFf5Nj4"/>
+        <updated>2026-08-17T14:30:21.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ടു ഞാൻ മിഴികളിൽ | Video Song | Malayalam Movie Songs | Mohanlal | MG Sreekumar | Abhimanyu]]></title>
+        <id>https://www.youtube.com/watch?v=zJAcCv5g-5g</id>
+        <link href="https://www.youtube.com/watch?v=zJAcCv5g-5g"/>
+        <updated>2026-08-17T14:30:14.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ |  Nanni Nanni | Pr. Charles Jacob |  Roji Ponnachan | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/7TTN-mS3Txs</id>
+        <link href="https://www.youtube.com/shorts/7TTN-mS3Txs"/>
+        <updated>2026-08-17T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[നന്ദി നന്ദി എൻ ദൈവമേ, Nanni Nanni, Pr. Charles Jacob, Roji Ponnachan, Malayalam new Christian songPresenting Famous Christian Devotional Song Nanni Nanni En ...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kandal Chirikkatha 4K Video Song| Oru Muthassi Katha| Vineeth | Nirosha |MG Sreekumar, Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=Stb4JIKKkJs</id>
@@ -12051,16 +12089,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreeyeshunamam - https://youtu.be/An-mMhiYIcA | Keys Band #sreeyeshunamambhajan #manoramamusic]]></title>
-        <id>https://www.youtube.com/shorts/KjROo6h1tmk</id>
-        <link href="https://www.youtube.com/shorts/KjROo6h1tmk"/>
-        <updated>2026-07-19T03:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
