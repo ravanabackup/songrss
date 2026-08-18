@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T16:16:23.518Z</updated>
+    <updated>2026-08-18T17:15:34.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12134,16 +12134,6 @@
         <updated>2026-07-20T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niravarnna Karunyam | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/CfkG67Ia8tk</id>
-        <link href="https://www.youtube.com/shorts/CfkG67Ia8tk"/>
-        <updated>2026-07-20T05:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
