@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T12:18:47.873Z</updated>
+    <updated>2026-08-18T13:32:58.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Onamyi Onamayi  #onamsongs #onam #shortvideo #shortsfeed #reels  #onamvideos]]></title>
+        <id>https://www.youtube.com/shorts/Uw_Dcezfsw4</id>
+        <link href="https://www.youtube.com/shorts/Uw_Dcezfsw4"/>
+        <updated>2026-08-18T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yoodaya Veedhiyil.....#christiansongs #liya #jojijohnschristiansongs #superhitchristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/aCPEc20lNVw</id>
+        <link href="https://www.youtube.com/shorts/aCPEc20lNVw"/>
+        <updated>2026-08-18T13:04:22.000Z</updated>
+        <summary type="html"><![CDATA[WATCH FULL VIDEO LINK : https://youtu.be/1PeGISNhruYWhatsapp Channel - https://whatsapp.com/channel/0029VaBQXJlFcow2GK1Yvu1VWelcome to Music Shack Christian ...]]></summary>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 18th of August 2026]]></title>
+        <id>https://www.youtube.com/watch?v=juM5bCkF8Oc</id>
+        <link href="https://www.youtube.com/watch?v=juM5bCkF8Oc"/>
+        <updated>2026-08-18T12:30:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Ennadisthanam | Malayalam Christian Songs | Evergreen Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=2RD7k3AdXOM</id>
+        <link href="https://www.youtube.com/watch?v=2RD7k3AdXOM"/>
+        <updated>2026-08-18T12:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നെഞ്ചുരുകി കരയുമ്പോൾ ചേർത്ത് നിർത്തുന്ന ദൈവസ്നേഹത്തിന്റെ ആഴം അറിയാൻ കേൾക്കൂ ഈ ഗാനം...."നെഞ്ചുരുകും"]]></title>
         <id>https://www.youtube.com/shorts/NDUwFquIzGE</id>
@@ -12030,15 +12068,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 20th of July 2026 # Mathavinte Japamala # Santhoshathinte Rahasyangal 20th of July 2026]]></title>
-        <id>https://www.youtube.com/watch?v=Ml-R9m_Hg3s</id>
-        <link href="https://www.youtube.com/watch?v=Ml-R9m_Hg3s"/>
-        <updated>2026-07-20T00:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
