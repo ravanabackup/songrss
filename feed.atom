@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T09:19:32.730Z</updated>
+    <updated>2026-08-18T10:15:03.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Varan Kalamay | Christian Shorts #shorts #manoramachristiansongs]]></title>
+        <id>https://www.youtube.com/shorts/9Svd1czfB7M</id>
+        <link href="https://www.youtube.com/shorts/9Svd1czfB7M"/>
+        <updated>2026-08-18T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Yeshu Varan Kalamay | Christian Shorts #shorts #manoramachristiansongs]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്രവട്ടം കേട്ടാലും ആശ്വാസമാകുന്ന ഗാനങ്ങൾ | #jinokunnumpurath #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=UCL6qf89-z4</id>
+        <link href="https://www.youtube.com/watch?v=UCL6qf89-z4"/>
+        <updated>2026-08-18T09:54:51.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhayam Tharoo Amme | അഭയം തരൂ അമ്മേ #mariyanprayer #christiandevotionalsong #christianshorts #faith]]></title>
+        <id>https://www.youtube.com/shorts/6fXEpghri6I</id>
+        <link href="https://www.youtube.com/shorts/6fXEpghri6I"/>
+        <updated>2026-08-18T09:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Watch Abhayam Tharoo Amme | അഭയം തരൂ അമ്മേ #mariyanprayer #christiandevotionalsong #christianshorts #faith #catholicprayer #christianinspirational #christian...]]></summary>
+        <author>
+            <name>Jesus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayajalakkara | Karthika R Kumar #onam #onamsong #shortsfeed #shorts #shortsvideo #reels]]></title>
         <id>https://www.youtube.com/shorts/ETg79CFc0Ec</id>
