@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T10:15:18.739Z</updated>
+    <updated>2026-08-19T11:13:09.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏറ്റവും വലുത് | Rev. Aneesh P Joseph | #motivationalshorts #shorts]]></title>
+        <id>https://www.youtube.com/shorts/SUVIW7Xw8hM</id>
+        <link href="https://www.youtube.com/shorts/SUVIW7Xw8hM"/>
+        <updated>2026-08-19T10:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔ഏറ്റവും വലുത് #Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendi...]]></summary>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poovattaka - https://youtu.be/9oQ11ltGp2c | Nithya Mammen | Onam Song 2026 #shorts #onamsongs]]></title>
         <id>https://www.youtube.com/shorts/d5aiDLmovyY</id>
@@ -12046,15 +12056,6 @@
         <updated>2026-07-20T23:30:35.000Z</updated>
         <author>
             <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജൂലൈ: 21, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
-        <id>https://www.youtube.com/watch?v=c4HcWKD7b1M</id>
-        <link href="https://www.youtube.com/watch?v=c4HcWKD7b1M"/>
-        <updated>2026-07-20T22:30:13.000Z</updated>
-        <author>
-            <name>Das Creations</name>
         </author>
     </entry>
 </feed>
