@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T09:20:19.283Z</updated>
+    <updated>2026-08-19T10:15:18.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poovattaka - https://youtu.be/9oQ11ltGp2c | Nithya Mammen | Onam Song 2026 #shorts #onamsongs]]></title>
+        <id>https://www.youtube.com/shorts/d5aiDLmovyY</id>
+        <link href="https://www.youtube.com/shorts/d5aiDLmovyY"/>
+        <updated>2026-08-19T09:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Album Songs | Poovattaka - https://youtu.be/9oQ11ltGp2c | Nithya Mammen | #shorts #onamsongs]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onam Vanne | Gopi Sundar #onam #onamsongs #shorts #shortvideo #shortsfeed #reels #gopisundar]]></title>
         <id>https://www.youtube.com/shorts/qcKCeGydzgQ</id>
@@ -448,6 +458,15 @@
         <updated>2026-08-18T08:19:48.000Z</updated>
         <author>
             <name>Jesus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matta Naad | Saina Music | Niranj Suresh | Bhadra Rajin | BK Harinarayan]]></title>
+        <id>https://www.youtube.com/watch?v=py4Din-P2jI</id>
+        <link href="https://www.youtube.com/watch?v=py4Din-P2jI"/>
+        <updated>2026-08-18T07:24:57.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -8416,6 +8435,15 @@
         <updated>2026-07-30T06:33:57.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാതിൽ നിന്ന് മനസ്സിലേക്ക് | Malayalam Nostalgic Songs | M. G. Sreekumar | Vidyasagar | K. S, Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=imh_Deu-ndc</id>
+        <link href="https://www.youtube.com/watch?v=imh_Deu-ndc"/>
+        <updated>2026-07-30T05:56:32.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
