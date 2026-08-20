@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T14:23:00.945Z</updated>
+    <updated>2026-08-20T15:21:27.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaithapoo Ponpodi | കൈതപ്പൂ പൊന്‍‌പൊടി | Saandhram | KS Chithra | Jhonson Master Song | Kaithapram]]></title>
+        <id>https://www.youtube.com/shorts/XAnQh_ftGV0</id>
+        <link href="https://www.youtube.com/shorts/XAnQh_ftGV0"/>
+        <updated>2026-08-20T15:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Kaithapoo Ponpodi | കൈതപ്പൂ പൊന്‍‌പൊടി | Saandhram | KS Chithra | Jhonson Master Song | Kaithapram #evergreensongs #malayalamsongs #oldsongs #malayalamromant...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matta Naad | Saina Music | Niranj Suresh | Bhadra Rajin | BK Harinarayan]]></title>
+        <id>https://www.youtube.com/shorts/btAmvt_Ip0g</id>
+        <link href="https://www.youtube.com/shorts/btAmvt_Ip0g"/>
+        <updated>2026-08-20T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Music Composer & Producer : Niranj SureshLyrics : BK HarinarayanSinger : Bhadra RajinSubscribe Us 🔔 https://www.youtube.com/channel/UCC85L1ZTp5eY-bhd7QBfmgw...]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaithapoo Ponpodi | കൈതപ്പൂ പൊന്‍‌പൊടി | Saandhram | KS Chithra | Jhonson Master Song | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=O56YCkB-OuE</id>
+        <link href="https://www.youtube.com/watch?v=O56YCkB-OuE"/>
+        <updated>2026-08-20T14:30:33.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
+        <id>https://www.youtube.com/shorts/PzJ2-dpUQDc</id>
+        <link href="https://www.youtube.com/shorts/PzJ2-dpUQDc"/>
+        <updated>2026-08-20T14:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk ShowPresenting Interview of  Elizabeth S. Mathew, Singer & Flowers TV Fame, with "Rev. Dr. Mothy...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paattonnu Paadunnen🎶 | K. J. Yesudas | Paalattu Kunjikannan | Malayalam Movie Song #song]]></title>
         <id>https://www.youtube.com/watch?v=ckXze275qE0</id>
@@ -12054,16 +12093,6 @@
         <updated>2026-07-22T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naadha Ethra Unnatham | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/Mmr2ljjmNZo</id>
-        <link href="https://www.youtube.com/shorts/Mmr2ljjmNZo"/>
-        <updated>2026-07-22T02:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Naadha Ethra Unnatham | Christian Shorts #shorts #manoramachristiansongs]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
