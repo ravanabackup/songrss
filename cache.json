@@ -2935,6 +2935,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=C-JpG-Q1XIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C-JpG-Q1XIY",
+          "publishedOn": "2026-08-21T19:00:12.000Z",
+          "wordCount": null,
+          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd August 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9Z1jbfpeLvE",
           "author": null,
           "description": "",
@@ -6422,16 +6432,6 @@
           "wordCount": null,
           "title": "Kaattinte Kalla Nombaram | Best of Malayalam Film Songs l Yesudas l Nisari Music",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B9Rk81ssGvA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B9Rk81ssGvA",
-          "publishedOn": "2026-07-23T07:00:13.000Z",
-          "wordCount": null,
-          "title": "Ninakkayi Hridayam Paadunna Gaanangal | Evergreen Malayalam Favorite Film Songs l Nisari Music",
-          "imageUrl": null
         }
       ]
     },
@@ -9434,16 +9434,6 @@
           "publishedOn": "2026-07-24T07:00:00.000Z",
           "wordCount": null,
           "title": "Chitralahari - Prema Vennela Audio With Lyrics | Sai Tej | Devi Sri Prasad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GtmMtB4q7s0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GtmMtB4q7s0",
-          "publishedOn": "2026-07-23T07:00:04.000Z",
-          "wordCount": null,
-          "title": "Champion (Telugu) - Gira Gira Gingiraagirey Audio With Lyrics | Roshan | Mickey J Meyer",
           "imageUrl": null
         }
       ]
