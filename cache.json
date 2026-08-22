@@ -2895,6 +2895,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BUpUcduhrXc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BUpUcduhrXc",
+          "publishedOn": "2026-08-22T20:00:00.000Z",
+          "wordCount": null,
+          "title": "പ്രഭാത പ്രാര്‍ത്ഥന August 23 # Athiravile Prarthana 23rd of August 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9B1-Y7PChUg",
           "author": null,
           "description": "",
@@ -7380,16 +7390,6 @@
           "wordCount": 3311,
           "title": "Njanennum Sthuthikkum | Christian Shorts #shorts #manoramachristiansongs",
           "imageUrl": "https://i.ytimg.com/vi/_TRXSPx-4d0/oar2.jpg?sqp=-oaymwEnCJUDENAFSFqQAgHyq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gBuAIY&rs=AOn4CLDid5Rmfq7igFGryCwQtgHZvao-Zg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/60M4Aw9vV3k",
-          "author": null,
-          "description": "Manorama Christian Malayalam | Gospel of John | Christian Shorts #shorts #manoramamusic #biblereading യോഹന്നാൻ എഴുതിയ സുവിശേഷം Chapter 3 Verse 22 36 Ai Reel 02",
-          "link": "https://www.youtube.com/shorts/60M4Aw9vV3k",
-          "publishedOn": "2026-07-24T07:55:51.000Z",
-          "wordCount": 3181,
-          "title": "Gospel of John | Christian Shorts #shorts #manoramamusic #biblereading",
-          "imageUrl": "https://i.ytimg.com/vi/60M4Aw9vV3k/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDq_W617ykC8ucOOGx6-yTE4dxM7A"
         }
       ]
     },
