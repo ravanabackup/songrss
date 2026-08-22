@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T16:09:04.115Z</updated>
+    <updated>2026-08-22T17:09:34.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[@SaiAbhyankkar - Radhimaa (Promo) | Bhagyashri Borse | Think Indie]]></title>
+        <id>https://www.youtube.com/watch?v=PNyFcnrR000</id>
+        <link href="https://www.youtube.com/watch?v=PNyFcnrR000"/>
+        <updated>2026-08-22T16:51:20.000Z</updated>
+        <author>
+            <name>Think Music India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്രവണസുന്ദരമായ യുഗ്മഗാനങ്ങൾ | Malayalam Evergreen Romantic 90s Hits]]></title>
         <id>https://www.youtube.com/watch?v=Az7GlnwhTiY</id>
@@ -12159,15 +12168,6 @@
         <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nishayil - Video Song | Ithiri Neram | Roshan | Zarin | Basil C J | Veetraag | Prasanth Vijay]]></title>
-        <id>https://www.youtube.com/watch?v=LZd_Hk2y_S8</id>
-        <link href="https://www.youtube.com/watch?v=LZd_Hk2y_S8"/>
-        <updated>2026-07-24T04:30:06.000Z</updated>
-        <author>
-            <name>Think Music India</name>
         </author>
     </entry>
 </feed>
