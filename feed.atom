@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T15:08:28.827Z</updated>
+    <updated>2026-08-22T16:09:04.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശ്രവണസുന്ദരമായ യുഗ്മഗാനങ്ങൾ | Malayalam Evergreen Romantic 90s Hits]]></title>
+        <id>https://www.youtube.com/watch?v=Az7GlnwhTiY</id>
+        <link href="https://www.youtube.com/watch?v=Az7GlnwhTiY"/>
+        <updated>2026-08-22T16:00:15.000Z</updated>
+        <author>
+            <name>Malayalam Hits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
+        <id>https://www.youtube.com/shorts/PwvJQp5SU1g</id>
+        <link href="https://www.youtube.com/shorts/PwvJQp5SU1g"/>
+        <updated>2026-08-22T15:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തങ്കക്കസവണിയും പുലരിയിലോ...| Thankakasavaniyum | Thiruthalvaadhi | KJ Yesudas | Urvashi Movie Song]]></title>
         <id>https://www.youtube.com/shorts/86NqenLrB-Y</id>
@@ -12149,16 +12168,6 @@
         <updated>2026-07-24T04:30:06.000Z</updated>
         <author>
             <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthe Ninne | Amrutham #Video #Song #MadhuBalakrishnan #Sujatha #Kaithapram #MJayachandran]]></title>
-        <id>https://www.youtube.com/shorts/jn9cGbROtO8</id>
-        <link href="https://www.youtube.com/shorts/jn9cGbROtO8"/>
-        <updated>2026-07-24T04:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Content Owner : Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook : http://www.facebook.com/manoramasongsYouTube : https://www...]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
