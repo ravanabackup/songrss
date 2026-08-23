@@ -2865,6 +2865,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OGXs13YCuqM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OGXs13YCuqM",
+          "publishedOn": "2026-08-23T20:00:33.000Z",
+          "wordCount": null,
+          "title": "രാവിലെ പ്രാര്‍ത്ഥന August 24 # Athiravile Prarthana 24th of August 2026 Morning Prayer & Songs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xCiFy-6O6-g",
           "author": null,
           "description": "",
@@ -8731,16 +8741,6 @@
           "wordCount": null,
           "title": "Swargavathil Thurannu | സ്വര്‍ഗ്ഗ വാതില്‍ തുറന്നു | Manichepu Thurannapol | KJ Yesudas & S Janaki",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/F0GrGFh6GGU",
-          "author": null,
-          "description": "Pathinezhu Valsarangal | പതിനേഴുവത്സരങ്ങള്‍ പനിനീര് | Manicheppu Thurannapol | S Janakiamma Song #oldsong #oldmalayalamfilmsongs #shobhana #sjanki #janakiamm...",
-          "link": "https://www.youtube.com/shorts/F0GrGFh6GGU",
-          "publishedOn": "2026-07-25T08:30:09.000Z",
-          "wordCount": 3434,
-          "title": "Pathinezhu Valsarangal | പതിനേഴുവത്സരങ്ങള്‍ പനിനീര് | Manicheppu Thurannapol | S Janakiamma Song",
-          "imageUrl": "https://i.ytimg.com/vi/F0GrGFh6GGU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA4ypTmwxGOueAUD-Gh403Hfk2EIA&usqp=CCk"
         }
       ]
     },
