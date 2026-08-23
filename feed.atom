@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T12:14:19.703Z</updated>
+    <updated>2026-08-23T13:23:17.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 23rd of August 2026]]></title>
+        <id>https://www.youtube.com/watch?v=YOMLNZwphUg</id>
+        <link href="https://www.youtube.com/watch?v=YOMLNZwphUg"/>
+        <updated>2026-08-23T12:30:37.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരുബലിയിൽ ഈ മനോഹര ഗാനത്തോടൊപ്പം അണിചേരാം...❤️😊🙏 #ai #shorts]]></title>
         <id>https://www.youtube.com/shorts/Kc61BYPFOmI</id>
@@ -12028,15 +12037,6 @@
         <summary type="html"><![CDATA[Manorama Christian Malayalam | Yacobin Daivamennum | Keys Band | Shorts #christiandevotionalsongs #shorts]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 25th of July 2026 # Mathavinte Japamala # Santhoshathinte Rahasyangal 25th of July 2026]]></title>
-        <id>https://www.youtube.com/watch?v=VIbAqWk8icw</id>
-        <link href="https://www.youtube.com/watch?v=VIbAqWk8icw"/>
-        <updated>2026-07-25T00:30:36.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
