@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T18:11:01.209Z</updated>
+    <updated>2026-08-23T19:13:10.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12040,34 +12040,6 @@
         <updated>2026-07-25T07:15:23.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎶Nirantharam Njan… #matchpointfaith # #matchpointcreations]]></title>
-        <id>https://www.youtube.com/shorts/dZUdptrWddk</id>
-        <link href="https://www.youtube.com/shorts/dZUdptrWddk"/>
-        <updated>2026-07-25T07:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marakkanakatha Sangeetha Swarangal  l Yesudas,l M. G. Sreekumar,  Janaki l Chitra l Sujatha lNisari]]></title>
-        <id>https://www.youtube.com/watch?v=ClIthOaHyJ8</id>
-        <link href="https://www.youtube.com/watch?v=ClIthOaHyJ8"/>
-        <updated>2026-07-25T07:00:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comali - Paisa Note Audio With Lyrics | Ravi Mohan | Hiphop Tamizha]]></title>
-        <id>https://www.youtube.com/watch?v=du-sYF2lhiE</id>
-        <link href="https://www.youtube.com/watch?v=du-sYF2lhiE"/>
-        <updated>2026-07-25T07:00:08.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
