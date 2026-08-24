@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T02:14:21.316Z</updated>
+    <updated>2026-08-24T03:42:09.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കാവലായി അമ്മ Kaavalayi Amma Ft. John Britto, Sherin, Balu Augustin Christian devotional song]]></title>
+        <id>https://www.youtube.com/watch?v=inDs0aobWTs</id>
+        <link href="https://www.youtube.com/watch?v=inDs0aobWTs"/>
+        <updated>2026-08-24T02:02:49.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Naadha Ethra Unnatham | Christian Shorts #shorts #manoramachristiansongs]]></title>
         <id>https://www.youtube.com/shorts/if90iBLYQhU</id>
@@ -11898,53 +11907,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirukarathal Vahichu| Malayalam Christian Devotional Song | J V Peter | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/4RiZa7E0h2s</id>
-        <link href="https://www.youtube.com/shorts/4RiZa7E0h2s"/>
-        <updated>2026-07-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thirukarathal Vahichu Enne, തിരുക്കരത്താൽ വഹിച്ചു എന്നെ  is a soul-stirring Malayalam Christian devotional song that reminds us of God's unfailing love, prot...]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IYKYK - Audio | Athiradi | Tovino Thomas | Basil Joseph | Riya Shibu | Vishnu Vijay | Fejo, Poornima]]></title>
-        <id>https://www.youtube.com/watch?v=y-N1Xsj4fhA</id>
-        <link href="https://www.youtube.com/watch?v=y-N1Xsj4fhA"/>
-        <updated>2026-07-25T14:32:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/U62tc47keG4</id>
-        <link href="https://www.youtube.com/shorts/U62tc47keG4"/>
-        <updated>2026-07-25T14:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം യേശുവേ | Malayalam Christian devotional Song | Music SpreadPresenting All Time Favorite Malayalam Christian De...]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swargavathil Thurannu | സ്വര്‍ഗ്ഗ വാതില്‍ തുറന്നു | Manichepu Thurannapol | KJ Yesudas & S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=ARQuyDOPQCU</id>
-        <link href="https://www.youtube.com/watch?v=ARQuyDOPQCU"/>
-        <updated>2026-07-25T14:30:20.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandrakaantham kondu Naalukettu video song | Paadheyam | Mammootty | Kaithapram | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=deghuE6oBYU</id>
-        <link href="https://www.youtube.com/watch?v=deghuE6oBYU"/>
-        <updated>2026-07-25T14:30:07.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
