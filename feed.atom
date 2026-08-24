@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T05:27:30.896Z</updated>
+    <updated>2026-08-24T06:31:48.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thalirvalayo 4K Video Song | Cheenavala | Prem Nazeer | Jayabharathi | Yesudas | Vayalar Ramavarma]]></title>
+        <id>https://www.youtube.com/watch?v=CoJ-f-j3AGE</id>
+        <link href="https://www.youtube.com/watch?v=CoJ-f-j3AGE"/>
+        <updated>2026-08-24T06:30:23.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Poovithalil | ഒരു പൂവിതളിൽ നറുപുഞ്ചിരിയായ്‌ | Agnidevan | MG Sreekumar Evergreen Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=jk6bRHcr774</id>
+        <link href="https://www.youtube.com/watch?v=jk6bRHcr774"/>
+        <updated>2026-08-24T06:08:14.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Varshameghangal | Aiswarya Mohan https://youtu.be/0jZmMyUtqfs #shorts #lovesong #aiswaryamohan]]></title>
+        <id>https://www.youtube.com/shorts/wRlgxyYCPTs</id>
+        <link href="https://www.youtube.com/shorts/wRlgxyYCPTs"/>
+        <updated>2026-08-24T06:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Album Songs | Ee Varshameghangal | Aiswarya Mohan https://youtu.be/0jZmMyUtqfs #shorts #lovesong #aiswaryamohan]]></summary>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aranenne Thazhuki | Binoy Chacko | Prathyasha Geethangal | Praise and Worship Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=kCWNfKuoiII</id>
