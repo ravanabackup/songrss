@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T07:47:24.107Z</updated>
+    <updated>2026-08-24T08:33:08.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Poovithalil | ഒരു പൂവിതളിൽ നറുപുഞ്ചിരിയായ്‌ | Agnidevan | MG Sreekumar Evergreen Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/shorts/wKmmnd3DJgw</id>
+        <link href="https://www.youtube.com/shorts/wKmmnd3DJgw"/>
+        <updated>2026-08-24T08:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Oru Poovithalil | ഒരു പൂവിതളിൽ നറുപുഞ്ചിരിയായ്‌ | Agnidevan | MG Sreekumar Evergreen Song | Mohanlal#mohanlal #mgsreekumarsongs #malayalammelodysong #evergre...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onam Vanne Penne, Ponnonam Vanne | Evergreen Onam Songs Collection l Markose l Sujatha l Radhika]]></title>
+        <id>https://www.youtube.com/watch?v=wDLaBgbtNpE</id>
+        <link href="https://www.youtube.com/watch?v=wDLaBgbtNpE"/>
+        <updated>2026-08-24T08:30:18.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paathiraakkili Varu | Kizhakkan Pathrose | 4K Enhanced Video Song | Malayalam Hits]]></title>
         <id>https://www.youtube.com/watch?v=IjXaJpNgk74</id>
@@ -13,6 +32,15 @@
         <updated>2026-08-24T07:30:12.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അനേകർക്ക് ആശ്വാസമായി മാറിയ ഗാനങ്ങൾ | @JinoKunnumpurathu | #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=oRdVAVcDAvQ</id>
+        <link href="https://www.youtube.com/watch?v=oRdVAVcDAvQ"/>
+        <updated>2026-08-24T07:26:40.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -11913,15 +11941,6 @@
         <updated>2026-07-25T22:30:07.000Z</updated>
         <author>
             <name>Das Creations</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 26 # Athiravile Prarthana 26th of July 2026 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ADTdAIvRp_k</id>
-        <link href="https://www.youtube.com/watch?v=ADTdAIvRp_k"/>
-        <updated>2026-07-25T20:00:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
