@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T14:32:09.760Z</updated>
+    <updated>2026-08-25T15:30:47.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
+        <id>https://www.youtube.com/shorts/3CLXWfnX8qs</id>
+        <link href="https://www.youtube.com/shorts/3CLXWfnX8qs"/>
+        <updated>2026-08-25T14:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Thirunama Keerthanam Paaduvanallenkil | തിരുനാമ കീര്‍ത്തനം പാടുവാന്‍ | Malayalam Christian devotional Song | Music Spread |Christian songs malayalam | Malaya...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amanushikam Official Trailer | Joemon Joshy | Nidhish K Nair  | Saju Navodaya | Rajesh Paravoor]]></title>
         <id>https://www.youtube.com/watch?v=QPZxh_yHics</id>
