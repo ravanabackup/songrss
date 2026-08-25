@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T18:20:17.632Z</updated>
+    <updated>2026-08-25T19:20:54.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th August 2026]]></title>
+        <id>https://www.youtube.com/watch?v=JNK5nG2afX0</id>
+        <link href="https://www.youtube.com/watch?v=JNK5nG2afX0"/>
+        <updated>2026-08-25T19:00:28.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
         <id>https://www.youtube.com/shorts/3CLXWfnX8qs</id>
@@ -12137,33 +12146,6 @@
         <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[லவ் இன்சூரன்ஸ் கம்பெனி - வைப் வாசே தமிழ் பாடல்வரிகள் | அனிருத்]]></title>
-        <id>https://www.youtube.com/watch?v=cddIhc9mUa8</id>
-        <link href="https://www.youtube.com/watch?v=cddIhc9mUa8"/>
-        <updated>2026-07-27T07:00:12.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Janmadina Chithrageetha Gaanangal l Birthday Special | Super Hits of Chithral Nisari music l]]></title>
-        <id>https://www.youtube.com/watch?v=lvCrH2oO310</id>
-        <link href="https://www.youtube.com/watch?v=lvCrH2oO310"/>
-        <updated>2026-07-27T07:00:08.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magha Masam Mallikapo | മാഘമാസം മല്ലികപ്പൂ | Ente Ponnu Thampuran | K J Yesudas | Lekha R Nair]]></title>
-        <id>https://www.youtube.com/watch?v=DgJvoswk7rU</id>
-        <link href="https://www.youtube.com/watch?v=DgJvoswk7rU"/>
-        <updated>2026-07-27T06:56:34.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
