@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T09:22:06.619Z</updated>
+    <updated>2026-08-25T10:18:57.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മുറപ്പെണ്ണേ, നീ അരികിലുണ്ടെങ്കിൽ | Murappenne Nee Arikilundenkil l Jayachandran  l S. Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=ZNF7k-0kNtI</id>
+        <link href="https://www.youtube.com/watch?v=ZNF7k-0kNtI"/>
+        <updated>2026-08-25T10:00:02.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏവർക്കും സ്നേഹം നിറഞ്ഞ ഓണാശംസകൾ! 🌸]]></title>
         <id>https://www.youtube.com/shorts/PnABSCwBoRU</id>
