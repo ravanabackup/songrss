@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T04:27:27.739Z</updated>
+    <updated>2026-08-26T05:21:03.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തെക്കു പാട്ടിന്റെ താളത്തിൽ തുള്ളടി | Thekkupattinte Thaalathil | Kalabhavan Mani Onam Folk Song]]></title>
+        <id>https://www.youtube.com/watch?v=lvwWEkvQnsM</id>
+        <link href="https://www.youtube.com/watch?v=lvwWEkvQnsM"/>
+        <updated>2026-08-26T04:30:10.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 26th of August  2026 # Mathavinte Japamala # Mahimayude Rahasyangal 26th of August 26]]></title>
         <id>https://www.youtube.com/watch?v=saabY6Sf1bM</id>
@@ -11976,16 +11985,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iru Kalithozharayi | ഇരു കളിത്തോഴരായ് | Manassinte Theerthayathra | KJ Yesudas | ONV Kurup Song]]></title>
-        <id>https://www.youtube.com/shorts/h8ZkRKIfPHA</id>
-        <link href="https://www.youtube.com/shorts/h8ZkRKIfPHA"/>
-        <updated>2026-07-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Iru Kalithozharayi | ഇരു കളിത്തോഴരായ് | Manassinte Theerthayathra | KJ Yesudas | ONV Kurup Song #oldmoviesongs #evergreenhits #audiosong #yesudasevergreenson...]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[തിരുനാമ കീര്‍ത്തനം | Thirunama Keerthanam | Malayalam Christian Song | Music Spread | Mercy Shaju]]></title>
         <id>https://www.youtube.com/shorts/ZEJwNW6t98I</id>
         <link href="https://www.youtube.com/shorts/ZEJwNW6t98I"/>
@@ -11993,15 +11992,6 @@
         <summary type="html"><![CDATA[Thirunama Keerthanam Paaduvanallenkil | തിരുനാമ കീര്‍ത്തനം പാടുവാന്‍ | Malayalam Christian devotional Song | Music Spread |Christian songs malayalam | Malaya...]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iru Kalithozharayi | ഇരു കളിത്തോഴരായ് | Manassinte Theerthayathra | KJ Yesudas | ONV Kurup Song]]></title>
-        <id>https://www.youtube.com/watch?v=qxpTwYfuZQ0</id>
-        <link href="https://www.youtube.com/watch?v=qxpTwYfuZQ0"/>
-        <updated>2026-07-27T14:30:28.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
