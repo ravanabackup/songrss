@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T23:14:25.686Z</updated>
+    <updated>2026-08-26T00:32:28.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yah Nallavan | Wilson Piravom | Prathyasha Geethangal | Praise and WOrship Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=GCgkqkF5u6U</id>
+        <link href="https://www.youtube.com/watch?v=GCgkqkF5u6U"/>
+        <updated>2026-08-25T23:30:32.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gospel of Luke - Chapter 1 | Christian Shorts #shorts #manoramamusic #biblereading]]></title>
+        <id>https://www.youtube.com/shorts/vxCh1eFtsGA</id>
+        <link href="https://www.youtube.com/shorts/vxCh1eFtsGA"/>
+        <updated>2026-08-25T23:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian Malayalam | Gospel of Luke - Chapter 1 reel 2 | Christian Shorts #shorts #manoramamusic #biblereading]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിങ്ങളുടെ പ്രാർത്ഥനകൾക്ക് കരുത്തേകുന്നസംഗീതം | Christian Devotional Songs Malayalam | Wilson Piravom]]></title>
+        <id>https://www.youtube.com/watch?v=yx9N5MtnDn4</id>
+        <link href="https://www.youtube.com/watch?v=yx9N5MtnDn4"/>
+        <updated>2026-08-25T23:30:20.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആഗസ്റ്റ്: 26, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
         <id>https://www.youtube.com/watch?v=7CRLCqVXi6M</id>
@@ -12059,63 +12087,6 @@
         <updated>2026-07-27T12:40:03.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 27th of July 2026]]></title>
-        <id>https://www.youtube.com/watch?v=QIMrGAsyFg0</id>
-        <link href="https://www.youtube.com/watch?v=QIMrGAsyFg0"/>
-        <updated>2026-07-27T12:30:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[She Is My - Lyric Video | Immortal | GV Prakash,Kayadu Lohar | Sam CS | Mariyappan Chinna |Arunkumar]]></title>
-        <id>https://www.youtube.com/watch?v=k3T5qoquCso</id>
-        <link href="https://www.youtube.com/watch?v=k3T5qoquCso"/>
-        <updated>2026-07-27T12:30:07.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉയിരിൻ പൊൻകിരണം... |  ഹൃദയത്തെ ശാന്തമാക്കുന്ന ഗാനം | #shorts]]></title>
-        <id>https://www.youtube.com/shorts/geaRtX1EaZU</id>
-        <link href="https://www.youtube.com/shorts/geaRtX1EaZU"/>
-        <updated>2026-07-27T12:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Mathram Mathi | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/R4_fAiQTGLQ</id>
-        <link href="https://www.youtube.com/shorts/R4_fAiQTGLQ"/>
-        <updated>2026-07-27T12:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Nee Mathram Mathi | Christian Shorts #shorts #manoramachristiansongs]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaanae Kandonay | Vivaah | Dhruvan | Dhyan Sreenivasan | Arun Muraleedharan]]></title>
-        <id>https://www.youtube.com/watch?v=9MTQEzjMTnc</id>
-        <link href="https://www.youtube.com/watch?v=9MTQEzjMTnc"/>
-        <updated>2026-07-27T11:45:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njanurangumbol | ഞാനുറങ്ങുമ്പോൾ |@JinoKunnumpurathu   Deleema #shortvideo #newchristiansong Reel 2]]></title>
-        <id>https://www.youtube.com/shorts/JnWdpYZczlI</id>
-        <link href="https://www.youtube.com/shorts/JnWdpYZczlI"/>
-        <updated>2026-07-27T11:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#firstholycommunion #bijunarayanansongs #shortsfeed #malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristianso...]]></summary>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
