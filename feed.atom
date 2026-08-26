@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T13:43:05.719Z</updated>
+    <updated>2026-08-26T14:31:57.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthuthi Geetham Paduka Naam | സ്തുതിഗീതം പാടുക | Christian Devotional Song Malayalam | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/f8WCcglSwx0</id>
+        <link href="https://www.youtube.com/shorts/f8WCcglSwx0"/>
+        <updated>2026-08-26T14:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the super talented Shalin Shiju Mathew, a participant of Match Point Faith Voice Hunt in association with Music Spread.Sthuthi Geetham Paduka Naa...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avani Thumbi Song | Deva Prasanth | Vaikom Vijayalakshmi | R.V Unnikrishnan]]></title>
+        <id>https://www.youtube.com/shorts/I7oOlHo1C1w</id>
+        <link href="https://www.youtube.com/shorts/I7oOlHo1C1w"/>
+        <updated>2026-08-26T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Music Composed and Produced : Deva PrasanthLyrics : Naveen Marar & Deva PrasanthSinger : Vaikom VijayalakshmiSubscribe Us 🔔 https://www.youtube.com/channel/...]]></summary>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പള്ളികളിലെല്ലാം ഏറ്റുപാടുന്ന ഹിറ്റ് ഗാനം!! 😍 "കാസയിൽ.." | #evergreenhits | #shorts]]></title>
+        <id>https://www.youtube.com/shorts/mQBudPQqJR0</id>
+        <link href="https://www.youtube.com/shorts/mQBudPQqJR0"/>
+        <updated>2026-08-26T14:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔Super മോളെ!! "കാസയിൽ.." 🤩🙏🥰 ഇഷ്ടമായാൽ ലൈക്കും ഷെയറും ചെയ്യണേ... എല്ലാരേയും ദൈവം അനുഗ്രഹിക്കട്ടെ. ആമ്മേൻ.🥰🤩🙏, ഷെയർ ചെയ്യാൻ ...]]></summary>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interview Elizabeth S. Mathew | Rev. Dr. Mothy Varkey | Talk Show |  Music Spread |]]></title>
         <id>https://www.youtube.com/shorts/FitcNP84gkE</id>
@@ -12010,16 +12040,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veendedutha Sneham | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/kWTYGW7Z3Vk</id>
-        <link href="https://www.youtube.com/shorts/kWTYGW7Z3Vk"/>
-        <updated>2026-07-28T02:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Veendedutha Sneham | Christian Shorts #shorts #manoramachristiansongs]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
