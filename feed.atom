@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T20:17:16.694Z</updated>
+    <updated>2026-08-29T22:52:30.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആഗസ്റ്റ്: 30, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=wF9NJKcp8BI</id>
+        <link href="https://www.youtube.com/watch?v=wF9NJKcp8BI"/>
+        <updated>2026-08-29T22:30:29.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 30 # Athiravile Prarthana 30th of August 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=eykCfyXNtx4</id>
@@ -11758,53 +11767,6 @@
         <updated>2026-07-31T11:24:09.000Z</updated>
         <author>
             <name>Malayalam Gramaphone Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നിനക്കായ് ഒരുക്കിയിട്ടുണ്ട്|  | Rev. Aneesh P Joseph | #motivation # #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/shorts/8h0lrM1ZOfU</id>
-        <link href="https://www.youtube.com/shorts/8h0lrM1ZOfU"/>
-        <updated>2026-07-31T10:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയം കീഴടക്കുന്ന ക്രിസ്‌തീയ ഗാനങ്ങൾ | #jinokunnumpurath #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=NjbUu4TlKNE</id>
-        <link href="https://www.youtube.com/watch?v=NjbUu4TlKNE"/>
-        <updated>2026-07-31T10:30:06.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeshoye Neeyente Ullil | Shorts #christiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/6WPeeTGP5tw</id>
-        <link href="https://www.youtube.com/shorts/6WPeeTGP5tw"/>
-        <updated>2026-07-31T10:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Eeshoye Neeyente Ullil | Shorts #christiandevotionalsongs #shorts]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAFAR | S M Althaf | Ashraf Ali Kavaratti | Jasim Jamaal | New Malayalam Song]]></title>
-        <id>https://www.youtube.com/watch?v=SMYi1zzySow</id>
-        <link href="https://www.youtube.com/watch?v=SMYi1zzySow"/>
-        <updated>2026-07-31T09:19:34.000Z</updated>
-        <author>
-            <name>Saina Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Chiri Kandaal 4K Video Song | Ponmudipuzhayorathu | Meenakshi | Aravind | Manjari |Vijay Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=QjLPdEWujoA</id>
-        <link href="https://www.youtube.com/watch?v=QjLPdEWujoA"/>
-        <updated>2026-07-31T08:33:37.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
