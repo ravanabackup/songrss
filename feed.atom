@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T20:13:55.021Z</updated>
+    <updated>2026-09-01T22:52:42.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സെപ്റ്റംബർ: 02, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=G2tj7lk_1kk</id>
+        <link href="https://www.youtube.com/watch?v=G2tj7lk_1kk"/>
+        <updated>2026-09-01T22:30:22.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 2 # Athiravile Prarthana 2nd of September 2026 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=L2ir7n0ITSY</id>
@@ -11646,64 +11655,6 @@
         <updated>2026-08-03T11:30:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രതീക്ഷ  |  Rev. Aneesh P Joseph | #motivation # #malayalamchristiansong]]></title>
-        <id>https://www.youtube.com/shorts/-4KZlmagxl4</id>
-        <link href="https://www.youtube.com/shorts/-4KZlmagxl4"/>
-        <updated>2026-08-03T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonnalum Sonniye - Video Song | Nooru Sami | Vijay Antony | Swasika | Ajay | Balaji Sriram | Sasi]]></title>
-        <id>https://www.youtube.com/watch?v=HQ_Vo8nJp5Y</id>
-        <link href="https://www.youtube.com/watch?v=HQ_Vo8nJp5Y"/>
-        <updated>2026-08-03T10:30:21.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NUHA - Music Video | Anoop Robinson | Prasanth Mohan M P | Albin Joseph | Anjali Joseph | Bathariya]]></title>
-        <id>https://www.youtube.com/watch?v=elHrGBcGGqA</id>
-        <link href="https://www.youtube.com/watch?v=elHrGBcGGqA"/>
-        <updated>2026-08-03T10:30:06.000Z</updated>
-        <author>
-            <name>Saina Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varuvin Daivajaname | Shorts #christiandevotionalsongs #shorts]]></title>
-        <id>https://www.youtube.com/shorts/_ECzgEhs_1w</id>
-        <link href="https://www.youtube.com/shorts/_ECzgEhs_1w"/>
-        <updated>2026-08-03T10:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Varuvin Daivajaname | Shorts #christiandevotionalsongs #shorts]]></summary>
-        <author>
-            <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gopikamarude Hridayathil | ഗോപികമാരുടെ ഹൃദയതലത്തില്‍ | Hridayathil Nee Mathram | KJ Yesudas Song]]></title>
-        <id>https://www.youtube.com/shorts/-7ZtuTeHfk4</id>
-        <link href="https://www.youtube.com/shorts/-7ZtuTeHfk4"/>
-        <updated>2026-08-03T08:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Gopikamarude Hridayathil | ഗോപികമാരുടെ ഹൃദയതലത്തില്‍ | Hridayathil Nee Mathram | KJ Yesudas Song #evergreensongs #yesudasevergreensongs #ummar #sukumaran #ma...]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
-        <id>https://www.youtube.com/shorts/mqliMRVbkWs</id>
-        <link href="https://www.youtube.com/shorts/mqliMRVbkWs"/>
-        <updated>2026-08-03T08:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
-        <author>
-            <name>Music Spread</name>
         </author>
     </entry>
 </feed>
