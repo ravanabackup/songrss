@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T01:29:10.932Z</updated>
+    <updated>2026-09-01T06:53:39.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ila Kozhiyum Sishirathil 4K Video Song | Varshangal Pothariyathe | KJ Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=nwwTkiaX4Os</id>
+        <link href="https://www.youtube.com/watch?v=nwwTkiaX4Os"/>
+        <updated>2026-09-01T05:15:17.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ | St Mary’s songs | Music Spread]]></title>
         <id>https://www.youtube.com/shorts/lw0vd881_ZY</id>
