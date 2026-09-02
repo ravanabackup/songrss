@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T14:46:42.862Z</updated>
+    <updated>2026-09-02T18:11:32.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ | St Mary’s songs |]]></title>
+        <id>https://www.youtube.com/shorts/JSlkcp4RmE8</id>
+        <link href="https://www.youtube.com/shorts/JSlkcp4RmE8"/>
+        <updated>2026-09-02T15:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Experience the Ettu Nomb 2025 with this special collection of St. Marys Malayalam Christian devotional songs, Ettu Nombu Songs, എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങ...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീർപ്പളുങ്കുകൾ ചിതറി വീഴുമീ | Neer Palungugal | Godfather | Sujatha Mohan Evergreen Melody Song]]></title>
+        <id>https://www.youtube.com/shorts/XtsHTAkQDNQ</id>
+        <link href="https://www.youtube.com/shorts/XtsHTAkQDNQ"/>
+        <updated>2026-09-02T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[നീർപ്പളുങ്കുകൾ ചിതറി വീഴുമീ | Neer Palungugal | Godfather | Sujatha Mohan Evergreen Melody Song#evergreensongs #oldmoviesongs #malayalammelodysongs #melodies...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[St. Mary's Songs | ദൈവമാതാവിനോടുള്ള പ്രാർത്ഥനാ ഗീതങ്ങൾ | Ettu Nombu Songs | Match Point Faith |]]></title>
         <id>https://www.youtube.com/watch?v=xy_zBHSBjmw</id>
@@ -11623,34 +11643,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Match Point Faith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Ponthoovalai | Beat Route A Musical Journey #malayalamcoversong #shortsfeed #shorts #reels]]></title>
-        <id>https://www.youtube.com/shorts/2jsgpjjMGhA</id>
-        <link href="https://www.youtube.com/shorts/2jsgpjjMGhA"/>
-        <updated>2026-08-04T05:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇത്തിരിപൂവിന്റെ കൈക്കുമ്പിളിൽ...| Ithiripoovinte | Manivathoorile Aayiram Sivarathrikal | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=IQmyASeWTBA</id>
-        <link href="https://www.youtube.com/watch?v=IQmyASeWTBA"/>
-        <updated>2026-08-04T05:30:29.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farmaaye Video Song| PLUTO| Neeraj Madhav, Aarsha Baiju, Althaf Salim| Arcado|Adithyan Chandrashekar]]></title>
-        <id>https://www.youtube.com/watch?v=lcJsDB86HQs</id>
-        <link href="https://www.youtube.com/watch?v=lcJsDB86HQs"/>
-        <updated>2026-08-04T05:09:35.000Z</updated>
-        <author>
-            <name>Muzik247</name>
         </author>
     </entry>
 </feed>
