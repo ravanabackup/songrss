@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T15:21:23.562Z</updated>
+    <updated>2026-09-03T18:56:45.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 September 2026]]></title>
+        <id>https://www.youtube.com/shorts/N4Hq1hx_jx4</id>
+        <link href="https://www.youtube.com/shorts/N4Hq1hx_jx4"/>
+        <updated>2026-09-03T16:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ettu Nombu Songs | എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങൾ | St Mary’s songs | Music Spread]]></title>
+        <id>https://www.youtube.com/shorts/LvtTulyRe_o</id>
+        <link href="https://www.youtube.com/shorts/LvtTulyRe_o"/>
+        <updated>2026-09-03T15:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Experience the Ettu Nomb 2026 with this special collection of St. Marys Malayalam Christian devotional songs, Ettu Nombu Songs, എട്ടുനോമ്പ്‌ പെരുന്നാൾ ഗീതങ്ങ...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സ്വയം മറന്നൊന്നു പാടാൻ | Swayam Maranonnu Paadan | Three Men Army | Biju Narayanan & KS Chithra Song]]></title>
         <id>https://www.youtube.com/shorts/Bfb5TsYwdKU</id>
@@ -11617,71 +11637,6 @@
         <updated>2026-08-05T07:00:11.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame Nin Sthuthi Paduvanayi | Celin Shoji | Sr. Mary Koottiyanickal | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=H78cx5tATeE</id>
-        <link href="https://www.youtube.com/watch?v=H78cx5tATeE"/>
-        <updated>2026-08-05T06:38:11.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathinettinazhakotha | Holidays Video Song |Madhu Balakrishnan | Anitha Shaiq |Kaithapram |Alex Paul]]></title>
-        <id>https://www.youtube.com/watch?v=4rjV9ijfI0U</id>
-        <link href="https://www.youtube.com/watch?v=4rjV9ijfI0U"/>
-        <updated>2026-08-05T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വർണ്ണം വാരിച്ചൂടും വാനവീഥി | Varnam Vaari Choodi | Mookkilla Rajyathu |KS Chithra | Ouseppachan Song]]></title>
-        <id>https://www.youtube.com/watch?v=4OigLFeGnrI</id>
-        <link href="https://www.youtube.com/watch?v=4OigLFeGnrI"/>
-        <updated>2026-08-05T05:00:17.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poocha Sanyasi - Audio Jukebox | Sukumari | Rajkumar | Hariharan | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=x7eJQQwti1U</id>
-        <link href="https://www.youtube.com/watch?v=x7eJQQwti1U"/>
-        <updated>2026-08-05T04:40:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Margazhippenne Nin | Indriyam | Boban Alummoodan | Lena | KS Chithra | Yadhukrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=RCv9Bc9TyDE</id>
-        <link href="https://www.youtube.com/watch?v=RCv9Bc9TyDE"/>
-        <updated>2026-08-05T04:37:35.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of Mathew | Christian Shorts #shorts #manoramamusic #biblereading]]></title>
-        <id>https://www.youtube.com/shorts/ejb1u9k84pM</id>
-        <link href="https://www.youtube.com/shorts/ejb1u9k84pM"/>
-        <updated>2026-08-05T04:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Gospel of Mathew | Christian Shorts #shorts #manoramamusic #biblereading മത്തായി എഴുതിയ സുവിശേഷം chapter 5 reel 7]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalla Kalla Kochukalla | Youth Festival #Video #viral #Movie#Song #ManoramaMusic]]></title>
-        <id>https://www.youtube.com/shorts/Fc2WhDNzePg</id>
-        <link href="https://www.youtube.com/shorts/Fc2WhDNzePg"/>
-        <updated>2026-08-05T03:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Content Owner : Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook : http://www.facebook.com/manoramasongsYouTube : https://www...]]></summary>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
