@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T18:42:34.815Z</updated>
+    <updated>2026-09-06T20:54:28.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 7 # Athiravile Prarthana 7th of September 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_9X66K7yHtg</id>
+        <link href="https://www.youtube.com/watch?v=_9X66K7yHtg"/>
+        <updated>2026-09-06T20:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th SEP 2026]]></title>
+        <id>https://www.youtube.com/watch?v=CN-f2tXztGk</id>
+        <link href="https://www.youtube.com/watch?v=CN-f2tXztGk"/>
+        <updated>2026-09-06T19:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIP Sankey Peter | Remembering Sankey Peter]]></title>
         <id>https://www.youtube.com/shorts/jDiHlVJOjlQ</id>
@@ -11430,54 +11448,6 @@
         <summary type="html"><![CDATA[Manorama Christian Malayalam | Yesuve Nin Ponmukham | Shorts #christiandevotionalsongs #shortsyoutube]]></summary>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൊരുന്നിരിക്കും ചൂടിൽ വിരിഞ്ഞവരേ | Sarvakalasala | MG Radhakrishnan | Lathika | Latha Raju Song]]></title>
-        <id>https://www.youtube.com/shorts/E3hmkktA_RU</id>
-        <link href="https://www.youtube.com/shorts/E3hmkktA_RU"/>
-        <updated>2026-08-08T08:30:32.000Z</updated>
-        <summary type="html"><![CDATA[പൊരുന്നിരിക്കും ചൂടിൽ വിരിഞ്ഞവരേ | Sarvakalasala | MG Radhakrishnan | Lathika | Latha Raju Song #evergreenhits #malayalammelody #romanticmalayalamsongs #olde...]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[St. Mary's Madhyastha Prarthana Songs |മാതാവിനോടുള്ള മദ്ധ്യസ്ഥ പ്രാർത്ഥനയും ഗാനങ്ങളും| Fr. Kris Sebi]]></title>
-        <id>https://www.youtube.com/shorts/iT6CfaSGa-I</id>
-        <link href="https://www.youtube.com/shorts/iT6CfaSGa-I"/>
-        <updated>2026-08-08T08:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Music Spread presents St. Mary's Prayers( Madhyastha Prarthana) and Songs used during 15 day lent observed by Malankara Orthodox Syrian Christian Churches fo...]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malankara Orthodox St. Mary's songs| വി. ദൈവമാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/_eYWdSeQh7I</id>
-        <link href="https://www.youtube.com/shorts/_eYWdSeQh7I"/>
-        <updated>2026-08-08T08:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Music Spread presents St Mary's songs used during15 day lent observed by Malankara Orthodox Syrian Christian Churchs for Shoonoyo Perunal also known as vangi...]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29 - பொல்லாத ஆசைகள் தமிழ் பாடல்வரிகள் | ஷான் ரோல்டன்]]></title>
-        <id>https://www.youtube.com/watch?v=gCUYERNDLyU</id>
-        <link href="https://www.youtube.com/watch?v=gCUYERNDLyU"/>
-        <updated>2026-08-08T07:00:07.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സങ്കടപെടേണ്ട എന്ന് ദൈവം പറയുന്ന ഗാനങ്ങൾ | #jinokunnumpurath #christiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=B2Y2pVOA6IE</id>
-        <link href="https://www.youtube.com/watch?v=B2Y2pVOA6IE"/>
-        <updated>2026-08-08T06:57:37.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
