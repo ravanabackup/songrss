@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T16:31:12.685Z</updated>
+    <updated>2026-09-06T18:42:34.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RIP Sankey Peter | Remembering Sankey Peter]]></title>
+        <id>https://www.youtube.com/shorts/jDiHlVJOjlQ</id>
+        <link href="https://www.youtube.com/shorts/jDiHlVJOjlQ"/>
+        <updated>2026-09-06T17:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Malayalam Christian Devotional Songs| Malayalam worship songs | Devotional songs Malayalam | Malayalam song Christian | devotional songs Malayalam | Christia...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIP Sankey Peter | Remembering Sankey Peter]]></title>
         <id>https://www.youtube.com/shorts/cNOGz35Na3M</id>
@@ -11468,63 +11478,6 @@
         <updated>2026-08-08T06:57:37.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൊരുന്നിരിക്കും ചൂടിൽ വിരിഞ്ഞവരേ | Sarvakalasala | MG Radhakrishnan | Lathika | Latha Raju Song]]></title>
-        <id>https://www.youtube.com/watch?v=kU-EjPn5QA8</id>
-        <link href="https://www.youtube.com/watch?v=kU-EjPn5QA8"/>
-        <updated>2026-08-08T05:38:11.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday FaFa #fahadhfaasil #shorts #shortsfeed #malayalammoviesongs #shortsvideo #reels]]></title>
-        <id>https://www.youtube.com/shorts/oIMIIPUBeFU</id>
-        <link href="https://www.youtube.com/shorts/oIMIIPUBeFU"/>
-        <updated>2026-08-08T05:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twist In The Plot Video Song | PLUTO | Neeraj Madhav, Althaf Salim | Arcado |Adithyan Chandrashekar]]></title>
-        <id>https://www.youtube.com/watch?v=dZD9of9Vdtk</id>
-        <link href="https://www.youtube.com/watch?v=dZD9of9Vdtk"/>
-        <updated>2026-08-08T05:30:11.000Z</updated>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gospel of Mathew | Christian Shorts #shorts #manoramamusic #biblereading മത്തായി എഴുതിയ സുവിശേഷം]]></title>
-        <id>https://www.youtube.com/shorts/5KJmUHOUeyE</id>
-        <link href="https://www.youtube.com/shorts/5KJmUHOUeyE"/>
-        <updated>2026-08-08T05:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Gospel of Mathew | Christian Shorts #shorts #manoramamusic #biblereading മത്തായി എഴുതിയ സുവിശേഷം chapter chapter 5 reel 6]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The face of versatility. The definition of brilliance.🔥 #HBDFahadhFaasil]]></title>
-        <id>https://www.youtube.com/shorts/3ltMpFxS4ko</id>
-        <link href="https://www.youtube.com/shorts/3ltMpFxS4ko"/>
-        <updated>2026-08-08T04:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=I4j_tGDZY3I</id>
-        <link href="https://www.youtube.com/watch?v=I4j_tGDZY3I"/>
-        <updated>2026-08-08T04:34:09.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
