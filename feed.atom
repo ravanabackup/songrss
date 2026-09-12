@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T14:30:17.054Z</updated>
+    <updated>2026-09-12T17:29:23.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ കേൾക്കാൻ ഏറ്റവും നല്ല ഗാനങ്ങൾ | Morning Worship Songs |Morning Songs]]></title>
+        <id>https://www.youtube.com/watch?v=x-ZARbNZUug</id>
+        <link href="https://www.youtube.com/watch?v=x-ZARbNZUug"/>
+        <updated>2026-09-12T15:58:21.000Z</updated>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വെള്ളാരം കുന്നുമ്മേലെ | Vellaram Kunnumele | Revathikkoru Paavakutty | KJ Yesudas | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/shorts/zMdHQRuMik0</id>
+        <link href="https://www.youtube.com/shorts/zMdHQRuMik0"/>
+        <updated>2026-09-12T15:00:16.000Z</updated>
+        <summary type="html"><![CDATA[വെള്ളാരം കുന്നുമ്മേലെ | Vellaram Kunnumele | Revathikkoru Paavakutty | KJ Yesudas | Bichu Thirumala #evergreenhits #malayalamsongsold #oldenhits #bichuthirum...]]></summary>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വെള്ളാരം കുന്നുമ്മേലെ | Vellaram Kunnumele | Revathikkoru Paavakutty | KJ Yesudas | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=SwQ5orwLm9w</id>
+        <link href="https://www.youtube.com/watch?v=SwQ5orwLm9w"/>
+        <updated>2026-09-12T14:30:35.000Z</updated>
+        <author>
+            <name>MILLENNIUM MUSIC HUB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൂമാനമേ Video Song | Nirakkoottu | KS Chithra | Mammootty | Sumalatha]]></title>
+        <id>https://www.youtube.com/watch?v=2ktcvXg8v-A</id>
+        <link href="https://www.youtube.com/watch?v=2ktcvXg8v-A"/>
+        <updated>2026-09-12T14:30:33.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devikulam Malayil Video Song | K. J. Yesudas & P. Madhuri | Thenaruvi | Evergreen Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=5Yvj27fynsU</id>
@@ -11386,33 +11423,6 @@
         <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശാരദേന്ദു നെയ്തു നെയ്തു...| Sardhendhu Neythu | Daya Movie | KS Chithra | Manju Warrier Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=CUHtllI7gfs</id>
-        <link href="https://www.youtube.com/watch?v=CUHtllI7gfs"/>
-        <updated>2026-08-14T05:12:51.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 (LIVE) Morning Praise & Worship Playlist 🙏 Songs for Prayer ✝️ Malayalam Christian Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=mCIZRQdsG4Y</id>
-        <link href="https://www.youtube.com/watch?v=mCIZRQdsG4Y"/>
-        <updated>2026-08-14T04:46:01.000Z</updated>
-        <author>
-            <name>Prathyasha Geethangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔴 ( LIVE ) Start Your Day With Jesus 🕊️ 2026 Christian Morning Music: Protection & Peace]]></title>
-        <id>https://www.youtube.com/watch?v=seh-C2CkL6Q</id>
-        <link href="https://www.youtube.com/watch?v=seh-C2CkL6Q"/>
-        <updated>2026-08-14T04:44:15.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
