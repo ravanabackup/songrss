@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T19:02:05.222Z</updated>
+    <updated>2026-09-13T21:51:57.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  September 14 Athiravile Prarthana 14th of September 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=u2XvbvUUjG8</id>
+        <link href="https://www.youtube.com/watch?v=u2XvbvUUjG8"/>
+        <updated>2026-09-13T20:00:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th SEP 2026]]></title>
         <id>https://www.youtube.com/watch?v=XWgLLMu7xqQ</id>
@@ -11001,54 +11010,6 @@
         <summary type="html"><![CDATA[Ravinte Nizhalayi | രാവിന്‍റെ നിഴലായ്‌ മാറുന്ന സന്ധ്യേ...| Sreeragam Movie | KS Chithra | Kaithapram#malayalmfilmssong #oldmoviesongs #kaithapramhits #kschit...]]></summary>
         <author>
             <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onakampany | K. S. Harishankar | Sooraj S. Kurup | Parvathy Babu | Mithun Jai Sankar | Nahas Nazar]]></title>
-        <id>https://www.youtube.com/watch?v=sj1jLNga8ic</id>
-        <link href="https://www.youtube.com/watch?v=sj1jLNga8ic"/>
-        <updated>2026-08-15T09:28:06.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orthodox St. Mary's songs  | Mother Mary Songs | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/6YNkaD4IoFc</id>
-        <link href="https://www.youtube.com/shorts/6YNkaD4IoFc"/>
-        <updated>2026-08-15T08:00:11.000Z</updated>
-        <summary type="html"><![CDATA[St Mary's songs |Shonoyoo lent | Shonoyoo nomb വാങ്ങിപ്പ് പെരുന്നാൾ | മാതാവിന്റെ പെരുന്നാൾ ഗീതങ്ങൾ  | Sibin Chowalloor | Music Spread | Ettu Nomb songs | എട്...]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnum Pooppada Poliyo | Evergreen Malayalam Film Songs | Onam Vibes]]></title>
-        <id>https://www.youtube.com/shorts/YiOFIaJmiH0</id>
-        <link href="https://www.youtube.com/shorts/YiOFIaJmiH0"/>
-        <updated>2026-08-15T07:30:20.000Z</updated>
-        <summary type="html"><![CDATA[പൊന്നും പൂപ്പട പൊലിയോ – Onam Vibes നിറക്കുന്ന, പഴയകാല ഓർമ്മകളും ഓണക്കാലത്തിന്റെ മധുരവും നിറഞ്ഞ മനോഹരമായ Evergreen Malayalam Film Songs…SingersK. J. Yesudas |...]]></summary>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithratholam Enne | Christian Shorts #shorts #manoramachristiansongs]]></title>
-        <id>https://www.youtube.com/shorts/muMKLdV07qs</id>
-        <link href="https://www.youtube.com/shorts/muMKLdV07qs"/>
-        <updated>2026-08-15T07:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Ithratholam Enne | Christian Shorts #shorts #manoramachristiansongs]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amanushikam Official Teaser | Joemon Joshy | Nidhin K Nair  | Saju Navodaya | Rajesh Paravoor]]></title>
-        <id>https://www.youtube.com/watch?v=LcsoYwSmHek</id>
-        <link href="https://www.youtube.com/watch?v=LcsoYwSmHek"/>
-        <updated>2026-08-15T07:12:38.000Z</updated>
-        <author>
-            <name>GOODWILL ENTERTAINMENTS</name>
         </author>
     </entry>
 </feed>
