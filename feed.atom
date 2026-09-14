@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-14T19:39:40.208Z</updated>
+    <updated>2026-09-14T22:49:32.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സെപ്റ്റംബർ: 15, ഈ ജപമാല കേട്ടുകൊണ്ട് നിങ്ങളുടെ ദിവസം തുടങ്ങു അനുഗ്രഹീതമായിരിക്കും!!]]></title>
+        <id>https://www.youtube.com/watch?v=mK8_J4wPzr0</id>
+        <link href="https://www.youtube.com/watch?v=mK8_J4wPzr0"/>
+        <updated>2026-09-14T22:30:12.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 15 # Athiravile Prarthana 15th of September 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=rzvyE1dyoxM</id>
+        <link href="https://www.youtube.com/watch?v=rzvyE1dyoxM"/>
+        <updated>2026-09-14T20:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th SEP 2026]]></title>
         <id>https://www.youtube.com/watch?v=X1jw4xBDBFM</id>
@@ -10906,35 +10924,6 @@
         <summary type="html"><![CDATA[ഒരു വിരൽ തുമ്പിന്റെ തണൽ മതി മനസ്സിന് ശാന്തി കിട്ടാൻ... ✨ 'The Father' ആൽബത്തിലെ ആ ഐക്കോണിക് ഹിറ്റ്! 🙏❤️Album : The Father (Pithavu)Song : Aa Viral (M)Listen...]]></summary>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവംനിന്റെ ഉള്ളിലെ കനലറിയുന്നവൻ  |  Rev. Aneesh P Joseph | #motivationalshorts #shorts]]></title>
-        <id>https://www.youtube.com/shorts/kYjVtd4tEpM</id>
-        <link href="https://www.youtube.com/shorts/kYjVtd4tEpM"/>
-        <updated>2026-08-16T10:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Like ✔ Comment✔ Tag ✔ Share ✔ദൈവംനിന്റെ ഉള്ളിലെ കനലറിയുന്നവൻ#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubesho...]]></summary>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Dinam Video Song 8K|Mohanlal|Sarjano Khalid|Deepak Dev|]]></title>
-        <id>https://www.youtube.com/watch?v=Km4PEFwxMPc</id>
-        <link href="https://www.youtube.com/watch?v=Km4PEFwxMPc"/>
-        <updated>2026-08-16T09:06:57.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolakuruvi Oru Sandhesham | Parambara | KS Chithra  Evergreen Song | Mammootty Movie]]></title>
-        <id>https://www.youtube.com/shorts/hQNSA5Hh8ww</id>
-        <link href="https://www.youtube.com/shorts/hQNSA5Hh8ww"/>
-        <updated>2026-08-16T08:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Kolakuruvi Oru Sandhesham | Parambara | KS Chithra  Evergreen Song | Mammootty Movie #evergreensong #malayalammovie #oldmoviesongs #mammootty #malayalamroman...]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
