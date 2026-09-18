@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T21:19:23.327Z</updated>
+    <updated>2026-09-18T23:41:48.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10986,15 +10986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Once More - Jukebox | Arjun Das | Sona Olickal | Hesham Abdul Wahab | Vignesh Srikanth | Yuvaraj]]></title>
-        <id>https://www.youtube.com/watch?v=S_apHv6FotE</id>
-        <link href="https://www.youtube.com/watch?v=S_apHv6FotE"/>
-        <updated>2026-08-20T11:30:10.000Z</updated>
-        <author>
-            <name>Think Music India</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[സത്യം പറയാത്ത ചില ചോദ്യങ്ങൾ  | Rev. Aneesh P Joseph | #motivationalshorts #shorts]]></title>
         <id>https://www.youtube.com/shorts/eQiOdAE7ppo</id>
         <link href="https://www.youtube.com/shorts/eQiOdAE7ppo"/>
@@ -11011,15 +11002,6 @@
         <updated>2026-08-20T10:30:02.000Z</updated>
         <author>
             <name>Miraculous Melodies Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാലാഖമാരുടെ ദിവ്യഭോജ്യം Ft. KESTER, FR. JAISON KUDIYIRICKAL, JACOB KORATTY | Christian Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=p39WNcTMW_U</id>
-        <link href="https://www.youtube.com/watch?v=p39WNcTMW_U"/>
-        <updated>2026-08-20T10:06:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
