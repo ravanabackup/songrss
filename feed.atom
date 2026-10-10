@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T19:00:20.198Z</updated>
+    <updated>2026-10-10T23:00:39.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -10792,16 +10792,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[കായലിൻ പ്രഭാത ഗീതങ്ങൾ കേൾക്കുമീ | Anuraagini | Oru Kudakeezhil | Yesudas | Johnson | Evergreen Song]]></title>
-        <id>https://www.youtube.com/shorts/2xOmQiXTP1c</id>
-        <link href="https://www.youtube.com/shorts/2xOmQiXTP1c"/>
-        <updated>2026-09-11T08:30:08.000Z</updated>
-        <summary type="html"><![CDATA[കായലിൻ പ്രഭാത ഗീതങ്ങൾ കേൾക്കുമീ | Anuraagini | Oru Kudakeezhil | Yesudas | Johnson | Evergreen Song#evergreenhits #malayalammelodysong #yesudassongs #johnson...]]></summary>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Happy birthday, #aparnabalamurali 😍]]></title>
         <id>https://www.youtube.com/shorts/B8mm-53bIVg</id>
         <link href="https://www.youtube.com/shorts/B8mm-53bIVg"/>
@@ -10809,15 +10799,6 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Muzik247</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swapnangalil Viriyunna Paattukal l Evergreen Malayalam Film Songs Collection l]]></title>
-        <id>https://www.youtube.com/watch?v=KGJ0Wbd3jFY</id>
-        <link href="https://www.youtube.com/watch?v=KGJ0Wbd3jFY"/>
-        <updated>2026-09-11T07:30:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
