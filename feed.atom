@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T23:17:51.859Z</updated>
+    <updated>2026-10-12T02:56:06.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This is the Day #shorts #manoramamusic]]></title>
+        <id>https://www.youtube.com/shorts/FmJwl6tk-Yw</id>
+        <link href="https://www.youtube.com/shorts/FmJwl6tk-Yw"/>
+        <updated>2026-10-12T01:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Manorama Christian | This is the Day #shorts #manoramamusic]]></summary>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuvin Koodulla Vasam | Prathysha Geethangal | Kuttiyachan  | Old Songs]]></title>
+        <id>https://www.youtube.com/watch?v=zU5tIzFaw40</id>
+        <link href="https://www.youtube.com/watch?v=zU5tIzFaw40"/>
+        <updated>2026-10-11T23:30:11.000Z</updated>
+        <author>
+            <name>Prathyasha Geethangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒക്ടോബർ - 12, ഈ ദിനങ്ങളിൽ പരിശുദ്ധ അമ്മയോട് പ്രാർത്ഥിക്കൂ, ഈ പ്രാർത്ഥനയിലൂടെ അനുഗ്രഹം തേടാം!!]]></title>
         <id>https://www.youtube.com/watch?v=nKxzSbqd64g</id>
@@ -10571,15 +10590,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[പൂമാനമേ Video Song | Nirakkoottu | KS Chithra | Mammootty | Sumalatha]]></title>
-        <id>https://www.youtube.com/watch?v=2ktcvXg8v-A</id>
-        <link href="https://www.youtube.com/watch?v=2ktcvXg8v-A"/>
-        <updated>2026-09-12T14:30:33.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Devikulam Malayil Video Song | K. J. Yesudas & P. Madhuri | Thenaruvi | Evergreen Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=5Yvj27fynsU</id>
         <link href="https://www.youtube.com/watch?v=5Yvj27fynsU"/>
@@ -10606,16 +10616,6 @@
         <summary type="html"><![CDATA[Song : Lilly MalareyMovie :  VaravuSong Composed and Arranged by SAM CS Lyrics : B K HarinarayananSinger : M G SreekumarSubscribe Us 🔔 https://www.youtube.c...]]></summary>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naruthinkal Song Out Now #aarammovie #shorts #haricharan #moviesong #saijukurup]]></title>
-        <id>https://www.youtube.com/shorts/g_d9oLEnJ90</id>
-        <link href="https://www.youtube.com/shorts/g_d9oLEnJ90"/>
-        <updated>2026-09-12T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Presenting “Naruthinkal”, the lyrical video song from the Malayalam movie Aaram.Composed, Produced & Arranged by Rohit Gopalakrishnan Vocals -  Haricharan, A...]]></summary>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -10657,16 +10657,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gospel of Luke - Chapter 5 Verse 27 to 39 | Christian Shorts #shorts #manoramamusic #biblereading]]></title>
-        <id>https://www.youtube.com/shorts/PpyDhqPewgI</id>
-        <link href="https://www.youtube.com/shorts/PpyDhqPewgI"/>
-        <updated>2026-09-12T13:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Manorama Christian Malayalam | Gospel of Luke - Chapter 5 Verse 27 to 39 | Christian Shorts #shorts #manoramamusic #biblereading]]></summary>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thoovi Pathanje - Audio Song | Athiradi | Tovino Thomas | Basil Joseph | Vishnu Vijay]]></title>
         <id>https://www.youtube.com/watch?v=2-pKqnXliuo</id>
         <link href="https://www.youtube.com/watch?v=2-pKqnXliuo"/>
@@ -10676,31 +10666,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Naruthinkal Song Out Now #aarammovie #shorts #haricharan #moviesong #saijukurup]]></title>
-        <id>https://www.youtube.com/shorts/rw1fOsJv0zk</id>
-        <link href="https://www.youtube.com/shorts/rw1fOsJv0zk"/>
-        <updated>2026-09-12T12:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Presenting “Naruthinkal”, the lyrical video song from the Malayalam movie Aaram.Composed, Produced & Arranged by Rohit Gopalakrishnan Vocals -  Haricharan, A...]]></summary>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 12th of September 2026]]></title>
         <id>https://www.youtube.com/watch?v=18XCq9IsYsw</id>
         <link href="https://www.youtube.com/watch?v=18XCq9IsYsw"/>
         <updated>2026-09-12T12:30:31.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naruthinkal Song | Aaram | Saiju Kurup | Anju Kurian | Haricharan | Aarthi | Rajeesh Parameswaran]]></title>
-        <id>https://www.youtube.com/watch?v=GUVkAmkjvsc</id>
-        <link href="https://www.youtube.com/watch?v=GUVkAmkjvsc"/>
-        <updated>2026-09-12T12:30:06.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
     <entry>
