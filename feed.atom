@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T21:37:01.543Z</updated>
+    <updated>2026-10-14T00:41:48.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒക്ടോബർ - 14, ഈ ദിനങ്ങളിൽ പരിശുദ്ധ അമ്മയോട് പ്രാർത്ഥിക്കൂ, ഈ പ്രാർത്ഥനയിലൂടെ അനുഗ്രഹം തേടാം!!]]></title>
+        <id>https://www.youtube.com/watch?v=564peWtTpRA</id>
+        <link href="https://www.youtube.com/watch?v=564peWtTpRA"/>
+        <updated>2026-10-13T22:30:06.000Z</updated>
+        <author>
+            <name>Das Creations</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കേട്ടു കൊതിതീരാത്ത പഴയകാല മലയാള ഗാനങ്ങൾ | Timeless Hits]]></title>
         <id>https://www.youtube.com/watch?v=m6oWNWx1Hfg</id>
@@ -10792,15 +10801,6 @@
         <updated>2026-09-14T12:30:24.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilaava Kunnin - Audio Song | At Once | Najim Arshad | Sibu Sukumaran]]></title>
-        <id>https://www.youtube.com/watch?v=VbrwWrch25A</id>
-        <link href="https://www.youtube.com/watch?v=VbrwWrch25A"/>
-        <updated>2026-09-14T12:22:09.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
