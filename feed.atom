@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T18:55:27.490Z</updated>
+    <updated>2026-10-17T21:06:17.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 18 # Athiravile Prarthana 18th October 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=6yW0aIAHsMg</id>
+        <link href="https://www.youtube.com/watch?v=6yW0aIAHsMg"/>
+        <updated>2026-10-17T19:00:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎶Nimishangal Nimishangal… #matchpointfaith #matchpointcreations #matchpointcatholichymns]]></title>
         <id>https://www.youtube.com/shorts/-GJJv3cq7xI</id>
@@ -11043,34 +11052,6 @@
         <summary type="html"><![CDATA[Watch കരതാരിലെന്നെ കരുതുന്നതെന്നും #christiandevotionalsong #jesusshorts #christianshorts #christianmusic #churchmusic #churchsong #christianmotivationalvide...]]></summary>
         <author>
             <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ | Malayalam Christian Devotional Song |]]></title>
-        <id>https://www.youtube.com/shorts/ocaRsTkLWeI</id>
-        <link href="https://www.youtube.com/shorts/ocaRsTkLWeI"/>
-        <updated>2026-09-18T08:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Loke Njan En | ലോകെ ഞാനെൻ |Malayalam Christian Devotional song | Music SpreadTitle : Loke Njan En, ലോകെ ഞാനെൻSinger: Dr. Anjali B. ChandranLyrics : Pr. P. P....]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കരതാരിലെന്നെ കരുതുന്നതെന്നും | യേശുദേവൻ്റെ സ്നേഹം തുളുമ്പുന്ന ക്രിസ്ത്യൻ ഭക്തിഗാനങ്ങൾ |Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=LI3_97k47-Q</id>
-        <link href="https://www.youtube.com/watch?v=LI3_97k47-Q"/>
-        <updated>2026-09-18T07:25:39.000Z</updated>
-        <author>
-            <name>Jesus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ஜோதா அக்பர் (தமிழ்) - இதயம் இடம் மாறியதே தமிழ் பாடல்வரிகள் | ஏ.ஆர். ரஹ்மான்]]></title>
-        <id>https://www.youtube.com/watch?v=a8RdPnK-iQY</id>
-        <link href="https://www.youtube.com/watch?v=a8RdPnK-iQY"/>
-        <updated>2026-09-18T07:00:05.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
