@@ -2695,6 +2695,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5_TNQJi5OzA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5_TNQJi5OzA",
+          "publishedOn": "2026-10-18T21:52:00.000Z",
+          "wordCount": null,
+          "title": "ആഗതരായീടാം അണിചേർനിടാം Ft. John Britto Augustin, Anil Bhaskar, Balu | Christian song Malayalam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s4T36GIIBWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s4T36GIIBWE",
+          "publishedOn": "2026-10-18T21:31:38.000Z",
+          "wordCount": null,
+          "title": "പരിശുദ്ധ നാഥേ Parishudha Nadhe Ft. John Britto Augustin, Anil Bhaskar, Balu | Marian song Malayalam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/9IjbixW1dFs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9IjbixW1dFs",
+          "publishedOn": "2026-10-18T20:03:28.000Z",
+          "wordCount": 3383,
+          "title": "Krupanirayum Japamalamanikal Day 19",
+          "imageUrl": "https://i.ytimg.com/vi/9IjbixW1dFs/oar2.jpg?sqp=-oaymwEkCMQCENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCyoXw0S-FTFwIyzLXllyUdfl8_pA&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rbdun5EaNA4",
           "author": null,
           "description": "",
@@ -5167,16 +5197,6 @@
           "publishedOn": "2026-09-21T10:04:44.000Z",
           "wordCount": null,
           "title": "Oru Dinam Kanavin Malarvnam | ഒരു ദിനം കനവിൻ മലർ വനം | Big Brother Movie Song | Anand Bhaskar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NM0MK9bHN9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NM0MK9bHN9Q",
-          "publishedOn": "2026-09-19T09:29:30.000Z",
-          "wordCount": null,
-          "title": "Pakalanthi Njan Kinavu Kandu | പകലന്തി ഞാൻ കിനാവ് കണ്ടു | Muhabathin Kunjabdulla | Shahabaz Aman",
           "imageUrl": null
         }
       ]
@@ -11871,16 +11891,6 @@
           "wordCount": 4433,
           "title": "Daivam Kanivayi | ദൈവം കനിവായ് | Christian Devotional Song Malayalam | Music Spread",
           "imageUrl": "https://i.ytimg.com/vi/yQkBzdlbwwQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCTRocodIo-Zdnd70BKxgDvhPDYMg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/OsRvm_hURng",
-          "author": null,
-          "description": "Presenting Hit Christian Devotional Song Akkarakku Yathra....അക്കരയ്‌ക്ക് യാത്രSingers: Elizabeth S Mathew & Sibin ChowalloorOrchestration, Mix & Mastering: ...",
-          "link": "https://www.youtube.com/shorts/OsRvm_hURng",
-          "publishedOn": "2026-09-19T08:00:18.000Z",
-          "wordCount": 3856,
-          "title": "Akkarakku Yathra  | അക്കരയ്‌ക്ക് യാത്ര | Elizabeth  | Sibin  | Hit Christian song I  Music Spread",
-          "imageUrl": "https://i.ytimg.com/vi/OsRvm_hURng/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB48uMJZz5u65wjOe6N4J0JQ46_Sg&usqp=CCk"
         }
       ]
     }
