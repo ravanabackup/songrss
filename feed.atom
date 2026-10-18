@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-18T14:59:05.689Z</updated>
+    <updated>2026-10-18T17:49:09.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎶Rathriyilulla Ninte… #matchpointfaith #matchpointcreations #matchpointcatholichymns]]></title>
+        <id>https://www.youtube.com/shorts/glY5J1SSl6E</id>
+        <link href="https://www.youtube.com/shorts/glY5J1SSl6E"/>
+        <updated>2026-10-18T15:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Match Point Faith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 October 2026]]></title>
+        <id>https://www.youtube.com/shorts/y7mNyAnn_GM</id>
+        <link href="https://www.youtube.com/shorts/y7mNyAnn_GM"/>
+        <updated>2026-10-18T15:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannuneer Ennu Marumo| കണ്ണുനീർ എന്ന് മാറുമോ |Christian Devotional song Malayalam |]]></title>
+        <id>https://www.youtube.com/shorts/oj4Bphmeyeg</id>
+        <link href="https://www.youtube.com/shorts/oj4Bphmeyeg"/>
+        <updated>2026-10-18T15:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Presenting Christian Devotional song Malayalam Kannuneer Ennu Marumo, കണ്ണുനീർ എന്ന് മാറുമോ#malayalamchristiandevotionalsongs #newmalayalamchristiansongs #ch...]]></summary>
+        <author>
+            <name>Music Spread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bhagyanattil Pokum Njan | ഭാഗ്യനാട്ടില്‍ പോകും | Malayalam Christian devotional Song |]]></title>
         <id>https://www.youtube.com/shorts/jkkqVXhYypo</id>
@@ -10951,25 +10981,6 @@
         <updated>2026-09-19T07:00:37.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadiyum Paranjum | Ouseppachan #musicinterview #ouseppachan #malayalam #shortsfeed #shortsvideo]]></title>
-        <id>https://www.youtube.com/shorts/q4CuqnbB-vs</id>
-        <link href="https://www.youtube.com/shorts/q4CuqnbB-vs"/>
-        <updated>2026-09-19T05:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...]]></summary>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പള്ളിത്തേരുണ്ടോ ചതുരംഗക്കളമുണ്ടോ | Mazhavil Kavadi | G Venugopal | Johnson Evergreen Melody Song]]></title>
-        <id>https://www.youtube.com/watch?v=HMId6T1a7Po</id>
-        <link href="https://www.youtube.com/watch?v=HMId6T1a7Po"/>
-        <updated>2026-09-19T05:00:06.000Z</updated>
-        <author>
-            <name>MILLENNIUM MUSIC HUB</name>
         </author>
     </entry>
 </feed>
