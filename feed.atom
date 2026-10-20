@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T18:21:09.665Z</updated>
+    <updated>2026-10-20T21:58:07.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 21 # Athiravile Prarthana 21st of October 2026 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=PZwe-zRgbc4</id>
+        <link href="https://www.youtube.com/watch?v=PZwe-zRgbc4"/>
+        <updated>2026-10-20T19:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 21st October 26]]></title>
         <id>https://www.youtube.com/watch?v=Ti9PqlFDvn0</id>
@@ -11226,25 +11235,6 @@
         <updated>2026-09-21T10:04:44.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Christian devotional song Malayalam | Music Spread]]></title>
-        <id>https://www.youtube.com/shorts/uxl5MLk7Vso</id>
-        <link href="https://www.youtube.com/shorts/uxl5MLk7Vso"/>
-        <updated>2026-09-21T08:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Paadidam Sthothrasangeetham | Christian devotional song Malayalam | Reshma Elizabeth Alex | Music Spread | Maramon Convention 2008  #malayalamchristiansongs ...]]></summary>
-        <author>
-            <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[காலக்கூத்து - கண்ணுக்குள்ள தமிழ் பாடல்வரிகள் | ஜஸ்டின் பிரபாகரன்]]></title>
-        <id>https://www.youtube.com/watch?v=flFyVNIcCes</id>
-        <link href="https://www.youtube.com/watch?v=flFyVNIcCes"/>
-        <updated>2026-09-21T07:00:30.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
