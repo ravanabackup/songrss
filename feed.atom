@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T20:55:12.999Z</updated>
+    <updated>2026-10-22T23:43:32.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -11324,15 +11324,6 @@
         <updated>2026-09-23T09:04:08.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnu Thottene 4K Video Song| Sradha| Mohanlal| Abhirami| M G Sreekumar| Vishal Bharadwaj]]></title>
-        <id>https://www.youtube.com/watch?v=GGDzwCeLkpo</id>
-        <link href="https://www.youtube.com/watch?v=GGDzwCeLkpo"/>
-        <updated>2026-09-23T09:00:13.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
