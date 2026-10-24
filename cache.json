@@ -53,6 +53,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCvOUtcz7gP8f_5pb7VBHjWQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=THEOJWcASXM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=THEOJWcASXM",
+          "publishedOn": "2026-10-24T06:04:58.000Z",
+          "wordCount": null,
+          "title": "മനസ്സിനെ തഴുകി തലോടുന്ന ക്രിസ്‌തീയ ഗാനങ്ങൾ | #jinokunnumpurath #christiansongs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JJNL_H6PvUQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JJNL_H6PvUQ",
+          "publishedOn": "2026-10-24T04:13:50.000Z",
+          "wordCount": null,
+          "title": "കേൾക്കാൻ ആഗ്രഹിച്ച മനോഹര ഗാനങ്ങൾ | #jinokunnumpurath #zionclassics",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/SmXp4mDW85g",
           "author": null,
           "description": "Like ✔ Comment✔ Tag ✔ Share ✔#Shorts#malayalamshorts #christiansongshorts #jinokunnumpurath#malayalamchristiansong #youtubeshorts #jesus#trendingwhatsappstat...",
@@ -1458,16 +1478,6 @@
           "wordCount": null,
           "title": "Hey Sathyabhama Chare Va 4K Video Song | Lakshmi | Manjari, Jassie Gift, Shankar Mahadevan",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DKuZZYX-Lq0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DKuZZYX-Lq0",
-          "publishedOn": "2026-09-24T14:00:06.000Z",
-          "wordCount": null,
-          "title": "മലയാളികളുടെ സ്വന്തം ഇഷ്ട ഗാനങ്ങൾ ❤️ ✨| EVERGREEN HITS MALAYALAM | OLD HITS MALAYALAM",
-          "imageUrl": null
         }
       ]
     },
@@ -2075,16 +2085,6 @@
           "wordCount": null,
           "title": "തളരാതെ മകനേ രക്ഷ നിന്റെ അരികിലുണ്ട് | Christian Video Songs Malayalam | Rithuraj | Joji Johns",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/h-ZvYV_dufk",
-          "author": null,
-          "description": "WATCH FULL VIDEO LINK : https://youtu.be/27PzAw8hjV4Whatsapp Channel - https://whatsapp.com/channel/0029VaBQXJlFcow2GK1Yvu1VWelcome to Music Shack Christian ...",
-          "link": "https://www.youtube.com/shorts/h-ZvYV_dufk",
-          "publishedOn": "2026-09-24T13:10:42.000Z",
-          "wordCount": 3843,
-          "title": "Njnunarumbozhum........#christiansongsmalayalam #wilsonpiravomsongs #jojijohnschristiansongs",
-          "imageUrl": "https://i.ytimg.com/vi/h-ZvYV_dufk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBPaiWvbOs5wsz539NRd_GjQv4vZg&usqp=CCk"
         }
       ]
     },
@@ -2469,16 +2469,6 @@
           "wordCount": null,
           "title": "Akkarakku Yathra Cheyyum | അക്കരയ്‌ക്ക് യാത്ര ചെയ്യും | Binoy Chacko | Match Point Faith |",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TU-005HDPXU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TU-005HDPXU",
-          "publishedOn": "2026-09-24T14:30:08.000Z",
-          "wordCount": null,
-          "title": "Malayalam Christian Songs | Hits Of Anju Joseph, Merin Gregory, Maria Kolady | Match Point Faith|",
-          "imageUrl": null
         }
       ]
     },
@@ -2614,6 +2604,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA",
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/SNjmQJVneLs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/SNjmQJVneLs",
+          "publishedOn": "2026-10-24T08:05:47.000Z",
+          "wordCount": 3510,
+          "title": "Krupanirayum Japamalamanikal day 24",
+          "imageUrl": "https://i.ytimg.com/vi/SNjmQJVneLs/oar2.jpg?sqp=-oaymwEkCMQCENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD5A5DNxq-cwN3isW3oJUDCEShOzA"
+        },
         {
           "id": "https://www.youtube.com/watch?v=LH0ECNlA-oQ",
           "author": null,
@@ -4143,36 +4143,6 @@
           "wordCount": null,
           "title": "Japamala 25th of September 26 # Mathavinte Japamala Dhukhathinte Rahasyangal 25th of September 26",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JK5uMcAr-8E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JK5uMcAr-8E",
-          "publishedOn": "2026-09-24T20:00:01.000Z",
-          "wordCount": null,
-          "title": "രാവിലെ പ്രാര്‍ത്ഥന September 25 # Athiravile Prarthana 25th of September 2026 Morning Prayer & Songs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iSM-3IgSd6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iSM-3IgSd6c",
-          "publishedOn": "2026-09-24T19:00:01.000Z",
-          "wordCount": null,
-          "title": "മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th SEP 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YTkJuEZGDAk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YTkJuEZGDAk",
-          "publishedOn": "2026-09-24T12:30:11.000Z",
-          "wordCount": null,
-          "title": "ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 24th of September 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -4707,16 +4677,6 @@
           "wordCount": null,
           "title": "Aikya Munnani Video Song | K. J. Yesudas & P. Madhuri | Ningalenne Communistakki | Evergreen Song",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/lHieD5Lr2-w",
-          "author": null,
-          "description": "Listen to the evergreen Malayalam film song “Ambalapparambile” sung by the legendary K. J. Yesudas from the classic movie Ningalenne Communistakki.🎵 Song: A...",
-          "link": "https://www.youtube.com/shorts/lHieD5Lr2-w",
-          "publishedOn": "2026-09-24T14:00:24.000Z",
-          "wordCount": 3604,
-          "title": "Ambalapparambile🎶 | K. J. Yesudas | Ningalenne Communistakki | Evergreen MalayalamSong #shorts",
-          "imageUrl": "https://i.ytimg.com/vi/lHieD5Lr2-w/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB5O0aHJlDtIrp4qhzLIYa0XVzflA&usqp=CCk"
         }
       ]
     },
@@ -4725,6 +4685,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdYn0MxeGNvwiiYabspWumg",
       "siteUrl": "https://www.youtube.com/channel/UCdYn0MxeGNvwiiYabspWumg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9x1nEKuHX6g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9x1nEKuHX6g",
+          "publishedOn": "2026-10-24T09:30:10.000Z",
+          "wordCount": null,
+          "title": "Punchiri Video Song | Uncaptured | De Blando | Rafeeq Ahamed | Rasikapriya | Kichen | Ebin Augustine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hsFMVeZZC6k",
+          "author": null,
+          "description": "URUKUMEE PAKAL  Lyrical Video Out Now on  ⁨@SainaAudio⁩  ___________________________________________#urukumeepakal #kolusu #kolusushortfilm#malayalam4ksongs ...",
+          "link": "https://www.youtube.com/shorts/hsFMVeZZC6k",
+          "publishedOn": "2026-10-24T06:38:09.000Z",
+          "wordCount": 3916,
+          "title": "URUKUMEE PAKAL  Lyrical Video Out Now on @SainaAudio",
+          "imageUrl": "https://i.ytimg.com/vi/hsFMVeZZC6k/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLByao-UDjBFit5WrDtxorEocVf45g"
+        },
         {
           "id": "https://www.youtube.com/watch?v=_M6gnkFK8Ds",
           "author": null,
@@ -5000,6 +4980,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCjX6XaM9EEfdH2gh90QZ8pQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wAQBvCrlx24",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wAQBvCrlx24",
+          "publishedOn": "2026-10-24T06:56:25.000Z",
+          "wordCount": null,
+          "title": "Shahanay Moolunnunde | ഷഹനായ് മൂളുന്നുണ്ടേ |Edakkad Battalion 06 |Sithara Krishnakumar | Yazin Nizar",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kdUxOfWsb4k",
           "author": null,
           "description": "",
@@ -5176,6 +5166,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqow9MwWxJyKZfWbZ-JFI7Q",
       "siteUrl": "https://www.youtube.com/channel/UCqow9MwWxJyKZfWbZ-JFI7Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/gmmKjRZdlt8",
+          "author": null,
+          "description": "Content Owner: Manorama MusicPublished by The Malayala Manorama Company Private LimitedFacebook: http://www.facebook.com/manoramasongs Instagram: https://www...",
+          "link": "https://www.youtube.com/shorts/gmmKjRZdlt8",
+          "publishedOn": "2026-10-24T05:30:08.000Z",
+          "wordCount": 3292,
+          "title": "Munthirippadam | Kochi Rajavu  #shortsfeed #shortsvideo #reels #dileep #shorts #vidyasagar",
+          "imageUrl": "https://i.ytimg.com/vi/gmmKjRZdlt8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBasNOdv4QM-VVh4xwzFkGkr7SFRw"
+        },
         {
           "id": "https://www.youtube.com/watch?v=VhtWt4haBcc",
           "author": null,
@@ -5981,6 +5981,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCQnCVVUN-9ylqNYeAU7kONA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=y8IDURuQp3I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=y8IDURuQp3I",
+          "publishedOn": "2026-10-24T05:53:34.000Z",
+          "wordCount": null,
+          "title": "Chanchakkam Thenniyum Malayalam Video Song | Johnnie Walker | K. J. Yesudas",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wvHXJCbywF0",
           "author": null,
           "description": "",
@@ -6171,6 +6181,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXQ1x1oyK0ArXXjoJYEmu4A",
       "siteUrl": "https://www.youtube.com/channel/UCXQ1x1oyK0ArXXjoJYEmu4A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/8gUM1RlVqW4",
+          "author": null,
+          "description": "Manorama Christian Malayalam | Nithyasnehathal | Dr. Maria Oommen | Shorts",
+          "link": "https://www.youtube.com/shorts/8gUM1RlVqW4",
+          "publishedOn": "2026-10-24T01:30:12.000Z",
+          "wordCount": 3776,
+          "title": "Nithyasnehathal | Dr. Maria Oommen | Shorts",
+          "imageUrl": "https://i.ytimg.com/vi/8gUM1RlVqW4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCaiTuPdzUO16lfSYJtOqe1nrF5QA"
+        },
         {
           "id": "https://www.youtube.com/watch?v=vhcNcU3N8ss",
           "author": null,
@@ -6770,16 +6790,6 @@
           "wordCount": null,
           "title": "Yeshuvodu Chernnirippathethra Modhame | Maria Kolady | Malayalam Christian Devotional Songs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/vdqiD3dUUwM",
-          "author": null,
-          "description": "Manorama Christian Malayalam | Gospel of Luke - Chapter 8 Verse 26 to 39 | Christian Shorts #shorts #manoramamusic #biblereading",
-          "link": "https://www.youtube.com/shorts/vdqiD3dUUwM",
-          "publishedOn": "2026-09-24T13:30:39.000Z",
-          "wordCount": 3391,
-          "title": "Gospel of Luke - Chapter 8 Verse 26 to 39 | Christian Shorts #shorts #manoramamusic #biblereading",
-          "imageUrl": "https://i.ytimg.com/vi/vdqiD3dUUwM/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAJMaPZdeZClgFJx1G2SIdBTp11EQ&usqp=CCk"
         }
       ]
     },
@@ -7364,16 +7374,6 @@
           "wordCount": 2997,
           "title": "25 September 2026",
           "imageUrl": "https://i.ytimg.com/vi/WNSSIVatods/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBEjrj_QgjiPMR7NIKwtTTJexeArw&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/8kMED3rNZVk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/8kMED3rNZVk",
-          "publishedOn": "2026-09-24T16:17:34.000Z",
-          "wordCount": 3039,
-          "title": "24 September 2026",
-          "imageUrl": "https://i.ytimg.com/vi/8kMED3rNZVk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAoIak5xhvFg_nwxCia0Pvoi_xZmw&usqp=CCk"
         }
       ]
     },
@@ -7382,6 +7382,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3xXyPhpXFVctN02xJTyh_g",
       "siteUrl": "https://www.youtube.com/channel/UC3xXyPhpXFVctN02xJTyh_g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/dJbuVqJjdz8",
+          "author": null,
+          "description": "Kanavukale Viriyumo | കനവുകളെ വിരിയുമോ | Avarkoppam | Gireesh Narayanan | Jyotsna | Audio Song  #malayalammelodysong #feelgoodsong #jyotsna #newsongs #romant...",
+          "link": "https://www.youtube.com/shorts/dJbuVqJjdz8",
+          "publishedOn": "2026-10-24T08:30:06.000Z",
+          "wordCount": 3316,
+          "title": "Kanavukale Viriyumo | കനവുകളെ വിരിയുമോ | Avarkoppam | Gireesh Narayanan | Jyotsna | Audio Song",
+          "imageUrl": "https://i.ytimg.com/vi/dJbuVqJjdz8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA85WmOgJvuqGjB__VhY0bHbse-aQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Be-asYRBzAo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Be-asYRBzAo",
+          "publishedOn": "2026-10-24T04:30:36.000Z",
+          "wordCount": null,
+          "title": "Kanavukale Viriyumo | കനവുകളെ വിരിയുമോ | Avarkoppam | Gireesh Narayanan | Jyotsna | Audio Song",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/3bF_PPWZcic",
           "author": null,
@@ -8341,26 +8361,6 @@
           "wordCount": null,
           "title": "നീലക്കുയിലേ ചൊല്ലൂ | Neelakuyile Chollu | Adwaitham | MG Sreekumar | Sujatha Mohan | Mohanlal Movie",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/c5lPPtSFu0w",
-          "author": null,
-          "description": "Punnayellal Veregathi | പുന്നയെല്ലൽ വേറെ ഗതി | Adwaitham | MG Sreekumar | Kaithapram Song#evergreenmalayalamsong #oldenhitsongs #feelgoodmusic #sujathamohans...",
-          "link": "https://www.youtube.com/shorts/c5lPPtSFu0w",
-          "publishedOn": "2026-09-24T15:00:36.000Z",
-          "wordCount": 3291,
-          "title": "Punnayellal Veregathi | പുന്നയെല്ലൽ വേറെ ഗതി | Adwaitham | MG Sreekumar | Kaithapram Song",
-          "imageUrl": "https://i.ytimg.com/vi/c5lPPtSFu0w/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDv6UIOdNN-IgYmaha-lm4CB2myUg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K6Bb4Z41b-I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K6Bb4Z41b-I",
-          "publishedOn": "2026-09-24T14:30:33.000Z",
-          "wordCount": null,
-          "title": "Punnayellal Veregathi | പുന്നയെല്ലൽ വേറെ ഗതി | Adwaitham | MG Sreekumar | Kaithapram Song",
-          "imageUrl": null
         }
       ]
     },
@@ -8708,16 +8708,6 @@
           "wordCount": 3119,
           "title": "A melody that feels like love at first listen! ❤️🎶 Ethetho Swapnamo.",
           "imageUrl": "https://i.ytimg.com/vi/DozM6PEptUU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBuG5AiLW0xdkCwd_MneT4Na6UEng&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/r6rr7WNSGkA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/r6rr7WNSGkA",
-          "publishedOn": "2026-09-24T13:10:31.000Z",
-          "wordCount": 3384,
-          "title": "🎶 A melody you’ll want on repeat! ❤️Thone Mohangal from Adi is our Song Of The Day! ✨",
-          "imageUrl": "https://i.ytimg.com/vi/r6rr7WNSGkA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBI18oB9ns-KqLB3QeiGX55wGH5uQ&usqp=CCk"
         }
       ]
     },
@@ -8726,6 +8716,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTNtRdBAiZtHP9w7JinzfUg",
       "siteUrl": "https://www.youtube.com/channel/UCTNtRdBAiZtHP9w7JinzfUg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3kAS3TM4t_I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3kAS3TM4t_I",
+          "publishedOn": "2026-10-24T07:00:20.000Z",
+          "wordCount": null,
+          "title": "கோச்சடையான் - மெதுவாகத்தான் தமிழ் பாடல்வரிகள் | ஏ. ஆர். ரகுமான்",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QHQUA9jgjIQ",
           "author": null,
@@ -9752,6 +9752,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7oE54x62E7AIO5GkdnLTSQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4PZvGtczE_Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4PZvGtczE_Q",
+          "publishedOn": "2026-10-24T06:00:30.000Z",
+          "wordCount": null,
+          "title": "Swapnangal Than Theyyam Video Song | HD | Season Movie Song | K.S. Chithra | Ilaiyaraaja | HD",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Wgef255gLS0",
           "author": null,
           "description": "",
@@ -9862,16 +9872,6 @@
           "publishedOn": "2026-09-25T08:39:47.000Z",
           "wordCount": null,
           "title": "Preshakarude Sradhakku Official Teaser | Nowshad Nassar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OGLjpHfg4Ao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OGLjpHfg4Ao",
-          "publishedOn": "2026-09-24T14:00:24.000Z",
-          "wordCount": null,
-          "title": "Parayathe Parayunnoro Kathakal Video Song | Amanushikam | Nidhin K Nair | Rejan Reghu | Jomon Joshy",
           "imageUrl": null
         }
       ]
@@ -10411,6 +10411,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLbdVvreihwZRL6kwuEUYsA",
       "siteUrl": "https://www.youtube.com/channel/UCLbdVvreihwZRL6kwuEUYsA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=h21NToPpzOs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h21NToPpzOs",
+          "publishedOn": "2026-10-24T06:31:21.000Z",
+          "wordCount": null,
+          "title": "Indra Video Song | Once More | Arjun Das | Sona Olickal |Hesham|Hanan Shaah|Vignesh Srikanth|Yuvaraj",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ar6hOTTWC6Y",
           "author": null,
@@ -11214,16 +11224,6 @@
           "wordCount": null,
           "title": "പഴയ പാട്ടുകളുടെ മാസ്മരികത | Evergreen Malayalam Bass Boosted Songs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PvXFm1V8hDo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PvXFm1V8hDo",
-          "publishedOn": "2026-09-24T16:45:01.000Z",
-          "wordCount": null,
-          "title": "ഹൃദയം കവരുന്ന ഗാനങ്ങളുടെ ശേഖരം | The Ultimate Golden Era Malayalam Melody Collection",
-          "imageUrl": null
         }
       ]
     },
@@ -11232,6 +11232,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7iXvWEhPcjF-n-PzP48Gg",
       "siteUrl": "https://www.youtube.com/channel/UCN7iXvWEhPcjF-n-PzP48Gg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/DePiXvhBArk",
+          "author": null,
+          "description": "Paadidam Sthothrasangeetham | Christian devotional song Malayalam | Reshma Elizabeth Alex | Music Spread | Maramon Convention 2008  #malayalamchristiansongs ...",
+          "link": "https://www.youtube.com/shorts/DePiXvhBArk",
+          "publishedOn": "2026-10-24T08:00:38.000Z",
+          "wordCount": 3716,
+          "title": "Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Christian devotional song Malayalam |",
+          "imageUrl": "https://i.ytimg.com/vi/DePiXvhBArk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCFhfpAIdS2Vn_iWBrpRcd4f4BTZA"
+        },
         {
           "id": "https://www.youtube.com/shorts/l0ojoZP_fAs",
           "author": null,
@@ -12221,26 +12231,6 @@
           "wordCount": 4387,
           "title": "Snehathin idayanam Yeshuve | സ്നേഹത്തിൻ ഇടയനാം | Malayalam Christian devotional Song | Music Spread",
           "imageUrl": "https://i.ytimg.com/vi/t0XR2Sd2fB8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAQpKszKua_Xy7nFtHaB_OeBIVJaA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/t3cuOvmKF2A",
-          "author": null,
-          "description": "Shudhathmave Vannennullil | ശുദ്ധാത്മാവേ വന്നെന്നുള്ളിൽ | Christian devotional song Malayalam | Reshma Elizabeth Alex | Music Spread | Maramon Convention son...",
-          "link": "https://www.youtube.com/shorts/t3cuOvmKF2A",
-          "publishedOn": "2026-09-24T15:30:24.000Z",
-          "wordCount": 4229,
-          "title": "Shudhathmave Vannennullil | Maramon convention song | Christian song Malayalam |",
-          "imageUrl": "https://i.ytimg.com/vi/t3cuOvmKF2A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCiZ4fjqf8B87YQBt6tABhBfuc7BA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/sIF8RCScExk",
-          "author": null,
-          "description": "Paadidam Sthothrasangeetham | Christian devotional song Malayalam | Reshma Elizabeth Alex | Music Spread | Maramon Convention 2008  #malayalamchristiansongs ...",
-          "link": "https://www.youtube.com/shorts/sIF8RCScExk",
-          "publishedOn": "2026-09-24T14:30:09.000Z",
-          "wordCount": 3740,
-          "title": "Paadidam Sthothra  |പാടിടാം സ്തോത്രസംഗീതം |Christian devotional song Malayalam | Music Spread",
-          "imageUrl": "https://i.ytimg.com/vi/sIF8RCScExk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCKJIH30ueNiG0MGFgSbjEiguk7Ew&usqp=CCk"
         }
       ]
     }
