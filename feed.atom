@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravanabackup.github.io/songrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-02T18:55:04.803Z</updated>
+    <updated>2026-11-03T01:23:05.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravanabackup.github.io/songrss/index.html"/>
     <link rel="self" href="https://ravanabackup.github.io/songrss/feed.atom"/>
@@ -12011,15 +12011,6 @@
         <summary type="html"><![CDATA[Innolam Enne Nadathiya Nadha | ഇന്നോളം എന്നെ നടത്തിയ നാഥാ | Music Spread | Malayalam Christian Song | Maramon convention songPresenting super hit Maramon con...]]></summary>
         <author>
             <name>Music Spread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[கனா - சவால் தமிழ் பாடல்வரிகள் | திபு நினன் தாமஸ்]]></title>
-        <id>https://www.youtube.com/watch?v=I2k1qT6-Z6U</id>
-        <link href="https://www.youtube.com/watch?v=I2k1qT6-Z6U"/>
-        <updated>2026-10-04T07:00:06.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
